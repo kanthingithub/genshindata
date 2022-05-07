@@ -1,0 +1,1052 @@
+{
+  "name": "Eula",
+  "fullname": "Eula",
+  "title": "Vũ Điệu Bọt Biển",
+  "description": "\"Kỵ Sĩ Sóng Nước\" xuất thân từ gia tộc cổ xưa, đội trưởng tiểu đội du kích thuộc Đội Kỵ Sĩ Tây Phong. Là hậu duệ của quý tộc cũ nhưng lại gia nhập Đội Kỵ Sĩ Tây Phong - kẻ thù không đội trời chung, sự việc này đến nay vẫn là một ẩn số lớn của Mondstadt.",
+  "rarity": "5",
+  "element": "Băng",
+  "weapontype": "Trọng Kiếm",
+  "substat": "ST Bạo Kích",
+  "gender": "nữ",
+  "body": "LADY",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Đội Kỵ Sĩ Tây Phong",
+  "birthdaymmdd": "10/25",
+  "birthday": "25 tháng 10",
+  "constellation": "Cung Lãng Mạt",
+  "cv": {
+    "english": "Suzie Yeung",
+    "chinese": "子音",
+    "japanese": "佐藤利奈",
+    "korean": "Kim Hyeon-ji"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Mảnh Ngọc Băng Vụn",
+        "count": 1
+      },
+      {
+        "name": "Hạt Bồ Công Anh",
+        "count": 3
+      },
+      {
+        "name": "Mặt Nạ Vỡ",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Ngọc Băng Vỡ",
+        "count": 3
+      },
+      {
+        "name": "Tinh Hoa Ngưng Kết",
+        "count": 2
+      },
+      {
+        "name": "Hạt Bồ Công Anh",
+        "count": 10
+      },
+      {
+        "name": "Mặt Nạ Vỡ",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Ngọc Băng Vỡ",
+        "count": 6
+      },
+      {
+        "name": "Tinh Hoa Ngưng Kết",
+        "count": 4
+      },
+      {
+        "name": "Hạt Bồ Công Anh",
+        "count": 20
+      },
+      {
+        "name": "Mặt Nạ Bẩn",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Ngọc Băng",
+        "count": 3
+      },
+      {
+        "name": "Tinh Hoa Ngưng Kết",
+        "count": 8
+      },
+      {
+        "name": "Hạt Bồ Công Anh",
+        "count": 30
+      },
+      {
+        "name": "Mặt Nạ Bẩn",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Ngọc Băng",
+        "count": 6
+      },
+      {
+        "name": "Tinh Hoa Ngưng Kết",
+        "count": 12
+      },
+      {
+        "name": "Hạt Bồ Công Anh",
+        "count": 45
+      },
+      {
+        "name": "Mặt Nạ Xui Xẻo",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Ngọc Băng",
+        "count": 6
+      },
+      {
+        "name": "Tinh Hoa Ngưng Kết",
+        "count": 20
+      },
+      {
+        "name": "Hạt Bồ Công Anh",
+        "count": 60
+      },
+      {
+        "name": "Mặt Nạ Xui Xẻo",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Eula.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210510/2021051011361876265.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210510/2021051011383243523.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/6840f27db9745020aad45853bff79c7c.png",
+    "nameicon": "UI_AvatarIcon_Eula",
+    "nameiconcard": "UI_AvatarIcon_Eula_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Eula",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Eula",
+    "namesideicon": "UI_AvatarIcon_Side_Eula"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Eula"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1029.5855712890625,
+      "attack": 26.62660026550293,
+      "defense": 58.45391082763672,
+      "specialized": 0.5
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2670.7450760040956,
+      "attack": 69.06940378038371,
+      "defense": 151.62945059596495,
+      "specialized": 0.5
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3553.5216262970644,
+      "attack": 91.89763749925578,
+      "defense": 201.74954870997863,
+      "specialized": 0.5
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5317.201770792366,
+      "attack": 137.5090053284348,
+      "defense": 301.8811014139719,
+      "specialized": 0.5
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5944.437793741585,
+      "attack": 153.72906567694554,
+      "defense": 337.4927537882395,
+      "specialized": 0.596000000834465
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6839.14761198865,
+      "attack": 176.86758019037097,
+      "defense": 388.2891998446321,
+      "specialized": 0.596000000834465
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7675.462187183963,
+      "attack": 198.49432732171863,
+      "defense": 435.77139283779616,
+      "specialized": 0.69200000166893
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8579.438094904996,
+      "attack": 221.8724765652023,
+      "defense": 487.0939138343747,
+      "specialized": 0.69200000166893
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9206.67417888937,
+      "attack": 238.09253882106168,
+      "defense": 522.7055776527341,
+      "specialized": 0.69200000166893
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 10118.887156081328,
+      "attack": 261.68371082076646,
+      "defense": 574.4957517883631,
+      "specialized": 0.69200000166893
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10746.122995925078,
+      "attack": 277.90377307662584,
+      "defense": 610.1074003479334,
+      "specialized": 0.7879999876022339
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11668.631573538703,
+      "attack": 301.7612044767784,
+      "defense": 662.4820990978806,
+      "specialized": 0.7879999876022339
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12295.867657523078,
+      "attack": 317.9812667326378,
+      "defense": 698.0937476574509,
+      "specialized": 0.8840000033378601
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 13225.583793659927,
+      "attack": 342.0250962186219,
+      "defense": 750.8776498723164,
+      "specialized": 0.8840000033378601
+    }
+  },
+  "version": "1.5",
+  "constellations": {
+    "c1": {
+      "name": "Ảo Ảnh Của Sóng",
+      "effect": "Sau khi tiêu hao hiệu quả Trái Tim Băng Giá của **Lốc Xoáy Băng Hàn**, buff sát thương vật lý của Eula tăng 30%, kéo dài 6s.\nMỗi khi tiêu hao 1 tầng Trái Tim Băng Giá đều khiến hiệu ứng này kéo dài thêm 6s, tối đa không vượt quá 18s."
+    },
+    "c2": {
+      "name": "Thiếu Nữ Của Bọt Biển",
+      "effect": "Rút ngắn CD khi nhấn giữ **Lốc Xoáy Băng Hàn**, khiến CD giảm xuống bằng với nhấn buông."
+    },
+    "c3": {
+      "name": "Huyết Mạch Của Lawrence",
+      "effect": "Cấp kỹ năng **Thanh Kiếm Sóng Nước** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "Sức Mạnh Của Kẻ Tự Ti",
+      "effect": "Đối với địch có HP dưới 50%, sát thương tạo thành của Kiếm Ánh Sáng tăng 25%."
+    },
+    "c5": {
+      "name": "Tố Chất Kỵ Sĩ",
+      "effect": "Cấp kỹ năng **Lốc Xoáy Băng Hàn** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Nghĩa Vụ Cao Quý",
+      "effect": "Kiếm Ánh Sáng được tạo ra từ **Thanh Kiếm Sóng Nước** nhận ngay 5 tầng năng lượng. Khi tấn công thường, Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ gây sát thương khiến nó tích tụ số tầng năng lượng, sẽ có 50% tỷ lệ nhận thêm 1 tầng."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Eula_02.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Eula_01.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Eula_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Eula_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Eula_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Eula_04.png",
+      "constellation": "Eff_UI_Talent_Eula"
+    },
+    "version": "1.5"
+  },
+  "talent": {
+    "name": "Eula",
+    "combat1": {
+      "name": "Tấn Công Thường: Tây Phong Kiếm - Tông Thất",
+      "info": "**Tấn Công Thường**\nThực hiện tối đa 5 lần chém liên tiếp.\n\n**Trọng Kích**\nDuy trì tiêu hao thể lực, chém nhanh liên tiếp.\nSau khi Trọng Kích kết thúc, sẽ bổ một nhát cực mạnh.\n\n**Tấn Công Khi Đáp**\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường, đồng thời gây sát thương phạm vi khi chạm đất.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "89.73%",
+            "97.04%",
+            "104.34%",
+            "114.77%",
+            "122.08%",
+            "130.43%",
+            "141.90%",
+            "153.38%",
+            "164.86%",
+            "177.38%",
+            "191.72%",
+            "208.60%",
+            "225.47%",
+            "242.34%",
+            "260.75%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "93.55%",
+            "101.17%",
+            "108.78%",
+            "119.66%",
+            "127.27%",
+            "135.98%",
+            "147.94%",
+            "159.91%",
+            "171.87%",
+            "184.93%",
+            "199.88%",
+            "217.47%",
+            "235.06%",
+            "252.65%",
+            "271.84%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "56.80%+56.80%",
+            "61.42%+61.42%",
+            "66.04%+66.04%",
+            "72.65%+72.65%",
+            "77.27%+77.27%",
+            "82.56%+82.56%",
+            "89.82%+89.82%",
+            "97.09%+97.09%",
+            "104.35%+104.35%",
+            "112.28%+112.28%",
+            "121.36%+121.36%",
+            "132.04%+132.04%",
+            "142.72%+142.72%",
+            "153.40%+153.40%",
+            "165.05%+165.05%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "112.64%",
+            "121.81%",
+            "130.98%",
+            "144.08%",
+            "153.25%",
+            "163.72%",
+            "178.13%",
+            "192.54%",
+            "206.95%",
+            "222.67%",
+            "240.68%",
+            "261.86%",
+            "283.03%",
+            "304.21%",
+            "327.32%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 5",
+          "parameters": [
+            "71.83%+71.83%",
+            "77.68%+77.68%",
+            "83.53%+83.53%",
+            "91.88%+91.88%",
+            "97.73%+97.73%",
+            "104.41%+104.41%",
+            "113.60%+113.60%",
+            "122.79%+122.79%",
+            "131.97%+131.97%",
+            "142.00%+142.00%",
+            "153.48%+153.48%",
+            "166.99%+166.99%",
+            "180.49%+180.49%",
+            "194.00%+194.00%",
+            "208.74%+208.74%"
+          ]
+        },
+        {
+          "name": "Sát Thương Trọng Kích Tuần Hoàn",
+          "parameters": [
+            "68.80%",
+            "74.40%",
+            "80.00%",
+            "88.00%",
+            "93.60%",
+            "100.00%",
+            "108.80%",
+            "117.60%",
+            "126.40%",
+            "136.00%",
+            "147.00%",
+            "159.94%",
+            "172.87%",
+            "185.81%",
+            "199.92%"
+          ]
+        },
+        {
+          "name": "Sát Thương Trọng Kích Chí Mạng",
+          "parameters": [
+            "124.40%",
+            "134.52%",
+            "144.65%",
+            "159.12%",
+            "169.24%",
+            "180.81%",
+            "196.72%",
+            "212.64%",
+            "228.55%",
+            "245.90%",
+            "265.79%",
+            "289.18%",
+            "312.57%",
+            "335.96%",
+            "361.48%"
+          ]
+        },
+        {
+          "name": "Thể lực Trọng Kích tiêu hao",
+          "parameters": [
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm"
+          ]
+        },
+        {
+          "name": "Thời Gian Tối Đa",
+          "parameters": [
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi",
+          "parameters": [
+            "74.59%",
+            "80.66%",
+            "86.73%",
+            "95.40%",
+            "101.47%",
+            "108.41%",
+            "117.95%",
+            "127.49%",
+            "137.03%",
+            "147.44%",
+            "159.37%",
+            "173.39%",
+            "187.41%",
+            "201.44%",
+            "216.74%"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "149.14%/186.29%",
+            "161.28%/201.45%",
+            "173.42%/216.62%",
+            "190.77%/238.28%",
+            "202.91%/253.44%",
+            "216.78%/270.77%",
+            "235.86%/294.60%",
+            "254.93%/318.42%",
+            "274.01%/342.25%",
+            "294.82%/368.25%",
+            "318.67%/398.03%",
+            "346.71%/433.06%",
+            "374.75%/468.08%",
+            "402.79%/503.11%",
+            "433.38%/541.32%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Lốc Xoáy Băng Hàn",
+      "info": "Cực hàn băng khí, cực tốc kiếm vũ.\n\n**Nhấn**\nTấn công nhanh, gây Sát Thương Nguyên Tố Băng.\nKhi đánh trúng kẻ địch sẽ khiến Eula nhận được 1 tầng hiệu quả Trái Tim Băng Giá, tối đa cộng dồn 2 lần. Mỗi 0.3s chỉ kích hoạt 1 lần.\n\n**Trái Tim Băng Giá**\nTăng khả năng phòng thủ và kháng gián đoạn của Eula.\n\n**Nhấn giữ**\nTiêu hao tất cả hiệu quả Trái Tim Băng Giá và múa đại kiếm chém về phía trước, gây Sát Thương Nguyên Tố Băng diện rộng cho địch phía trước.\nNếu tiêu hao hiệu quả Trái Tim Băng Giá, sẽ làm giảm Kháng Vật Lý và Kháng Nguyên Tố Băng của kẻ địch bên cạnh.\nMỗi một tầng Trái Tim Băng Giá bị tiêu hao sẽ chuyển hóa thành 1 thanh Băng Vũ Kiếm, gây Sát Thương Nguyên Tố Băng cho địch xung quanh.",
+      "description": "\"Những con sóng cuộn trào nuốt chửng chiếc vương miện của quý tộc. Và mãi đến sau này, mỗi bọt nước giữa những con sóng băng giá lại phản chiếu ra một chiếc vương miện vàng, mỗi bọt nước đều tỏa sáng lấp lánh.\"",
+      "attributes": [
+        {
+          "name": "Sát Thương Nhấn",
+          "parameters": [
+            "146.40%",
+            "157.38%",
+            "168.36%",
+            "183.00%",
+            "193.98%",
+            "204.96%",
+            "219.60%",
+            "234.24%",
+            "248.88%",
+            "263.52%",
+            "278.16%",
+            "292.80%",
+            "311.10%",
+            "329.40%",
+            "347.70%"
+          ]
+        },
+        {
+          "name": "Sát Thương Nhấn Giữ",
+          "parameters": [
+            "245.60%",
+            "264.02%",
+            "282.44%",
+            "307.00%",
+            "325.42%",
+            "343.84%",
+            "368.40%",
+            "392.96%",
+            "417.52%",
+            "442.08%",
+            "466.64%",
+            "491.20%",
+            "521.90%",
+            "552.60%",
+            "583.30%"
+          ]
+        },
+        {
+          "name": "Sát Thương Băng Vũ Kiếm",
+          "parameters": [
+            "96.00%",
+            "103.20%",
+            "110.40%",
+            "120.00%",
+            "127.20%",
+            "134.40%",
+            "144.00%",
+            "153.60%",
+            "163.20%",
+            "172.80%",
+            "182.40%",
+            "192.00%",
+            "204.00%",
+            "216.00%",
+            "228.00%"
+          ]
+        },
+        {
+          "name": "Phòng Ngự Tăng",
+          "parameters": [
+            "Mỗi tầng 30.00%",
+            "Mỗi tầng 30.00%",
+            "Mỗi tầng 30.00%",
+            "Mỗi tầng 30.00%",
+            "Mỗi tầng 30.00%",
+            "Mỗi tầng 30.00%",
+            "Mỗi tầng 30.00%",
+            "Mỗi tầng 30.00%",
+            "Mỗi tầng 30.00%",
+            "Mỗi tầng 30.00%",
+            "Mỗi tầng 30.00%",
+            "Mỗi tầng 30.00%",
+            "Mỗi tầng 30.00%",
+            "Mỗi tầng 30.00%",
+            "Mỗi tầng 30.00%"
+          ]
+        },
+        {
+          "name": "Thời gian Trái Tim Băng Giá kéo dài",
+          "parameters": [
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s"
+          ]
+        },
+        {
+          "name": "Kháng Vật Lý Giảm",
+          "parameters": [
+            "16.00%",
+            "17.00%",
+            "18.00%",
+            "19.00%",
+            "20.00%",
+            "21.00%",
+            "22.00%",
+            "23.00%",
+            "24.00%",
+            "25.00%",
+            "25.00%",
+            "25.00%",
+            "25.00%",
+            "25.00%",
+            "25.00%"
+          ]
+        },
+        {
+          "name": "Kháng Nguyên Tố Băng Giảm",
+          "parameters": [
+            "16.00%",
+            "17.00%",
+            "18.00%",
+            "19.00%",
+            "20.00%",
+            "21.00%",
+            "22.00%",
+            "23.00%",
+            "24.00%",
+            "25.00%",
+            "25.00%",
+            "25.00%",
+            "25.00%",
+            "25.00%",
+            "25.00%"
+          ]
+        },
+        {
+          "name": "Thời Gian Giảm Kháng",
+          "parameters": [
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s"
+          ]
+        },
+        {
+          "name": "CD Nhấn",
+          "parameters": [
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s"
+          ]
+        },
+        {
+          "name": "CD Nhấn Giữ",
+          "parameters": [
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Thanh Kiếm Sóng Nước",
+      "info": "Múa đại kiếm gây Sát Thương Nguyên Tố Băng cho kẻ địch xung quanh, đồng thời tạo ra Kiếm Ánh Sáng đi theo bản thân, tồn tại tối đa 7 giây.\nTrong thời gian duy trì, Kiếm Ánh Sáng sẽ tăng khả năng kháng gián đoạn của Eula; Đồng thời khi Eula gây sát thương cho kẻ địch bằng đánh thường, kỹ năng nguyên tố hoặc kỹ năng nộ đều sẽ tích lũy năng lượng cho thanh kiếm. Mỗi 0.1s chỉ có thể tích tụ 1 tầng năng lượng.\nSau khi kết thúc thời gian duy trì, thanh kiếm sẽ giáng xuống và nổ mạnh, gây sát thương vật lý cho kẻ địch xung quanh.\nSát thương sẽ chịu ảnh hưởng bởi số tầng tích tụ của Kiếm Ánh Sáng.\nKhi Eula rời trận, Kiếm Ánh Sáng sẽ nổ ngay lập tức.",
+      "description": "Đắm chìm là chuyện dễ dàng. Nhưng cho dù thế, cô ấy vẫn muốn đóng băng ngọn sóng đang ập đến.",
+      "attributes": [
+        {
+          "name": "Sát Thương Kỹ Năng",
+          "parameters": [
+            "245.60%",
+            "264.02%",
+            "282.44%",
+            "307.00%",
+            "325.42%",
+            "343.84%",
+            "368.40%",
+            "392.96%",
+            "417.52%",
+            "442.08%",
+            "466.64%",
+            "491.20%",
+            "521.90%",
+            "552.60%",
+            "583.30%"
+          ]
+        },
+        {
+          "name": "Sát Thương Cơ Bản Kiếm Ánh Sáng",
+          "parameters": [
+            "367.05%",
+            "396.92%",
+            "426.80%",
+            "469.48%",
+            "499.36%",
+            "533.50%",
+            "580.45%",
+            "627.40%",
+            "674.34%",
+            "725.56%",
+            "784.25%",
+            "853.26%",
+            "922.27%",
+            "991.29%",
+            "1066.57%"
+          ]
+        },
+        {
+          "name": "Sát Thương Mỗi Tầng Năng Lượng",
+          "parameters": [
+            "74.99%",
+            "81.10%",
+            "87.20%",
+            "95.92%",
+            "102.02%",
+            "109.00%",
+            "118.59%",
+            "128.18%",
+            "137.78%",
+            "148.24%",
+            "160.23%",
+            "174.33%",
+            "188.43%",
+            "202.53%",
+            "217.91%"
+          ]
+        },
+        {
+          "name": "Giới Hạn Số Tầng Năng Lượng",
+          "parameters": [
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Băng Cuộn Thủy Triều",
+      "info": "Khi nhấn giữ thi triển **Lốc Xoáy Băng Hàn**, nếu tiêu hao cùng một lúc 2 tầng hiệu quả Trái Tim Băng Giá, sẽ tạo ra Kiếm Ánh Sáng và phát nổ ngay lập tức, gây sát thương vật lý tương đương với 50% sát thương cơ bản Kiếm Ánh Sáng của **Thanh Kiếm Sóng Nước**."
+    },
+    "passive2": {
+      "name": "Lòng Hiếu Chiến Trỗi Dậy",
+      "info": "Khi dùng **Thanh Kiếm Sóng Nước** sẽ làm mới CD của **Lốc Xoáy Băng Hàn**, đồng thời cung cấp cho Eula 1 tầng hiệu ứng Trái Tim Băng Giá."
+    },
+    "passive3": {
+      "name": "Nội Tâm Quý Tộc",
+      "info": "Khi ghép nguyên liệu thiên phú nhân vật, có 10% nhận được x2 thành phẩm."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Kháng Chiến\"",
+          "count": 3
+        },
+        {
+          "name": "Mặt Nạ Vỡ",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+          "count": 2
+        },
+        {
+          "name": "Mặt Nạ Bẩn",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+          "count": 4
+        },
+        {
+          "name": "Mặt Nạ Bẩn",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+          "count": 6
+        },
+        {
+          "name": "Mặt Nạ Bẩn",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+          "count": 9
+        },
+        {
+          "name": "Mặt Nạ Bẩn",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Kháng Chiến\"",
+          "count": 4
+        },
+        {
+          "name": "Mặt Nạ Xui Xẻo",
+          "count": 4
+        },
+        {
+          "name": "Vương Miện Vua Rồng",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Kháng Chiến\"",
+          "count": 6
+        },
+        {
+          "name": "Mặt Nạ Xui Xẻo",
+          "count": 6
+        },
+        {
+          "name": "Vương Miện Vua Rồng",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Kháng Chiến\"",
+          "count": 12
+        },
+        {
+          "name": "Mặt Nạ Xui Xẻo",
+          "count": 9
+        },
+        {
+          "name": "Vương Miện Vua Rồng",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Kháng Chiến\"",
+          "count": 16
+        },
+        {
+          "name": "Mặt Nạ Xui Xẻo",
+          "count": 12
+        },
+        {
+          "name": "Vương Miện Vua Rồng",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Eula_01",
+      "combat3": "Skill_E_Eula_01_HD",
+      "passive1": "UI_Talent_S_Eula_05",
+      "passive2": "UI_Talent_S_Eula_06",
+      "passive3": "UI_Talent_Eula_Combine"
+    },
+    "version": "1.5"
+  }
+}

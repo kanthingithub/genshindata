@@ -1,0 +1,832 @@
+{
+  "name": "Rosaria",
+  "fullname": "Rosaria",
+  "title": "Ân Điển Mũ Gai",
+  "description": "Một tu nữ ngoại trừ cách ăn mặc thì không có điểm nào giống với người trong tu viện. Trong hành vi và lời nói lãnh đạm thoảng qua chút sắc sảo. Lúc nào cũng hành động một mình.",
+  "rarity": "4",
+  "element": "Băng",
+  "weapontype": "Vũ Khí Cán Dài",
+  "substat": "Tấn Công",
+  "gender": "nữ",
+  "body": "LADY",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Giáo Hội Tây Phong",
+  "birthdaymmdd": "1/24",
+  "birthday": "24 tháng 1",
+  "constellation": "Cung Kinh Quán",
+  "cv": {
+    "english": "Elizabeth Maxwell",
+    "chinese": "张安琪",
+    "japanese": "加隈亜衣",
+    "korean": "Kim Bo-na"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Mảnh Ngọc Băng Vụn",
+        "count": 1
+      },
+      {
+        "name": "Quả Dâu Đỏ",
+        "count": 3
+      },
+      {
+        "name": "Phù Hiệu Tân Binh",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Ngọc Băng Vỡ",
+        "count": 3
+      },
+      {
+        "name": "Hạt Nhân Cực Hàn",
+        "count": 2
+      },
+      {
+        "name": "Quả Dâu Đỏ",
+        "count": 10
+      },
+      {
+        "name": "Phù Hiệu Tân Binh",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Ngọc Băng Vỡ",
+        "count": 6
+      },
+      {
+        "name": "Hạt Nhân Cực Hàn",
+        "count": 4
+      },
+      {
+        "name": "Quả Dâu Đỏ",
+        "count": 20
+      },
+      {
+        "name": "Phù Hiệu Sĩ Quan",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Ngọc Băng",
+        "count": 3
+      },
+      {
+        "name": "Hạt Nhân Cực Hàn",
+        "count": 8
+      },
+      {
+        "name": "Quả Dâu Đỏ",
+        "count": 30
+      },
+      {
+        "name": "Phù Hiệu Sĩ Quan",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Ngọc Băng",
+        "count": 6
+      },
+      {
+        "name": "Hạt Nhân Cực Hàn",
+        "count": 12
+      },
+      {
+        "name": "Quả Dâu Đỏ",
+        "count": 45
+      },
+      {
+        "name": "Phù Hiệu Hiệu Úy",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Ngọc Băng",
+        "count": 6
+      },
+      {
+        "name": "Hạt Nhân Cực Hàn",
+        "count": 20
+      },
+      {
+        "name": "Quả Dâu Đỏ",
+        "count": 60
+      },
+      {
+        "name": "Phù Hiệu Hiệu Úy",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Rosaria.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210325/2021032515083899881.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210325/2021032515090348894.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/da6ff2b868b5ff680484149c69518001.png",
+    "nameicon": "UI_AvatarIcon_Rosaria",
+    "nameiconcard": "UI_AvatarIcon_Rosaria_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Rosaria",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Rosaria",
+    "namesideicon": "UI_AvatarIcon_Side_Rosaria"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Rosaria"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1030.3238525390625,
+      "attack": 20.12303924560547,
+      "defense": 59.513999938964844,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2646.901983068412,
+      "attack": 51.6960879371054,
+      "defense": 152.89146618374252,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3416.606633947318,
+      "attack": 66.72938166116546,
+      "defense": 197.35146526821518,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5117.671092423203,
+      "attack": 99.95251511853348,
+      "defense": 295.6090663403702,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5664.566539200547,
+      "attack": 110.63406705182206,
+      "defense": 327.19907030765535,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6515.614261498733,
+      "attack": 127.25570176743713,
+      "defense": 376.3576469708023,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7244.808109154983,
+      "attack": 141.49776910447326,
+      "defense": 418.4776420879898,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8095.855831453169,
+      "attack": 158.11940382008834,
+      "defense": 467.63621875113677,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8642.75133926567,
+      "attack": 168.80095670705123,
+      "defense": 499.2262150890274,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9492.768321091717,
+      "attack": 185.4024602465106,
+      "defense": 548.3252536872787,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10039.663584763592,
+      "attack": 196.08400931877622,
+      "defense": 579.9152652839584,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 10890.71081576508,
+      "attack": 212.70563443897845,
+      "defense": 629.0738135686188,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11437.60632357758,
+      "attack": 223.38718351124407,
+      "defense": 660.6638099065094,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12288.654045875766,
+      "attack": 240.00881822685915,
+      "defense": 709.8223865696564,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.4",
+  "constellations": {
+    "c1": {
+      "name": "Nguồn Gốc Tội Lỗi",
+      "effect": "Đòn tấn công của Rosaria sau khi tạo thành bạo kích sẽ tăng 10% tốc độ tấn công cho bản thân, sát thương tấn công thường tạo thành tăng 10%, kéo dài 4s."
+    },
+    "c2": {
+      "name": "Vùng Đất Bất Hạnh",
+      "effect": "Thời gian Thương Băng do **Thánh Lễ Cuối Cùng** tạo ra kéo dài thêm 4s"
+    },
+    "c3": {
+      "name": "Buổi Lễ Xưng Tội",
+      "effect": "Cấp kỹ năng **Lời Cáo Tội** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "Ân Điển Đau Khổ",
+      "effect": "Khi **Lời Cáo Tội** tạo thành bạo kích, hồi 5 điểm năng lượng nguyên tố cho bản thân Rosaria.\nMỗi lần Lời Cáo Tội nhiều nhất kích hoạt 1 lần hiệu quả này."
+    },
+    "c5": {
+      "name": "Lời Nguyện Lúc Lâm Chung",
+      "effect": "Cấp kỹ năng **Thánh Lễ Cuối Cùng** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Thay Trời Hành Đạo",
+      "effect": "Đòn tấn công của **Thánh Lễ Cuối Cùng** sẽ khiến kháng vật lý của địch giảm 20%, kéo dài 10s."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Rosaria_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Rosaria_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Rosaria_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Rosaria_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Rosaria_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Rosaria_04.png",
+      "constellation": "Eff_UI_Talent_Rosaria"
+    },
+    "version": "1.4"
+  },
+  "talent": {
+    "name": "Rosaria",
+    "combat1": {
+      "name": "Tấn công thường - Thương Thuật Giáo Hội",
+      "info": "**Tấn Công Thường**\nThực hiện tối đa 5 lần đánh liên tiếp.\n\n**Trọng Kích**\nTiêu hao thể lực nhất định, xông về phía trước, gây sát thương cho địch trên đường đi.\n\n**Tấn Công Khi Đáp**\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "52.46%",
+            "56.73%",
+            "61.00%",
+            "67.10%",
+            "71.37%",
+            "76.25%",
+            "82.96%",
+            "89.67%",
+            "96.38%",
+            "103.70%",
+            "111.02%",
+            "118.34%",
+            "125.66%",
+            "132.98%",
+            "140.30%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "51.60%",
+            "55.80%",
+            "60.00%",
+            "66.00%",
+            "70.20%",
+            "75.00%",
+            "81.60%",
+            "88.20%",
+            "94.80%",
+            "102.00%",
+            "109.20%",
+            "116.40%",
+            "123.60%",
+            "130.80%",
+            "138.00%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "31.82%*2",
+            "34.41%*2",
+            "37.00%*2",
+            "40.70%*2",
+            "43.29%*2",
+            "46.25%*2",
+            "50.32%*2",
+            "54.39%*2",
+            "58.46%*2",
+            "62.90%*2",
+            "67.34%*2",
+            "71.78%*2",
+            "76.22%*2",
+            "80.66%*2",
+            "85.10%*2"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "69.66%",
+            "75.33%",
+            "81.00%",
+            "89.10%",
+            "94.77%",
+            "101.25%",
+            "110.16%",
+            "119.07%",
+            "127.98%",
+            "137.70%",
+            "147.42%",
+            "157.14%",
+            "166.86%",
+            "176.58%",
+            "186.30%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 5",
+          "parameters": [
+            "41.62%+43.00%",
+            "45.01%+46.50%",
+            "48.40%+50.00%",
+            "53.24%+55.00%",
+            "56.63%+58.50%",
+            "60.50%+62.50%",
+            "65.82%+68.00%",
+            "71.15%+73.50%",
+            "76.47%+79.00%",
+            "82.28%+85.00%",
+            "88.09%+91.00%",
+            "93.90%+97.00%",
+            "99.70%+103.00%",
+            "105.51%+109.00%",
+            "111.32%+115.00%"
+          ]
+        },
+        {
+          "name": "Sát Thương Trọng Kích",
+          "parameters": [
+            "136.74%",
+            "147.87%",
+            "159.00%",
+            "174.90%",
+            "186.03%",
+            "198.75%",
+            "216.24%",
+            "233.73%",
+            "251.22%",
+            "270.30%",
+            "289.38%",
+            "308.46%",
+            "327.54%",
+            "346.62%",
+            "365.70%"
+          ]
+        },
+        {
+          "name": "Thể lực Trọng Kích tiêu hao",
+          "parameters": [
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Đáp",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "ST Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Lời Cáo Tội",
+      "info": "Rosaria nhanh chóng di chuyển đến phía sau kẻ địch, dùng thương để đâm xuyên và chém, gây Sát Thương Nguyên Tố Băng.\nKhông thể di chuyển nhanh đến phía sau kẻ địch có thể hình lớn.",
+      "description": "Lời thú tội với nữ tu Rosaria sẽ không được tha thứ. Ngược lại, tội càng nặng thì hình phạt càng giá lạnh.",
+      "attributes": [
+        {
+          "name": "Sát Thương Kỹ Năng",
+          "parameters": [
+            "58.40%+136.00%",
+            "62.78%+146.20%",
+            "67.16%+156.40%",
+            "73.00%+170.00%",
+            "77.38%+180.20%",
+            "81.76%+190.40%",
+            "87.60%+204.00%",
+            "93.44%+217.60%",
+            "99.28%+231.20%",
+            "105.12%+244.80%",
+            "110.96%+258.40%",
+            "116.80%+272.00%",
+            "124.10%+289.00%",
+            "131.40%+306.00%",
+            "138.70%+323.00%"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Thánh Lễ Cuối Cùng",
+      "info": "Đây là nghi thức riêng của Rosaria. Vung vũ khí lên quét sạch kẻ địch, sau đó ngưng tụ hàn băng găm vào mặt đất, gây Sát Thương Nguyên Tố Băng.\nKhi băng thương tồn tại, nó sẽ liên tục phát ra hơi lạnh, gây Sát Thương Nguyên Tố Băng cho kẻ địch gần đó.",
+      "description": "Quá trình phán xử rất phiền phức, vì vậy cứ trực tiếp thực thi buổi lễ cho cái chết thôi. Rosaria vốn không tin vào Phong Thần nên vấn đề này rất dễ dàng với cô ấy.",
+      "attributes": [
+        {
+          "name": "Sát Thương Kỹ Năng",
+          "parameters": [
+            "104.00%+152.00%",
+            "111.80%+163.40%",
+            "119.60%+174.80%",
+            "130.00%+190.00%",
+            "137.80%+201.40%",
+            "145.60%+212.80%",
+            "156.00%+228.00%",
+            "166.40%+243.20%",
+            "176.80%+258.40%",
+            "187.20%+273.60%",
+            "197.60%+288.80%",
+            "208.00%+304.00%",
+            "221.00%+323.00%",
+            "234.00%+342.00%",
+            "247.00%+361.00%"
+          ]
+        },
+        {
+          "name": "Sát Thương Thương Băng Kéo Dài",
+          "parameters": [
+            "132.00%",
+            "141.90%",
+            "151.80%",
+            "165.00%",
+            "174.90%",
+            "184.80%",
+            "198.00%",
+            "211.20%",
+            "224.40%",
+            "237.60%",
+            "250.80%",
+            "264.00%",
+            "280.50%",
+            "297.00%",
+            "313.50%"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "parameters": [
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Nghe U Ảnh Sám Hối",
+      "info": "Khi **Lời Cáo Tội** tấn công từ phía sau của mục tiêu, tỷ lệ bạo kích của Rosaria tăng 12%, kéo dài 5s."
+    },
+    "passive2": {
+      "name": "Chi Viện Bóng Tối",
+      "info": "Khi thi triển **Thánh Lễ Cuối Cùng**, dựa trên 15% tỷ lệ bạo kích của bản thân, tăng tỷ lệ bạo kích cho tất cả các nhân vật trong đội ở gần (không bao gồm Rosaria), kéo dài 10s.\nTỷ lệ bạo kích tăng thêm bằng cách này không thể vượt quá 15%."
+    },
+    "passive3": {
+      "name": "Dạ Hành",
+      "info": "Buổi tối (18h đến 6h), tốc độ di chuyển của nhân vật trong đội của bản thân tăng 10%.\nHiệu quả này vô hiệu trong Bí Cảnh, Vùng Đất Thảo Phạt, La Hoàn Thâm Cảnh, không thể cộng dồn với thiên phú cố định có hiệu quả tương đồng."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Thơ Văn\"",
+          "count": 3
+        },
+        {
+          "name": "Phù Hiệu Tân Binh",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Thơ Văn\"",
+          "count": 2
+        },
+        {
+          "name": "Phù Hiệu Sĩ Quan",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Thơ Văn\"",
+          "count": 4
+        },
+        {
+          "name": "Phù Hiệu Sĩ Quan",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Thơ Văn\"",
+          "count": 6
+        },
+        {
+          "name": "Phù Hiệu Sĩ Quan",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Thơ Văn\"",
+          "count": 9
+        },
+        {
+          "name": "Phù Hiệu Sĩ Quan",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Thơ Văn\"",
+          "count": 4
+        },
+        {
+          "name": "Phù Hiệu Hiệu Úy",
+          "count": 4
+        },
+        {
+          "name": "Linh Hồn Võ Luyện - Cô Độc",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Thơ Văn\"",
+          "count": 6
+        },
+        {
+          "name": "Phù Hiệu Hiệu Úy",
+          "count": 6
+        },
+        {
+          "name": "Linh Hồn Võ Luyện - Cô Độc",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Thơ Văn\"",
+          "count": 12
+        },
+        {
+          "name": "Phù Hiệu Hiệu Úy",
+          "count": 9
+        },
+        {
+          "name": "Linh Hồn Võ Luyện - Cô Độc",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Thơ Văn\"",
+          "count": 16
+        },
+        {
+          "name": "Phù Hiệu Hiệu Úy",
+          "count": 12
+        },
+        {
+          "name": "Linh Hồn Võ Luyện - Cô Độc",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_03",
+      "combat2": "Skill_S_Rosaria_01",
+      "combat3": "Skill_E_Rosaria_01_HD",
+      "passive1": "UI_Talent_S_Rosaria_05",
+      "passive2": "UI_Talent_S_Rosaria_06",
+      "passive3": "UI_Talent_Rosaria_NightRunner"
+    },
+    "version": "1.4"
+  }
+}

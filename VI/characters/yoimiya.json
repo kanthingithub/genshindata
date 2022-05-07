@@ -1,0 +1,872 @@
+{
+  "name": "Yoimiya",
+  "fullname": "Yoimiya",
+  "title": "Vũ Điệu Bão Lửa",
+  "description": "Chủ tiệm Pháo Hoa Naganohara, Nữ Hoàng Lễ Hội Hè, là người thợ tài năng gửi gắm nguyện vọng của mọi người vào pháo hoa.",
+  "rarity": "5",
+  "element": "Hỏa",
+  "weapontype": "Cung",
+  "substat": "Tỷ Lệ Bạo Kích",
+  "gender": "nữ",
+  "body": "GIRL",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "Tiệm Pháo Hoa Naganohara",
+  "birthdaymmdd": "6/21",
+  "birthday": "21 tháng 6",
+  "constellation": "Cung Lưu Kim",
+  "cv": {
+    "english": "Jenny Yokobori",
+    "chinese": "金娜",
+    "japanese": "植田佳奈",
+    "korean": "Park Shin-hee"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vụn Mã Não Cháy",
+        "count": 1
+      },
+      {
+        "name": "Cỏ Naku",
+        "count": 3
+      },
+      {
+        "name": "Bản Vẽ Hướng Dẫn",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Mã Não Cháy",
+        "count": 3
+      },
+      {
+        "name": "Ngọc Lửa Âm Ỉ",
+        "count": 2
+      },
+      {
+        "name": "Cỏ Naku",
+        "count": 10
+      },
+      {
+        "name": "Bản Vẽ Hướng Dẫn",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Mã Não Cháy",
+        "count": 6
+      },
+      {
+        "name": "Ngọc Lửa Âm Ỉ",
+        "count": 4
+      },
+      {
+        "name": "Cỏ Naku",
+        "count": 20
+      },
+      {
+        "name": "Bản Vẽ Phong Ấn",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Mã Não Cháy",
+        "count": 3
+      },
+      {
+        "name": "Ngọc Lửa Âm Ỉ",
+        "count": 8
+      },
+      {
+        "name": "Cỏ Naku",
+        "count": 30
+      },
+      {
+        "name": "Bản Vẽ Phong Ấn",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Mã Não Cháy",
+        "count": 6
+      },
+      {
+        "name": "Ngọc Lửa Âm Ỉ",
+        "count": 12
+      },
+      {
+        "name": "Cỏ Naku",
+        "count": 45
+      },
+      {
+        "name": "Bản Vẽ Cấm Chú",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Mã Não Cháy",
+        "count": 6
+      },
+      {
+        "name": "Ngọc Lửa Âm Ỉ",
+        "count": 20
+      },
+      {
+        "name": "Cỏ Naku",
+        "count": 60
+      },
+      {
+        "name": "Bản Vẽ Cấm Chú",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Yoimiya.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210803/2021080311565873098.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210730/2021073011353339905.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/7c15028cb304de316e2cdb584bc33ff3.png",
+    "nameicon": "UI_AvatarIcon_Yoimiya",
+    "nameiconcard": "UI_AvatarIcon_Yoimiya_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Yoimiya",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Yoimiya",
+    "namesideicon": "UI_AvatarIcon_Side_Yoimiya"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Yoimiya"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 791.255615234375,
+      "attack": 25.136999130249023,
+      "defense": 47.86399841308594,
+      "specialized": 0.05000000074505806
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2052.5171459055855,
+      "attack": 65.20537828495208,
+      "defense": 124.15921672209151,
+      "specialized": 0.05000000074505806
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2730.9472606516792,
+      "attack": 86.75650857975188,
+      "defense": 165.19921763761886,
+      "specialized": 0.05000000074505806
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4086.3681763333734,
+      "attack": 129.8161895761641,
+      "defense": 247.19024974932836,
+      "specialized": 0.05000000074505806
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4568.410595766967,
+      "attack": 145.12883262731157,
+      "defense": 276.3502457820432,
+      "specialized": 0.09800000116229057
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5256.011692203232,
+      "attack": 166.9728838167075,
+      "defense": 317.9440583945616,
+      "specialized": 0.09800000116229057
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5898.735080875107,
+      "attack": 187.38974630450048,
+      "defense": 356.8240632773741,
+      "specialized": 0.1460000015795231
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6593.457339002052,
+      "attack": 209.46002607512673,
+      "defense": 398.8486434766237,
+      "specialized": 0.1460000015795231
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7075.49969740049,
+      "attack": 224.77266721892556,
+      "defense": 428.00864713873307,
+      "specialized": 0.1460000015795231
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7776.552296252572,
+      "attack": 247.0440523798179,
+      "defense": 470.4161572187804,
+      "specialized": 0.1460000015795231
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8258.594776721322,
+      "attack": 262.356697338314,
+      "defense": 499.57614562210074,
+      "specialized": 0.193999994546175
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8967.559735529707,
+      "attack": 284.8794462576561,
+      "defense": 542.4622838181458,
+      "specialized": 0.193999994546175
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 9449.602215998457,
+      "attack": 300.1920912161522,
+      "defense": 571.6222874802552,
+      "specialized": 0.2420000024139881
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10164.106317266356,
+      "attack": 322.890810348541,
+      "defense": 614.8434950278315,
+      "specialized": 0.2420000024139881
+    }
+  },
+  "version": "2.0",
+  "constellations": {
+    "c1": {
+      "name": "Xích Ngọc Lưu Kim",
+      "effect": "Thời gian kéo dài Lưu Kim Hỏa Quang của **Cỏ Ryukin** tăng 4s.\nNgoài ra, khi kẻ địch chịu ảnh hưởng bởi Lưu Kim Hỏa Quang của Yoimiya bị hạ gục trong thời gian duy trì, tấn công của Yoimiya sẽ tăng 20%, kéo dài 20s."
+    },
+    "c2": {
+      "name": "Biển Đèn Đưa Lửa",
+      "effect": "Trong vòng 6s sau khi sát thương Nguyên Tố Hỏa của Yoimiya gây ra bạo kích, Yoimiya sẽ nhận 25% buff sát thương Nguyên Tố Hỏa.\nKhi Yoimiya ở trong đội nhưng không ra trận cũng sẽ nhận hiệu quả này."
+    },
+    "c3": {
+      "name": "Ảo Thuật Che Mắt",
+      "effect": "Cấp kỹ năng **Điệu Nhảy Niwabi Cháy Bỏng** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "Chuyên Viên Pháo Hoa",
+      "effect": "Khi Lưu Kim Hỏa Quang của Yoimiya phát nổ, CD của **Điệu Nhảy Niwabi Cháy Bỏng** giảm 1.2s."
+    },
+    "c5": {
+      "name": "Đêm Hội Mùa Hè",
+      "effect": "Cấp kỹ năng **Cỏ Ryukin** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Chòm Sao Băng Naganohara",
+      "effect": "Trong thời gian duy trì của **Điệu Nhảy Niwabi Cháy Bỏng**, khi Yoimiya chủ động thực hiện tấn công thường sẽ có 50% tỷ lệ bắn thêm 1 mũi tên lửa, gây sát thương bằng 60% sát thương ban đầu. Sát thương này xem như sát thương tấn công thường."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yoimiya_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yoimiya_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Yoimiya_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yoimiya_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Yoimiya_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yoimiya_04.png",
+      "constellation": "Eff_UI_Talent_Yoimiya"
+    },
+    "version": "2.0"
+  },
+  "talent": {
+    "name": "Yoimiya",
+    "combat1": {
+      "name": "Tấn Công Thường - Khói Lửa Chiến Đấu",
+      "info": "**Tấn Công Thường**\nLiên tục bắn tên, tối đa 5 lần.\n\n**Trọng kích**\nCó thể **ngắm bắn** chính xác hơn, sát thương cao hơn.\nKhi nhắm, ngọn lửa sẽ ngưng tụ liên tục trên mũi tên và bắn ra cùng với tấn công. Thời gian tụ lực dài hay ngắn sẽ gây ra hiệu quả khác nhau:\n·Tụ lực lần 1: Bắn mũi tên có ngọn lửa gây sát thương Nguyên Tố Hỏa;\n·Tụ lực lần 2: Sinh ra tối đa 3 Mũi Tên Lửa tùy vào thời gian tụ lực và phóng tên theo lần nhắm bắn này. Mũi Tên Lửa sẽ tự truy tìm kẻ địch ở gần, đồng thời khi trúng tên sẽ gây sát thương Nguyên Tố Hỏa.\n\n**Tấn Công Khi Đáp**\nBắn mưa tên liên tiếp xuống mặt đất, gây sát thương phạm vi khi chạm đất.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "35.64%*2",
+            "38.07%*2",
+            "40.50%*2",
+            "43.74%*2",
+            "46.17%*2",
+            "49.00%*2",
+            "52.65%*2",
+            "56.30%*2",
+            "59.94%*2",
+            "63.59%*2",
+            "67.23%*2",
+            "70.88%*2",
+            "74.52%*2",
+            "78.17%*2",
+            "81.81%*2"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "68.38%",
+            "73.04%",
+            "77.70%",
+            "83.92%",
+            "88.58%",
+            "94.02%",
+            "101.01%",
+            "108.00%",
+            "115.00%",
+            "121.99%",
+            "128.98%",
+            "135.98%",
+            "142.97%",
+            "149.96%",
+            "156.95%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "88.89%",
+            "94.95%",
+            "101.01%",
+            "109.09%",
+            "115.15%",
+            "122.22%",
+            "131.31%",
+            "140.40%",
+            "149.49%",
+            "158.59%",
+            "167.68%",
+            "176.77%",
+            "185.86%",
+            "194.95%",
+            "204.04%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "46.42%*2",
+            "49.58%*2",
+            "52.75%*2",
+            "56.97%*2",
+            "60.14%*2",
+            "63.83%*2",
+            "68.58%*2",
+            "73.32%*2",
+            "78.07%*2",
+            "82.82%*2",
+            "87.56%*2",
+            "92.31%*2",
+            "97.06%*2",
+            "101.81%*2",
+            "106.55%*2"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 5",
+          "parameters": [
+            "105.86%",
+            "113.08%",
+            "120.30%",
+            "129.92%",
+            "137.14%",
+            "145.56%",
+            "156.39%",
+            "167.22%",
+            "178.04%",
+            "188.87%",
+            "199.70%",
+            "210.52%",
+            "221.35%",
+            "232.18%",
+            "243.01%"
+          ]
+        },
+        {
+          "name": "Ngắm Bắn",
+          "parameters": [
+            "43.86%",
+            "47.43%",
+            "51.00%",
+            "56.10%",
+            "59.67%",
+            "63.75%",
+            "69.36%",
+            "74.97%",
+            "80.58%",
+            "86.70%",
+            "92.82%",
+            "98.94%",
+            "105.06%",
+            "111.18%",
+            "117.30%"
+          ]
+        },
+        {
+          "name": "Tụ Lực Ngắm Bắn",
+          "parameters": [
+            "124.00%",
+            "133.30%",
+            "142.60%",
+            "155.00%",
+            "164.30%",
+            "173.60%",
+            "186.00%",
+            "198.40%",
+            "210.80%",
+            "223.20%",
+            "235.60%",
+            "248.00%",
+            "263.50%",
+            "279.00%",
+            "294.50%"
+          ]
+        },
+        {
+          "name": "Sát thương Mũi Tên Lửa",
+          "parameters": [
+            "16.40%",
+            "17.63%",
+            "18.86%",
+            "20.50%",
+            "21.73%",
+            "22.96%",
+            "24.60%",
+            "26.24%",
+            "27.88%",
+            "29.52%",
+            "31.16%",
+            "32.80%",
+            "34.85%",
+            "36.90%",
+            "38.95%"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Đáp",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Điệu Nhảy Niwabi Cháy Bỏng",
+      "info": "Dây lửa pháo hoa bao bọc lấy Yoimiya.\n\n**Niwabi Enshou**\nTrong thời gian duy trì hiệu quả, mũi tên bắn ra từ tấn công thường của Yoimiya sẽ chuyển thành mũi tên lửa, sát thương gây ra chuyển thành sát thương Nguyên Tố Hỏa và tăng sát thương gây ra bởi tấn công thường; Trong thời gian duy trì, tụ lực lần 2 của \"Tấn Công Thường - Khói Lửa Chiến Đấu\" sẽ không thể sinh ra mũi tên lửa được nữa.\n\nHiệu quả sẽ biến mất khi Yoimiya rời trận.",
+      "description": "\"Niwabi\" là dây pháo hoa được Yoimiya tự sáng chế, không cần chuẩn bị trước hay huấn luyện cũng có thể đốt, vì vậy rất được ưa chuộng. Sau nhiều sự cố, Hiệp Hội Tenryou đã ra lệnh cấm đốt Niwabi trong thành, nhưng những đốm lửa nhỏ vẫn cứ sáng lên trong đêm. Nếu nhìn từ trên cao chắc cũng giống hệt với ánh sáng của những ngôi sao lập lòe.",
+      "attributes": [
+        {
+          "name": "Sát thương mũi tên lửa",
+          "parameters": [
+            "137.91% sát thương tấn công thường",
+            "140.18% sát thương tấn công thường",
+            "142.45% sát thương tấn công thường",
+            "145.40% sát thương tấn công thường",
+            "147.67% sát thương tấn công thường",
+            "149.94% sát thương tấn công thường",
+            "152.89% sát thương tấn công thường",
+            "155.84% sát thương tấn công thường",
+            "158.79% sát thương tấn công thường",
+            "161.74% sát thương tấn công thường",
+            "164.70% sát thương tấn công thường",
+            "167.65% sát thương tấn công thường",
+            "170.60% sát thương tấn công thường",
+            "173.55% sát thương tấn công thường",
+            "176.50% sát thương tấn công thường"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "parameters": [
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Cỏ Ryukin",
+      "info": "Yoimiya bay lên trời theo pháo hoa tự chế \"Cỏ Ryukin\", bắn mũi tên lửa ra phía trước, gây sát thương phạm vi Nguyên Tố Hỏa đồng thời gây thêm \"Lưu Kim Hỏa Quang\" cho 1 kẻ địch bị bắn trúng.\n\n**Lưu Kim Hỏa Quang**\nTấn công thường, trọng kích, tấn công khi đáp, kỹ năng nguyên tố, kỹ năng nộ của tất cả nhân vật trong đội (không bao gồm bản thân Yoimiya) đánh trúng kẻ địch bị ảnh hưởng bởi \"Lưu Kim Hỏa Quang\" sẽ phát nổ, gây sát thương phạm vi Nguyên Tố Hỏa.\nKhi kẻ địch bị hạ gục trong thời gian chịu ảnh hưởng bởi Lưu Kim Hỏa Quang, Lưu Kim Hỏa Quang sẽ chuyển cho một kẻ địch khác ở gần và tiếp tục thời gian duy trì.\n\nLưu Kim Hỏa Quang mỗi 2s tối đa phát nổ 1 lần. Khi Yoimiya ngã xuống, hiệu quả Lưu Kim Hỏa Quang sinh ra từ kỹ năng của chính Yoimiya sẽ biến mất.",
+      "description": "Pháo hoa là ánh sao nhân tạo, là sao chổi quét lên trời. Dù cho chỉ lưu lại trong phút chốc nhưng ánh sáng rực rỡ ấy cũng có thể sống mãi trong tim mọi người.",
+      "attributes": [
+        {
+          "name": "Sát Thương Kỹ Năng",
+          "parameters": [
+            "127.20%",
+            "136.74%",
+            "146.28%",
+            "159.00%",
+            "168.54%",
+            "178.08%",
+            "190.80%",
+            "203.52%",
+            "216.24%",
+            "228.96%",
+            "241.68%",
+            "254.40%",
+            "270.30%",
+            "286.20%",
+            "302.10%"
+          ]
+        },
+        {
+          "name": "Sát Thương Nổ Lưu Kim Hỏa Quang",
+          "parameters": [
+            "122.00%",
+            "131.15%",
+            "140.30%",
+            "152.50%",
+            "161.65%",
+            "170.80%",
+            "183.00%",
+            "195.20%",
+            "207.40%",
+            "219.60%",
+            "231.80%",
+            "244.00%",
+            "259.25%",
+            "274.50%",
+            "289.75%"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "parameters": [
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Tụ Hỏa Bách Cảnh Đồ",
+      "info": "Trong thời gian duy trì của **Điệu Nhảy Niwabi Cháy Bỏng**, sau khi tấn công thường của Yoimiya đánh trúng sẽ cung cấp 2% buff sát thương Nguyên Tố Hỏa cho Yoimiya. Hiệu quả này duy trì 3s, tối đa cộng dồn 10 lần."
+    },
+    "passive2": {
+      "name": "Bài Thơ Cảnh Hè Tàn Lụi",
+      "info": "Trong vòng 15s sau khi thi triển **Cỏ Ryukin**, tất cả nhân vật khác ở gần (không bao gồm bản thân Yoimiya) tăng 10% tấn công. Ngoài ra, tùy theo số tầng cộng dồn của thiên phú cố định \"Tụ Hỏa Bách Cảnh Đồ\" khi Yoimiya thi triển **Cỏ Ryukin**, sẽ tăng thêm hiệu quả tấn công kể trên, mỗi tầng tăng 1% tấn công."
+    },
+    "passive3": {
+      "name": "Cách Phối Màu Nóng",
+      "info": "Khi chế tạo đồ trang trí loại trang hoàng, trang trí, cảnh quan, có 100% tỷ lệ hoàn trả một phần nguyên liệu."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Phù Thế\"",
+          "count": 3
+        },
+        {
+          "name": "Bản Vẽ Hướng Dẫn",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Phù Thế\"",
+          "count": 2
+        },
+        {
+          "name": "Bản Vẽ Phong Ấn",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Phù Thế\"",
+          "count": 4
+        },
+        {
+          "name": "Bản Vẽ Phong Ấn",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Phù Thế\"",
+          "count": 6
+        },
+        {
+          "name": "Bản Vẽ Phong Ấn",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Phù Thế\"",
+          "count": 9
+        },
+        {
+          "name": "Bản Vẽ Phong Ấn",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Phù Thế\"",
+          "count": 4
+        },
+        {
+          "name": "Bản Vẽ Cấm Chú",
+          "count": 4
+        },
+        {
+          "name": "Vương Miện Vua Rồng",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Phù Thế\"",
+          "count": 6
+        },
+        {
+          "name": "Bản Vẽ Cấm Chú",
+          "count": 6
+        },
+        {
+          "name": "Vương Miện Vua Rồng",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Phù Thế\"",
+          "count": 12
+        },
+        {
+          "name": "Bản Vẽ Cấm Chú",
+          "count": 9
+        },
+        {
+          "name": "Vương Miện Vua Rồng",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Phù Thế\"",
+          "count": 16
+        },
+        {
+          "name": "Bản Vẽ Cấm Chú",
+          "count": 12
+        },
+        {
+          "name": "Vương Miện Vua Rồng",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_02",
+      "combat2": "Skill_S_Yoimiya_01",
+      "combat3": "Skill_E_Yoimiya_01_HD",
+      "passive1": "UI_Talent_S_Yoimiya_05",
+      "passive2": "UI_Talent_S_Yoimiya_06",
+      "passive3": "UI_Talent_S_Yoimiya_07"
+    },
+    "version": "2.0"
+  }
+}

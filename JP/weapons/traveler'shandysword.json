@@ -1,0 +1,307 @@
+{
+  "name": "旅道の剣",
+  "description": "使いやすい鋼剣。柄にはハサミ、虫眼鏡、点火具など旅の必須品が隠されている。",
+  "weapontype": "片手剣",
+  "rarity": "3",
+  "baseatk": 40,
+  "substat": "防御力",
+  "subvalue": "6.4",
+  "effectname": "旅路",
+  "effect": [
+    "元素オーブまたは元素粒子を獲得した時、HPを[1%]回復する。",
+    "元素オーブまたは元素粒子を獲得した時、HPを[1.25%]回復する。",
+    "元素オーブまたは元素粒子を獲得した時、HPを[1.5%]回復する。",
+    "元素オーブまたは元素粒子を獲得した時、HPを[1.75%]回復する。",
+    "元素オーブまたは元素粒子を獲得した時、HPを[2%]回復する。"
+  ],
+  "r1": [
+    "1%"
+  ],
+  "r2": [
+    "1.25%"
+  ],
+  "r3": [
+    "1.5%"
+  ],
+  "r4": [
+    "1.75%"
+  ],
+  "r5": [
+    "2%"
+  ],
+  "weaponmaterialtype": "Dandelion Gladiator",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "モラ",
+        "count": 5000
+      },
+      {
+        "name": "獅牙戦士の枷",
+        "count": 2
+      },
+      {
+        "name": "混沌の装置",
+        "count": 2
+      },
+      {
+        "name": "占いの絵巻",
+        "count": 1
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "モラ",
+        "count": 10000
+      },
+      {
+        "name": "獅牙戦士の鎖",
+        "count": 2
+      },
+      {
+        "name": "混沌の装置",
+        "count": 8
+      },
+      {
+        "name": "占いの絵巻",
+        "count": 5
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "モラ",
+        "count": 15000
+      },
+      {
+        "name": "獅牙戦士の鎖",
+        "count": 4
+      },
+      {
+        "name": "混沌の回路",
+        "count": 4
+      },
+      {
+        "name": "封魔の絵巻",
+        "count": 4
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "モラ",
+        "count": 20000
+      },
+      {
+        "name": "獅牙戦士の手錠",
+        "count": 2
+      },
+      {
+        "name": "混沌の回路",
+        "count": 8
+      },
+      {
+        "name": "封魔の絵巻",
+        "count": 6
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "モラ",
+        "count": 25000
+      },
+      {
+        "name": "獅牙戦士の手錠",
+        "count": 4
+      },
+      {
+        "name": "混沌の炉心",
+        "count": 6
+      },
+      {
+        "name": "禁呪の絵巻",
+        "count": 4
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "モラ",
+        "count": 30000
+      },
+      {
+        "name": "獅牙戦士の理想",
+        "count": 3
+      },
+      {
+        "name": "混沌の炉心",
+        "count": 12
+      },
+      {
+        "name": "禁呪の絵巻",
+        "count": 8
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Weapon_Traveler%27s_Handy_Sword.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Traveler.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Traveler_Awaken.png",
+    "nameicon": "UI_EquipIcon_Sword_Traveler",
+    "namegacha": "UI_Gacha_EquipIcon_Sword_Traveler",
+    "nameawakenicon": "UI_EquipIcon_Sword_Traveler_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Traveler's_Handy_Sword"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 39.875099182128906,
+      "specialized": 0.06373299658298492
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 52.8345083177137,
+      "specialized": 0.07405773826103612
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 69.14342068886435,
+      "specialized": 0.08686807659148776
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 85.53208698510934,
+      "specialized": 0.09974214329920272
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 101.96062549041926,
+      "specialized": 0.11261620240935244
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 121.46062549041926,
+      "specialized": 0.11261620240935244
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 137.88917350269367,
+      "specialized": 0.1254902691170674
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 154.3575842170685,
+      "specialized": 0.13836433582478236
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 170.78612272237842,
+      "specialized": 0.15123839493493207
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 187.21466122768834,
+      "specialized": 0.16411246924021228
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 206.61466275356725,
+      "specialized": 0.16411246924021228
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 223.04321076584165,
+      "specialized": 0.176986528350362
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 239.47175877811605,
+      "specialized": 0.1898606026556422
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 258.97175877811605,
+      "specialized": 0.1898606026556422
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 275.36041556739656,
+      "specialized": 0.2027346617657919
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 291.74909137060604,
+      "specialized": 0.21560872087594163
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 311.14909289648494,
+      "specialized": 0.21560872087594163
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 327.4978774767005,
+      "specialized": 0.22848279518122183
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 343.886534265981,
+      "specialized": 0.24129312591410823
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 363.386534265981,
+      "specialized": 0.24129312591410823
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 379.7353378601256,
+      "specialized": 0.25416718502425795
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 396.08412244034116,
+      "specialized": 0.26704125932953815
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 415.48411633682554,
+      "specialized": 0.26704125932953815
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 431.87277312610604,
+      "specialized": 0.27991533363481835
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 448.2215767202506,
+      "specialized": 0.2927893775498376
+    }
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,754 @@
+{
+  "name": "凝光",
+  "fullname": "凝光",
+  "title": "月を覆う天権",
+  "description": "「璃月七星」の一人、「天権」。富の多さで有名であり、全大陸で彼女に匹敵する者はまずいない。",
+  "rarity": "4",
+  "element": "岩",
+  "weapontype": "法器",
+  "substat": "岩元素ダメージ",
+  "gender": "女",
+  "body": "LADY",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "璃月七星",
+  "birthdaymmdd": "8/26",
+  "birthday": "8月26日",
+  "constellation": "璣衡儀座",
+  "cv": {
+    "english": "Erin Ebers",
+    "chinese": "杜冥鸦",
+    "japanese": "大原さやか",
+    "korean": "곽규미"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "モラ",
+        "count": 20000
+      },
+      {
+        "name": "堅牢なトパーズ·砕屑",
+        "count": 1
+      },
+      {
+        "name": "琉璃百合",
+        "count": 3
+      },
+      {
+        "name": "新兵の記章",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "モラ",
+        "count": 40000
+      },
+      {
+        "name": "堅牢なトパーズ·欠片",
+        "count": 3
+      },
+      {
+        "name": "玄岩の塔",
+        "count": 2
+      },
+      {
+        "name": "琉璃百合",
+        "count": 10
+      },
+      {
+        "name": "新兵の記章",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "モラ",
+        "count": 60000
+      },
+      {
+        "name": "堅牢なトパーズ·欠片",
+        "count": 6
+      },
+      {
+        "name": "玄岩の塔",
+        "count": 4
+      },
+      {
+        "name": "琉璃百合",
+        "count": 20
+      },
+      {
+        "name": "士官の記章",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "モラ",
+        "count": 80000
+      },
+      {
+        "name": "堅牢なトパーズ·塊",
+        "count": 3
+      },
+      {
+        "name": "玄岩の塔",
+        "count": 8
+      },
+      {
+        "name": "琉璃百合",
+        "count": 30
+      },
+      {
+        "name": "士官の記章",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "モラ",
+        "count": 100000
+      },
+      {
+        "name": "堅牢なトパーズ·塊",
+        "count": 6
+      },
+      {
+        "name": "玄岩の塔",
+        "count": 12
+      },
+      {
+        "name": "琉璃百合",
+        "count": 45
+      },
+      {
+        "name": "尉官の記章",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "モラ",
+        "count": 120000
+      },
+      {
+        "name": "堅牢なトパーズ",
+        "count": 6
+      },
+      {
+        "name": "玄岩の塔",
+        "count": 20
+      },
+      {
+        "name": "琉璃百合",
+        "count": 60
+      },
+      {
+        "name": "尉官の記章",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Character_Ningguang_Card.jpg/",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Character_Ningguang_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ningguang.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ningguang.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200305/2020030519413867244.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200305/2020030519431658285.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/498b811beba3fbeb2549a5b362190d43.png",
+    "nameicon": "UI_AvatarIcon_Ningguang",
+    "nameiconcard": "UI_AvatarIcon_Ningguang_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Ningguang",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Ningguang",
+    "namesideicon": "UI_AvatarIcon_Side_Ningguang"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ningguang"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 820.6118774414062,
+      "attack": 17.808000564575195,
+      "defense": 48.069000244140625,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2108.1519178425515,
+      "attack": 45.74875355229187,
+      "defense": 123.48926190225029,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2721.1910413777077,
+      "attack": 59.0525531815033,
+      "defense": 159.3992617496624,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4076.021074166667,
+      "attack": 88.45355827545154,
+      "defense": 238.76117079240794,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4511.601457467448,
+      "attack": 97.90625889038074,
+      "defense": 264.2761701820564,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5189.427043535659,
+      "attack": 112.61567116091919,
+      "defense": 303.9811746523628,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5770.200969316909,
+      "attack": 125.21927070925904,
+      "defense": 338.0011751101265,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6448.02655538512,
+      "attack": 139.9286829797975,
+      "defense": 377.70617958043294,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6883.606999721058,
+      "attack": 149.381384548401,
+      "defense": 403.2211789700814,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7560.611642090924,
+      "attack": 164.07298161756898,
+      "defense": 442.8780950030632,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7996.191964356549,
+      "attack": 173.52567937147523,
+      "defense": 468.3931020221062,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8674.017159126524,
+      "attack": 188.2350831504973,
+      "defense": 508.09808357132715,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 9109.597725532774,
+      "attack": 197.68778471910082,
+      "defense": 533.6130829609756,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9787.423311600985,
+      "attack": 212.39719698963927,
+      "defense": 573.318087431282,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "散る星の破片",
+      "effect": "通常攻撃が命中すると範囲ダメージを与える。"
+    },
+    "c2": {
+      "name": "璇璣、崑崙を鎮める",
+      "effect": "**璇璣屏**が破裂した時、クールタイムがリセットする。\n6秒毎に1回のみ発動可能。"
+    },
+    "c3": {
+      "name": "森羅星列の囲い",
+      "effect": "**天権崩玉**のスキルLv.+3。\n最大Lv.15まで。"
+    },
+    "c4": {
+      "name": "神機妙道の陣組み",
+      "effect": "**璇璣屏**付近のキャラクターの全元素耐性+10%。"
+    },
+    "c5": {
+      "name": "瓊屏と千扇の守り",
+      "effect": "**璇璣屏**のスキルLv.+3。\n最大Lv.15まで。"
+    },
+    "c6": {
+      "name": "燦々たる七星",
+      "effect": "**天権崩玉**を放つ時、凝光に七枚の星璇を生成する。"
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ningguang_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ningguang_05.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Ningguang_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ningguang_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Ningguang_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ningguang_04.png",
+      "constellation": "Eff_UI_Talent_Ningguang"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "凝光",
+    "combat1": {
+      "name": "通常攻撃·千金擲",
+      "info": "**通常攻撃**\n宝石を発射し、岩元素ダメージを与える。\n命中した時、凝光に星璇を一枚付与する。\n\n**重撃**\nスタミナを消費して巨大な宝石を発射し、岩元素ダメージを与える。\n凝光に星璇がついている状態下で重撃を行うと、全ての星璇を一斉に発射し、さらにダメージを与える。\n\n**落下攻撃**\n空中から晶岩の力を凝集しながら落下し、地面に衝撃を与える。経路上の敵を攻撃し、落下時に岩元素範囲ダメージを与える。",
+      "attributes": [
+        {
+          "name": "通常攻撃ダメージ",
+          "parameters": [
+            "28.00%",
+            "30.10%",
+            "32.20%",
+            "35.00%",
+            "37.10%",
+            "39.20%",
+            "42.00%",
+            "44.80%",
+            "47.60%",
+            "50.40%",
+            "53.31%",
+            "57.12%",
+            "60.93%",
+            "64.74%",
+            "68.54%"
+          ]
+        },
+        {
+          "name": "重撃ダメージ",
+          "parameters": [
+            "174.08%",
+            "187.14%",
+            "200.19%",
+            "217.60%",
+            "230.66%",
+            "243.71%",
+            "261.12%",
+            "278.53%",
+            "295.94%",
+            "313.34%",
+            "331.45%",
+            "355.12%",
+            "378.80%",
+            "402.47%",
+            "426.15%"
+          ]
+        },
+        {
+          "name": "星璇ダメージ",
+          "parameters": [
+            "1つにつき49.60%",
+            "1つにつき53.32%",
+            "1つにつき57.04%",
+            "1つにつき62.00%",
+            "1つにつき65.72%",
+            "1つにつき69.44%",
+            "1つにつき74.40%",
+            "1つにつき79.36%",
+            "1つにつき84.32%",
+            "1つにつき89.28%",
+            "1つにつき94.44%",
+            "1つにつき101.18%",
+            "1つにつき107.93%",
+            "1つにつき114.68%",
+            "1つにつき121.42%"
+          ]
+        },
+        {
+          "name": "重撃スタミナ消費",
+          "parameters": [
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50"
+          ]
+        },
+        {
+          "name": "落下期間のダメージ",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "低空/高空落下攻撃ダメージ",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "璇璣屏",
+      "info": "黄金、黒曜岩、強者の余裕で璇璣屏を作り、岩元素範囲ダメージを与える。\n\n**璇璣屏**\n·敵の投擲攻撃を防御する。\n·耐久度は凝光のHP上限によって決まる。\n\n璇璣屏は岩元素創造物と見なされ、一部の攻撃を防ぐことができるが、璇璣屏に登ることはできない。同時に最大1つまで存在可能。",
+      "description": "星羅棋布、璇璣合屏。",
+      "attributes": [
+        {
+          "name": "HP継承",
+          "parameters": [
+            "50.10%",
+            "53.10%",
+            "56.10%",
+            "60.00%",
+            "63.00%",
+            "66.00%",
+            "69.90%",
+            "73.80%",
+            "77.70%",
+            "81.60%",
+            "85.50%",
+            "89.40%",
+            "93.30%",
+            "97.20%",
+            "101.10%"
+          ]
+        },
+        {
+          "name": "スキルダメージ",
+          "parameters": [
+            "230.40%",
+            "247.68%",
+            "264.96%",
+            "288.00%",
+            "305.28%",
+            "322.56%",
+            "345.60%",
+            "368.64%",
+            "391.68%",
+            "414.72%",
+            "437.76%",
+            "460.80%",
+            "489.60%",
+            "518.40%",
+            "547.20%"
+          ]
+        },
+        {
+          "name": "クールタイム",
+          "parameters": [
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "天権崩玉",
+      "info": "自身の周りに宝石を凝聚させ、それらを一気に放つ。自動索敵する宝石は周りの敵を攻撃し、大量の岩元素ダメージを与える。\n周りに璇璣屏が存在する時に天権崩玉を発動すると、璇璣屏から追加で宝石が放たれ、敵を攻撃する。",
+      "description": "星が散り、敵を滅ぼす。",
+      "attributes": [
+        {
+          "name": "宝石ダメージ",
+          "parameters": [
+            "1つにつき86.96%",
+            "1つにつき93.48%",
+            "1つにつき100.00%",
+            "1つにつき108.70%",
+            "1つにつき115.22%",
+            "1つにつき121.74%",
+            "1つにつき130.44%",
+            "1つにつき139.14%",
+            "1つにつき147.83%",
+            "1つにつき156.53%",
+            "1つにつき165.22%",
+            "1つにつき173.92%",
+            "1つにつき184.79%",
+            "1つにつき195.66%",
+            "1つにつき206.53%"
+          ]
+        },
+        {
+          "name": "クールタイム",
+          "parameters": [
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒",
+            "12秒"
+          ]
+        },
+        {
+          "name": "元素エネルギー",
+          "parameters": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "物換星移",
+      "info": "星璇がついている間、凝光の重撃はスタミナを消費しない。"
+    },
+    "passive2": {
+      "name": "備えあれば憂いなし",
+      "info": "**璇璣屏**を突き抜けたキャラクターの岩元素ダメージ+12%、継続時間10秒。"
+    },
+    "passive3": {
+      "name": "奇石宝物録",
+      "info": "ミニマップで周囲の**鍛造に使われる鉱石の鉱脈**の位置を表示する。"
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "モラ",
+          "count": 12500
+        },
+        {
+          "name": "「繁栄」の教え",
+          "count": 3
+        },
+        {
+          "name": "新兵の記章",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "モラ",
+          "count": 17500
+        },
+        {
+          "name": "「繁栄」の導き",
+          "count": 2
+        },
+        {
+          "name": "士官の記章",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "モラ",
+          "count": 25000
+        },
+        {
+          "name": "「繁栄」の導き",
+          "count": 4
+        },
+        {
+          "name": "士官の記章",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "モラ",
+          "count": 30000
+        },
+        {
+          "name": "「繁栄」の導き",
+          "count": 6
+        },
+        {
+          "name": "士官の記章",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "モラ",
+          "count": 37500
+        },
+        {
+          "name": "「繁栄」の導き",
+          "count": 9
+        },
+        {
+          "name": "士官の記章",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "モラ",
+          "count": 120000
+        },
+        {
+          "name": "「繁栄」の哲学",
+          "count": 4
+        },
+        {
+          "name": "尉官の記章",
+          "count": 4
+        },
+        {
+          "name": "北風の魂箱",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "モラ",
+          "count": 260000
+        },
+        {
+          "name": "「繁栄」の哲学",
+          "count": 6
+        },
+        {
+          "name": "尉官の記章",
+          "count": 6
+        },
+        {
+          "name": "北風の魂箱",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "モラ",
+          "count": 450000
+        },
+        {
+          "name": "「繁栄」の哲学",
+          "count": 12
+        },
+        {
+          "name": "尉官の記章",
+          "count": 9
+        },
+        {
+          "name": "北風の魂箱",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "モラ",
+          "count": 700000
+        },
+        {
+          "name": "「繁栄」の哲学",
+          "count": 16
+        },
+        {
+          "name": "尉官の記章",
+          "count": 12
+        },
+        {
+          "name": "北風の魂箱",
+          "count": 2
+        },
+        {
+          "name": "知恵の冠",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_Catalyst_MD",
+      "combat2": "Skill_S_Ningguang_01",
+      "combat3": "Skill_E_Ningguang_01_HD",
+      "passive1": "UI_Talent_S_Ningguang_02",
+      "passive2": "UI_Talent_S_Ningguang_06",
+      "passive3": "UI_Talent_Collect_Ore"
+    },
+    "version": "1.0"
+  }
+}

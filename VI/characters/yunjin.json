@@ -1,0 +1,911 @@
+{
+  "name": "Yun Jin",
+  "fullname": "Yun Jin",
+  "title": "Mỹ Nhân Trên Sân Khấu",
+  "description": "Diễn viên hát kịch nổi tiếng Liyue, hội tụ cả tài viết kịch và ca xướng. Phong cách riêng biệt, thanh lịch xinh đẹp, thần thái ngút trời.",
+  "rarity": "4",
+  "element": "Nham",
+  "weapontype": "Vũ Khí Cán Dài",
+  "substat": "Hiệu Quả Nạp Nguyên Tố",
+  "gender": "nữ",
+  "body": "GIRL",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Vân Hàn Xã",
+  "birthdaymmdd": "5/21",
+  "birthday": "21 tháng 5",
+  "constellation": "Cung Hồng Chương",
+  "cv": {
+    "english": "Judy Alice Lee & Yang Yang",
+    "chinese": "贺文潇&杨扬",
+    "japanese": "小岩井ことり & Yang Yang",
+    "korean": "Sah Moon-young & Yang Yang"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vụn Hoàng Ngọc Cứng",
+        "count": 1
+      },
+      {
+        "name": "Bách Hợp Lưu Ly",
+        "count": 3
+      },
+      {
+        "name": "Mặt Nạ Vỡ",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Hoàng Ngọc Cứng",
+        "count": 3
+      },
+      {
+        "name": "Sừng Vua Quái Cảnh",
+        "count": 2
+      },
+      {
+        "name": "Bách Hợp Lưu Ly",
+        "count": 10
+      },
+      {
+        "name": "Mặt Nạ Vỡ",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Hoàng Ngọc Cứng",
+        "count": 6
+      },
+      {
+        "name": "Sừng Vua Quái Cảnh",
+        "count": 4
+      },
+      {
+        "name": "Bách Hợp Lưu Ly",
+        "count": 20
+      },
+      {
+        "name": "Mặt Nạ Bẩn",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Hoàng Ngọc Cứng",
+        "count": 3
+      },
+      {
+        "name": "Sừng Vua Quái Cảnh",
+        "count": 8
+      },
+      {
+        "name": "Bách Hợp Lưu Ly",
+        "count": 30
+      },
+      {
+        "name": "Mặt Nạ Bẩn",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Hoàng Ngọc Cứng",
+        "count": 6
+      },
+      {
+        "name": "Sừng Vua Quái Cảnh",
+        "count": 12
+      },
+      {
+        "name": "Bách Hợp Lưu Ly",
+        "count": 45
+      },
+      {
+        "name": "Mặt Nạ Xui Xẻo",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Hoàng Ngọc Cứng",
+        "count": 6
+      },
+      {
+        "name": "Sừng Vua Quái Cảnh",
+        "count": 20
+      },
+      {
+        "name": "Bách Hợp Lưu Ly",
+        "count": 60
+      },
+      {
+        "name": "Mặt Nạ Xui Xẻo",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_AvatarIcon_Yunjin",
+    "nameiconcard": "UI_AvatarIcon_Yunjin_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Yunjin",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Yunjin",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yunjin.png",
+    "namesideicon": "UI_AvatarIcon_Side_Yunjin",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Yunjin.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211226/2021122614194093504.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211226/2021122614194555292.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Yun_Jin"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 893.55517578125,
+      "attack": 16.02720069885254,
+      "defense": 61.574100494384766,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2295.543251694995,
+      "attack": 41.17387868706055,
+      "defense": 158.1838645224043,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2963.07474583562,
+      "attack": 53.14729883018799,
+      "defense": 204.1828650717207,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4438.334148462163,
+      "attack": 79.60820372964463,
+      "defense": 305.8416917168597,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4912.632854516851,
+      "attack": 88.11563380624375,
+      "defense": 338.52519391412534,
+      "specialized": 0.06669999659061432
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5650.7096205961425,
+      "attack": 101.3541050072754,
+      "defense": 389.3854140761341,
+      "specialized": 0.06669999659061432
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6283.1078139555175,
+      "attack": 112.6973438378418,
+      "defense": 432.9634093764271,
+      "specialized": 0.13330000638961792
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7021.184580034809,
+      "attack": 125.93581503887344,
+      "defense": 483.82362953843585,
+      "specialized": 0.13330000638961792
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7495.483286089497,
+      "attack": 134.44324606914688,
+      "defense": 516.5071317357015,
+      "specialized": 0.13330000638961792
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 8232.666135676904,
+      "attack": 147.6656835887543,
+      "defense": 567.3057528992413,
+      "specialized": 0.13330000638961792
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8706.964719661279,
+      "attack": 156.17311461902773,
+      "defense": 599.9892550965069,
+      "specialized": 0.20000000298023224
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9445.04105966026,
+      "attack": 169.41157817769454,
+      "defense": 650.8494458976966,
+      "specialized": 0.20000000298023224
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 9919.33988778526,
+      "attack": 177.9190053932707,
+      "defense": 683.5329480949622,
+      "specialized": 0.26669999957084656
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10657.416653864551,
+      "attack": 191.15747659430235,
+      "defense": 734.393168256971,
+      "specialized": 0.26669999957084656
+    }
+  },
+  "version": "2.4",
+  "constellations": {
+    "c1": {
+      "name": "Phi Thân Thang Mã",
+      "effect": "**Toàn Vân Khai Tương** giảm 18% thời gian CD."
+    },
+    "c2": {
+      "name": "Chư Bàn Thiết Mạt",
+      "effect": "Sau khi thi triển **Phá Chướng Kiến Tinh Nghi**, sát thương đánh thường tạo ra từ tất cả nhân vật trong đội gần đó tăng 15%, duy trì 12s."
+    },
+    "c3": {
+      "name": "Nha Đạo Thám Hải",
+      "effect": "Cấp kỹ năng **Phá Chướng Kiến Tinh Nghi** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "Thăng Đường Điếu Vân",
+      "effect": "Sau khi Yun Jin kích hoạt phản ứng kết tinh, sức phòng ngự tăng 20%, duy trì 12s."
+    },
+    "c5": {
+      "name": "Kiều Sở Danh Khôn",
+      "effect": "Cấp kỹ năng **Toàn Vân Khai Tương** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Trang Hài Tịnh Cử",
+      "effect": "Nhân vật trong trạng thái **\"Phi Vân Kỳ Trận\"** sẽ tăng 12% tốc độ tấn công thường."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yunjin_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yunjin_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Yunjin_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yunjin_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Yunjin_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yunjin_04.png",
+      "constellation": "Eff_UI_Talent_Yunjin"
+    },
+    "version": "2.4"
+  },
+  "talent": {
+    "name": "Yun Jin",
+    "combat1": {
+      "name": "Tấn Công Thường - Phất Vân Xuất Thủ",
+      "info": "**Tấn Công Thường**\nThực hiện tối đa 5 lần đánh liên tiếp.\n\n**Trọng Kích**\nTiêu hao thể lực nhất định, xông về phía trước, gây sát thương cho địch trên đường đi.\n\n**Tấn Công Khi Đáp**\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "40.51%",
+            "43.80%",
+            "47.10%",
+            "51.81%",
+            "55.11%",
+            "58.88%",
+            "64.06%",
+            "69.24%",
+            "74.42%",
+            "80.07%",
+            "85.72%",
+            "91.37%",
+            "97.03%",
+            "102.68%",
+            "108.33%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "40.25%",
+            "43.52%",
+            "46.80%",
+            "51.48%",
+            "54.76%",
+            "58.50%",
+            "63.65%",
+            "68.80%",
+            "73.94%",
+            "79.56%",
+            "85.18%",
+            "90.79%",
+            "96.41%",
+            "102.02%",
+            "107.64%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "22.96%+27.52%",
+            "24.83%+29.76%",
+            "26.70%+32.00%",
+            "29.37%+35.20%",
+            "31.24%+37.44%",
+            "33.38%+40.00%",
+            "36.31%+43.52%",
+            "39.25%+47.04%",
+            "42.19%+50.56%",
+            "45.39%+54.40%",
+            "48.59%+58.24%",
+            "51.80%+62.08%",
+            "55.00%+65.92%",
+            "58.21%+69.76%",
+            "61.41%+73.60%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "23.99%+28.81%",
+            "25.95%+31.15%",
+            "27.90%+33.50%",
+            "30.69%+36.85%",
+            "32.64%+39.20%",
+            "34.87%+41.87%",
+            "37.94%+45.56%",
+            "41.01%+49.24%",
+            "44.08%+52.93%",
+            "47.43%+56.95%",
+            "50.78%+60.97%",
+            "54.13%+64.99%",
+            "57.47%+69.01%",
+            "60.82%+73.03%",
+            "64.17%+77.05%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 5",
+          "parameters": [
+            "67.34%",
+            "72.82%",
+            "78.30%",
+            "86.13%",
+            "91.61%",
+            "97.87%",
+            "106.49%",
+            "115.10%",
+            "123.71%",
+            "133.11%",
+            "142.51%",
+            "151.90%",
+            "161.30%",
+            "170.69%",
+            "180.09%"
+          ]
+        },
+        {
+          "name": "Sát Thương Trọng Kích",
+          "parameters": [
+            "121.69%",
+            "131.60%",
+            "141.50%",
+            "155.65%",
+            "165.56%",
+            "176.87%",
+            "192.44%",
+            "208.00%",
+            "223.57%",
+            "240.55%",
+            "260.01%",
+            "282.89%",
+            "305.77%",
+            "328.65%",
+            "353.61%"
+          ]
+        },
+        {
+          "name": "Trọng Kích tiêu hao thể lực",
+          "parameters": [
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Toàn Vân Khai Tương",
+      "info": "Tư thế múa võ trên sân khấu của Yun tiên sinh thực sự có thể đánh địch đấy.\n\n**Nhấn**\nXoay thương xua tan mây mù, gây Sát Thương Nguyên Tố Nham.\n\n**Nhấn giữ**\nTụ lực từ tư thế Toàn Vân Khai Tương, tạo ra lá chắn, lượng hấp thụ sát thương căn cứ vào giới hạn HP của Yun Jin, có 150% hiệu quả hấp thụ sát thương vật lý và sát thương toàn bộ nguyên tố. Khiên duy trì đến khi thi triển xong Kỹ Năng Nguyên Tố.\nKhi buông kỹ năng, kết thúc thời gian duy trì hoặc khiên bị phá hủy, sẽ múa thương giải phóng sức mạnh tích tụ, gây Sát Thương Nguyên Tố Nham.\nCăn cứ vào thời gian tụ lực, trạng thái khi giải phóng sẽ chia thành tụ lực lần 1 và tụ lực lần 2.",
+      "description": "Một thoáng trên sân khấu, mười năm của khổ luyện.",
+      "attributes": [
+        {
+          "name": "Sát Thương Nhấn",
+          "parameters": [
+            "149.12% phòng ngự",
+            "160.30% phòng ngự",
+            "171.49% phòng ngự",
+            "186.40% phòng ngự",
+            "197.58% phòng ngự",
+            "208.77% phòng ngự",
+            "223.68% phòng ngự",
+            "238.59% phòng ngự",
+            "253.50% phòng ngự",
+            "268.42% phòng ngự",
+            "283.33% phòng ngự",
+            "298.24% phòng ngự",
+            "316.88% phòng ngự",
+            "335.52% phòng ngự",
+            "354.16% phòng ngự"
+          ]
+        },
+        {
+          "name": "Sát Thương Tụ Lực Lần 1",
+          "parameters": [
+            "260.96% phòng ngự",
+            "280.53% phòng ngự",
+            "300.10% phòng ngự",
+            "326.20% phòng ngự",
+            "345.77% phòng ngự",
+            "365.34% phòng ngự",
+            "391.44% phòng ngự",
+            "417.54% phòng ngự",
+            "443.63% phòng ngự",
+            "469.73% phòng ngự",
+            "495.82% phòng ngự",
+            "521.92% phòng ngự",
+            "554.54% phòng ngự",
+            "587.16% phòng ngự",
+            "619.78% phòng ngự"
+          ]
+        },
+        {
+          "name": "Sát Thương Tụ Lực Lần 2",
+          "parameters": [
+            "372.80% phòng ngự",
+            "400.76% phòng ngự",
+            "428.72% phòng ngự",
+            "466.00% phòng ngự",
+            "493.96% phòng ngự",
+            "521.92% phòng ngự",
+            "559.20% phòng ngự",
+            "596.48% phòng ngự",
+            "633.76% phòng ngự",
+            "671.04% phòng ngự",
+            "708.32% phòng ngự",
+            "745.60% phòng ngự",
+            "792.20% phòng ngự",
+            "838.80% phòng ngự",
+            "885.40% phòng ngự"
+          ]
+        },
+        {
+          "name": "Khiên hấp thụ",
+          "parameters": [
+            "12.00% HP tối đa +1155",
+            "12.90% HP tối đa +1271",
+            "13.80% HP tối đa +1396",
+            "15.00% HP tối đa +1531",
+            "15.90% HP tối đa +1675",
+            "16.80% HP tối đa +1830",
+            "18.00% HP tối đa +1993",
+            "19.20% HP tối đa +2167",
+            "20.40% HP tối đa +2350",
+            "21.60% HP tối đa +2542",
+            "22.80% HP tối đa +2744",
+            "24.00% HP tối đa +2956",
+            "25.50% HP tối đa +3178",
+            "27.00% HP tối đa +3409",
+            "28.50% HP tối đa +3650"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Phá Chướng Kiến Tinh Nghi",
+      "info": "Gây Sát Thương Phạm Vi Nguyên Tố Nham, đồng thời cung cấp \"Phi Vân Kỳ Trận\" cho tất cả nhân vật trong đội gần đó.\n\n**Phi Vân Kỳ Trận**\nKhi gây sát thương tấn công thường cho kẻ địch, sẽ căn cứ vào sức phòng ngự của Yun Jin để tăng thêm sát thương gây ra.\n\nHiệu quả \"Phi Vân Kỳ Trận\" sẽ biến mất khi kết thúc thời gian duy trì hoặc đạt số lần hiệu lực nhất định.\nKhi trong một lần tấn công thường trúng nhiều kẻ địch, thì sẽ căn cứ vào số lượng kẻ địch trúng đòn để tiêu hao số lần hiệu lực; Số lần hiệu lực \"Phi Vân Kỳ Trận\" của mỗi nhân vật trong đội sẽ tính độc lập với nhau.",
+      "description": "\"Trong tiếng trống vang, đao thương kiếm ảnh, mỹ nhân hóa đại tướng.\"\n\"Sáo nhạc tề vang trên thảm đỏ, cùng ngắm nhìn Yun tiên sinh hàng phục yêu ma.\"",
+      "attributes": [
+        {
+          "name": "Sát Thương Kỹ Năng",
+          "parameters": [
+            "244.00%",
+            "262.30%",
+            "280.60%",
+            "305.00%",
+            "323.30%",
+            "341.60%",
+            "366.00%",
+            "390.40%",
+            "414.80%",
+            "439.20%",
+            "463.60%",
+            "488.00%",
+            "518.50%",
+            "549.00%",
+            "579.50%"
+          ]
+        },
+        {
+          "name": "Tăng Sát Thương",
+          "parameters": [
+            "32.16% phòng ngự",
+            "34.57% phòng ngự",
+            "36.98% phòng ngự",
+            "40.20% phòng ngự",
+            "42.61% phòng ngự",
+            "45.02% phòng ngự",
+            "48.24% phòng ngự",
+            "51.46% phòng ngự",
+            "54.67% phòng ngự",
+            "57.89% phòng ngự",
+            "61.10% phòng ngự",
+            "64.32% phòng ngự",
+            "68.34% phòng ngự",
+            "72.36% phòng ngự",
+            "76.38% phòng ngự"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "parameters": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        },
+        {
+          "name": "Số lần hiệu lực",
+          "parameters": [
+            "30 lần",
+            "30 lần",
+            "30 lần",
+            "30 lần",
+            "30 lần",
+            "30 lần",
+            "30 lần",
+            "30 lần",
+            "30 lần",
+            "30 lần",
+            "30 lần",
+            "30 lần",
+            "30 lần",
+            "30 lần",
+            "30 lần"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Vụ Thủ Bản Chân",
+      "info": "Thi triển **Toàn Vân Khai Tương** trong thời khắc bị tấn công, sẽ dùng hình thức nhấn giữ tụ lực lần 2 để thi triển."
+    },
+    "passive2": {
+      "name": "Mạc Tùng Hằng Khê",
+      "info": "Sát thương đánh thường được buff từ **Phi Vân Kỳ Trận** sẽ tăng thêm dựa vào 2.5%/5%/7.5%/11.5% phòng ngự của Yun Jin khi trong đội có 1/2/3/4 loại nguyên tố."
+    },
+    "passive3": {
+      "name": "Thanh Thực Dưỡng Tính",
+      "info": "Khi nấu ăn hoàn mỹ các món thuộc loại thám hiểm, có tỷ lệ 12% được x2 thành phẩm."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Chăm Chỉ\"",
+          "count": 3
+        },
+        {
+          "name": "Mặt Nạ Vỡ",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Chăm Chỉ\"",
+          "count": 2
+        },
+        {
+          "name": "Mặt Nạ Bẩn",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Chăm Chỉ\"",
+          "count": 4
+        },
+        {
+          "name": "Mặt Nạ Bẩn",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Chăm Chỉ\"",
+          "count": 6
+        },
+        {
+          "name": "Mặt Nạ Bẩn",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Chăm Chỉ\"",
+          "count": 9
+        },
+        {
+          "name": "Mặt Nạ Bẩn",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Chăm Chỉ\"",
+          "count": 4
+        },
+        {
+          "name": "Mặt Nạ Xui Xẻo",
+          "count": 4
+        },
+        {
+          "name": "Trái Tim Tro Bụi",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Chăm Chỉ\"",
+          "count": 6
+        },
+        {
+          "name": "Mặt Nạ Xui Xẻo",
+          "count": 6
+        },
+        {
+          "name": "Trái Tim Tro Bụi",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Chăm Chỉ\"",
+          "count": 12
+        },
+        {
+          "name": "Mặt Nạ Xui Xẻo",
+          "count": 9
+        },
+        {
+          "name": "Trái Tim Tro Bụi",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Chăm Chỉ\"",
+          "count": 16
+        },
+        {
+          "name": "Mặt Nạ Xui Xẻo",
+          "count": 12
+        },
+        {
+          "name": "Trái Tim Tro Bụi",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_03",
+      "combat2": "Skill_S_Yunjin_01",
+      "combat3": "Skill_E_Yunjin_01_HD",
+      "passive1": "UI_Talent_S_Yunjin_05",
+      "passive2": "UI_Talent_S_Yunjin_06",
+      "passive3": "UI_Talent_S_Yunjin_07"
+    },
+    "version": "2.4"
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "name": "天空の刃",
+  "description": "風龍の栄誉を象徴する騎士剣。風神の祝福を受けた剣身に、蒼空と長風の力が秘められている。",
+  "weapontype": "片手剣",
+  "rarity": "5",
+  "baseatk": 46,
+  "substat": "元素チャージ効率",
+  "subvalue": "12",
+  "effectname": "高天を貫く牙",
+  "effect": [
+    "会心率+[4%]。元素爆発を使用すると衝天の勢いを獲得する：移動速度+[10%]、攻撃速度+[10%]、通常攻撃と重撃が命中する際に、攻撃力の[20%]の追加ダメージを与える、継続時間12秒。",
+    "会心率+[5%]。元素爆発を使用すると衝天の勢いを獲得する：移動速度+[10%]、攻撃速度+[10%]、通常攻撃と重撃が命中する際に、攻撃力の[25%]の追加ダメージを与える、継続時間12秒。",
+    "会心率+[6%]。元素爆発を使用すると衝天の勢いを獲得する：移動速度+[10%]、攻撃速度+[10%]、通常攻撃と重撃が命中する際に、攻撃力の[30%]の追加ダメージを与える、継続時間12秒。",
+    "会心率+[7%]。元素爆発を使用すると衝天の勢いを獲得する：移動速度+[10%]、攻撃速度+[10%]、通常攻撃と重撃が命中する際に、攻撃力の[35%]の追加ダメージを与える、継続時間12秒。",
+    "会心率+[8%]。元素爆発を使用すると衝天の勢いを獲得する：移動速度+[10%]、攻撃速度+[10%]、通常攻撃と重撃が命中する際に、攻撃力の[40%]の追加ダメージを与える、継続時間12秒。"
+  ],
+  "r1": [
+    "4%",
+    "10%",
+    "10%",
+    "20%"
+  ],
+  "r2": [
+    "5%",
+    "10%",
+    "10%",
+    "25%"
+  ],
+  "r3": [
+    "6%",
+    "10%",
+    "10%",
+    "30%"
+  ],
+  "r4": [
+    "7%",
+    "10%",
+    "10%",
+    "35%"
+  ],
+  "r5": [
+    "8%",
+    "10%",
+    "10%",
+    "40%"
+  ],
+  "weaponmaterialtype": "Boreal Wolf",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "モラ",
+        "count": 10000
+      },
+      {
+        "name": "凛風奔狼の乳歯",
+        "count": 5
+      },
+      {
+        "name": "地脈の旧枝",
+        "count": 5
+      },
+      {
+        "name": "スライムの液体",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "モラ",
+        "count": 20000
+      },
+      {
+        "name": "凛風奔狼の砕牙",
+        "count": 5
+      },
+      {
+        "name": "地脈の旧枝",
+        "count": 18
+      },
+      {
+        "name": "スライムの液体",
+        "count": 12
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "モラ",
+        "count": 30000
+      },
+      {
+        "name": "凛風奔狼の砕牙",
+        "count": 9
+      },
+      {
+        "name": "地脈の枯れ葉",
+        "count": 9
+      },
+      {
+        "name": "スライムの分泌物",
+        "count": 9
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "モラ",
+        "count": 45000
+      },
+      {
+        "name": "凛風奔狼の断牙",
+        "count": 5
+      },
+      {
+        "name": "地脈の枯れ葉",
+        "count": 18
+      },
+      {
+        "name": "スライムの分泌物",
+        "count": 14
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "モラ",
+        "count": 55000
+      },
+      {
+        "name": "凛風奔狼の断牙",
+        "count": 9
+      },
+      {
+        "name": "地脈の新芽",
+        "count": 14
+      },
+      {
+        "name": "スライムのピュレ",
+        "count": 9
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "モラ",
+        "count": 65000
+      },
+      {
+        "name": "凛風奔狼の郷愁",
+        "count": 6
+      },
+      {
+        "name": "地脈の新芽",
+        "count": 27
+      },
+      {
+        "name": "スライムのピュレ",
+        "count": 18
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/03/Weapon_Skyward_Blade.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Dvalin.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Dvalin_Awaken.png",
+    "nameicon": "UI_EquipIcon_Sword_Dvalin",
+    "namegacha": "UI_Gacha_EquipIcon_Sword_Dvalin",
+    "nameawakenicon": "UI_EquipIcon_Sword_Dvalin_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Skyward_Blade"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 45.9364013671875,
+      "specialized": 0.11999999731779099
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 61.692589533209684,
+      "specialized": 0.13943998978793637
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 81.53711133154866,
+      "specialized": 0.16356000057846298
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 101.56538184575038,
+      "specialized": 0.18780000266879782
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 121.73146800388349,
+      "specialized": 0.21203999045401822
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 152.83146838535322,
+      "specialized": 0.21203999045401822
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 173.18128683121176,
+      "specialized": 0.23627999254435306
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 193.66892639704747,
+      "specialized": 0.2605199946346879
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 214.34030920270015,
+      "specialized": 0.2847599824199083
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 235.19542429607827,
+      "specialized": 0.30899999881535756
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 266.295424677548,
+      "specialized": 0.30899999881535756
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 287.2883718429948,
+      "specialized": 0.33323998660057796
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 308.4191182242357,
+      "specialized": 0.3574800029960272
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 339.61911898717517,
+      "specialized": 0.3574800029960272
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 360.97953072807286,
+      "specialized": 0.38171999078124763
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 382.43183051701635,
+      "specialized": 0.40595997856646804
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 413.53182899113744,
+      "specialized": 0.40595997856646804
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 435.16788297198946,
+      "specialized": 0.4301999949619173
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 456.9876692405669,
+      "specialized": 0.4543199914473295
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 488.0876753440825,
+      "specialized": 0.4543199914473295
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 510.0912158045685,
+      "specialized": 0.4785599792325499
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 532.2325773850316,
+      "specialized": 0.5027999956279992
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 563.3325682297582,
+      "specialized": 0.5027999956279992
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 585.6117071218323,
+      "specialized": 0.5270400120234484
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 608.074622109998,
+      "specialized": 0.55127997119844
+    }
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,954 @@
+{
+  "name": "Noelle",
+  "fullname": "Noelle",
+  "title": "Đóa Hoa Chưa Vinh Danh",
+  "description": "Hầu gái đáng tin cậy của Đội Kỵ Sĩ Tây Phong, mơ ước một ngày nào đó sẽ trở thành kỵ sĩ chính thức.",
+  "rarity": "4",
+  "element": "Nham",
+  "weapontype": "Trọng Kiếm",
+  "substat": "Phòng Ngự",
+  "gender": "nữ",
+  "body": "GIRL",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Đội Kỵ Sĩ Tây Phong",
+  "birthdaymmdd": "3/21",
+  "birthday": "21 tháng 3",
+  "constellation": "Hộ Tâm",
+  "cv": {
+    "english": "Laura Faye Smith",
+    "chinese": "宴宁",
+    "japanese": "高尾奏音",
+    "korean": "Lee Bo-hee"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vụn Hoàng Ngọc Cứng",
+        "count": 1
+      },
+      {
+        "name": "Quả Dâu Đỏ",
+        "count": 3
+      },
+      {
+        "name": "Mặt Nạ Vỡ",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Hoàng Ngọc Cứng",
+        "count": 3
+      },
+      {
+        "name": "Tháp Huyền Nham",
+        "count": 2
+      },
+      {
+        "name": "Quả Dâu Đỏ",
+        "count": 10
+      },
+      {
+        "name": "Mặt Nạ Vỡ",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Hoàng Ngọc Cứng",
+        "count": 6
+      },
+      {
+        "name": "Tháp Huyền Nham",
+        "count": 4
+      },
+      {
+        "name": "Quả Dâu Đỏ",
+        "count": 20
+      },
+      {
+        "name": "Mặt Nạ Bẩn",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Hoàng Ngọc Cứng",
+        "count": 3
+      },
+      {
+        "name": "Tháp Huyền Nham",
+        "count": 8
+      },
+      {
+        "name": "Quả Dâu Đỏ",
+        "count": 30
+      },
+      {
+        "name": "Mặt Nạ Bẩn",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Hoàng Ngọc Cứng",
+        "count": 6
+      },
+      {
+        "name": "Tháp Huyền Nham",
+        "count": 12
+      },
+      {
+        "name": "Quả Dâu Đỏ",
+        "count": 45
+      },
+      {
+        "name": "Mặt Nạ Xui Xẻo",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Hoàng Ngọc Cứng",
+        "count": 6
+      },
+      {
+        "name": "Tháp Huyền Nham",
+        "count": 20
+      },
+      {
+        "name": "Quả Dâu Đỏ",
+        "count": 60
+      },
+      {
+        "name": "Mặt Nạ Xui Xẻo",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/9/92/Character_Noelle_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Character_Noelle_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Noel.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Noel.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200315/2020031517331523512.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200325/2020032510564718459.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/42120a5c88658419970a1e8f71d2b245.png",
+    "nameicon": "UI_AvatarIcon_Noel",
+    "nameiconcard": "UI_AvatarIcon_Noel_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Noel",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Noel",
+    "namesideicon": "UI_AvatarIcon_Side_Noel"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Noelle"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1012.0880126953125,
+      "attack": 16.02720069885254,
+      "defense": 66.9532470703125,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2600.054110405472,
+      "attack": 41.17387868706055,
+      "defense": 172.00289210674237,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3356.135653374222,
+      "attack": 53.14729883018799,
+      "defense": 222.02039393779705,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5027.092744198453,
+      "attack": 79.60820372964463,
+      "defense": 332.56019042042317,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5564.308564510953,
+      "attack": 88.11563380624375,
+      "defense": 368.0989401152474,
+      "specialized": 0.07500000298023224
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6400.293479202606,
+      "attack": 101.3541050072754,
+      "defense": 423.40233649808215,
+      "specialized": 0.07500000298023224
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7116.581320999481,
+      "attack": 112.6973438378418,
+      "defense": 470.7873386343126,
+      "specialized": 0.15000000596046448
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7952.566235691134,
+      "attack": 125.93581503887344,
+      "defense": 526.0907350171474,
+      "specialized": 0.15000000596046448
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8489.782056003634,
+      "attack": 134.44324606914688,
+      "defense": 561.6294770825771,
+      "specialized": 0.15000000596046448
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9324.754473436798,
+      "attack": 147.6656835887543,
+      "defense": 616.8658931452665,
+      "specialized": 0.15000000596046448
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 9861.970293749298,
+      "attack": 156.17311461902773,
+      "defense": 652.4046504694852,
+      "specialized": 0.22499999403953552
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 10697.95472583978,
+      "attack": 169.41157817769454,
+      "defense": 707.7080149265239,
+      "specialized": 0.22499999403953552
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11235.17054615228,
+      "attack": 177.9190053932707,
+      "defense": 743.2467569919536,
+      "specialized": 0.30000001192092896
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12071.155460843933,
+      "attack": 191.15747659430235,
+      "defense": 798.5501533747884,
+      "specialized": 0.30000001192092896
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Chi viện cứ giao cho tôi",
+      "effect": "Khi cùng ở trạng thái **Quét Sạch** và **Giáp Hộ Tâm**, kích hoạt hiệu quả hồi HP của Giáp Hộ Tâm tăng lên 100%."
+    },
+    "c2": {
+      "name": "Hầu Gái Lốc Xoáy",
+      "effect": "Thể lực mà trọng kích của Noelle tiêu hao sẽ giảm 20%, sát thương tăng 15%."
+    },
+    "c3": {
+      "name": "Hầu Gái Không Đau",
+      "effect": "Cấp kỹ năng **Giáp Hộ Tâm** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "Sẽ Dọn Dẹp Sạch Sẽ",
+      "effect": "Khi hiệu quả **Giáp Hộ Tâm** kết thúc hoặc do sát thương đánh vỡ, sẽ tạo thành sát thương Nguyên Tố Nham với lực tấn công 400% cho kẻ địch xung quanh."
+    },
+    "c5": {
+      "name": "Chuyên Gia Quét Dọn Đội Kỵ Sĩ",
+      "effect": "Cấp kỹ năng **Quét Sạch** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Phải Sạch Bong Kin Kít",
+      "effect": "**Quét Sạch** tăng thêm sức tấn công tương đương 50% phòng ngự của Noelle.\nNgoài ra, trong thời gian duy trì mỗi lần đánh bại 1 kẻ địch, thời gian sẽ kéo dài thêm 1s, tối đa 10s."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Noel_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Noel_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Noel_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Noel_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Noel_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Noel_04.png",
+      "constellation": "Eff_UI_Talent_Noel"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Noelle",
+    "combat1": {
+      "name": "Tấn Công Thường: Tây Phong Kiếm Thuật - Hầu Gái",
+      "info": "**Tấn Công Thường**\nThực hiện tối đa 4 lần chém liên tiếp.\n\n**Trọng Kích**\nTiêu hao thể lực để xoay kiếm tấn công địch xung quanh.\nKhi ngừng quay, sẽ bổ một nhát cực mạnh.\n\n**Tấn Công Khi Đáp**\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "79.12%",
+            "85.56%",
+            "92.00%",
+            "101.20%",
+            "107.64%",
+            "115.00%",
+            "125.12%",
+            "135.24%",
+            "145.36%",
+            "156.40%",
+            "167.44%",
+            "178.48%",
+            "189.52%",
+            "200.56%",
+            "211.60%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "73.36%",
+            "79.33%",
+            "85.30%",
+            "93.83%",
+            "99.80%",
+            "106.62%",
+            "116.01%",
+            "125.39%",
+            "134.77%",
+            "145.01%",
+            "155.25%",
+            "165.48%",
+            "175.72%",
+            "185.95%",
+            "196.19%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "86.26%",
+            "93.28%",
+            "100.30%",
+            "110.33%",
+            "117.35%",
+            "125.37%",
+            "136.41%",
+            "147.44%",
+            "158.47%",
+            "170.51%",
+            "182.55%",
+            "194.58%",
+            "206.62%",
+            "218.65%",
+            "230.69%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "113.43%",
+            "122.67%",
+            "131.90%",
+            "145.09%",
+            "154.32%",
+            "164.87%",
+            "179.38%",
+            "193.89%",
+            "208.40%",
+            "224.23%",
+            "240.06%",
+            "255.89%",
+            "271.71%",
+            "287.54%",
+            "303.37%"
+          ]
+        },
+        {
+          "name": "Sát Thương Trọng Kích Tuần Hoàn",
+          "parameters": [
+            "50.74%",
+            "54.87%",
+            "59.00%",
+            "64.90%",
+            "69.03%",
+            "73.75%",
+            "80.24%",
+            "86.73%",
+            "93.22%",
+            "100.30%",
+            "107.38%",
+            "114.46%",
+            "121.54%",
+            "128.62%",
+            "135.70%"
+          ]
+        },
+        {
+          "name": "Sát Thương Trọng Kích Chí Mạng",
+          "parameters": [
+            "90.47%",
+            "97.84%",
+            "105.20%",
+            "115.72%",
+            "123.08%",
+            "131.50%",
+            "143.07%",
+            "154.64%",
+            "166.22%",
+            "178.84%",
+            "191.46%",
+            "204.09%",
+            "216.71%",
+            "229.34%",
+            "241.96%"
+          ]
+        },
+        {
+          "name": "Thể lực Trọng Kích tiêu hao",
+          "parameters": [
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài Tối Đa",
+          "parameters": [
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Đáp",
+          "parameters": [
+            "74.59%",
+            "80.66%",
+            "86.73%",
+            "95.40%",
+            "101.47%",
+            "108.41%",
+            "117.95%",
+            "127.49%",
+            "137.03%",
+            "147.44%",
+            "157.85%",
+            "168.26%",
+            "178.66%",
+            "189.07%",
+            "199.48%"
+          ]
+        },
+        {
+          "name": "ST Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "149.14%/186.29%",
+            "161.28%/201.45%",
+            "173.42%/216.62%",
+            "190.77%/238.28%",
+            "202.91%/253.44%",
+            "216.78%/270.77%",
+            "235.86%/294.60%",
+            "254.93%/318.42%",
+            "274.01%/342.25%",
+            "294.82%/368.25%",
+            "315.63%/394.24%",
+            "336.44%/420.23%",
+            "357.25%/446.23%",
+            "378.06%/472.22%",
+            "398.87%/498.21%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Giáp Hộ Tâm",
+      "info": "Gọi ra giáp Nham bảo vệ bản thân, gây sát thương Nguyên Tố Nham cho kẻ địch xung quanh và hình thành khiên, lượng sát thương hấp thu dựa theo phòng ngự của Noelle.\nHiệu quả khiên:\n·Khi tấn công thường và trọng kích của Noelle đánh trúng kẻ địch đều có tỷ lệ hồi phục HP cho tất cả các nhân vật trong đội;\nCó hiệu quả hấp thụ 150% tất cả sát thương nguyên tố và sát thương vật lý.\n\nLượng trị liệu dựa trên phòng ngự của Noelle.",
+      "description": "Noelle tuy là hầu gái nhưng cũng là một kỵ sĩ kiên cường.",
+      "attributes": [
+        {
+          "name": "Sát Thương Kỹ Năng",
+          "parameters": [
+            "120.00% phòng ngự",
+            "129.00% phòng ngự",
+            "138.00% phòng ngự",
+            "150.00% phòng ngự",
+            "159.00% phòng ngự",
+            "168.00% phòng ngự",
+            "180.00% phòng ngự",
+            "192.00% phòng ngự",
+            "204.00% phòng ngự",
+            "216.00% phòng ngự",
+            "228.00% phòng ngự",
+            "240.00% phòng ngự",
+            "255.00% phòng ngự",
+            "270.00% phòng ngự",
+            "285.00% phòng ngự"
+          ]
+        },
+        {
+          "name": "Lượng hấp thu",
+          "parameters": [
+            "160.00% phòng ngự +770",
+            "172.00% phòng ngự +847",
+            "184.00% phòng ngự +930",
+            "200.00% phòng ngự +1020",
+            "212.00% phòng ngự +1116",
+            "224.00% phòng ngự +1219",
+            "240.00% phòng ngự +1328",
+            "256.00% phòng ngự +1443",
+            "272.00% phòng ngự +1565",
+            "288.00% phòng ngự +1694",
+            "304.00% phòng ngự +1828",
+            "320.00% phòng ngự +1970",
+            "340.00% phòng ngự +2117",
+            "360.00% phòng ngự +2271",
+            "380.00% phòng ngự +2431"
+          ]
+        },
+        {
+          "name": "Lượng trị liệu",
+          "parameters": [
+            "21.28% phòng ngự +103",
+            "22.88% phòng ngự +113",
+            "24.47% phòng ngự +124",
+            "26.60% phòng ngự +136",
+            "28.20% phòng ngự +149",
+            "29.79% phòng ngự +163",
+            "31.92% phòng ngự +177",
+            "34.05% phòng ngự +193",
+            "36.18% phòng ngự +209",
+            "38.30% phòng ngự +226",
+            "40.43% phòng ngự +244",
+            "42.56% phòng ngự +263",
+            "45.22% phòng ngự +282",
+            "47.88% phòng ngự +303",
+            "50.54% phòng ngự +324"
+          ]
+        },
+        {
+          "name": "Tỷ lệ kích hoạt trị liệu",
+          "parameters": [
+            "50.00%",
+            "51.00%",
+            "52.00%",
+            "53.00%",
+            "54.00%",
+            "55.00%",
+            "56.00%",
+            "57.00%",
+            "58.00%",
+            "59.00%",
+            "59.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "parameters": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "24s",
+            "24s",
+            "24s",
+            "24s",
+            "24s",
+            "24s",
+            "24s",
+            "24s",
+            "24s",
+            "24s",
+            "24s",
+            "24s",
+            "24s",
+            "24s",
+            "24s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Quét Sạch",
+      "info": "Ngưng tụ sức mạnh của đá lên vũ khí, càn quét phạm vi lớn đối với địch xung quanh, gây sát thương nguyên tố Nham.\nSau đó nhận hiệu quả như sau:\n·Tăng phạm vi tấn công của Noelle;\n·Chuyển hóa sát thương tấn công thành sát thương nguyên tố Nham, chuyển hóa Nguyên Tố này không thể bị đính kèm thay thế;\n·Dựa trên phòng ngự của Noelle, tăng tấn công.",
+      "description": "Đôi lúc không chỉ có bụi bẩn mới cần quét dọn...",
+      "attributes": [
+        {
+          "name": "ST Bạo Phát",
+          "parameters": [
+            "67.20%",
+            "72.24%",
+            "77.28%",
+            "84.00%",
+            "89.04%",
+            "94.08%",
+            "100.80%",
+            "107.52%",
+            "114.24%",
+            "120.96%",
+            "127.68%",
+            "134.40%",
+            "142.80%",
+            "151.20%",
+            "159.60%"
+          ]
+        },
+        {
+          "name": "Sát Thương Kỹ Năng",
+          "parameters": [
+            "92.80%",
+            "99.76%",
+            "106.72%",
+            "116.00%",
+            "122.96%",
+            "129.92%",
+            "139.20%",
+            "148.48%",
+            "157.76%",
+            "167.04%",
+            "176.32%",
+            "185.60%",
+            "197.20%",
+            "208.80%",
+            "220.40%"
+          ]
+        },
+        {
+          "name": "Tấn Công Tăng",
+          "parameters": [
+            "40.00% Phòng Ngự",
+            "43.00% Phòng Ngự",
+            "46.00% Phòng Ngự",
+            "50.00% Phòng Ngự",
+            "53.00% Phòng Ngự",
+            "56.00% Phòng Ngự",
+            "60.00% Phòng Ngự",
+            "64.00% Phòng Ngự",
+            "68.00% Phòng Ngự",
+            "72.00% Phòng Ngự",
+            "76.00% Phòng Ngự",
+            "80.00% Phòng Ngự",
+            "85.00% Phòng Ngự",
+            "90.00% Phòng Ngự",
+            "95.00% Phòng Ngự"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Toàn Tâm Toàn Ý",
+      "info": "Nếu Noelle ở trạng thái chờ mà nhân vật của bản thân đang chiến đấu có HP thấp hơn 30% sẽ tự động kích hoạt:\nTạo ra khiên có thể hấp thu sát thương tương đương 400% phòng ngự của Noelle cho nhân vật của bản thân trong trận hiện tại, duy trì 20s.\n·Có hiệu quả hấp thụ 150% tất cả sát thương nguyên tố và sát thương vật lý.\nHiệu quả này mỗi 60s chỉ kích hoạt 1 lần."
+    },
+    "passive2": {
+      "name": "Gọn Gàng",
+      "info": "Tấn công thường hoặc trọng kích của Noelle tích lũy đánh trúng kẻ địch 4 lần sẽ giảm 1s CD của **Giáp Hộ Tâm**.\nMỗi 0.1s tối đa tính 1 lần."
+    },
+    "passive3": {
+      "name": "Thái Độ Của Hầu Gái",
+      "info": "Nấu hoàn mỹ món ăn thuộc loại phòng ngự, có tỷ lệ 12% x2 sản lượng."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Kháng Chiến\"",
+          "count": 3
+        },
+        {
+          "name": "Mặt Nạ Vỡ",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+          "count": 2
+        },
+        {
+          "name": "Mặt Nạ Bẩn",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+          "count": 4
+        },
+        {
+          "name": "Mặt Nạ Bẩn",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+          "count": 6
+        },
+        {
+          "name": "Mặt Nạ Bẩn",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+          "count": 9
+        },
+        {
+          "name": "Mặt Nạ Bẩn",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Kháng Chiến\"",
+          "count": 4
+        },
+        {
+          "name": "Mặt Nạ Xui Xẻo",
+          "count": 4
+        },
+        {
+          "name": "Móng Vuốt Đông Phong",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Kháng Chiến\"",
+          "count": 6
+        },
+        {
+          "name": "Mặt Nạ Xui Xẻo",
+          "count": 6
+        },
+        {
+          "name": "Móng Vuốt Đông Phong",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Kháng Chiến\"",
+          "count": 12
+        },
+        {
+          "name": "Mặt Nạ Xui Xẻo",
+          "count": 9
+        },
+        {
+          "name": "Móng Vuốt Đông Phong",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Kháng Chiến\"",
+          "count": 16
+        },
+        {
+          "name": "Mặt Nạ Xui Xẻo",
+          "count": 12
+        },
+        {
+          "name": "Móng Vuốt Đông Phong",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Noel_01",
+      "combat3": "Skill_E_Noel_01_HD",
+      "passive1": "UI_Talent_S_Noel_05",
+      "passive2": "UI_Talent_S_Noel_06",
+      "passive3": "UI_Talent_Cook_Defense"
+    },
+    "version": "1.0"
+  }
+}

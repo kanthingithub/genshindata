@@ -1,0 +1,854 @@
+{
+  "name": "Albedo",
+  "fullname": "Albedo",
+  "title": "Kreideprinz",
+  "description": "Người đứng đầu trong các Giả Kim Thuật Sĩ kiêm đội trưởng tiểu đội điều tra của Đội Kỵ Sĩ Tây Phong, được gọi là thiên tài \"Kreideprinz\".",
+  "rarity": "5",
+  "element": "Nham",
+  "weapontype": "Kiếm Đơn",
+  "substat": "Tăng ST Nguyên Tố Nham",
+  "gender": "nam",
+  "body": "BOY",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Đội Kỵ Sĩ Tây Phong",
+  "birthdaymmdd": "9/13",
+  "birthday": "13 tháng 9",
+  "constellation": "Cung Đứa Con Vôi Trắng",
+  "cv": {
+    "english": "Khoi Dao",
+    "chinese": "Mace",
+    "japanese": "野島健児",
+    "korean": "Kim Myeong-joon"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vụn Hoàng Ngọc Cứng",
+        "count": 1
+      },
+      {
+        "name": "Hoa Cecilia",
+        "count": 3
+      },
+      {
+        "name": "Bản Vẽ Hướng Dẫn",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Hoàng Ngọc Cứng",
+        "count": 3
+      },
+      {
+        "name": "Tháp Huyền Nham",
+        "count": 2
+      },
+      {
+        "name": "Hoa Cecilia",
+        "count": 10
+      },
+      {
+        "name": "Bản Vẽ Hướng Dẫn",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Hoàng Ngọc Cứng",
+        "count": 6
+      },
+      {
+        "name": "Tháp Huyền Nham",
+        "count": 4
+      },
+      {
+        "name": "Hoa Cecilia",
+        "count": 20
+      },
+      {
+        "name": "Bản Vẽ Phong Ấn",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Hoàng Ngọc Cứng",
+        "count": 3
+      },
+      {
+        "name": "Tháp Huyền Nham",
+        "count": 8
+      },
+      {
+        "name": "Hoa Cecilia",
+        "count": 30
+      },
+      {
+        "name": "Bản Vẽ Phong Ấn",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Hoàng Ngọc Cứng",
+        "count": 6
+      },
+      {
+        "name": "Tháp Huyền Nham",
+        "count": 12
+      },
+      {
+        "name": "Hoa Cecilia",
+        "count": 45
+      },
+      {
+        "name": "Bản Vẽ Cấm Chú",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Hoàng Ngọc Cứng",
+        "count": 6
+      },
+      {
+        "name": "Tháp Huyền Nham",
+        "count": 20
+      },
+      {
+        "name": "Hoa Cecilia",
+        "count": 60
+      },
+      {
+        "name": "Bản Vẽ Cấm Chú",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Character_Albedo_Card.png",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Character_Albedo_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Albedo.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201216/2020121611204969580.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201216/2020121611271023422.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/94dd9e0cc9d8311e58887a45b9b14861.png",
+    "nameicon": "UI_AvatarIcon_Albedo",
+    "nameiconcard": "UI_AvatarIcon_Albedo_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Albedo",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Albedo",
+    "namesideicon": "UI_AvatarIcon_Side_Albedo"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Albedo"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1029.5855712890625,
+      "attack": 19.551000595092773,
+      "defense": 68.2061996459961,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2670.7450760040956,
+      "attack": 50.71529752007109,
+      "defense": 176.92688877664295,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3553.5216262970644,
+      "attack": 67.47728711357695,
+      "defense": 235.40888722024647,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5317.201770792366,
+      "attack": 100.96815228897867,
+      "defense": 352.24611124672083,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5944.437793741585,
+      "attack": 112.87798810440836,
+      "defense": 393.7991164652267,
+      "specialized": 0.07199999690055847
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6839.14761198865,
+      "attack": 129.86780680115135,
+      "defense": 453.07030109555126,
+      "specialized": 0.07199999690055847
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7675.462187183963,
+      "attack": 145.74758661682517,
+      "defense": 508.47429279477,
+      "specialized": 0.14399999380111694
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8579.438094904996,
+      "attack": 162.91336088819116,
+      "defense": 568.3593212533524,
+      "specialized": 0.14399999380111694
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9206.67417888937,
+      "attack": 174.82319670362085,
+      "defense": 609.9123302865555,
+      "specialized": 0.14399999380111694
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 10118.887156081328,
+      "attack": 192.14538628870014,
+      "defense": 670.3430338405342,
+      "specialized": 0.14399999380111694
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10746.122995925078,
+      "attack": 204.05522210412983,
+      "defense": 711.8960276149483,
+      "specialized": 0.2160000056028366
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11668.631573538703,
+      "attack": 221.5729168473854,
+      "defense": 773.0087762532967,
+      "specialized": 0.2160000056028366
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12295.867657523078,
+      "attack": 233.48275266281507,
+      "defense": 814.5617700277107,
+      "specialized": 0.2879999876022339
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 13225.583793659927,
+      "attack": 251.13731313623066,
+      "defense": 876.1519925053435,
+      "specialized": 0.2879999876022339
+    }
+  },
+  "version": "1.2",
+  "constellations": {
+    "c1": {
+      "name": "Hoa Địa Đàng",
+      "effect": "Khi Hoa Khoảnh Khắc được tạo ra từ **Thuật Sáng Thế - Chế Tạo Mặt Trời** của Albedo bung nở, sẽ hồi 1,2 điểm Năng Lượng Nguyên Tố cho Albedo."
+    },
+    "c2": {
+      "name": "Liên Đại Hiển Sinh",
+      "effect": "Khi Hoa Khoảnh Khắc từ **Thuật Sáng Thế - Chế Tạo Mặt Trời** nở, sẽ ban hiệu quả Sinh Tử cho Albedo, kéo dài 30s:\n·Khi thi triển **Chiêu Giáng Sinh - Sóng Vỗ Đại Lục** sẽ xóa tất cả hiệu quả Sinh Tử và tăng sát thương nổ của Chiêu Giáng Sinh - Sóng Vỗ Đại Lục cũng như sát thương do Hoa Sinh Tử gây ra theo số tầng bị xóa.\n·Mỗi tầng Sinh Tử sẽ tăng sát thương bằng 30% phòng ngự của Albedo.\n·Hiệu quả này tối đa cộng dồn 4 lần."
+    },
+    "c3": {
+      "name": "Ánh Sáng Mặt Trời",
+      "effect": "Cấp kỹ năng **Thuật Sáng Thế - Chế Tạo Mặt Trời** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "Sự Giáng Thế Của Thần",
+      "effect": "Nhân vật trong đội trên trận ở khu vực Hoa Mặt Trời sẽ tăng 30% sát thương tấn công khi đáp tạo ra."
+    },
+    "c5": {
+      "name": "Thủy Triều Cổ Đại",
+      "effect": "Cấp kỹ năng **Chiêu Giáng Sinh - Sóng Vỗ Đại Lục** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Đất Tinh Khiết",
+      "effect": "Nhân vật trong đội trên trận ở khu vực Hoa Mặt Trời, nếu đang được bảo vệ bởi khiên sinh ra từ phản ứng kết tinh, thì sát thương tạo thành sẽ tăng 17%."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Albedo_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Albedo_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Albedo_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Albedo_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Albedo_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Albedo_04.png",
+      "constellation": "Eff_UI_Talent_Albedo"
+    },
+    "version": "1.2"
+  },
+  "talent": {
+    "name": "Albedo",
+    "combat1": {
+      "name": "Tấn Công Thường - Tây Phong Kiếm Thuật - Bạch",
+      "info": "**Tấn Công Thường**\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\n\n**Trọng Kích**\nTiêu hao thể lực nhất định, đánh ra hai kiếm về phía trước trong chớp mắt.\n\n**Tấn Công Khi Đáp**\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "36.74%",
+            "39.73%",
+            "42.72%",
+            "46.99%",
+            "49.98%",
+            "53.40%",
+            "58.10%",
+            "62.80%",
+            "67.50%",
+            "72.62%",
+            "78.50%",
+            "85.41%",
+            "92.31%",
+            "99.22%",
+            "106.76%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "36.74%",
+            "39.73%",
+            "42.72%",
+            "46.99%",
+            "49.98%",
+            "53.40%",
+            "58.10%",
+            "62.80%",
+            "67.50%",
+            "72.62%",
+            "78.50%",
+            "85.41%",
+            "92.31%",
+            "99.22%",
+            "106.76%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "47.45%",
+            "51.32%",
+            "55.18%",
+            "60.70%",
+            "64.56%",
+            "68.98%",
+            "75.04%",
+            "81.11%",
+            "87.18%",
+            "93.81%",
+            "101.39%",
+            "110.32%",
+            "119.24%",
+            "128.16%",
+            "137.89%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "49.75%",
+            "53.80%",
+            "57.85%",
+            "63.63%",
+            "67.68%",
+            "72.31%",
+            "78.68%",
+            "85.04%",
+            "91.40%",
+            "98.34%",
+            "106.30%",
+            "115.65%",
+            "125.01%",
+            "134.36%",
+            "144.57%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 5",
+          "parameters": [
+            "62.07%",
+            "67.13%",
+            "72.18%",
+            "79.40%",
+            "84.45%",
+            "90.22%",
+            "98.16%",
+            "106.10%",
+            "114.04%",
+            "122.70%",
+            "132.63%",
+            "144.30%",
+            "155.97%",
+            "167.64%",
+            "180.38%"
+          ]
+        },
+        {
+          "name": "Sát Thương Trọng Kích",
+          "parameters": [
+            "47.30%+60.20%",
+            "51.15%+65.10%",
+            "55.00%+70.00%",
+            "60.50%+77.00%",
+            "64.35%+81.90%",
+            "68.75%+87.50%",
+            "74.80%+95.20%",
+            "80.85%+102.90%",
+            "86.90%+110.60%",
+            "93.50%+119.00%",
+            "101.06%+128.62%",
+            "109.96%+139.94%",
+            "118.85%+151.26%",
+            "127.74%+162.58%",
+            "137.44%+174.93%"
+          ]
+        },
+        {
+          "name": "Thể lực Trọng Kích tiêu hao",
+          "parameters": [
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Đáp",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "ST Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Thuật Sáng Thế - Chế Tạo Mặt Trời",
+      "info": "Luyện thành Hoa Mặt Trời, gây sát thương phạm vi Nguyên Tố Nham.\n\n**Hoa Mặt Trời**\nCó những đặc tính sau:\n·Lấy Hoa Mặt Trời làm tâm, khi địch nằm trong khu vực nhận sát thương, Hoa Mặt Trời sẽ sinh ra Hoa Khoảnh Khắc, bung nở gây sát thương phạm vi Nguyên Tố Nham, sát thương tính theo phòng ngự của Albedo.\n·Mỗi 2 giây chỉ có thể sinh ra 1 Hoa Khoảnh Khắc.\n·Khi nhân vật đứng trên Hoa Mặt Trời sẽ ngưng tụ sức mạnh Nguyên Tố Nham, hình thành đài thủy tinh nâng nhân vật lên. Cùng lúc chỉ tồn tại 1 đài thủy tinh.\n·Cùng lúc chỉ có thể tồn tại 1 Hoa Mặt Trời do Albedo tạo ra, Hoa Mặt Trời được coi như vật tạo Nguyên Tố Nham.\n\n**Nhấn giữ**\nCó thể điều chỉnh vị trí hiệu lực của kỹ năng.",
+      "description": "Loại Nham hoa này có đặc tính kỳ lạ, cũng giống như thuật giả kim, sinh ra từ mặt đất nhưng lại luôn hy vọng vươn cao lên trời, hóa thành vầng thái dương.",
+      "attributes": [
+        {
+          "name": "Sát Thương Kỹ Năng",
+          "parameters": [
+            "130.40%",
+            "140.18%",
+            "149.96%",
+            "163.00%",
+            "172.78%",
+            "182.56%",
+            "195.60%",
+            "208.64%",
+            "221.68%",
+            "234.72%",
+            "247.76%",
+            "260.80%",
+            "277.10%",
+            "293.40%",
+            "309.70%"
+          ]
+        },
+        {
+          "name": "ST Hoa Khoảnh Khắc",
+          "parameters": [
+            "133.60% phòng ngự",
+            "143.62% phòng ngự",
+            "153.64% phòng ngự",
+            "167.00% phòng ngự",
+            "177.02% phòng ngự",
+            "187.04% phòng ngự",
+            "200.40% phòng ngự",
+            "213.76% phòng ngự",
+            "227.12% phòng ngự",
+            "240.48% phòng ngự",
+            "253.84% phòng ngự",
+            "267.20% phòng ngự",
+            "283.90% phòng ngự",
+            "300.60% phòng ngự",
+            "317.30% phòng ngự"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "parameters": [
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s"
+          ]
+        },
+        {
+          "name": "CD Kỹ Năng",
+          "parameters": [
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Chiêu Giáng Sinh - Sóng Vỗ Đại Lục",
+      "info": "Dưới chỉ huy của Albedo, nham tinh bùng nổ, gây sát thương phạm vi Nguyên Tố Nham về phía trước.\nKhi trong trận có tồn tại Hoa Mặt Trời do Albedo tạo ra, sẽ nở bung 7 đóa Hoa Sinh Tử trong khu vực của Hoa Mặt Trời, nở rộ rực rỡ đồng thời gây sát thương phạm vi Nguyên Tố Nham.\n\nSát thương bạo phát và sát thương của Hoa Sinh Tử sẽ không tạo thành Hoa Khoảnh Khắc.",
+      "description": "Dưới mệnh lệnh của Kreideprinz, dòng thủy triều của địa chất cuồn cuộn dâng trào.",
+      "attributes": [
+        {
+          "name": "ST Bạo Phát",
+          "parameters": [
+            "367.20%",
+            "394.74%",
+            "422.28%",
+            "459.00%",
+            "486.54%",
+            "514.08%",
+            "550.80%",
+            "587.52%",
+            "624.24%",
+            "660.96%",
+            "697.68%",
+            "734.40%",
+            "780.30%",
+            "826.20%",
+            "872.10%"
+          ]
+        },
+        {
+          "name": "ST Hoa Sinh Tử",
+          "parameters": [
+            "Mỗi đóa 72.00%",
+            "Mỗi đóa 77.40%",
+            "Mỗi đóa 82.80%",
+            "Mỗi đóa 90.00%",
+            "Mỗi đóa 95.40%",
+            "Mỗi đóa 100.80%",
+            "Mỗi đóa 108.00%",
+            "Mỗi đóa 115.20%",
+            "Mỗi đóa 122.40%",
+            "Mỗi đóa 129.60%",
+            "Mỗi đóa 136.80%",
+            "Mỗi đóa 144.00%",
+            "Mỗi đóa 153.00%",
+            "Mỗi đóa 162.00%",
+            "Mỗi đóa 171.00%"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Uy Lực Màu Vôi Trắng",
+      "info": "Hoa Khoảnh Khắc sinh ra từ **Thuật Sáng Thế - Chế Tạo Mặt Trời** sát thương gây cho kẻ địch có HP dưới 50% sẽ tăng 25%."
+    },
+    "passive2": {
+      "name": "Trí Tuệ Người Trong Bình",
+      "info": "Khi thi triển **Chiêu Giáng Sinh - Sóng Vỗ Đại Lục** sẽ tăng 125 điểm Tinh Thông Nguyên Tố cho thành viên trong đội ở gần, kéo dài 10s."
+    },
+    "passive3": {
+      "name": "Phát Hiện Của Thiên Tài",
+      "info": "Khi ghép nguyên liệu đột phá vũ khí sẽ có 10% tỷ lệ nhận x2 thành phẩm."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Thơ Văn\"",
+          "count": 3
+        },
+        {
+          "name": "Bản Vẽ Hướng Dẫn",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Thơ Văn\"",
+          "count": 2
+        },
+        {
+          "name": "Bản Vẽ Phong Ấn",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Thơ Văn\"",
+          "count": 4
+        },
+        {
+          "name": "Bản Vẽ Phong Ấn",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Thơ Văn\"",
+          "count": 6
+        },
+        {
+          "name": "Bản Vẽ Phong Ấn",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Thơ Văn\"",
+          "count": 9
+        },
+        {
+          "name": "Bản Vẽ Phong Ấn",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Thơ Văn\"",
+          "count": 4
+        },
+        {
+          "name": "Bản Vẽ Cấm Chú",
+          "count": 4
+        },
+        {
+          "name": "Thôn Thiên Kình - Sừng",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Thơ Văn\"",
+          "count": 6
+        },
+        {
+          "name": "Bản Vẽ Cấm Chú",
+          "count": 6
+        },
+        {
+          "name": "Thôn Thiên Kình - Sừng",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Thơ Văn\"",
+          "count": 12
+        },
+        {
+          "name": "Bản Vẽ Cấm Chú",
+          "count": 9
+        },
+        {
+          "name": "Thôn Thiên Kình - Sừng",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Thơ Văn\"",
+          "count": 16
+        },
+        {
+          "name": "Bản Vẽ Cấm Chú",
+          "count": 12
+        },
+        {
+          "name": "Thôn Thiên Kình - Sừng",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_01",
+      "combat2": "Skill_S_Albedo_01",
+      "combat3": "Skill_E_Albedo_01_HD",
+      "passive1": "UI_Talent_S_Albedo_05",
+      "passive2": "UI_Talent_S_Albedo_06",
+      "passive3": "UI_Talent_Combine_Weapon_Double"
+    },
+    "version": "1.2"
+  }
+}

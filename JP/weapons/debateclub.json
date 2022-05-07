@@ -1,0 +1,307 @@
+{
+  "name": "理屈責め",
+  "description": "精密な鋼鉄で作った棒、最高な理屈となるだろう。",
+  "weapontype": "両手剣",
+  "rarity": "3",
+  "baseatk": 39,
+  "substat": "攻撃力",
+  "subvalue": "7.7",
+  "effectname": "率直に話を言え",
+  "effect": [
+    "元素スキルを発動した後、通常攻撃と重撃が命中する際に、狭範囲で攻撃力の[60%]のダメージを与える、継続時間15秒、ダメージは3秒毎に1回のみ発動可能。",
+    "元素スキルを発動した後、通常攻撃と重撃が命中する際に、狭範囲で攻撃力の[75%]のダメージを与える、継続時間15秒、ダメージは3秒毎に1回のみ発動可能。",
+    "元素スキルを発動した後、通常攻撃と重撃が命中する際に、狭範囲で攻撃力の[90%]のダメージを与える、継続時間15秒、ダメージは3秒毎に1回のみ発動可能。",
+    "元素スキルを発動した後、通常攻撃と重撃が命中する際に、狭範囲で攻撃力の[105%]のダメージを与える、継続時間15秒、ダメージは3秒毎に1回のみ発動可能。",
+    "元素スキルを発動した後、通常攻撃と重撃が命中する際に、狭範囲で攻撃力の[120%]のダメージを与える、継続時間15秒、ダメージは3秒毎に1回のみ発動可能。"
+  ],
+  "r1": [
+    "60%"
+  ],
+  "r2": [
+    "75%"
+  ],
+  "r3": [
+    "90%"
+  ],
+  "r4": [
+    "105%"
+  ],
+  "r5": [
+    "120%"
+  ],
+  "weaponmaterialtype": "Mist Veiled Elixir",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "モラ",
+        "count": 5000
+      },
+      {
+        "name": "霧海雲間の鉛丹",
+        "count": 2
+      },
+      {
+        "name": "霧虚ろの花粉",
+        "count": 2
+      },
+      {
+        "name": "破損した仮面",
+        "count": 1
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "モラ",
+        "count": 10000
+      },
+      {
+        "name": "霧海雲間の水銀",
+        "count": 2
+      },
+      {
+        "name": "霧虚ろの花粉",
+        "count": 8
+      },
+      {
+        "name": "破損した仮面",
+        "count": 5
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "モラ",
+        "count": 15000
+      },
+      {
+        "name": "霧海雲間の水銀",
+        "count": 4
+      },
+      {
+        "name": "霧虚ろの草嚢",
+        "count": 4
+      },
+      {
+        "name": "汚れた仮面",
+        "count": 4
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "モラ",
+        "count": 20000
+      },
+      {
+        "name": "霧海雲間の金丹",
+        "count": 2
+      },
+      {
+        "name": "霧虚ろの草嚢",
+        "count": 8
+      },
+      {
+        "name": "汚れた仮面",
+        "count": 6
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "モラ",
+        "count": 25000
+      },
+      {
+        "name": "霧海雲間の金丹",
+        "count": 4
+      },
+      {
+        "name": "霧虚ろの灯芯",
+        "count": 6
+      },
+      {
+        "name": "不吉な仮面",
+        "count": 4
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "モラ",
+        "count": 30000
+      },
+      {
+        "name": "霧海雲間の転還",
+        "count": 3
+      },
+      {
+        "name": "霧虚ろの灯芯",
+        "count": 12
+      },
+      {
+        "name": "不吉な仮面",
+        "count": 8
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Weapon_Debate_Club.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Reasoning.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Reasoning_Awaken.png",
+    "nameicon": "UI_EquipIcon_Claymore_Reasoning",
+    "namegacha": "UI_Gacha_EquipIcon_Claymore_Reasoning",
+    "nameawakenicon": "UI_EquipIcon_Claymore_Reasoning_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Debate_Club"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 38.74129867553711,
+      "specialized": 0.07660000026226044
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 50.47991113972057,
+      "specialized": 0.08900919577555655
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 65.04664125210502,
+      "specialized": 0.10440580306036473
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 79.45840816490272,
+      "specialized": 0.11987900479352476
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 93.75394575052633,
+      "specialized": 0.13535219739525317
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 113.25394575052633,
+      "specialized": 0.13535219739525317
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 127.43325862729853,
+      "specialized": 0.1508253991284132
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 141.45760830448398,
+      "specialized": 0.16629860086157322
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 155.40447176355337,
+      "specialized": 0.18177179346330163
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 169.27385824115208,
+      "specialized": 0.19724500432789327
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 188.673859767031,
+      "specialized": 0.19724500432789327
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 202.42703077242368,
+      "specialized": 0.21271819692962168
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 216.10269708640953,
+      "specialized": 0.22819140779421332
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 235.60269708640953,
+      "specialized": 0.22819140779421332
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 249.20090489221548,
+      "specialized": 0.24366460039594173
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 262.72161724325997,
+      "specialized": 0.25913779299767015
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 282.1216187691389,
+      "specialized": 0.25913779299767015
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 295.60359262944803,
+      "specialized": 0.2746110038622618
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 309.00807103499574,
+      "specialized": 0.29000760201563835
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 328.50807103499574,
+      "specialized": 0.29000760201563835
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 341.9125679138342,
+      "specialized": 0.30548079461736677
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 355.2783078286466,
+      "specialized": 0.3209540054819584
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 374.67830172513095,
+      "specialized": 0.3209540054819584
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 388.005303149208,
+      "specialized": 0.33642721634655004
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 401.2935845558404,
+      "specialized": 0.35190039068541523
+    }
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,317 @@
+{
+  "name": "雪葬の星銀",
+  "description": "壁画の間に保存されていた太古の大剣。星銀で鍛錬された刀身は、氷雪をも切り裂く力がある。",
+  "weapontype": "両手剣",
+  "rarity": "4",
+  "baseatk": 44,
+  "substat": "物理ダメージ",
+  "subvalue": "7.5",
+  "effectname": "霜の埋葬",
+  "effect": [
+    "通常攻撃と重撃が敵に命中した時、[60%]の確率で敵の上に恒氷晶核が作られ落下し、攻撃力の[80%]の範囲ダメージを与える。敵が氷元素の影響を受けている場合、攻撃力の[200%]のダメージを与える。この効果は10秒毎に1回のみ発動可能。",
+    "通常攻撃と重撃が敵に命中した時、[70%]の確率で敵の上に恒氷晶核が作られ落下し、攻撃力の[95%]の範囲ダメージを与える。敵が氷元素の影響を受けている場合、攻撃力の[240%]のダメージを与える。この効果は10秒毎に1回のみ発動可能。",
+    "通常攻撃と重撃が敵に命中した時、[80%]の確率で敵の上に恒氷晶核が作られ落下し、攻撃力の[110%]の範囲ダメージを与える。敵が氷元素の影響を受けている場合、攻撃力の[280%]のダメージを与える。この効果は10秒毎に1回のみ発動可能。",
+    "通常攻撃と重撃が敵に命中した時、[90%]の確率で敵の上に恒氷晶核が作られ落下し、攻撃力の[125%]の範囲ダメージを与える。敵が氷元素の影響を受けている場合、攻撃力の[320%]のダメージを与える。この効果は10秒毎に1回のみ発動可能。",
+    "通常攻撃と重撃が敵に命中した時、[100%]の確率で敵の上に恒氷晶核が作られ落下し、攻撃力の[140%]の範囲ダメージを与える。敵が氷元素の影響を受けている場合、攻撃力の[360%]のダメージを与える。この効果は10秒毎に1回のみ発動可能。"
+  ],
+  "r1": [
+    "60%",
+    "80%",
+    "200%"
+  ],
+  "r2": [
+    "70%",
+    "95%",
+    "240%"
+  ],
+  "r3": [
+    "80%",
+    "110%",
+    "280%"
+  ],
+  "r4": [
+    "90%",
+    "125%",
+    "320%"
+  ],
+  "r5": [
+    "100%",
+    "140%",
+    "360%"
+  ],
+  "weaponmaterialtype": "Decarabian",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "モラ",
+        "count": 5000
+      },
+      {
+        "name": "高塔の王の瓦",
+        "count": 3
+      },
+      {
+        "name": "重い角笛",
+        "count": 3
+      },
+      {
+        "name": "スライムの液体",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "モラ",
+        "count": 15000
+      },
+      {
+        "name": "高塔の王の残壁",
+        "count": 3
+      },
+      {
+        "name": "重い角笛",
+        "count": 12
+      },
+      {
+        "name": "スライムの液体",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "モラ",
+        "count": 20000
+      },
+      {
+        "name": "高塔の王の残壁",
+        "count": 6
+      },
+      {
+        "name": "黒銅の角笛",
+        "count": 6
+      },
+      {
+        "name": "スライムの分泌物",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "モラ",
+        "count": 30000
+      },
+      {
+        "name": "高塔の王の断片",
+        "count": 3
+      },
+      {
+        "name": "黒銅の角笛",
+        "count": 12
+      },
+      {
+        "name": "スライムの分泌物",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "モラ",
+        "count": 35000
+      },
+      {
+        "name": "高塔の王の断片",
+        "count": 6
+      },
+      {
+        "name": "黒晶の角笛",
+        "count": 9
+      },
+      {
+        "name": "スライムのピュレ",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "モラ",
+        "count": 45000
+      },
+      {
+        "name": "高塔の王の砕けた夢",
+        "count": 4
+      },
+      {
+        "name": "黒晶の角笛",
+        "count": 18
+      },
+      {
+        "name": "スライムのピュレ",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Weapon_Snow-Tombed_Starsilver.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Dragonfell.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Dragonfell_Awaken.png",
+    "nameicon": "UI_EquipIcon_Claymore_Dragonfell",
+    "namegacha": "UI_Gacha_EquipIcon_Claymore_Dragonfell",
+    "nameawakenicon": "UI_EquipIcon_Claymore_Dragonfell_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Snow-Tombed_Starsilver"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 43.734901428222656,
+      "specialized": 0.07506699860095978
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 59.17332359270131,
+      "specialized": 0.08722784793576821
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 78.72282048535817,
+      "specialized": 0.10231632174191851
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 98.5347338353804,
+      "specialized": 0.11747985710587017
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 118.56531627039294,
+      "specialized": 0.13264338352113825
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 144.46531588892321,
+      "specialized": 0.13264338352113825
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 164.62710394581518,
+      "specialized": 0.1478069188850899
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 184.96383978335507,
+      "specialized": 0.16297045424904155
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 205.43177081556132,
+      "specialized": 0.17813398066430963
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 225.98716531087848,
+      "specialized": 0.19329752497694486
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 251.9871672182271,
+      "specialized": 0.19329752497694486
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 272.6300460310813,
+      "specialized": 0.20846105139221294
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 293.3603883070464,
+      "specialized": 0.22362459570484816
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 319.2603898329253,
+      "specialized": 0.22362459570484816
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 340.0344638404458,
+      "specialized": 0.23878812212011624
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 360.8960221655034,
+      "specialized": 0.2539516485353843
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 386.79601606198776,
+      "specialized": 0.2539516485353843
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 407.70130611860077,
+      "specialized": 0.26911519284801955
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 428.6940596383247,
+      "specialized": 0.2842036577054863
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 454.6940596383247,
+      "specialized": 0.2842036577054863
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 475.6867923036225,
+      "specialized": 0.29936718412075436
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 496.723298409328,
+      "specialized": 0.3145307284333896
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 522.6233075646014,
+      "specialized": 0.3145307284333896
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 543.7035036930101,
+      "specialized": 0.3296942727460248
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 564.7837415302711,
+      "specialized": 0.34485778126392574
+    }
+  },
+  "version": "1.2"
+}

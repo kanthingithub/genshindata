@@ -1,0 +1,854 @@
+{
+  "name": "Xingqiu",
+  "fullname": "Xingqiu",
+  "title": "Tuổi Trẻ Tài Cao",
+  "description": "Người thiếu niên thường bắt gặp nơi quầy sách. Tay cầm kiếm, với một trái tim nghĩa hiệp thổn thức trong lồng ngực.",
+  "rarity": "4",
+  "element": "Thủy",
+  "weapontype": "Kiếm Đơn",
+  "substat": "Tấn Công",
+  "gender": "nam",
+  "body": "BOY",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Thương Hội Phi Vân",
+  "birthdaymmdd": "10/9",
+  "birthday": "9 tháng 10",
+  "constellation": "Cẩm Chức",
+  "cv": {
+    "english": "Cristina Vee Valenzuela",
+    "chinese": "唐雅菁",
+    "japanese": "皆川純子",
+    "korean": "Kwak Kyu-mi"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vụn Thanh Kim Sạch",
+        "count": 1
+      },
+      {
+        "name": "Hoa Nghê Thường",
+        "count": 3
+      },
+      {
+        "name": "Mặt Nạ Vỡ",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Thanh Kim Sạch",
+        "count": 3
+      },
+      {
+        "name": "Trái Tim Thuần Khiết",
+        "count": 2
+      },
+      {
+        "name": "Hoa Nghê Thường",
+        "count": 10
+      },
+      {
+        "name": "Mặt Nạ Vỡ",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Thanh Kim Sạch",
+        "count": 6
+      },
+      {
+        "name": "Trái Tim Thuần Khiết",
+        "count": 4
+      },
+      {
+        "name": "Hoa Nghê Thường",
+        "count": 20
+      },
+      {
+        "name": "Mặt Nạ Bẩn",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Thanh Kim Sạch",
+        "count": 3
+      },
+      {
+        "name": "Trái Tim Thuần Khiết",
+        "count": 8
+      },
+      {
+        "name": "Hoa Nghê Thường",
+        "count": 30
+      },
+      {
+        "name": "Mặt Nạ Bẩn",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Thanh Kim Sạch",
+        "count": 6
+      },
+      {
+        "name": "Trái Tim Thuần Khiết",
+        "count": 12
+      },
+      {
+        "name": "Hoa Nghê Thường",
+        "count": 45
+      },
+      {
+        "name": "Mặt Nạ Xui Xẻo",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Thanh Kim Sạch",
+        "count": 6
+      },
+      {
+        "name": "Trái Tim Thuần Khiết",
+        "count": 20
+      },
+      {
+        "name": "Hoa Nghê Thường",
+        "count": 60
+      },
+      {
+        "name": "Mặt Nạ Xui Xẻo",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Character_Xingqiu_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Character_Xingqiu_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xingqiu.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200324/2020032418063418099.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200324/2020032418111666598.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/fa6b94ec6e93d14eef913e441213ffc1.png",
+    "nameicon": "UI_AvatarIcon_Xingqiu",
+    "nameiconcard": "UI_AvatarIcon_Xingqiu_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Xingqiu",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Xingqiu",
+    "namesideicon": "UI_AvatarIcon_Side_Xingqiu"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Xingqiu"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 857.0835571289062,
+      "attack": 16.917600631713867,
+      "defense": 63.51974868774414,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2201.8476631684316,
+      "attack": 43.46131611967621,
+      "defense": 163.18223474227761,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2842.132941488744,
+      "attack": 56.099926005845646,
+      "defense": 210.63473413192605,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4257.17770958101,
+      "attack": 84.03088100254809,
+      "defense": 315.50582552495507,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4712.117284776323,
+      "attack": 93.01094634831225,
+      "defense": 349.2220730835488,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5420.0684860576,
+      "attack": 106.98488808409729,
+      "defense": 401.68939906890773,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6026.654545627913,
+      "attack": 118.95830727355042,
+      "defense": 446.6444008999624,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6734.60574690919,
+      "attack": 132.93224900933546,
+      "defense": 499.11172688532133,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7189.545322104503,
+      "attack": 141.9123134014253,
+      "defense": 532.8279744439151,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7896.639093260135,
+      "attack": 155.869330695813,
+      "defense": 585.2317549958734,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8351.578546385135,
+      "attack": 164.84939508790285,
+      "defense": 618.9480025544672,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9059.529338977125,
+      "attack": 178.8233287567473,
+      "defense": 671.4152982512496,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 9514.46903624275,
+      "attack": 187.8033969635344,
+      "defense": 705.1315610686324,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10222.420237524027,
+      "attack": 201.77733869931944,
+      "defense": 757.5988870539913,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Mùi Hương Vương Vấn",
+      "effect": "Số lượng tối đa của Vũ Liêm Kiếm tăng thêm 1."
+    },
+    "c2": {
+      "name": "Cầu Vồng Trời Xanh",
+      "effect": "Kéo dài thời gian **Cổ Hoa Kiếm - Tài Vũ Lưu Hồng** thêm 3s;\nNgoài ra, kẻ địch chịu sát thương từ Mưa Kiếm giảm 15% kháng sát thương Nguyên Tố Thủy, kéo dài 4s."
+    },
+    "c3": {
+      "name": "Dệt Thơ Thành Lụa",
+      "effect": "Cấp kỹ năng **Cổ Hoa Kiếm - Tài Vũ Lưu Hồng** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "Cô Châu Trảm Giao",
+      "effect": "Trong thời gian **Cổ Hoa Kiếm - Tài Vũ Lưu Hồng** còn hiệu lực, sát thương **Cổ Hoa Kiếm - Họa Vũ Lung Sơn** gây ra tăng 50%."
+    },
+    "c5": {
+      "name": "Đóng Cửa Trong Mưa",
+      "effect": "Cấp kỹ năng **Cổ Hoa Kiếm - Họa Vũ Lung Sơn** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Sách Đều Ở Đây",
+      "effect": "Mỗi khi **Cổ Hoa Kiếm - Tài Vũ Lưu Hồng** phát động 2 lần mưa kiếm, sẽ tăng sát thương của lần mưa kiếm tiếp theo, đồng thời khi đánh trúng địch sẽ hồi phục 3 điểm Năng Lượng Nguyên Tố cho Xingqiu."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xingqiu_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xingqiu_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Xingqiu_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xingqiu_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Xingqiu_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xingqiu_04.png",
+      "constellation": "Eff_UI_Talent_Xingqiu"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Xingqiu",
+    "combat1": {
+      "name": "Tấn Công Thường: Cổ Hoa Kiếm Pháp",
+      "info": "**Tấn Công Thường**\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\n\n**Trọng Kích**\nTiêu hao thể lực nhất định, đánh ra hai kiếm về phía trước trong chớp mắt.\n\n**Tấn Công Khi Đáp**\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "46.61%",
+            "50.41%",
+            "54.20%",
+            "59.62%",
+            "63.41%",
+            "67.75%",
+            "73.71%",
+            "79.67%",
+            "85.64%",
+            "92.14%",
+            "99.59%",
+            "108.36%",
+            "117.12%",
+            "125.88%",
+            "135.45%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "47.64%",
+            "51.52%",
+            "55.40%",
+            "60.94%",
+            "64.82%",
+            "69.25%",
+            "75.34%",
+            "81.44%",
+            "87.53%",
+            "94.18%",
+            "101.80%",
+            "110.76%",
+            "119.71%",
+            "128.67%",
+            "138.44%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "28.55%+28.55%",
+            "30.88%+30.88%",
+            "33.20%+33.20%",
+            "36.52%+36.52%",
+            "38.84%+38.84%",
+            "41.50%+41.50%",
+            "45.15%+45.15%",
+            "48.80%+48.80%",
+            "52.46%+52.46%",
+            "56.44%+56.44%",
+            "61.01%+61.01%",
+            "66.37%+66.37%",
+            "71.74%+71.74%",
+            "77.11%+77.11%",
+            "82.97%+82.97%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "55.99%",
+            "60.54%",
+            "65.10%",
+            "71.61%",
+            "76.17%",
+            "81.38%",
+            "88.54%",
+            "95.70%",
+            "102.86%",
+            "110.67%",
+            "119.62%",
+            "130.15%",
+            "140.67%",
+            "151.20%",
+            "162.68%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 5",
+          "parameters": [
+            "35.86%+35.86%",
+            "38.78%+38.78%",
+            "41.70%+41.70%",
+            "45.87%+45.87%",
+            "48.79%+48.79%",
+            "52.13%+52.13%",
+            "56.71%+56.71%",
+            "61.30%+61.30%",
+            "65.89%+65.89%",
+            "70.89%+70.89%",
+            "76.62%+76.62%",
+            "83.37%+83.37%",
+            "90.11%+90.11%",
+            "96.85%+96.85%",
+            "104.21%+104.21%"
+          ]
+        },
+        {
+          "name": "Sát Thương Trọng Kích",
+          "parameters": [
+            "47.30%+56.16%",
+            "51.15%+60.73%",
+            "55.00%+65.30%",
+            "60.50%+71.83%",
+            "64.35%+76.40%",
+            "68.75%+81.63%",
+            "74.80%+88.81%",
+            "80.85%+95.99%",
+            "86.90%+103.17%",
+            "93.50%+111.01%",
+            "101.06%+119.99%",
+            "109.96%+130.55%",
+            "118.85%+141.11%",
+            "127.74%+151.67%",
+            "137.44%+163.18%"
+          ]
+        },
+        {
+          "name": "Thể lực Trọng Kích tiêu hao",
+          "parameters": [
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Cổ Hoa Kiếm - Họa Vũ Lung Sơn",
+      "info": "Thi triển hai đợt kiếm, gây Sát Thương Nguyên Tố Thủy cho địch phía trước. Đồng thời, tạo ra \"Vũ Liêm Kiếm\" với số lượng tối đa bay xung quanh nhân vật của bản thân trong trận hiện tại.\nĐặc tính:\n·Khi nhân vật chịu sát thương sẽ vỡ và giảm sát thương phải chịu; \n·Tăng khả năng kháng gián đoạn của nhân vật\n20% buff Sát Thương Nguyên Tố Thủy của Xingqiu sẽ chuyển đổi thành giảm sát thương của Vũ Liêm Kiếm.\n\nThông qua cách này tối đa sẽ được 24% giảm sát thương thêm.\nSố lượng Vũ Liêm Kiếm ban đầu nhiều nhất là 3.\nTrong thời gian thi triển, tạo trạng thái Ẩm Ướt cho nhân vật.",
+      "description": "\"Giao Long dễ trảm, mưa rơi khó vẽ\".",
+      "attributes": [
+        {
+          "name": "Sát Thương Kỹ Năng",
+          "parameters": [
+            "168.00%+191.20%",
+            "180.60%+205.54%",
+            "193.20%+219.88%",
+            "210.00%+239.00%",
+            "222.60%+253.34%",
+            "235.20%+267.68%",
+            "252.00%+286.80%",
+            "268.80%+305.92%",
+            "285.60%+325.04%",
+            "302.40%+344.16%",
+            "319.20%+363.28%",
+            "336.00%+382.40%",
+            "357.00%+406.30%",
+            "378.00%+430.20%",
+            "399.00%+454.10%"
+          ]
+        },
+        {
+          "name": "Tỷ Lệ Miễn Thương",
+          "parameters": [
+            "20.00%",
+            "21.00%",
+            "22.00%",
+            "23.00%",
+            "24.00%",
+            "25.00%",
+            "26.00%",
+            "27.00%",
+            "28.00%",
+            "29.00%",
+            "29.00%",
+            "29.00%",
+            "29.00%",
+            "29.00%",
+            "29.00%"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "21s",
+            "21s",
+            "21s",
+            "21s",
+            "21s",
+            "21s",
+            "21s",
+            "21s",
+            "21s",
+            "21s",
+            "21s",
+            "21s",
+            "21s",
+            "21s",
+            "21s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Cổ Hoa Kiếm - Tài Vũ Lưu Hồng",
+      "info": "Thi triển thế kiếm cầu vồng, điều khiển ảo ảnh mưa kiếm để chiến đấu, tăng số lượng Vũ Liêm Kiếm lên mức cao nhất.\n\n**Kiếm Cầu Vồng**\n·Khi nhân vật của bản thân thi triển tấn công thường, tạo ra mưa kiếm kết hợp tấn công, gây Sát Thương Nguyên Tố Thủy; \n·Số lượng Vũ Liêm Kiếm sẽ duy trì ở số lượng cao nhất.",
+      "description": "[Tài Vũ Pháp] là một trong những bí kíp của phái Cổ Hoa.",
+      "attributes": [
+        {
+          "name": "Sát Thương Mưa Kiếm",
+          "parameters": [
+            "54.27%",
+            "58.34%",
+            "62.41%",
+            "67.84%",
+            "71.91%",
+            "75.98%",
+            "81.41%",
+            "86.84%",
+            "92.26%",
+            "97.69%",
+            "103.12%",
+            "108.54%",
+            "115.33%",
+            "122.11%",
+            "128.90%"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Sinh Thủy Yêu Quyết",
+      "info": "Vũ Liêm Kiếm bị phá vỡ hoặc hết thời gian, dựa trên 6% HP tối đa của Xingqiu, trị liệu HP cho nhân vật hiện tại."
+    },
+    "passive2": {
+      "name": "Ngòi Bút Thực Hư",
+      "info": "Xingqiu nhận 20% buff sát thương Nguyên Tố Thủy."
+    },
+    "passive3": {
+      "name": "Ánh Sáng Lấp Lánh",
+      "info": "Khi ghép nguyên liệu thiên phú nhân vật, có 25% tỷ lệ hoàn trả một phần nguyên liệu ghép."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Hoàng Kim\"",
+          "count": 3
+        },
+        {
+          "name": "Mặt Nạ Vỡ",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Hoàng Kim\"",
+          "count": 2
+        },
+        {
+          "name": "Mặt Nạ Bẩn",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Hoàng Kim\"",
+          "count": 4
+        },
+        {
+          "name": "Mặt Nạ Bẩn",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Hoàng Kim\"",
+          "count": 6
+        },
+        {
+          "name": "Mặt Nạ Bẩn",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Hoàng Kim\"",
+          "count": 9
+        },
+        {
+          "name": "Mặt Nạ Bẩn",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Hoàng Kim\"",
+          "count": 4
+        },
+        {
+          "name": "Mặt Nạ Xui Xẻo",
+          "count": 4
+        },
+        {
+          "name": "Lông Vũ Bắc Phong",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Hoàng Kim\"",
+          "count": 6
+        },
+        {
+          "name": "Mặt Nạ Xui Xẻo",
+          "count": 6
+        },
+        {
+          "name": "Lông Vũ Bắc Phong",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Hoàng Kim\"",
+          "count": 12
+        },
+        {
+          "name": "Mặt Nạ Xui Xẻo",
+          "count": 9
+        },
+        {
+          "name": "Lông Vũ Bắc Phong",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Hoàng Kim\"",
+          "count": 16
+        },
+        {
+          "name": "Mặt Nạ Xui Xẻo",
+          "count": 12
+        },
+        {
+          "name": "Lông Vũ Bắc Phong",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_01",
+      "combat2": "Skill_S_Xingqiu_01",
+      "combat3": "Skill_E_Xingqiu_01_HD",
+      "passive1": "UI_Talent_S_Xingqiu_05",
+      "passive2": "UI_Talent_S_Xingqiu_06",
+      "passive3": "UI_Talent_Combine_Talent"
+    },
+    "version": "1.0"
+  }
+}

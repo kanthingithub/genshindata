@@ -1,0 +1,894 @@
+{
+  "name": "Jean",
+  "fullname": "Jean",
+  "title": "Kỵ Sĩ Bồ Công Anh",
+  "description": "Kỵ sĩ Bồ Công Anh chính trực nghiêm nghị, đội trưởng đại diện Đội Kỵ Sĩ Tây Phong của Mondstadt.",
+  "rarity": "5",
+  "element": "Phong",
+  "weapontype": "Kiếm Đơn",
+  "substat": "Tăng Trị Liệu",
+  "gender": "nữ",
+  "body": "LADY",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Đội Kỵ Sĩ Tây Phong",
+  "birthdaymmdd": "3/14",
+  "birthday": "14 tháng 3",
+  "constellation": "Ấu Sư",
+  "cv": {
+    "english": "Stephanie Southerland",
+    "chinese": "林簌",
+    "japanese": "斎藤千和",
+    "korean": "Ahn Young-mi"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vụn Tùng Thạch Tự Tại",
+        "count": 1
+      },
+      {
+        "name": "Hạt Bồ Công Anh",
+        "count": 3
+      },
+      {
+        "name": "Mặt Nạ Vỡ",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Tùng Thạch Tự Tại",
+        "count": 3
+      },
+      {
+        "name": "Hạt Giống Bão",
+        "count": 2
+      },
+      {
+        "name": "Hạt Bồ Công Anh",
+        "count": 10
+      },
+      {
+        "name": "Mặt Nạ Vỡ",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Tùng Thạch Tự Tại",
+        "count": 6
+      },
+      {
+        "name": "Hạt Giống Bão",
+        "count": 4
+      },
+      {
+        "name": "Hạt Bồ Công Anh",
+        "count": 20
+      },
+      {
+        "name": "Mặt Nạ Bẩn",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Tùng Thạch Tự Tại",
+        "count": 3
+      },
+      {
+        "name": "Hạt Giống Bão",
+        "count": 8
+      },
+      {
+        "name": "Hạt Bồ Công Anh",
+        "count": 30
+      },
+      {
+        "name": "Mặt Nạ Bẩn",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Tùng Thạch Tự Tại",
+        "count": 6
+      },
+      {
+        "name": "Hạt Giống Bão",
+        "count": 12
+      },
+      {
+        "name": "Hạt Bồ Công Anh",
+        "count": 45
+      },
+      {
+        "name": "Mặt Nạ Xui Xẻo",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Tùng Thạch Tự Tại",
+        "count": 6
+      },
+      {
+        "name": "Hạt Giống Bão",
+        "count": 20
+      },
+      {
+        "name": "Hạt Bồ Công Anh",
+        "count": 60
+      },
+      {
+        "name": "Mặt Nạ Xui Xẻo",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Character_Jean_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Character_Jean_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Qin.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200616/2020061611214389168.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200616/2020061611215344626.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/e15d789a558b128c05763495d35d55b9.png",
+    "nameicon": "UI_AvatarIcon_Qin",
+    "nameiconcard": "UI_AvatarIcon_Qin_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Qin",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Qin",
+    "namesideicon": "UI_AvatarIcon_Side_Qin"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Jean"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1143.9840087890625,
+      "attack": 18.6200008392334,
+      "defense": 59.83000183105469,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2967.494634443574,
+      "attack": 48.30028405925759,
+      "defense": 155.19903079793949,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3948.35748844748,
+      "attack": 64.26408448955544,
+      "defense": 206.49903003500003,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5908.002163144411,
+      "attack": 96.16014702812208,
+      "defense": 308.98782670921355,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 6604.931057187379,
+      "attack": 107.5028460790254,
+      "defense": 345.437827472153,
+      "specialized": 0.055399999022483826
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 7599.053112821595,
+      "attack": 123.6836260269929,
+      "defense": 397.43009655277274,
+      "specialized": 0.055399999022483826
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 8528.29163821222,
+      "attack": 138.8072260330964,
+      "defense": 446.03010265628836,
+      "specialized": 0.11079999804496765
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 9532.709349183715,
+      "attack": 155.15558272125236,
+      "defense": 498.56083125465375,
+      "specialized": 0.11079999804496765
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 10229.638060121215,
+      "attack": 166.4982836795043,
+      "defense": 535.0108282028959,
+      "specialized": 0.11079999804496765
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 11243.208070830384,
+      "attack": 182.99560733528142,
+      "defense": 588.0202191827775,
+      "specialized": 0.11079999804496765
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 11940.137025908509,
+      "attack": 194.33830829353337,
+      "defense": 624.4702161310197,
+      "specialized": 0.16619999706745148
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 12965.146593048645,
+      "attack": 211.0218273407745,
+      "defense": 678.0778922940444,
+      "specialized": 0.16619999706745148
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 13662.07554812677,
+      "attack": 222.3645244843292,
+      "defense": 714.5278892422866,
+      "specialized": 0.2214999943971634
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 14695.093513910891,
+      "attack": 239.17839184791592,
+      "defense": 768.55440212143,
+      "specialized": 0.2214999943971634
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Cơn Bão Gió Lốc",
+      "effect": "Nhấn giữ **Gió Cuộn Kiếm** trong hơn 1s để tăng tốc độ kéo, sát thương tạo thành cũng tăng 40%."
+    },
+    "c2": {
+      "name": "Lá Khiên Bảo Vệ",
+      "effect": "Khi Jean nhận được Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, tất cả nhân vật trong đội tăng 15% tốc độ tấn công và 15% tốc độ di chuyển, kéo dài 15s."
+    },
+    "c3": {
+      "name": "Khi Gió Tây Về",
+      "effect": "Cấp kỹ năng **Gió Bồ Công Anh** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "Lãnh Thổ Bồ Công Anh",
+      "effect": "Trong vùng đất **Gió Bồ Công Anh**, Kháng Nguyên Tố Phong của địch giảm 40%."
+    },
+    "c5": {
+      "name": "Ngọn Gió Mạnh Thổi Qua",
+      "effect": "Cấp kỹ năng **Gió Cuộn Kiếm** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Nanh Sư Tử Chăm Lo Muôn Dân!",
+      "effect": "Trong **Gió Bồ Công Anh** sát thương phải nhận giảm 35%.\nRời khỏi vùng đất, hiệu quả này sẽ biến mất sau 3 lần tấn công hoặc sau 10S."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Qin_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Qin_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Qin_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Qin_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Qin_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Qin_04.png",
+      "constellation": "Eff_UI_Talent_Qin"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Jean",
+    "combat1": {
+      "name": "Tấn Công Thường - Tây Phong Kiếm Thuật",
+      "info": "**Tấn Công Thường**\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\n\n**Trọng Kích**\nTiêu hao thể lực nhất định, đánh một đòn tràn đầy sức mạnh của gió.\nĐịch bị đánh bay sẽ rơi chậm trong thời gian ngắn.\n\n**Tấn Công Khi Đáp**\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "48.33%",
+            "52.27%",
+            "56.20%",
+            "61.82%",
+            "65.75%",
+            "70.25%",
+            "76.43%",
+            "82.61%",
+            "88.80%",
+            "95.54%",
+            "103.27%",
+            "112.36%",
+            "121.44%",
+            "130.53%",
+            "140.44%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "45.58%",
+            "49.29%",
+            "53.00%",
+            "58.30%",
+            "62.01%",
+            "66.25%",
+            "72.08%",
+            "77.91%",
+            "83.74%",
+            "90.10%",
+            "97.39%",
+            "105.96%",
+            "114.53%",
+            "123.10%",
+            "132.45%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "60.29%",
+            "65.19%",
+            "70.10%",
+            "77.11%",
+            "82.02%",
+            "87.63%",
+            "95.34%",
+            "103.05%",
+            "110.76%",
+            "119.17%",
+            "128.81%",
+            "140.14%",
+            "151.48%",
+            "162.81%",
+            "175.18%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "65.88%",
+            "71.24%",
+            "76.60%",
+            "84.26%",
+            "89.62%",
+            "95.75%",
+            "104.18%",
+            "112.60%",
+            "121.03%",
+            "130.22%",
+            "140.75%",
+            "153.14%",
+            "165.52%",
+            "177.91%",
+            "191.42%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 5",
+          "parameters": [
+            "79.21%",
+            "85.65%",
+            "92.10%",
+            "101.31%",
+            "107.76%",
+            "115.13%",
+            "125.26%",
+            "135.39%",
+            "145.52%",
+            "156.57%",
+            "169.23%",
+            "184.13%",
+            "199.02%",
+            "213.91%",
+            "230.16%"
+          ]
+        },
+        {
+          "name": "Sát Thương Trọng Kích",
+          "parameters": [
+            "162.02%",
+            "175.21%",
+            "188.40%",
+            "207.24%",
+            "220.43%",
+            "235.50%",
+            "256.22%",
+            "276.95%",
+            "297.67%",
+            "320.28%",
+            "346.18%",
+            "376.65%",
+            "407.11%",
+            "437.58%",
+            "470.81%"
+          ]
+        },
+        {
+          "name": "Thể lực Trọng Kích tiêu hao",
+          "parameters": [
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Gió Cuộn Kiếm",
+      "info": "Hội tụ sức mạnh của gió vô hình lên kiếm, thi triển cơn bão nhỏ, đánh bay địch ở hướng ngắm bắn, gây lượng lớn Sát Thương Nguyên Tố Phong.\n\n**Nhấn Giữ**\nTiếp tục tiêu hao thể lực để trả giá, tạo lốc xoáy kéo địch và vật thể xung quanh đến trước mặt.\nCó thể điều chỉnh phương hướng.\nTrong khi sử dụng kỹ năng không thể di chuyển.",
+      "description": "Đồng hành cùng với Jean, là cơn gió bảo vệ đồng đội khỏi nguy hiểm.",
+      "attributes": [
+        {
+          "name": "Sát Thương Kỹ Năng",
+          "parameters": [
+            "292.00%",
+            "313.90%",
+            "335.80%",
+            "365.00%",
+            "386.90%",
+            "408.80%",
+            "438.00%",
+            "467.20%",
+            "496.40%",
+            "525.60%",
+            "554.80%",
+            "584.00%",
+            "620.50%",
+            "657.00%",
+            "693.50%"
+          ]
+        },
+        {
+          "name": "Tiêu Hao Thể Lực",
+          "parameters": [
+            "Mỗi giây 20 điểm",
+            "Mỗi giây 20 điểm",
+            "Mỗi giây 20 điểm",
+            "Mỗi giây 20 điểm",
+            "Mỗi giây 20 điểm",
+            "Mỗi giây 20 điểm",
+            "Mỗi giây 20 điểm",
+            "Mỗi giây 20 điểm",
+            "Mỗi giây 20 điểm",
+            "Mỗi giây 20 điểm",
+            "Mỗi giây 20 điểm",
+            "Mỗi giây 20 điểm",
+            "Mỗi giây 20 điểm",
+            "Mỗi giây 20 điểm",
+            "Mỗi giây 20 điểm"
+          ]
+        },
+        {
+          "name": "Thời Gian Tối Đa",
+          "parameters": [
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Gió Bồ Công Anh",
+      "info": "Bảo hộ triệu hồi gió, tạo ra Vùng Đất Bồ Công Anh hỗn loạn, đánh lui địch xung quanh và gây Sát Thương Nguyên Tố Phong.\nĐồng thời hồi nhanh lượng lớn HP cho tất cả nhân vật trong đội, lượng hồi được hưởng từ tấn công của Jean.\n\n**Vùng Đất Bồ Công Anh**\n·Duy trì hồi phục HP cho nhân vật trong đó;\n·Khiến nhân vật trong đó tiếp tục chịu ảnh hưởng Nguyên Tố Phong;\n·Đối với địch ra vào khu vực, gây Sát Thương Nguyên Tố Phong.",
+      "description": "Ân trạch của gió như bồ công anh trải rộng, là căn nguyên và lòng tốt của sự thủ hộ từ Jean.",
+      "attributes": [
+        {
+          "name": "ST Bạo Phát",
+          "parameters": [
+            "424.80%",
+            "456.66%",
+            "488.52%",
+            "531.00%",
+            "562.86%",
+            "594.72%",
+            "637.20%",
+            "679.68%",
+            "722.16%",
+            "764.64%",
+            "807.12%",
+            "849.60%",
+            "902.70%",
+            "955.80%",
+            "1008.90%"
+          ]
+        },
+        {
+          "name": "Sát thương trong vùng đất",
+          "parameters": [
+            "78.40%",
+            "84.28%",
+            "90.16%",
+            "98.00%",
+            "103.88%",
+            "109.76%",
+            "117.60%",
+            "125.44%",
+            "133.28%",
+            "141.12%",
+            "148.96%",
+            "156.80%",
+            "166.60%",
+            "176.40%",
+            "186.20%"
+          ]
+        },
+        {
+          "name": "Vùng đất phát động trị liệu",
+          "parameters": [
+            "251.20% tấn công +1540",
+            "270.04% tấn công +1694",
+            "288.88% tấn công +1861",
+            "314.00% tấn công +2041",
+            "332.84% tấn công +2234",
+            "351.68% tấn công +2439",
+            "376.80% tấn công +2657",
+            "401.92% tấn công +2888",
+            "427.04% tấn công +3132",
+            "452.16% tấn công +3389",
+            "477.28% tấn công +3659",
+            "502.40% tấn công +3941",
+            "533.80% tấn công +4236",
+            "565.20% tấn công +4544",
+            "596.60% tấn công +4865"
+          ]
+        },
+        {
+          "name": "Kéo dài trị liệu",
+          "parameters": [
+            "Mỗi giây 25.12% tấn công +154",
+            "Mỗi giây 27.00% tấn công +169",
+            "Mỗi giây 28.89% tấn công +186",
+            "Mỗi giây 31.40% tấn công +204",
+            "Mỗi giây 33.28% tấn công +223",
+            "Mỗi giây 35.17% tấn công +244",
+            "Mỗi giây 37.68% tấn công +266",
+            "Mỗi giây 40.19% tấn công +289",
+            "Mỗi giây 42.70% tấn công +313",
+            "Mỗi giây 45.22% tấn công +339",
+            "Mỗi giây 47.73% tấn công +366",
+            "Mỗi giây 50.24% tấn công +394",
+            "Mỗi giây 53.38% tấn công +424",
+            "Mỗi giây 56.52% tấn công +454",
+            "Mỗi giây 59.66% tấn công +487"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Đi Cùng Với Gió",
+      "info": "Khi tấn công thường của Jean đánh trúng, có 50% tỷ lệ hồi HP bằng với 15% tấn công của Jean cho tất cả thành viên đội."
+    },
+    "passive2": {
+      "name": "Nghe Theo Hướng Gió",
+      "info": "Sau khi sử dụng **Gió Bồ Công Anh**, sẽ hồi phục 20% Năng Lượng Nguyên Tố"
+    },
+    "passive3": {
+      "name": "Ngọn Gió Dẫn Đường",
+      "info": "Nấu hoàn mỹ món ăn thuộc loại hồi phục, có tỷ lệ 12% x2 sản lượng."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Kháng Chiến\"",
+          "count": 3
+        },
+        {
+          "name": "Mặt Nạ Vỡ",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+          "count": 2
+        },
+        {
+          "name": "Mặt Nạ Bẩn",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+          "count": 4
+        },
+        {
+          "name": "Mặt Nạ Bẩn",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+          "count": 6
+        },
+        {
+          "name": "Mặt Nạ Bẩn",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+          "count": 9
+        },
+        {
+          "name": "Mặt Nạ Bẩn",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Kháng Chiến\"",
+          "count": 4
+        },
+        {
+          "name": "Mặt Nạ Xui Xẻo",
+          "count": 4
+        },
+        {
+          "name": "Lông Vũ Đông Phong",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Kháng Chiến\"",
+          "count": 6
+        },
+        {
+          "name": "Mặt Nạ Xui Xẻo",
+          "count": 6
+        },
+        {
+          "name": "Lông Vũ Đông Phong",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Kháng Chiến\"",
+          "count": 12
+        },
+        {
+          "name": "Mặt Nạ Xui Xẻo",
+          "count": 9
+        },
+        {
+          "name": "Lông Vũ Đông Phong",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Kháng Chiến\"",
+          "count": 16
+        },
+        {
+          "name": "Mặt Nạ Xui Xẻo",
+          "count": 12
+        },
+        {
+          "name": "Lông Vũ Đông Phong",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_01",
+      "combat2": "Skill_S_Qin_02",
+      "combat3": "Skill_E_Qin_01_HD",
+      "passive1": "UI_Talent_S_Qin_05",
+      "passive2": "UI_Talent_S_Qin_06",
+      "passive3": "UI_Talent_Cook_Heal"
+    },
+    "version": "1.0"
+  }
+}

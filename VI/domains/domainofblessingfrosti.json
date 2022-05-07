@@ -1,0 +1,505 @@
+{
+  "name": "Bí Cảnh Chúc Phúc: Băng Giá",
+  "region": "Liyue",
+  "domainEntrance": "Mật Cung Vô Vọng",
+  "domainType": "Thánh Di Vật",
+  "description": "Trong tế đàn địa mạch viễn cổ này, có những ma vật đang dòm ngó Địa Mạch Trấn Thạch.\nNếu có thể dùng Nguyên Tố Băng tiêu diệt ma vật, bảo vệ trấn thạch không bị tổn hại, không chừng có thể nhận được Thánh Di Vật quý giá.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_1"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Bí Cảnh Chúc Phúc: Băng Giá Tử Thần I",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Hỏa",
+        "Lôi",
+        "Nham",
+        "Phong"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "EXP Mạo Hiểm",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "EXP Yêu Thích",
+          "count": 15
+        },
+        {
+          "name": "Trái Tim Thủ Hộ",
+          "rarity": "3"
+        },
+        {
+          "name": "Con Bạc",
+          "rarity": "3"
+        },
+        {
+          "name": "Dũng Sĩ Trong Băng Giá",
+          "rarity": "4"
+        },
+        {
+          "name": "Trái Tim Trầm Luân",
+          "rarity": "4"
+        },
+        {
+          "name": "Trái Tim Thủ Hộ",
+          "rarity": "4"
+        },
+        {
+          "name": "Con Bạc",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Trong thử thách này, nhân vật khiêu chiến sẽ liên tục tích lũy \"Giá Rét\". Khi Giá Rét đạt giới hạn sẽ hao hụt HP.",
+        "Trong thử thách này, mặt đất sẽ liên tục chuyển đổi giữa hai trạng thái \"Ấm Áp\" và \"Cực Hàn\".",
+        "Vùng đất ấm áp có thể giảm tích lũy giá rét, vùng đất cực hàn sẽ tăng tốc độ tích lũy giá rét."
+      ],
+      "monsterlist": [
+        "Slime Băng",
+        "Slime Băng Lớn",
+        "Bạo Đồ Hilichurl Khiên Băng"
+      ]
+    },
+    {
+      "name": "Bí Cảnh Chúc Phúc: Băng Giá Tử Thần II",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "Hỏa",
+        "Lôi",
+        "Nham",
+        "Phong"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "EXP Mạo Hiểm",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "EXP Yêu Thích",
+          "count": 20
+        },
+        {
+          "name": "Trái Tim Thủ Hộ",
+          "rarity": "3"
+        },
+        {
+          "name": "Con Bạc",
+          "rarity": "3"
+        },
+        {
+          "name": "Dũng Sĩ Trong Băng Giá",
+          "rarity": "4"
+        },
+        {
+          "name": "Trái Tim Trầm Luân",
+          "rarity": "4"
+        },
+        {
+          "name": "Trái Tim Thủ Hộ",
+          "rarity": "4"
+        },
+        {
+          "name": "Con Bạc",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Trong thử thách này, nhân vật khiêu chiến sẽ liên tục tích lũy \"Giá Rét\". Khi Giá Rét đạt giới hạn sẽ hao hụt HP.",
+        "Trong thử thách này, mặt đất sẽ liên tục chuyển đổi giữa hai trạng thái \"Ấm Áp\" và \"Cực Hàn\".",
+        "Vùng đất ấm áp có thể giảm tích lũy giá rét, vùng đất cực hàn sẽ tăng tốc độ tích lũy giá rét."
+      ],
+      "monsterlist": [
+        "Slime Băng",
+        "Slime Băng Lớn",
+        "Hilichurl Đạn Băng",
+        "Bạo Đồ Hilichurl Khiên Băng"
+      ]
+    },
+    {
+      "name": "Bí Cảnh Chúc Phúc: Băng Giá Tử Thần III",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Hỏa",
+        "Lôi",
+        "Nham",
+        "Phong"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "EXP Mạo Hiểm",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "EXP Yêu Thích",
+          "count": 20
+        },
+        {
+          "name": "Trái Tim Thủ Hộ",
+          "rarity": "3"
+        },
+        {
+          "name": "Con Bạc",
+          "rarity": "3"
+        },
+        {
+          "name": "Dũng Sĩ Trong Băng Giá",
+          "rarity": "4"
+        },
+        {
+          "name": "Trái Tim Trầm Luân",
+          "rarity": "4"
+        },
+        {
+          "name": "Trái Tim Thủ Hộ",
+          "rarity": "4"
+        },
+        {
+          "name": "Con Bạc",
+          "rarity": "4"
+        },
+        {
+          "name": "Dũng Sĩ Trong Băng Giá",
+          "rarity": "5"
+        },
+        {
+          "name": "Trái Tim Trầm Luân",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Trong thử thách này, nhân vật khiêu chiến sẽ liên tục tích lũy \"Giá Rét\". Khi Giá Rét đạt giới hạn sẽ hao hụt HP.",
+        "Trong thử thách này, mặt đất sẽ liên tục chuyển đổi giữa hai trạng thái \"Ấm Áp\" và \"Cực Hàn\".",
+        "Vùng đất ấm áp có thể giảm tích lũy giá rét, vùng đất cực hàn sẽ tăng tốc độ tích lũy giá rét."
+      ],
+      "monsterlist": [
+        "Slime Băng Lớn",
+        "Hilichurl Đạn Băng",
+        "Bạo Đồ Hilichurl Khiên Băng",
+        "Pháp Sư Vực Sâu Băng"
+      ]
+    },
+    {
+      "name": "Bí Cảnh Chúc Phúc: Băng Giá Tử Thần IV",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "Hỏa",
+        "Lôi",
+        "Nham",
+        "Phong"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "EXP Mạo Hiểm",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "EXP Yêu Thích",
+          "count": 20
+        },
+        {
+          "name": "Trái Tim Thủ Hộ",
+          "rarity": "3"
+        },
+        {
+          "name": "Con Bạc",
+          "rarity": "3"
+        },
+        {
+          "name": "Dũng Sĩ Trong Băng Giá",
+          "rarity": "4"
+        },
+        {
+          "name": "Trái Tim Trầm Luân",
+          "rarity": "4"
+        },
+        {
+          "name": "Trái Tim Thủ Hộ",
+          "rarity": "4"
+        },
+        {
+          "name": "Con Bạc",
+          "rarity": "4"
+        },
+        {
+          "name": "Dũng Sĩ Trong Băng Giá",
+          "rarity": "5"
+        },
+        {
+          "name": "Trái Tim Trầm Luân",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Trong thử thách này, nhân vật khiêu chiến sẽ liên tục tích lũy \"Giá Rét\". Khi Giá Rét đạt giới hạn sẽ hao hụt HP.",
+        "Trong thử thách này, mặt đất sẽ liên tục chuyển đổi giữa hai trạng thái \"Ấm Áp\" và \"Cực Hàn\".",
+        "Vùng đất ấm áp có thể giảm tích lũy giá rét, vùng đất cực hàn sẽ tăng tốc độ tích lũy giá rét."
+      ],
+      "monsterlist": [
+        "Vua Giáp Băng Hilichurl",
+        "Pháp Sư Vực Sâu Băng"
+      ]
+    },
+    {
+      "name": "Bí Cảnh Chúc Phúc: Băng Giá I",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Băng"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "EXP Mạo Hiểm",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "EXP Yêu Thích",
+          "count": 15
+        },
+        {
+          "name": "Trái Tim Thủ Hộ",
+          "rarity": "3"
+        },
+        {
+          "name": "Võ Nhân",
+          "rarity": "3"
+        },
+        {
+          "name": "Diệm Liệt Ma Nữ Cháy Rực",
+          "rarity": "4"
+        },
+        {
+          "name": "Hiền Nhân Bốc Lửa",
+          "rarity": "4"
+        },
+        {
+          "name": "Trái Tim Thủ Hộ",
+          "rarity": "4"
+        },
+        {
+          "name": "Võ Nhân",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Thời gian kéo dài phản ứng Đóng Băng tăng mạnh.",
+        "Khi xảy ra phản ứng Siêu Dẫn sẽ thi triển năng lượng xung kích, gây sát thương cho địch xung quanh."
+      ],
+      "monsterlist": [
+        "Slime Lôi Lớn",
+        "Slime Lôi Biến Dị",
+        "Slime Thủy",
+        "Slime Thủy Lớn"
+      ]
+    },
+    {
+      "name": "Bí Cảnh Chúc Phúc: Băng Giá II",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "Băng"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "EXP Mạo Hiểm",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "EXP Yêu Thích",
+          "count": 20
+        },
+        {
+          "name": "Trái Tim Thủ Hộ",
+          "rarity": "3"
+        },
+        {
+          "name": "Võ Nhân",
+          "rarity": "3"
+        },
+        {
+          "name": "Diệm Liệt Ma Nữ Cháy Rực",
+          "rarity": "4"
+        },
+        {
+          "name": "Hiền Nhân Bốc Lửa",
+          "rarity": "4"
+        },
+        {
+          "name": "Trái Tim Thủ Hộ",
+          "rarity": "4"
+        },
+        {
+          "name": "Võ Nhân",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Khi xảy ra phản ứng Tan Chảy, sẽ thi triển năng lượng xung kích, gây sát thương cho địch xung quanh.",
+        "Khi xảy ra phản ứng Quá Tải, sẽ bị trấn áp, chịu sát thương lớn."
+      ],
+      "monsterlist": [
+        "Slime Hỏa Lớn",
+        "Bạo Đồ Hilichurl Búa Lửa",
+        "Pháp Sư Vực Sâu Hỏa"
+      ]
+    },
+    {
+      "name": "Bí Cảnh Chúc Phúc: Băng Giá III",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Băng"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "EXP Mạo Hiểm",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "EXP Yêu Thích",
+          "count": 20
+        },
+        {
+          "name": "Trái Tim Thủ Hộ",
+          "rarity": "3"
+        },
+        {
+          "name": "Võ Nhân",
+          "rarity": "3"
+        },
+        {
+          "name": "Diệm Liệt Ma Nữ Cháy Rực",
+          "rarity": "4"
+        },
+        {
+          "name": "Hiền Nhân Bốc Lửa",
+          "rarity": "4"
+        },
+        {
+          "name": "Trái Tim Thủ Hộ",
+          "rarity": "4"
+        },
+        {
+          "name": "Võ Nhân",
+          "rarity": "4"
+        },
+        {
+          "name": "Diệm Liệt Ma Nữ Cháy Rực",
+          "rarity": "5"
+        },
+        {
+          "name": "Hiền Nhân Bốc Lửa",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Khi xảy ra phản ứng Siêu Dẫn sẽ thi triển năng lượng xung kích, gây sát thương cho địch xung quanh.",
+        "Khi xảy ra phản ứng Quá Tải, sẽ bị trấn áp, chịu sát thương lớn."
+      ],
+      "monsterlist": [
+        "Slime Lôi Lớn",
+        "Slime Lôi Biến Dị",
+        "Hilichurl Chiến Sĩ",
+        "Fatui - Thuật Sĩ Cicin Lôi"
+      ]
+    },
+    {
+      "name": "Bí Cảnh Chúc Phúc: Băng Giá IV",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "Băng"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "EXP Mạo Hiểm",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "EXP Yêu Thích",
+          "count": 20
+        },
+        {
+          "name": "Trái Tim Thủ Hộ",
+          "rarity": "3"
+        },
+        {
+          "name": "Võ Nhân",
+          "rarity": "3"
+        },
+        {
+          "name": "Diệm Liệt Ma Nữ Cháy Rực",
+          "rarity": "4"
+        },
+        {
+          "name": "Hiền Nhân Bốc Lửa",
+          "rarity": "4"
+        },
+        {
+          "name": "Trái Tim Thủ Hộ",
+          "rarity": "4"
+        },
+        {
+          "name": "Võ Nhân",
+          "rarity": "4"
+        },
+        {
+          "name": "Diệm Liệt Ma Nữ Cháy Rực",
+          "rarity": "5"
+        },
+        {
+          "name": "Hiền Nhân Bốc Lửa",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Khi xảy ra phản ứng Tan Chảy, sẽ thi triển năng lượng xung kích, gây sát thương cho địch xung quanh.",
+        "Khi xảy ra phản ứng Quá Tải, sẽ bị trấn áp, chịu sát thương lớn."
+      ],
+      "monsterlist": [
+        "Slime Hỏa Lớn",
+        "Bạo Đồ Hilichurl Búa Lửa",
+        "Pháp Sư Vực Sâu Hỏa"
+      ]
+    }
+  ]
+}

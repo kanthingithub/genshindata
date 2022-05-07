@@ -1,0 +1,317 @@
+{
+  "name": "Thương Quyết Chiến",
+  "description": "Thương dài sắc bén màu máu tươi, xưa kia là bảo vật trân quý của một đấu sĩ nào đó. Mũi thương đã nhuộm đầy máu tươi của vô số dã thú và sinh mệnh.",
+  "weapontype": "Vũ Khí Cán Dài",
+  "rarity": "4",
+  "baseatk": 41,
+  "substat": "Tỷ Lệ Bạo Kích",
+  "subvalue": "8",
+  "effectname": "Giác Đấu Sĩ",
+  "effect": [
+    "Khi bên cạnh có ít nhất 2 kẻ địch, được tăng [16%] tấn công và [16%] phòng ngự, khi có dưới 2 kẻ địch, được tăng [24%] tấn công.",
+    "Khi bên cạnh có ít nhất 2 kẻ địch, được tăng [20%] tấn công và [20%] phòng ngự, khi có dưới 2 kẻ địch, được tăng [30%] tấn công.",
+    "Khi bên cạnh có ít nhất 2 kẻ địch, được tăng [24%] tấn công và [24%] phòng ngự, khi có dưới 2 kẻ địch, được tăng [36%] tấn công.",
+    "Khi bên cạnh có ít nhất 2 kẻ địch, được tăng [28%] tấn công và [28%] phòng ngự, khi có dưới 2 kẻ địch, được tăng [42%] tấn công.",
+    "Khi bên cạnh có ít nhất 2 kẻ địch, được tăng [32%] tấn công và [32%] phòng ngự, khi có dưới 2 kẻ địch, được tăng [48%] tấn công."
+  ],
+  "r1": [
+    "16%",
+    "16%",
+    "24%"
+  ],
+  "r2": [
+    "20%",
+    "20%",
+    "30%"
+  ],
+  "r3": [
+    "24%",
+    "24%",
+    "36%"
+  ],
+  "r4": [
+    "28%",
+    "28%",
+    "42%"
+  ],
+  "r5": [
+    "32%",
+    "32%",
+    "48%"
+  ],
+  "weaponmaterialtype": "Boreal Wolf",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 5000
+      },
+      {
+        "name": "Răng Sữa Sói Bão",
+        "count": 3
+      },
+      {
+        "name": "Cành Cây Địa Mạch",
+        "count": 3
+      },
+      {
+        "name": "Mật Hoa Lừa Dối",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 15000
+      },
+      {
+        "name": "Răng Vỡ Sói Bão",
+        "count": 3
+      },
+      {
+        "name": "Cành Cây Địa Mạch",
+        "count": 12
+      },
+      {
+        "name": "Mật Hoa Lừa Dối",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Răng Vỡ Sói Bão",
+        "count": 6
+      },
+      {
+        "name": "Lá Khô Địa Mạch",
+        "count": 6
+      },
+      {
+        "name": "Mật Hoa Lấp Lánh",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Mảnh Răng Sói Bão",
+        "count": 3
+      },
+      {
+        "name": "Lá Khô Địa Mạch",
+        "count": 12
+      },
+      {
+        "name": "Mật Hoa Lấp Lánh",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 35000
+      },
+      {
+        "name": "Mảnh Răng Sói Bão",
+        "count": 6
+      },
+      {
+        "name": "Chồi Non Địa Mạch",
+        "count": 9
+      },
+      {
+        "name": "Mật Hoa Nguyên Tố",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Nỗi Nhớ Của Sói Bão",
+        "count": 4
+      },
+      {
+        "name": "Chồi Non Địa Mạch",
+        "count": 18
+      },
+      {
+        "name": "Mật Hoa Nguyên Tố",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Weapon_Deathmatch.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gladiator.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gladiator_Awaken.png",
+    "nameicon": "UI_EquipIcon_Pole_Gladiator",
+    "namegacha": "UI_Gacha_EquipIcon_Pole_Gladiator",
+    "nameawakenicon": "UI_EquipIcon_Pole_Gladiator_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Deathmatch"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 41.067100524902344,
+      "specialized": 0.07999999821186066
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 53.63363305053463,
+      "specialized": 0.09295999319195758
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 69.07486476696522,
+      "specialized": 0.10904000038564199
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 84.26969215700228,
+      "specialized": 0.12520000177919854
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 99.25918424023803,
+      "specialized": 0.14135999363601215
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 125.1591838587683,
+      "specialized": 0.14135999363601215
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 139.98440965479494,
+      "specialized": 0.1575199950295687
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 154.68642349646507,
+      "specialized": 0.17367999642312526
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 169.22418084208584,
+      "specialized": 0.18983998827993886
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 183.6798001485222,
+      "specialized": 0.20599999921023837
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 209.67980205587082,
+      "specialized": 0.20599999921023837
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 224.05328332312274,
+      "specialized": 0.22215999106705198
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 238.34463634235,
+      "specialized": 0.23832000199735148
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 264.2446378682289,
+      "specialized": 0.23832000199735148
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 278.45386263943146,
+      "specialized": 0.2544799938541651
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 292.6220037043022,
+      "specialized": 0.2706399857109787
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 318.52199760078656,
+      "specialized": 0.2706399857109787
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 332.6080104176326,
+      "specialized": 0.2867999966412782
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 346.6529591104663,
+      "specialized": 0.30287999429821966
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 372.6529591104663,
+      "specialized": 0.30287999429821966
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 386.6568436792877,
+      "specialized": 0.31903998615503326
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 400.6607282481091,
+      "specialized": 0.33519999708533277
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 426.5607374033825,
+      "specialized": 0.33519999708533277
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 440.4824741418597,
+      "specialized": 0.3513600080156323
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 454.3631663386441,
+      "specialized": 0.36751998079896
+    }
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,897 @@
+{
+  "name": "Sangonomiya Kokomi",
+  "fullname": "Sangonomiya Kokomi",
+  "title": "Trí Tuệ Trân Châu",
+  "description": "Thánh Pháp Sư của đảo Watatsumi, thiếu nữ quản lý mọi chuyện trên đảo Watatsumi.",
+  "rarity": "5",
+  "element": "Thủy",
+  "weapontype": "Pháp Khí",
+  "substat": "Tăng ST Nguyên Tố Thủy",
+  "gender": "nữ",
+  "body": "GIRL",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "Đảo Watatsumi",
+  "birthdaymmdd": "2/22",
+  "birthday": "22 tháng 2",
+  "constellation": "Cung Miên Long",
+  "cv": {
+    "english": "Risa Mei",
+    "chinese": "龟娘",
+    "japanese": "三森すずこ",
+    "korean": "Yeo Yoon-mi"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vụn Thanh Kim Sạch",
+        "count": 1
+      },
+      {
+        "name": "Trân Châu San Hô",
+        "count": 3
+      },
+      {
+        "name": "Hạt Bay Lượn Khô Héo",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Thanh Kim Sạch",
+        "count": 3
+      },
+      {
+        "name": "Giọt Nước Bài Trừ",
+        "count": 2
+      },
+      {
+        "name": "Trân Châu San Hô",
+        "count": 10
+      },
+      {
+        "name": "Hạt Bay Lượn Khô Héo",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Thanh Kim Sạch",
+        "count": 6
+      },
+      {
+        "name": "Giọt Nước Bài Trừ",
+        "count": 4
+      },
+      {
+        "name": "Trân Châu San Hô",
+        "count": 20
+      },
+      {
+        "name": "Hạt Bay Lượn U Ám",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Thanh Kim Sạch",
+        "count": 3
+      },
+      {
+        "name": "Giọt Nước Bài Trừ",
+        "count": 8
+      },
+      {
+        "name": "Trân Châu San Hô",
+        "count": 30
+      },
+      {
+        "name": "Hạt Bay Lượn U Ám",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Thanh Kim Sạch",
+        "count": 6
+      },
+      {
+        "name": "Giọt Nước Bài Trừ",
+        "count": 12
+      },
+      {
+        "name": "Trân Châu San Hô",
+        "count": 45
+      },
+      {
+        "name": "Hạt Bay Lượn Kết Tinh",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Thanh Kim Sạch",
+        "count": 6
+      },
+      {
+        "name": "Giọt Nước Bài Trừ",
+        "count": 20
+      },
+      {
+        "name": "Trân Châu San Hô",
+        "count": 60
+      },
+      {
+        "name": "Hạt Bay Lượn Kết Tinh",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Kokomi.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/fd94f2afc70ab075c727ce0805fd0201.png",
+    "nameicon": "UI_AvatarIcon_Kokomi",
+    "nameiconcard": "UI_AvatarIcon_Kokomi_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Kokomi",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Kokomi",
+    "namesideicon": "UI_AvatarIcon_Side_Kokomi",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210909/2021090910072492457.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210914/2021091415174286428.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sangonomiya_Kokomi"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1048.6519775390625,
+      "attack": 18.247600555419922,
+      "defense": 51.1546516418457,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2720.2033357440087,
+      "attack": 47.334277685399684,
+      "defense": 132.69517153014476,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3619.3276033221337,
+      "attack": 62.97880130600515,
+      "defense": 176.55667131652172,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5415.66850285104,
+      "attack": 94.2369421363801,
+      "defense": 264.1845926036658,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 6054.519943280728,
+      "attack": 105.35278877029123,
+      "defense": 295.3493455638709,
+      "specialized": 0.07199999690055847
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6965.798467758985,
+      "attack": 121.20995288725135,
+      "defense": 339.8027356941002,
+      "specialized": 0.07199999690055847
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7817.600347641797,
+      "attack": 136.03107982511756,
+      "defense": 381.35572946851426,
+      "specialized": 0.14399999380111694
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8738.316555904574,
+      "attack": 152.05246914505915,
+      "defense": 426.2695024871027,
+      "specialized": 0.14399999380111694
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9377.168118404574,
+      "attack": 163.16831768631891,
+      "defense": 457.43425926200507,
+      "specialized": 0.14399999380111694
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 10306.273934516066,
+      "attack": 179.33569463239292,
+      "defense": 502.75728861740026,
+      "specialized": 0.14399999380111694
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10945.125252875441,
+      "attack": 190.45153935895542,
+      "defense": 533.9220377629081,
+      "specialized": 0.2160000056028366
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11884.717328743485,
+      "attack": 206.80138778599394,
+      "defense": 579.7566009506536,
+      "specialized": 0.2160000056028366
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12523.568891243485,
+      "attack": 217.9172363272537,
+      "defense": 610.9213500961614,
+      "specialized": 0.2879999876022339
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 13470.501998988213,
+      "attack": 234.39482610244158,
+      "defense": 657.1140186767225,
+      "specialized": 0.2879999876022339
+    }
+  },
+  "version": "2.1",
+  "constellations": {
+    "c1": {
+      "name": "Vệt Nước Sắc Bén",
+      "effect": "Khi trong trạng thái Lễ Phục Nghi Thức của **Nghi Lễ Nereid**, đòn tấn công thường cuối cùng của Sangonomiya Kokomi sẽ tạo ra một con cá, gây Sát Thương Nguyên Tố Thủy bằng 30% giới hạn HP của Sangonomiya Kokomi.\nSát thương này không được tính là sát thương tấn công thường."
+    },
+    "c2": {
+      "name": "Sóng Cuộn Dâng Trào",
+      "effect": "Dựa vào giới hạn HP của Sangonomiya Kokomi để tăng lượng trị liệu cho nhân vật có lượng HP bằng hoặc thấp hơn 50% như sau:\n·Vầng Trăng Biển của **Lời Thề Ánh Trăng Biển**: 4.5% giới hạn HP.\n·Tấn công thường và trọng kích của **Nghi Lễ Nereid**: 0.6% giới hạn HP."
+    },
+    "c3": {
+      "name": "Con Thuyền Dưới Ánh Trăng",
+      "effect": "Cấp kỹ năng **Nghi Lễ Nereid** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "Vầng Trăng Ngắm Biển",
+      "effect": "Khi trong trạng thái Lễ Phục Nghi Thức của **Nghi Lễ Nereid**, tốc độ tấn công thường của Sangonomiya Kokomi tăng 10%, đồng thời khi tấn công thường trúng kẻ địch sẽ hồi phục 0.8 Năng Lượng Nguyên Tố.\nHiệu quả này mỗi 0.2s tối đa kích hoạt một lần."
+    },
+    "c5": {
+      "name": "Nước Tụ Về Nguồn",
+      "effect": "Cấp kỹ năng **Lời Thề Ánh Trăng Biển** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Trái Tim San Hô",
+      "effect": "Khi trong trạng thái Lễ Phục Nghi Thức của **Nghi Lễ Nereid**, lúc đòn tấn công thường và trọng kích của Sangonomiya Kokomi trị liệu cho nhân vật có HP từ 80% trở lên, sẽ nhận 40% buff sát thương Nguyên Tố Thủy, kéo dài 4s."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Kokomi_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Kokomi_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Kokomi_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Kokomi_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Kokomi_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Kokomi_04.png",
+      "constellation": "Eff_UI_Talent_Kokomi"
+    },
+    "version": "2.1"
+  },
+  "talent": {
+    "name": "Sangonomiya Kokomi",
+    "combat1": {
+      "name": "Tấn Công Thường: Hình Dạng Nước Trong",
+      "info": "**Tấn Công Thường**\nDùng cá tạo thành bởi nước để thực hiện tối đa 3 lần tấn công, gây Sát Thương Nguyên Tố Thủy.\n\n**Trọng Kích**\nTiêu hao thể lực nhất định, sau khi tụ lực, gây Sát Thương Phạm Vi Nguyên Tố Thủy.\n\n**Tấn Công Khi Đáp**\nNgưng tụ sức mạnh nguyên tố Thủy, từ trên trời tấn công xuống mặt đất, tấn công kẻ địch trên đường đi, gây sát thương phạm vi Nguyên Tố Thủy khi chạm đất.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "68.38%",
+            "73.50%",
+            "78.63%",
+            "85.47%",
+            "90.60%",
+            "95.73%",
+            "102.56%",
+            "109.40%",
+            "116.24%",
+            "123.08%",
+            "129.91%",
+            "136.75%",
+            "145.30%",
+            "153.85%",
+            "162.39%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "61.54%",
+            "66.15%",
+            "70.77%",
+            "76.92%",
+            "81.54%",
+            "86.15%",
+            "92.31%",
+            "98.46%",
+            "104.62%",
+            "110.77%",
+            "116.92%",
+            "123.08%",
+            "130.77%",
+            "138.46%",
+            "146.15%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "94.31%",
+            "101.38%",
+            "108.45%",
+            "117.88%",
+            "124.95%",
+            "132.03%",
+            "141.46%",
+            "150.89%",
+            "160.32%",
+            "169.75%",
+            "179.18%",
+            "188.61%",
+            "200.40%",
+            "212.19%",
+            "223.98%"
+          ]
+        },
+        {
+          "name": "Sát Thương Trọng Kích",
+          "parameters": [
+            "148.32%",
+            "159.44%",
+            "170.57%",
+            "185.40%",
+            "196.52%",
+            "207.65%",
+            "222.48%",
+            "237.31%",
+            "252.14%",
+            "266.98%",
+            "281.81%",
+            "296.64%",
+            "315.18%",
+            "333.72%",
+            "352.26%"
+          ]
+        },
+        {
+          "name": "Thể lực Trọng Kích tiêu hao",
+          "parameters": [
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Lời Thề Ánh Trăng Biển",
+      "info": "Triệu hồi \"Vầng Trăng Biển\" chữa trị cho đồng đội.\nKhi thi triển sẽ khiến Sangonomiya Kokomi vào trạng thái Ẩm Ướt.\n\n**Vầng Trăng Biển**\nCứ cách một khoảng thời gian sẽ gây Sát Thương Nguyên Tố Thủy cho kẻ địch xung quanh và hồi HP cho nhân vật đang trong trận ở xung quanh, lượng hồi phục dựa vào giới hạn HP của Sangonomiya Kokomi.",
+      "description": "Để đảm bảo trạng thái tốt nhất cho công việc, Kokomi cần bổ sung \"năng lượng\" kịp thời.",
+      "attributes": [
+        {
+          "name": "Lượng trị liệu ",
+          "parameters": [
+            "4.40% giới hạn HP +424",
+            "4.73% giới hạn HP +466",
+            "5.06% giới hạn HP +512",
+            "5.50% giới hạn HP +561",
+            "5.83% giới hạn HP +614",
+            "6.16% giới hạn HP +671",
+            "6.60% giới hạn HP +731",
+            "7.04% giới hạn HP +795",
+            "7.48% giới hạn HP +862",
+            "7.92% giới hạn HP +932",
+            "8.36% giới hạn HP +1006",
+            "8.80% giới hạn HP +1084",
+            "9.35% giới hạn HP +1165",
+            "9.90% giới hạn HP +1250",
+            "10.45% giới hạn HP +1338"
+          ]
+        },
+        {
+          "name": "Sát Thương Gợn Sóng",
+          "parameters": [
+            "109.19%",
+            "117.38%",
+            "125.57%",
+            "136.49%",
+            "144.68%",
+            "152.87%",
+            "163.79%",
+            "174.70%",
+            "185.62%",
+            "196.54%",
+            "207.46%",
+            "218.38%",
+            "232.03%",
+            "245.68%",
+            "259.33%"
+          ]
+        },
+        {
+          "name": "Thời gian tồn tại",
+          "parameters": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Nghi Lễ Nereid",
+      "info": "Triệu hồi sức mạnh của Watatsumi, gây Sát Thương Nguyên Tố Thủy cho kẻ địch xung quanh, đồng thời giúp Kokomi khoác lên \"Lễ Phục Nghi Thức\" được ngưng tụ từ nước của Sangonomiya.\n\n**Lễ Phục Nghi Thức**\n·Giúp Sangonomiya Kokomi tăng sát thương tấn công thường, trọng kích và sát thương do kỹ năng nguyên tố \"Vầng Trăng Biển\" gây ra, mức gia tăng sẽ dựa vào giới hạn HP của Kokomi;\n·Khi tấn công thường và trọng kích trúng kẻ địch sẽ hồi HP cho tất cả nhân vật trong đội gần đó, lượng hồi phục sẽ dựa vào giới hạn HP của Kokomi;\n·Tăng khả năng kháng gián đoạn của Sangonomiya Kokomi, đồng thời khiến cô ấy có thể di chuyển trên mặt nước.\n\nHiệu quả sẽ mất khi Sangonomiya Kokomi rời trận.",
+      "description": "Ánh sáng xung quanh tạo thành lễ phục khoác lên người Sangonomiya Kokomi, tô điểm thêm vẻ đẹp tuyệt mỹ của đại nhân.",
+      "attributes": [
+        {
+          "name": "Sát Thương Kỹ Năng",
+          "parameters": [
+            "10.42% Giới Hạn HP",
+            "11.20% Giới Hạn HP",
+            "11.98% Giới Hạn HP",
+            "13.02% Giới Hạn HP",
+            "13.80% Giới Hạn HP",
+            "14.58% Giới Hạn HP",
+            "15.62% Giới Hạn HP",
+            "16.67% Giới Hạn HP",
+            "17.71% Giới Hạn HP",
+            "18.75% Giới Hạn HP",
+            "19.79% Giới Hạn HP",
+            "20.83% Giới Hạn HP",
+            "22.13% Giới Hạn HP",
+            "23.44% Giới Hạn HP",
+            "24.74% Giới Hạn HP"
+          ]
+        },
+        {
+          "name": "Tăng Sát Thương Đánh Thường",
+          "parameters": [
+            "4.84% Giới Hạn HP",
+            "5.20% Giới Hạn HP",
+            "5.57% Giới Hạn HP",
+            "6.05% Giới Hạn HP",
+            "6.41% Giới Hạn HP",
+            "6.78% Giới Hạn HP",
+            "7.26% Giới Hạn HP",
+            "7.74% Giới Hạn HP",
+            "8.23% Giới Hạn HP",
+            "8.71% Giới Hạn HP",
+            "9.20% Giới Hạn HP",
+            "9.68% Giới Hạn HP",
+            "10.28% Giới Hạn HP",
+            "10.89% Giới Hạn HP",
+            "11.50% Giới Hạn HP"
+          ]
+        },
+        {
+          "name": "Tăng Sát Thương Trọng Kích",
+          "parameters": [
+            "6.78% Giới Hạn HP",
+            "7.28% Giới Hạn HP",
+            "7.79% Giới Hạn HP",
+            "8.47% Giới Hạn HP",
+            "8.98% Giới Hạn HP",
+            "9.49% Giới Hạn HP",
+            "10.16% Giới Hạn HP",
+            "10.84% Giới Hạn HP",
+            "11.52% Giới Hạn HP",
+            "12.20% Giới Hạn HP",
+            "12.87% Giới Hạn HP",
+            "13.55% Giới Hạn HP",
+            "14.40% Giới Hạn HP",
+            "15.25% Giới Hạn HP",
+            "16.09% Giới Hạn HP"
+          ]
+        },
+        {
+          "name": "Tăng Sát Thương Vầng Trăng Biển",
+          "parameters": [
+            "7.10% Giới Hạn HP",
+            "7.63% Giới Hạn HP",
+            "8.16% Giới Hạn HP",
+            "8.87% Giới Hạn HP",
+            "9.40% Giới Hạn HP",
+            "9.93% Giới Hạn HP",
+            "10.64% Giới Hạn HP",
+            "11.35% Giới Hạn HP",
+            "12.06% Giới Hạn HP",
+            "12.77% Giới Hạn HP",
+            "13.48% Giới Hạn HP",
+            "14.19% Giới Hạn HP",
+            "15.08% Giới Hạn HP",
+            "15.97% Giới Hạn HP",
+            "16.85% Giới Hạn HP"
+          ]
+        },
+        {
+          "name": "Hồi HP khi đánh trúng địch",
+          "parameters": [
+            "0.81% Giới Hạn HP +77",
+            "0.87% Giới Hạn HP +85",
+            "0.93% Giới Hạn HP +93",
+            "1.01% Giới Hạn HP +102",
+            "1.07% Giới Hạn HP +112",
+            "1.13% Giới Hạn HP +122",
+            "1.21% Giới Hạn HP +133",
+            "1.29% Giới Hạn HP +144",
+            "1.37% Giới Hạn HP +157",
+            "1.45% Giới Hạn HP +169",
+            "1.54% Giới Hạn HP +183",
+            "1.62% Giới Hạn HP +197",
+            "1.72% Giới Hạn HP +212",
+            "1.82% Giới Hạn HP +227",
+            "1.92% Giới Hạn HP +243"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "parameters": [
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Rương Báu Tamanooya",
+      "info": "Khi thi triển **Nghi Lễ Nereid**, nếu trong trận có Vầng Trăng Biển của Sangonomiya Kokomi thì sẽ tái lập thời gian tồn tại của Vầng Trăng Biển."
+    },
+    "passive2": {
+      "name": "Khúc Ca Trân Châu",
+      "info": "Khi trong trạng thái Lễ Phục Nghi Thức của **Nghi Lễ Nereid**, tăng sát thương tấn công thường và trọng kích của Sangonomiya Kokomi dựa vào giới hạn HP, mức độ tăng thêm tương đương 15% lượng tăng trị liệu."
+    },
+    "passive3": {
+      "name": "Công Chúa Watatsumi",
+      "info": "Giảm 20% tiêu hao thể lực khi bơi cho nhân vật trong đội của bản thân.\nKhông thể cộng dồn với Thiên Phú cố định có cùng hiệu quả."
+    },
+    "passive4": {
+      "name": "Chiến Lược Hoàn Hảo",
+      "info": "Mức trị liệu của Sangonomiya Kokomi tăng 25%, tỷ lệ bạo kích giảm 100%."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Phù Thế\"",
+          "count": 3
+        },
+        {
+          "name": "Hạt Bay Lượn Khô Héo",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Phù Thế\"",
+          "count": 2
+        },
+        {
+          "name": "Hạt Bay Lượn U Ám",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Phù Thế\"",
+          "count": 4
+        },
+        {
+          "name": "Hạt Bay Lượn U Ám",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Phù Thế\"",
+          "count": 6
+        },
+        {
+          "name": "Hạt Bay Lượn U Ám",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Phù Thế\"",
+          "count": 9
+        },
+        {
+          "name": "Hạt Bay Lượn U Ám",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Phù Thế\"",
+          "count": 4
+        },
+        {
+          "name": "Hạt Bay Lượn Kết Tinh",
+          "count": 4
+        },
+        {
+          "name": "Bướm Hỏa Ngục",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Phù Thế\"",
+          "count": 6
+        },
+        {
+          "name": "Hạt Bay Lượn Kết Tinh",
+          "count": 6
+        },
+        {
+          "name": "Bướm Hỏa Ngục",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Phù Thế\"",
+          "count": 12
+        },
+        {
+          "name": "Hạt Bay Lượn Kết Tinh",
+          "count": 9
+        },
+        {
+          "name": "Bướm Hỏa Ngục",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Phù Thế\"",
+          "count": 16
+        },
+        {
+          "name": "Hạt Bay Lượn Kết Tinh",
+          "count": 12
+        },
+        {
+          "name": "Bướm Hỏa Ngục",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_Catalyst_MD",
+      "combat2": "Skill_S_Kokomi_01",
+      "combat3": "Skill_E_Kokomi_01_HD",
+      "passive1": "UI_Talent_S_Kokomi_05",
+      "passive2": "UI_Talent_S_Kokomi_06",
+      "passive3": "UI_Talent_Explosion_Swim",
+      "passive4": "UI_Talent_S_Kokomi_07"
+    },
+    "version": "2.1"
+  }
+}

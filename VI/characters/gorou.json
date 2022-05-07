@@ -1,0 +1,871 @@
+{
+  "name": "Gorou",
+  "fullname": "Gorou",
+  "title": "Chiến Khuyển Nanh Nhọn",
+  "description": "Đại tướng đảo Watatsumi, rất được thuộc hạ tin tưởng.",
+  "rarity": "4",
+  "element": "Nham",
+  "weapontype": "Cung",
+  "substat": "Tăng ST Nguyên Tố Nham",
+  "gender": "nam",
+  "body": "BOY",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "Đảo Watatsumi",
+  "birthdaymmdd": "5/18",
+  "birthday": "18 tháng 5",
+  "constellation": "Cung Sài Khuyển",
+  "cv": {
+    "english": "Cory Yee",
+    "chinese": "杨昕燃",
+    "japanese": "畠中祐",
+    "korean": "Lee Sae-byeok"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vụn Hoàng Ngọc Cứng",
+        "count": 1
+      },
+      {
+        "name": "Trân Châu San Hô",
+        "count": 3
+      },
+      {
+        "name": "Hạt Bay Lượn Khô Héo",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Hoàng Ngọc Cứng",
+        "count": 3
+      },
+      {
+        "name": "Lõi Động Cơ Vĩnh Cửu",
+        "count": 2
+      },
+      {
+        "name": "Trân Châu San Hô",
+        "count": 10
+      },
+      {
+        "name": "Hạt Bay Lượn Khô Héo",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Hoàng Ngọc Cứng",
+        "count": 6
+      },
+      {
+        "name": "Lõi Động Cơ Vĩnh Cửu",
+        "count": 4
+      },
+      {
+        "name": "Trân Châu San Hô",
+        "count": 20
+      },
+      {
+        "name": "Hạt Bay Lượn U Ám",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Hoàng Ngọc Cứng",
+        "count": 3
+      },
+      {
+        "name": "Lõi Động Cơ Vĩnh Cửu",
+        "count": 8
+      },
+      {
+        "name": "Trân Châu San Hô",
+        "count": 30
+      },
+      {
+        "name": "Hạt Bay Lượn U Ám",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Hoàng Ngọc Cứng",
+        "count": 6
+      },
+      {
+        "name": "Lõi Động Cơ Vĩnh Cửu",
+        "count": 12
+      },
+      {
+        "name": "Trân Châu San Hô",
+        "count": 45
+      },
+      {
+        "name": "Hạt Bay Lượn Kết Tinh",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Hoàng Ngọc Cứng",
+        "count": 6
+      },
+      {
+        "name": "Lõi Động Cơ Vĩnh Cửu",
+        "count": 20
+      },
+      {
+        "name": "Trân Châu San Hô",
+        "count": 60
+      },
+      {
+        "name": "Hạt Bay Lượn Kết Tinh",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_AvatarIcon_Gorou",
+    "nameiconcard": "UI_AvatarIcon_Gorou_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Gorou",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Gorou",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Gorou.png",
+    "namesideicon": "UI_AvatarIcon_Side_Gorou",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Gorou.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211203/2021120311003437183.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211203/2021120311003943402.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Gorou"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 802.3760986328125,
+      "attack": 15.31488037109375,
+      "defense": 54.36375045776367,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2061.304201978928,
+      "attack": 39.34392776097229,
+      "defense": 139.66047523706675,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2660.720217603928,
+      "attack": 50.78519572819641,
+      "defense": 180.2729744741273,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 3985.4429835102637,
+      "attack": 76.07005992004997,
+      "defense": 270.0275147628545,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4411.343862416514,
+      "attack": 84.19938101837761,
+      "defense": 298.88376552579393,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5074.106691293244,
+      "attack": 96.84947547651245,
+      "defense": 343.78823501725674,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5641.974489144806,
+      "attack": 107.68857154584839,
+      "defense": 382.26323349137783,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6304.737318021536,
+      "attack": 120.33866600398323,
+      "defense": 427.16770298284064,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6730.638196927786,
+      "attack": 128.46798996333382,
+      "defense": 456.02395756047736,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7392.598325258761,
+      "attack": 141.10276334840455,
+      "defense": 500.8740413190699,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7818.499082094699,
+      "attack": 149.2320854004065,
+      "defense": 529.7302882673121,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8481.26152836869,
+      "attack": 161.88217255583731,
+      "defense": 574.6347318361186,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 8907.16240727494,
+      "attack": 170.01149460783927,
+      "defense": 603.4909787843608,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9569.92523615167,
+      "attack": 182.6615890659741,
+      "defense": 648.3954482758236,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "2.3",
+  "constellations": {
+    "c1": {
+      "name": "Chạy: Nhanh Nhẹn Như Gió",
+      "effect": "Khi nhân vật trong trận hiện tại (trừ Gorou) đứng trong khu vực **Đại Tướng Chiến Kỳ** hoặc **Uy Nghi Đại Tướng** gây Sát Thương Nguyên Tố Nham cho kẻ địch, sẽ giảm 2s CD kỹ năng **Trận Hình Phòng Thủ - Inuzaka** của Gorou.\nHiệu quả này mỗi 10s tối đa kích hoạt 1 lần."
+    },
+    "c2": {
+      "name": "Ngồi: Vững Vàng Như Chuông",
+      "effect": "Trong thời gian duy trì **Uy Nghi Đại Tướng**, sau khi nhân vật trong trận gần đó nhận mảnh kết tinh tạo ra từ phản ứng kết tinh, thì Uy Nghi Đại Tướng của Gorou sẽ kéo dài thêm 1s.\nHiệu quả này mỗi 0.1s tối đa kích hoạt 1 lần, tối đa kéo dài thêm 3s bằng cách này."
+    },
+    "c3": {
+      "name": "Cào: Dữ Dội Như Lửa",
+      "effect": "Cấp kỹ năng **Trận Hình Phòng Thủ - Inuzaka** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "Liếm: Ấm Áp Như Nước",
+      "effect": "**Uy Nghi Đại Tướng** khi có hiệu quả \"Trụ Vững\" hoặc \"Phá Hủy\", mỗi 1.5s sẽ hồi phục HP cho nhân vật trong khu vực, lượng hồi phục tương đương 50% phòng ngự của bản thân Gorou."
+    },
+    "c5": {
+      "name": "Cắn: Kinh Động Như Sấm",
+      "effect": "Cấp kỹ năng **Chiến Pháp Đột Kích - Juuga** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Dũng: Trung Nghĩa Như Núi",
+      "effect": "Trong 12s sau khi thi triển **Trận Hình Phòng Thủ - Inuzaka** hoặc **Chiến Pháp Đột Kích - Juuga**, dựa vào cấp độ khu vực lúc thi triển để tăng Sát Thương Bạo Kích Nguyên Tố Nham cho toàn bộ nhân vật trong đội ở gần:\n·\"Kiên Cố\": Tăng 10%;\n·\"Trụ Vững\": Tăng 20%;\n·\"Phá Hủy\": Tăng 40%.\n\nHiệu quả này không thể cộng dồn, lấy hiệu ứng sau cùng làm chuẩn."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Gorou_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Gorou_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Gorou_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Gorou_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Gorou_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Gorou_04.png",
+      "constellation": "Eff_UI_Talent_Gorou"
+    },
+    "version": "2.3"
+  },
+  "talent": {
+    "name": "Gorou",
+    "combat1": {
+      "name": "Tấn Công Thường - Mũi Tên Cào Xé",
+      "info": "**Tấn Công Thường**\nThực hiện tối đa 4 lần bắn tên liên tiếp.\n\n**Trọng Kích**\n**Ngắm bắn** gây sát thương cao hơn và chính xác hơn.\nKhi ngắm bắn, nham thạch sẽ tích tụ liên tục trên mũi tên. Mũi tên tích đầy nham thạch sẽ gây Sát Thương Nguyên Tố Nham.\n\n**Tấn Công Khi Đáp**\nBắn mưa tên liên tiếp xuống mặt đất, đồng thời lao nhanh xuống đất và gây sát thương phạm vi khi chạm đất.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "37.75%",
+            "40.83%",
+            "43.90%",
+            "48.29%",
+            "51.36%",
+            "54.87%",
+            "59.70%",
+            "64.53%",
+            "69.36%",
+            "74.63%",
+            "79.90%",
+            "85.17%",
+            "90.43%",
+            "95.70%",
+            "100.97%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "37.15%",
+            "40.18%",
+            "43.20%",
+            "47.52%",
+            "50.54%",
+            "54.00%",
+            "58.75%",
+            "63.50%",
+            "68.26%",
+            "73.44%",
+            "78.62%",
+            "83.81%",
+            "88.99%",
+            "94.18%",
+            "99.36%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "49.45%",
+            "53.47%",
+            "57.50%",
+            "63.25%",
+            "67.27%",
+            "71.88%",
+            "78.20%",
+            "84.53%",
+            "90.85%",
+            "97.75%",
+            "104.65%",
+            "111.55%",
+            "118.45%",
+            "125.35%",
+            "132.25%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "59.00%",
+            "63.80%",
+            "68.60%",
+            "75.46%",
+            "80.26%",
+            "85.75%",
+            "93.30%",
+            "100.84%",
+            "108.39%",
+            "116.62%",
+            "124.85%",
+            "133.08%",
+            "141.32%",
+            "149.55%",
+            "157.78%"
+          ]
+        },
+        {
+          "name": "Ngắm Bắn",
+          "parameters": [
+            "43.86%",
+            "47.43%",
+            "51.00%",
+            "56.10%",
+            "59.67%",
+            "63.75%",
+            "69.36%",
+            "74.97%",
+            "80.58%",
+            "86.70%",
+            "92.82%",
+            "98.94%",
+            "105.06%",
+            "111.18%",
+            "117.30%"
+          ]
+        },
+        {
+          "name": "Tụ Lực Ngắm Bắn",
+          "parameters": [
+            "124.00%",
+            "133.30%",
+            "142.60%",
+            "155.00%",
+            "164.30%",
+            "173.60%",
+            "186.00%",
+            "198.40%",
+            "210.80%",
+            "223.20%",
+            "235.60%",
+            "248.00%",
+            "263.50%",
+            "279.00%",
+            "294.50%"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Trận Hình Phòng Thủ - Inuzaka",
+      "info": "Gây Sát Thương Phạm Vi Nguyên Tố Nham, đồng thời cắm Đại Tướng Chiến Kỳ.\n\n**Đại Tướng Chiến Kỳ**\nCăn cứ vào số lượng nhân vật Nguyên Tố Nham trong đội khi thi triển để cung cấp hiệu quả cho nhân vật đứng trong phạm vi Đại Tướng Chiến Kỳ như sau:\n·Một nhân vật - \"Kiên Cố\": Tăng phòng ngự;\n·Hai nhân vật - \"Trụ Vững\": Ngoài hiệu quả trên, tăng thêm kháng gián đoạn;\n·Ba nhân vật - \"Phá Hủy\": Ngoài hiệu quả trên, tăng Sát Thương Nguyên Tố Nham.\n\nCùng lúc chỉ có thể tồn tại một Đại Tướng Chiến Kỳ do bản thân Gorou tạo ra; Nhân vật chỉ có thể nhận được hiệu quả của một Đại Tướng Chiến Kỳ. Sau khi nhân vật rời khỏi khu vực, hiệu quả của khu vực sẽ kéo dài 2s.\n\n**Nhấn Giữ**\nCó thể điều chỉnh vị trí hiệu lực của kỹ năng.",
+      "description": "\"Chỉ cần ở trong trận hình này, tính mạng của mọi người sẽ được đảm bảo!\" Dù ở bất cứ đâu, thân là tướng quân, Gorou cũng không hy vọng đồng đội của mình bị thương.",
+      "attributes": [
+        {
+          "name": "Sát Thương Kỹ Năng",
+          "parameters": [
+            "107.20%",
+            "115.24%",
+            "123.28%",
+            "134.00%",
+            "142.04%",
+            "150.08%",
+            "160.80%",
+            "171.52%",
+            "182.24%",
+            "192.96%",
+            "203.68%",
+            "214.40%",
+            "227.80%",
+            "241.20%",
+            "254.60%"
+          ]
+        },
+        {
+          "name": "Tăng Phòng Ngự",
+          "parameters": [
+            "206",
+            "222",
+            "237",
+            "258",
+            "273",
+            "289",
+            "309",
+            "330",
+            "350",
+            "371",
+            "392",
+            "412",
+            "438",
+            "464",
+            "490"
+          ]
+        },
+        {
+          "name": "Tăng Sát Thương Nguyên Tố Nham",
+          "parameters": [
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "parameters": [
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Chiến Pháp Đột Kích - Juuga",
+      "info": "Đại tướng xung trận, gây Sát Thương Phạm Vi Nguyên Tố Nham, đồng thời thiết lập khu vực Uy Nghi Đại Tướng để cổ vũ chiến hữu bên cạnh.\n\n**Uy Nghi Đại Tướng**\nĐặc tính cụ thể như sau:\n·Khu vực có hiệu quả giống với Đại Tướng Chiến Kỳ tạo ra từ kỹ năng nguyên tố \"Trận Hình Phòng Thủ - Inuzaka\", căn cứ vào số lượng nhân vật Nguyên Tố Nham trong đội khi thi triển để cung cấp hiệu quả cho nhân vật đứng trong khu vực hiệu ứng, đồng thời sẽ di chuyển theo nhân vật trong trận;\n·Mỗi 1.5s sẽ sản sinh một lần Kết Tinh Tan Vỡ, gây Sát Thương Phạm Vi Nguyên Tố Nham cho một kẻ địch trong khu vực hiệu ứng;\n·Mỗi 1.5s sẽ thu hút 1 Mảnh sinh ra từ phản ứng Kết Tinh trong khu vực đến vị trí của nhân vật hiện tại.\n\nKhi thi triển, nếu trong trận có Đại Tướng Chiến Kỳ của Gorou tạo ra, sẽ phá hủy nó. Ngoài ra, trong thời gian duy trì Uy Nghi Đại Tướng, kỹ năng nguyên tố \"Trận Hình Phòng Thủ - Inuzaka\" mà Gorou thi triển sẽ không tạo ra Đại Tướng Chiến Kỳ.\nKhi Gorou ngã xuống sẽ xóa bỏ hiệu quả Uy Nghi Đại Tướng của bản thân Gorou.",
+      "description": "\"Địa hình vô song!\" Gorou có thể thay đổi địa hình, dẫn dắt mọi người đến chiến thắng, là bí thuật độc đáo để khắc chế cường địch.",
+      "attributes": [
+        {
+          "name": "Sát Thương Kỹ Năng",
+          "parameters": [
+            "98.22% phòng ngự",
+            "105.58% phòng ngự",
+            "112.95% phòng ngự",
+            "122.77% phòng ngự",
+            "130.14% phòng ngự",
+            "137.50% phòng ngự",
+            "147.32% phòng ngự",
+            "157.15% phòng ngự",
+            "166.97% phòng ngự",
+            "176.79% phòng ngự",
+            "186.61% phòng ngự",
+            "196.43% phòng ngự",
+            "208.71% phòng ngự",
+            "220.99% phòng ngự",
+            "233.26% phòng ngự"
+          ]
+        },
+        {
+          "name": "Sát Thương Kết Tinh Tan Vỡ",
+          "parameters": [
+            "61.30% phòng ngự",
+            "65.90% phòng ngự",
+            "70.49% phòng ngự",
+            "76.63% phòng ngự",
+            "81.22% phòng ngự",
+            "85.82% phòng ngự",
+            "91.95% phòng ngự",
+            "98.08% phòng ngự",
+            "104.21% phòng ngự",
+            "110.34% phòng ngự",
+            "116.47% phòng ngự",
+            "122.60% phòng ngự",
+            "130.26% phòng ngự",
+            "137.93% phòng ngự",
+            "145.59% phòng ngự"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "parameters": [
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Không Ngại Mưa Gió",
+      "info": "Trong 12s sau khi thi triển **Chiến Pháp Đột Kích - Juuga**, mức phòng ngự của tất cả thành viên trong đội gần đó tăng 25%."
+    },
+    "passive2": {
+      "name": "Lòng Báo Ơn",
+      "info": "Dựa theo sức phòng ngự, sẽ tăng sát thương của các loại tấn công sau đây cho Gorou:\n·Sát thương kỹ năng **Trận Hình Phòng Thủ - Inuzaka** tăng tương đương 156% phòng ngự;\n·Sát thương Kết Tinh Tan Vỡ và kỹ năng **Chiến Pháp Đột Kích - Juuga** tăng tương đương 15.6% phòng ngự."
+    },
+    "passive3": {
+      "name": "Phát Hiện Lấp Lánh",
+      "info": "Hiển thị vị trí **đặc sản khu vực Inazuma** trên bản đồ nhỏ."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Ánh Sáng\"",
+          "count": 3
+        },
+        {
+          "name": "Hạt Bay Lượn Khô Héo",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Ánh Sáng\"",
+          "count": 2
+        },
+        {
+          "name": "Hạt Bay Lượn U Ám",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Ánh Sáng\"",
+          "count": 4
+        },
+        {
+          "name": "Hạt Bay Lượn U Ám",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Ánh Sáng\"",
+          "count": 6
+        },
+        {
+          "name": "Hạt Bay Lượn U Ám",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Ánh Sáng\"",
+          "count": 9
+        },
+        {
+          "name": "Hạt Bay Lượn U Ám",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Ánh Sáng\"",
+          "count": 4
+        },
+        {
+          "name": "Hạt Bay Lượn Kết Tinh",
+          "count": 4
+        },
+        {
+          "name": "Thời Khắc Tan Chảy",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Ánh Sáng\"",
+          "count": 6
+        },
+        {
+          "name": "Hạt Bay Lượn Kết Tinh",
+          "count": 6
+        },
+        {
+          "name": "Thời Khắc Tan Chảy",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Ánh Sáng\"",
+          "count": 12
+        },
+        {
+          "name": "Hạt Bay Lượn Kết Tinh",
+          "count": 9
+        },
+        {
+          "name": "Thời Khắc Tan Chảy",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Ánh Sáng\"",
+          "count": 16
+        },
+        {
+          "name": "Hạt Bay Lượn Kết Tinh",
+          "count": 12
+        },
+        {
+          "name": "Thời Khắc Tan Chảy",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_02",
+      "combat2": "Skill_S_Gorou_01",
+      "combat3": "Skill_E_Gorou_01_HD",
+      "passive1": "UI_Talent_S_Gorou_05",
+      "passive2": "UI_Talent_S_Gorou_06",
+      "passive3": "UI_Talent_S_Gorou_07"
+    },
+    "version": "2.3"
+  }
+}

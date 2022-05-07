@@ -1,0 +1,307 @@
+{
+  "name": "Kiếm Sắt Đen",
+  "description": "Kiếm sắt hơi bị đen một chút",
+  "weapontype": "Kiếm Đơn",
+  "rarity": "3",
+  "baseatk": 39,
+  "substat": "Tinh Thông Nguyên Tố",
+  "subvalue": "31",
+  "effectname": "Quá Tải",
+  "effect": [
+    "Sau khi kích hoạt phản ứng quá tải, siêu dẫn, điện cảm hoặc khuếch tán Nguyên Tố Lôi, tăng [20%] tấn công trong 12s.",
+    "Sau khi kích hoạt phản ứng quá tải, siêu dẫn, điện cảm hoặc khuếch tán Nguyên Tố Lôi, tăng [25%] tấn công trong 12s.",
+    "Sau khi kích hoạt phản ứng quá tải, siêu dẫn, điện cảm hoặc khuếch tán Nguyên Tố Lôi, tăng [30%] tấn công trong 12s.",
+    "Sau khi kích hoạt phản ứng quá tải, siêu dẫn, điện cảm hoặc khuếch tán Nguyên Tố Lôi, tăng [35%] tấn công trong 12s.",
+    "Sau khi kích hoạt phản ứng quá tải, siêu dẫn, điện cảm hoặc khuếch tán Nguyên Tố Lôi, tăng [40%] tấn công trong 12s."
+  ],
+  "r1": [
+    "20%"
+  ],
+  "r2": [
+    "25%"
+  ],
+  "r3": [
+    "30%"
+  ],
+  "r4": [
+    "35%"
+  ],
+  "r5": [
+    "40%"
+  ],
+  "weaponmaterialtype": "Guyun",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 5000
+      },
+      {
+        "name": "Ánh Sáng Rừng Băng Giá",
+        "count": 2
+      },
+      {
+        "name": "Dao Săn Bắt",
+        "count": 2
+      },
+      {
+        "name": "Mặt Nạ Vỡ",
+        "count": 1
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 10000
+      },
+      {
+        "name": "Nham Thạch Rừng Băng Giá",
+        "count": 2
+      },
+      {
+        "name": "Dao Săn Bắt",
+        "count": 8
+      },
+      {
+        "name": "Mặt Nạ Vỡ",
+        "count": 5
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 15000
+      },
+      {
+        "name": "Nham Thạch Rừng Băng Giá",
+        "count": 4
+      },
+      {
+        "name": "Dao Đặc Công",
+        "count": 4
+      },
+      {
+        "name": "Mặt Nạ Bẩn",
+        "count": 4
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Thánh Cốt Rừng Băng Giá",
+        "count": 2
+      },
+      {
+        "name": "Dao Đặc Công",
+        "count": 8
+      },
+      {
+        "name": "Mặt Nạ Bẩn",
+        "count": 6
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 25000
+      },
+      {
+        "name": "Thánh Cốt Rừng Băng Giá",
+        "count": 4
+      },
+      {
+        "name": "Dao Đô Thám Trưởng",
+        "count": 6
+      },
+      {
+        "name": "Mặt Nạ Xui Xẻo",
+        "count": 4
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Thần Thể Rừng Băng Giá",
+        "count": 3
+      },
+      {
+        "name": "Dao Đô Thám Trưởng",
+        "count": 12
+      },
+      {
+        "name": "Mặt Nạ Xui Xẻo",
+        "count": 8
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Weapon_Dark_Iron_Sword.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Darker.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Darker_Awaken.png",
+    "nameicon": "UI_EquipIcon_Sword_Darker",
+    "namegacha": "UI_Gacha_EquipIcon_Sword_Darker",
+    "nameawakenicon": "UI_EquipIcon_Sword_Darker_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dark_Iron_Sword"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 38.74129867553711,
+      "specialized": 30.600000381469727
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 50.47991113972057,
+      "specialized": 35.55719863395689
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 65.04664125210502,
+      "specialized": 41.70780159969331
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 79.45840816490272,
+      "specialized": 47.88900234794619
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 93.75394575052633,
+      "specialized": 54.07019944839476
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 113.25394575052633,
+      "specialized": 54.07019944839476
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 127.43325862729853,
+      "specialized": 60.25140019664764
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 141.45760830448398,
+      "specialized": 66.43260094490051
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 155.40447176355337,
+      "specialized": 72.61379804534909
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 169.27385824115208,
+      "specialized": 78.79500244140627
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 188.673859767031,
+      "specialized": 78.79500244140627
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 202.42703077242368,
+      "specialized": 84.97619954185484
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 216.10269708640953,
+      "specialized": 91.15740393791202
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 235.60269708640953,
+      "specialized": 91.15740393791202
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 249.20090489221548,
+      "specialized": 97.3386010383606
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 262.72161724325997,
+      "specialized": 103.51979813880916
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 282.1216187691389,
+      "specialized": 103.51979813880916
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 295.60359262944803,
+      "specialized": 109.70100253486635
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 309.00807103499574,
+      "specialized": 115.85160185279847
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 328.50807103499574,
+      "specialized": 115.85160185279847
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 341.9125679138342,
+      "specialized": 122.03279895324704
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 355.2783078286466,
+      "specialized": 128.21400334930422
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 374.67830172513095,
+      "specialized": 128.21400334930422
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 388.005303149208,
+      "specialized": 134.3952077453614
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 401.2935845558404,
+      "specialized": 140.57639755020136
+    }
+  },
+  "version": "1.0"
+}

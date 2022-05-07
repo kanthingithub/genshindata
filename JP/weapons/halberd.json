@@ -1,0 +1,307 @@
+{
+  "name": "鉾槍",
+  "description": "矛の先に斧の刃を追加した兵器。悪くない破壊力を持つ。千岩軍兵士にも愛された武器である。",
+  "weapontype": "長柄武器",
+  "rarity": "3",
+  "baseatk": 40,
+  "substat": "攻撃力",
+  "subvalue": "5.1",
+  "effectname": "過重",
+  "effect": [
+    "通常攻撃が命中した敵1体に攻撃力の[160%]の追加ダメージを与える。10秒毎に1回のみ発動可能。",
+    "通常攻撃が命中した敵1体に攻撃力の[200%]の追加ダメージを与える。10秒毎に1回のみ発動可能。",
+    "通常攻撃が命中した敵1体に攻撃力の[240%]の追加ダメージを与える。10秒毎に1回のみ発動可能。",
+    "通常攻撃が命中した敵1体に攻撃力の[280%]の追加ダメージを与える。10秒毎に1回のみ発動可能。",
+    "通常攻撃が命中した敵1体に攻撃力の[320%]の追加ダメージを与える。10秒毎に1回のみ発動可能。"
+  ],
+  "r1": [
+    "160%"
+  ],
+  "r2": [
+    "200%"
+  ],
+  "r3": [
+    "240%"
+  ],
+  "r4": [
+    "280%"
+  ],
+  "r5": [
+    "320%"
+  ],
+  "weaponmaterialtype": "Mist Veiled Elixir",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "モラ",
+        "count": 5000
+      },
+      {
+        "name": "霧海雲間の鉛丹",
+        "count": 2
+      },
+      {
+        "name": "霧虚ろの花粉",
+        "count": 2
+      },
+      {
+        "name": "トリックフラワーの蜜",
+        "count": 1
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "モラ",
+        "count": 10000
+      },
+      {
+        "name": "霧海雲間の水銀",
+        "count": 2
+      },
+      {
+        "name": "霧虚ろの花粉",
+        "count": 8
+      },
+      {
+        "name": "トリックフラワーの蜜",
+        "count": 5
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "モラ",
+        "count": 15000
+      },
+      {
+        "name": "霧海雲間の水銀",
+        "count": 4
+      },
+      {
+        "name": "霧虚ろの草嚢",
+        "count": 4
+      },
+      {
+        "name": "微光花の蜜",
+        "count": 4
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "モラ",
+        "count": 20000
+      },
+      {
+        "name": "霧海雲間の金丹",
+        "count": 2
+      },
+      {
+        "name": "霧虚ろの草嚢",
+        "count": 8
+      },
+      {
+        "name": "微光花の蜜",
+        "count": 6
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "モラ",
+        "count": 25000
+      },
+      {
+        "name": "霧海雲間の金丹",
+        "count": 4
+      },
+      {
+        "name": "霧虚ろの灯芯",
+        "count": 6
+      },
+      {
+        "name": "原素花の蜜",
+        "count": 4
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "モラ",
+        "count": 30000
+      },
+      {
+        "name": "霧海雲間の転還",
+        "count": 3
+      },
+      {
+        "name": "霧虚ろの灯芯",
+        "count": 12
+      },
+      {
+        "name": "原素花の蜜",
+        "count": 8
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Weapon_Halberd.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Halberd.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Halberd_Awaken.png",
+    "nameicon": "UI_EquipIcon_Pole_Halberd",
+    "namegacha": "UI_Gacha_EquipIcon_Pole_Halberd",
+    "nameawakenicon": "UI_EquipIcon_Pole_Halberd_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Halberd"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 39.875099182128906,
+      "specialized": 0.05106699839234352
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 52.8345083177137,
+      "specialized": 0.059339849112423515
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 69.14342068886435,
+      "specialized": 0.06960432061071176
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 85.53208698510934,
+      "specialized": 0.0799198554060947
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 101.96062549041926,
+      "specialized": 0.09023538411381704
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 121.46062549041926,
+      "specialized": 0.09023538411381704
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 137.88917350269367,
+      "specialized": 0.10055091890919998
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 154.3575842170685,
+      "specialized": 0.11086645370458292
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 170.78612272237842,
+      "specialized": 0.12118198241230527
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 187.21466122768834,
+      "specialized": 0.1314975232953488
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 206.61466275356725,
+      "specialized": 0.1314975232953488
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 223.04321076584165,
+      "specialized": 0.14181305200307115
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 239.47175877811605,
+      "specialized": 0.1521285928861147
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 258.97175877811605,
+      "specialized": 0.1521285928861147
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 275.36041556739656,
+      "specialized": 0.16244412159383703
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 291.74909137060604,
+      "specialized": 0.17275965030155938
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 311.14909289648494,
+      "specialized": 0.17275965030155938
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 327.4978774767005,
+      "specialized": 0.18307519118460291
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 343.886534265981,
+      "specialized": 0.19333965659523056
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 363.386534265981,
+      "specialized": 0.19333965659523056
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 379.7353378601256,
+      "specialized": 0.2036551853029529
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 396.08412244034116,
+      "specialized": 0.21397072618599644
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 415.48411633682554,
+      "specialized": 0.21397072618599644
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 431.87277312610604,
+      "specialized": 0.22428626706903998
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 448.2215767202506,
+      "specialized": 0.23460178360144113
+    }
+  },
+  "version": "1.0"
+}

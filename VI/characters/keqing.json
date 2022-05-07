@@ -1,0 +1,874 @@
+{
+  "name": "Keqing",
+  "fullname": "Keqing",
+  "title": "Sấm Chớp Trước Cơn Mưa",
+  "description": "Ngọc Hành Tinh là một trong Thất Tinh Liyue, đối với việc \"Liyue hoàn toàn được quyết định bởi Đế Quân\" có chút không hài lòng... nhưng trên thực tế, Thần cũng rất coi trọng những người như cô.",
+  "rarity": "5",
+  "element": "Lôi",
+  "weapontype": "Kiếm Đơn",
+  "substat": "ST Bạo Kích",
+  "gender": "nữ",
+  "body": "GIRL",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Thất Tinh Liyue",
+  "birthdaymmdd": "11/20",
+  "birthday": "20 tháng 11",
+  "constellation": "Kim Tử Định Thùy",
+  "cv": {
+    "english": "Kayli Mills",
+    "chinese": "谢莹",
+    "japanese": "喜多村英梨",
+    "korean": "Lee Bo-hee"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vụn Tử Tinh Thắng Lợi",
+        "count": 1
+      },
+      {
+        "name": "Thạch Phách",
+        "count": 3
+      },
+      {
+        "name": "Mật Hoa Lừa Dối",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Tử Tinh Thắng Lợi",
+        "count": 3
+      },
+      {
+        "name": "Lăng Kính Sấm Sét",
+        "count": 2
+      },
+      {
+        "name": "Thạch Phách",
+        "count": 10
+      },
+      {
+        "name": "Mật Hoa Lừa Dối",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Tử Tinh Thắng Lợi",
+        "count": 6
+      },
+      {
+        "name": "Lăng Kính Sấm Sét",
+        "count": 4
+      },
+      {
+        "name": "Thạch Phách",
+        "count": 20
+      },
+      {
+        "name": "Mật Hoa Lấp Lánh",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Tử Tinh Thắng Lợi",
+        "count": 3
+      },
+      {
+        "name": "Lăng Kính Sấm Sét",
+        "count": 8
+      },
+      {
+        "name": "Thạch Phách",
+        "count": 30
+      },
+      {
+        "name": "Mật Hoa Lấp Lánh",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Tử Tinh Thắng Lợi",
+        "count": 6
+      },
+      {
+        "name": "Lăng Kính Sấm Sét",
+        "count": 12
+      },
+      {
+        "name": "Thạch Phách",
+        "count": 45
+      },
+      {
+        "name": "Mật Hoa Nguyên Tố",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Tử Tinh Thắng Lợi",
+        "count": 6
+      },
+      {
+        "name": "Lăng Kính Sấm Sét",
+        "count": 20
+      },
+      {
+        "name": "Thạch Phách",
+        "count": 60
+      },
+      {
+        "name": "Mật Hoa Nguyên Tố",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Character_Keqing_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Character_Keqing_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Keqing.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Keqing.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817192486254.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817205925817.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/40d97fbb1ae120a4d97573aef702d0a3.png",
+    "nameicon": "UI_AvatarIcon_Keqing",
+    "nameiconcard": "UI_AvatarIcon_Keqing_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Keqing",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Keqing",
+    "namesideicon": "UI_AvatarIcon_Side_Keqing"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Keqing"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1020.0524291992188,
+      "attack": 25.136999130249023,
+      "defense": 62.223201751708984,
+      "specialized": 0.5
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2646.0161044593406,
+      "attack": 65.20537828495208,
+      "defense": 161.40699163404406,
+      "specialized": 0.5
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3520.6188266273093,
+      "attack": 86.75650857975188,
+      "defense": 214.7589928242296,
+      "specialized": 0.5
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5267.968698159035,
+      "attack": 129.8161895761641,
+      "defense": 321.3473411040286,
+      "specialized": 0.5
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5889.396859780129,
+      "attack": 145.12883262731157,
+      "defense": 359.2553420500735,
+      "specialized": 0.596000000834465
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6775.822377951146,
+      "attack": 166.9728838167075,
+      "defense": 413.3273017613192,
+      "specialized": 0.596000000834465
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7604.393300802709,
+      "attack": 187.38974630450048,
+      "defense": 463.8713004795809,
+      "specialized": 0.69200000166893
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8499.999111841724,
+      "attack": 209.46002607512673,
+      "defense": 518.5032580879088,
+      "specialized": 0.69200000166893
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9121.427334497974,
+      "attack": 224.77266721892556,
+      "defense": 556.411262848651,
+      "specialized": 0.69200000166893
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 10025.193946307321,
+      "attack": 247.0440523798179,
+      "defense": 611.5410293325349,
+      "specialized": 0.69200000166893
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10646.622413104196,
+      "attack": 262.356697338314,
+      "defense": 649.449018834488,
+      "specialized": 0.7879999876022339
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11560.589296278107,
+      "attack": 284.8794462576561,
+      "defense": 705.201001907315,
+      "specialized": 0.7879999876022339
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12182.017518934357,
+      "attack": 300.1920912161522,
+      "defense": 743.1090066680572,
+      "specialized": 0.8840000033378601
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 13103.125224382035,
+      "attack": 322.890810348541,
+      "defense": 799.2965799245794,
+      "specialized": 0.8840000033378601
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Sấm Sét Trừng Phạt",
+      "effect": "Ở thời gian Đá Lôi tồn tại, khi thi triển **Tinh Đẩu Quy Vị** lần nữa, ở nơi Keqing biến mất và xuất hiện gây ra sát thương phạm vi Nguyên Tố Lôi bằng 50% tấn công"
+    },
+    "c2": {
+      "name": "Nghiêm Nghị Hà Khắc",
+      "effect": "Khi Keqing tấn công thường và trọng kích trúng kẻ địch bị ảnh hưởng bởi Nguyên Tố Lôi, có tỷ lệ 50% tạo 1 Nguyên Tố Hạt Nhân.\nMỗi 5s mới có hiệu quả một lần."
+    },
+    "c3": {
+      "name": "Trèo Tháp",
+      "effect": "Cấp kỹ năng **Tuần Du Thiên Nhai** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "Điều Luật",
+      "effect": "Trong vòng 10s sau khi Keqing kích hoạt phản ứng Nguyên Tố Lôi, lực tấn công tăng 25%."
+    },
+    "c5": {
+      "name": "Đèn Di Chuyển",
+      "effect": "Cấp kỹ năng **Tinh Đẩu Quy Vị** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Sao Liêm Trinh",
+      "effect": "Khi tấn công thường, trọng kích, thi triển kỹ năng nguyên tố hoặc kỹ năng nộ, Keqing sẽ nhận 6% buff sát thương Nguyên Tố Lôi, kéo dài 8s.\nHiệu quả xuất phát từ tấn công thường, trọng kích, kỹ năng nguyên tố hoặc kỹ năng nộ tồn tại độc lập với nhau."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Keqing_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Keqing_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Keqing_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Keqing_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Keqing_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Keqing_04.png",
+      "constellation": "Eff_UI_Talent_Keqing"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Keqing",
+    "combat1": {
+      "name": "Tấn Công Thường - Vân Lai Kiếm Pháp",
+      "info": "**Tấn Công Thường**\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\n\n**Trọng Kích**\nTiêu hao thể lực nhất định, đánh ra hai kiếm về phía trước trong chớp mắt.\n\n**Tấn Công Khi Đáp**\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "41.02%",
+            "44.36%",
+            "47.70%",
+            "52.47%",
+            "55.81%",
+            "59.62%",
+            "64.87%",
+            "70.12%",
+            "75.37%",
+            "81.09%",
+            "86.81%",
+            "92.54%",
+            "98.26%",
+            "103.99%",
+            "109.71%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "41.02%",
+            "44.36%",
+            "47.70%",
+            "52.47%",
+            "55.81%",
+            "59.62%",
+            "64.87%",
+            "70.12%",
+            "75.37%",
+            "81.09%",
+            "86.81%",
+            "92.54%",
+            "98.26%",
+            "103.99%",
+            "109.71%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "54.44%",
+            "58.87%",
+            "63.30%",
+            "69.63%",
+            "74.06%",
+            "79.12%",
+            "86.09%",
+            "93.05%",
+            "100.01%",
+            "107.61%",
+            "115.21%",
+            "122.80%",
+            "130.40%",
+            "137.99%",
+            "145.59%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "31.48%+34.40%",
+            "34.04%+37.20%",
+            "36.60%+40.00%",
+            "40.26%+44.00%",
+            "42.82%+46.80%",
+            "45.75%+50.00%",
+            "49.78%+54.40%",
+            "53.80%+58.80%",
+            "57.83%+63.20%",
+            "62.22%+68.00%",
+            "66.61%+72.80%",
+            "71.00%+77.60%",
+            "75.40%+82.40%",
+            "79.79%+87.20%",
+            "84.18%+92.00%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 5",
+          "parameters": [
+            "66.99%",
+            "72.45%",
+            "77.90%",
+            "85.69%",
+            "91.14%",
+            "97.37%",
+            "105.94%",
+            "114.51%",
+            "123.08%",
+            "132.43%",
+            "141.78%",
+            "151.13%",
+            "160.47%",
+            "169.82%",
+            "179.17%"
+          ]
+        },
+        {
+          "name": "Sát Thương Trọng Kích",
+          "parameters": [
+            "76.80%+86.00%",
+            "83.05%+93.00%",
+            "89.30%+100.00%",
+            "98.23%+110.00%",
+            "104.48%+117.00%",
+            "111.63%+125.00%",
+            "121.45%+136.00%",
+            "131.27%+147.00%",
+            "141.09%+158.00%",
+            "151.81%+170.00%",
+            "162.53%+182.00%",
+            "173.24%+194.00%",
+            "183.96%+206.00%",
+            "194.67%+218.00%",
+            "205.39%+230.00%"
+          ]
+        },
+        {
+          "name": "Trọng Kích tiêu hao thể lực",
+          "parameters": [
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Tinh Đẩu Quy Vị",
+      "info": "Giáng Đá Lôi nhanh như chớp, tiêu diệt kẻ địch.\nKhi Đá Lôi đánh trúng sẽ gây sát thương nguyên tố lôi cho địch trong phạm vi nhỏ và để lại dấu ấn Đá Lôi ở nơi đó.\n\n**Nhấn giữ**\nNhấn giữ để điều chỉnh hướng giáng Đá Lôi.\nĐá Lôi được giáng xuống bằng cách nhấn giữ có thể lơ lửng trên không và khiến Keqing thi triển Tinh Đẩu Quy Vị lần nữa, vượt qua địa hình.\n\n**Đá Lôi**\nTrong thời gian Đá Lôi, Keqing thi triển Tinh Đẩu Quy Vị lần nữa hoặc trọng kích, sẽ xóa dấu ấn Đá Lôi và tạo ra hiệu quả khác nhau:\n·Khi thi triển Tinh Đẩu Quy Vị lần nữa, di chuyển đến nơi có dấu ấn thực hiện trảm kích 1 lần, gây sát thương phạm vi nguyên tố lôi. Khi đến nơi nhấn giữ giáng Đá Lôi, có thể vượt qua chướng ngại của địa hình.\n·Khi thi triển trọng kích, ở nơi có dấu ấn sẽ giáng sét liên tục, gây sát thương phạm vi nguyên tố lôi nhiều lần.",
+      "description": "\"Chân dung là bướm đêm, cứ nhảy bổ vào ánh lửa gọi là thần tiên. Nhưng ánh sáng này của tôi là tự tôi thắp sáng\"",
+      "attributes": [
+        {
+          "name": "Sát Thương Đá Lôi",
+          "parameters": [
+            "50.40%",
+            "54.18%",
+            "57.96%",
+            "63.00%",
+            "66.78%",
+            "70.56%",
+            "75.60%",
+            "80.64%",
+            "85.68%",
+            "90.72%",
+            "95.76%",
+            "100.80%",
+            "107.10%",
+            "113.40%",
+            "119.70%"
+          ]
+        },
+        {
+          "name": "Sát Thương Chém",
+          "parameters": [
+            "168.00%",
+            "180.60%",
+            "193.20%",
+            "210.00%",
+            "222.60%",
+            "235.20%",
+            "252.00%",
+            "268.80%",
+            "285.60%",
+            "302.40%",
+            "319.20%",
+            "336.00%",
+            "357.00%",
+            "378.00%",
+            "399.00%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lôi Bạo Chém Liên Tiếp",
+          "parameters": [
+            "84.00%*2",
+            "90.30%*2",
+            "96.60%*2",
+            "105.00%*2",
+            "111.30%*2",
+            "117.60%*2",
+            "126.00%*2",
+            "134.40%*2",
+            "142.80%*2",
+            "151.20%*2",
+            "159.60%*2",
+            "168.00%*2",
+            "178.50%*2",
+            "189.00%*2",
+            "199.50%*2"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "7.5s",
+            "7.5s",
+            "7.5s",
+            "7.5s",
+            "7.5s",
+            "7.5s",
+            "7.5s",
+            "7.5s",
+            "7.5s",
+            "7.5s",
+            "7.5s",
+            "7.5s",
+            "7.5s",
+            "7.5s",
+            "7.5s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Tuần Du Thiên Nhai",
+      "info": "Dẫn nổ sức mạnh lôi điện, gây sát thương nguyên tố lôi trong phạm vi.\nSau đó ẩn vào kiếm ảnh, gây liên trảm nhanh như sấm chớp cho kẻ địch xung quanh, gây nhiều lần sát thương nguyên tố lôi và ở đòn cuối cùng, gây thêm sát thương phạm vi nguyên tố lôi.",
+      "description": "Chiêu nhanh nhất trong kiếm thuật có thể chém rơi tất cả ngôi sao trên trời.",
+      "attributes": [
+        {
+          "name": "Sát Thương Kỹ Năng",
+          "parameters": [
+            "88.00%",
+            "94.60%",
+            "101.20%",
+            "110.00%",
+            "116.60%",
+            "123.20%",
+            "132.00%",
+            "140.80%",
+            "149.60%",
+            "158.40%",
+            "167.20%",
+            "176.00%",
+            "187.00%",
+            "198.00%",
+            "209.00%"
+          ]
+        },
+        {
+          "name": "Sát Thương Chém Liên Tiếp",
+          "parameters": [
+            "24.00%*8",
+            "25.80%*8",
+            "27.60%*8",
+            "30.00%*8",
+            "31.80%*8",
+            "33.60%*8",
+            "36.00%*8",
+            "38.40%*8",
+            "40.80%*8",
+            "43.20%*8",
+            "45.60%*8",
+            "48.00%*8",
+            "51.00%*8",
+            "54.00%*8",
+            "57.00%*8"
+          ]
+        },
+        {
+          "name": "Sát Thương Kích Cuối Cùng",
+          "parameters": [
+            "188.80%",
+            "202.96%",
+            "217.12%",
+            "236.00%",
+            "250.16%",
+            "264.32%",
+            "283.20%",
+            "302.08%",
+            "320.96%",
+            "339.84%",
+            "358.72%",
+            "377.60%",
+            "401.20%",
+            "424.80%",
+            "448.40%"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Sự Trừng Phạt Sấm Sét",
+      "info": "Ở thời gian Đá Lôi tồn tại, trong vòng 5s sau khi thi triển **Tinh Đẩu Quy Vị**, Keqing nhận Nguyên Tố Lôi đính kèm."
+    },
+    "passive2": {
+      "name": "Ngọc Hành Cao Quý",
+      "info": "Khi thi triển **Tuần Du Thiên Nhai**, tỷ lệ bạo kích của Keqing tăng 15%, hiệu quả nạp nguyên tố tăng 15%, duy trì 8s."
+    },
+    "passive3": {
+      "name": "Thổ Địa Tổng Vụ",
+      "info": "Khi làm nhiệm vụ Phái Đi thám Hiểm ở Liyue, thời gian tiêu hao rút ngắn 25%."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Phồn Vinh\"",
+          "count": 3
+        },
+        {
+          "name": "Mật Hoa Lừa Dối",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Phồn Vinh\"",
+          "count": 2
+        },
+        {
+          "name": "Mật Hoa Lấp Lánh",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Phồn Vinh\"",
+          "count": 4
+        },
+        {
+          "name": "Mật Hoa Lấp Lánh",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Phồn Vinh\"",
+          "count": 6
+        },
+        {
+          "name": "Mật Hoa Lấp Lánh",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Phồn Vinh\"",
+          "count": 9
+        },
+        {
+          "name": "Mật Hoa Lấp Lánh",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Phồn Vinh\"",
+          "count": 4
+        },
+        {
+          "name": "Mật Hoa Nguyên Tố",
+          "count": 4
+        },
+        {
+          "name": "Móng Vuốt Bắc Phong",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Phồn Vinh\"",
+          "count": 6
+        },
+        {
+          "name": "Mật Hoa Nguyên Tố",
+          "count": 6
+        },
+        {
+          "name": "Móng Vuốt Bắc Phong",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Phồn Vinh\"",
+          "count": 12
+        },
+        {
+          "name": "Mật Hoa Nguyên Tố",
+          "count": 9
+        },
+        {
+          "name": "Móng Vuốt Bắc Phong",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Phồn Vinh\"",
+          "count": 16
+        },
+        {
+          "name": "Mật Hoa Nguyên Tố",
+          "count": 12
+        },
+        {
+          "name": "Móng Vuốt Bắc Phong",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_01",
+      "combat2": "Skill_S_Keqing_01",
+      "combat3": "Skill_E_Keqing_01_HD",
+      "passive1": "UI_Talent_S_Keqing_05",
+      "passive2": "UI_Talent_S_Keqing_06",
+      "passive3": "UI_Talent_Expedition_Liyue"
+    },
+    "version": "1.0"
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "name": "Trượng Hộ Ma",
+  "description": "\"Trượng Lửa\" màu đỏ sử dụng trong nghi lễ cổ xưa, đã thất truyền từ lâu.",
+  "weapontype": "Vũ Khí Cán Dài",
+  "rarity": "5",
+  "baseatk": 46,
+  "substat": "ST Bạo Kích",
+  "subvalue": "14.4",
+  "effectname": "Bướm Đỏ Tự Do",
+  "effect": [
+    "HP tăng [20%]. Ngoài ra, nhận được buff tấn công bằng [0.8%] giới hạn HP của nhân vật trang bị vũ khí này. Khi HP của nhân vật trang bị vũ khí này dưới 50%, sẽ nhận thêm buff tấn công bằng [1%] giới hạn HP.",
+    "HP tăng [25%]. Ngoài ra, nhận được buff tấn công bằng [1%] giới hạn HP của nhân vật trang bị vũ khí này. Khi HP của nhân vật trang bị vũ khí này dưới 50%, sẽ nhận thêm buff tấn công bằng [1.2%] giới hạn HP.",
+    "HP tăng [30%]. Ngoài ra, nhận được buff tấn công bằng [1.2%] giới hạn HP của nhân vật trang bị vũ khí này. Khi HP của nhân vật trang bị vũ khí này dưới 50%, sẽ nhận thêm buff tấn công bằng [1.4%] giới hạn HP.",
+    "HP tăng [35%]. Ngoài ra, nhận được buff tấn công bằng [1.4%] giới hạn HP của nhân vật trang bị vũ khí này. Khi HP của nhân vật trang bị vũ khí này dưới 50%, sẽ nhận thêm buff tấn công bằng [1.6%] giới hạn HP.",
+    "HP tăng [40%]. Ngoài ra, nhận được buff tấn công bằng [1.6%] giới hạn HP của nhân vật trang bị vũ khí này. Khi HP của nhân vật trang bị vũ khí này dưới 50%, sẽ nhận thêm buff tấn công bằng [1.8%] giới hạn HP."
+  ],
+  "r1": [
+    "20%",
+    "0.8%",
+    "1%"
+  ],
+  "r2": [
+    "25%",
+    "1%",
+    "1.2%"
+  ],
+  "r3": [
+    "30%",
+    "1.2%",
+    "1.4%"
+  ],
+  "r4": [
+    "35%",
+    "1.4%",
+    "1.6%"
+  ],
+  "r5": [
+    "40%",
+    "1.6%",
+    "1.8%"
+  ],
+  "weaponmaterialtype": "Aerosiderite",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 10000
+      },
+      {
+        "name": "Hạt Thiên Thạch Đen",
+        "count": 5
+      },
+      {
+        "name": "Cành Cây Địa Mạch",
+        "count": 5
+      },
+      {
+        "name": "Dịch Slime",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Mảnh Thiên Thạch Đen",
+        "count": 5
+      },
+      {
+        "name": "Cành Cây Địa Mạch",
+        "count": 18
+      },
+      {
+        "name": "Dịch Slime",
+        "count": 12
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Mảnh Thiên Thạch Đen",
+        "count": 9
+      },
+      {
+        "name": "Lá Khô Địa Mạch",
+        "count": 9
+      },
+      {
+        "name": "Tinh Slime",
+        "count": 9
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Một Góc Thiên Thạch Đen",
+        "count": 5
+      },
+      {
+        "name": "Lá Khô Địa Mạch",
+        "count": 18
+      },
+      {
+        "name": "Tinh Slime",
+        "count": 14
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 55000
+      },
+      {
+        "name": "Một Góc Thiên Thạch Đen",
+        "count": 9
+      },
+      {
+        "name": "Chồi Non Địa Mạch",
+        "count": 14
+      },
+      {
+        "name": "Bột Slime",
+        "count": 9
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 65000
+      },
+      {
+        "name": "Miếng Thiên Thạch Đen",
+        "count": 6
+      },
+      {
+        "name": "Chồi Non Địa Mạch",
+        "count": 27
+      },
+      {
+        "name": "Bột Slime",
+        "count": 18
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Weapon_Staff_of_Homa.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Homa.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Homa_Awaken.png",
+    "nameicon": "UI_EquipIcon_Pole_Homa",
+    "namegacha": "UI_Gacha_EquipIcon_Pole_Homa",
+    "nameawakenicon": "UI_EquipIcon_Pole_Homa_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Staff_of_Homa"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 45.9364013671875,
+      "specialized": 0.14399999380111694
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 61.692589533209684,
+      "specialized": 0.16732798428249396
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 81.53711133154866,
+      "specialized": 0.19627199663209893
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 101.56538184575038,
+      "specialized": 0.22535999853849376
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 121.73146800388349,
+      "specialized": 0.2544479832787516
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 152.83146838535322,
+      "specialized": 0.2544479832787516
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 173.18128683121176,
+      "specialized": 0.28353598518514644
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 193.66892639704747,
+      "specialized": 0.31262398709154127
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 214.34030920270015,
+      "specialized": 0.34171197183179913
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 235.19542429607827,
+      "specialized": 0.3707999909043309
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 266.295424677548,
+      "specialized": 0.3707999909043309
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 287.2883718429948,
+      "specialized": 0.3998879756445888
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 308.4191182242357,
+      "specialized": 0.42897599471712056
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 339.61911898717517,
+      "specialized": 0.42897599471712056
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 360.97953072807286,
+      "specialized": 0.4580639794573784
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 382.43183051701635,
+      "specialized": 0.4871519641976363
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 413.53182899113744,
+      "specialized": 0.4871519641976363
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 435.16788297198946,
+      "specialized": 0.5162399832701681
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 456.9876692405669,
+      "specialized": 0.5451839784536361
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 488.0876753440825,
+      "specialized": 0.5451839784536361
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 510.0912158045685,
+      "specialized": 0.574271963193894
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 532.2325773850316,
+      "specialized": 0.6033599822664257
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 563.3325682297582,
+      "specialized": 0.6033599822664257
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 585.6117071218323,
+      "specialized": 0.6324480013389575
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 608.074622109998,
+      "specialized": 0.6615359517469415
+    }
+  },
+  "version": "1.3"
+}

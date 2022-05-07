@@ -1,0 +1,914 @@
+{
+  "name": "Bennett",
+  "fullname": "Bennett",
+  "title": "Thử Thách Của Vận Mệnh",
+  "description": "Nhà mạo hiểm trẻ tuổi của Mondstadt, có vận đen luôn đi cùng sự lương thiện của anh ấy.",
+  "rarity": "4",
+  "element": "Hỏa",
+  "weapontype": "Kiếm Đơn",
+  "substat": "Hiệu Quả Nạp Nguyên Tố",
+  "gender": "nam",
+  "body": "BOY",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Hiệp Hội Nhà Mạo Hiểm",
+  "birthdaymmdd": "2/29",
+  "birthday": "29 tháng 2",
+  "constellation": "Hiểm Lộ",
+  "cv": {
+    "english": "Cristina Vee Valenzuela",
+    "chinese": "穆雪婷",
+    "japanese": "逢坂良太",
+    "korean": "Song Ha-rim"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vụn Mã Não Cháy",
+        "count": 1
+      },
+      {
+        "name": "Cúc Cánh Quạt",
+        "count": 3
+      },
+      {
+        "name": "Ấn Quạ Tầm Bảo",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Mã Não Cháy",
+        "count": 3
+      },
+      {
+        "name": "Ngọn Lửa Vĩnh Hằng",
+        "count": 2
+      },
+      {
+        "name": "Cúc Cánh Quạt",
+        "count": 10
+      },
+      {
+        "name": "Ấn Quạ Tầm Bảo",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Mã Não Cháy",
+        "count": 6
+      },
+      {
+        "name": "Ngọn Lửa Vĩnh Hằng",
+        "count": 4
+      },
+      {
+        "name": "Cúc Cánh Quạt",
+        "count": 20
+      },
+      {
+        "name": "Ấn Quạ Bạc Ẩn",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Mã Não Cháy",
+        "count": 3
+      },
+      {
+        "name": "Ngọn Lửa Vĩnh Hằng",
+        "count": 8
+      },
+      {
+        "name": "Cúc Cánh Quạt",
+        "count": 30
+      },
+      {
+        "name": "Ấn Quạ Bạc Ẩn",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Mã Não Cháy",
+        "count": 6
+      },
+      {
+        "name": "Ngọn Lửa Vĩnh Hằng",
+        "count": 12
+      },
+      {
+        "name": "Cúc Cánh Quạt",
+        "count": 45
+      },
+      {
+        "name": "Ấn Quạ Trộm Vàng",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Mã Não Cháy",
+        "count": 6
+      },
+      {
+        "name": "Ngọn Lửa Vĩnh Hằng",
+        "count": 20
+      },
+      {
+        "name": "Cúc Cánh Quạt",
+        "count": 60
+      },
+      {
+        "name": "Ấn Quạ Trộm Vàng",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Character_Bennett_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Character_Bennett_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Bennett.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200312/2020031220001589124.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200312/2020031220015487912.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/661fca5d5165dee41fd29c142a59c2f9.png",
+    "nameicon": "UI_AvatarIcon_Bennett",
+    "nameiconcard": "UI_AvatarIcon_Bennett_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Bennett",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Bennett",
+    "namesideicon": "UI_AvatarIcon_Side_Bennett"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bennett"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1039.4417724609375,
+      "attack": 16.02720069885254,
+      "defense": 64.66425323486328,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2670.325919399882,
+      "attack": 41.17387868706055,
+      "defense": 166.1224669303756,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3446.842093716288,
+      "attack": 53.14729883018799,
+      "defense": 214.42996586226036,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5162.960236018,
+      "attack": 79.60820372964463,
+      "defense": 321.19063401590756,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5714.695404475031,
+      "attack": 88.11563380624375,
+      "defense": 355.5143835581439,
+      "specialized": 0.06669999659061432
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6573.274530576484,
+      "attack": 101.3541050072754,
+      "defense": 408.92707054391576,
+      "specialized": 0.06669999659061432
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7308.921625303046,
+      "attack": 112.6973438378418,
+      "defense": 454.69207756295873,
+      "specialized": 0.13330000638961792
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8167.500751404499,
+      "attack": 125.93581503887344,
+      "defense": 508.1047645487306,
+      "specialized": 0.13330000638961792
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8719.235858826374,
+      "attack": 134.44324606914688,
+      "defense": 542.4285102762697,
+      "specialized": 0.13330000638961792
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9576.775122848863,
+      "attack": 147.6656835887543,
+      "defense": 595.7765068613044,
+      "specialized": 0.13330000638961792
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10128.510230270738,
+      "attack": 156.17311461902773,
+      "defense": 630.1002525888434,
+      "specialized": 0.20000000298023224
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 10987.08886072773,
+      "attack": 169.41157817769454,
+      "defense": 683.5129087402966,
+      "specialized": 0.20000000298023224
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11538.82421229023,
+      "attack": 177.9190053932707,
+      "defense": 717.8366544678356,
+      "specialized": 0.26669999957084656
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12397.403338391683,
+      "attack": 191.15747659430235,
+      "defense": 771.2493414536075,
+      "specialized": 0.26669999957084656
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Tầm Nhìn Phiêu Lưu",
+      "effect": "Buff hiệu quả tấn công của **Hành Trình Kỳ Diệu** sẽ không bị giới hạn bởi HP, tăng thêm 20% tấn công cơ bản của Bennett vào chỉ số."
+    },
+    "c2": {
+      "name": "Vượt Qua Nghịch Cảnh",
+      "effect": "Khi HP của Bennett dưới 70%, tăng 30% hiệu quả nạp Nguyên Tố."
+    },
+    "c3": {
+      "name": "Đam Mê Rực Cháy",
+      "effect": "Cấp kỹ năng **Nhiệt Tình Quá Độ** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "Nhiệt Huyết Bất Diệt",
+      "effect": "Khi thi triển **Nhiệt Tình Quá Độ** tụ lực lần 1, sẽ tấn công thường trong lúc tấn công kỹ năng lần 2, kèm theo truy kích.\nSát thương truy kích bằng 135% của tấn công lần 2."
+    },
+    "c5": {
+      "name": "Mở Rộng Tâm Hồn",
+      "effect": "Cấp kỹ năng **Hành Trình Kỳ Diệu** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Lửa Và Can Đảm",
+      "effect": "Nhân vật sử dụng kiếm đơn, trọng kiếm, vũ khí cán dài trong đội hiện đang trong trận ở khu vực **Hành Trình Kỳ Diệu** được nhận 15% tăng sát thương Nguyên Tố Hỏa và nhận Nguyên Tố Hỏa đính kèm."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Bennett_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Bennett_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Bennett_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Bennett_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Bennett_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Bennett_04.png",
+      "constellation": "Eff_UI_Talent_Bennett"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Bennett",
+    "combat1": {
+      "name": "Tấn Công Thường: Kiếm May Mắn",
+      "info": "**Tấn Công Thường**\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\n\n**Trọng Kích**\nTiêu hao thể lực nhất định, đánh ra hai kiếm về phía trước trong chớp mắt.\n\n**Tấn Công Khi Đáp**\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "44.55%",
+            "48.17%",
+            "51.80%",
+            "56.98%",
+            "60.61%",
+            "64.75%",
+            "70.45%",
+            "76.15%",
+            "81.84%",
+            "88.06%",
+            "94.28%",
+            "100.49%",
+            "106.71%",
+            "112.92%",
+            "119.14%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "42.74%",
+            "46.22%",
+            "49.70%",
+            "54.67%",
+            "58.15%",
+            "62.12%",
+            "67.59%",
+            "73.06%",
+            "78.53%",
+            "84.49%",
+            "90.45%",
+            "96.42%",
+            "102.38%",
+            "108.35%",
+            "114.31%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "54.61%",
+            "59.06%",
+            "63.50%",
+            "69.85%",
+            "74.30%",
+            "79.37%",
+            "86.36%",
+            "93.34%",
+            "100.33%",
+            "107.95%",
+            "115.57%",
+            "123.19%",
+            "130.81%",
+            "138.43%",
+            "146.05%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "59.68%",
+            "64.54%",
+            "69.40%",
+            "76.34%",
+            "81.20%",
+            "86.75%",
+            "94.38%",
+            "102.02%",
+            "109.65%",
+            "117.98%",
+            "126.31%",
+            "134.64%",
+            "142.96%",
+            "151.29%",
+            "159.62%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 5",
+          "parameters": [
+            "71.90%",
+            "77.75%",
+            "83.60%",
+            "91.96%",
+            "97.81%",
+            "104.50%",
+            "113.70%",
+            "122.89%",
+            "132.09%",
+            "142.12%",
+            "152.15%",
+            "162.18%",
+            "172.22%",
+            "182.25%",
+            "192.28%"
+          ]
+        },
+        {
+          "name": "Sát Thương Trọng Kích",
+          "parameters": [
+            "55.90%+60.72%",
+            "60.45%+65.66%",
+            "65.00%+70.60%",
+            "71.50%+77.66%",
+            "76.05%+82.60%",
+            "81.25%+88.25%",
+            "88.40%+96.02%",
+            "95.55%+103.78%",
+            "102.70%+111.55%",
+            "110.50%+120.02%",
+            "118.30%+128.49%",
+            "126.10%+136.96%",
+            "133.90%+145.44%",
+            "141.70%+153.91%",
+            "149.50%+162.38%"
+          ]
+        },
+        {
+          "name": "Thể lực Trọng Kích tiêu hao",
+          "parameters": [
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Đáp",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "ST Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Nhiệt Tình Quá Độ",
+      "info": "Bennett ngưng tụ Nguyên Tố Hỏa và nhiệt huyết mạo hiểm trên kiếm. Dựa vào mức độ nhiệt tình ngưng tụ, sẽ gây ra hiệu quả khác nhau...\n\n**Nhấn**\nNhanh chóng vung ra đòn đánh rực lửa về phía trước, gây Sát Thương Nguyên Tố Hỏa.\n\n**Nhấn giữ**\nNhấn giữ để thực hiện tụ lực, khi thi triển sẽ gây ra hiệu quả khác nhau tùy theo số lần tụ lực.\n·Tụ lực lần 1: Tấn công 2 lần, gây Sát Thương Nguyên Tố Hỏa và đánh bay địch;\n·Tụ lực lần 2: Tấn công liên tiếp 3 lần, gây Sát Thương Nguyên Tố Hỏa. Chiêu cuối sẽ gây nổ, đánh bay Bennett và kẻ địch. Khi bị đánh bay, Bennett sẽ không chịu sát thương.",
+      "description": "Tụ hợp nhiệt huyết và đam mê vào đòn đánh Nguyên Tố Hỏa. Thế nhưng có lúc nhiệt huyết quá mức, Nguyên Tố Hỏa sẽ bùng nổ.",
+      "attributes": [
+        {
+          "name": "Sát Thương Nhấn",
+          "parameters": [
+            "137.60%",
+            "147.92%",
+            "158.24%",
+            "172.00%",
+            "182.32%",
+            "192.64%",
+            "206.40%",
+            "220.16%",
+            "233.92%",
+            "247.68%",
+            "261.44%",
+            "275.20%",
+            "292.40%",
+            "309.60%",
+            "326.80%"
+          ]
+        },
+        {
+          "name": "Sát Thương Tụ Lực Lần 1",
+          "parameters": [
+            "84.00%+92.00%",
+            "90.30%+98.90%",
+            "96.60%+105.80%",
+            "105.00%+115.00%",
+            "111.30%+121.90%",
+            "117.60%+128.80%",
+            "126.00%+138.00%",
+            "134.40%+147.20%",
+            "142.80%+156.40%",
+            "151.20%+165.60%",
+            "159.60%+174.80%",
+            "168.00%+184.00%",
+            "178.50%+195.50%",
+            "189.00%+207.00%",
+            "199.50%+218.50%"
+          ]
+        },
+        {
+          "name": "Sát Thương Tụ Lực Lần 2",
+          "parameters": [
+            "88.00%+96.00%",
+            "94.60%+103.20%",
+            "101.20%+110.40%",
+            "110.00%+120.00%",
+            "116.60%+127.20%",
+            "123.20%+134.40%",
+            "132.00%+144.00%",
+            "140.80%+153.60%",
+            "149.60%+163.20%",
+            "158.40%+172.80%",
+            "167.20%+182.40%",
+            "176.00%+192.00%",
+            "187.00%+204.00%",
+            "198.00%+216.00%",
+            "209.00%+228.00%"
+          ]
+        },
+        {
+          "name": "Sát Thương Nổ",
+          "parameters": [
+            "132.00%",
+            "141.90%",
+            "151.80%",
+            "165.00%",
+            "174.90%",
+            "184.80%",
+            "198.00%",
+            "211.20%",
+            "224.40%",
+            "237.60%",
+            "250.80%",
+            "264.00%",
+            "280.50%",
+            "297.00%",
+            "313.50%"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "5/7.5/10s",
+            "5/7.5/10s",
+            "5/7.5/10s",
+            "5/7.5/10s",
+            "5/7.5/10s",
+            "5/7.5/10s",
+            "5/7.5/10s",
+            "5/7.5/10s",
+            "5/7.5/10s",
+            "5/7.5/10s",
+            "5/7.5/10s",
+            "5/7.5/10s",
+            "5/7.5/10s",
+            "5/7.5/10s",
+            "5/7.5/10s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Hành Trình Kỳ Diệu",
+      "info": "Bennett lao nhanh nã đạn, gây sát thương nguyên tố hỏa và tạo thành vùng đất cổ vũ.\n\n**Vùng Đất Cổ Vũ**\n·Nhân vật đứng trong vùng đất này, nếu HP dưới hoặc bằng 70%, HP tối đa sẽ liên tục được hồi, lượng hồi phụ thuộc vào giới hạn HP của Bennett.\n·Nếu nhân vật trong vùng đất có HP cao hơn 70% HP tối đa, nhân vật ở trong đó sẽ nhận buff tấn công, giá trị bằng với tấn công cơ bản của Bennett, tăng tấn công với tỷ lệ nhất định.\n·Thêm nguyên tố hỏa kèm theo cho nhân vật trong đó.",
+      "description": "Đoàn mạo hiểm Benny mỗi lần bắt đầu hành trình mạo hiểm đều đầy sự rủi ro. Chỉ duy nhất Bennett lại cho rằng đây là \"hành trình tuyệt vời, kịch tính và kì diệu\".",
+      "attributes": [
+        {
+          "name": "Sát Thương Kỹ Năng",
+          "parameters": [
+            "232.80%",
+            "250.26%",
+            "267.72%",
+            "291.00%",
+            "308.46%",
+            "325.92%",
+            "349.20%",
+            "372.48%",
+            "395.76%",
+            "419.04%",
+            "442.32%",
+            "465.60%",
+            "494.70%",
+            "523.80%",
+            "552.90%"
+          ]
+        },
+        {
+          "name": "Trị liệu kéo dài",
+          "parameters": [
+            "Mỗi giây 6.00% giới hạn HP +577",
+            "Mỗi giây 6.45% giới hạn HP +635",
+            "Mỗi giây 6.90% giới hạn HP +698",
+            "Mỗi giây 7.50% giới hạn HP +765",
+            "Mỗi giây 7.95% giới hạn HP +837",
+            "Mỗi giây 8.40% giới hạn HP +914",
+            "Mỗi giây 9.00% giới hạn HP +996",
+            "Mỗi giây 9.60% giới hạn HP +1083",
+            "Mỗi giây 10.20% giới hạn HP +1174",
+            "Mỗi giây 10.80% giới hạn HP +1270",
+            "Mỗi giây 11.40% giới hạn HP +1371",
+            "Mỗi giây 12.00% giới hạn HP +1477",
+            "Mỗi giây 12.75% giới hạn HP +1588",
+            "Mỗi giây 13.50% giới hạn HP +1703",
+            "Mỗi giây 14.25% giới hạn HP +1824"
+          ]
+        },
+        {
+          "name": "Tỷ Lệ Tăng Tấn Công",
+          "parameters": [
+            "56.00%",
+            "60.20%",
+            "64.40%",
+            "70.00%",
+            "74.20%",
+            "78.40%",
+            "84.00%",
+            "89.60%",
+            "95.20%",
+            "100.80%",
+            "106.40%",
+            "112.00%",
+            "119.00%",
+            "126.00%",
+            "133.00%"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "parameters": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Nhiệt Tình Rực Lửa",
+      "info": "Giảm CD **Nhiệt Tình Quá Độ** 20%"
+    },
+    "passive2": {
+      "name": "Nhiệt Huyết Can Đảm",
+      "info": "Ở trong khu vực **Hành Trình Kỳ Diệu**, **Nhiệt Tình Quá Độ** có hiệu quả như sau:\n·CD giảm 50%;\n·Tụ lực lần 2 sẽ không tự đánh bay Bennett."
+    },
+    "passive3": {
+      "name": "Có Thể An Toàn",
+      "info": "Khi làm nhiệm vụ Phái Đi thám Hiểm ở Mondstadt, thời gian tiêu hao rút ngắn 25%."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Kháng Chiến\"",
+          "count": 3
+        },
+        {
+          "name": "Ấn Quạ Tầm Bảo",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+          "count": 2
+        },
+        {
+          "name": "Ấn Quạ Bạc Ẩn",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+          "count": 4
+        },
+        {
+          "name": "Ấn Quạ Bạc Ẩn",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+          "count": 6
+        },
+        {
+          "name": "Ấn Quạ Bạc Ẩn",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+          "count": 9
+        },
+        {
+          "name": "Ấn Quạ Bạc Ẩn",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Kháng Chiến\"",
+          "count": 4
+        },
+        {
+          "name": "Ấn Quạ Trộm Vàng",
+          "count": 4
+        },
+        {
+          "name": "Lông Vũ Đông Phong",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Kháng Chiến\"",
+          "count": 6
+        },
+        {
+          "name": "Ấn Quạ Trộm Vàng",
+          "count": 6
+        },
+        {
+          "name": "Lông Vũ Đông Phong",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Kháng Chiến\"",
+          "count": 12
+        },
+        {
+          "name": "Ấn Quạ Trộm Vàng",
+          "count": 9
+        },
+        {
+          "name": "Lông Vũ Đông Phong",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Kháng Chiến\"",
+          "count": 16
+        },
+        {
+          "name": "Ấn Quạ Trộm Vàng",
+          "count": 12
+        },
+        {
+          "name": "Lông Vũ Đông Phong",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_01",
+      "combat2": "Skill_S_Bennett_01",
+      "combat3": "Skill_E_Bennett_01_HD",
+      "passive1": "UI_Talent_S_Bennett_05",
+      "passive2": "UI_Talent_S_Bennett_06",
+      "passive3": "UI_Talent_Expedition_Mengde"
+    },
+    "version": "1.0"
+  }
+}

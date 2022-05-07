@@ -1,0 +1,316 @@
+{
+  "name": "Tiếng Thở Dài Vô Tận",
+  "description": "Cây cung đẹp hoàn mỹ như nhạc cụ của thi nhân, tên bắn ra như tiếng than ai oán xuyên thấu tâm can.",
+  "weapontype": "Cung",
+  "rarity": "5",
+  "baseatk": 46,
+  "substat": "Hiệu Quả Nạp Nguyên Tố",
+  "subvalue": "12",
+  "effectname": "Bài Ca Nỗi Nhớ Ly Biệt",
+  "effect": [
+    "Một phần của \"Ca Khúc Thời Đại Nghìn Năm\" lãng du trong gió. Tinh Thông Nguyên Tố tăng [60] điểm. Khi Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ đánh trúng địch, nhân vật sẽ nhận 1 Lá Bùa Tưởng Nhớ, mỗi 0.2 giây kích hoạt nhiều nhất 1 lần, nhân vật trong đội cũng có thể kích hoạt. Khi có 4 Lá Bùa Tưởng Nhớ sẽ tiêu hao tất cả bùa, khiến tất cả nhân vật trong đội đang ở gần nhận hiệu quả \"Ca Khúc Thời Đại Nghìn Năm - Bài Ca Ly Biệt\": Tinh Thông Nguyên Tố tăng [100] điểm, tấn công tăng [20%] trong 12 giây. Trong vòng 20 giây sau khi kích hoạt sẽ không thể nhận Lá Bùa Tưởng Nhớ nữa. Khi các hiệu quả của \"Ca Khúc Thời Đại Nghìn Năm\" đang kích hoạt, những hiệu quả cùng loại khác sẽ không được cộng dồn.",
+    "Một phần của \"Ca Khúc Thời Đại Nghìn Năm\" lãng du trong gió. Tinh Thông Nguyên Tố tăng [75] điểm. Khi Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ đánh trúng địch, nhân vật sẽ nhận 1 Lá Bùa Tưởng Nhớ, mỗi 0.2 giây kích hoạt nhiều nhất 1 lần, nhân vật trong đội cũng có thể kích hoạt. Khi có 4 Lá Bùa Tưởng Nhớ sẽ tiêu hao tất cả bùa, khiến tất cả nhân vật trong đội đang ở gần nhận hiệu quả \"Ca Khúc Thời Đại Nghìn Năm - Bài Ca Ly Biệt\": Tinh Thông Nguyên Tố tăng [125] điểm, tấn công tăng [25%] trong 12 giây. Trong vòng 20 giây sau khi kích hoạt sẽ không thể nhận Lá Bùa Tưởng Nhớ nữa. Khi các hiệu quả của \"Ca Khúc Thời Đại Nghìn Năm\" đang kích hoạt, những hiệu quả cùng loại khác sẽ không được cộng dồn.",
+    "Một phần của \"Ca Khúc Thời Đại Nghìn Năm\" lãng du trong gió. Tinh Thông Nguyên Tố tăng [90] điểm. Khi Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ đánh trúng địch, nhân vật sẽ nhận 1 Lá Bùa Tưởng Nhớ, mỗi 0.2 giây kích hoạt nhiều nhất 1 lần, nhân vật trong đội cũng có thể kích hoạt. Khi có 4 Lá Bùa Tưởng Nhớ sẽ tiêu hao tất cả bùa, khiến tất cả nhân vật trong đội đang ở gần nhận hiệu quả \"Ca Khúc Thời Đại Nghìn Năm - Bài Ca Ly Biệt\": Tinh Thông Nguyên Tố tăng [150] điểm, tấn công tăng [30%] trong 12 giây. Trong vòng 20 giây sau khi kích hoạt sẽ không thể nhận Lá Bùa Tưởng Nhớ nữa. Khi các hiệu quả của \"Ca Khúc Thời Đại Nghìn Năm\" đang kích hoạt, những hiệu quả cùng loại khác sẽ không được cộng dồn.",
+    "Một phần của \"Ca Khúc Thời Đại Nghìn Năm\" lãng du trong gió. Tinh Thông Nguyên Tố tăng [105] điểm. Khi Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ đánh trúng địch, nhân vật sẽ nhận 1 Lá Bùa Tưởng Nhớ, mỗi 0.2 giây kích hoạt nhiều nhất 1 lần, nhân vật trong đội cũng có thể kích hoạt. Khi có 4 Lá Bùa Tưởng Nhớ sẽ tiêu hao tất cả bùa, khiến tất cả nhân vật trong đội đang ở gần nhận hiệu quả \"Ca Khúc Thời Đại Nghìn Năm - Bài Ca Ly Biệt\": Tinh Thông Nguyên Tố tăng [175] điểm, tấn công tăng [35%] trong 12 giây. Trong vòng 20 giây sau khi kích hoạt sẽ không thể nhận Lá Bùa Tưởng Nhớ nữa. Khi các hiệu quả của \"Ca Khúc Thời Đại Nghìn Năm\" đang kích hoạt, những hiệu quả cùng loại khác sẽ không được cộng dồn.",
+    "Một phần của \"Ca Khúc Thời Đại Nghìn Năm\" lãng du trong gió. Tinh Thông Nguyên Tố tăng [120] điểm. Khi Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ đánh trúng địch, nhân vật sẽ nhận 1 Lá Bùa Tưởng Nhớ, mỗi 0.2 giây kích hoạt nhiều nhất 1 lần, nhân vật trong đội cũng có thể kích hoạt. Khi có 4 Lá Bùa Tưởng Nhớ sẽ tiêu hao tất cả bùa, khiến tất cả nhân vật trong đội đang ở gần nhận hiệu quả \"Ca Khúc Thời Đại Nghìn Năm - Bài Ca Ly Biệt\": Tinh Thông Nguyên Tố tăng [200] điểm, tấn công tăng [40%] trong 12 giây. Trong vòng 20 giây sau khi kích hoạt sẽ không thể nhận Lá Bùa Tưởng Nhớ nữa. Khi các hiệu quả của \"Ca Khúc Thời Đại Nghìn Năm\" đang kích hoạt, những hiệu quả cùng loại khác sẽ không được cộng dồn."
+  ],
+  "r1": [
+    "60",
+    "100",
+    "20%"
+  ],
+  "r2": [
+    "75",
+    "125",
+    "25%"
+  ],
+  "r3": [
+    "90",
+    "150",
+    "30%"
+  ],
+  "r4": [
+    "105",
+    "175",
+    "35%"
+  ],
+  "r5": [
+    "120",
+    "200",
+    "40%"
+  ],
+  "weaponmaterialtype": "",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 10000
+      },
+      {
+        "name": "Răng Sữa Sói Bão",
+        "count": 5
+      },
+      {
+        "name": "Sừng Nặng",
+        "count": 5
+      },
+      {
+        "name": "Phù Hiệu Tân Binh",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Răng Vỡ Sói Bão",
+        "count": 5
+      },
+      {
+        "name": "Sừng Nặng",
+        "count": 18
+      },
+      {
+        "name": "Phù Hiệu Tân Binh",
+        "count": 12
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Răng Vỡ Sói Bão",
+        "count": 9
+      },
+      {
+        "name": "Sừng Đồng Đen",
+        "count": 9
+      },
+      {
+        "name": "Phù Hiệu Sĩ Quan",
+        "count": 9
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Mảnh Răng Sói Bão",
+        "count": 5
+      },
+      {
+        "name": "Sừng Đồng Đen",
+        "count": 18
+      },
+      {
+        "name": "Phù Hiệu Sĩ Quan",
+        "count": 14
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 55000
+      },
+      {
+        "name": "Mảnh Răng Sói Bão",
+        "count": 9
+      },
+      {
+        "name": "Sừng Hắc Tinh",
+        "count": 14
+      },
+      {
+        "name": "Phù Hiệu Hiệu Úy",
+        "count": 9
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 65000
+      },
+      {
+        "name": "Nỗi Nhớ Của Sói Bão",
+        "count": 6
+      },
+      {
+        "name": "Sừng Hắc Tinh",
+        "count": 27
+      },
+      {
+        "name": "Phù Hiệu Hiệu Úy",
+        "count": 18
+      }
+    ]
+  },
+  "images": {
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Widsith.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Widsith_Awaken.png",
+    "nameicon": "UI_EquipIcon_Bow_Widsith",
+    "namegacha": "UI_Gacha_EquipIcon_Bow_Widsith",
+    "nameawakenicon": "UI_EquipIcon_Bow_Widsith_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Elegy_for_the_End"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 45.9364013671875,
+      "specialized": 0.11999999731779099
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 61.692589533209684,
+      "specialized": 0.13943998978793637
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 81.53711133154866,
+      "specialized": 0.16356000057846298
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 101.56538184575038,
+      "specialized": 0.18780000266879782
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 121.73146800388349,
+      "specialized": 0.21203999045401822
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 152.83146838535322,
+      "specialized": 0.21203999045401822
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 173.18128683121176,
+      "specialized": 0.23627999254435306
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 193.66892639704747,
+      "specialized": 0.2605199946346879
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 214.34030920270015,
+      "specialized": 0.2847599824199083
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 235.19542429607827,
+      "specialized": 0.30899999881535756
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 266.295424677548,
+      "specialized": 0.30899999881535756
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 287.2883718429948,
+      "specialized": 0.33323998660057796
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 308.4191182242357,
+      "specialized": 0.3574800029960272
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 339.61911898717517,
+      "specialized": 0.3574800029960272
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 360.97953072807286,
+      "specialized": 0.38171999078124763
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 382.43183051701635,
+      "specialized": 0.40595997856646804
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 413.53182899113744,
+      "specialized": 0.40595997856646804
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 435.16788297198946,
+      "specialized": 0.4301999949619173
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 456.9876692405669,
+      "specialized": 0.4543199914473295
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 488.0876753440825,
+      "specialized": 0.4543199914473295
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 510.0912158045685,
+      "specialized": 0.4785599792325499
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 532.2325773850316,
+      "specialized": 0.5027999956279992
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 563.3325682297582,
+      "specialized": 0.5027999956279992
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 585.6117071218323,
+      "specialized": 0.5270400120234484
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 608.074622109998,
+      "specialized": 0.55127997119844
+    }
+  },
+  "version": "1.4"
+}

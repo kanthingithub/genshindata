@@ -1,0 +1,894 @@
+{
+  "name": "Lisa",
+  "fullname": "Lisa",
+  "title": "Ma Nữ Tường Vi",
+  "description": "Người quản lý thư viện biếng nhác nhưng thông thái, là sinh viên tốt nghiệp thiên tài \"Hai Trăm Năm Có Một\" của Giáo Viện Sumeru.",
+  "rarity": "4",
+  "element": "Lôi",
+  "weapontype": "Pháp Khí",
+  "substat": "Tinh Thông Nguyên Tố",
+  "gender": "nữ",
+  "body": "LADY",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Đội Kỵ Sĩ Tây Phong",
+  "birthdaymmdd": "6/9",
+  "birthday": "9 tháng 6",
+  "constellation": "Sa Lậu",
+  "cv": {
+    "english": "Mara Junot",
+    "chinese": "钟可",
+    "japanese": "田中理恵",
+    "korean": "Park Go-woon"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vụn Tử Tinh Thắng Lợi",
+        "count": 1
+      },
+      {
+        "name": "Quả Dâu Đỏ",
+        "count": 3
+      },
+      {
+        "name": "Dịch Slime",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Tử Tinh Thắng Lợi",
+        "count": 3
+      },
+      {
+        "name": "Lăng Kính Sấm Sét",
+        "count": 2
+      },
+      {
+        "name": "Quả Dâu Đỏ",
+        "count": 10
+      },
+      {
+        "name": "Dịch Slime",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Tử Tinh Thắng Lợi",
+        "count": 6
+      },
+      {
+        "name": "Lăng Kính Sấm Sét",
+        "count": 4
+      },
+      {
+        "name": "Quả Dâu Đỏ",
+        "count": 20
+      },
+      {
+        "name": "Tinh Slime",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Tử Tinh Thắng Lợi",
+        "count": 3
+      },
+      {
+        "name": "Lăng Kính Sấm Sét",
+        "count": 8
+      },
+      {
+        "name": "Quả Dâu Đỏ",
+        "count": 30
+      },
+      {
+        "name": "Tinh Slime",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Tử Tinh Thắng Lợi",
+        "count": 6
+      },
+      {
+        "name": "Lăng Kính Sấm Sét",
+        "count": 12
+      },
+      {
+        "name": "Quả Dâu Đỏ",
+        "count": 45
+      },
+      {
+        "name": "Bột Slime",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Tử Tinh Thắng Lợi",
+        "count": 6
+      },
+      {
+        "name": "Lăng Kính Sấm Sét",
+        "count": 20
+      },
+      {
+        "name": "Quả Dâu Đỏ",
+        "count": 60
+      },
+      {
+        "name": "Bột Slime",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Character_Lisa_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Character_Lisa_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Lisa.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Lisa.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20191009/2019100915122465321.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20191009/2019100915140016827.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/06b5a07d8f98649e5e09c58aa7904752.png",
+    "nameicon": "UI_AvatarIcon_Lisa",
+    "nameiconcard": "UI_AvatarIcon_Lisa_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Lisa",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Lisa",
+    "namesideicon": "UI_AvatarIcon_Side_Lisa"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lisa"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 802.3760986328125,
+      "attack": 19.410720825195312,
+      "defense": 48.069000244140625,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2061.304201978928,
+      "attack": 49.86614191099579,
+      "defense": 123.48926190225029,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2660.720217603928,
+      "attack": 64.36728345915253,
+      "defense": 159.3992617496624,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 3985.4429835102637,
+      "attack": 96.41437935794966,
+      "defense": 238.76117079240794,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4411.343862416514,
+      "attack": 106.71782231296675,
+      "defense": 264.2761701820564,
+      "specialized": 24
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5074.106691293244,
+      "attack": 122.7510818611554,
+      "defense": 303.9811746523628,
+      "specialized": 24
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5641.974489144806,
+      "attack": 136.48900452961243,
+      "defense": 338.0011751101265,
+      "specialized": 48
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6304.737318021536,
+      "attack": 152.52226407780108,
+      "defense": 377.70617958043294,
+      "specialized": 48
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6730.638196927786,
+      "attack": 162.8257079864925,
+      "defense": 403.2211789700814,
+      "specialized": 48
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7392.598325258761,
+      "attack": 178.83954896497744,
+      "defense": 442.8780950030632,
+      "specialized": 48
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7818.499082094699,
+      "attack": 189.14299287366885,
+      "defense": 468.3931020221062,
+      "specialized": 72
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8481.26152836869,
+      "attack": 205.17624316610454,
+      "defense": 508.09808357132715,
+      "specialized": 72
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 8907.16240727494,
+      "attack": 215.47968326009868,
+      "defense": 533.6130829609756,
+      "specialized": 96
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9569.92523615167,
+      "attack": 231.51294280828733,
+      "defense": 573.318087431282,
+      "specialized": 96
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Đường Điện Vô Hạn",
+      "effect": "Khi nhấn giữ **Sấm Giội**, mỗi khi đánh trúng địch sẽ hồi phục 2 điểm năng lượng Nguyên Tố cho Lisa.\nTối đa hồi phục 10 điểm Năng Lượng Nguyên Tố mỗi lần."
+    },
+    "c2": {
+      "name": "Kết Giới Lưới Điện",
+      "effect": "Khi nhấn giữ **Sấm Giội**, có hiệu quả như sau:\nPhòng ngự tăng 25%;\nTăng khả năng kháng gián đoạn của Lisa."
+    },
+    "c3": {
+      "name": "Sấm Sét Cộng Hưởng",
+      "effect": "Cấp kỹ năng **Tường Vi Sấm Sét** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "Dòng Điện Như Mưa",
+      "effect": "Khi **Tường Vi Sấm Sét** tấn công, sét bắn ra sẽ tăng từ 1-3 tia."
+    },
+    "c5": {
+      "name": "Sét Đồng Phân",
+      "effect": "Cấp kỹ năng **Sấm Giội** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Rung Động Của Ma Nữ",
+      "effect": "Khi Lisa tham chiến, tạo thêm 3 lớp dẫn điện của **Sấm Giội**với địch ở gần.\nHiệu quả này 5s xuất hiện 1 lần."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Lisa_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Lisa_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Lisa_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Lisa_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Lisa_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Lisa_04.png",
+      "constellation": "Eff_UI_Talent_Lisa"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Lisa",
+    "combat1": {
+      "name": "Tấn Công Thường: Sấm Sét Cảm Ứng",
+      "info": "**Tấn Công Thường**\nThực hiện tối đa 4 lần chích điện, gây Sát Thương Nguyên Tố Lôi.\n\n**Trọng Kích**\nTiêu hao thể lực nhất định, sau khi tụ lực, gây Sát Thương Phạm Vi Nguyên Tố Lôi.\n\n**Tấn Công Khi Đáp**\nNgưng tụ sức mạnh lôi điện, từ trên trời tấn công xuống mặt đất, tấn công kẻ địch trên đường, gây sát thương phạm vi Nguyên Tố Lôi khi chạm đất.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "39.60%",
+            "42.57%",
+            "45.54%",
+            "49.50%",
+            "52.47%",
+            "55.44%",
+            "59.40%",
+            "63.36%",
+            "67.32%",
+            "71.28%",
+            "75.40%",
+            "80.78%",
+            "86.17%",
+            "91.56%",
+            "96.94%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "35.92%",
+            "38.61%",
+            "41.31%",
+            "44.90%",
+            "47.59%",
+            "50.29%",
+            "53.88%",
+            "57.47%",
+            "61.06%",
+            "64.66%",
+            "68.39%",
+            "73.28%",
+            "78.16%",
+            "83.05%",
+            "87.93%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "42.80%",
+            "46.01%",
+            "49.22%",
+            "53.50%",
+            "56.71%",
+            "59.92%",
+            "64.20%",
+            "68.48%",
+            "72.76%",
+            "77.04%",
+            "81.49%",
+            "87.31%",
+            "93.13%",
+            "98.95%",
+            "104.77%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "54.96%",
+            "59.08%",
+            "63.20%",
+            "68.70%",
+            "72.82%",
+            "76.94%",
+            "82.44%",
+            "87.94%",
+            "93.43%",
+            "98.93%",
+            "104.64%",
+            "112.12%",
+            "119.59%",
+            "127.07%",
+            "134.54%"
+          ]
+        },
+        {
+          "name": "Sát Thương Trọng Kích",
+          "parameters": [
+            "177.12%",
+            "190.40%",
+            "203.69%",
+            "221.40%",
+            "234.68%",
+            "247.97%",
+            "265.68%",
+            "283.39%",
+            "301.10%",
+            "318.82%",
+            "337.24%",
+            "361.32%",
+            "385.41%",
+            "409.50%",
+            "433.59%"
+          ]
+        },
+        {
+          "name": "Thể lực Trọng Kích tiêu hao",
+          "parameters": [
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Sấm Giội",
+      "info": "Dẫn sức mạnh lôi điện, quét sạch những thứ gây rắc rối.\n\n**Nhấn**\nPhóng ra tia điện hình cầu có khả năng tự tìm địch.\nSau khi đánh trúng, tạo ra Sát Thương Nguyên Tố Lôi cho mục tiêu, có thêm hiệu quả dẫn điện đối với địch trong phạm vi nhỏ, cộng dồn tối đa 3 tầng.\n\n**Nhấn Giữ**\nSau khi tụ lực, triệu hồi sấm sét từ trên trời xuống, tạo thành Sát Thương Nguyên Tố Lôi đối với tất cả địch ở gần.\nNếu địch đang trong trạng thái dẫn điện, sẽ căn cứ theo số tầng cộng dồn mà gây thêm lượng lớn sát thương, và xóa hiệu quả dẫn điện.",
+      "description": "Màu sắc của lôi điện là màu sắc đầy mê hoặc của ma nữ tường vi.",
+      "attributes": [
+        {
+          "name": "Sát Thương Nhấn",
+          "parameters": [
+            "80.00%",
+            "86.00%",
+            "92.00%",
+            "100.00%",
+            "106.00%",
+            "112.00%",
+            "120.00%",
+            "128.00%",
+            "136.00%",
+            "144.00%",
+            "152.00%",
+            "160.00%",
+            "170.00%",
+            "180.00%",
+            "190.00%"
+          ]
+        },
+        {
+          "name": "CD Nhấn",
+          "parameters": [
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s"
+          ]
+        },
+        {
+          "name": "Sát Thương Nhấn Giữ Không Dẫn Lôi",
+          "parameters": [
+            "320.00%",
+            "344.00%",
+            "368.00%",
+            "400.00%",
+            "424.00%",
+            "448.00%",
+            "480.00%",
+            "512.00%",
+            "544.00%",
+            "576.00%",
+            "608.00%",
+            "640.00%",
+            "680.00%",
+            "720.00%",
+            "760.00%"
+          ]
+        },
+        {
+          "name": "Sát Thương Nhấn Giữ Dẫn Lôi Tầng 1",
+          "parameters": [
+            "368.00%",
+            "395.60%",
+            "423.20%",
+            "460.00%",
+            "487.60%",
+            "515.20%",
+            "552.00%",
+            "588.80%",
+            "625.60%",
+            "662.40%",
+            "699.20%",
+            "736.00%",
+            "782.00%",
+            "828.00%",
+            "874.00%"
+          ]
+        },
+        {
+          "name": "Sát Thương Nhấn Giữ Dẫn Lôi Tầng 2",
+          "parameters": [
+            "424.00%",
+            "455.80%",
+            "487.60%",
+            "530.00%",
+            "561.80%",
+            "593.60%",
+            "636.00%",
+            "678.40%",
+            "720.80%",
+            "763.20%",
+            "805.60%",
+            "848.00%",
+            "901.00%",
+            "954.00%",
+            "1007.00%"
+          ]
+        },
+        {
+          "name": "Sát Thương Nhấn Giữ Dẫn Lôi Tầng 3",
+          "parameters": [
+            "487.20%",
+            "523.74%",
+            "560.28%",
+            "609.00%",
+            "645.54%",
+            "682.08%",
+            "730.80%",
+            "779.52%",
+            "828.24%",
+            "876.96%",
+            "925.68%",
+            "974.40%",
+            "1035.30%",
+            "1096.20%",
+            "1157.10%"
+          ]
+        },
+        {
+          "name": "CD Nhấn Giữ",
+          "parameters": [
+            "16s",
+            "16s",
+            "16s",
+            "16s",
+            "16s",
+            "16s",
+            "16s",
+            "16s",
+            "16s",
+            "16s",
+            "16s",
+            "16s",
+            "16s",
+            "16s",
+            "16s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Tường Vi Sấm Sét",
+      "info": "Triệu hồi Tường Vi Sấm Sét, phóng ra sấm sét cường đại, đánh lui địch xung quanh và gây Sát Thương Nguyên Tố Lôi.\nTrong thời gian tồn tại, Tường Vi Sấm Sét sẽ tiếp tục phóng điện công kích vào phạm vi công kích của địch, gây Sát Thương Nguyên Tố Lôi.",
+      "description": "Đóa tường vi này thật đẹp, nhưng lại có gai chết người.",
+      "attributes": [
+        {
+          "name": "Sát Thương Phóng Điện",
+          "parameters": [
+            "36.56%",
+            "39.30%",
+            "42.04%",
+            "45.70%",
+            "48.44%",
+            "51.18%",
+            "54.84%",
+            "58.50%",
+            "62.15%",
+            "65.81%",
+            "69.46%",
+            "73.12%",
+            "77.69%",
+            "82.26%",
+            "86.83%"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Dư Chấn Điện Cảm",
+      "info": "Khi trọng kích đánh trúng, sẽ kèm theo hiệu ứng dẫn điện của **Sấm Giội**."
+    },
+    "passive2": {
+      "name": "Lực Tĩnh Điện",
+      "info": "Địch bị **Tường Vi Sấm Sét** tấn công, giảm phòng ngự 15%, kéo dài 10s."
+    },
+    "passive3": {
+      "name": "Thông Thạo Thuốc",
+      "info": "Khi tạo ra thuốc, có tỷ lệ 20% hoàn trả một phần nguyên liệu ghép ra."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Thơ Văn\"",
+          "count": 3
+        },
+        {
+          "name": "Dịch Slime",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Thơ Văn\"",
+          "count": 2
+        },
+        {
+          "name": "Tinh Slime",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Thơ Văn\"",
+          "count": 4
+        },
+        {
+          "name": "Tinh Slime",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Thơ Văn\"",
+          "count": 6
+        },
+        {
+          "name": "Tinh Slime",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Thơ Văn\"",
+          "count": 9
+        },
+        {
+          "name": "Tinh Slime",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Thơ Văn\"",
+          "count": 4
+        },
+        {
+          "name": "Bột Slime",
+          "count": 4
+        },
+        {
+          "name": "Móng Vuốt Đông Phong",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Thơ Văn\"",
+          "count": 6
+        },
+        {
+          "name": "Bột Slime",
+          "count": 6
+        },
+        {
+          "name": "Móng Vuốt Đông Phong",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Thơ Văn\"",
+          "count": 12
+        },
+        {
+          "name": "Bột Slime",
+          "count": 9
+        },
+        {
+          "name": "Móng Vuốt Đông Phong",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Thơ Văn\"",
+          "count": 16
+        },
+        {
+          "name": "Bột Slime",
+          "count": 12
+        },
+        {
+          "name": "Móng Vuốt Đông Phong",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_Catalyst_MD",
+      "combat2": "Skill_S_Lisa_01",
+      "combat3": "Skill_E_Lisa_01_HD",
+      "passive1": "UI_Talent_S_Lisa_05",
+      "passive2": "UI_Talent_S_Lisa_06",
+      "passive3": "UI_Talent_Combine_Potion"
+    },
+    "version": "1.0"
+  }
+}

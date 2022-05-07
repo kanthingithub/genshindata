@@ -1,0 +1,834 @@
+{
+  "name": "Fischl",
+  "fullname": "Fischl",
+  "title": "Công Chúa Định Tội!!",
+  "description": "Tự xưng là \"Công Chúa Định Tội\", thiếu nữ thần bí đồng hành cùng chú quạ đen tên Oz.",
+  "rarity": "4",
+  "element": "Lôi",
+  "weapontype": "Cung",
+  "substat": "Tấn Công",
+  "gender": "nữ",
+  "body": "GIRL",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Hiệp Hội Nhà Mạo Hiểm",
+  "birthdaymmdd": "5/27",
+  "birthday": "27 tháng 5",
+  "constellation": "Hoan Áp",
+  "cv": {
+    "english": "Brittany Cox & Ben Pronsky",
+    "chinese": "Mace&赵悦程",
+    "japanese": "内田真礼&増谷康紀",
+    "korean": "Park Go-woon & Lee Hyeon"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vụn Tử Tinh Thắng Lợi",
+        "count": 1
+      },
+      {
+        "name": "Tiểu Đăng Thảo",
+        "count": 3
+      },
+      {
+        "name": "Mũi Tên Chắc Chắn",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Tử Tinh Thắng Lợi",
+        "count": 3
+      },
+      {
+        "name": "Lăng Kính Sấm Sét",
+        "count": 2
+      },
+      {
+        "name": "Tiểu Đăng Thảo",
+        "count": 10
+      },
+      {
+        "name": "Mũi Tên Chắc Chắn",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Tử Tinh Thắng Lợi",
+        "count": 6
+      },
+      {
+        "name": "Lăng Kính Sấm Sét",
+        "count": 4
+      },
+      {
+        "name": "Tiểu Đăng Thảo",
+        "count": 20
+      },
+      {
+        "name": "Mũi Tên Sắc Bén",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Tử Tinh Thắng Lợi",
+        "count": 3
+      },
+      {
+        "name": "Lăng Kính Sấm Sét",
+        "count": 8
+      },
+      {
+        "name": "Tiểu Đăng Thảo",
+        "count": 30
+      },
+      {
+        "name": "Mũi Tên Sắc Bén",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Tử Tinh Thắng Lợi",
+        "count": 6
+      },
+      {
+        "name": "Lăng Kính Sấm Sét",
+        "count": 12
+      },
+      {
+        "name": "Tiểu Đăng Thảo",
+        "count": 45
+      },
+      {
+        "name": "Mũi Tên Thiện Chiến",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Tử Tinh Thắng Lợi",
+        "count": 6
+      },
+      {
+        "name": "Lăng Kính Sấm Sét",
+        "count": 20
+      },
+      {
+        "name": "Tiểu Đăng Thảo",
+        "count": 60
+      },
+      {
+        "name": "Mũi Tên Thiện Chiến",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Character_Fischl_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/Character_Fischl_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Fischl.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200402/2020040211240853891.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200402/2020040211242065763.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/0bb4e376b31993e6fdab02786bc6a20a.png",
+    "nameicon": "UI_AvatarIcon_Fischl",
+    "nameiconcard": "UI_AvatarIcon_Fischl_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Fischl",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Fischl",
+    "namesideicon": "UI_AvatarIcon_Side_Fischl"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fischl"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 770.46337890625,
+      "attack": 20.47920036315918,
+      "defense": 49.78575134277344,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 1979.320424818783,
+      "attack": 52.61106585013886,
+      "defense": 127.89959548446132,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2554.896047377377,
+      "attack": 67.91043566215058,
+      "defense": 165.09209655257655,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 3826.930919893319,
+      "attack": 101.72159104783623,
+      "defense": 247.28836128915282,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4235.8925287800375,
+      "attack": 112.59219651658623,
+      "defense": 273.7146117469165,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 4872.2954443453345,
+      "attack": 129.5080203913849,
+      "defense": 314.83765299143124,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5417.577548837522,
+      "attack": 144.0021610163849,
+      "defense": 350.0726536017828,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6053.980464402819,
+      "attack": 160.91798489118355,
+      "defense": 391.19569484629756,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6462.942134324694,
+      "attack": 171.78859035993355,
+      "defense": 417.62194148936396,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7098.574274968123,
+      "attack": 188.6839267534424,
+      "defense": 458.6951768512736,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7507.535944889998,
+      "attack": 199.5545322221924,
+      "defense": 485.1214311237345,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8143.938493069727,
+      "attack": 216.47034633174735,
+      "defense": 526.2444486285531,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 8552.899918850977,
+      "attack": 227.34095180049735,
+      "defense": 552.670702901014,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9189.302834416274,
+      "attack": 244.256775675296,
+      "defense": 593.7937441455288,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Mắt Quạ Huyền Bí",
+      "effect": "Oz vẫn luôn theo dõi bảo vệ cho Fischl mặc dù không ở trên chiến trường. Khi Fischl tấn công thường với kẻ địch, Oz sẽ hỗ trợ tấn công qua mắt quạ và tạo ra sát thương bằng 22% tấn công."
+    },
+    "c2": {
+      "name": "Đôi Cánh Phán Quyết",
+      "effect": "Khi thi triển **Cánh Chim Đêm**, có thể gây thêm sát thương bằng 200% tấn công, phạm vi ảnh hưởng tăng 50%."
+    },
+    "c3": {
+      "name": "Đôi Cánh Đen Huyền",
+      "effect": "Cấp kỹ năng **Cánh Chim Đêm** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "Truyền Thuyết Công Chúa Huyền Bí",
+      "effect": "Khi thi triển **Ảo Ảnh Bóng Đêm** sẽ tạo ra 222% sát thương Nguyên Tố Lôi cho kẻ địch xung quanh;\nKhi hiệu quả kỹ năng kết thúc, sẽ hồi phục 20% HP cho Fischl."
+    },
+    "c5": {
+      "name": "Ghi Chú Khải Huyền",
+      "effect": "Cấp kỹ năng **Ảo Ảnh Bóng Đêm** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Quạ Bóng Đêm",
+      "effect": "Thời gian Oz tồn tại kéo dài thêm 2s. Ngoài ra,Oz kết hợp với nhân vật của bản thân trong trận hiện tại cùng tấn công, gây sát thương Nguyên Tố Lôi bằng 30% tấn công của Fischl."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Fischl_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Fischl_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Fischl_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Fischl_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Fischl_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Fischl_04.png",
+      "constellation": "Eff_UI_Talent_Fischl"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Fischl",
+    "combat1": {
+      "name": "Tấn Công Thường - Mũi Tên Diệt Ác",
+      "info": "**Tấn Công Thường**\nThực hiện tối đa 5 lần bắn tên liên tiếp.\n\n**Trọng Kích**\nSát thương càng cao, **ngắm bắn** càng chuẩn.\nKhi ngắm bắn, Tinh Linh Sấm Sét của vùng đất Đêm Niết Bàn sẽ nghe theo hiệu lệnh của công chúa mà bám trên mũi tên sấm sét. Mũi tên chứa đầy tia sét định tội sẽ gây thêm Sát Thương Nguyên Tố Lôi.\n\n**Tấn Công Khi Đáp**\nBắn mưa tên liên tiếp xuống mặt đất, gây sát thương phạm vi khi chạm đất.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "44.12%",
+            "47.71%",
+            "51.30%",
+            "56.43%",
+            "60.02%",
+            "64.13%",
+            "69.77%",
+            "75.41%",
+            "81.05%",
+            "87.21%",
+            "93.37%",
+            "99.52%",
+            "105.68%",
+            "111.83%",
+            "117.99%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "46.78%",
+            "50.59%",
+            "54.40%",
+            "59.84%",
+            "63.65%",
+            "68.00%",
+            "73.98%",
+            "79.97%",
+            "85.95%",
+            "92.48%",
+            "99.01%",
+            "105.54%",
+            "112.06%",
+            "118.59%",
+            "125.12%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "58.14%",
+            "62.87%",
+            "67.60%",
+            "74.36%",
+            "79.09%",
+            "84.50%",
+            "91.94%",
+            "99.37%",
+            "106.81%",
+            "114.92%",
+            "123.03%",
+            "131.14%",
+            "139.26%",
+            "147.37%",
+            "155.48%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "57.71%",
+            "62.40%",
+            "67.10%",
+            "73.81%",
+            "78.51%",
+            "83.88%",
+            "91.26%",
+            "98.64%",
+            "106.02%",
+            "114.07%",
+            "122.12%",
+            "130.17%",
+            "138.23%",
+            "146.28%",
+            "154.33%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 5",
+          "parameters": [
+            "72.07%",
+            "77.93%",
+            "83.80%",
+            "92.18%",
+            "98.05%",
+            "104.75%",
+            "113.97%",
+            "123.19%",
+            "132.40%",
+            "142.46%",
+            "152.52%",
+            "162.57%",
+            "172.63%",
+            "182.68%",
+            "192.74%"
+          ]
+        },
+        {
+          "name": "Ngắm Bắn",
+          "parameters": [
+            "43.86%",
+            "47.43%",
+            "51.00%",
+            "56.10%",
+            "59.67%",
+            "63.75%",
+            "69.36%",
+            "74.97%",
+            "80.58%",
+            "86.70%",
+            "92.82%",
+            "98.94%",
+            "105.06%",
+            "111.18%",
+            "117.30%"
+          ]
+        },
+        {
+          "name": "Tụ Lực Ngắm Bắn",
+          "parameters": [
+            "124.00%",
+            "133.30%",
+            "142.60%",
+            "155.00%",
+            "164.30%",
+            "173.60%",
+            "186.00%",
+            "198.40%",
+            "210.80%",
+            "223.20%",
+            "235.60%",
+            "248.00%",
+            "263.50%",
+            "279.00%",
+            "294.50%"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Cánh Chim Đêm",
+      "info": "Triệu hồi Oz. Khi quạ đen do bóng đêm và sấm sét kết hợp được sinh ra, sẽ gây Sát Thương Nguyên Tố Lôi phạm vi nhỏ.\nTrong thời gian tồn tại, Oz sẽ liên tục bắn Đạn Sấm Sét tấn công địch xung quanh.\n\nNhấn giữ để điều chỉnh vị trí hiệu quả của kỹ năng.\nTrong thời gian Oz tồn tại, nhấn lần nữa có thể triệu hồi nó đến bên cạnh.",
+      "description": "\"Sức mạnh của công chúa vốn là thứ đáng quý, không đáng để lãng phí trên người các người...Oz, hãy giúp ta giáng tia sét định tội, xé toạc màn đêm vĩnh hằng.\"\n——\"Cổ tích về công chúa Fischl IV 'Vĩnh biệt quý cô của thế giới.'\"",
+      "attributes": [
+        {
+          "name": "Sát thương tấn công Oz",
+          "parameters": [
+            "88.80%",
+            "95.46%",
+            "102.12%",
+            "111.00%",
+            "117.66%",
+            "124.32%",
+            "133.20%",
+            "142.08%",
+            "150.96%",
+            "159.84%",
+            "168.72%",
+            "177.60%",
+            "188.70%",
+            "199.80%",
+            "210.90%"
+          ]
+        },
+        {
+          "name": "Sát thương triệu hồi",
+          "parameters": [
+            "115.44%",
+            "124.10%",
+            "132.76%",
+            "144.30%",
+            "152.96%",
+            "161.62%",
+            "173.16%",
+            "184.70%",
+            "196.25%",
+            "207.79%",
+            "219.34%",
+            "230.88%",
+            "245.31%",
+            "259.74%",
+            "274.17%"
+          ]
+        },
+        {
+          "name": "Thời gian Oz tồn tại",
+          "parameters": [
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "25s",
+            "25s",
+            "25s",
+            "25s",
+            "25s",
+            "25s",
+            "25s",
+            "25s",
+            "25s",
+            "25s",
+            "25s",
+            "25s",
+            "25s",
+            "25s",
+            "25s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Ảo Ảnh Bóng Đêm",
+      "info": "Triệu hồi Oz, mở ra đôi cánh dệt từ bóng đêm thuần khiết, bảo vệ Fischl.\nTrong thời gian duy trì, hiệu quả như sau:\n·Di chuyển nhanh trong hình thái của Oz;\n·Đánh sét vào địch ở gần, gây Sát Thương Nguyên Tố Lôi. Mỗi kẻ địch chỉ chịu 1 lần sát thương sét đánh;\n·Khi kết thúc hiệu quả, Oz sẽ dừng lại trên chiến trường, tấn công kẻ địch của công chúa. Nếu Oz đã có trong trận sẽ làm mới thời gian tồn tại của Oz.",
+      "description": "...Trong số những con thú mang dòng máu định tội bị nguyền rủa, chỉ có Thân Vương Quạ Đêm - người đã chứng kiến sự tuyệt chủng của một ngàn thế giới mới có thể hiểu được sự cao cả của cô. Vì vậy nó dang rộng đôi cánh bóng đêm bao lấy công chúa cao quý, và nguyện thề trọn đời bảo vệ cô.\n \"Cổ tích về công chúa Fischl·I·'Về sự tan rã của ngày tận thế'\"",
+      "attributes": [
+        {
+          "name": "Sát Thương Sét Đánh",
+          "parameters": [
+            "208.00%",
+            "223.60%",
+            "239.20%",
+            "260.00%",
+            "275.60%",
+            "291.20%",
+            "312.00%",
+            "332.80%",
+            "353.60%",
+            "374.40%",
+            "395.20%",
+            "416.00%",
+            "442.00%",
+            "468.00%",
+            "494.00%"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Ác Điểu Nuốt Sao",
+      "info": "Khi Fischl dùng tụ lực ngắm bắn bắn trúng Oz, Oz sẽ giáng xuống Quả Báo Sấm Sét vào kẻ địch xung quanh, tạo thành sát thương phạm vi Nguyên Tố Lôi tương đương với 152.7% sát thương khi bắn."
+    },
+    "passive2": {
+      "name": "Ánh Sét Định Tội",
+      "info": "Khi Oz trong trận, nếu nhân vật của bản thân trong trận hiện tại tấn công địch kích hoạt phản ứng với Nguyên Tố Lôi, thì sẽ giáng Quả Báo Sấm Sét, gây cho địch sát thương Nguyên Tố Lôi bằng 80% lực tấn công Fischl."
+    },
+    "passive3": {
+      "name": "Vườn Hoa Sau Nhà",
+      "info": "Khi làm nhiệm vụ Phái Đi thám Hiểm ở Mondstadt, thời gian tiêu hao rút ngắn 25%."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Thơ Văn\"",
+          "count": 3
+        },
+        {
+          "name": "Mũi Tên Chắc Chắn",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Thơ Văn\"",
+          "count": 2
+        },
+        {
+          "name": "Mũi Tên Sắc Bén",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Thơ Văn\"",
+          "count": 4
+        },
+        {
+          "name": "Mũi Tên Sắc Bén",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Thơ Văn\"",
+          "count": 6
+        },
+        {
+          "name": "Mũi Tên Sắc Bén",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Thơ Văn\"",
+          "count": 9
+        },
+        {
+          "name": "Mũi Tên Sắc Bén",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Thơ Văn\"",
+          "count": 4
+        },
+        {
+          "name": "Mũi Tên Thiện Chiến",
+          "count": 4
+        },
+        {
+          "name": "Linh Hồn Bắc Phong",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Thơ Văn\"",
+          "count": 6
+        },
+        {
+          "name": "Mũi Tên Thiện Chiến",
+          "count": 6
+        },
+        {
+          "name": "Linh Hồn Bắc Phong",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Thơ Văn\"",
+          "count": 12
+        },
+        {
+          "name": "Mũi Tên Thiện Chiến",
+          "count": 9
+        },
+        {
+          "name": "Linh Hồn Bắc Phong",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Thơ Văn\"",
+          "count": 16
+        },
+        {
+          "name": "Mũi Tên Thiện Chiến",
+          "count": 12
+        },
+        {
+          "name": "Linh Hồn Bắc Phong",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_02",
+      "combat2": "Skill_S_Fischl_01",
+      "combat3": "Skill_E_Fischl_01_HD",
+      "passive1": "UI_Talent_S_Fischl_05",
+      "passive2": "UI_Talent_S_Fischl_06",
+      "passive3": "UI_Talent_Expedition_Mengde"
+    },
+    "version": "1.0"
+  }
+}

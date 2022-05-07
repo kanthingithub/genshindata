@@ -1,0 +1,992 @@
+{
+  "name": "Sayu",
+  "fullname": "Sayu",
+  "title": "Ninja Mujina",
+  "description": "Ninja thuộc \"Shuumatsuban\". Thân hình nhỏ nhắn, lúc nào trông cũng như không ngủ đủ giấc.",
+  "rarity": "4",
+  "element": "Phong",
+  "weapontype": "Trọng Kiếm",
+  "substat": "Tinh Thông Nguyên Tố",
+  "gender": "nữ",
+  "body": "LOLI",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "Shuumatsuban",
+  "birthdaymmdd": "10/19",
+  "birthday": "19 tháng 10",
+  "constellation": "Cung Tiểu Lạc",
+  "cv": {
+    "english": "Lilypichu (Lily Ki)",
+    "chinese": "Sakula小舞",
+    "japanese": "洲崎綾",
+    "korean": "Lee Ji-hyeon"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vụn Tùng Thạch Tự Tại",
+        "count": 1
+      },
+      {
+        "name": "Tủy Pha Lê",
+        "count": 3
+      },
+      {
+        "name": "Mật Hoa Lừa Dối",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Tùng Thạch Tự Tại",
+        "count": 3
+      },
+      {
+        "name": "Lõi Marionette",
+        "count": 2
+      },
+      {
+        "name": "Tủy Pha Lê",
+        "count": 10
+      },
+      {
+        "name": "Mật Hoa Lừa Dối",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Tùng Thạch Tự Tại",
+        "count": 6
+      },
+      {
+        "name": "Lõi Marionette",
+        "count": 4
+      },
+      {
+        "name": "Tủy Pha Lê",
+        "count": 20
+      },
+      {
+        "name": "Mật Hoa Lấp Lánh",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Tùng Thạch Tự Tại",
+        "count": 3
+      },
+      {
+        "name": "Lõi Marionette",
+        "count": 8
+      },
+      {
+        "name": "Tủy Pha Lê",
+        "count": 30
+      },
+      {
+        "name": "Mật Hoa Lấp Lánh",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Tùng Thạch Tự Tại",
+        "count": 6
+      },
+      {
+        "name": "Lõi Marionette",
+        "count": 12
+      },
+      {
+        "name": "Tủy Pha Lê",
+        "count": 45
+      },
+      {
+        "name": "Mật Hoa Nguyên Tố",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Tùng Thạch Tự Tại",
+        "count": 6
+      },
+      {
+        "name": "Lõi Marionette",
+        "count": 20
+      },
+      {
+        "name": "Tủy Pha Lê",
+        "count": 60
+      },
+      {
+        "name": "Mật Hoa Nguyên Tố",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sayu.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Sayu.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210730/2021073014304964016.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210803/2021080312080918753.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/94b60ed23cb102d39f99335e9658b17d.png",
+    "nameicon": "UI_AvatarIcon_Sayu",
+    "nameiconcard": "UI_AvatarIcon_Sayu_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Sayu",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Sayu",
+    "namesideicon": "UI_AvatarIcon_Side_Sayu"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sayu"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 993.8521728515625,
+      "attack": 20.47920036315918,
+      "defense": 62.43247604370117,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2553.206237742532,
+      "attack": 52.61106585013886,
+      "defense": 160.3890313135098,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3295.664733836282,
+      "attack": 67.91043566215058,
+      "defense": 207.02928247317777,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4936.51445700886,
+      "attack": 101.72159104783623,
+      "defense": 310.10528696523215,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5464.050711891672,
+      "attack": 112.59219651658623,
+      "defense": 343.2444089745095,
+      "specialized": 24
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6284.972818976792,
+      "attack": 129.5080203913849,
+      "defense": 394.8136475236224,
+      "specialized": 24
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6988.3545328439795,
+      "attack": 144.0021610163849,
+      "defense": 438.99914862225523,
+      "specialized": 48
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7809.2766399290995,
+      "attack": 160.91798489118355,
+      "defense": 490.56838717136816,
+      "specialized": 48
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8336.813016882224,
+      "attack": 171.78859035993355,
+      "defense": 523.70751681004,
+      "specialized": 48
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9156.740869922505,
+      "attack": 188.6839267534424,
+      "defense": 575.2142976380437,
+      "specialized": 48
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 9684.277002735005,
+      "attack": 199.5545322221924,
+      "defense": 608.3534120179265,
+      "specialized": 72
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 10505.19863591448,
+      "attack": 216.47034633174735,
+      "defense": 659.922620796915,
+      "specialized": 72
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11032.735012867604,
+      "attack": 227.34095180049735,
+      "defense": 693.0617504355869,
+      "specialized": 96
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 11853.657119952724,
+      "attack": 244.256775675296,
+      "defense": 744.6309889846998,
+      "specialized": 96
+    }
+  },
+  "version": "2.0",
+  "constellations": {
+    "c1": {
+      "name": "Nhất Tâm Nhị Dụng Thuật",
+      "effect": "Hành động của Muji-Muji Daruma **Trường Phái Yoohoo - Mujina Bối Rối** sẽ bỏ qua hạn chế về HP, có thể cùng lúc tấn công kẻ địch ở gần và hồi HP cho nhân vật."
+    },
+    "c2": {
+      "name": "Mở Đường Thoát Thân",
+      "effect": "**Trường Phái Yoohoo - Fuuin Lăn Tròn** nhận hiệu quả sau:\n·Khi nhấn thi triển, sát thương Cú Đá Lốc Xoáy gây ra sẽ tăng 3.3%;\n·Khi ở trạng thái bánh xe gió sau khi nhấn giữ thi triển, mỗi 0.5s sẽ tăng 3.3% sát thương Cú Đá Lốc Xoáy gây ra lần này. Bằng cách này, sát thương do Cú Đá Lốc Xoáy gây ra có thể tăng tối đa đến 66%."
+    },
+    "c3": {
+      "name": "Hãy Giao Cho Phân Thân",
+      "effect": "Cấp kỹ năng **Trường Phái Yoohoo - Mujina Bối Rối** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "Cách Lười Biếng Mới Mẻ",
+      "effect": "Khi Sayu kích hoạt phản ứng khuếch tán trong trận sẽ hồi 1.2 Năng Lượng Nguyên Tố.\nHiệu quả này mỗi 2s chỉ kích hoạt 1 lần."
+    },
+    "c5": {
+      "name": "Tốc Độ Là Tiên Quyết",
+      "effect": "Cấp kỹ năng **Trường Phái Yoohoo - Fuuin Lăn Tròn** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Thời Gian Ngủ Khò",
+      "effect": "Tấn công và lượng hồi phục của Muji-Muji Daruma được Sayu triệu hồi thông qua **Trường Phái Yoohoo - Mujina Bối Rối** phụ thuộc vào Tinh Thông Nguyên Tố của Sayu. Mỗi điểm Tinh Thông Nguyên Tố của Sayu có thể sinh ra hiệu quả sau:\n·Khiến tấn công của Muji-Muji Daruma gây thêm sát thương bằng 0.2% tấn công. Bằng cách này, tối đa có thể gây thêm sát thương bằng 400% tấn công;\n·Lượng hồi phục của Muji-Muji Daruma tăng 3 điểm. Bằng cách này, tối đa tăng 6000 điểm hồi phục."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sayu_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sayu_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Sayu_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sayu_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Sayu_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sayu_04.png",
+      "constellation": "Eff_UI_Talent_Sayu"
+    },
+    "version": "2.0"
+  },
+  "talent": {
+    "name": "Sayu",
+    "combat1": {
+      "name": "Tấn Công Thường - Lưỡi Đao Ninja - Shuumatsuban",
+      "info": "**Tấn Công Thường**\nThực hiện tối đa 4 lần chém liên tiếp.\n\n**Trọng Kích**\nTiêu hao thể lực để xoay kiếm tấn công địch xung quanh.\nKhi ngừng quay, sẽ bổ một nhát cực mạnh.\n\n**Tấn Công Khi Đáp**\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "72.24%",
+            "78.12%",
+            "84.00%",
+            "92.40%",
+            "98.28%",
+            "105.00%",
+            "114.24%",
+            "123.48%",
+            "132.72%",
+            "142.80%",
+            "154.35%",
+            "167.93%",
+            "181.52%",
+            "195.10%",
+            "209.92%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "71.38%",
+            "77.19%",
+            "83.00%",
+            "91.30%",
+            "97.11%",
+            "103.75%",
+            "112.88%",
+            "122.01%",
+            "131.14%",
+            "141.10%",
+            "152.51%",
+            "165.93%",
+            "179.35%",
+            "192.78%",
+            "207.42%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "43.43%+43.43%",
+            "46.97%+46.97%",
+            "50.50%+50.50%",
+            "55.55%+55.55%",
+            "59.08%+59.08%",
+            "63.13%+63.13%",
+            "68.68%+68.68%",
+            "74.23%+74.23%",
+            "79.79%+79.79%",
+            "85.85%+85.85%",
+            "92.79%+92.79%",
+            "100.96%+100.96%",
+            "109.13%+109.13%",
+            "117.29%+117.29%",
+            "126.20%+126.20%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "98.13%",
+            "106.11%",
+            "114.10%",
+            "125.51%",
+            "133.50%",
+            "142.62%",
+            "155.18%",
+            "167.73%",
+            "180.28%",
+            "193.97%",
+            "209.66%",
+            "228.11%",
+            "246.56%",
+            "265.01%",
+            "285.14%"
+          ]
+        },
+        {
+          "name": "Sát Thương Trọng Kích Tuần Hoàn",
+          "parameters": [
+            "62.55%",
+            "67.64%",
+            "72.73%",
+            "80.00%",
+            "85.09%",
+            "90.91%",
+            "98.91%",
+            "106.91%",
+            "114.91%",
+            "123.64%",
+            "133.64%",
+            "145.40%",
+            "157.16%",
+            "168.92%",
+            "181.75%"
+          ]
+        },
+        {
+          "name": "Sát Thương Trọng Kích Chí Mạng",
+          "parameters": [
+            "113.09%",
+            "122.29%",
+            "131.50%",
+            "144.65%",
+            "153.86%",
+            "164.37%",
+            "178.84%",
+            "193.31%",
+            "207.77%",
+            "223.55%",
+            "241.63%",
+            "262.89%",
+            "284.16%",
+            "305.42%",
+            "328.62%"
+          ]
+        },
+        {
+          "name": "Thể lực Trọng Kích tiêu hao",
+          "parameters": [
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm"
+          ]
+        },
+        {
+          "name": "Thời Gian Tối Đa",
+          "parameters": [
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi",
+          "parameters": [
+            "74.59%",
+            "80.66%",
+            "86.73%",
+            "95.40%",
+            "101.47%",
+            "108.41%",
+            "117.95%",
+            "127.49%",
+            "137.03%",
+            "147.44%",
+            "157.85%",
+            "168.26%",
+            "178.66%",
+            "189.07%",
+            "199.48%"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "149.14%/186.29%",
+            "161.28%/201.45%",
+            "173.42%/216.62%",
+            "190.77%/238.28%",
+            "202.91%/253.44%",
+            "216.78%/270.77%",
+            "235.86%/294.60%",
+            "254.93%/318.42%",
+            "274.01%/342.25%",
+            "294.82%/368.25%",
+            "315.63%/394.24%",
+            "336.44%/420.23%",
+            "357.25%/446.23%",
+            "378.06%/472.22%",
+            "398.87%/498.21%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Trường Phái Yoohoo - Fuuin Lăn Tròn",
+      "info": "Nghệ thuật độc đáo trường phái Yoohoo của kiếm pháp Ninja! Tuyệt kỹ càn quét chiến trường nhanh như chớp!\nCuộn thành bánh xe gió lăn với tốc độ cao, va vào kẻ địch gây sát thương Nguyên Tố Phong đồng thời khi kết thúc sẽ tung ra Cú Đá Lốc Xoáy, gây sát thương phạm vi Nguyên Tố Phong.\n\n**Nhấn**\nVào trạng thái bánh xe gió, lăn về phía trước một cự ly nhỏ và tung Cú Đá Lốc Xoáy.\n\n**Nhấn Giữ**\nLăn liên tục trong trạng thái bánh xe gió, ở trạng thái này sẽ tăng khả năng kháng gián đoạn của Sayu.\nSayu có thể điều khiển hướng lăn, đồng thời có thể thi triển kỹ năng lần nữa để kết thúc sớm trạng thái này, khiến Cú Đá Lốc Xoáy của bánh xe gió mạnh hơn so với việc Nhấn.\nKhi nhấn giữ để thi triển kỹ năng này, sẽ xảy ra chuyển hóa nguyên tố.\n\nKéo dài tối đa 10s. Khi hiệu quả kết thúc, kỹ năng sẽ vào CD. Thời gian trong trạng thái bánh xe gió càng dài, CD sẽ càng dài.\n\n**Chuyển hóa nguyên tố**\nNếu Sayu ở trạng thái bánh xe gió, tiếp xúc với Nguyên Tố Thủy/Nguyên Tố Hỏa/Nguyên Tố Băng/Nguyên Tố Lôi sẽ nhận thuộc tính nguyên tố tương ứng, khiến bánh xe gió và Cú Đá Lốc Xoáy kèm thêm sát thương của nguyên tố này.\nChuyển hóa nguyên tố chỉ xảy ra 1 lần trong thời gian duy trì kỹ năng.",
+      "description": "Sayu nhắm mắt lại cũng có thể thi triển một cách thuần thục. Vốn chỉ dùng để chạy trốn, sau khi có Vision cuối cùng cũng có thể khiến kẻ địch nếm mùi đau khổ.",
+      "attributes": [
+        {
+          "name": "Sát Thương Bánh Xe Gió Fuufuu",
+          "parameters": [
+            "36.00%",
+            "38.70%",
+            "41.40%",
+            "45.00%",
+            "47.70%",
+            "50.40%",
+            "54.00%",
+            "57.60%",
+            "61.20%",
+            "64.80%",
+            "68.40%",
+            "72.00%",
+            "76.50%",
+            "81.00%",
+            "85.50%"
+          ]
+        },
+        {
+          "name": "Sát Thương Nhấn Cú Đá Lốc Xoáy",
+          "parameters": [
+            "158.40%",
+            "170.28%",
+            "182.16%",
+            "198.00%",
+            "209.88%",
+            "221.76%",
+            "237.60%",
+            "253.44%",
+            "269.28%",
+            "285.12%",
+            "300.96%",
+            "316.80%",
+            "336.60%",
+            "356.40%",
+            "376.20%"
+          ]
+        },
+        {
+          "name": "Sát Thương Nhấn Giữ Cú Đá Lốc Xoáy",
+          "parameters": [
+            "217.60%",
+            "233.92%",
+            "250.24%",
+            "272.00%",
+            "288.32%",
+            "304.64%",
+            "326.40%",
+            "348.16%",
+            "369.92%",
+            "391.68%",
+            "413.44%",
+            "435.20%",
+            "462.40%",
+            "489.60%",
+            "516.80%"
+          ]
+        },
+        {
+          "name": "Sát Thương Nguyên Tố Bánh Xe Gió Fuufuu",
+          "parameters": [
+            "16.80%",
+            "18.06%",
+            "19.32%",
+            "21.00%",
+            "22.26%",
+            "23.52%",
+            "25.20%",
+            "26.88%",
+            "28.56%",
+            "30.24%",
+            "31.92%",
+            "33.60%",
+            "35.70%",
+            "37.80%",
+            "39.90%"
+          ]
+        },
+        {
+          "name": "Sát Thương Nguyên Tố Nhấn Giữ Cú Đá Lốc Xoáy",
+          "parameters": [
+            "76.16%",
+            "81.87%",
+            "87.58%",
+            "95.20%",
+            "100.91%",
+            "106.62%",
+            "114.24%",
+            "121.86%",
+            "129.47%",
+            "137.09%",
+            "144.70%",
+            "152.32%",
+            "161.84%",
+            "171.36%",
+            "180.88%"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài Tối Đa Nhấn Giữ",
+          "parameters": [
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "6-11s",
+            "6-11s",
+            "6-11s",
+            "6-11s",
+            "6-11s",
+            "6-11s",
+            "6-11s",
+            "6-11s",
+            "6-11s",
+            "6-11s",
+            "6-11s",
+            "6-11s",
+            "6-11s",
+            "6-11s",
+            "6-11s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Trường Phái Yoohoo - Mujina Bối Rối",
+      "info": "Một nghệ thuật độc đáo trường phái Yoohoo của kiếm pháp Ninja! Có thể tạo ra trợ lý thay Sayu làm việc!\nGây sát thương Nguyên Tố Phong cho kẻ địch bên cạnh, hồi HP cho tất cả nhân vật trong đội ở gần, lượng hồi phục phụ thuộc vào tấn công của Sayu, đồng thời triệu hồi \"Muji-Muji Daruma\".\n\n**Muji-Muji Daruma**\nDựa vào tình trạng xung quanh, sử dụng một trong các loại hành động theo chu kỳ:\n·Nếu HP của nhân vật ở gần đều trên 70%, Muji-Muji Daruma sẽ tấn công 1 kẻ địch ở gần, gây sát thương Nguyên Tố Phong;\n·Nếu HP của nhân vật ở gần dưới hoặc bằng 70%, sẽ hồi HP cho nhân vật ở gần có phần trăm HP thấp nhất, lượng hồi phục phụ thuộc vào tấn công của Sayu. Nếu xung quanh không có kẻ địch, thì cho dù HP của nhân vật đã trên 70%, cũng sẽ hồi HP cho nhân vật.",
+      "description": "Những kẻ không hiểu về thuật Ninja đều hi vọng Sayu thể hiện chiêu thức này nhiều một chút, cũng có người muốn tìm Sayu để học hỏi. Nhưng Sayu chỉ muốn đánh một giấc chứ không thích bị làm phiền.",
+      "attributes": [
+        {
+          "name": "Sát Thương Dùng Kỹ Năng",
+          "parameters": [
+            "116.80%",
+            "125.56%",
+            "134.32%",
+            "146.00%",
+            "154.76%",
+            "163.52%",
+            "175.20%",
+            "186.88%",
+            "198.56%",
+            "210.24%",
+            "221.92%",
+            "233.60%",
+            "248.20%",
+            "262.80%",
+            "277.40%"
+          ]
+        },
+        {
+          "name": "Lượng trị liệu kỹ năng",
+          "parameters": [
+            "92.16% tấn công +577",
+            "99.07% tấn công +635",
+            "105.98% tấn công +698",
+            "115.20% tấn công +765",
+            "122.11% tấn công +837",
+            "129.02% tấn công +914",
+            "138.24% tấn công +996",
+            "147.46% tấn công +1083",
+            "156.67% tấn công +1174",
+            "165.89% tấn công +1270",
+            "175.10% tấn công +1371",
+            "184.32% tấn công +1477",
+            "195.84% tấn công +1588",
+            "207.36% tấn công +1703",
+            "218.88% tấn công +1824"
+          ]
+        },
+        {
+          "name": "Sát Thương Muji-Muji Daruma",
+          "parameters": [
+            "52.00%",
+            "55.90%",
+            "59.80%",
+            "65.00%",
+            "68.90%",
+            "72.80%",
+            "78.00%",
+            "83.20%",
+            "88.40%",
+            "93.60%",
+            "98.80%",
+            "104.00%",
+            "110.50%",
+            "117.00%",
+            "123.50%"
+          ]
+        },
+        {
+          "name": "Lượng trị liệu Muji-Muji Daruma",
+          "parameters": [
+            "79.87% tấn công +500",
+            "85.86% tấn công +550",
+            "91.85% tấn công +605",
+            "99.84% tấn công +663",
+            "105.83% tấn công +726",
+            "111.82% tấn công +792",
+            "119.81% tấn công +863",
+            "127.80% tấn công +938",
+            "135.78% tấn công +1017",
+            "143.77% tấn công +1101",
+            "151.76% tấn công +1188",
+            "159.74% tấn công +1280",
+            "169.73% tấn công +1376",
+            "179.71% tấn công +1476",
+            "189.70% tấn công +1580"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "parameters": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Ứng Cử Viên Phù Hợp Hơn",
+      "info": "Khi Sayu kích hoạt phản ứng khuếch tán trong trận, sẽ hồi 300 HP cho nhân vật phe bạn gần đó và nhân vật của bản thân. Ngoài ra, mỗi điểm Tinh Thông Nguyên Tố của Sayu sẽ hồi thêm 1.2 HP.\nHiệu quả này mỗi 2s chỉ kích hoạt 1 lần."
+    },
+    "passive2": {
+      "name": "Sayu Không Cần Làm Việc Nữa",
+      "info": "Muji-Muji Daruma của **Trường Phái Yoohoo - Mujina Bối Rối** nhận hiệu quả sau:\n·Khi hồi HP cho nhân vật sẽ hồi 20% lượng HP này cho các nhân vật khác xung quanh nhân vật này;\n·Khi tấn công kẻ địch sẽ mở rộng phạm vi gây sát thương."
+    },
+    "passive3": {
+      "name": "Trường Phái Yoohoo - Bí Truyền Yên Lặng",
+      "info": "Có Sayu ở trong đội, khi nhân vật trong đội của bản thân tiếp cận một số sinh vật như Tinh Điệp sẽ không làm chúng hoảng sợ.\nCó thể tham khảo mục \"Khác\" ở \"Sách Sinh Vật/Động Vật Hoang Dã\" trong Thư Viện để biết các đối tượng cụ thể."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Ánh Sáng\"",
+          "count": 3
+        },
+        {
+          "name": "Mật Hoa Lừa Dối",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Ánh Sáng\"",
+          "count": 2
+        },
+        {
+          "name": "Mật Hoa Lấp Lánh",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Ánh Sáng\"",
+          "count": 4
+        },
+        {
+          "name": "Mật Hoa Lấp Lánh",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Ánh Sáng\"",
+          "count": 6
+        },
+        {
+          "name": "Mật Hoa Lấp Lánh",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Ánh Sáng\"",
+          "count": 9
+        },
+        {
+          "name": "Mật Hoa Lấp Lánh",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Ánh Sáng\"",
+          "count": 4
+        },
+        {
+          "name": "Mật Hoa Nguyên Tố",
+          "count": 4
+        },
+        {
+          "name": "Vảy Vàng",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Ánh Sáng\"",
+          "count": 6
+        },
+        {
+          "name": "Mật Hoa Nguyên Tố",
+          "count": 6
+        },
+        {
+          "name": "Vảy Vàng",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Ánh Sáng\"",
+          "count": 12
+        },
+        {
+          "name": "Mật Hoa Nguyên Tố",
+          "count": 9
+        },
+        {
+          "name": "Vảy Vàng",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Ánh Sáng\"",
+          "count": 16
+        },
+        {
+          "name": "Mật Hoa Nguyên Tố",
+          "count": 12
+        },
+        {
+          "name": "Vảy Vàng",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Sayu_01",
+      "combat3": "Skill_E_Sayu_01_HD",
+      "passive1": "UI_Talent_S_Sayu_05",
+      "passive2": "UI_Talent_S_Sayu_06",
+      "passive3": "UI_Talent_S_Sayu_07"
+    },
+    "version": "2.0"
+  }
+}

@@ -1,0 +1,1154 @@
+{
+  "name": "Tartaglia",
+  "fullname": "Tartaglia",
+  "title": "Childe",
+  "description": "Childe đứng thứ 11 trong quan chấp hành Fatui, uy danh chiến tích luôn được ca ngợi.",
+  "rarity": "5",
+  "element": "Thủy",
+  "weapontype": "Cung",
+  "substat": "Tăng ST Nguyên Tố Thủy",
+  "gender": "nam",
+  "body": "MALE",
+  "association": "FATUI",
+  "region": "Snezhnaya",
+  "affiliation": "Fatui",
+  "birthdaymmdd": "7/20",
+  "birthday": "20 tháng 7",
+  "constellation": "Kình Thiên",
+  "cv": {
+    "english": "Griffin Burns",
+    "chinese": "鱼冻",
+    "japanese": "木村良平",
+    "korean": "Nam Do-hyeong"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vụn Thanh Kim Sạch",
+        "count": 1
+      },
+      {
+        "name": "Ốc Sao",
+        "count": 3
+      },
+      {
+        "name": "Phù Hiệu Tân Binh",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Thanh Kim Sạch",
+        "count": 3
+      },
+      {
+        "name": "Trái Tim Thuần Khiết",
+        "count": 2
+      },
+      {
+        "name": "Ốc Sao",
+        "count": 10
+      },
+      {
+        "name": "Phù Hiệu Tân Binh",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Thanh Kim Sạch",
+        "count": 6
+      },
+      {
+        "name": "Trái Tim Thuần Khiết",
+        "count": 4
+      },
+      {
+        "name": "Ốc Sao",
+        "count": 20
+      },
+      {
+        "name": "Phù Hiệu Sĩ Quan",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Thanh Kim Sạch",
+        "count": 3
+      },
+      {
+        "name": "Trái Tim Thuần Khiết",
+        "count": 8
+      },
+      {
+        "name": "Ốc Sao",
+        "count": 30
+      },
+      {
+        "name": "Phù Hiệu Sĩ Quan",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Thanh Kim Sạch",
+        "count": 6
+      },
+      {
+        "name": "Trái Tim Thuần Khiết",
+        "count": 12
+      },
+      {
+        "name": "Ốc Sao",
+        "count": 45
+      },
+      {
+        "name": "Phù Hiệu Hiệu Úy",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Thanh Kim Sạch",
+        "count": 6
+      },
+      {
+        "name": "Trái Tim Thuần Khiết",
+        "count": 20
+      },
+      {
+        "name": "Ốc Sao",
+        "count": 60
+      },
+      {
+        "name": "Phù Hiệu Hiệu Úy",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Tartaglia_Card.png",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Character_Tartaglia_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tartaglia.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Tartaglia.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201103/2020110321160453386.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201103/2020110321234137061.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/34ebaeb164a8b447dbe52afaae3e1f63.png",
+    "nameicon": "UI_AvatarIcon_Tartaglia",
+    "nameiconcard": "UI_AvatarIcon_Tartaglia_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Tartaglia",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Tartaglia",
+    "namesideicon": "UI_AvatarIcon_Side_Tartaglia"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Tartaglia"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1020.0524291992188,
+      "attack": 23.461200714111328,
+      "defense": 63.4197998046875,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2646.0161044593406,
+      "attack": 60.85835702408531,
+      "defense": 164.5109671044338,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3520.6188266273093,
+      "attack": 80.97274453629234,
+      "defense": 218.88896545648458,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5267.968698159035,
+      "attack": 121.1617827467744,
+      "defense": 327.527086271788,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5889.396859780129,
+      "attack": 135.45358419941113,
+      "defense": 366.16408730938565,
+      "specialized": 0.07199999690055847
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6775.822377951146,
+      "attack": 155.8413666355027,
+      "defense": 421.2758906784584,
+      "specialized": 0.07199999690055847
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7604.393300802709,
+      "attack": 174.89710317725076,
+      "defense": 472.79189714818494,
+      "specialized": 0.14399999380111694
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8499.999111841724,
+      "attack": 195.49603230288994,
+      "defense": 528.4744675868424,
+      "specialized": 0.14399999380111694
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9121.427334497974,
+      "attack": 209.78783757022393,
+      "defense": 567.1114609950455,
+      "specialized": 0.14399999380111694
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 10025.193946307321,
+      "attack": 230.57446507231907,
+      "defense": 623.3014135410194,
+      "specialized": 0.14399999380111694
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10646.622413104196,
+      "attack": 244.8662665249558,
+      "defense": 661.9384069492226,
+      "specialized": 0.2160000056028366
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11560.589296278107,
+      "attack": 265.88750021686246,
+      "defense": 718.7625417679665,
+      "specialized": 0.2160000056028366
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12182.017518934357,
+      "attack": 280.1793016694992,
+      "defense": 757.3995351761696,
+      "specialized": 0.2879999876022339
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 13103.125224382035,
+      "attack": 301.3647742375979,
+      "defense": 814.6676368990447,
+      "specialized": 0.2879999876022339
+    }
+  },
+  "version": "1.1",
+  "constellations": {
+    "c1": {
+      "name": "Trang Phục Ma Vương - Ngăn Sóng",
+      "effect": "Giảm 20% CD của **Trang Phục Ma Vương - Thủy Triều**."
+    },
+    "c2": {
+      "name": "Trang Phục Ma Vương - Sóng Ngầm",
+      "effect": "Khi kẻ địch bị đánh bại và chịu ảnh hưởng của hiệu ứng Đoạn Lưu, sẽ hồi phục 4 điểm Năng Lượng Nguyên Tố cho Tartaglia."
+    },
+    "c3": {
+      "name": "Tai Họa Vực Sâu - Nguồn Gốc Tranh Giành",
+      "effect": "Cấp kỹ năng **Trang Phục Ma Vương - Thủy Triều** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "Tai Họa Vực Sâu - Bắn Nước",
+      "effect": "Mỗi 4s, khi trong trận xuất hiện hiệu quả Đoạn Lưu do Tartaglia thi triển, nếu Tartaglia đang trong trạng thái cận chiến của **Trang Phục Ma Vương - Thủy Triều**, sẽ kích hoạt Đoạn Lưu - Chém; Nếu không Đoạn Lưu - Né sẽ được kích hoạt.\nĐoạn Lưu - Né và Đoạn Lưu - Chém được kích hoạt bằng cung mệnh này sẽ không bị giới hạn bởi thời gian kích hoạt của hai loại Đoạn Lưu này và cũng không ảnh hưởng đến thời gian kích hoạt của chúng."
+    },
+    "c5": {
+      "name": "Kỹ Năng Thượng Thừa - Chém Nước Chặt Mưa",
+      "effect": "Cấp kỹ năng **Kỹ Năng Thượng Thừa - Ánh Sáng Tận Diệt** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Kỹ Năng Thượng Thừa - Thiên Sứ Tai Ương",
+      "effect": "Khi thi triển **Kỹ Năng Thượng Thừa - Ánh Sáng Tận Diệt** trong trạng thái cận chiến, hủy CD của **Trang Phục Ma Vương - Thủy Triều**.\nHiệu quả này sẽ được kích hoạt khi anh quay trở lại trạng thái đánh xa."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Tartaglia_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Tartaglia_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Tartaglia_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Tartaglia_05.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Tartaglia_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Tartaglia_04.png",
+      "constellation": "Eff_UI_Talent_Tartaglia"
+    },
+    "version": "1.1"
+  },
+  "talent": {
+    "name": "Tartaglia",
+    "combat1": {
+      "name": "Tấn Công Thường: Chém Mưa",
+      "info": "**Tấn Công Thường**\nThực hiện tối đa 6 lần bắn tên liên tiếp.\n\n**Trọng Kích**\nSát thương càng cao, **ngắm bắn** càng chính xác.\nKhi ngắm bắn, sức mạnh Nguyên Tố Thủy sẽ tích tụ trên mũi tên. Mũi tên tụ đầy dòng chảy sẽ gây Sát Thương Nguyên Tố Thủy khi bắn trúng địch, và thi triển hiệu quả Đoạn Lưu.\n\n**Đoạn Lưu**\nĐịch ở trạng thái Đoạn Lưu khi bị Tartaglia tấn công, sẽ tạo hiệu quả Sát Thương Phạm Vi Nguyên Tố Thủy. Sát thương do những hiệu quả này gây ra được xem là tấn công thường. \n·Đoạn Lưu - Né: Khi tụ lực ngắm bắn trúng địch đang bị Đoạn Lưu ảnh hưởng, sẽ gây sát thương phạm vi liên tục. Đoạn Lưu - Né mỗi 0.7s mới có hiệu quả 1 lần.\n·Đoạn Lưu - Phá: Khi đánh bại địch bị Đoạn Lưu ảnh hưởng sẽ tạo xoáy nước, tăng thêm hiệu quả Đoạn Lưu cho địch ở gần.\n\n**Tấn Công Khi Đáp**\nBắn mưa tên liên tiếp xuống mặt đất, gây sát thương phạm vi.\nKhi ở trạng thái cận chiến Trang Phục Ma Vương - Thủy Triều, không thể thi triển tấn công khi đáp xuống.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "41.28%",
+            "44.64%",
+            "48.00%",
+            "52.80%",
+            "56.16%",
+            "60.00%",
+            "65.28%",
+            "70.56%",
+            "75.84%",
+            "81.60%",
+            "87.36%",
+            "93.12%",
+            "98.88%",
+            "104.64%",
+            "110.40%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "46.27%",
+            "50.03%",
+            "53.80%",
+            "59.18%",
+            "62.95%",
+            "67.25%",
+            "73.17%",
+            "79.09%",
+            "85.00%",
+            "91.46%",
+            "97.92%",
+            "104.37%",
+            "110.83%",
+            "117.28%",
+            "123.74%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "55.38%",
+            "59.89%",
+            "64.40%",
+            "70.84%",
+            "75.35%",
+            "80.50%",
+            "87.58%",
+            "94.67%",
+            "101.75%",
+            "109.48%",
+            "117.21%",
+            "124.94%",
+            "132.66%",
+            "140.39%",
+            "148.12%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "57.02%",
+            "61.66%",
+            "66.30%",
+            "72.93%",
+            "77.57%",
+            "82.88%",
+            "90.17%",
+            "97.46%",
+            "104.75%",
+            "112.71%",
+            "120.67%",
+            "128.62%",
+            "136.58%",
+            "144.53%",
+            "152.49%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 5",
+          "parameters": [
+            "60.89%",
+            "65.84%",
+            "70.80%",
+            "77.88%",
+            "82.84%",
+            "88.50%",
+            "96.29%",
+            "104.08%",
+            "111.86%",
+            "120.36%",
+            "128.86%",
+            "137.35%",
+            "145.85%",
+            "154.34%",
+            "162.84%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 6",
+          "parameters": [
+            "72.76%",
+            "78.68%",
+            "84.60%",
+            "93.06%",
+            "98.98%",
+            "105.75%",
+            "115.06%",
+            "124.36%",
+            "133.67%",
+            "143.82%",
+            "153.97%",
+            "164.12%",
+            "174.28%",
+            "184.43%",
+            "194.58%"
+          ]
+        },
+        {
+          "name": "Ngắm Bắn",
+          "parameters": [
+            "43.86%",
+            "47.43%",
+            "51.00%",
+            "56.10%",
+            "59.67%",
+            "63.75%",
+            "69.36%",
+            "74.97%",
+            "80.58%",
+            "86.70%",
+            "92.82%",
+            "98.94%",
+            "105.06%",
+            "111.18%",
+            "117.30%"
+          ]
+        },
+        {
+          "name": "Tụ Lực Ngắm Bắn",
+          "parameters": [
+            "124.00%",
+            "133.30%",
+            "142.60%",
+            "155.00%",
+            "164.30%",
+            "173.60%",
+            "186.00%",
+            "198.40%",
+            "210.80%",
+            "223.20%",
+            "235.60%",
+            "248.00%",
+            "263.50%",
+            "279.00%",
+            "294.50%"
+          ]
+        },
+        {
+          "name": "Sát Thương Đoạn Lưu - Né",
+          "parameters": [
+            "12.40%*3",
+            "13.33%*3",
+            "14.26%*3",
+            "15.50%*3",
+            "16.43%*3",
+            "17.36%*3",
+            "18.60%*3",
+            "19.84%*3",
+            "21.08%*3",
+            "22.32%*3",
+            "23.56%*3",
+            "24.80%*3",
+            "26.35%*3",
+            "27.90%*3",
+            "29.45%*3"
+          ]
+        },
+        {
+          "name": "Sát Thương Đoạn Lưu - Phá",
+          "parameters": [
+            "62.00%",
+            "66.65%",
+            "71.30%",
+            "77.50%",
+            "82.15%",
+            "86.80%",
+            "93.00%",
+            "99.20%",
+            "105.40%",
+            "111.60%",
+            "117.80%",
+            "124.00%",
+            "131.75%",
+            "139.50%",
+            "147.25%"
+          ]
+        },
+        {
+          "name": "Thời gian duy trì Đoạn Lưu",
+          "parameters": [
+            "10 giây",
+            "10 giây",
+            "10 giây",
+            "10 giây",
+            "10 giây",
+            "10 giây",
+            "10 giây",
+            "10 giây",
+            "10 giây",
+            "10 giây",
+            "10 giây",
+            "10 giây",
+            "10 giây",
+            "10 giây",
+            "10 giây"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Trang Phục Ma Vương - Thủy Triều",
+      "info": "Giải phóng vũ trang cấu tạo từ nước tinh khiết, gây cho địch xung quanh Sát Thương Nguyên Tố Thủy, và vào trạng thái cận chiến.\nỞ trạng thái này, tấn công thường và trọng kích của Tartaglia sẽ chuyển thành sát thương Nguyên Tố Thủykhông thể bị đính kèm thay thế, và có thay đổi như sau:\n\n**Tấn Công Thường**\nThực hiện tối đa 6 lần chém liên tiếp Nguyên Tố Thủy.\n\n**Trọng Kích**\nTiêu hao thể lực, đánh ra hai kiếm về phía trước trong chớp mắt, gây Sát Thương Nguyên Tố Thủy.\n\n**Đoạn Lưu - Chém**\nTấn công gần, đánh trúng kẻ địch bị Đoạn Lưu ảnh hưởng sẽ thi triển Đoạn Lưu - Chém 1 lần, gây Sát Thương Phạm Vi Nguyên Tố Thủy. Sát thương do Đoạn Lưu - Chém gây ra được coi là sát thương kỹ năng nguyên tố, mỗi 1.5s mới có hiệu quả 1 lần.\n\nSau 30s, hoặc thi triển để hủy hiệu quả kỹ năng lần nữa, sẽ trở về trạng thái đánh xa, kỹ năng cũng sẽ vào thời gian chờ. Trạng thái cận chiến kéo dài càng lâu, thời gian chờ càng dài.\nKéo dài sau 30s sẽ tự động trở về trạng thái đánh xa, kỹ năng cũng sẽ bước vào thời gian chờ lâu hơn",
+      "description": "Để khắc phục nhược điểm dùng cung không tốt, anh đã chọn cung làm vũ khí. Nhưng khi chiến đấu thực sự, ắt sẽ lấy ra sức mạnh thực sự...",
+      "attributes": [
+        {
+          "name": "Trạng thái gây ra sát thương",
+          "parameters": [
+            "72.00%",
+            "77.40%",
+            "82.80%",
+            "90.00%",
+            "95.40%",
+            "100.80%",
+            "108.00%",
+            "115.20%",
+            "122.40%",
+            "129.60%",
+            "136.80%",
+            "144.00%",
+            "153.00%",
+            "162.00%",
+            "171.00%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "38.87%",
+            "42.04%",
+            "45.20%",
+            "49.72%",
+            "52.88%",
+            "56.50%",
+            "61.47%",
+            "66.44%",
+            "71.42%",
+            "76.84%",
+            "82.26%",
+            "87.69%",
+            "93.11%",
+            "98.54%",
+            "103.96%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "41.62%",
+            "45.01%",
+            "48.40%",
+            "53.24%",
+            "56.63%",
+            "60.50%",
+            "65.82%",
+            "71.15%",
+            "76.47%",
+            "82.28%",
+            "88.09%",
+            "93.90%",
+            "99.70%",
+            "105.51%",
+            "111.32%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "56.33%",
+            "60.91%",
+            "65.50%",
+            "72.05%",
+            "76.63%",
+            "81.88%",
+            "89.08%",
+            "96.28%",
+            "103.49%",
+            "111.35%",
+            "119.21%",
+            "127.07%",
+            "134.93%",
+            "142.79%",
+            "150.65%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "59.94%",
+            "64.82%",
+            "69.70%",
+            "76.67%",
+            "81.55%",
+            "87.12%",
+            "94.79%",
+            "102.46%",
+            "110.13%",
+            "118.49%",
+            "126.85%",
+            "135.22%",
+            "143.58%",
+            "151.95%",
+            "160.31%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 5",
+          "parameters": [
+            "55.30%",
+            "59.80%",
+            "64.30%",
+            "70.73%",
+            "75.23%",
+            "80.37%",
+            "87.45%",
+            "94.52%",
+            "101.59%",
+            "109.31%",
+            "117.03%",
+            "124.74%",
+            "132.46%",
+            "140.17%",
+            "147.89%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 6",
+          "parameters": [
+            "35.43%+37.67%",
+            "38.32%+40.73%",
+            "41.20%+43.80%",
+            "45.32%+48.18%",
+            "48.20%+51.25%",
+            "51.50%+54.75%",
+            "56.03%+59.57%",
+            "60.56%+64.39%",
+            "65.10%+69.20%",
+            "70.04%+74.46%",
+            "74.98%+79.72%",
+            "79.93%+84.97%",
+            "84.87%+90.23%",
+            "89.82%+95.48%",
+            "94.76%+100.74%"
+          ]
+        },
+        {
+          "name": "Sát Thương Trọng Kích",
+          "parameters": [
+            "60.20%+71.98%",
+            "65.10%+77.84%",
+            "70.00%+83.70%",
+            "77.00%+92.07%",
+            "81.90%+97.93%",
+            "87.50%+104.62%",
+            "95.20%+113.83%",
+            "102.90%+123.04%",
+            "110.60%+132.25%",
+            "119.00%+142.29%",
+            "127.40%+152.33%",
+            "135.80%+162.38%",
+            "144.20%+172.42%",
+            "152.60%+182.47%",
+            "161.00%+192.51%"
+          ]
+        },
+        {
+          "name": "Thể lực Trọng Kích tiêu hao",
+          "parameters": [
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm"
+          ]
+        },
+        {
+          "name": "Sát Thương Đoạn Lưu - Chém",
+          "parameters": [
+            "60.20%",
+            "65.10%",
+            "70.00%",
+            "77.00%",
+            "81.90%",
+            "87.50%",
+            "95.20%",
+            "102.90%",
+            "110.60%",
+            "119.00%",
+            "127.40%",
+            "135.80%",
+            "144.20%",
+            "152.60%",
+            "161.00%"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài Tối Đa",
+          "parameters": [
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "6 đến 36s",
+            "6 đến 36s",
+            "6 đến 36s",
+            "6 đến 36s",
+            "6 đến 36s",
+            "6 đến 36s",
+            "6 đến 36s",
+            "6 đến 36s",
+            "6 đến 36s",
+            "6 đến 36s",
+            "6 đến 36s",
+            "6 đến 36s",
+            "6 đến 36s",
+            "6 đến 36s",
+            "6 đến 36s"
+          ]
+        },
+        {
+          "name": "CD sau khi dùng hết thời gian kéo dài",
+          "parameters": [
+            "45s",
+            "45s",
+            "45s",
+            "45s",
+            "45s",
+            "45s",
+            "45s",
+            "45s",
+            "45s",
+            "45s",
+            "45s",
+            "45s",
+            "45s",
+            "45s",
+            "45s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Kỹ năng Thượng Thừa - Ánh Sáng Tận Diệt",
+      "info": "Dựa theo trạng thái hiện tại của Tartaglia, thực hiện tấn công khác nhau: \n\n**Trạng thái đánh xa - Đạn Ma**\nBắn ra mũi tên tràn đầy nguyên tố thủy về phía trước, gây Sát Thương Phạm Vi Nguyên Tố Thủy, và thi triển hiệu quả Đoạn Lưu.\nSau khi thi triển, trả lại một phần Năng Lượng Nguyên Tố.\n\n**Trạng thái cận chiến - Tận Diệt Thủy Quang**\nTrảm kích phạm vi lớn, gây Sát Thương Nguyên Tố Thủy cho tất cả địch ở gần và kích hoạt Đoạn Lưu - Nổ.\n\n**Đoạn Lưu - Nổ**\nTận Diệt Thủy Quang đánh trúng địch trong trạng thái Đoạn Lưu sẽ tiêu hao hiệu quả Đoạn Lưu và tung tóe nước, gây Sát Thương Phạm Vi Nguyên Tố Thủy. Sát thương của Đoạn Lưu - Nổ được xem như sát thương kỹ năng nộ.",
+      "description": "Dòng nước chảy vội, rất hiếm gặp trên quê hương được tuyết bao phủ của anh ấy. Có lẽ là do hiểu được sự quý giá của nó nên anh ấy có thể điều khiển nó.",
+      "attributes": [
+        {
+          "name": "Sát Thương Kỹ Năng - Cận Chiến",
+          "parameters": [
+            "464.00%",
+            "498.80%",
+            "533.60%",
+            "580.00%",
+            "614.80%",
+            "649.60%",
+            "696.00%",
+            "742.40%",
+            "788.80%",
+            "835.20%",
+            "881.60%",
+            "928.00%",
+            "986.00%",
+            "1044.00%",
+            "1102.00%"
+          ]
+        },
+        {
+          "name": "Sát Thương Kỹ Năng - Đánh Xa",
+          "parameters": [
+            "378.40%",
+            "406.78%",
+            "435.16%",
+            "473.00%",
+            "501.38%",
+            "529.76%",
+            "567.60%",
+            "605.44%",
+            "643.28%",
+            "681.12%",
+            "718.96%",
+            "756.80%",
+            "804.10%",
+            "851.40%",
+            "898.70%"
+          ]
+        },
+        {
+          "name": "Sát Thương Đoạn Lưu - Nổ",
+          "parameters": [
+            "120.00%",
+            "129.00%",
+            "138.00%",
+            "150.00%",
+            "159.00%",
+            "168.00%",
+            "180.00%",
+            "192.00%",
+            "204.00%",
+            "216.00%",
+            "228.00%",
+            "240.00%",
+            "255.00%",
+            "270.00%",
+            "285.00%"
+          ]
+        },
+        {
+          "name": "Kỹ năng trả lại năng lượng Nguyên Tố (đánh xa)",
+          "parameters": [
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Kéo Dài Bất Tận",
+      "info": "Thời gian hiệu quả Đoạn Lưu kéo dài 8 giây."
+    },
+    "passive2": {
+      "name": "Thủy Hình Kiếm",
+      "info": "Khi ở trạng thái cận chiến của **Trang Phục Ma Vương - Thủy Triều**, tấn công thường và trọng kích tạo thành bạo kích sẽ tạo ra thêm hiệu quả Đoạn Lưu cho kẻ địch bị đánh trúng."
+    },
+    "passive3": {
+      "name": "Tinh Thông Võ Thuật",
+      "info": "Tăng 1 cấp **tấn công thường** cho nhân vật của bản thân trong đội."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Tự Do\"",
+          "count": 3
+        },
+        {
+          "name": "Phù Hiệu Tân Binh",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Tự Do\"",
+          "count": 2
+        },
+        {
+          "name": "Phù Hiệu Sĩ Quan",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Tự Do\"",
+          "count": 4
+        },
+        {
+          "name": "Phù Hiệu Sĩ Quan",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Tự Do\"",
+          "count": 6
+        },
+        {
+          "name": "Phù Hiệu Sĩ Quan",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Tự Do\"",
+          "count": 9
+        },
+        {
+          "name": "Phù Hiệu Sĩ Quan",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Tự Do\"",
+          "count": 4
+        },
+        {
+          "name": "Phù Hiệu Hiệu Úy",
+          "count": 4
+        },
+        {
+          "name": "Đao Ma Vương - Mảnh Vỡ",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Tự Do\"",
+          "count": 6
+        },
+        {
+          "name": "Phù Hiệu Hiệu Úy",
+          "count": 6
+        },
+        {
+          "name": "Đao Ma Vương - Mảnh Vỡ",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Tự Do\"",
+          "count": 12
+        },
+        {
+          "name": "Phù Hiệu Hiệu Úy",
+          "count": 9
+        },
+        {
+          "name": "Đao Ma Vương - Mảnh Vỡ",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Tự Do\"",
+          "count": 16
+        },
+        {
+          "name": "Phù Hiệu Hiệu Úy",
+          "count": 12
+        },
+        {
+          "name": "Đao Ma Vương - Mảnh Vỡ",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_02",
+      "combat2": "Skill_S_Tartaglia_01",
+      "combat3": "Skill_E_Tartaglia_01_HD",
+      "passive1": "UI_Talent_S_Tartaglia_03",
+      "passive2": "UI_Talent_S_Tartaglia_06",
+      "passive3": "UI_Talent_S_Tartaglia_07"
+    },
+    "version": "1.1"
+  }
+}

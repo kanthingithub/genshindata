@@ -1,0 +1,2079 @@
+{
+  "name": "Aether",
+  "fullname": "Aether",
+  "title": "",
+  "description": "Nhà Lữ Hành lưu lạc đến đây từ thế giới khác, bị Thần cướp mất người thân, từ đó bước vào con đường đi tìm 7 vị Thần.",
+  "rarity": "5",
+  "element": "Không",
+  "weapontype": "Kiếm Đơn",
+  "substat": "Tấn Công",
+  "gender": "nam",
+  "body": "BOY",
+  "association": "MAINACTOR",
+  "region": "",
+  "affiliation": "",
+  "birthdaymmdd": "",
+  "birthday": "",
+  "constellation": "Lữ Khách",
+  "cv": {
+    "english": "Zach Aguilar & Corina Boettger",
+    "chinese": "鹿喑&多多poi",
+    "japanese": "堀江瞬&古賀葵",
+    "korean": "Lee Kyeong-tae & Kim Ka-ryoung"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vụn Kim Cương Bạc",
+        "count": 1
+      },
+      {
+        "name": "Cúc Cánh Quạt",
+        "count": 3
+      },
+      {
+        "name": "Mặt Nạ Vỡ",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Kim Cương Bạc",
+        "count": 3
+      },
+      {
+        "name": "Cúc Cánh Quạt",
+        "count": 10
+      },
+      {
+        "name": "Mặt Nạ Vỡ",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Kim Cương Bạc",
+        "count": 6
+      },
+      {
+        "name": "Cúc Cánh Quạt",
+        "count": 20
+      },
+      {
+        "name": "Mặt Nạ Bẩn",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Kim Cương Bạc",
+        "count": 3
+      },
+      {
+        "name": "Cúc Cánh Quạt",
+        "count": 30
+      },
+      {
+        "name": "Mặt Nạ Bẩn",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Kim Cương Bạc",
+        "count": 6
+      },
+      {
+        "name": "Cúc Cánh Quạt",
+        "count": 45
+      },
+      {
+        "name": "Mặt Nạ Xui Xẻo",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Kim Cương Bạc",
+        "count": 6
+      },
+      {
+        "name": "Cúc Cánh Quạt",
+        "count": 60
+      },
+      {
+        "name": "Mặt Nạ Xui Xẻo",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Character_Traveler_Thumb.png",
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Traveler_Male_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Character_Traveler_%28Male%29_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_PlayerBoy.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/762377aee992cb1dfd4e0e0a7911096d.png",
+    "nameicon": "UI_AvatarIcon_PlayerBoy",
+    "nameiconcard": "UI_AvatarIcon_PlayerBoy_Card",
+    "namesideicon": "UI_AvatarIcon_Side_PlayerBoy"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Aether"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 911.791015625,
+      "attack": 17.808000564575195,
+      "defense": 57.224998474121094,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2342.391124357935,
+      "attack": 45.74875355229187,
+      "defense": 147.01102140746116,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3023.54566537356,
+      "attack": 59.0525531815033,
+      "defense": 189.76102140746116,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4528.912435651757,
+      "attack": 88.45355827545154,
+      "defense": 284.23948155450853,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5012.890707136132,
+      "attack": 97.90625889038074,
+      "defense": 314.61448155450853,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5766.030280821957,
+      "attack": 112.61567116091919,
+      "defense": 361.8823425187111,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6411.334602111019,
+      "attack": 125.21927070925904,
+      "defense": 402.3823425187111,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7164.474175796844,
+      "attack": 139.9286829797975,
+      "defense": 449.65020348291364,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7648.452325210907,
+      "attack": 149.381384548401,
+      "defense": 480.02520348291364,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 8400.679739191197,
+      "attack": 164.07298161756898,
+      "defense": 527.2358163092613,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8884.658010675572,
+      "attack": 173.52567937147523,
+      "defense": 557.6108163092613,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9637.79714958556,
+      "attack": 188.2350831504973,
+      "defense": 604.8786499864582,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 10121.775421069935,
+      "attack": 197.68778471910082,
+      "defense": 635.2536499864582,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10874.91499475576,
+      "attack": 212.39719698963927,
+      "defense": 682.5215109506607,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellationTraveler": [
+    {
+      "c1": {
+        "name": "Gió Giận Dữ",
+        "effect": "**Kiếm Gió Lốc** có thể khiến địch và vật thể trong phạm vi 5m bị dẫn đến trước mặt nhân vật."
+      },
+      "c2": {
+        "name": "Gió Lốc Đổi Mới",
+        "effect": "Hiệu quả Nạp Nguyên Tố tăng 16%"
+      },
+      "c3": {
+        "name": "Gió Trong Trời Đất",
+        "effect": "Cấp kỹ năng **Khuấy Động Gió Tàn** +3.\nTăng tối đa đến cấp 15."
+      },
+      "c4": {
+        "name": "Ngọn Gió Bảo Vệ",
+        "effect": "Trong thời gian **Kiếm Gió Lốc** tồn tại, sát thương phải chịu sẽ giảm 10%."
+      },
+      "c5": {
+        "name": "Vòng Xoáy Sao Rơi",
+        "effect": "Cấp kỹ năng **Kiếm Gió Lốc** +3.\nTăng tối đa đến cấp 15."
+      },
+      "c6": {
+        "name": "Gió Mùa Hỗn Loạn",
+        "effect": "Những mục tiêu bị sát thương bởi **Khuấy Động Gió Tàn**, Kháng Nguyên Tố Phong giảm 20%. \nNếu sinh ra chuyển hoá nguyên tố thì kháng Nguyên Tố tương ứng cũng giảm 20%."
+      },
+      "images": {
+        "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_01.png",
+        "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_02.png",
+        "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerWind_02.png",
+        "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_03.png",
+        "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerWind_01.png",
+        "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_04.png",
+        "constellation": "Eff_UI_Talent_PlayerBoy_Wind",
+        "constellation2": "Eff_UI_Talent_PlayerGirl_Wind"
+      },
+      "version": "1.0"
+    },
+    {
+      "c1": {
+        "name": "Sấm Sét Bội Thu",
+        "effect": "Số lượng Khuyết Ngọc Dậy Sóng có thể sinh ra khi thi triển **Lôi Ảnh Kiếm** tăng đến 3."
+      },
+      "c2": {
+        "name": "Như Sấm Thịnh Nộ",
+        "effect": "Sau khi Sấm Sét Uy Vũ của **Xung Điện Sấm Rền** đánh trúng địch, sẽ làm giảm 15% Kháng Nguyên Tố Lôi của địch, duy trì 8s."
+      },
+      "c3": {
+        "name": "Sấm Chớp Liên Miên",
+        "effect": "Cấp kỹ năng **Xung Điện Sấm Rền** +3.\nTăng tối đa đến cấp 15."
+      },
+      "c4": {
+        "name": "Mây Sét Khó Lường",
+        "effect": "Khi nhân vật nhận được Khuyết Ngọc Dậy Sóng sinh ra từ **Lôi Ảnh Kiếm**, nếu Năng Lượng Nguyên Tố hiện tại của nhân vật này dưới 35%, thì Năng Lượng Nguyên Tố mà Khuyết Ngọc Dậy Sóng hồi phục sẽ tăng 100%."
+      },
+      "c5": {
+        "name": "Tiếng Sấm Giữa Đồng Hoang",
+        "effect": "Cấp kỹ năng **Lôi Ảnh Kiếm** +3.\nTăng tối đa đến cấp 15."
+      },
+      "c6": {
+        "name": "Thần Lôi Chấn Thế",
+        "effect": "Mỗi khi **Xung Điện Sấm Rền** tạo ra 2 lần Sấm Sét Uy Vũ, thì Sấm Sét Uy Vũ lần sau sẽ gây 200% sát thương so với ban đầu, đồng thời hồi thêm 1 điểm Năng Lượng Nguyên Tố cho nhân vật hiện tại."
+      },
+      "images": {
+        "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_01.png",
+        "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_02.png",
+        "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerElectric_01.png",
+        "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_03.png",
+        "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerElectric_02.png",
+        "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_04.png",
+        "constellation": "Eff_UI_Talent_PlayerBoy_Electric",
+        "constellation2": "Eff_UI_Talent_PlayerGirl_Electric"
+      },
+      "version": "2.0"
+    },
+    {
+      "c1": {
+        "name": "Đá Xanh Cao Ngất",
+        "effect": "Khi nhân vật trong đội được bao quanh bởi các ngọn núi của **Sóng Đá Trùng Điệp**, tỷ lệ bạo kích tăng 10%, đồng thời tăng khả năng kháng gián đoạn."
+      },
+      "c2": {
+        "name": "Dung Nham Bất Ổn",
+        "effect": "Khi thiên thạch **Kiếm Sao Băng** bị phá hủy sẽ nổ thêm lần nữa, gây thêm sát thương phạm vi Nguyên Tố Nham bằng với sát thương của Kiếm Sao Băng."
+      },
+      "c3": {
+        "name": "Đá Bát Giác",
+        "effect": "Cấp kỹ năng **Sóng Đá Trùng Điệp** +3.\nTăng tối đa đến cấp 15."
+      },
+      "c4": {
+        "name": "Đá Nặng Nguy Hiểm",
+        "effect": "**Sóng Đá Trùng Điệp** dẫn phát sóng chấn động đánh trúng mỗi kẻ địch đều sẽ hồi phục 5 điểm năng lượng Nguyên Tố.\nBằng cách này, mỗi lần có thể hồi phục tối đa 25 điểm năng lượng Nguyên Tố."
+      },
+      "c5": {
+        "name": "Thiên Thạch",
+        "effect": "Cấp kỹ năng **Kiếm Sao Băng** +3.\nTăng tối đa đến cấp 15."
+      },
+      "c6": {
+        "name": "Bàn Nham Vĩnh Cửu",
+        "effect": "Núi đá của **Sóng Đá Trùng Điệp** có thời gian kéo dài 5s;\nThiên thạch của **Kiếm Sao Băng** có thời gian kéo dài 10s."
+      },
+      "images": {
+        "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_01.png",
+        "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_02.png",
+        "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerRock_02.png",
+        "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_03.png",
+        "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerRock_01.png",
+        "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_04.png",
+        "constellation": "Eff_UI_Talent_PlayerBoy_Rock",
+        "constellation2": "Eff_UI_Talent_PlayerGirl_Rock"
+      },
+      "version": "1.0"
+    }
+  ],
+  "talentTraveler": [
+    {
+      "name": "Nhà Lữ Hành (Phong)",
+      "combat1": {
+        "name": "Tấn Công Thường: Gió Sắt Nơi Xa",
+        "info": "**Tấn Công Thường**\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\n\n**Trọng Kích**\nTiêu hao thể lực nhất định, đánh ra hai kiếm về phía trước trong chớp mắt.\n\n**Tấn Công Khi Đáp**\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
+        "attributes": [
+          {
+            "name": "Sát Thương Lần 1",
+            "parameters": [
+              "44.46%",
+              "48.08%",
+              "51.70%",
+              "56.87%",
+              "60.49%",
+              "64.63%",
+              "70.31%",
+              "76.00%",
+              "81.69%",
+              "87.89%",
+              "94.09%",
+              "100.30%",
+              "106.50%",
+              "112.71%",
+              "118.91%"
+            ]
+          },
+          {
+            "name": "Sát Thương Lần 2",
+            "parameters": [
+              "43.43%",
+              "46.97%",
+              "50.50%",
+              "55.55%",
+              "59.08%",
+              "63.13%",
+              "68.68%",
+              "74.23%",
+              "79.79%",
+              "85.85%",
+              "91.91%",
+              "97.97%",
+              "104.03%",
+              "110.09%",
+              "116.15%"
+            ]
+          },
+          {
+            "name": "Sát Thương Lần 3",
+            "parameters": [
+              "52.98%",
+              "57.29%",
+              "61.60%",
+              "67.76%",
+              "72.07%",
+              "77.00%",
+              "83.78%",
+              "90.55%",
+              "97.33%",
+              "104.72%",
+              "112.11%",
+              "119.50%",
+              "126.90%",
+              "134.29%",
+              "141.68%"
+            ]
+          },
+          {
+            "name": "Sát Thương Lần 4",
+            "parameters": [
+              "58.31%",
+              "63.05%",
+              "67.80%",
+              "74.58%",
+              "79.33%",
+              "84.75%",
+              "92.21%",
+              "99.67%",
+              "107.12%",
+              "115.26%",
+              "123.40%",
+              "131.53%",
+              "139.67%",
+              "147.80%",
+              "155.94%"
+            ]
+          },
+          {
+            "name": "Sát Thương Lần 5",
+            "parameters": [
+              "70.78%",
+              "76.54%",
+              "82.30%",
+              "90.53%",
+              "96.29%",
+              "102.87%",
+              "111.93%",
+              "120.98%",
+              "130.03%",
+              "139.91%",
+              "149.79%",
+              "159.66%",
+              "169.54%",
+              "179.41%",
+              "189.29%"
+            ]
+          },
+          {
+            "name": "Sát Thương Trọng Kích",
+            "parameters": [
+              "55.90%+72.24%",
+              "60.45%+78.12%",
+              "65.00%+84.00%",
+              "71.50%+92.40%",
+              "76.05%+98.28%",
+              "81.25%+105.00%",
+              "88.40%+114.24%",
+              "95.55%+123.48%",
+              "102.70%+132.72%",
+              "110.50%+142.80%",
+              "118.30%+152.88%",
+              "126.10%+162.96%",
+              "133.90%+173.04%",
+              "141.70%+183.12%",
+              "149.50%+193.20%"
+            ]
+          },
+          {
+            "name": "Thể lực Trọng Kích tiêu hao",
+            "parameters": [
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm"
+            ]
+          },
+          {
+            "name": "Sát Thương Khi Đáp",
+            "parameters": [
+              "63.93%",
+              "69.14%",
+              "74.34%",
+              "81.77%",
+              "86.98%",
+              "92.93%",
+              "101.10%",
+              "109.28%",
+              "117.46%",
+              "126.38%",
+              "135.30%",
+              "144.22%",
+              "153.14%",
+              "162.06%",
+              "170.98%"
+            ]
+          },
+          {
+            "name": "ST Khi Rơi Từ Độ Cao Thấp/Cao",
+            "parameters": [
+              "127.84%/159.68%",
+              "138.24%/172.67%",
+              "148.65%/185.67%",
+              "163.51%/204.24%",
+              "173.92%/217.23%",
+              "185.81%/232.09%",
+              "202.16%/252.51%",
+              "218.51%/272.93%",
+              "234.86%/293.36%",
+              "252.70%/315.64%",
+              "270.54%/337.92%",
+              "288.38%/360.20%",
+              "306.22%/382.48%",
+              "324.05%/404.76%",
+              "341.89%/427.04%"
+            ]
+          }
+        ]
+      },
+      "combat2": {
+        "name": "Kiếm Gió Lốc",
+        "info": "Nắm giữ sức mạnh của gió, trong tay hội tụ xoáy chân không, gây cho địch phía trước Sát Thương Nguyên Tố Phong liên tục.\nKhi kỹ năng kết thúc, xoáy chân không sẽ nổ, gây Sát Thương Nguyên Tố Phong ở phạm vi lớn hơn và uy lực mạnh hơn.\n\n**Nhấn Giữ**\nSát thương và phạm vi ảnh hưởng sẽ tăng dần.\n\n**Chuyển hóa nguyên tố**\nNếu trong thời gian duy trì xoáy chân không có tiếp xúc Nguyên Tố Thủy/Nguyên Tố Hỏa/Nguyên Tố Băng/Nguyên Tố Lôi, thì sẽ nhận được thuộc tính nguyên tố tương ứng, gây thêm sát thương kèm theo của nguyên tố đó.\nChuyển hóa nguyên tố chỉ phát sinh một lần trong thời gian duy trì kỹ năng.",
+        "description": "Thảo luận với Paimon cách để nắm bắt ngọn gió vô hình.",
+        "attributes": [
+          {
+            "name": "Sát Thương Cắt Ban Đầu",
+            "parameters": [
+              "12.00%",
+              "12.90%",
+              "13.80%",
+              "15.00%",
+              "15.90%",
+              "16.80%",
+              "18.00%",
+              "19.20%",
+              "20.40%",
+              "21.60%",
+              "22.80%",
+              "24.00%",
+              "25.50%",
+              "27.00%",
+              "28.50%"
+            ]
+          },
+          {
+            "name": "Sát Thương Cắt Lớn Nhất",
+            "parameters": [
+              "16.80%",
+              "18.06%",
+              "19.32%",
+              "21.00%",
+              "22.26%",
+              "23.52%",
+              "25.20%",
+              "26.88%",
+              "28.56%",
+              "30.24%",
+              "31.92%",
+              "33.60%",
+              "35.70%",
+              "37.80%",
+              "39.90%"
+            ]
+          },
+          {
+            "name": "ST Bạo Phong Ban Đầu",
+            "parameters": [
+              "176.00%",
+              "189.20%",
+              "202.40%",
+              "220.00%",
+              "233.20%",
+              "246.40%",
+              "264.00%",
+              "281.60%",
+              "299.20%",
+              "316.80%",
+              "334.40%",
+              "352.00%",
+              "374.00%",
+              "396.00%",
+              "418.00%"
+            ]
+          },
+          {
+            "name": "ST Bạo Phong Lớn Nhất",
+            "parameters": [
+              "192.00%",
+              "206.40%",
+              "220.80%",
+              "240.00%",
+              "254.40%",
+              "268.80%",
+              "288.00%",
+              "307.20%",
+              "326.40%",
+              "345.60%",
+              "364.80%",
+              "384.00%",
+              "408.00%",
+              "432.00%",
+              "456.00%"
+            ]
+          },
+          {
+            "name": "CD Căn Bản",
+            "parameters": [
+              "5s",
+              "5s",
+              "5s",
+              "5s",
+              "5s",
+              "5s",
+              "5s",
+              "5s",
+              "5s",
+              "5s",
+              "5s",
+              "5s",
+              "5s",
+              "5s",
+              "5s"
+            ]
+          },
+          {
+            "name": "CD Tụ Lực Tối Đa",
+            "parameters": [
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s"
+            ]
+          }
+        ]
+      },
+      "combat3": {
+        "name": "Khuấy Động Gió Tàn",
+        "info": "Gió dẫn ra con đường, triệu hồi lốc xoáy về phía trước, cuốn vật thể và địch bên đường vào, duy trì gây Sát Thương Nguyên Tố Phong.\n\n**Chuyển hóa nguyên tố**\nNếu trong thời gian duy trì kỹ năng lốc xoáy có tiếp xúc Nguyên Tố Thủy/Nguyên Tố Hỏa/Nguyên Tố Băng/Nguyên Tố Lôi, sẽ nhận được thuộc tính nguyên tố tương ứng, gây thêm sát thương kèm theo của nguyên tố đó.\nLoại chuyển hóa này chỉ phát sinh một lần trong thời gian duy trì kỹ năng.",
+        "description": "Cùng Paimon nghiên cứu cách vỗ cánh của bướm.",
+        "attributes": [
+          {
+            "name": "Sát Thương Gió Lốc",
+            "parameters": [
+              "80.80%",
+              "86.86%",
+              "92.92%",
+              "101.00%",
+              "107.06%",
+              "113.12%",
+              "121.20%",
+              "129.28%",
+              "137.36%",
+              "145.44%",
+              "153.52%",
+              "161.60%",
+              "171.70%",
+              "181.80%",
+              "191.90%"
+            ]
+          },
+          {
+            "name": "Sát Thương Nguyên Tố Kèm Theo",
+            "parameters": [
+              "24.80%",
+              "26.66%",
+              "28.52%",
+              "31.00%",
+              "32.86%",
+              "34.72%",
+              "37.20%",
+              "39.68%",
+              "42.16%",
+              "44.64%",
+              "47.12%",
+              "49.60%",
+              "52.70%",
+              "55.80%",
+              "58.90%"
+            ]
+          },
+          {
+            "name": "Thời Gian Kéo Dài",
+            "parameters": [
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s"
+            ]
+          },
+          {
+            "name": "CD",
+            "parameters": [
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s"
+            ]
+          },
+          {
+            "name": "Năng Lượng Nguyên Tố",
+            "parameters": [
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60"
+            ]
+          }
+        ]
+      },
+      "passive1": {
+        "name": "Ngọn Gió Xé Trời",
+        "info": "Chiêu cuối trong tấn công thường sẽ phóng ra 1 đạo phong đao, gây sát thương Nguyên Tố Phong với lực tấn công 60% cho địch trên đường đi."
+      },
+      "passive2": {
+        "name": "Gió Phục Sinh",
+        "info": "Trong 5s sau khi dùng **Kiếm Gió Lốc** đánh bại địch, mỗi giây hồi 2% HP.\nHiệu quả này mỗi 5s chỉ được dùng 1 lần."
+      },
+      "costs": {
+        "lvl2": [
+          {
+            "name": "Mora",
+            "count": 12500
+          },
+          {
+            "name": "Bài Giảng Của \"Tự Do\"",
+            "count": 3
+          },
+          {
+            "name": "Bản Vẽ Hướng Dẫn",
+            "count": 6
+          }
+        ],
+        "lvl3": [
+          {
+            "name": "Mora",
+            "count": 17500
+          },
+          {
+            "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+            "count": 2
+          },
+          {
+            "name": "Bản Vẽ Phong Ấn",
+            "count": 3
+          }
+        ],
+        "lvl4": [
+          {
+            "name": "Mora",
+            "count": 25000
+          },
+          {
+            "name": "Hướng Dẫn Của \"Thơ Văn\"",
+            "count": 4
+          },
+          {
+            "name": "Bản Vẽ Phong Ấn",
+            "count": 4
+          }
+        ],
+        "lvl5": [
+          {
+            "name": "Mora",
+            "count": 30000
+          },
+          {
+            "name": "Hướng Dẫn Của \"Tự Do\"",
+            "count": 6
+          },
+          {
+            "name": "Bản Vẽ Phong Ấn",
+            "count": 6
+          }
+        ],
+        "lvl6": [
+          {
+            "name": "Mora",
+            "count": 37500
+          },
+          {
+            "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+            "count": 9
+          },
+          {
+            "name": "Bản Vẽ Phong Ấn",
+            "count": 9
+          }
+        ],
+        "lvl7": [
+          {
+            "name": "Mora",
+            "count": 120000
+          },
+          {
+            "name": "Triết Học Của \"Thơ Văn\"",
+            "count": 4
+          },
+          {
+            "name": "Bản Vẽ Cấm Chú",
+            "count": 4
+          },
+          {
+            "name": "Hơi Thở Đông Phong",
+            "count": 1
+          }
+        ],
+        "lvl8": [
+          {
+            "name": "Mora",
+            "count": 260000
+          },
+          {
+            "name": "Triết Học Của \"Tự Do\"",
+            "count": 6
+          },
+          {
+            "name": "Bản Vẽ Cấm Chú",
+            "count": 6
+          },
+          {
+            "name": "Hơi Thở Đông Phong",
+            "count": 1
+          }
+        ],
+        "lvl9": [
+          {
+            "name": "Mora",
+            "count": 450000
+          },
+          {
+            "name": "Triết Học Của \"Kháng Chiến\"",
+            "count": 12
+          },
+          {
+            "name": "Bản Vẽ Cấm Chú",
+            "count": 9
+          },
+          {
+            "name": "Hơi Thở Đông Phong",
+            "count": 2
+          }
+        ],
+        "lvl10": [
+          {
+            "name": "Mora",
+            "count": 700000
+          },
+          {
+            "name": "Triết Học Của \"Thơ Văn\"",
+            "count": 16
+          },
+          {
+            "name": "Bản Vẽ Cấm Chú",
+            "count": 12
+          },
+          {
+            "name": "Hơi Thở Đông Phong",
+            "count": 2
+          },
+          {
+            "name": "Vương Miện Trí Thức",
+            "count": 1
+          }
+        ]
+      },
+      "images": {
+        "combat1": "Skill_A_01",
+        "combat2": "Skill_S_PlayerWind_01",
+        "combat3": "Skill_E_PlayerWind_01_HD",
+        "passive1": "UI_Talent_S_PlayerWind_05",
+        "passive2": "UI_Talent_S_PlayerWind_06"
+      },
+      "version": "1.0"
+    },
+    {
+      "name": "Nhà Lữ Hành (Lôi)",
+      "combat1": {
+        "name": "Tấn Công Thường - Tiếng Sấm Dị Bang",
+        "info": "**Tấn Công Thường**\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\n\n**Trọng Kích**\nTiêu hao thể lực nhất định, đánh ra hai kiếm về phía trước trong chớp mắt.\n\n**Tấn Công Khi Đáp**\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
+        "attributes": [
+          {
+            "name": "Sát Thương Lần 1",
+            "parameters": [
+              "44.46%",
+              "48.08%",
+              "51.70%",
+              "56.87%",
+              "60.49%",
+              "64.63%",
+              "70.31%",
+              "76.00%",
+              "81.69%",
+              "87.89%",
+              "94.09%",
+              "100.30%",
+              "106.50%",
+              "112.71%",
+              "118.91%"
+            ]
+          },
+          {
+            "name": "Sát Thương Lần 2",
+            "parameters": [
+              "43.43%",
+              "46.97%",
+              "50.50%",
+              "55.55%",
+              "59.08%",
+              "63.13%",
+              "68.68%",
+              "74.23%",
+              "79.79%",
+              "85.85%",
+              "91.91%",
+              "97.97%",
+              "104.03%",
+              "110.09%",
+              "116.15%"
+            ]
+          },
+          {
+            "name": "Sát Thương Lần 3",
+            "parameters": [
+              "52.98%",
+              "57.29%",
+              "61.60%",
+              "67.76%",
+              "72.07%",
+              "77.00%",
+              "83.78%",
+              "90.55%",
+              "97.33%",
+              "104.72%",
+              "112.11%",
+              "119.50%",
+              "126.90%",
+              "134.29%",
+              "141.68%"
+            ]
+          },
+          {
+            "name": "Sát Thương Lần 4",
+            "parameters": [
+              "58.31%",
+              "63.05%",
+              "67.80%",
+              "74.58%",
+              "79.33%",
+              "84.75%",
+              "92.21%",
+              "99.67%",
+              "107.12%",
+              "115.26%",
+              "123.40%",
+              "131.53%",
+              "139.67%",
+              "147.80%",
+              "155.94%"
+            ]
+          },
+          {
+            "name": "Sát Thương Lần 5",
+            "parameters": [
+              "70.78%",
+              "76.54%",
+              "82.30%",
+              "90.53%",
+              "96.29%",
+              "102.87%",
+              "111.93%",
+              "120.98%",
+              "130.03%",
+              "139.91%",
+              "149.79%",
+              "159.66%",
+              "169.54%",
+              "179.41%",
+              "189.29%"
+            ]
+          },
+          {
+            "name": "Sát Thương Trọng Kích",
+            "parameters": [
+              "55.90%+72.24%",
+              "60.45%+78.12%",
+              "65.00%+84.00%",
+              "71.50%+92.40%",
+              "76.05%+98.28%",
+              "81.25%+105.00%",
+              "88.40%+114.24%",
+              "95.55%+123.48%",
+              "102.70%+132.72%",
+              "110.50%+142.80%",
+              "118.30%+152.88%",
+              "126.10%+162.96%",
+              "133.90%+173.04%",
+              "141.70%+183.12%",
+              "149.50%+193.20%"
+            ]
+          },
+          {
+            "name": "Thể lực Trọng Kích tiêu hao",
+            "parameters": [
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm"
+            ]
+          },
+          {
+            "name": "Sát Thương Khi Đáp",
+            "parameters": [
+              "63.93%",
+              "69.14%",
+              "74.34%",
+              "81.77%",
+              "86.98%",
+              "92.93%",
+              "101.10%",
+              "109.28%",
+              "117.46%",
+              "126.38%",
+              "135.30%",
+              "144.22%",
+              "153.14%",
+              "162.06%",
+              "170.98%"
+            ]
+          },
+          {
+            "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+            "parameters": [
+              "127.84%/159.68%",
+              "138.24%/172.67%",
+              "148.65%/185.67%",
+              "163.51%/204.24%",
+              "173.92%/217.23%",
+              "185.81%/232.09%",
+              "202.16%/252.51%",
+              "218.51%/272.93%",
+              "234.86%/293.36%",
+              "252.70%/315.64%",
+              "270.54%/337.92%",
+              "288.38%/360.20%",
+              "306.22%/382.48%",
+              "324.05%/404.76%",
+              "341.89%/427.04%"
+            ]
+          }
+        ]
+      },
+      "combat2": {
+        "name": "Lôi Ảnh Kiếm",
+        "info": "Chém ra ba đường lôi ảnh chớp nhoáng. Lôi ảnh sẽ gây cho địch sát thương Nguyên Tố Lôi, đồng thời khi đánh trúng địch sẽ để lại Khuyết Ngọc Dậy Sóng.\nBan đầu sẽ sinh ra tối đa 2 Khuyết Ngọc Dậy Sóng. Khi thi triển kỹ năng sẽ xóa bỏ Khuyết Ngọc Dậy Sóng của bản thân.\n\n**Khuyết Ngọc Dậy Sóng**\nKhi nhân vật đến gần sẽ hấp thụ Khuyết Ngọc Dậy Sóng, nhận hiệu quả sau đây:\n·Hồi Năng Lượng Nguyên Tố;\n·Trong thời gian duy trì, tăng hiệu suất Nạp Nguyên Tố.",
+        "description": "Thảo luận với Paimon về tất cả những con đường mà dòng điện có thể đi qua.",
+        "attributes": [
+          {
+            "name": "Sát Thương Kỹ Năng",
+            "parameters": [
+              "78.66%",
+              "84.56%",
+              "90.46%",
+              "98.33%",
+              "104.23%",
+              "110.13%",
+              "118.00%",
+              "125.86%",
+              "133.73%",
+              "141.60%",
+              "149.46%",
+              "157.33%",
+              "167.16%",
+              "176.99%",
+              "186.83%"
+            ]
+          },
+          {
+            "name": "Hồi Phục Năng Lượng Nguyên Tố",
+            "parameters": [
+              "Mỗi cái 3 điểm",
+              "Mỗi cái 3 điểm",
+              "Mỗi cái 3 điểm",
+              "Mỗi cái 3.5 điểm",
+              "Mỗi cái 3.5 điểm",
+              "Mỗi cái 3.5 điểm",
+              "Mỗi cái 4 điểm",
+              "Mỗi cái 4 điểm",
+              "Mỗi cái 4 điểm",
+              "Mỗi cái 4 điểm",
+              "Mỗi cái 4 điểm",
+              "Mỗi cái 4 điểm",
+              "Mỗi cái 4 điểm",
+              "Mỗi cái 4 điểm",
+              "Mỗi cái 4 điểm"
+            ]
+          },
+          {
+            "name": "Tăng Hiệu Quả Nạp Nguyên Tố",
+            "parameters": [
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%"
+            ]
+          },
+          {
+            "name": "Thời Gian Kéo Dài",
+            "parameters": [
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s"
+            ]
+          },
+          {
+            "name": "Thời Gian Khuyết Ngọc Dậy Sóng Tồn Tại",
+            "parameters": [
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s"
+            ]
+          },
+          {
+            "name": "CD",
+            "parameters": [
+              "13.5s",
+              "13.5s",
+              "13.5s",
+              "13.5s",
+              "13.5s",
+              "13.5s",
+              "13.5s",
+              "13.5s",
+              "13.5s",
+              "13.5s",
+              "13.5s",
+              "13.5s",
+              "13.5s",
+              "13.5s",
+              "13.5s"
+            ]
+          }
+        ]
+      },
+      "combat3": {
+        "name": "Xung Điện Sấm Rền",
+        "info": "Kêu gọi sự bảo vệ của sấm sét, đánh lui kẻ địch xung quanh và gây sát thương Nguyên Tố Lôi.\n\n**Sấm Sét Bao Vây**\nKhi tấn công thường hoặc trọng kích của nhân vật trong trận đánh trúng địch sẽ triệu hồi Sấm Sét Uy Vũ gây sát thương Nguyên Tố Lôi cho địch.\nKhi Sấm Sét Uy Vũ đánh trúng địch sẽ hồi Năng Lượng Nguyên Tố cho nhân vật này.\nMỗi 0.5s tối đa sinh ra Sấm Sét Uy Vũ 1 lần.",
+        "description": "Cùng Paimon nghiên cứu về ánh sáng xuyên qua những đám mây.",
+        "attributes": [
+          {
+            "name": "Sát Thương Kỹ Năng",
+            "parameters": [
+              "114.40%",
+              "122.98%",
+              "131.56%",
+              "143.00%",
+              "151.58%",
+              "160.16%",
+              "171.60%",
+              "183.04%",
+              "194.48%",
+              "205.92%",
+              "217.36%",
+              "228.80%",
+              "243.10%",
+              "257.40%",
+              "271.70%"
+            ]
+          },
+          {
+            "name": "Sát thương Sấm Sét Uy Vũ",
+            "parameters": [
+              "32.80%",
+              "35.26%",
+              "37.72%",
+              "41.00%",
+              "43.46%",
+              "45.92%",
+              "49.20%",
+              "52.48%",
+              "55.76%",
+              "59.04%",
+              "62.32%",
+              "65.60%",
+              "69.70%",
+              "73.80%",
+              "77.90%"
+            ]
+          },
+          {
+            "name": "Hồi Phục Năng Lượng Nguyên Tố",
+            "parameters": [
+              "0.800000011920929",
+              "0.800000011920929",
+              "0.800000011920929",
+              "0.8999999761581421",
+              "0.8999999761581421",
+              "0.8999999761581421",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1"
+            ]
+          },
+          {
+            "name": "Thời Gian Kéo Dài",
+            "parameters": [
+              "12s",
+              "12s",
+              "12s",
+              "12s",
+              "12s",
+              "12s",
+              "12s",
+              "12s",
+              "12s",
+              "12s",
+              "12s",
+              "12s",
+              "12s",
+              "12s",
+              "12s"
+            ]
+          },
+          {
+            "name": "CD",
+            "parameters": [
+              "20s",
+              "20s",
+              "20s",
+              "20s",
+              "20s",
+              "20s",
+              "20s",
+              "20s",
+              "20s",
+              "20s",
+              "20s",
+              "20s",
+              "20s",
+              "20s",
+              "20s"
+            ]
+          },
+          {
+            "name": "Năng Lượng Nguyên Tố",
+            "parameters": [
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80"
+            ]
+          }
+        ]
+      },
+      "passive1": {
+        "name": "Tia Chớp",
+        "info": "Khi các nhân vật khác trong đội nhận Khuyết Ngọc Dậy Sóng do **Lôi Ảnh Kiếm** sinh ra, CD của **Lôi Ảnh Kiếm** sẽ giảm 1.5s."
+      },
+      "passive2": {
+        "name": "Sấm Rền",
+        "info": "Tăng hiệu quả Nạp Nguyên Tố do Khuyết Ngọc Dậy Sóng của **Lôi Ảnh Kiếm** cung cấp theo 10% hiệu quả Nạp Nguyên Tố của Nhà Lữ Hành."
+      },
+      "costs": {
+        "lvl2": [
+          {
+            "name": "Mora",
+            "count": 12500
+          },
+          {
+            "name": "Bài Giảng Của \"Phù Thế\"",
+            "count": 3
+          },
+          {
+            "name": "Kiếm Cách Cũ Nát",
+            "count": 6
+          }
+        ],
+        "lvl3": [
+          {
+            "name": "Mora",
+            "count": 17500
+          },
+          {
+            "name": "Hướng Dẫn Của \"Nhã Nhặn\"",
+            "count": 2
+          },
+          {
+            "name": "Kiếm Cách Bản Sao",
+            "count": 3
+          }
+        ],
+        "lvl4": [
+          {
+            "name": "Mora",
+            "count": 25000
+          },
+          {
+            "name": "Hướng Dẫn Của \"Ánh Sáng\"",
+            "count": 4
+          },
+          {
+            "name": "Kiếm Cách Bản Sao",
+            "count": 4
+          }
+        ],
+        "lvl5": [
+          {
+            "name": "Mora",
+            "count": 30000
+          },
+          {
+            "name": "Hướng Dẫn Của \"Phù Thế\"",
+            "count": 6
+          },
+          {
+            "name": "Kiếm Cách Bản Sao",
+            "count": 6
+          }
+        ],
+        "lvl6": [
+          {
+            "name": "Mora",
+            "count": 37500
+          },
+          {
+            "name": "Hướng Dẫn Của \"Nhã Nhặn\"",
+            "count": 9
+          },
+          {
+            "name": "Kiếm Cách Bản Sao",
+            "count": 9
+          }
+        ],
+        "lvl7": [
+          {
+            "name": "Mora",
+            "count": 120000
+          },
+          {
+            "name": "Triết Học Của \"Ánh Sáng\"",
+            "count": 4
+          },
+          {
+            "name": "Kiếm Cách Trứ Danh",
+            "count": 4
+          },
+          {
+            "name": "Vương Miện Vua Rồng",
+            "count": 1
+          }
+        ],
+        "lvl8": [
+          {
+            "name": "Mora",
+            "count": 260000
+          },
+          {
+            "name": "Triết Học Của \"Phù Thế\"",
+            "count": 6
+          },
+          {
+            "name": "Kiếm Cách Trứ Danh",
+            "count": 6
+          },
+          {
+            "name": "Vương Miện Vua Rồng",
+            "count": 1
+          }
+        ],
+        "lvl9": [
+          {
+            "name": "Mora",
+            "count": 450000
+          },
+          {
+            "name": "Triết Học Của \"Nhã Nhặn\"",
+            "count": 12
+          },
+          {
+            "name": "Kiếm Cách Trứ Danh",
+            "count": 9
+          },
+          {
+            "name": "Vương Miện Vua Rồng",
+            "count": 2
+          }
+        ],
+        "lvl10": [
+          {
+            "name": "Mora",
+            "count": 700000
+          },
+          {
+            "name": "Triết Học Của \"Ánh Sáng\"",
+            "count": 16
+          },
+          {
+            "name": "Kiếm Cách Trứ Danh",
+            "count": 12
+          },
+          {
+            "name": "Vương Miện Vua Rồng",
+            "count": 2
+          },
+          {
+            "name": "Vương Miện Trí Thức",
+            "count": 1
+          }
+        ]
+      },
+      "images": {
+        "combat1": "Skill_A_01",
+        "combat2": "Skill_S_PlayerElectric_01",
+        "combat3": "Skill_E_PlayerElectric_01_HD",
+        "passive1": "UI_Talent_S_PlayerElectric_05",
+        "passive2": "UI_Talent_S_PlayerElectric_06"
+      },
+      "version": "2.0"
+    },
+    {
+      "name": "Nhà Lữ Hành (Nham)",
+      "combat1": {
+        "name": "Tấn Công Thường: Đỉnh Núi Đá",
+        "info": "**Tấn Công Thường**\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\n\n**Trọng Kích**\nTiêu hao thể lực nhất định, đánh ra hai kiếm về phía trước trong chớp mắt.\n\n**Tấn Công Khi Đáp**\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
+        "attributes": [
+          {
+            "name": "Sát Thương Lần 1",
+            "parameters": [
+              "44.46%",
+              "48.08%",
+              "51.70%",
+              "56.87%",
+              "60.49%",
+              "64.63%",
+              "70.31%",
+              "76.00%",
+              "81.69%",
+              "87.89%",
+              "94.09%",
+              "100.30%",
+              "106.50%",
+              "112.71%",
+              "118.91%"
+            ]
+          },
+          {
+            "name": "Sát Thương Lần 2",
+            "parameters": [
+              "43.43%",
+              "46.97%",
+              "50.50%",
+              "55.55%",
+              "59.08%",
+              "63.13%",
+              "68.68%",
+              "74.23%",
+              "79.79%",
+              "85.85%",
+              "91.91%",
+              "97.97%",
+              "104.03%",
+              "110.09%",
+              "116.15%"
+            ]
+          },
+          {
+            "name": "Sát Thương Lần 3",
+            "parameters": [
+              "52.98%",
+              "57.29%",
+              "61.60%",
+              "67.76%",
+              "72.07%",
+              "77.00%",
+              "83.78%",
+              "90.55%",
+              "97.33%",
+              "104.72%",
+              "112.11%",
+              "119.50%",
+              "126.90%",
+              "134.29%",
+              "141.68%"
+            ]
+          },
+          {
+            "name": "Sát Thương Lần 4",
+            "parameters": [
+              "58.31%",
+              "63.05%",
+              "67.80%",
+              "74.58%",
+              "79.33%",
+              "84.75%",
+              "92.21%",
+              "99.67%",
+              "107.12%",
+              "115.26%",
+              "123.40%",
+              "131.53%",
+              "139.67%",
+              "147.80%",
+              "155.94%"
+            ]
+          },
+          {
+            "name": "Sát Thương Lần 5",
+            "parameters": [
+              "70.78%",
+              "76.54%",
+              "82.30%",
+              "90.53%",
+              "96.29%",
+              "102.87%",
+              "111.93%",
+              "120.98%",
+              "130.03%",
+              "139.91%",
+              "149.79%",
+              "159.66%",
+              "169.54%",
+              "179.41%",
+              "189.29%"
+            ]
+          },
+          {
+            "name": "Sát Thương Trọng Kích",
+            "parameters": [
+              "55.90%+72.24%",
+              "60.45%+78.12%",
+              "65.00%+84.00%",
+              "71.50%+92.40%",
+              "76.05%+98.28%",
+              "81.25%+105.00%",
+              "88.40%+114.24%",
+              "95.55%+123.48%",
+              "102.70%+132.72%",
+              "110.50%+142.80%",
+              "118.30%+152.88%",
+              "126.10%+162.96%",
+              "133.90%+173.04%",
+              "141.70%+183.12%",
+              "149.50%+193.20%"
+            ]
+          },
+          {
+            "name": "Thể lực Trọng Kích tiêu hao",
+            "parameters": [
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm",
+              "20 điểm"
+            ]
+          },
+          {
+            "name": "Sát Thương Khi Đáp",
+            "parameters": [
+              "63.93%",
+              "69.14%",
+              "74.34%",
+              "81.77%",
+              "86.98%",
+              "92.93%",
+              "101.10%",
+              "109.28%",
+              "117.46%",
+              "126.38%",
+              "135.30%",
+              "144.22%",
+              "153.14%",
+              "162.06%",
+              "170.98%"
+            ]
+          },
+          {
+            "name": "ST Khi Rơi Từ Độ Cao Thấp/Cao",
+            "parameters": [
+              "127.84%/159.68%",
+              "138.24%/172.67%",
+              "148.65%/185.67%",
+              "163.51%/204.24%",
+              "173.92%/217.23%",
+              "185.81%/232.09%",
+              "202.16%/252.51%",
+              "218.51%/272.93%",
+              "234.86%/293.36%",
+              "252.70%/315.64%",
+              "270.54%/337.92%",
+              "288.38%/360.20%",
+              "306.22%/382.48%",
+              "324.05%/404.76%",
+              "341.89%/427.04%"
+            ]
+          }
+        ]
+      },
+      "combat2": {
+        "name": "Kiếm Sao Băng",
+        "info": "Sao băng bay lên từ sâu trong lòng đất, kích hoạt nổ, gây Sát Thương Phạm Vi Nguyên Tố Nham.\nSao băng được xem là tạo vật Nguyên Tố Nham, có thể ngăn chặn tấn công, có thể leo trèo.\n\n**Nhấn Giữ**\nCó thể điều chỉnh vị trí hiệu quả của kỹ năng.",
+        "description": "Cùng Paimon thảo luận điểm dừng của sao băng.",
+        "attributes": [
+          {
+            "name": "Sát Thương Kỹ Năng",
+            "parameters": [
+              "248.00%",
+              "266.60%",
+              "285.20%",
+              "310.00%",
+              "328.60%",
+              "347.20%",
+              "372.00%",
+              "396.80%",
+              "421.60%",
+              "446.40%",
+              "471.20%",
+              "496.00%",
+              "527.00%",
+              "558.00%",
+              "589.00%"
+            ]
+          },
+          {
+            "name": "Thời Gian Thiên Thạch Tồn Tại",
+            "parameters": [
+              "30s",
+              "30s",
+              "30s",
+              "30s",
+              "30s",
+              "30s",
+              "30s",
+              "30s",
+              "30s",
+              "30s",
+              "30s",
+              "30s",
+              "30s",
+              "30s",
+              "30s"
+            ]
+          },
+          {
+            "name": "CD",
+            "parameters": [
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s"
+            ]
+          }
+        ]
+      },
+      "combat3": {
+        "name": "Sóng Đá Trùng Điệp",
+        "info": "Kích hoạt Nguyên Tố Nham sâu dưới lòng đất, khuếch tán sóng chấn động.\nĐánh lui địch xung quanh, gây Sát Thương Phạm Vi Nguyên Tố Nham.\nSau đó, bên ngoài sóng chấn động mọc lên vòng tròn núi đá.\nNúi đá được xem là vật tạo ra Nguyên Tố Nham, có thể ngăn chặn tấn công.",
+        "description": "Cùng Paimon nghiên cứu các mạch đập sâu trong núi.",
+        "attributes": [
+          {
+            "name": "Sát Thương 1 Lần Động Đất",
+            "parameters": [
+              "148.00%",
+              "159.10%",
+              "170.20%",
+              "185.00%",
+              "196.10%",
+              "207.20%",
+              "222.00%",
+              "236.80%",
+              "251.60%",
+              "266.40%",
+              "281.20%",
+              "296.00%",
+              "314.50%",
+              "333.00%",
+              "351.50%"
+            ]
+          },
+          {
+            "name": "Thời Gian Núi Đá Tồn Tại",
+            "parameters": [
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s"
+            ]
+          },
+          {
+            "name": "CD",
+            "parameters": [
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s"
+            ]
+          },
+          {
+            "name": "Năng Lượng Nguyên Tố",
+            "parameters": [
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60"
+            ]
+          }
+        ]
+      },
+      "passive1": {
+        "name": "Mảnh Đá Vỡ Nát",
+        "info": "Giảm CD **Kiếm Sao Băng** 2s."
+      },
+      "passive2": {
+        "name": "Phiến Đá Hoảng Loạn",
+        "info": "Chiêu cuối tấn công thường gây sụp đổ, gây sát thương Nguyên Tố Nham bằng 60% lực tấn công cho địch xung quanh."
+      },
+      "costs": {
+        "lvl2": [
+          {
+            "name": "Mora",
+            "count": 12500
+          },
+          {
+            "name": "Bài Giảng Của \"Phồn Vinh\"",
+            "count": 3
+          },
+          {
+            "name": "Mũi Tên Chắc Chắn",
+            "count": 6
+          }
+        ],
+        "lvl3": [
+          {
+            "name": "Mora",
+            "count": 17500
+          },
+          {
+            "name": "Hướng Dẫn Của \"Chăm Chỉ\"",
+            "count": 2
+          },
+          {
+            "name": "Mũi Tên Sắc Bén",
+            "count": 3
+          }
+        ],
+        "lvl4": [
+          {
+            "name": "Mora",
+            "count": 25000
+          },
+          {
+            "name": "Hướng Dẫn Của \"Hoàng Kim\"",
+            "count": 4
+          },
+          {
+            "name": "Mũi Tên Sắc Bén",
+            "count": 4
+          }
+        ],
+        "lvl5": [
+          {
+            "name": "Mora",
+            "count": 30000
+          },
+          {
+            "name": "Hướng Dẫn Của \"Phồn Vinh\"",
+            "count": 6
+          },
+          {
+            "name": "Mũi Tên Sắc Bén",
+            "count": 6
+          }
+        ],
+        "lvl6": [
+          {
+            "name": "Mora",
+            "count": 37500
+          },
+          {
+            "name": "Hướng Dẫn Của \"Chăm Chỉ\"",
+            "count": 9
+          },
+          {
+            "name": "Mũi Tên Sắc Bén",
+            "count": 9
+          }
+        ],
+        "lvl7": [
+          {
+            "name": "Mora",
+            "count": 120000
+          },
+          {
+            "name": "Triết Học Của \"Hoàng Kim\"",
+            "count": 4
+          },
+          {
+            "name": "Mũi Tên Thiện Chiến",
+            "count": 4
+          },
+          {
+            "name": "Lông Vũ Bắc Phong",
+            "count": 1
+          }
+        ],
+        "lvl8": [
+          {
+            "name": "Mora",
+            "count": 260000
+          },
+          {
+            "name": "Triết Học Của \"Phồn Vinh\"",
+            "count": 6
+          },
+          {
+            "name": "Mũi Tên Thiện Chiến",
+            "count": 6
+          },
+          {
+            "name": "Lông Vũ Bắc Phong",
+            "count": 1
+          }
+        ],
+        "lvl9": [
+          {
+            "name": "Mora",
+            "count": 450000
+          },
+          {
+            "name": "Triết Học Của \"Chăm Chỉ\"",
+            "count": 12
+          },
+          {
+            "name": "Mũi Tên Thiện Chiến",
+            "count": 9
+          },
+          {
+            "name": "Lông Vũ Bắc Phong",
+            "count": 2
+          }
+        ],
+        "lvl10": [
+          {
+            "name": "Mora",
+            "count": 700000
+          },
+          {
+            "name": "Triết Học Của \"Hoàng Kim\"",
+            "count": 16
+          },
+          {
+            "name": "Mũi Tên Thiện Chiến",
+            "count": 12
+          },
+          {
+            "name": "Lông Vũ Bắc Phong",
+            "count": 2
+          },
+          {
+            "name": "Vương Miện Trí Thức",
+            "count": 1
+          }
+        ]
+      },
+      "images": {
+        "combat1": "Skill_A_01",
+        "combat2": "Skill_S_PlayerRock_01",
+        "combat3": "Skill_E_PlayerRock_01_HD",
+        "passive1": "UI_Talent_S_PlayerRock_05",
+        "passive2": "UI_Talent_S_PlayerRock_06"
+      },
+      "version": "1.0"
+    }
+  ]
+}

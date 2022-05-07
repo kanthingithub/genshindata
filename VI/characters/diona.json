@@ -1,0 +1,914 @@
+{
+  "name": "Diona",
+  "fullname": "Diona",
+  "title": "Đặc Chế Quán Rượu Đuôi Mèo",
+  "description": "Thiếu nữ có dòng máu \"không phải người\" hiếm có, người pha chế rượu rất được yêu thích của Quán Rượu Đuôi Mèo.",
+  "rarity": "4",
+  "element": "Băng",
+  "weapontype": "Cung",
+  "substat": "Tăng ST Nguyên Tố Băng",
+  "gender": "nữ",
+  "body": "LOLI",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Quán Rượu Đuôi Mèo",
+  "birthdaymmdd": "1/18",
+  "birthday": "18 tháng 1",
+  "constellation": "Tiểu Miêu",
+  "cv": {
+    "english": "Dina Sherman",
+    "chinese": "诺亚",
+    "japanese": "井澤詩織",
+    "korean": "Woo Jeong-shin"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Mảnh Ngọc Băng Vụn",
+        "count": 1
+      },
+      {
+        "name": "Hoa Calla Lily",
+        "count": 3
+      },
+      {
+        "name": "Mũi Tên Chắc Chắn",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Ngọc Băng Vỡ",
+        "count": 3
+      },
+      {
+        "name": "Hạt Nhân Cực Hàn",
+        "count": 2
+      },
+      {
+        "name": "Hoa Calla Lily",
+        "count": 10
+      },
+      {
+        "name": "Mũi Tên Chắc Chắn",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Ngọc Băng Vỡ",
+        "count": 6
+      },
+      {
+        "name": "Hạt Nhân Cực Hàn",
+        "count": 4
+      },
+      {
+        "name": "Hoa Calla Lily",
+        "count": 20
+      },
+      {
+        "name": "Mũi Tên Sắc Bén",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Ngọc Băng",
+        "count": 3
+      },
+      {
+        "name": "Hạt Nhân Cực Hàn",
+        "count": 8
+      },
+      {
+        "name": "Hoa Calla Lily",
+        "count": 30
+      },
+      {
+        "name": "Mũi Tên Sắc Bén",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Ngọc Băng",
+        "count": 6
+      },
+      {
+        "name": "Hạt Nhân Cực Hàn",
+        "count": 12
+      },
+      {
+        "name": "Hoa Calla Lily",
+        "count": 45
+      },
+      {
+        "name": "Mũi Tên Thiện Chiến",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Ngọc Băng",
+        "count": 6
+      },
+      {
+        "name": "Hạt Nhân Cực Hàn",
+        "count": 20
+      },
+      {
+        "name": "Hoa Calla Lily",
+        "count": 60
+      },
+      {
+        "name": "Mũi Tên Thiện Chiến",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/0/08/Character_Diona_Card.png",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Character_Diona_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Diona.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201106/2020110618565219627.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201106/2020110618595613115.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/d4e511080346c2ce43636eeb10dd7226.png",
+    "nameicon": "UI_AvatarIcon_Diona",
+    "nameiconcard": "UI_AvatarIcon_Diona_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Diona",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Diona",
+    "namesideicon": "UI_AvatarIcon_Side_Diona"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Diona"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 802.3760986328125,
+      "attack": 17.808000564575195,
+      "defense": 50.358001708984375,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2061.304201978928,
+      "attack": 45.74875355229187,
+      "defense": 129.36970667853166,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2660.720217603928,
+      "attack": 59.0525531815033,
+      "defense": 166.98970561041642,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 3985.4429835102637,
+      "attack": 88.45355827545154,
+      "defense": 250.1307555782696,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4411.343862416514,
+      "attack": 97.90625889038074,
+      "defense": 276.8607551205059,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5074.106691293244,
+      "attack": 112.61567116091919,
+      "defense": 318.4564752897568,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5641.974489144806,
+      "attack": 125.21927070925904,
+      "defense": 354.0964746794052,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6304.737318021536,
+      "attack": 139.9286829797975,
+      "defense": 395.6921948486561,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6730.638074857474,
+      "attack": 149.381384548401,
+      "defense": 422.42219820558967,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7392.598203188449,
+      "attack": 164.07298161756898,
+      "defense": 463.9675400104752,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7818.499082094699,
+      "attack": 173.52567937147523,
+      "defense": 490.69753573801427,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8481.26152836869,
+      "attack": 188.2350831504973,
+      "defense": 532.2932318946987,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 8907.16240727494,
+      "attack": 197.68778471910082,
+      "defense": 559.0232276222378,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9569.92523615167,
+      "attack": 212.39719698963927,
+      "defense": 600.6189477914886,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.1",
+  "constellations": {
+    "c1": {
+      "name": "Dư Âm Đặc Chế",
+      "effect": "Khi kết thúc hiệu quả **Đặc Chế Mãnh Liệt**, Diona được hồi 15 điểm Năng Lượng Nguyên Tố."
+    },
+    "c2": {
+      "name": "Vuốt Mèo Lắc Đá",
+      "effect": "Sát thương gây ra bởi **Móng Mèo Lạnh Giá** tăng 15%, khả năng hấp thụ sát thương của lớp khiên tăng 15%;\nNgoài ra, khi đánh trúng sẽ tạo thành lớp khiên cho các nhân vật trên trận khác hiện ở gần có khả năng hấp thụ sát thương bằng 50% **Móng Mèo Lạnh Giá** và kéo dài 5s."
+    },
+    "c3": {
+      "name": "Vẫn Muốn Thêm Một Ly?",
+      "effect": "Cấp kỹ năng **Đặc Chế Mãnh Liệt** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "[Sát Thủ Ngành Rượu]",
+      "effect": "Khi ở trong khu vực **Đặc Chế Mãnh Liệt**, thời gian tụ lực cần khi ngắm bắn của Diona giảm 60%."
+    },
+    "c5": {
+      "name": "Hai Cốc Thêm Đá",
+      "effect": "Cấp kỹ năng **Móng Mèo Lạnh Giá** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Khi Quán Đuôi Mèo Đóng Cửa",
+      "effect": "Khi ở trong khu vực **Đặc Chế Mãnh Liệt** sẽ nhận được các hiệu quả dưới đây tùy theo HP nhân vật:\n·HP thấp hơn hoặc bằng 50%, tăng nhận trị liệu 30%; \n·Khi HP cao hơn 50%, Tinh Thông Nguyên Tố tăng 200."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diona_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diona_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Diona_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diona_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Diona_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diona_04.png",
+      "constellation": "Eff_UI_Talent_Diona"
+    },
+    "version": "1.1"
+  },
+  "talent": {
+    "name": "Diona",
+    "combat1": {
+      "name": "Tấn Công Thường - Xạ Thuật Thợ Săn",
+      "info": "**Tấn Công Thường**\nThực hiện tối đa 5 lần bắn tên liên tiếp.\n\n**Trọng Kích**\nSát thương càng cao, **ngắm bắn** càng chuẩn.\nKhi ngắm bắn, hơi lạnh sẽ tích tụ trên mũi tên. Mũi tên mang đầy hơi lạnh sẽ gây Sát Thương Nguyên Tố Băng.\n\n**Tấn Công Khi Đáp**\nBắn mưa tên liên tiếp xuống mặt đất, gây sát thương phạm vi khi chạm đất.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "36.12%",
+            "39.06%",
+            "42.00%",
+            "46.20%",
+            "49.14%",
+            "52.50%",
+            "57.12%",
+            "61.74%",
+            "66.36%",
+            "71.40%",
+            "77.17%",
+            "83.97%",
+            "90.76%",
+            "97.55%",
+            "104.96%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "33.54%",
+            "36.27%",
+            "39.00%",
+            "42.90%",
+            "45.63%",
+            "48.75%",
+            "53.04%",
+            "57.33%",
+            "61.62%",
+            "66.30%",
+            "71.66%",
+            "77.97%",
+            "84.28%",
+            "90.58%",
+            "97.46%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "45.58%",
+            "49.29%",
+            "53.00%",
+            "58.30%",
+            "62.01%",
+            "66.25%",
+            "72.08%",
+            "77.91%",
+            "83.74%",
+            "90.10%",
+            "97.39%",
+            "105.96%",
+            "114.53%",
+            "123.10%",
+            "132.45%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "43.00%",
+            "46.50%",
+            "50.00%",
+            "55.00%",
+            "58.50%",
+            "62.50%",
+            "68.00%",
+            "73.50%",
+            "79.00%",
+            "85.00%",
+            "91.87%",
+            "99.96%",
+            "108.05%",
+            "116.13%",
+            "124.95%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 5",
+          "parameters": [
+            "53.75%",
+            "58.13%",
+            "62.50%",
+            "68.75%",
+            "73.12%",
+            "78.13%",
+            "85.00%",
+            "91.87%",
+            "98.75%",
+            "106.25%",
+            "114.84%",
+            "124.95%",
+            "135.06%",
+            "145.16%",
+            "156.19%"
+          ]
+        },
+        {
+          "name": "Ngắm Bắn",
+          "parameters": [
+            "43.86%",
+            "47.43%",
+            "51.00%",
+            "56.10%",
+            "59.67%",
+            "63.75%",
+            "69.36%",
+            "74.97%",
+            "80.58%",
+            "86.70%",
+            "93.71%",
+            "101.96%",
+            "110.21%",
+            "118.45%",
+            "127.45%"
+          ]
+        },
+        {
+          "name": "Tụ Lực Ngắm Bắn",
+          "parameters": [
+            "124.00%",
+            "133.30%",
+            "142.60%",
+            "155.00%",
+            "164.30%",
+            "173.60%",
+            "186.00%",
+            "198.40%",
+            "210.80%",
+            "223.20%",
+            "236.10%",
+            "252.96%",
+            "269.82%",
+            "286.69%",
+            "303.55%"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Đáp",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "ST Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Móng Mèo Lạnh Giá",
+      "info": "Bắn móng mèo lạnh giá gây cho địch Sát Thương Nguyên Tố Băng và hình thành khiên khi đánh trúng.\nLượng hấp thụ sát thương của khiên chịu ảnh hưởng từ giới hạn HP của Diona, thời gian duy trì dựa vào số lượng Móng Mèo Lạnh Giá đánh trúng.\n\n**Nhấn**\nBắn nhanh 2 Móng Mèo Lạnh Giá.\n\n**Nhấn Giữ**\nLùi về sau và bắn 5 Móng Mèo Lạnh Giá.\nNhấn giữ hình thành Khiên, hấp thụ thêm 75% sát thương.\n\nKhiên sẽ hấp thụ 250% Sát Thương Nguyên Tố Băng, và khi hình thành, sẽ tăng thêm cho nhân vật Nguyên Tố Băng Kèm Theo.",
+      "description": "Có thêm bao nhiêu đá vào rượu cũng không thể làm tổn hại đến kẻ say, cho đến khi Diona có được Vision, và rồi những viên đá lạnh đến nỗi khiến người ta buốt óc bắt đầu xuất hiện. Hay!",
+      "attributes": [
+        {
+          "name": "Sát Thương Vuốt Mèo",
+          "parameters": [
+            "Mỗi cái 41.92%",
+            "Mỗi cái 45.06%",
+            "Mỗi cái 48.21%",
+            "Mỗi cái 52.40%",
+            "Mỗi cái 55.54%",
+            "Mỗi cái 58.69%",
+            "Mỗi cái 62.88%",
+            "Mỗi cái 67.07%",
+            "Mỗi cái 71.26%",
+            "Mỗi cái 75.46%",
+            "Mỗi cái 79.65%",
+            "Mỗi cái 83.84%",
+            "Mỗi cái 89.08%",
+            "Mỗi cái 94.32%",
+            "Mỗi cái 99.56%"
+          ]
+        },
+        {
+          "name": "Khiên hấp thu cơ bản",
+          "parameters": [
+            "7.20% lượng HP tối đa + 693",
+            "7.74% lượng HP tối đa + 762",
+            "8.28% lượng HP tối đa + 837",
+            "9.00% lượng HP tối đa + 918",
+            "9.54% lượng HP tối đa + 1005",
+            "10.08% lượng HP tối đa + 1097",
+            "10.80% lượng HP tối đa + 1195",
+            "11.52% lượng HP tối đa + 1299",
+            "12.24% lượng HP tối đa + 1409",
+            "12.96% lượng HP tối đa + 1524",
+            "13.68% lượng HP tối đa + 1646",
+            "14.40% lượng HP tối đa + 1773",
+            "15.30% lượng HP tối đa + 1905",
+            "16.20% lượng HP tối đa + 2044",
+            "17.10% lượng HP tối đa + 2188"
+          ]
+        },
+        {
+          "name": "Thời gian kéo dài",
+          "parameters": [
+            "Mỗi Vuốt Mèo 1.7999999523162842s",
+            "Mỗi Vuốt Mèo 1.899999976158142s",
+            "Mỗi Vuốt Mèo 2s",
+            "Mỗi Vuốt Mèo 2.0999999046325684s",
+            "Mỗi Vuốt Mèo 2.200000047683716s",
+            "Mỗi Vuốt Mèo 2.299999952316284s",
+            "Mỗi Vuốt Mèo 2.4000000953674316s",
+            "Mỗi Vuốt Mèo 2.4000000953674316s",
+            "Mỗi Vuốt Mèo 2.4000000953674316s",
+            "Mỗi Vuốt Mèo 2.4000000953674316s",
+            "Mỗi Vuốt Mèo 2.4000000953674316s",
+            "Mỗi Vuốt Mèo 2.4000000953674316s",
+            "Mỗi Vuốt Mèo 2.4000000953674316s",
+            "Mỗi Vuốt Mèo 2.4000000953674316s",
+            "Mỗi Vuốt Mèo 2.4000000953674316s"
+          ]
+        },
+        {
+          "name": "CD Nhấn",
+          "parameters": [
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s"
+          ]
+        },
+        {
+          "name": "CD Nhấn Giữ",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Đặc Chế Mãnh Liệt",
+      "info": "Ném những viên đá được điều chế đặc biệt, gây Sát Thương Phạm Vi Nguyên Tố Băng và tạo thành khu vực Hơi Rượu Băng.\n\n**Khu Vực Hơi Rượu Băng**\n·Gây cho kẻ địch trong đó Sát Thương Nguyên Tố Băng liên tục.\n·Hồi HP liên tục cho nhân vật trong đó.",
+      "description": "Công thức kinh khủng khiến Diona cũng tự cảm thấy vô nhân đạo. Mùi vị đầu kinh khủng nên để cho kẻ địch trước, về sau thì thanh mát, tiếc rằng chỉ có thể dùng mũi và da để cảm nhận.",
+      "attributes": [
+        {
+          "name": "Sát Thương Kỹ Năng",
+          "parameters": [
+            "80.00%",
+            "86.00%",
+            "92.00%",
+            "100.00%",
+            "106.00%",
+            "112.00%",
+            "120.00%",
+            "128.00%",
+            "136.00%",
+            "144.00%",
+            "152.00%",
+            "160.00%",
+            "170.00%",
+            "180.00%",
+            "190.00%"
+          ]
+        },
+        {
+          "name": "Sát thương duy trì trong khu vực",
+          "parameters": [
+            "52.64%",
+            "56.59%",
+            "60.54%",
+            "65.80%",
+            "69.75%",
+            "73.70%",
+            "78.96%",
+            "84.22%",
+            "89.49%",
+            "94.75%",
+            "100.02%",
+            "105.28%",
+            "111.86%",
+            "118.44%",
+            "125.02%"
+          ]
+        },
+        {
+          "name": "Lượng trị liệu liên tục",
+          "parameters": [
+            "5.34% Giới hạn HP + 513",
+            "5.74% Giới hạn HP + 565",
+            "6.14% Giới hạn HP + 620",
+            "6.67% Giới hạn HP + 680",
+            "7.07% Giới hạn HP + 744",
+            "7.47% Giới hạn HP + 813",
+            "8.00% Giới hạn HP + 885",
+            "8.54% Giới hạn HP + 962",
+            "9.07% Giới hạn HP + 1044",
+            "9.60% Giới hạn HP + 1129",
+            "10.14% Giới hạn HP + 1219",
+            "10.67% Giới hạn HP + 1313",
+            "11.34% Giới hạn HP + 1411",
+            "12.01% Giới hạn HP + 1514",
+            "12.67% Giới hạn HP + 1621"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "parameters": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Thực Đơn Bí Mật Đuôi Mèo",
+      "info": "Nhân vật được Khiên **Móng Mèo Lạnh Giá** bảo vệ, tốc độ di chuyển tăng 10%, thể lực tiêu hao giảm 10%."
+    },
+    "passive2": {
+      "name": "Kẻ Say Rượu Khôi Hài",
+      "info": "Trong 15 giây sau khi địch vào khu vực **Đặc Chế Mãnh Liệt** giảm 10% tấn công."
+    },
+    "passive3": {
+      "name": "Đồ Nhắm Tặng Kèm",
+      "info": "Nấu hoàn mỹ món ăn thuộc loại hồi phục, có tỷ lệ 12% x2 sản lượng."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Tự Do\"",
+          "count": 3
+        },
+        {
+          "name": "Mũi Tên Chắc Chắn",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Tự Do\"",
+          "count": 2
+        },
+        {
+          "name": "Mũi Tên Sắc Bén",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Tự Do\"",
+          "count": 4
+        },
+        {
+          "name": "Mũi Tên Sắc Bén",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Tự Do\"",
+          "count": 6
+        },
+        {
+          "name": "Mũi Tên Sắc Bén",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Tự Do\"",
+          "count": 9
+        },
+        {
+          "name": "Mũi Tên Sắc Bén",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Tự Do\"",
+          "count": 4
+        },
+        {
+          "name": "Mũi Tên Thiện Chiến",
+          "count": 4
+        },
+        {
+          "name": "Đao Ma Vương - Mảnh Vỡ",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Tự Do\"",
+          "count": 6
+        },
+        {
+          "name": "Mũi Tên Thiện Chiến",
+          "count": 6
+        },
+        {
+          "name": "Đao Ma Vương - Mảnh Vỡ",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Tự Do\"",
+          "count": 12
+        },
+        {
+          "name": "Mũi Tên Thiện Chiến",
+          "count": 9
+        },
+        {
+          "name": "Đao Ma Vương - Mảnh Vỡ",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Tự Do\"",
+          "count": 16
+        },
+        {
+          "name": "Mũi Tên Thiện Chiến",
+          "count": 12
+        },
+        {
+          "name": "Đao Ma Vương - Mảnh Vỡ",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_02",
+      "combat2": "Skill_S_Diona_01",
+      "combat3": "Skill_E_Diona_01_HD",
+      "passive1": "UI_Talent_S_Diona_05",
+      "passive2": "UI_Talent_S_Diona_06",
+      "passive3": "UI_Talent_Cook_Heal"
+    },
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,874 @@
+{
+  "name": "Mona",
+  "fullname": "Mona",
+  "title": "Thủy Kính Thiên Tinh",
+  "description": "Thuật sĩ thần bí, tự xưng là nhà chiêm tinh vĩ đại, có thực lực bất phàm, thông minh cao ngạo.",
+  "rarity": "5",
+  "element": "Thủy",
+  "weapontype": "Pháp Khí",
+  "substat": "Hiệu Quả Nạp Nguyên Tố",
+  "gender": "nữ",
+  "body": "GIRL",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Thành Mondstadt",
+  "birthdaymmdd": "8/31",
+  "birthday": "31 tháng 8",
+  "constellation": "Ánh Thiên",
+  "cv": {
+    "english": "Felecia Angelle",
+    "chinese": "陈婷婷",
+    "japanese": "小原好美",
+    "korean": "Woo Jeong-shin"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vụn Thanh Kim Sạch",
+        "count": 1
+      },
+      {
+        "name": "Nấm Rơm Gió",
+        "count": 3
+      },
+      {
+        "name": "Mật Hoa Lừa Dối",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Thanh Kim Sạch",
+        "count": 3
+      },
+      {
+        "name": "Trái Tim Thuần Khiết",
+        "count": 2
+      },
+      {
+        "name": "Nấm Rơm Gió",
+        "count": 10
+      },
+      {
+        "name": "Mật Hoa Lừa Dối",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Thanh Kim Sạch",
+        "count": 6
+      },
+      {
+        "name": "Trái Tim Thuần Khiết",
+        "count": 4
+      },
+      {
+        "name": "Nấm Rơm Gió",
+        "count": 20
+      },
+      {
+        "name": "Mật Hoa Lấp Lánh",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Thanh Kim Sạch",
+        "count": 3
+      },
+      {
+        "name": "Trái Tim Thuần Khiết",
+        "count": 8
+      },
+      {
+        "name": "Nấm Rơm Gió",
+        "count": 30
+      },
+      {
+        "name": "Mật Hoa Lấp Lánh",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Thanh Kim Sạch",
+        "count": 6
+      },
+      {
+        "name": "Trái Tim Thuần Khiết",
+        "count": 12
+      },
+      {
+        "name": "Nấm Rơm Gió",
+        "count": 45
+      },
+      {
+        "name": "Mật Hoa Nguyên Tố",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Thanh Kim Sạch",
+        "count": 6
+      },
+      {
+        "name": "Trái Tim Thuần Khiết",
+        "count": 20
+      },
+      {
+        "name": "Nấm Rơm Gió",
+        "count": 60
+      },
+      {
+        "name": "Mật Hoa Nguyên Tố",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Character_Mona_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Character_Mona_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Mona.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817270842074.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817353421694.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/1fa7a20fb3b391132e1132ab2a44e146.png",
+    "nameicon": "UI_AvatarIcon_Mona",
+    "nameiconcard": "UI_AvatarIcon_Mona_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Mona",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Mona",
+    "namesideicon": "UI_AvatarIcon_Side_Mona"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mona"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 810.322021484375,
+      "attack": 22.3439998626709,
+      "defense": 50.855499267578125,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2101.9754056454985,
+      "attack": 57.96033790251158,
+      "defense": 131.9191702410535,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2796.7532376767485,
+      "attack": 77.11689880033873,
+      "defense": 175.52416978328984,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4184.8349083920475,
+      "attack": 115.3921718862457,
+      "defense": 262.63964303562534,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4678.4928673764225,
+      "attack": 129.00341036585996,
+      "defense": 293.6221450192679,
+      "specialized": 0.07999999821186066
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5382.662670043879,
+      "attack": 148.42034530892943,
+      "defense": 337.81557174881164,
+      "specialized": 0.07999999821186066
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6040.873241332942,
+      "attack": 166.5686645533142,
+      "defense": 379.1255693074054,
+      "specialized": 0.1599999964237213
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6752.335800001631,
+      "attack": 186.18669157431032,
+      "defense": 423.77668660643394,
+      "specialized": 0.1599999964237213
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7245.993636915693,
+      "attack": 199.7979319612732,
+      "defense": 454.7591924047738,
+      "specialized": 0.1599999964237213
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7963.9390746873105,
+      "attack": 219.59471933425903,
+      "defense": 499.8171727097797,
+      "specialized": 0.1599999964237213
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8457.597033671685,
+      "attack": 233.20596353591918,
+      "defense": 530.799670878725,
+      "specialized": 0.23999999463558197
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9183.645490734489,
+      "attack": 253.22618536721802,
+      "defense": 576.366193566515,
+      "specialized": 0.23999999463558197
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 9677.303449718864,
+      "attack": 266.83742193948365,
+      "defense": 607.3486917354603,
+      "specialized": 0.3199999928474426
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10409.024522594642,
+      "attack": 287.0140617423858,
+      "defense": 653.2712256159284,
+      "specialized": 0.3199999928474426
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Tiên Tri Chìm Đắm",
+      "effect": "Trong vòng 8s sau khi nhân vật của bản thân trong đội tấn công địch ở trạng thái Tinh Dị, sẽ tăng hiệu quả phản ứng với Nguyên Tố Thủy:\n·Tăng 15% sát thương phản ứng Điện Cảm gây ra, tăng 15% sát thương phản ứng Bốc Hơi gây ra, tăng 15% sát thương phản ứng khuếch tán Nguyên Tố Thủy gây ra.\n·Thời gian duy trì phản ứng đóng băng kéo dài 15%."
+    },
+    "c2": {
+      "name": "Tinh Nguyệt Liên Châu",
+      "effect": "Khi tấn công thường đánh trúng có 20% tỷ lệ tự động thi triển trọng kích 1 lần.\nHiệu quả này mỗi 5s chỉ kích hoạt 1 lần."
+    },
+    "c3": {
+      "name": "Thiên Văn Trường Tồn",
+      "effect": "Cấp kỹ năng **Quỹ Đạo Tinh Mệnh** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "Tiên Tri Diệt Chủng",
+      "effect": "Khi tất cả nhân vật trong đội tấn công địch ở trạng thái Tinh Dị, tỷ lệ bạo kích tăng 15%."
+    },
+    "c5": {
+      "name": "Số Phận Trêu Ngươi",
+      "effect": "Cấp kỹ năng **Ảo Vọng Dưới Nước** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Tình Cảnh Đen Đủi",
+      "effect": "Sau khi vào trạng thái **Dòng Chảy Ảo**, mỗi 1s di chuyển, sát thương trọng kích ở lần sau của Mona tăng 60%,\nTối đa có thể nhận buff sát thương trọng kích 180%, hiệu quả kéo dài 8s."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Mona_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Mona_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_04.png",
+      "constellation": "Eff_UI_Talent_Mona"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Mona",
+    "combat1": {
+      "name": "Tấn Công Thường - Điểm Hóa Nhân Quả",
+      "info": "**Tấn Công Thường**\nThực hiện tối đa 4 lần tấn công hoa nước, gây Sát Thương Nguyên Tố Thủy.\n\n**Trọng Kích**\nTiêu hao thể lực nhất định, sau khi tụ lực, gây Sát Thương Phạm Vi Nguyên Tố Thủy.\n\n**Tấn Công Khi Đáp**\nNgưng tụ sức mạnh nguyên tố Thủy, từ trên trời tấn công xuống mặt đất, tấn công kẻ địch trên đường đi, gây sát thương phạm vi Nguyên Tố Thủy khi chạm đất.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "37.60%",
+            "40.42%",
+            "43.24%",
+            "47.00%",
+            "49.82%",
+            "52.64%",
+            "56.40%",
+            "60.16%",
+            "63.92%",
+            "67.68%",
+            "71.44%",
+            "75.20%",
+            "79.90%",
+            "84.60%",
+            "89.30%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "36.00%",
+            "38.70%",
+            "41.40%",
+            "45.00%",
+            "47.70%",
+            "50.40%",
+            "54.00%",
+            "57.60%",
+            "61.20%",
+            "64.80%",
+            "68.40%",
+            "72.00%",
+            "76.50%",
+            "81.00%",
+            "85.50%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "44.80%",
+            "48.16%",
+            "51.52%",
+            "56.00%",
+            "59.36%",
+            "62.72%",
+            "67.20%",
+            "71.68%",
+            "76.16%",
+            "80.64%",
+            "85.12%",
+            "89.60%",
+            "95.20%",
+            "100.80%",
+            "106.40%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "56.16%",
+            "60.37%",
+            "64.58%",
+            "70.20%",
+            "74.41%",
+            "78.62%",
+            "84.24%",
+            "89.86%",
+            "95.47%",
+            "101.09%",
+            "106.70%",
+            "112.32%",
+            "119.34%",
+            "126.36%",
+            "133.38%"
+          ]
+        },
+        {
+          "name": "Sát Thương Trọng Kích",
+          "parameters": [
+            "149.72%",
+            "160.95%",
+            "172.18%",
+            "187.15%",
+            "198.38%",
+            "209.61%",
+            "224.58%",
+            "239.55%",
+            "254.52%",
+            "269.50%",
+            "285.07%",
+            "305.43%",
+            "325.79%",
+            "346.15%",
+            "366.51%"
+          ]
+        },
+        {
+          "name": "Thể lực Trọng Kích tiêu hao",
+          "parameters": [
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Ảo Vọng Dưới Nước",
+      "info": "Hội tụ hoa nước hình thành ảo ảnh vận mệnh.\n\n**Hư Ảnh**\nCó đặc tính như sau:\n·Liên tục khiêu khích địch xung quanh, thu hút địch tấn công;\n·Gây Sát Thương Nguyên Tố Thủy liên tục cho địch ở gần;\n·Khi kết thúc, hư ảnh sẽ nổ tung, gây Sát Thương Phạm Vi Nguyên Tố Thủy.\n\n**Nhấn giữ**\nMượn dòng thủy lưu lùi nhanh về phía sau và gọi Hư Ảnh.\n\nTrong trận chỉ có thể đồng thời tồn tại một Hư Ảnh được tạo ra từ nước,",
+      "description": "Thuật sĩ chiêm tinh tinh vi luôn muốn tạo ra hư ảnh của bản thân để gánh lấy tai ương sắp ập đến. Ở Teyvat, chắc chỉ có Mona là người đầu tiên chế giễu tai ương như thế.",
+      "attributes": [
+        {
+          "name": "Sát Thương Kéo Dài",
+          "parameters": [
+            "32.00%",
+            "34.40%",
+            "36.80%",
+            "40.00%",
+            "42.40%",
+            "44.80%",
+            "48.00%",
+            "51.20%",
+            "54.40%",
+            "57.60%",
+            "60.80%",
+            "64.00%",
+            "68.00%",
+            "72.00%",
+            "76.00%"
+          ]
+        },
+        {
+          "name": "Sát Thương Nổ",
+          "parameters": [
+            "132.80%",
+            "142.76%",
+            "152.72%",
+            "166.00%",
+            "175.96%",
+            "185.92%",
+            "199.20%",
+            "212.48%",
+            "225.76%",
+            "239.04%",
+            "252.32%",
+            "265.60%",
+            "282.20%",
+            "298.80%",
+            "315.40%"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        }
+      ]
+    },
+    "combatsp": {
+      "name": "Dòng Chảy Ảo",
+      "info": "**Thay thế xung kích**\nẨn vào dòng nước, trả giá bằng tiêu hao thể lực, hóa thành dòng chảy cực nhanh.\n\nỞ trạng thái dòng chảy ảo, Mona có thể di chuyển nhanh trên mặt nước.\nKhi kết thúc dòng chảy ảo và hiện thân, sẽ thi triển trạng thái Ẩm Ướt cho địch xung quanh.",
+      "description": "Đây là việc mà Mona làm được nhưng thầy của cô không thể làm. Nó chẳng liên quan đến Vision Nguyên Tố Thủy gì cả, vì dẫu sao thì thầy của cô cũng không bị ép phải học kỹ năng này.",
+      "attributes": [
+        {
+          "name": "Khởi Động Tiêu Hao Thể Lực",
+          "parameters": [
+            "10 điểm"
+          ]
+        },
+        {
+          "name": "Kéo Dài Tiêu Hao Thể Lực",
+          "parameters": [
+            "Mỗi giây 15 điểm"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Quỹ Đạo Tinh Mệnh",
+      "info": "Sóng nước ngưng tụ phản chiếu tinh không hư ảo, thi triển trạng thái Bóng Nước cho địch trong phạm vi lớn.\n\n**Bóng Nước**\nDùng bong bóng bao lấy kẻ địch, thi triển trạng thái Ẩm Ướt, giam cầm kẻ yếu đuối trong bóng nước.\nKẻ địch trong trạng thái Bóng Nước chịu phải sát thương sẽ có hiệu ứng sau:\n·Tạo ra thêm hiệu quả buff sát thương của Tinh Dị cho địch, tăng sát thương phải chịu ở lần này;\n·Xóa hiệu ứng Bóng Nước và gây thêm một lần sát thương Nguyên Tố Thủy.\n\n**Tinh Dị**\nTrong thời gian duy trì, tăng sát thương chịu phải.",
+      "description": "Khi ánh mắt của Thần bắt đầu dẫn dắt ánh sáng trên bầu trời, thì kể từ đó vận mệnh đã được gọi tên là vận mệnh.",
+      "attributes": [
+        {
+          "name": "Thời Gian Bóng Nước Kéo Dài",
+          "parameters": [
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s"
+          ]
+        },
+        {
+          "name": "Sát Thương Bóng Nước Vỡ",
+          "parameters": [
+            "442.40%",
+            "475.58%",
+            "508.76%",
+            "553.00%",
+            "586.18%",
+            "619.36%",
+            "663.60%",
+            "707.84%",
+            "752.08%",
+            "796.32%",
+            "840.56%",
+            "884.80%",
+            "940.10%",
+            "995.40%",
+            "1050.70%"
+          ]
+        },
+        {
+          "name": "Sát Thương Thêm",
+          "parameters": [
+            "42.00%",
+            "44.00%",
+            "46.00%",
+            "48.00%",
+            "50.00%",
+            "52.00%",
+            "54.00%",
+            "56.00%",
+            "58.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%"
+          ]
+        },
+        {
+          "name": "Thời Gian CD Tinh Dị",
+          "parameters": [
+            "4s",
+            "4s",
+            "4s",
+            "4.5s",
+            "4.5s",
+            "4.5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "\"Bà lão hãy đến bắt ta!\"",
+      "info": "Sau khi vào trạng thái **dòng chảy ảo** 2s, nếu xung quanh có kẻ địch sẽ tự động ngưng tụ thành một ảo ảnh.\nẢo ảnh sinh ra theo cách này sẽ duy trì 2s, sát thương vỡ ra bằng 50% sát thương của **Ảo Vọng Dưới Nước**."
+    },
+    "passive2": {
+      "name": "\"Cứ để mặc cho vận mệnh đi!\"",
+      "info": "Tăng thêm buff sát thương Nguyên Tố Thủy của Mona, mức tăng bằng 20% hiệu quả nạp nguyên tố của Mona."
+    },
+    "passive3": {
+      "name": "Nguyên Lý Vận Hành",
+      "info": "Khi ghép nguyên liệu đột phá vũ khí, có tỷ lệ 25% hoàn trả một phần nguyên liệu ghép."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Kháng Chiến\"",
+          "count": 3
+        },
+        {
+          "name": "Mật Hoa Lừa Dối",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+          "count": 2
+        },
+        {
+          "name": "Mật Hoa Lấp Lánh",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+          "count": 4
+        },
+        {
+          "name": "Mật Hoa Lấp Lánh",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+          "count": 6
+        },
+        {
+          "name": "Mật Hoa Lấp Lánh",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+          "count": 9
+        },
+        {
+          "name": "Mật Hoa Lấp Lánh",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Kháng Chiến\"",
+          "count": 4
+        },
+        {
+          "name": "Mật Hoa Nguyên Tố",
+          "count": 4
+        },
+        {
+          "name": "Móng Vuốt Bắc Phong",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Kháng Chiến\"",
+          "count": 6
+        },
+        {
+          "name": "Mật Hoa Nguyên Tố",
+          "count": 6
+        },
+        {
+          "name": "Móng Vuốt Bắc Phong",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Kháng Chiến\"",
+          "count": 12
+        },
+        {
+          "name": "Mật Hoa Nguyên Tố",
+          "count": 9
+        },
+        {
+          "name": "Móng Vuốt Bắc Phong",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Kháng Chiến\"",
+          "count": 16
+        },
+        {
+          "name": "Mật Hoa Nguyên Tố",
+          "count": 12
+        },
+        {
+          "name": "Móng Vuốt Bắc Phong",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_Catalyst_MD",
+      "combat2": "Skill_S_Mona_01",
+      "combatsp": "Skill_S_Mona_02",
+      "combat3": "Skill_E_Mona_01_HD",
+      "passive1": "UI_Talent_S_Mona_05",
+      "passive2": "UI_Talent_S_Mona_06",
+      "passive3": "UI_Talent_Combine_Weapon"
+    },
+    "version": "1.0"
+  }
+}

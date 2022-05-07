@@ -1,0 +1,914 @@
+{
+  "name": "Diluc",
+  "fullname": "Diluc",
+  "title": "Mặt Tối Của Bình Minh",
+  "description": "Là công tử nắm trong tay hơn một nửa ngành rượu Mondstadt, tài lực, danh vọng, năng lực đều khiến người khác không thể coi thường.",
+  "rarity": "5",
+  "element": "Hỏa",
+  "weapontype": "Trọng Kiếm",
+  "substat": "Tỷ Lệ Bạo Kích",
+  "gender": "nam",
+  "body": "MALE",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Tửu Trang Dawn",
+  "birthdaymmdd": "4/30",
+  "birthday": "30 tháng 4",
+  "constellation": "Cung Dạ Hiêu",
+  "cv": {
+    "english": "Sean Chiplock",
+    "chinese": "马洋",
+    "japanese": "小野賢章",
+    "korean": "Choi Seung-hoon"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vụn Mã Não Cháy",
+        "count": 1
+      },
+      {
+        "name": "Tiểu Đăng Thảo",
+        "count": 3
+      },
+      {
+        "name": "Phù Hiệu Tân Binh",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Mã Não Cháy",
+        "count": 3
+      },
+      {
+        "name": "Ngọn Lửa Vĩnh Hằng",
+        "count": 2
+      },
+      {
+        "name": "Tiểu Đăng Thảo",
+        "count": 10
+      },
+      {
+        "name": "Phù Hiệu Tân Binh",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Mã Não Cháy",
+        "count": 6
+      },
+      {
+        "name": "Ngọn Lửa Vĩnh Hằng",
+        "count": 4
+      },
+      {
+        "name": "Tiểu Đăng Thảo",
+        "count": 20
+      },
+      {
+        "name": "Phù Hiệu Sĩ Quan",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Mã Não Cháy",
+        "count": 3
+      },
+      {
+        "name": "Ngọn Lửa Vĩnh Hằng",
+        "count": 8
+      },
+      {
+        "name": "Tiểu Đăng Thảo",
+        "count": 30
+      },
+      {
+        "name": "Phù Hiệu Sĩ Quan",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Mã Não Cháy",
+        "count": 6
+      },
+      {
+        "name": "Ngọn Lửa Vĩnh Hằng",
+        "count": 12
+      },
+      {
+        "name": "Tiểu Đăng Thảo",
+        "count": 45
+      },
+      {
+        "name": "Phù Hiệu Hiệu Úy",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Mã Não Cháy",
+        "count": 6
+      },
+      {
+        "name": "Ngọn Lửa Vĩnh Hằng",
+        "count": 20
+      },
+      {
+        "name": "Tiểu Đăng Thảo",
+        "count": 60
+      },
+      {
+        "name": "Phù Hiệu Hiệu Úy",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Character_Diluc_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Character_Diluc_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Diluc.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200609/2020060915105884221.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200609/2020060915105012670.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/7f68f45a650bbcf804215fc7890c7f35.png",
+    "nameicon": "UI_AvatarIcon_Diluc",
+    "nameiconcard": "UI_AvatarIcon_Diluc_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Diluc",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Diluc",
+    "namesideicon": "UI_AvatarIcon_Side_Diluc"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Diluc"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1010.5192260742188,
+      "attack": 26.06800079345703,
+      "defense": 61.0265998840332,
+      "specialized": 0.05000000074505806
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2621.286974589384,
+      "attack": 67.62039669342812,
+      "defense": 158.30300626832923,
+      "specialized": 0.05000000074505806
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3487.7158075971965,
+      "attack": 89.96971615143593,
+      "defense": 210.62900648195227,
+      "specialized": 0.05000000074505806
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5218.73530161212,
+      "attack": 134.62420305197156,
+      "defense": 315.1675756916702,
+      "specialized": 0.05000000074505806
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5834.355785010557,
+      "attack": 150.5039828676454,
+      "defense": 352.34657273146513,
+      "specialized": 0.09800000116229057
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6712.496950065979,
+      "attack": 173.1570744633027,
+      "defense": 405.37868546991194,
+      "specialized": 0.09800000116229057
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7533.324342644104,
+      "attack": 194.330116760666,
+      "defense": 454.95068406610335,
+      "specialized": 0.1460000015795231
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8420.560003412247,
+      "attack": 217.21781578915397,
+      "defense": 508.5320254947983,
+      "specialized": 0.1460000015795231
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9036.180364740372,
+      "attack": 233.0975956048278,
+      "defense": 545.7110263492905,
+      "specialized": 0.1460000015795231
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9931.500557089952,
+      "attack": 256.1938483849335,
+      "defense": 599.780603391262,
+      "specialized": 0.1460000015795231
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10547.121162558702,
+      "attack": 272.0736243859101,
+      "defense": 636.9596042457542,
+      "specialized": 0.193999994546175
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11452.546296605404,
+      "attack": 295.4305507102508,
+      "defense": 691.6394321546959,
+      "specialized": 0.193999994546175
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12068.166902074154,
+      "attack": 311.3103343406219,
+      "defense": 728.8184330091881,
+      "specialized": 0.2420000024139881
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12980.666121717892,
+      "attack": 334.84974830517604,
+      "defense": 783.9254743546844,
+      "specialized": 0.2420000024139881
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Cắt Đứt Tội Lỗi",
+      "effect": "Đối với địch có HP trên 50%, sát thương Diluc tạo ra tăng 15%."
+    },
+    "c2": {
+      "name": "Than Hồng",
+      "effect": "Khi Diluc bị thương, tấn công tăng 10%, tốc độ tấn công tăng 5%, kéo dài 10s.\nHiệu quả cộng dồn tối đa 3 lần, mỗi 1,5s chỉ thi triển 1 lần."
+    },
+    "c3": {
+      "name": "Ngọn Lửa Thép",
+      "effect": "Cấp kỹ năng **Lưỡi Kiếm Tấn Công** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "Lòng Như Lửa Đốt",
+      "effect": "Phóng **Lưỡi Kiếm Tấn Công** theo từng nhịp và có thể tăng sát thương tạo thành.\nSau 2s thi triển **Lưỡi Kiếm Tấn Công** tăng 40% sát thương đòn đánh tiếp theo của Lưỡi Kiếm Tấn Công, kéo dài 2s."
+    },
+    "c5": {
+      "name": "Phượng Hoàng Lúc Bình Minh",
+      "effect": "Cấp kỹ năng **Lê Minh** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Kiếm Lửa Diệt Trừ Tà Ác",
+      "effect": "Sau khi thi triển **Lưỡi Kiếm Tấn Công** tăng 30% tốc độ cho 2 lần đánh tấn công thường tiếp theo trong 6s, sát thương tạo thành tăng 30%.\nNgoài ra, Lưỡi Kiếm Tấn Công sẽ không làm mới các đoạn liên kích tấn công thường."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diluc_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diluc_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Diluc_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diluc_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Diluc_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diluc_04.png",
+      "constellation": "Eff_UI_Talent_Diluc"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Diluc",
+    "combat1": {
+      "name": "Tấn Công Thường: Kiếm Tôi Luyện",
+      "info": "**Tấn Công Thường**\nThực hiện tối đa 4 lần chém liên tiếp.\n\n**Trọng Kích**\nTiêu hao thể lực liên tục để chém nhanh liên tiếp.\nSau khi Trọng Kích kết thúc, sẽ bổ một nhát cực mạnh.\n\n**Tấn Công Khi Đáp**\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "89.70%",
+            "97.00%",
+            "104.30%",
+            "114.73%",
+            "122.03%",
+            "130.38%",
+            "141.85%",
+            "153.32%",
+            "164.79%",
+            "177.31%",
+            "191.65%",
+            "208.52%",
+            "225.38%",
+            "242.25%",
+            "260.65%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "87.63%",
+            "94.77%",
+            "101.90%",
+            "112.09%",
+            "119.22%",
+            "127.37%",
+            "138.58%",
+            "149.79%",
+            "161.00%",
+            "173.23%",
+            "187.24%",
+            "203.72%",
+            "220.20%",
+            "236.67%",
+            "254.65%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "98.81%",
+            "106.86%",
+            "114.90%",
+            "126.39%",
+            "134.43%",
+            "143.62%",
+            "156.26%",
+            "168.90%",
+            "181.54%",
+            "195.33%",
+            "211.13%",
+            "229.71%",
+            "248.29%",
+            "266.87%",
+            "287.14%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "133.99%",
+            "144.89%",
+            "155.80%",
+            "171.38%",
+            "182.29%",
+            "194.75%",
+            "211.89%",
+            "229.03%",
+            "246.16%",
+            "264.86%",
+            "286.28%",
+            "311.48%",
+            "336.67%",
+            "361.86%",
+            "389.34%"
+          ]
+        },
+        {
+          "name": "Sát Thương Trọng Kích Tuần Hoàn",
+          "parameters": [
+            "68.80%",
+            "74.40%",
+            "80.00%",
+            "88.00%",
+            "93.60%",
+            "100.00%",
+            "108.80%",
+            "117.60%",
+            "126.40%",
+            "136.00%",
+            "147.00%",
+            "159.94%",
+            "172.87%",
+            "185.81%",
+            "199.92%"
+          ]
+        },
+        {
+          "name": "Sát Thương Trọng Kích Chí Mạng",
+          "parameters": [
+            "124.70%",
+            "134.85%",
+            "145.00%",
+            "159.50%",
+            "169.65%",
+            "181.25%",
+            "197.20%",
+            "213.15%",
+            "229.10%",
+            "246.50%",
+            "266.44%",
+            "289.88%",
+            "313.33%",
+            "336.78%",
+            "362.35%"
+          ]
+        },
+        {
+          "name": "Thể lực Trọng Kích tiêu hao",
+          "parameters": [
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài Tối Đa",
+          "parameters": [
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Đáp",
+          "parameters": [
+            "89.51%",
+            "96.79%",
+            "104.08%",
+            "114.48%",
+            "121.77%",
+            "130.10%",
+            "141.54%",
+            "152.99%",
+            "164.44%",
+            "176.93%",
+            "189.42%",
+            "201.91%",
+            "214.40%",
+            "226.89%",
+            "239.37%"
+          ]
+        },
+        {
+          "name": "ST Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "178.97%/223.55%",
+            "193.54%/241.74%",
+            "208.11%/259.94%",
+            "228.92%/285.93%",
+            "243.49%/304.13%",
+            "260.13%/324.92%",
+            "283.03%/353.52%",
+            "305.92%/382.11%",
+            "328.81%/410.70%",
+            "353.78%/441.89%",
+            "378.76%/473.09%",
+            "403.73%/504.28%",
+            "428.70%/535.47%",
+            "453.68%/566.66%",
+            "478.65%/597.86%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Lưỡi Kiếm Tấn Công",
+      "info": "Vung kiếm chém về phía trước, gây Sát Thương Nguyên Tố Hỏa.\n\nCó thể thi triển liên tiếp 3 lần.\nNếu trong thời gian ngắn không thi triển, sẽ vào trạng thái chờ.",
+      "description": "Tượng trưng cho chính nghĩa, can đảm và trách nhiệm của Diluc.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "94.40%",
+            "101.48%",
+            "108.56%",
+            "118.00%",
+            "125.08%",
+            "132.16%",
+            "141.60%",
+            "151.04%",
+            "160.48%",
+            "169.92%",
+            "179.36%",
+            "188.80%",
+            "200.60%",
+            "212.40%",
+            "224.20%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "97.60%",
+            "104.92%",
+            "112.24%",
+            "122.00%",
+            "129.32%",
+            "136.64%",
+            "146.40%",
+            "156.16%",
+            "165.92%",
+            "175.68%",
+            "185.44%",
+            "195.20%",
+            "207.40%",
+            "219.60%",
+            "231.80%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "128.80%",
+            "138.46%",
+            "148.12%",
+            "161.00%",
+            "170.66%",
+            "180.32%",
+            "193.20%",
+            "206.08%",
+            "218.96%",
+            "231.84%",
+            "244.72%",
+            "257.60%",
+            "273.70%",
+            "289.80%",
+            "305.90%"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Lê Minh",
+      "info": "Bùng cháy sức mạnh lửa, đánh lui địch xung quanh, gây Sát Thương Nguyên Tố Hỏa. Sau đó ngưng tụ lửa lên vũ khí, vung ra chim lửa bay về phía trước, gây cho địch trên đường lượng lớn Sát Thương Nguyên Tố Hỏa đồng thời ở điểm đến cuối cùng của chim lửa gây lượng lớn Sát Thương Phạm Vi Nguyên Tố Hỏa.\nNgọn lửa trên vũ khí khiến Diluc nhận được Nguyên Tố Hỏa đính kèm.",
+      "description": "Bước đi trong bóng tối là để mang lại ánh sáng. Nhìn vào ánh sáng xa xăm tỏa ra trong màn đêm tĩnh lặng, là điềm báo bình minh sẽ đến.",
+      "attributes": [
+        {
+          "name": "Sát Thương Chém",
+          "parameters": [
+            "204.00%",
+            "219.30%",
+            "234.60%",
+            "255.00%",
+            "270.30%",
+            "285.60%",
+            "306.00%",
+            "326.40%",
+            "346.80%",
+            "367.20%",
+            "387.60%",
+            "408.00%",
+            "433.50%",
+            "459.00%",
+            "484.50%"
+          ]
+        },
+        {
+          "name": "Sát Thương Kéo Dài",
+          "parameters": [
+            "60.00%",
+            "64.50%",
+            "69.00%",
+            "75.00%",
+            "79.50%",
+            "84.00%",
+            "90.00%",
+            "96.00%",
+            "102.00%",
+            "108.00%",
+            "114.00%",
+            "120.00%",
+            "127.50%",
+            "135.00%",
+            "142.50%"
+          ]
+        },
+        {
+          "name": "Sát Thương Nổ",
+          "parameters": [
+            "204.00%",
+            "219.30%",
+            "234.60%",
+            "255.00%",
+            "270.30%",
+            "285.60%",
+            "306.00%",
+            "326.40%",
+            "346.80%",
+            "367.20%",
+            "387.60%",
+            "408.00%",
+            "433.50%",
+            "459.00%",
+            "484.50%"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        },
+        {
+          "name": "Thời Gian Đính Kèm Kéo Dài",
+          "parameters": [
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Không Bỏ Cuộc",
+      "info": "Thể lực trọng kích Diluc tiêu hao giảm 50%, tăng thời gian tối đa thêm 3s."
+    },
+    "passive2": {
+      "name": "Đôi Cánh Rực Lửa",
+      "info": "Kéo dài 4s thời gian **Nguyên Tố Hỏa đính kèm** mà Lê Minh mang đến. Ngoài ra, trong thời gian còn hiệu lực, Diluc nhận 20% buff sát thương Nguyên Tố Hỏa."
+    },
+    "passive3": {
+      "name": "Truyền Thống Của Bình Minh",
+      "info": "Khi rèn vũ khí dạng Trọng Kiếm, hoàn trả 15% khoáng thạch tiêu hao."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Kháng Chiến\"",
+          "count": 3
+        },
+        {
+          "name": "Phù Hiệu Tân Binh",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+          "count": 2
+        },
+        {
+          "name": "Phù Hiệu Sĩ Quan",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+          "count": 4
+        },
+        {
+          "name": "Phù Hiệu Sĩ Quan",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+          "count": 6
+        },
+        {
+          "name": "Phù Hiệu Sĩ Quan",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+          "count": 9
+        },
+        {
+          "name": "Phù Hiệu Sĩ Quan",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Kháng Chiến\"",
+          "count": 4
+        },
+        {
+          "name": "Phù Hiệu Hiệu Úy",
+          "count": 4
+        },
+        {
+          "name": "Lông Vũ Đông Phong",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Kháng Chiến\"",
+          "count": 6
+        },
+        {
+          "name": "Phù Hiệu Hiệu Úy",
+          "count": 6
+        },
+        {
+          "name": "Lông Vũ Đông Phong",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Kháng Chiến\"",
+          "count": 12
+        },
+        {
+          "name": "Phù Hiệu Hiệu Úy",
+          "count": 9
+        },
+        {
+          "name": "Lông Vũ Đông Phong",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Kháng Chiến\"",
+          "count": 16
+        },
+        {
+          "name": "Phù Hiệu Hiệu Úy",
+          "count": 12
+        },
+        {
+          "name": "Lông Vũ Đông Phong",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Diluc_01_01",
+      "combat3": "Skill_E_Diluc_01_HD",
+      "passive1": "UI_Talent_S_Diluc_05",
+      "passive2": "UI_Talent_S_Diluc_06",
+      "passive3": "UI_Talent_Forge_Claymore"
+    },
+    "version": "1.0"
+  }
+}

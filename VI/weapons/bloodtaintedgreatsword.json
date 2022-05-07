@@ -1,0 +1,307 @@
+{
+  "name": "Kiếm Huyết Rồng",
+  "description": "Kiếm của anh hùng phương bắc đã từng được ngâm trong máu rồng, có thần lực đao thương bất nhập... Nhưng sức mạnh này lại không được truyền cho người dùng nó.",
+  "weapontype": "Trọng Kiếm",
+  "rarity": "3",
+  "baseatk": 38,
+  "substat": "Tinh Thông Nguyên Tố",
+  "subvalue": "41",
+  "effectname": "Trừ Lôi Dập Hỏa",
+  "effect": [
+    "Sát thương tạo ra cho kẻ địch bị ảnh hưởng bởi nguyên tố Hỏa hoặc Lôi tăng [12%].",
+    "Sát thương tạo ra cho kẻ địch bị ảnh hưởng bởi nguyên tố Hỏa hoặc Lôi tăng [15%].",
+    "Sát thương tạo ra cho kẻ địch bị ảnh hưởng bởi nguyên tố Hỏa hoặc Lôi tăng [18%].",
+    "Sát thương tạo ra cho kẻ địch bị ảnh hưởng bởi nguyên tố Hỏa hoặc Lôi tăng [21%].",
+    "Sát thương tạo ra cho kẻ địch bị ảnh hưởng bởi nguyên tố Hỏa hoặc Lôi tăng [24%]."
+  ],
+  "r1": [
+    "12%"
+  ],
+  "r2": [
+    "15%"
+  ],
+  "r3": [
+    "18%"
+  ],
+  "r4": [
+    "21%"
+  ],
+  "r5": [
+    "24%"
+  ],
+  "weaponmaterialtype": "Boreal Wolf",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 5000
+      },
+      {
+        "name": "Răng Sữa Sói Bão",
+        "count": 2
+      },
+      {
+        "name": "Cành Cây Địa Mạch",
+        "count": 2
+      },
+      {
+        "name": "Mũi Tên Chắc Chắn",
+        "count": 1
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 10000
+      },
+      {
+        "name": "Răng Vỡ Sói Bão",
+        "count": 2
+      },
+      {
+        "name": "Cành Cây Địa Mạch",
+        "count": 8
+      },
+      {
+        "name": "Mũi Tên Chắc Chắn",
+        "count": 5
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 15000
+      },
+      {
+        "name": "Răng Vỡ Sói Bão",
+        "count": 4
+      },
+      {
+        "name": "Lá Khô Địa Mạch",
+        "count": 4
+      },
+      {
+        "name": "Mũi Tên Sắc Bén",
+        "count": 4
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Mảnh Răng Sói Bão",
+        "count": 2
+      },
+      {
+        "name": "Lá Khô Địa Mạch",
+        "count": 8
+      },
+      {
+        "name": "Mũi Tên Sắc Bén",
+        "count": 6
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 25000
+      },
+      {
+        "name": "Mảnh Răng Sói Bão",
+        "count": 4
+      },
+      {
+        "name": "Chồi Non Địa Mạch",
+        "count": 6
+      },
+      {
+        "name": "Mũi Tên Thiện Chiến",
+        "count": 4
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Nỗi Nhớ Của Sói Bão",
+        "count": 3
+      },
+      {
+        "name": "Chồi Non Địa Mạch",
+        "count": 12
+      },
+      {
+        "name": "Mũi Tên Thiện Chiến",
+        "count": 8
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Weapon_Bloodtainted_Greatsword.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Siegfry.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Siegfry_Awaken.png",
+    "nameicon": "UI_EquipIcon_Claymore_Siegfry",
+    "namegacha": "UI_Gacha_EquipIcon_Claymore_Siegfry",
+    "nameawakenicon": "UI_EquipIcon_Claymore_Siegfry_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bloodtainted_Greatsword"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 37.60749816894531,
+      "specialized": 40.79999923706055
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 48.13759658029085,
+      "specialized": 47.40959670104985
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 60.96175646858683,
+      "specialized": 55.61040039978025
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 73.40983725068327,
+      "specialized": 63.85200114059444
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 85.5570619208811,
+      "specialized": 72.09359701766971
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 105.0570619208811,
+      "specialized": 72.09359701766971
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 116.94103076842293,
+      "specialized": 80.3351977584839
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 128.59935304887767,
+      "specialized": 88.57679849929809
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 140.03202876224532,
+      "specialized": 96.81839437637336
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 151.2766716472579,
+      "specialized": 105.05999998092648
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 170.6766731731368,
+      "specialized": 105.05999998092648
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 181.77088800220008,
+      "specialized": 113.30159585800175
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 192.71467477531405,
+      "specialized": 121.54320146255486
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 212.21467477531405,
+      "specialized": 121.54320146255486
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 223.00801555982616,
+      "specialized": 129.78479733963013
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 233.688542027121,
+      "specialized": 138.0263932167054
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 253.0885435529999,
+      "specialized": 138.0263932167054
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 263.69386047548323,
+      "specialized": 146.26799882125852
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 274.1863630807493,
+      "specialized": 154.46879765625
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 293.6863630807493,
+      "specialized": 154.46879765625
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 304.0660334361455,
+      "specialized": 162.71039353332526
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 314.44570379154175,
+      "specialized": 170.95199913787837
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 333.8456976880261,
+      "specialized": 170.95199913787837
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 344.1125357935525,
+      "specialized": 179.1936047424315
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 354.3793918317315,
+      "specialized": 187.4351908920289
+    }
+  },
+  "version": "1.0"
+}

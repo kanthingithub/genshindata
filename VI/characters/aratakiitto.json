@@ -1,0 +1,911 @@
+{
+  "name": "Arataki Itto",
+  "fullname": "Arataki Itto",
+  "title": "Quái Kiệt Hanamizaka",
+  "description": "Thủ lĩnh đời đầu của \"Bang Arataki\" địa bàn Hanamizaka. Sao, chưa nghe qua Bang Arataki à, đùa ta sao?",
+  "rarity": "5",
+  "element": "Nham",
+  "weapontype": "Trọng Kiếm",
+  "substat": "Tỷ Lệ Bạo Kích",
+  "gender": "nam",
+  "body": "MALE",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "Bang Arataki",
+  "birthdaymmdd": "6/1",
+  "birthday": "1 tháng 6",
+  "constellation": "Cung Thiên Ngưu",
+  "cv": {
+    "english": "Max Mittelman",
+    "chinese": "刘照坤",
+    "japanese": "西川貴教",
+    "korean": "Song Jun-seok"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vụn Hoàng Ngọc Cứng",
+        "count": 1
+      },
+      {
+        "name": "Onikabuto",
+        "count": 3
+      },
+      {
+        "name": "Dịch Slime",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Hoàng Ngọc Cứng",
+        "count": 3
+      },
+      {
+        "name": "Sừng Vua Quái Cảnh",
+        "count": 2
+      },
+      {
+        "name": "Onikabuto",
+        "count": 10
+      },
+      {
+        "name": "Dịch Slime",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Hoàng Ngọc Cứng",
+        "count": 6
+      },
+      {
+        "name": "Sừng Vua Quái Cảnh",
+        "count": 4
+      },
+      {
+        "name": "Onikabuto",
+        "count": 20
+      },
+      {
+        "name": "Tinh Slime",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Hoàng Ngọc Cứng",
+        "count": 3
+      },
+      {
+        "name": "Sừng Vua Quái Cảnh",
+        "count": 8
+      },
+      {
+        "name": "Onikabuto",
+        "count": 30
+      },
+      {
+        "name": "Tinh Slime",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Hoàng Ngọc Cứng",
+        "count": 6
+      },
+      {
+        "name": "Sừng Vua Quái Cảnh",
+        "count": 12
+      },
+      {
+        "name": "Onikabuto",
+        "count": 45
+      },
+      {
+        "name": "Bột Slime",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Hoàng Ngọc Cứng",
+        "count": 6
+      },
+      {
+        "name": "Sừng Vua Quái Cảnh",
+        "count": 20
+      },
+      {
+        "name": "Onikabuto",
+        "count": 60
+      },
+      {
+        "name": "Bột Slime",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_AvatarIcon_Itto",
+    "nameiconcard": "UI_AvatarIcon_Itto_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Itto",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Itto",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Itto.png",
+    "namesideicon": "UI_AvatarIcon_Side_Itto",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Itto.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211203/2021120311564937286.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211203/2021120311564391237.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Arataki_Itto"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1000.9860229492188,
+      "attack": 17.68899917602539,
+      "defense": 74.66783905029297,
+      "specialized": 0.05000000074505806
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2596.5578447194275,
+      "attack": 45.88526565078155,
+      "defense": 193.6883820445928,
+      "specialized": 0.05000000074505806
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3454.81284960224,
+      "attack": 61.050875964197076,
+      "defense": 257.71078194693655,
+      "specialized": 0.05000000074505806
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5169.501966100361,
+      "attack": 91.35213259864031,
+      "defense": 385.616794655034,
+      "specialized": 0.05000000074505806
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5779.314710240986,
+      "attack": 102.12769774604021,
+      "defense": 431.10639579028793,
+      "specialized": 0.09800000116229057
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6649.171522180812,
+      "attack": 117.49943728774633,
+      "defense": 495.9927447918053,
+      "specialized": 0.09800000116229057
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7462.255140344874,
+      "attack": 131.8668555769309,
+      "defense": 556.6455386760827,
+      "specialized": 0.1460000015795231
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8341.120650842146,
+      "attack": 147.39779300722512,
+      "defense": 622.2038851266334,
+      "specialized": 0.1460000015795231
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8950.93339498277,
+      "attack": 158.17335910829934,
+      "defense": 667.6934938912818,
+      "specialized": 0.1460000015795231
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9837.807167872583,
+      "attack": 173.84581514486308,
+      "defense": 733.8492109680847,
+      "specialized": 0.1460000015795231
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10447.619912013208,
+      "attack": 184.6213812459373,
+      "defense": 779.3388197327331,
+      "specialized": 0.193999994546175
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11344.5032969327,
+      "attack": 200.4707228881798,
+      "defense": 846.2411966857508,
+      "specialized": 0.193999994546175
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11954.31628521395,
+      "attack": 211.24628898925403,
+      "defense": 891.7307901916101,
+      "specialized": 0.2420000024139881
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12858.207019053749,
+      "attack": 227.2194615206754,
+      "defense": 959.1558753436984,
+      "specialized": 0.2420000024139881
+    }
+  },
+  "version": "2.3",
+  "constellations": {
+    "c1": {
+      "name": "Đứng Lại, Ta Nói Cho Nghe",
+      "effect": "Sau khi thi triển **Siêu Cấp Quỷ Vương - Itto Giáng Lâm!**, Arataki Itto nhận 2 tầng hiệu ứng \"Quỷ Lực Vô Song\". Sau 1s, Arataki Itto mỗi 0.5s sẽ nhận thêm 1 tầng \"Quỷ Lực Vô Song\", duy trì 1.5s."
+    },
+    "c2": {
+      "name": "Gọi Anh Em, Đánh Hội Đồng",
+      "effect": "Sau khi thi triển **Siêu Cấp Quỷ Vương - Itto Giáng Lâm!**, trong đội cứ mỗi nhân vật có thuộc tính nguyên tố là Nham, đều sẽ khiến Itto giảm 1.5s CD kỹ năng nộ, đồng thời khiến Arataki Itto hồi phục 6 điểm năng lượng nguyên tố.\nThông qua cách này, tối đa giảm 4.5s CD và hồi phục 18 điểm năng lượng nguyên tố."
+    },
+    "c3": {
+      "name": "Có Ta Ở Đây, Đừng Sợ",
+      "effect": "Cấp kỹ năng **Tuyệt Kỹ Masatsu - Akaushi Công Phá!** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "Cơm Nước Trại Giam Ngon Thật!",
+      "effect": "Sau khi kết thúc trạng thái \"Nộ Mục Quỷ Vương\" của kỹ năng **Siêu Cấp Quỷ Vương - Itto Giáng Lâm!**, sức phòng ngự của tất cả nhân vật trong đội gần đó tăng 20%, sức tấn công tăng 20%, duy trì 10s."
+    },
+    "c5": {
+      "name": "Mười Năm Vang Danh Hanamizaka",
+      "effect": "Cấp kỹ năng **Siêu Cấp Quỷ Vương - Itto Giáng Lâm!** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Bổn Đại Gia Là Arataki Itto",
+      "effect": "Tăng 70% sát thương bạo kích của trọng kích của Arataki Itto; Ngoài ra, khi thi triển \"Arataki Kesagiri\" sẽ có 50% xác suất không tiêu hao \"Quỷ Lực Vô Song\"."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Itto_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Itto_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_04.png",
+      "constellation": "Eff_UI_Talent_Itto"
+    },
+    "version": "2.3"
+  },
+  "talent": {
+    "name": "Arataki Itto",
+    "combat1": {
+      "name": "Tấn Công Thường - Huyền Thoại Đấm Nhau",
+      "info": "**Tấn Công Thường**\nThực hiện tối đa 4 lần chém liên tiếp.\nLần chém thứ 2 và thứ 4 trúng địch sẽ lần lượt nhận 1 tầng và 2 tầng \"Quỷ Lực Vô Song\".\nTối đa sở hữu 5 tầng \"Quỷ Lực Vô Song\", mỗi lần kích hoạt đều sẽ làm mới thời gian duy trì của Quỷ Lực Vô Song đã có.\n\nNgoài ra, trong một thời gian ngắn sau khi xung kích hoặc thi triển kỹ năng nguyên tố \"Tuyệt Kỹ Masatsu - Akaushi Công Phá!\", số lần liên kích đánh thường sẽ không bị tái lập.\n\n**Trọng Kích**\nKhi nhấn giữ để thực hiện trọng kích, nếu có Quỷ Lực Vô Song sẽ thi triển \"Arataki Kesagiri\" không tiêu tốn thể lực. Arataki Kesagiri mỗi lần tấn công sẽ tiêu hao một tầng Quỷ Lực Vô Song; Khi tiêu hao đến tầng cuối cùng sẽ thi triển thêm đòn kết liễu mạnh mẽ.\nKhi không có Quỷ Lực Vô Song sẽ tiêu hao thể lực để thi triển một lần Nhát Chém Saichimonji cực mạnh.\n\n**Tấn Công Khi Đáp**\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường, đồng thời gây sát thương phạm vi khi chạm đất.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "79.23%",
+            "85.68%",
+            "92.13%",
+            "101.34%",
+            "107.79%",
+            "115.16%",
+            "125.30%",
+            "135.43%",
+            "145.57%",
+            "156.62%",
+            "169.29%",
+            "184.19%",
+            "199.08%",
+            "213.98%",
+            "230.23%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "76.37%",
+            "82.58%",
+            "88.80%",
+            "97.68%",
+            "103.90%",
+            "111.00%",
+            "120.77%",
+            "130.54%",
+            "140.30%",
+            "150.96%",
+            "163.17%",
+            "177.53%",
+            "191.89%",
+            "206.25%",
+            "221.91%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "91.64%",
+            "99.10%",
+            "106.56%",
+            "117.22%",
+            "124.68%",
+            "133.20%",
+            "144.92%",
+            "156.64%",
+            "168.36%",
+            "181.15%",
+            "195.80%",
+            "213.03%",
+            "230.27%",
+            "247.50%",
+            "266.29%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "117.22%",
+            "126.77%",
+            "136.31%",
+            "149.94%",
+            "159.48%",
+            "170.39%",
+            "185.38%",
+            "200.37%",
+            "215.37%",
+            "231.72%",
+            "250.47%",
+            "272.51%",
+            "294.55%",
+            "316.59%",
+            "340.63%"
+          ]
+        },
+        {
+          "name": "Sát Thương Liên Trảm Arataki Kesagiri",
+          "parameters": [
+            "91.16%",
+            "98.58%",
+            "106.00%",
+            "116.60%",
+            "124.02%",
+            "132.50%",
+            "144.16%",
+            "155.82%",
+            "167.48%",
+            "180.20%",
+            "194.77%",
+            "211.92%",
+            "229.06%",
+            "246.20%",
+            "264.89%"
+          ]
+        },
+        {
+          "name": "Sát Thương Kết Liễu Arataki Kesagiri",
+          "parameters": [
+            "190.92%",
+            "206.46%",
+            "222.00%",
+            "244.20%",
+            "259.74%",
+            "277.50%",
+            "301.92%",
+            "326.34%",
+            "350.76%",
+            "377.40%",
+            "407.92%",
+            "443.82%",
+            "479.72%",
+            "515.62%",
+            "554.78%"
+          ]
+        },
+        {
+          "name": "Thời Gian Duy Trì Quỷ Lực Vô Song",
+          "parameters": [
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s"
+          ]
+        },
+        {
+          "name": "Sát Thương Nhát Chém Saichimonji",
+          "parameters": [
+            "90.47%",
+            "97.84%",
+            "105.20%",
+            "115.72%",
+            "123.08%",
+            "131.50%",
+            "143.07%",
+            "154.64%",
+            "166.22%",
+            "178.84%",
+            "193.31%",
+            "210.32%",
+            "227.33%",
+            "244.34%",
+            "262.89%"
+          ]
+        },
+        {
+          "name": "Thể lực Nhát Chém Saichimonji tiêu hao",
+          "parameters": [
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Đáp",
+          "parameters": [
+            "81.83%",
+            "88.49%",
+            "95.16%",
+            "104.67%",
+            "111.33%",
+            "118.94%",
+            "129.41%",
+            "139.88%",
+            "150.35%",
+            "161.76%",
+            "173.18%",
+            "184.60%",
+            "196.02%",
+            "207.44%",
+            "218.86%"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "163.63%/204.39%",
+            "176.95%/221.02%",
+            "190.27%/237.66%",
+            "209.30%/261.42%",
+            "222.62%/278.06%",
+            "237.84%/297.07%",
+            "258.77%/323.21%",
+            "279.70%/349.36%",
+            "300.63%/375.50%",
+            "323.46%/404.02%",
+            "346.29%/432.54%",
+            "369.12%/461.06%",
+            "391.96%/489.57%",
+            "414.79%/518.09%",
+            "437.62%/546.61%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Tuyệt Kỹ Masatsu - Akaushi Công Phá!",
+      "info": "Ném bò con \"Ushi\" - thành viên ngoài biên chế của Bang Arataki, gây Sát Thương Nguyên Tố Nham cho kẻ địch trúng phải! Khi \"Ushi\" trúng kẻ địch sẽ cung cấp cho Arataki Itto 1 tầng \"Quỷ Lực Vô Song\".\n\n\"Ushi\" sẽ ở lại trong trận để chi viện:\n·Liên tục khiêu khích kẻ địch xung quanh, thu hút hỏa lực;\n·Độ bền sẽ dựa vào tỷ lệ giới hạn HP của Arataki Itto;\n·Khi chịu sát thương sẽ cung cấp cho Arataki Itto 1 tầng \"Quỷ Lực Vô Song\". Mỗi 2 giây tối đa chỉ có thể nhận được 1 tầng thông qua cách này;\n·Khi hết độ bền hoặc thời gian tồn tại, \"Ushi\" sẽ để lại cho Arataki Itto 1 tầng \"Quỷ Lực Vô Song\" rồi chạy mất.\n\n**Nhấn giữ**\nĐiều chỉnh hướng ném.\n\n\"Ushi\" sẽ được tính là tạo vật Nguyên Tố Nham; Cùng lúc chỉ có thể tồn tại một \"Ushi\" do bản thân Arataki Itto ném ra.",
+      "description": "Tên chiêu thức này được lấy cảm hứng từ quyển tiểu thuyết \"Quỷ Võ Đạo\" của tác giả Junkichi，nhưng nếu giữ tên gốc là \"Tuyệt Kỹ Onisatsu\" có vẻ bị dính bản quyền, hơn nữa Itto cũng là \"Oni\" mà.",
+      "attributes": [
+        {
+          "name": "Sát Thương Kỹ Năng",
+          "parameters": [
+            "307.20%",
+            "330.24%",
+            "353.28%",
+            "384.00%",
+            "407.04%",
+            "430.08%",
+            "460.80%",
+            "491.52%",
+            "522.24%",
+            "552.96%",
+            "583.68%",
+            "614.40%",
+            "652.80%",
+            "691.20%",
+            "729.60%"
+          ]
+        },
+        {
+          "name": "HP Thừa Kế",
+          "parameters": [
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "parameters": [
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Siêu Cấp Quỷ Vương - Itto Giáng Lâm!",
+      "info": "Đã đến lúc thể hiện bản thân! Trong khoảng thời gian tiếp theo, Itto hóa thân thành \"Nộ Mục Quỷ Vương\", sử dụng Quỷ Vương Kim Toái Bổng để chiến đấu.\nĐặc tính cụ thể như sau:\n·Sát thương của tấn công thường, trọng kích, tấn công khi đáp sẽ chuyển hóa thành Sát Thương Nguyên Tố Nham không thể bị đính kèm thay thế;\n·Tăng tốc độ đánh thường của Arataki Itto, đồng thời tăng sức tấn công dựa theo phòng ngự;\n·Tấn công lần thứ 1 và 3 trúng kẻ địch sẽ cung cấp cho Arataki Itto 1 tầng \"Quỷ Lực Vô Song\";\n·Kháng tất cả nguyên tố và kháng vật lý của Arataki Itto giảm 20%.\n\nTrạng thái \"Nộ Mục Quỷ Vương\" sẽ bị hủy khi Arataki Itto rời trận.",
+      "description": "Bí kỹ trong bí kỹ của Itto (Tự xưng). Nếu bắt chước người khác để mạnh hơn thì thật vô nghĩa, vì thế gian này chỉ có quỷ vương Arataki Itto mới là vô đối thôi, cho nên để tự Itto bắt chước Itto là được rồi!\nShouta cảm thấy rất ngầu.",
+      "attributes": [
+        {
+          "name": "Tấn Công Tăng",
+          "parameters": [
+            "57.60% Phòng Ngự",
+            "61.92% Phòng Ngự",
+            "66.24% Phòng Ngự",
+            "72.00% Phòng Ngự",
+            "76.32% Phòng Ngự",
+            "80.64% Phòng Ngự",
+            "86.40% Phòng Ngự",
+            "92.16% Phòng Ngự",
+            "97.92% Phòng Ngự",
+            "103.68% Phòng Ngự",
+            "109.44% Phòng Ngự",
+            "115.20% Phòng Ngự",
+            "122.40% Phòng Ngự",
+            "129.60% Phòng Ngự",
+            "136.80% Phòng Ngự"
+          ]
+        },
+        {
+          "name": "Tốc Độ Tấn Công Tăng",
+          "parameters": [
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "parameters": [
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Arataki Đệ Nhất",
+      "info": "Arataki Itto khi thi triển \"Arataki Kesagiri\" liên tục sẽ có hiệu quả sau:\n·Mỗi lần trảm kích đều sẽ khiến tốc độ tấn công của trảm kích lần sau tăng 10%, tối đa tăng 30% bằng cách này;\n·Tăng khả năng kháng gián đoạn.\n\nHiệu quả sẽ biến mất khi kết thúc thi triển liên tục."
+    },
+    "passive2": {
+      "name": "Huyết Mạch Xích Quỷ",
+      "info": "Tăng sát thương gây ra từ \"Arataki Kesagiri\", lượng tăng thêm sát thương sẽ dựa vào 35% phòng ngự của Arataki Itto."
+    },
+    "passive3": {
+      "name": "Bổ Củi",
+      "info": "Khi nhân vật của bản thân trong đội đốn gỗ bằng cách tấn công cây cối, có 25% xác suất nhận được thêm gỗ."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Nhã Nhặn\"",
+          "count": 3
+        },
+        {
+          "name": "Dịch Slime",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Nhã Nhặn\"",
+          "count": 2
+        },
+        {
+          "name": "Tinh Slime",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Nhã Nhặn\"",
+          "count": 4
+        },
+        {
+          "name": "Tinh Slime",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Nhã Nhặn\"",
+          "count": 6
+        },
+        {
+          "name": "Tinh Slime",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Nhã Nhặn\"",
+          "count": 9
+        },
+        {
+          "name": "Tinh Slime",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Nhã Nhặn\"",
+          "count": 4
+        },
+        {
+          "name": "Bột Slime",
+          "count": 4
+        },
+        {
+          "name": "Trái Tim Tro Bụi",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Nhã Nhặn\"",
+          "count": 6
+        },
+        {
+          "name": "Bột Slime",
+          "count": 6
+        },
+        {
+          "name": "Trái Tim Tro Bụi",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Nhã Nhặn\"",
+          "count": 12
+        },
+        {
+          "name": "Bột Slime",
+          "count": 9
+        },
+        {
+          "name": "Trái Tim Tro Bụi",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Nhã Nhặn\"",
+          "count": 16
+        },
+        {
+          "name": "Bột Slime",
+          "count": 12
+        },
+        {
+          "name": "Trái Tim Tro Bụi",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Itto_01",
+      "combat3": "Skill_E_Itto_01_HD",
+      "passive1": "UI_Talent_S_Itto_05",
+      "passive2": "UI_Talent_S_Itto_06",
+      "passive3": "UI_Talent_S_Itto_07"
+    },
+    "version": "2.3"
+  }
+}

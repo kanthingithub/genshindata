@@ -1,0 +1,229 @@
+{
+  "name": "狩猟弓",
+  "description": "狩人が奏でる音楽は二つの音色で構成される。弦が震える音と矢が空気を破る唸り声である。",
+  "weapontype": "弓",
+  "rarity": "1",
+  "baseatk": 23,
+  "substat": "",
+  "subvalue": "",
+  "effectname": "",
+  "effect": [],
+  "r1": [],
+  "r2": [],
+  "r3": [],
+  "r4": [],
+  "r5": [],
+  "weaponmaterialtype": "Boreal Wolf",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "モラ"
+      },
+      {
+        "name": "凛風奔狼の乳歯",
+        "count": 1
+      },
+      {
+        "name": "地脈の旧枝",
+        "count": 1
+      },
+      {
+        "name": "宝探しの鴉マーク",
+        "count": 1
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "モラ",
+        "count": 5000
+      },
+      {
+        "name": "凛風奔狼の砕牙",
+        "count": 1
+      },
+      {
+        "name": "地脈の旧枝",
+        "count": 4
+      },
+      {
+        "name": "宝探しの鴉マーク",
+        "count": 2
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "モラ",
+        "count": 5000
+      },
+      {
+        "name": "凛風奔狼の砕牙",
+        "count": 2
+      },
+      {
+        "name": "地脈の枯れ葉",
+        "count": 2
+      },
+      {
+        "name": "シルバーの鴉マーク",
+        "count": 2
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "モラ",
+        "count": 10000
+      },
+      {
+        "name": "凛風奔狼の断牙",
+        "count": 1
+      },
+      {
+        "name": "地脈の枯れ葉",
+        "count": 4
+      },
+      {
+        "name": "シルバーの鴉マーク",
+        "count": 3
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Weapon_Hunter%27s_Bow.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters_Awaken.png",
+    "nameicon": "UI_EquipIcon_Bow_Hunters",
+    "namegacha": "UI_Gacha_EquipIcon_Bow_Hunters",
+    "nameawakenicon": "UI_EquipIcon_Bow_Hunters_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Hunter's_Bow"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 23.2450008392334,
+      "specialized": 0
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 30.28823547281263,
+      "specialized": 0
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 39.02835687460424,
+      "specialized": 0
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 47.675499470119576,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 56.25290380439765,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 67.95290361366278,
+      "specialized": 0
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 76.46057245772363,
+      "specialized": 0
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 84.8752624955082,
+      "specialized": 0
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 93.24346035913459,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 101.56517159064288,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 113.16517101843829,
+      "specialized": 0
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 121.41715230176942,
+      "specialized": 0
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 129.62263032686224,
+      "specialized": 0
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 141.3226310898017,
+      "specialized": 0
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 149.48163356685654,
+      "specialized": 0
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 157.59413832771315,
+      "specialized": 0
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 169.2941390906526,
+      "specialized": 0
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 177.38340053545016,
+      "specialized": 0
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 185.42616426404948,
+      "specialized": 0
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 185.42616426404948,
+      "specialized": 0
+    },
+    "s75": null,
+    "s80": null,
+    "s80p": null,
+    "s85": null,
+    "s90": null
+  },
+  "version": "1.0"
+}

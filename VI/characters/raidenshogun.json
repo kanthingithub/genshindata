@@ -1,0 +1,1112 @@
+{
+  "name": "Raiden Shogun",
+  "fullname": "Raiden Shogun",
+  "title": "Nhất Tâm Tịnh Thổ",
+  "description": "Là Tôn Chủ Narukami Ogosho đại nhân, đưa người dân Inazuma hướng đến sự \"vĩnh hằng\" ngàn năm không đổi.",
+  "rarity": "5",
+  "element": "Lôi",
+  "weapontype": "Vũ Khí Cán Dài",
+  "substat": "Hiệu Quả Nạp Nguyên Tố",
+  "gender": "nữ",
+  "body": "LADY",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "Thành Inazuma",
+  "birthdaymmdd": "6/26",
+  "birthday": "26 tháng 6",
+  "constellation": "Cung Thiên Hạ Nhân",
+  "cv": {
+    "english": "Anne Yatco",
+    "chinese": "菊花花",
+    "japanese": "沢城みゆき",
+    "korean": "Park Ji-yoon"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vụn Tử Tinh Thắng Lợi",
+        "count": 1
+      },
+      {
+        "name": "Quả Amakumo",
+        "count": 3
+      },
+      {
+        "name": "Kiếm Cách Cũ Nát",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Tử Tinh Thắng Lợi",
+        "count": 3
+      },
+      {
+        "name": "Ngọc Sấm Sét",
+        "count": 2
+      },
+      {
+        "name": "Quả Amakumo",
+        "count": 10
+      },
+      {
+        "name": "Kiếm Cách Cũ Nát",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Tử Tinh Thắng Lợi",
+        "count": 6
+      },
+      {
+        "name": "Ngọc Sấm Sét",
+        "count": 4
+      },
+      {
+        "name": "Quả Amakumo",
+        "count": 20
+      },
+      {
+        "name": "Kiếm Cách Bản Sao",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Tử Tinh Thắng Lợi",
+        "count": 3
+      },
+      {
+        "name": "Ngọc Sấm Sét",
+        "count": 8
+      },
+      {
+        "name": "Quả Amakumo",
+        "count": 30
+      },
+      {
+        "name": "Kiếm Cách Bản Sao",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Tử Tinh Thắng Lợi",
+        "count": 6
+      },
+      {
+        "name": "Ngọc Sấm Sét",
+        "count": 12
+      },
+      {
+        "name": "Quả Amakumo",
+        "count": 45
+      },
+      {
+        "name": "Kiếm Cách Trứ Danh",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Tử Tinh Thắng Lợi",
+        "count": 6
+      },
+      {
+        "name": "Ngọc Sấm Sét",
+        "count": 20
+      },
+      {
+        "name": "Quả Amakumo",
+        "count": 60
+      },
+      {
+        "name": "Kiếm Cách Trứ Danh",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210818/2021081811215218379.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210818/2021081811215958458.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Shougun.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/af8df0bbece1be9ab90d3cf2cb0ee7bd.png",
+    "nameicon": "UI_AvatarIcon_Shougun",
+    "nameiconcard": "UI_AvatarIcon_Shougun_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Shougun",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Shougun",
+    "namesideicon": "UI_AvatarIcon_Side_Shougun"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Raiden_Shogun"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1004.7992553710938,
+      "attack": 26.254199981689453,
+      "defense": 61.445411682128906,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2606.449370007249,
+      "attack": 68.1033974065258,
+      "defense": 159.38940411492695,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3467.9739061400614,
+      "attack": 90.61235622305412,
+      "defense": 212.07450467034687,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5189.195090002322,
+      "attack": 135.58580234404144,
+      "defense": 317.33049851496617,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5801.330954260135,
+      "attack": 151.57901027556,
+      "defense": 354.7646453960697,
+      "specialized": 0.07999999821186066
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6674.50146501456,
+      "attack": 174.39390895797806,
+      "defense": 408.1607055694876,
+      "specialized": 0.07999999821186066
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7490.68261735831,
+      "attack": 195.71818492843704,
+      "defense": 458.072906497222,
+      "specialized": 0.1599999964237213
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8372.896145092847,
+      "attack": 218.76936680370636,
+      "defense": 512.0219645935795,
+      "specialized": 0.1599999964237213
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8985.031887280347,
+      "attack": 234.76257282787628,
+      "defense": 549.4561229187748,
+      "specialized": 0.1599999964237213
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9875.28418469234,
+      "attack": 258.02379811787796,
+      "defense": 603.8967672793624,
+      "specialized": 0.1599999964237213
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10487.420171020465,
+      "attack": 274.01700795674515,
+      "defense": 641.3309103457686,
+      "specialized": 0.23999999463558197
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11387.720211840846,
+      "attack": 297.5407687366951,
+      "defense": 696.3859935874607,
+      "specialized": 0.23999999463558197
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11999.855954028346,
+      "attack": 313.53397094616776,
+      "defense": 733.8201366538669,
+      "specialized": 0.3199999928474426
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12907.190038097906,
+      "attack": 337.24152284375305,
+      "defense": 789.3053652016242,
+      "specialized": 0.3199999928474426
+    }
+  },
+  "version": "2.1",
+  "constellations": {
+    "c1": {
+      "name": "Lời Tiên Tri Đen Tối",
+      "effect": "**Ước Nguyện Chakra** có thể tích tụ Ý Lực nhanh hơn. Nhân vật Nguyên Tố Lôi sau khi thi triển Kỹ Năng Nộ sẽ tăng 80% tích lũy Ý Lực; nhân vật nguyên tố khác sau khi thi triển Kỹ Năng Nộ sẽ tăng 20% tích lũy Ý Lực."
+    },
+    "c2": {
+      "name": "Càn Quét Thiên Hạ",
+      "effect": "Khi trong trạng thái Mộng Tưởng Nhất Đao và Mộng Tưởng Nhất Tâm của **Bí Kỹ - Mộng Tưởng Chân Thuyết**, tấn công của Raiden Shogun sẽ bỏ qua 60% phòng ngự của địch."
+    },
+    "c3": {
+      "name": "Chuyện Xưa Kể Lại",
+      "effect": "Cấp kỹ năng **Bí Kỹ - Mộng Tưởng Chân Thuyết** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "Thờ Phụng Lẽ Phải",
+      "effect": "**Mộng Tưởng Nhất Tâm** của **Bí Kỹ - Mộng Tưởng Chân Thuyết** sau khi kết thúc, tất cả nhân vật trong đội gần đó (Không bao gồm Raiden Shogun) sẽ tăng 30% tấn công, duy trì 10s."
+    },
+    "c5": {
+      "name": "Shogun Giáng Lâm",
+      "effect": "Cấp kỹ năng **Thần Biến - Ánh Chớp Tà Ác** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Kế Thừa Ước Nguyện",
+      "effect": "Khi trong trạng thái **Mộng Tưởng Nhất Tâm** của **Bí Kỹ - Mộng Tưởng Chân Thuyết**, sát thương Kỹ Năng Nộ của Raiden Shogun trúng kẻ địch sẽ giảm 1s CD Kỹ Năng Nộ của tất cả nhân vật trong đội ở gần đó (Không bao gồm Raiden Shogun).\nHiệu quả này mỗi giây tối đa kích hoạt 1 lần, trong thời gian duy trì tối đa kích hoạt 5 lần."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shougun_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shougun_03.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Shougun_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shougun_02.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Shougun_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shougun_04.png",
+      "constellation": "Eff_UI_Talent_Shougun"
+    },
+    "version": "2.1"
+  },
+  "talent": {
+    "name": "Raiden Shogun",
+    "combat1": {
+      "name": "Tấn Công Thường - Origin",
+      "info": "**Tấn Công Thường**\nThực hiện tối đa 5 lần đánh liên tiếp.\n\n**Trọng Kích**\nTiêu hao thể lực nhất định, chém nhanh về phía trước.\n\n**Tấn Công Khi Đáp**\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "39.65%",
+            "42.87%",
+            "46.10%",
+            "50.71%",
+            "53.94%",
+            "57.63%",
+            "62.70%",
+            "67.77%",
+            "72.84%",
+            "78.37%",
+            "84.71%",
+            "92.16%",
+            "99.62%",
+            "107.07%",
+            "115.20%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "39.73%",
+            "42.97%",
+            "46.20%",
+            "50.82%",
+            "54.05%",
+            "57.75%",
+            "62.83%",
+            "67.91%",
+            "73.00%",
+            "78.54%",
+            "84.89%",
+            "92.36%",
+            "99.83%",
+            "107.30%",
+            "115.45%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "49.88%",
+            "53.94%",
+            "58.00%",
+            "63.80%",
+            "67.86%",
+            "72.50%",
+            "78.88%",
+            "85.26%",
+            "91.64%",
+            "98.60%",
+            "106.58%",
+            "115.95%",
+            "125.33%",
+            "134.71%",
+            "144.94%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "28.98%+28.98%",
+            "31.34%+31.34%",
+            "33.70%+33.70%",
+            "37.07%+37.07%",
+            "39.43%+39.43%",
+            "42.12%+42.12%",
+            "45.83%+45.83%",
+            "49.54%+49.54%",
+            "53.25%+53.25%",
+            "57.29%+57.29%",
+            "61.92%+61.92%",
+            "67.37%+67.37%",
+            "72.82%+72.82%",
+            "78.27%+78.27%",
+            "84.22%+84.22%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 5",
+          "parameters": [
+            "65.45%",
+            "70.77%",
+            "76.10%",
+            "83.71%",
+            "89.04%",
+            "95.13%",
+            "103.50%",
+            "111.87%",
+            "120.24%",
+            "129.37%",
+            "139.83%",
+            "152.14%",
+            "164.44%",
+            "176.75%",
+            "190.17%"
+          ]
+        },
+        {
+          "name": "Sát Thương Trọng Kích",
+          "parameters": [
+            "99.59%",
+            "107.69%",
+            "115.80%",
+            "127.38%",
+            "135.49%",
+            "144.75%",
+            "157.49%",
+            "170.23%",
+            "182.96%",
+            "196.86%",
+            "212.78%",
+            "231.51%",
+            "250.23%",
+            "268.96%",
+            "289.38%"
+          ]
+        },
+        {
+          "name": "Thể lực Trọng Kích tiêu hao",
+          "parameters": [
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Đáp",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Thần Biến - Ánh Chớp Tà Ác",
+      "info": "Raiden Shogun khai mở Tịnh Thổ, gây Sát Thương Nguyên Tố Lôi cho kẻ địch xung quanh, khiến tất cả nhân vật trong đội gần đó nhận trạng thái \"Con Mắt Lôi Phạt\".\n\n**Con Mắt Lôi Phạt**\n·Nhân vật nhận hiệu ứng này khi gây sát thương cho địch, Con Mắt Lôi Phạt sẽ hợp lực tấn công, gây Sát Thương Phạm Vi Nguyên Tố Lôi ở vị trí kẻ địch.\n·Nhân vật nhận được Con Mắt Lôi Phạt, trong thời gian duy trì hiệu ứng này sẽ tăng sát thương Kỹ Năng Nộ, mức độ tăng tùy theo Năng Lượng Nguyên Tố của Kỹ Năng Nộ.\n\nCon Mắt Lôi Phạt của mỗi đội mỗi 0.9s tối đa tiến hành hợp lực tấn công một lần.\nNhân vật khác trong đội (không phải bản thân) kích hoạt hợp lực tấn công sẽ tạo ra sát thương bằng 20% sát thương gốc.",
+      "description": "Trở thành một phần của thần. Lôi Thần có thể trao tay và mắt cho thuộc hạ để thay người phán xử.",
+      "attributes": [
+        {
+          "name": "Sát Thương Kỹ Năng",
+          "parameters": [
+            "117.20%",
+            "125.99%",
+            "134.78%",
+            "146.50%",
+            "155.29%",
+            "164.08%",
+            "175.80%",
+            "187.52%",
+            "199.24%",
+            "210.96%",
+            "222.68%",
+            "234.40%",
+            "249.05%",
+            "263.70%",
+            "278.35%"
+          ]
+        },
+        {
+          "name": "Sát Thương Hợp Lực Tấn Công",
+          "parameters": [
+            "42.00%",
+            "45.15%",
+            "48.30%",
+            "52.50%",
+            "55.65%",
+            "58.80%",
+            "63.00%",
+            "67.20%",
+            "71.40%",
+            "75.60%",
+            "79.80%",
+            "84.00%",
+            "89.25%",
+            "94.50%",
+            "99.75%"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "parameters": [
+            "25s",
+            "25s",
+            "25s",
+            "25s",
+            "25s",
+            "25s",
+            "25s",
+            "25s",
+            "25s",
+            "25s",
+            "25s",
+            "25s",
+            "25s",
+            "25s",
+            "25s"
+          ]
+        },
+        {
+          "name": "Tăng Sát Thương Kỹ Năng Nộ",
+          "parameters": [
+            "Mỗi Điểm Năng Lượng Nguyên Tố 0.22%",
+            "Mỗi Điểm Năng Lượng Nguyên Tố 0.23%",
+            "Mỗi Điểm Năng Lượng Nguyên Tố 0.24%",
+            "Mỗi Điểm Năng Lượng Nguyên Tố 0.25%",
+            "Mỗi Điểm Năng Lượng Nguyên Tố 0.26%",
+            "Mỗi Điểm Năng Lượng Nguyên Tố 0.27%",
+            "Mỗi Điểm Năng Lượng Nguyên Tố 0.28%",
+            "Mỗi Điểm Năng Lượng Nguyên Tố 0.29%",
+            "Mỗi Điểm Năng Lượng Nguyên Tố 0.30%",
+            "Mỗi Điểm Năng Lượng Nguyên Tố 0.30%",
+            "Mỗi Điểm Năng Lượng Nguyên Tố 0.30%",
+            "Mỗi Điểm Năng Lượng Nguyên Tố 0.30%",
+            "Mỗi Điểm Năng Lượng Nguyên Tố 0.30%",
+            "Mỗi Điểm Năng Lượng Nguyên Tố 0.30%",
+            "Mỗi Điểm Năng Lượng Nguyên Tố 0.30%"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Bí Kỹ - Mộng Tưởng Chân Thuyết",
+      "info": "Tích tụ ngàn vạn chân ngôn, dùng hết Ý Lực Ước Nguyện Chakra, chém ra Mộng Tưởng Nhất Đao hủy diệt tất cả lời nguyền, gây Sát Thương Phạm Vi Nguyên Tố Lôi; Đồng thời sử dụng \"Mộng Tưởng Nhất Tâm\" để chiến đấu trong khoảng thời gian tiếp theo. Tăng sát thương mà Mộng Tưởng Nhất Đao và Mộng Tưởng Nhất Tâm gây ra dựa trên số tầng Ý Lực của Ước Nguyện Chakra tiêu hao khi thi triển.\n\n**Mộng Tưởng Nhất Tâm**\nTrong trạng thái này, Raiden Shogun dùng đao để tấn công, sát thương gây ra từ tấn công thường, trọng kích, tấn công khi đáp sẽ chuyển hóa thành Sát Thương Nguyên Tố Lôi không thể bị đính kèm thay thế, đồng thời khi đánh trúng kẻ địch sẽ hồi phục Năng Lượng Nguyên Tố cho tất cả nhân vật trong đội ở gần. Mỗi 1s tối đa hồi Năng Lượng Nguyên Tố một lần theo cách này, tối đa kích hoạt 5 lần trong thời gian duy trì trạng thái.\nTrong trạng thái này, Raiden Shogun sẽ tăng khả năng kháng gián đoạn, đồng thời miễn dịch sát thương Điện Cảm.\nTrong trạng thái Mộng Tưởng Nhất Tâm, sát thương gây ra từ tấn công thường, trọng kích, tấn công khi đáp sẽ được xem là sát thương kỹ năng nộ.\n\nHiệu quả Mộng Tưởng Nhất Tâm sẽ biến mất khi Raiden Shogun rời trận.\n\n**Ước Nguyện Chakra**\nKhi nhân vật trong đội ở gần (Không bao gồm bản thân Raiden Shogun) thi triển Kỹ Năng Nộ sẽ căn cứ vào số Năng Lượng Nguyên Tố của Kỹ Năng Nộ, để tích lũy Ý Lực cho Ước Nguyện Chakra của Raiden Shogun.\nTối đa tích lũy 60 tầng Ý Lực.\n\nÝ Lực tích lũy trong Ước Nguyện Chakra sẽ xóa sau khi rời chiến đấu 300s.",
+      "description": "Bí kiếm mới lĩnh ngộ gần đây của Lôi Thần, loại bỏ \"Vô Tưởng\", chuyển thành \"Mộng Tưởng\". Từ \"Chân Thuyết\" có nghĩa là đổi mới, câu chuyện của Inazuma cũng sẽ sang trang.",
+      "attributes": [
+        {
+          "name": "Sát Thương Cơ Bản Mộng Tưởng Nhất Đao",
+          "parameters": [
+            "400.80%",
+            "430.86%",
+            "460.92%",
+            "501.00%",
+            "531.06%",
+            "561.12%",
+            "601.20%",
+            "641.28%",
+            "681.36%",
+            "721.44%",
+            "761.52%",
+            "801.60%",
+            "851.70%",
+            "901.80%",
+            "951.90%"
+          ]
+        },
+        {
+          "name": "Buff Ý Lực",
+          "parameters": [
+            "3.89% Nhất Đao/0.73% Nhất Tâm mỗi tầng",
+            "4.18% Nhất Đao/0.78% Nhất Tâm mỗi tầng",
+            "4.47% Nhất Đao/0.84% Nhất Tâm mỗi tầng",
+            "4.86% Nhất Đao/0.91% Nhất Tâm mỗi tầng",
+            "5.15% Nhất Đao/0.96% Nhất Tâm mỗi tầng",
+            "5.44% Nhất Đao/1.02% Nhất Tâm mỗi tầng",
+            "5.83% Nhất Đao/1.09% Nhất Tâm mỗi tầng",
+            "6.22% Nhất Đao/1.16% Nhất Tâm mỗi tầng",
+            "6.61% Nhất Đao/1.23% Nhất Tâm mỗi tầng",
+            "7.00% Nhất Đao/1.31% Nhất Tâm mỗi tầng",
+            "7.39% Nhất Đao/1.38% Nhất Tâm mỗi tầng",
+            "7.78% Nhất Đao/1.45% Nhất Tâm mỗi tầng",
+            "8.26% Nhất Đao/1.54% Nhất Tâm mỗi tầng",
+            "8.75% Nhất Đao/1.63% Nhất Tâm mỗi tầng",
+            "9.23% Nhất Đao/1.72% Nhất Tâm mỗi tầng"
+          ]
+        },
+        {
+          "name": "Số Tầng Ý Lực Tích Tụ",
+          "parameters": [
+            "0.15000000596046448 mỗi điểm Năng Lượng Nguyên Tố",
+            "0.1599999964237213 mỗi điểm Năng Lượng Nguyên Tố",
+            "0.1599999964237213 mỗi điểm Năng Lượng Nguyên Tố",
+            "0.17000000178813934 mỗi điểm Năng Lượng Nguyên Tố",
+            "0.17000000178813934 mỗi điểm Năng Lượng Nguyên Tố",
+            "0.18000000715255737 mỗi điểm Năng Lượng Nguyên Tố",
+            "0.18000000715255737 mỗi điểm Năng Lượng Nguyên Tố",
+            "0.1899999976158142 mỗi điểm Năng Lượng Nguyên Tố",
+            "0.1899999976158142 mỗi điểm Năng Lượng Nguyên Tố",
+            "0.20000000298023224 mỗi điểm Năng Lượng Nguyên Tố",
+            "0.20000000298023224 mỗi điểm Năng Lượng Nguyên Tố",
+            "0.20000000298023224 mỗi điểm Năng Lượng Nguyên Tố",
+            "0.20000000298023224 mỗi điểm Năng Lượng Nguyên Tố",
+            "0.20000000298023224 mỗi điểm Năng Lượng Nguyên Tố",
+            "0.20000000298023224 mỗi điểm Năng Lượng Nguyên Tố"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "44.74%",
+            "47.79%",
+            "50.84%",
+            "54.90%",
+            "57.96%",
+            "61.51%",
+            "66.09%",
+            "70.66%",
+            "75.24%",
+            "79.82%",
+            "84.39%",
+            "88.97%",
+            "93.54%",
+            "98.12%",
+            "102.69%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "43.96%",
+            "46.95%",
+            "49.95%",
+            "53.95%",
+            "56.94%",
+            "60.44%",
+            "64.93%",
+            "69.43%",
+            "73.93%",
+            "78.42%",
+            "82.92%",
+            "87.41%",
+            "91.91%",
+            "96.40%",
+            "100.90%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "53.82%",
+            "57.49%",
+            "61.16%",
+            "66.05%",
+            "69.72%",
+            "74.00%",
+            "79.51%",
+            "85.01%",
+            "90.52%",
+            "96.02%",
+            "101.53%",
+            "107.03%",
+            "112.54%",
+            "118.04%",
+            "123.55%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "30.89%+30.98%",
+            "32.99%+33.09%",
+            "35.10%+35.20%",
+            "37.91%+38.02%",
+            "40.01%+40.13%",
+            "42.47%+42.59%",
+            "45.63%+45.76%",
+            "48.79%+48.93%",
+            "51.95%+52.10%",
+            "55.11%+55.26%",
+            "58.27%+58.43%",
+            "61.43%+61.60%",
+            "64.58%+64.77%",
+            "67.74%+67.94%",
+            "70.90%+71.10%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 5",
+          "parameters": [
+            "73.94%",
+            "78.99%",
+            "84.03%",
+            "90.75%",
+            "95.79%",
+            "101.67%",
+            "109.24%",
+            "116.80%",
+            "124.36%",
+            "131.92%",
+            "139.48%",
+            "147.05%",
+            "154.61%",
+            "162.17%",
+            "169.73%"
+          ]
+        },
+        {
+          "name": "Sát Thương Trọng Kích",
+          "parameters": [
+            "61.60%+74.36%",
+            "65.80%+79.43%",
+            "70.00%+84.50%",
+            "75.60%+91.26%",
+            "79.80%+96.33%",
+            "84.70%+102.24%",
+            "91.00%+109.85%",
+            "97.30%+117.46%",
+            "103.60%+125.06%",
+            "109.90%+132.67%",
+            "116.20%+140.27%",
+            "122.50%+147.87%",
+            "128.80%+155.48%",
+            "135.10%+163.08%",
+            "141.40%+170.69%"
+          ]
+        },
+        {
+          "name": "Thể lực Trọng Kích tiêu hao",
+          "parameters": [
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm",
+            "20 điểm"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        },
+        {
+          "name": "Mộng Tưởng Nhất Tâm Hồi Phục Năng Lượng",
+          "parameters": [
+            "1.600000023841858",
+            "1.7000000476837158",
+            "1.7999999523162842",
+            "1.899999976158142",
+            "2",
+            "2.0999999046325684",
+            "2.200000047683716",
+            "2.299999952316284",
+            "2.4000000953674316",
+            "2.5",
+            "2.5",
+            "2.5",
+            "2.5",
+            "2.5",
+            "2.5"
+          ]
+        },
+        {
+          "name": "Thời gian duy trì Mộng Tưởng Nhất Tâm",
+          "parameters": [
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "90",
+            "90",
+            "90",
+            "90",
+            "90",
+            "90",
+            "90",
+            "90",
+            "90",
+            "90",
+            "90",
+            "90",
+            "90",
+            "90",
+            "90"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Ngàn Vạn Ước Nguyện",
+      "info": "Nhân vật trong đội ở gần khi nhận được Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân sẽ tích tụ 2 tầng Ý Lực cho **Ước Nguyện Chakra**.\nHiệu quả này mỗi 3s tối đa kích hoạt một lần."
+    },
+    "passive2": {
+      "name": "Thực Thể Khai Sáng",
+      "info": "Mỗi 1% thừa ra khi Hiệu Quả Nạp Nguyên Tố vượt quá 100%, sẽ giúp Raiden Shogun nhận được hiệu quả:\n·Tăng 0.6% hồi phục Năng Lượng Nguyên Tố trong trạng thái **Mộng Tưởng Nhất Tâm**;\n·Tăng 0.4% buff Sát Thương Nguyên Tố Lôi."
+    },
+    "passive3": {
+      "name": "Kẻ Trấn Giữ Thiên Hạ",
+      "info": "Khi đột phá kiếm đơn và vũ khí cán dài, lượng Mora tiêu hao giảm 50%."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Ánh Sáng\"",
+          "count": 3
+        },
+        {
+          "name": "Kiếm Cách Cũ Nát",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Ánh Sáng\"",
+          "count": 2
+        },
+        {
+          "name": "Kiếm Cách Bản Sao",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Ánh Sáng\"",
+          "count": 4
+        },
+        {
+          "name": "Kiếm Cách Bản Sao",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Ánh Sáng\"",
+          "count": 6
+        },
+        {
+          "name": "Kiếm Cách Bản Sao",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Ánh Sáng\"",
+          "count": 9
+        },
+        {
+          "name": "Kiếm Cách Bản Sao",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Ánh Sáng\"",
+          "count": 4
+        },
+        {
+          "name": "Kiếm Cách Trứ Danh",
+          "count": 4
+        },
+        {
+          "name": "Thời Khắc Tan Chảy",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Ánh Sáng\"",
+          "count": 6
+        },
+        {
+          "name": "Kiếm Cách Trứ Danh",
+          "count": 6
+        },
+        {
+          "name": "Thời Khắc Tan Chảy",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Ánh Sáng\"",
+          "count": 12
+        },
+        {
+          "name": "Kiếm Cách Trứ Danh",
+          "count": 9
+        },
+        {
+          "name": "Thời Khắc Tan Chảy",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Ánh Sáng\"",
+          "count": 16
+        },
+        {
+          "name": "Kiếm Cách Trứ Danh",
+          "count": 12
+        },
+        {
+          "name": "Thời Khắc Tan Chảy",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_03",
+      "combat2": "Skill_S_Shougun_01",
+      "combat3": "Skill_E_Shougun_01_HD",
+      "passive1": "UI_Talent_S_Shougun_05",
+      "passive2": "UI_Talent_S_Shougun_06",
+      "passive3": "UI_Talent_S_Shougun_07"
+    },
+    "version": "2.1"
+  }
+}

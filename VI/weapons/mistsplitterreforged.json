@@ -1,0 +1,311 @@
+{
+  "name": "Ánh Sáng Đêm Sương Mù",
+  "description": "Một thanh kiếm rực lên với ánh sáng tím. Cái tên \"Ánh Sáng\" gợi nhớ quá khứ từng tan vỡ.",
+  "weapontype": "Kiếm Đơn",
+  "rarity": "5",
+  "baseatk": 48,
+  "substat": "ST Bạo Kích",
+  "subvalue": "9.6",
+  "effectname": "Linh Vật Cắt Sương",
+  "effect": [
+    "Tăng [12%] Sát Thương Nguyên Tố, đồng thời nhận lấy sức mạnh \"Vết Cắt Sương Mù\". Khi Vết Cắt Sương Mù ở tầng 1/2/3 sẽ tăng Sát Thương Nguyên Tố cùng loại với bản thân, tương ứng là [8/16/28%]. Nhân vật sẽ được nhận 1 tầng Vết Cắt Sương Mù khi: Tấn Công Thường tạo thành Sát Thương Nguyên Tố tồn tại trong 5 giây; Thi triển Kỹ Năng Nộ tồn tại trong 10 giây; Ngoài ra, Năng Lượng Nguyên Tố của nhân vật khi thấp hơn 100%, sẽ tạo ra một tầng Vết Cắt Sương Mù, Vết Cắt Sương Mù của lần này sẽ biến mất sau khi Năng Lượng Nguyên Tố của nhân vật được nạp đầy. Thời gian tồn tại của mỗi tầng Vết Cắt Sương Mù được tính độc lập với nhau.",
+    "Tăng [15%] Sát Thương Nguyên Tố, đồng thời nhận lấy sức mạnh \"Vết Cắt Sương Mù\". Khi Vết Cắt Sương Mù ở tầng 1/2/3 sẽ tăng Sát Thương Nguyên Tố cùng loại với bản thân, tương ứng là [10/20/35%]. Nhân vật sẽ được nhận 1 tầng Vết Cắt Sương Mù khi: Tấn Công Thường tạo thành Sát Thương Nguyên Tố tồn tại trong 5 giây; Thi triển Kỹ Năng Nộ tồn tại trong 10 giây; Ngoài ra, Năng Lượng Nguyên Tố của nhân vật khi thấp hơn 100%, sẽ tạo ra một tầng Vết Cắt Sương Mù, Vết Cắt Sương Mù của lần này sẽ biến mất sau khi Năng Lượng Nguyên Tố của nhân vật được nạp đầy. Thời gian tồn tại của mỗi tầng Vết Cắt Sương Mù được tính độc lập với nhau.",
+    "Tăng [18%] Sát Thương Nguyên Tố, đồng thời nhận lấy sức mạnh \"Vết Cắt Sương Mù\". Khi Vết Cắt Sương Mù ở tầng 1/2/3 sẽ tăng Sát Thương Nguyên Tố cùng loại với bản thân, tương ứng là [12/24/42%]. Nhân vật sẽ được nhận 1 tầng Vết Cắt Sương Mù khi: Tấn Công Thường tạo thành Sát Thương Nguyên Tố tồn tại trong 5 giây; Thi triển Kỹ Năng Nộ tồn tại trong 10 giây; Ngoài ra, Năng Lượng Nguyên Tố của nhân vật khi thấp hơn 100%, sẽ tạo ra một tầng Vết Cắt Sương Mù, Vết Cắt Sương Mù của lần này sẽ biến mất sau khi Năng Lượng Nguyên Tố của nhân vật được nạp đầy. Thời gian tồn tại của mỗi tầng Vết Cắt Sương Mù được tính độc lập với nhau.",
+    "Tăng [21%] Sát Thương Nguyên Tố, đồng thời nhận lấy sức mạnh \"Vết Cắt Sương Mù\". Khi Vết Cắt Sương Mù ở tầng 1/2/3 sẽ tăng Sát Thương Nguyên Tố cùng loại với bản thân, tương ứng là [14/28/49%]. Nhân vật sẽ được nhận 1 tầng Vết Cắt Sương Mù khi: Tấn Công Thường tạo thành Sát Thương Nguyên Tố tồn tại trong 5 giây; Thi triển Kỹ Năng Nộ tồn tại trong 10 giây; Ngoài ra, Năng Lượng Nguyên Tố của nhân vật khi thấp hơn 100%, sẽ tạo ra một tầng Vết Cắt Sương Mù, Vết Cắt Sương Mù của lần này sẽ biến mất sau khi Năng Lượng Nguyên Tố của nhân vật được nạp đầy. Thời gian tồn tại của mỗi tầng Vết Cắt Sương Mù được tính độc lập với nhau.",
+    "Tăng [24%] Sát Thương Nguyên Tố, đồng thời nhận lấy sức mạnh \"Vết Cắt Sương Mù\". Khi Vết Cắt Sương Mù ở tầng 1/2/3 sẽ tăng Sát Thương Nguyên Tố cùng loại với bản thân, tương ứng là [16/32/56%]. Nhân vật sẽ được nhận 1 tầng Vết Cắt Sương Mù khi: Tấn Công Thường tạo thành Sát Thương Nguyên Tố tồn tại trong 5 giây; Thi triển Kỹ Năng Nộ tồn tại trong 10 giây; Ngoài ra, Năng Lượng Nguyên Tố của nhân vật khi thấp hơn 100%, sẽ tạo ra một tầng Vết Cắt Sương Mù, Vết Cắt Sương Mù của lần này sẽ biến mất sau khi Năng Lượng Nguyên Tố của nhân vật được nạp đầy. Thời gian tồn tại của mỗi tầng Vết Cắt Sương Mù được tính độc lập với nhau."
+  ],
+  "r1": [
+    "12%",
+    "8/16/28%"
+  ],
+  "r2": [
+    "15%",
+    "10/20/35%"
+  ],
+  "r3": [
+    "18%",
+    "12/24/42%"
+  ],
+  "r4": [
+    "21%",
+    "14/28/49%"
+  ],
+  "r5": [
+    "24%",
+    "16/32/56%"
+  ],
+  "weaponmaterialtype": "",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 10000
+      },
+      {
+        "name": "Nhánh San Hô Của Biển Xa",
+        "count": 5
+      },
+      {
+        "name": "Cơ Quan Hỗn Độn",
+        "count": 5
+      },
+      {
+        "name": "Kiếm Cách Cũ Nát",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Nhánh Ngọc Của Biển Xa",
+        "count": 5
+      },
+      {
+        "name": "Cơ Quan Hỗn Độn",
+        "count": 18
+      },
+      {
+        "name": "Kiếm Cách Cũ Nát",
+        "count": 12
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Nhánh Ngọc Của Biển Xa",
+        "count": 9
+      },
+      {
+        "name": "Đầu Nối Hỗn Độn",
+        "count": 9
+      },
+      {
+        "name": "Kiếm Cách Bản Sao",
+        "count": 9
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Nhánh Quỳnh Ngọc Của Biển Xa",
+        "count": 5
+      },
+      {
+        "name": "Đầu Nối Hỗn Độn",
+        "count": 18
+      },
+      {
+        "name": "Kiếm Cách Bản Sao",
+        "count": 14
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 55000
+      },
+      {
+        "name": "Nhánh Quỳnh Ngọc Của Biển Xa",
+        "count": 9
+      },
+      {
+        "name": "Con Ngươi Hỗn Độn",
+        "count": 14
+      },
+      {
+        "name": "Kiếm Cách Trứ Danh",
+        "count": 9
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 65000
+      },
+      {
+        "name": "Nhánh Vàng Của Biển Xa",
+        "count": 6
+      },
+      {
+        "name": "Con Ngươi Hỗn Độn",
+        "count": 27
+      },
+      {
+        "name": "Kiếm Cách Trứ Danh",
+        "count": 18
+      }
+    ]
+  },
+  "images": {
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Narukami.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Narukami_Awaken.png",
+    "nameicon": "UI_EquipIcon_Sword_Narukami",
+    "namegacha": "UI_Gacha_EquipIcon_Sword_Narukami",
+    "nameawakenicon": "UI_EquipIcon_Sword_Narukami_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mistsplitter_Reforged"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 47.5369987487793,
+      "specialized": 0.09600000083446503
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 65.03061573904415,
+      "specialized": 0.11155199529337878
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 87.32546729086016,
+      "specialized": 0.13084800452482703
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 110.14322193011867,
+      "specialized": 0.15024000679910188
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 133.2937397767564,
+      "specialized": 0.16963199762928483
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 164.39374015822614,
+      "specialized": 0.16963199762928483
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 187.97209398570067,
+      "specialized": 0.18902399990355967
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 211.88320535370258,
+      "specialized": 0.20841600217783451
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 236.07952937522532,
+      "specialized": 0.22780799300801746
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 260.56110005138,
+      "specialized": 0.2472000067263842
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 291.6611004328497,
+      "specialized": 0.2472000067263842
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 316.4278724288215,
+      "specialized": 0.26659199755656715
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 341.43233485871497,
+      "specialized": 0.2859840112749339
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 372.6323356216544,
+      "specialized": 0.2859840112749339
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 397.9220220387724,
+      "specialized": 0.30537600210511684
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 423.4018426691018,
+      "specialized": 0.3247679929352998
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 454.5018411432229,
+      "specialized": 0.3247679929352998
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 480.26690842818425,
+      "specialized": 0.34416000665366653
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 506.2220872589496,
+      "specialized": 0.3634560044410229
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 537.3220933624652,
+      "specialized": 0.3634560044410229
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 563.4674517412568,
+      "specialized": 0.38284799527120583
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 589.85050055397,
+      "specialized": 0.4022400089895726
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 620.9504913986966,
+      "specialized": 0.4022400089895726
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 647.5236744246213,
+      "specialized": 0.4216320227079393
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 674.3345478844676,
+      "specialized": 0.44102399064993847
+    }
+  },
+  "version": "2.0"
+}

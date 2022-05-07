@@ -1,0 +1,934 @@
+{
+  "name": "Zhongli",
+  "fullname": "Zhongli",
+  "title": "Du Ngoạn Trần Thế",
+  "description": "Là vị khách thần bí được \"Vãng Sinh Đường\" mời đến, kiến thức uyên bác, có sự hiểu biết sâu rộng đối với nhiều sự vật sự việc.",
+  "rarity": "5",
+  "element": "Nham",
+  "weapontype": "Vũ Khí Cán Dài",
+  "substat": "Tăng ST Nguyên Tố Nham",
+  "gender": "nam",
+  "body": "MALE",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Cảng Liyue",
+  "birthdaymmdd": "12/31",
+  "birthday": "31 tháng 12",
+  "constellation": "Nham Vương Đế Quân",
+  "cv": {
+    "english": "Keith Silverstein",
+    "chinese": "彭博",
+    "japanese": "前野智昭",
+    "korean": "Pyo Young-jae"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vụn Hoàng Ngọc Cứng",
+        "count": 1
+      },
+      {
+        "name": "Thạch Phách",
+        "count": 3
+      },
+      {
+        "name": "Dịch Slime",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Hoàng Ngọc Cứng",
+        "count": 3
+      },
+      {
+        "name": "Tháp Huyền Nham",
+        "count": 2
+      },
+      {
+        "name": "Thạch Phách",
+        "count": 10
+      },
+      {
+        "name": "Dịch Slime",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Hoàng Ngọc Cứng",
+        "count": 6
+      },
+      {
+        "name": "Tháp Huyền Nham",
+        "count": 4
+      },
+      {
+        "name": "Thạch Phách",
+        "count": 20
+      },
+      {
+        "name": "Tinh Slime",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Hoàng Ngọc Cứng",
+        "count": 3
+      },
+      {
+        "name": "Tháp Huyền Nham",
+        "count": 8
+      },
+      {
+        "name": "Thạch Phách",
+        "count": 30
+      },
+      {
+        "name": "Tinh Slime",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Hoàng Ngọc Cứng",
+        "count": 6
+      },
+      {
+        "name": "Tháp Huyền Nham",
+        "count": 12
+      },
+      {
+        "name": "Thạch Phách",
+        "count": 45
+      },
+      {
+        "name": "Bột Slime",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Hoàng Ngọc Cứng",
+        "count": 6
+      },
+      {
+        "name": "Tháp Huyền Nham",
+        "count": 20
+      },
+      {
+        "name": "Thạch Phách",
+        "count": 60
+      },
+      {
+        "name": "Bột Slime",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Character_Zhongli_Card.png",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/7/7d/Character_Zhongli_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Zhongli.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201123/2020112310503599073.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201123/2020112310504363585.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/693b8a54de3e9ea43854615c14a5032b.png",
+    "nameicon": "UI_AvatarIcon_Zhongli",
+    "nameiconcard": "UI_AvatarIcon_Zhongli_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Zhongli",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Zhongli",
+    "namesideicon": "UI_AvatarIcon_Side_Zhongli"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Zhongli"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1143.9840087890625,
+      "attack": 19.551000595092773,
+      "defense": 57.436798095703125,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2967.494634443574,
+      "attack": 50.71529752007109,
+      "defense": 148.99106006650982,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3948.357427412324,
+      "attack": 67.47729665032011,
+      "defense": 198.23906116514263,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5908.002102109254,
+      "attack": 100.96816182572184,
+      "defense": 296.62829969919403,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 6604.931057187379,
+      "attack": 112.87796330887613,
+      "defense": 331.62029646433075,
+      "specialized": 0.07199999690055847
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 7599.053112821595,
+      "attack": 129.86778200561912,
+      "defense": 381.5328715993528,
+      "specialized": 0.07199999690055847
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 8528.29163821222,
+      "attack": 145.7475828021279,
+      "defense": 428.18886982933327,
+      "specialized": 0.14399999380111694
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 9532.709349183715,
+      "attack": 162.9133570734939,
+      "defense": 478.6183660684328,
+      "specialized": 0.14399999380111694
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 10229.638060121215,
+      "attack": 174.82315474195093,
+      "defense": 513.610370462964,
+      "specialized": 0.14399999380111694
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 11243.208070830384,
+      "attack": 192.14534432703022,
+      "defense": 564.4993825590209,
+      "specialized": 0.14399999380111694
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 11940.137025908509,
+      "attack": 204.05524499231342,
+      "defense": 599.4913869535521,
+      "specialized": 0.2160000056028366
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 12965.146593048645,
+      "attack": 221.57293973556898,
+      "defense": 650.9547527888062,
+      "specialized": 0.2160000056028366
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 13662.07554812677,
+      "attack": 233.482737404026,
+      "defense": 685.9467419245484,
+      "specialized": 0.2879999876022339
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 14695.093513910891,
+      "attack": 251.1372978774416,
+      "defense": 737.81219098164,
+      "specialized": 0.2879999876022339
+    }
+  },
+  "version": "1.1",
+  "constellations": {
+    "c1": {
+      "name": "Nham, Lục Hợp Dẫn Thành Cốt",
+      "effect": "Vách đá tạo thành từ **Tâm Trái Đất** có thể tồn tại cùng lúc 2 cái."
+    },
+    "c2": {
+      "name": "Thạch, Bát Hoang Ngọc Minh",
+      "effect": "Khi **Thiên Tinh** rơi xuống, các nhân vật trong trận hiện tại ở lân cận sẽ nhận được Khiên Ngọc bảo vệ."
+    },
+    "c3": {
+      "name": "Khuê Chương, Khó Khăn Không Lùi Bước",
+      "effect": "Cấp kỹ năng **Tâm Trái Đất** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "Hoàng Tông, Phá Nhưng Không Mất Kiên Cường",
+      "effect": "Tăng 20% phạm vi ảnh hưởng của **Thiên Tinh**.\nĐồng thời hiệu quả Hóa Thạch của Thiên Tinh sẽ kéo dài thêm 2s."
+    },
+    "c5": {
+      "name": "Thương Bích, Kiên Cường Như Lẽ Trời",
+      "effect": "Cấp kỹ năng **Thiên Tinh** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Thiên Ngọc, Lễ Thiên Địa Tứ Phương",
+      "effect": "Khi Khiên Ngọc chịu sát thương, sẽ hồi HP cho nhân vật hiện tại, lượng hồi phục bằng 40% sát thương.\nLượng hồi phục của 1 lần không vượt quá 8% HP tối đa của nhân vật."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Zhongli_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Zhongli_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Zhongli_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Zhongli_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Zhongli_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Zhongli_04.png",
+      "constellation": "Eff_UI_Talent_Zhongli"
+    },
+    "version": "1.1"
+  },
+  "talent": {
+    "name": "Zhongli",
+    "combat1": {
+      "name": "Tấn Công Thường - Mưa Đá",
+      "info": "**Tấn Công Thường**\nThực hiện tối đa 6 lần đánh liên tiếp.\n\n**Trọng Kích**\nTiêu hao thể lực nhất định, lao nhanh về phía trước, ném thương đá trên đường đi và điểm cuối.\n\n**Tấn Công Khi Đáp**\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường, đồng thời gây sát thương phạm vi khi chạm đất.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "30.77%",
+            "33.27%",
+            "35.78%",
+            "39.36%",
+            "41.86%",
+            "44.72%",
+            "48.66%",
+            "52.59%",
+            "56.53%",
+            "60.82%",
+            "65.74%",
+            "71.53%",
+            "77.31%",
+            "83.10%",
+            "89.41%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "31.15%",
+            "33.69%",
+            "36.22%",
+            "39.85%",
+            "42.38%",
+            "45.28%",
+            "49.26%",
+            "53.25%",
+            "57.23%",
+            "61.58%",
+            "66.56%",
+            "72.42%",
+            "78.27%",
+            "84.13%",
+            "90.52%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "38.58%",
+            "41.72%",
+            "44.86%",
+            "49.34%",
+            "52.48%",
+            "56.07%",
+            "61.00%",
+            "65.94%",
+            "70.87%",
+            "76.26%",
+            "82.42%",
+            "89.68%",
+            "96.93%",
+            "104.18%",
+            "112.10%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "42.94%",
+            "46.43%",
+            "49.93%",
+            "54.92%",
+            "58.42%",
+            "62.41%",
+            "67.90%",
+            "73.40%",
+            "78.89%",
+            "84.88%",
+            "91.74%",
+            "99.82%",
+            "107.89%",
+            "115.97%",
+            "124.77%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 5",
+          "parameters": [
+            "10.75%*4",
+            "11.63%*4",
+            "12.50%*4",
+            "13.75%*4",
+            "14.62%*4",
+            "15.63%*4",
+            "17.00%*4",
+            "18.38%*4",
+            "19.75%*4",
+            "21.25%*4",
+            "22.97%*4",
+            "24.99%*4",
+            "27.01%*4",
+            "29.03%*4",
+            "31.24%*4"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 6",
+          "parameters": [
+            "54.50%",
+            "58.93%",
+            "63.37%",
+            "69.70%",
+            "74.14%",
+            "79.21%",
+            "86.18%",
+            "93.15%",
+            "100.12%",
+            "107.73%",
+            "116.44%",
+            "126.69%",
+            "136.93%",
+            "147.18%",
+            "158.36%"
+          ]
+        },
+        {
+          "name": "Sát Thương Trọng Kích",
+          "parameters": [
+            "111.03%",
+            "120.06%",
+            "129.10%",
+            "142.01%",
+            "151.05%",
+            "161.37%",
+            "175.58%",
+            "189.78%",
+            "203.98%",
+            "219.47%",
+            "237.22%",
+            "258.10%",
+            "278.97%",
+            "299.85%",
+            "322.62%"
+          ]
+        },
+        {
+          "name": "Thể lực Trọng Kích tiêu hao",
+          "parameters": [
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm",
+            "25 điểm"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Đáp",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "ST Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Tâm Trái Đất",
+      "info": "Trong rặng núi, trên mặt đất, giữa những tảng đá đều chất chứa sức mạnh của nham. Nhưng rất ít người có thể điều khiển được sức mạnh này.\n\n**Nhấn**\nRa lệnh cho các nguyên tố Nham trên mặt đất tụ hợp lại, kết thành vách đá.\n\n**Nhấn Giữ**\nLệnh cho nguyên tố Nham xung quanh phát nổ, gây hiệu quả như sau:\n·Nếu số lượng vách đá chưa đạt giới hạn, thì sẽ tạo ra vách đá;\n·Tạo ra Khiên Ngọc, lượng hấp thu sát thương phụ thuộc vào giới hạn HP của Zhongli;\n·Gây Sát Thương Phạm Vi Nguyên Tố Nham;\n·Nếu bên cạnh có mục tiêu Nguyên Tố Nham, sẽ tiêu hao lượng lớn Nguyên Tố Nham của tối đa 2 mục tiêu. Hiệu quả này sẽ không gây sát thương.\n\n**Vách Đá**\nKhi tạo vách đá sẽ gây Sát Thương Phạm Vi Nguyên Tố Nham.\nNgoài ra, trong thời gian vách đá tồn tại, thỉnh thoảng sẽ tạo thành cộng hưởng với tạo vật Nguyên Tố Nham khác ở xung quanh, gây sát thương Nguyên Tố Nham cho kẻ địch xung quanh.\nVách đá được xem là tạo vật Nguyên Tố Nham, có thể ngăn chặn tấn công, có thể leo trèo.\nBan đầu chỉ được tồn tại đồng thời 1 vách đá duy nhất do Zhongli tạo ra.\n\n**Khiên Ngọc**\nCó hiệu quả hấp thu 150% tất cả sát thương nguyên tố và sát thương vật lý.\nNhân vật đang được Khiên Ngọc bảo vệ, sẽ khiến cho kẻ địch trong phạm vi nhỏ bị giảm 20% tất cả kháng nguyên tố và kháng vật lý, hiệu quả này không được cộng dồn.",
+      "description": "Đá kiên cố có thể đánh ngọc khắc vàng.",
+      "attributes": [
+        {
+          "name": "ST Vách Đá/ST Cộng Hưởng",
+          "parameters": [
+            "16.00%/32.00%",
+            "17.20%/34.40%",
+            "18.40%/36.80%",
+            "20.00%/40.00%",
+            "21.20%/42.40%",
+            "22.40%/44.80%",
+            "24.00%/48.00%",
+            "25.60%/51.20%",
+            "27.20%/54.40%",
+            "28.80%/57.60%",
+            "30.40%/60.80%",
+            "32.00%/64.00%",
+            "34.00%/68.00%",
+            "36.00%/72.00%",
+            "38.00%/76.00%"
+          ]
+        },
+        {
+          "name": "CD Nhấn",
+          "parameters": [
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s"
+          ]
+        },
+        {
+          "name": "Sát Thương Nhấn Giữ",
+          "parameters": [
+            "80.00%",
+            "86.00%",
+            "92.00%",
+            "100.00%",
+            "106.00%",
+            "112.00%",
+            "120.00%",
+            "128.00%",
+            "136.00%",
+            "144.00%",
+            "152.00%",
+            "160.00%",
+            "170.00%",
+            "180.00%",
+            "190.00%"
+          ]
+        },
+        {
+          "name": "Lượng hấp thu cơ bản của khiên",
+          "parameters": [
+            "1232",
+            "1356",
+            "1489",
+            "1633",
+            "1787",
+            "1951",
+            "2126",
+            "2311",
+            "2506",
+            "2712",
+            "2927",
+            "3153",
+            "3389",
+            "3636",
+            "3893"
+          ]
+        },
+        {
+          "name": "Khiên hấp thụ thêm",
+          "parameters": [
+            "12.80% lượng HP tối đa",
+            "13.76% lượng HP tối đa",
+            "14.72% lượng HP tối đa",
+            "16.00% lượng HP tối đa",
+            "16.96% lượng HP tối đa",
+            "17.92% lượng HP tối đa",
+            "19.20% lượng HP tối đa",
+            "20.48% lượng HP tối đa",
+            "21.76% lượng HP tối đa",
+            "23.04% lượng HP tối đa",
+            "24.32% lượng HP tối đa",
+            "25.60% lượng HP tối đa",
+            "27.20% lượng HP tối đa",
+            "28.80% lượng HP tối đa",
+            "30.40% lượng HP tối đa"
+          ]
+        },
+        {
+          "name": "Thời Gian Khiên Kéo Dài",
+          "parameters": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "name": "CD Nhấn Giữ",
+          "parameters": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Thiên Tinh",
+      "info": "Thiên thạch cực lớn rơi xuống, gây Sát Thương Nguyên Tố Nham cực lớn cho kẻ địch trong phạm vi rơi, và khiến địch Hóa Thạch.\n\n**Hóa Thạch**\nKẻ địch trong trạng thái Hóa Thạch không thể chuyển động.",
+      "description": "Dùng ngôi sao trên cao soi sáng cho người đang mê muội.",
+      "attributes": [
+        {
+          "name": "Sát Thương Kỹ Năng",
+          "parameters": [
+            "401.08%",
+            "444.44%",
+            "487.80%",
+            "542.00%",
+            "590.78%",
+            "639.56%",
+            "704.60%",
+            "769.64%",
+            "834.68%",
+            "899.72%",
+            "964.76%",
+            "1029.80%",
+            "1084.00%",
+            "1138.20%",
+            "1192.40%"
+          ]
+        },
+        {
+          "name": "Thời Gian Hóa Thạch",
+          "parameters": [
+            "3.0999999046325684s",
+            "3.200000047683716s",
+            "3.299999952316284s",
+            "3.4000000953674316s",
+            "3.5s",
+            "3.5999999046325684s",
+            "3.700000047683716s",
+            "3.799999952316284s",
+            "3.9000000953674316s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Huyền Nham Thần Đoạn",
+      "info": "Khi Khiên Ngọc chịu sát thương sẽ tạo ra hiệu quả kiên cố:\n·Nhân vật khi đang được Khiên Ngọc bảo vệ, hiệu quả khiên +5%.\n·Hiệu quả này tối đa cộng dồn 5 lần, duy trì đến khi Khiên Ngọc mất đi."
+    },
+    "passive2": {
+      "name": "Xuy Kim Soạn Ngọc",
+      "info": "Sát thương gây ra bởi những đòn tấn công dưới đây của Zhongli sẽ tăng tùy theo giới hạn HP:\n·Lượng tăng sát thương của tấn công thường, trọng kích và tấn công khi đáp: 1.39% giới hạn HP\n·Lượng tăng sát thương của nhấn giữ, sát thương cộng hưởng và Vách Đá của **Tâm Trái Đất**: 1.9% giới hạn HP\n·Lượng tăng sát thương của **Thiên Tinh**: 33% giới hạn HP"
+    },
+    "passive3": {
+      "name": "Mệnh Lý Tinh Thạch",
+      "info": "Khi rèn vũ khí cán dài, hoàn trả 15% Khoáng Thạch tiêu hao."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Hoàng Kim\"",
+          "count": 3
+        },
+        {
+          "name": "Dịch Slime",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Hoàng Kim\"",
+          "count": 2
+        },
+        {
+          "name": "Tinh Slime",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Hoàng Kim\"",
+          "count": 4
+        },
+        {
+          "name": "Tinh Slime",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Hoàng Kim\"",
+          "count": 6
+        },
+        {
+          "name": "Tinh Slime",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Hoàng Kim\"",
+          "count": 9
+        },
+        {
+          "name": "Tinh Slime",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Hoàng Kim\"",
+          "count": 4
+        },
+        {
+          "name": "Bột Slime",
+          "count": 4
+        },
+        {
+          "name": "Thôn Thiên Kình - Sừng",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Hoàng Kim\"",
+          "count": 6
+        },
+        {
+          "name": "Bột Slime",
+          "count": 6
+        },
+        {
+          "name": "Thôn Thiên Kình - Sừng",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Hoàng Kim\"",
+          "count": 12
+        },
+        {
+          "name": "Bột Slime",
+          "count": 9
+        },
+        {
+          "name": "Thôn Thiên Kình - Sừng",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Hoàng Kim\"",
+          "count": 16
+        },
+        {
+          "name": "Bột Slime",
+          "count": 12
+        },
+        {
+          "name": "Thôn Thiên Kình - Sừng",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_03",
+      "combat2": "Skill_S_Zhongli_01",
+      "combat3": "Skill_E_Zhongli_01_HD",
+      "passive1": "UI_Talent_S_Zhongli_05",
+      "passive2": "UI_Talent_S_Zhongli_06",
+      "passive3": "UI_Talent_Forge_Pole"
+    },
+    "version": "1.1"
+  }
+}

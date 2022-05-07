@@ -1,0 +1,854 @@
+{
+  "name": "Amber",
+  "fullname": "Amber",
+  "title": "Quán Quân Bay Lượn",
+  "description": "Cô gái luôn tràn đầy sinh lực, là Kỵ Sĩ Trinh Thám cuối cùng, ưu tú nhất của đội Kỵ Sĩ.",
+  "rarity": "4",
+  "element": "Hỏa",
+  "weapontype": "Cung",
+  "substat": "Tấn Công",
+  "gender": "nữ",
+  "body": "GIRL",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Đội Kỵ Sĩ Tây Phong",
+  "birthdaymmdd": "8/10",
+  "birthday": "10 tháng 8",
+  "constellation": "Tiểu Thố",
+  "cv": {
+    "english": "Kelly Baskin",
+    "chinese": "蔡书瑾",
+    "japanese": "石見舞菜香",
+    "korean": "Kim Yeon-woo"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vụn Mã Não Cháy",
+        "count": 1
+      },
+      {
+        "name": "Tiểu Đăng Thảo",
+        "count": 3
+      },
+      {
+        "name": "Mũi Tên Chắc Chắn",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Mã Não Cháy",
+        "count": 3
+      },
+      {
+        "name": "Ngọn Lửa Vĩnh Hằng",
+        "count": 2
+      },
+      {
+        "name": "Tiểu Đăng Thảo",
+        "count": 10
+      },
+      {
+        "name": "Mũi Tên Chắc Chắn",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Mã Não Cháy",
+        "count": 6
+      },
+      {
+        "name": "Ngọn Lửa Vĩnh Hằng",
+        "count": 4
+      },
+      {
+        "name": "Tiểu Đăng Thảo",
+        "count": 20
+      },
+      {
+        "name": "Mũi Tên Sắc Bén",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Mã Não Cháy",
+        "count": 3
+      },
+      {
+        "name": "Ngọn Lửa Vĩnh Hằng",
+        "count": 8
+      },
+      {
+        "name": "Tiểu Đăng Thảo",
+        "count": 30
+      },
+      {
+        "name": "Mũi Tên Sắc Bén",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Mã Não Cháy",
+        "count": 6
+      },
+      {
+        "name": "Ngọn Lửa Vĩnh Hằng",
+        "count": 12
+      },
+      {
+        "name": "Tiểu Đăng Thảo",
+        "count": 45
+      },
+      {
+        "name": "Mũi Tên Thiện Chiến",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Mã Não Cháy",
+        "count": 6
+      },
+      {
+        "name": "Ngọn Lửa Vĩnh Hằng",
+        "count": 20
+      },
+      {
+        "name": "Tiểu Đăng Thảo",
+        "count": 60
+      },
+      {
+        "name": "Mũi Tên Thiện Chiến",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Character_Amber_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Character_Amber_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ambor.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ambor.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20191009/2019100914372396510.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20191009/2019100914390892929.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/b7c1e4d14fdaac060eb86e3ad09bbf78.png",
+    "nameicon": "UI_AvatarIcon_Ambor",
+    "nameiconcard": "UI_AvatarIcon_Ambor_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Ambor",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Ambor",
+    "namesideicon": "UI_AvatarIcon_Side_Ambor"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Amber"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 793.2581787109375,
+      "attack": 18.698400497436523,
+      "defense": 50.358001708984375,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2037.8802656474581,
+      "attack": 48.036190984907535,
+      "defense": 129.36970667853166,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2630.484757834958,
+      "attack": 62.00518131083527,
+      "defense": 166.98970561041642,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 3940.153839915467,
+      "attack": 92.87623650202931,
+      "defense": 250.1307555782696,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4361.214875071717,
+      "attack": 102.80157143244924,
+      "defense": 276.8607551205059,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5016.44630014518,
+      "attack": 118.24645423774109,
+      "defense": 318.4564752897568,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5577.861095067055,
+      "attack": 131.48023414496765,
+      "defense": 354.0964746794052,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6233.092520140519,
+      "attack": 146.9251169502595,
+      "defense": 395.6921948486561,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6654.153555296769,
+      "attack": 156.85045188067943,
+      "defense": 422.42219820558967,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7308.591401431302,
+      "attack": 172.2766287246277,
+      "defense": 463.9675400104752,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7729.652436587552,
+      "attack": 182.20196365504762,
+      "defense": 490.69753573801427,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8384.88348340604,
+      "attack": 197.64683754424732,
+      "defense": 532.2932318946987,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 8805.94451856229,
+      "attack": 207.5721762893645,
+      "defense": 559.0232276222378,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9461.175943635753,
+      "attack": 223.01705909465636,
+      "defense": 600.6189477914886,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Bắn Một Được Hai Hilichurl!",
+      "effect": "Khi **ngắm bắn**, sẽ bắn ra 2 mũi tên liên tiếp. Mũi tên thứ hai tạo ra 20% sát thương so với sát thương gốc."
+    },
+    "c2": {
+      "name": "Thỏ Xông Lên",
+      "effect": "Bá Tước Thỏ bản cải tiến! Khi hoàn thành tụ lực ngắm bắn trúng chân Bá Tước Thỏ, sẽ gây nổ ngay.\nChủ động làm nổ Bá Tước Thỏ, sẽ gây thêm 200% sát thương."
+    },
+    "c3": {
+      "name": "Cháy Lên Nào!",
+      "effect": "Cấp kỹ năng **Mưa Tên** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "Không Phải Con Rối Thường",
+      "effect": "CD của **Con Rối Nổ** giảm 20%, và tăng thêm 1 lần sử dụng."
+    },
+    "c5": {
+      "name": "Là Bá Tước Thỏ!",
+      "effect": "Cấp kỹ năng **Con Rối Nổ** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Nhanh Như Lửa",
+      "effect": "Sau khi sử dụng **Mưa Tên**, 10s tiếp theo tăng 15% tốc độ di chuyển của tất cả thành viên trong đội, tấn công tăng 15%."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ambor_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ambor_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Ambor_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ambor_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Ambor_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ambor_04.png",
+      "constellation": "Eff_UI_Talent_Ambor"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Amber",
+    "combat1": {
+      "name": "Tấn Công Thường: Xạ Thủ Thần",
+      "info": "**Tấn Công Thường**\nThực hiện tối đa 5 lần bắn tên liên tiếp.\n\n**Trọng Kích**\nSát thương càng cao, **ngắm bắn** càng chuẩn.\nKhi ngắm bắn, ngọn lửa sẽ tích tụ trên mũi tên. Mũi tên đầy lửa sẽ gây Sát Thương Nguyên Tố Hỏa.\n\n**Tấn Công Khi Đáp**\nBắn mưa tên liên tiếp xuống mặt đất, gây sát thương phạm vi khi chạm đất.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "36.12%",
+            "39.06%",
+            "42.00%",
+            "46.20%",
+            "49.14%",
+            "52.50%",
+            "57.12%",
+            "61.74%",
+            "66.36%",
+            "71.40%",
+            "76.44%",
+            "81.48%",
+            "86.52%",
+            "91.56%",
+            "96.60%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "36.12%",
+            "39.06%",
+            "42.00%",
+            "46.20%",
+            "49.14%",
+            "52.50%",
+            "57.12%",
+            "61.74%",
+            "66.36%",
+            "71.40%",
+            "76.44%",
+            "81.48%",
+            "86.52%",
+            "91.56%",
+            "96.60%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "46.44%",
+            "50.22%",
+            "54.00%",
+            "59.40%",
+            "63.18%",
+            "67.50%",
+            "73.44%",
+            "79.38%",
+            "85.32%",
+            "91.80%",
+            "98.28%",
+            "104.76%",
+            "111.24%",
+            "117.72%",
+            "124.20%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "47.30%",
+            "51.15%",
+            "55.00%",
+            "60.50%",
+            "64.35%",
+            "68.75%",
+            "74.80%",
+            "80.85%",
+            "86.90%",
+            "93.50%",
+            "100.10%",
+            "106.70%",
+            "113.30%",
+            "119.90%",
+            "126.50%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 5",
+          "parameters": [
+            "59.34%",
+            "64.17%",
+            "69.00%",
+            "75.90%",
+            "80.73%",
+            "86.25%",
+            "93.84%",
+            "101.43%",
+            "109.02%",
+            "117.30%",
+            "125.58%",
+            "133.86%",
+            "142.14%",
+            "150.42%",
+            "158.70%"
+          ]
+        },
+        {
+          "name": "Ngắm Bắn",
+          "parameters": [
+            "43.86%",
+            "47.43%",
+            "51.00%",
+            "56.10%",
+            "59.67%",
+            "63.75%",
+            "69.36%",
+            "74.97%",
+            "80.58%",
+            "86.70%",
+            "92.82%",
+            "98.94%",
+            "105.06%",
+            "111.18%",
+            "117.30%"
+          ]
+        },
+        {
+          "name": "Tụ Lực Ngắm Bắn",
+          "parameters": [
+            "124.00%",
+            "133.30%",
+            "142.60%",
+            "155.00%",
+            "164.30%",
+            "173.60%",
+            "186.00%",
+            "198.40%",
+            "210.80%",
+            "223.20%",
+            "235.60%",
+            "248.00%",
+            "263.50%",
+            "279.00%",
+            "294.50%"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Con Rối Nổ",
+      "info": "Mời Bá Tước Thỏ ra trận.\n\n**Bá Tước Thỏ**\n·Khiêu khích địch xung quanh, thu hút hỏa lực;\n·Độ bền sẽ kế thừa giới hạn HP của Amber theo tỷ lệ nhất định;\n·Nếu bị hủy diệt hoặc hết thời gian, Bá Tước Thỏ sẽ nổ, gây Sát Thương Phạm Vi Nguyên Tố Hỏa.\n\n**Nhấn Giữ**\nĐiều chỉnh hướng ném.\nKhoảng cách ném sẽ tăng theo thời gian nhấn giữ.",
+      "description": "Bá tước thỏ có dòng dõi lâu đời. Nhưng bắt đầu từ đời thỏ thứ 893, Amber đã ngừng tính số.",
+      "attributes": [
+        {
+          "name": "HP Kế Thừa",
+          "parameters": [
+            "41.36%",
+            "44.46%",
+            "47.56%",
+            "51.70%",
+            "54.80%",
+            "57.90%",
+            "62.04%",
+            "66.18%",
+            "70.31%",
+            "74.45%",
+            "78.58%",
+            "82.72%",
+            "87.89%",
+            "93.06%",
+            "98.23%"
+          ]
+        },
+        {
+          "name": "Sát Thương Nổ",
+          "parameters": [
+            "123.20%",
+            "132.44%",
+            "141.68%",
+            "154.00%",
+            "163.24%",
+            "172.48%",
+            "184.80%",
+            "197.12%",
+            "209.44%",
+            "221.76%",
+            "234.08%",
+            "246.40%",
+            "261.80%",
+            "277.20%",
+            "292.60%"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Mưa Tên",
+      "info": "Bắn ra cơn mưa tên lửa, duy trì gây Sát Thương Phạm Vi Nguyên Tố Hỏa.",
+      "description": "Trái tim tràn đầy nhiệt huyết của Amber thật sự nóng bỏng.",
+      "attributes": [
+        {
+          "name": "Sát Thương 1 lần Mưa Tên",
+          "parameters": [
+            "28.08%",
+            "30.19%",
+            "32.29%",
+            "35.10%",
+            "37.21%",
+            "39.31%",
+            "42.12%",
+            "44.93%",
+            "47.74%",
+            "50.54%",
+            "53.35%",
+            "56.16%",
+            "59.67%",
+            "63.18%",
+            "66.69%"
+          ]
+        },
+        {
+          "name": "Tổng Sát Thương Mưa Tên",
+          "parameters": [
+            "505.44%",
+            "543.35%",
+            "581.26%",
+            "631.80%",
+            "669.71%",
+            "707.62%",
+            "758.16%",
+            "808.70%",
+            "859.25%",
+            "909.79%",
+            "960.34%",
+            "1010.88%",
+            "1074.06%",
+            "1137.24%",
+            "1200.42%"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "parameters": [
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Bách Phát Bách Trúng!",
+      "info": "Tỷ lệ bạo kích **Mưa Tên** tăng 10%, phạm vi ảnh hưởng tăng 30%."
+    },
+    "passive2": {
+      "name": "Bắn Áp Chế",
+      "info": "Khi ngắm bắn trúng nhược điểm, tấn công tăng 15%, kéo dài 10s."
+    },
+    "passive3": {
+      "name": "Quán Quân Bay Lượn",
+      "info": "Giảm 20% tiêu hao thể lực nhân vật của bản thân trong đội khi bay lượn.\nĐối với buff Thiên Phú cố định có hiệu quả hoàn toàn giống sẽ không thể cộng dồn."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Tự Do\"",
+          "count": 3
+        },
+        {
+          "name": "Mũi Tên Chắc Chắn",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Tự Do\"",
+          "count": 2
+        },
+        {
+          "name": "Mũi Tên Sắc Bén",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Tự Do\"",
+          "count": 4
+        },
+        {
+          "name": "Mũi Tên Sắc Bén",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Tự Do\"",
+          "count": 6
+        },
+        {
+          "name": "Mũi Tên Sắc Bén",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Tự Do\"",
+          "count": 9
+        },
+        {
+          "name": "Mũi Tên Sắc Bén",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Tự Do\"",
+          "count": 4
+        },
+        {
+          "name": "Mũi Tên Thiện Chiến",
+          "count": 4
+        },
+        {
+          "name": "Hơi Thở Đông Phong",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Tự Do\"",
+          "count": 6
+        },
+        {
+          "name": "Mũi Tên Thiện Chiến",
+          "count": 6
+        },
+        {
+          "name": "Hơi Thở Đông Phong",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Tự Do\"",
+          "count": 12
+        },
+        {
+          "name": "Mũi Tên Thiện Chiến",
+          "count": 9
+        },
+        {
+          "name": "Hơi Thở Đông Phong",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Tự Do\"",
+          "count": 16
+        },
+        {
+          "name": "Mũi Tên Thiện Chiến",
+          "count": 12
+        },
+        {
+          "name": "Hơi Thở Đông Phong",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_02",
+      "combat2": "Skill_S_Ambor_01",
+      "combat3": "Skill_E_Ambor_HD",
+      "passive1": "UI_Talent_S_Ambor_05",
+      "passive2": "UI_Talent_S_Ambor_06",
+      "passive3": "UI_Talent_Explosion_Glide"
+    },
+    "version": "1.0"
+  }
+}

@@ -1,0 +1,894 @@
+{
+  "name": "Venti",
+  "fullname": "Venti",
+  "title": "Nhà Thơ Có Màu Của Gió",
+  "description": "Một trong các nhà thơ thành Mondstadt, tự do tự tại đi khắp hang cùng ngõ hẻm.",
+  "rarity": "5",
+  "element": "Phong",
+  "weapontype": "Cung",
+  "substat": "Hiệu Quả Nạp Nguyên Tố",
+  "gender": "nam",
+  "body": "BOY",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Thành Mondstadt",
+  "birthdaymmdd": "6/16",
+  "birthday": "16 tháng 6",
+  "constellation": "Cung Ca Tiên",
+  "cv": {
+    "english": "Erika Harlacher",
+    "chinese": "喵酱",
+    "japanese": "村瀬歩",
+    "korean": "Jung Yoo-jung"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vụn Tùng Thạch Tự Tại",
+        "count": 1
+      },
+      {
+        "name": "Hoa Cecilia",
+        "count": 3
+      },
+      {
+        "name": "Dịch Slime",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Tùng Thạch Tự Tại",
+        "count": 3
+      },
+      {
+        "name": "Hạt Giống Bão",
+        "count": 2
+      },
+      {
+        "name": "Hoa Cecilia",
+        "count": 10
+      },
+      {
+        "name": "Dịch Slime",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Tùng Thạch Tự Tại",
+        "count": 6
+      },
+      {
+        "name": "Hạt Giống Bão",
+        "count": 4
+      },
+      {
+        "name": "Hoa Cecilia",
+        "count": 20
+      },
+      {
+        "name": "Tinh Slime",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Tùng Thạch Tự Tại",
+        "count": 3
+      },
+      {
+        "name": "Hạt Giống Bão",
+        "count": 8
+      },
+      {
+        "name": "Hoa Cecilia",
+        "count": 30
+      },
+      {
+        "name": "Tinh Slime",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Tùng Thạch Tự Tại",
+        "count": 6
+      },
+      {
+        "name": "Hạt Giống Bão",
+        "count": 12
+      },
+      {
+        "name": "Hoa Cecilia",
+        "count": 45
+      },
+      {
+        "name": "Bột Slime",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Tùng Thạch Tự Tại",
+        "count": 6
+      },
+      {
+        "name": "Hạt Giống Bão",
+        "count": 20
+      },
+      {
+        "name": "Hoa Cecilia",
+        "count": 60
+      },
+      {
+        "name": "Bột Slime",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Character_Venti_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Character_Venti_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Venti.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20191122/2019112210305833310.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20191122/2019112211143037621.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/f42e16fca94650e2e932c093de92ae54.png",
+    "nameicon": "UI_AvatarIcon_Venti",
+    "nameiconcard": "UI_AvatarIcon_Venti_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Venti",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Venti",
+    "namesideicon": "UI_AvatarIcon_Side_Venti"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Venti"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 819.855224609375,
+      "attack": 20.48200035095215,
+      "defense": 52.052101135253906,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2126.704535515455,
+      "attack": 53.13031098088459,
+      "defense": 135.02315560676834,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2829.6562567068613,
+      "attack": 70.69049164494709,
+      "defense": 179.65415612556717,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4234.068304938963,
+      "attack": 105.7761594571839,
+      "defense": 268.81940844798373,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4733.533942145994,
+      "attack": 118.25312822244268,
+      "defense": 300.5309067084818,
+      "specialized": 0.07999999821186066
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5445.9880979290465,
+      "attack": 136.05198566796116,
+      "defense": 345.76418041082434,
+      "specialized": 0.07999999821186066
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6111.942321561859,
+      "attack": 152.68794720055394,
+      "defense": 388.0461780914884,
+      "specialized": 0.1599999964237213
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6831.77503050142,
+      "attack": 170.67113905512997,
+      "defense": 433.7479115701499,
+      "specialized": 0.1599999964237213
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7331.24085081392,
+      "attack": 183.1481097277374,
+      "defense": 465.4594136453452,
+      "specialized": 0.1599999964237213
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 8057.632708045305,
+      "attack": 201.29516524211886,
+      "defense": 511.5775833922635,
+      "specialized": 0.1599999964237213
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8557.09828421718,
+      "attack": 213.77213591472628,
+      "defense": 543.2890854674588,
+      "specialized": 0.23999999463558197
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9291.688490407192,
+      "attack": 232.12400635399626,
+      "defense": 589.9277633191341,
+      "specialized": 0.23999999463558197
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 9791.154310719692,
+      "attack": 244.60097321190642,
+      "defense": 621.6392653943294,
+      "specialized": 0.3199999928474426
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10531.48386939941,
+      "attack": 263.09622679515087,
+      "defense": 668.6423311858234,
+      "specialized": 0.3199999928474426
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Mũi Tên Gió",
+      "effect": "**Ngắm bắn** sẽ phóng thêm 2 mũi tên, lần lượt gây sát thương bằng 33% sát thương gốc."
+    },
+    "c2": {
+      "name": "Tình Yêu Gió Lạnh",
+      "effect": "**Bài Ca Trời Cao** sẽ khiến kháng Nguyên Tố Phong và kháng vật lý của địch giảm 12%, kéo dài 10s.\nĐịch bị **Bài Ca Trời Cao** đánh bay trước khi rơi xuống đất, kháng Nguyên Tố Phong và kháng vật lý giảm thêm 12%."
+    },
+    "c3": {
+      "name": "Tập Thơ Thiên Phong",
+      "effect": "Cấp kỹ năng **Bài Thơ Thần Gió** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "Cơn Gió Tự Do",
+      "effect": "Sau khi Venti nhận Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, sẽ nhận được 25% Buff Sát Thương Nguyên Tố Phong, kéo dài 10s."
+    },
+    "c5": {
+      "name": "Hợp Tấu Trời Cao",
+      "effect": "Cấp kỹ năng **Bài Ca Trời Cao** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Bão Chiến Tranh",
+      "effect": "Kẻ địch bị **Bài Thơ Thần Gió** sát thương, kháng Nguyên Tố Phong giảm 20%.\nNếu chuyển hoá nguyên tố xảy ra, sẽ giảm 20% kháng nguyên tố đã chuyển."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Venti_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Venti_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Venti_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Venti_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Venti_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Venti_04.png",
+      "constellation": "Eff_UI_Talent_Venti"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Venti",
+    "combat1": {
+      "name": "Tấn Công Thường: Xạ Thuật Của Thần",
+      "info": "**Tấn Công Thường**\nThực hiện tối đa 6 lần bắn tên liên tiếp.\n\n**Trọng Kích**\nTiến hành **ngắm bắn** chuẩn hơn, có sát thương cao hơn.\nKhi ngắm bắn, gió sẽ tích tụ trên mũi tên. Mũi tên đầy gió sẽ gây Sát Thương Nguyên Tố Phong.\n\n**Tấn Công Khi Đáp**\nBắn mưa tên liên tiếp xuống mặt đất, gây sát thương phạm vi khi chạm đất.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "20.38%+20.38%",
+            "22.04%+22.04%",
+            "23.70%+23.70%",
+            "26.07%+26.07%",
+            "27.73%+27.73%",
+            "29.62%+29.62%",
+            "32.23%+32.23%",
+            "34.84%+34.84%",
+            "37.45%+37.45%",
+            "40.29%+40.29%",
+            "43.55%+43.55%",
+            "47.38%+47.38%",
+            "51.21%+51.21%",
+            "55.05%+55.05%",
+            "59.23%+59.23%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "44.38%",
+            "47.99%",
+            "51.60%",
+            "56.76%",
+            "60.37%",
+            "64.50%",
+            "70.18%",
+            "75.85%",
+            "81.53%",
+            "87.72%",
+            "94.81%",
+            "103.16%",
+            "111.50%",
+            "119.85%",
+            "128.95%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "52.37%",
+            "56.64%",
+            "60.90%",
+            "66.99%",
+            "71.25%",
+            "76.13%",
+            "82.82%",
+            "89.52%",
+            "96.22%",
+            "103.53%",
+            "111.90%",
+            "121.75%",
+            "131.60%",
+            "141.45%",
+            "152.19%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "26.06%+26.06%",
+            "28.18%+28.18%",
+            "30.30%+30.30%",
+            "33.33%+33.33%",
+            "35.45%+35.45%",
+            "37.87%+37.87%",
+            "41.21%+41.21%",
+            "44.54%+44.54%",
+            "47.87%+47.87%",
+            "51.51%+51.51%",
+            "55.68%+55.68%",
+            "60.58%+60.58%",
+            "65.48%+65.48%",
+            "70.37%+70.37%",
+            "75.72%+75.72%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 5",
+          "parameters": [
+            "50.65%",
+            "54.78%",
+            "58.90%",
+            "64.79%",
+            "68.91%",
+            "73.62%",
+            "80.10%",
+            "86.58%",
+            "93.06%",
+            "100.13%",
+            "108.23%",
+            "117.75%",
+            "127.28%",
+            "136.80%",
+            "147.19%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 6",
+          "parameters": [
+            "70.95%",
+            "76.73%",
+            "82.50%",
+            "90.75%",
+            "96.53%",
+            "103.13%",
+            "112.20%",
+            "121.27%",
+            "130.35%",
+            "140.25%",
+            "151.59%",
+            "164.93%",
+            "178.27%",
+            "191.61%",
+            "206.17%"
+          ]
+        },
+        {
+          "name": "Ngắm Bắn",
+          "parameters": [
+            "43.86%",
+            "47.43%",
+            "51.00%",
+            "56.10%",
+            "59.67%",
+            "63.75%",
+            "69.36%",
+            "74.97%",
+            "80.58%",
+            "86.70%",
+            "93.71%",
+            "101.96%",
+            "110.21%",
+            "118.45%",
+            "127.45%"
+          ]
+        },
+        {
+          "name": "Tụ Lực Ngắm Bắn",
+          "parameters": [
+            "124.00%",
+            "133.30%",
+            "142.60%",
+            "155.00%",
+            "164.30%",
+            "173.60%",
+            "186.00%",
+            "198.40%",
+            "210.80%",
+            "223.20%",
+            "236.10%",
+            "252.96%",
+            "269.82%",
+            "286.69%",
+            "303.55%"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Đáp",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "ST Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Bài Ca Trời Cao",
+      "info": "Triệu hồi ngọn gió kết hợp thơ và nhạc, cuốn mọi thứ trong bụi mù lên không trung.\n\n**Nhấn**\nTại vị trí của mục tiêu gọi ra ngọn gió, gây Sát Thương Phạm Vi Nguyên Tố Phong, và đánh bay địch.\n\n**Nhấn Giữ**\nLấy bản thân làm trung tâm gọi ra ngọn gió, gây Sát Thương Phạm Vi Nguyên Tố Phong, và đánh bay địch.\nSau khi nhấn giữ, Venti cưỡi gió bay lên không trung.\n\nĐịch bị Bài Ca Trời Cao đánh bay, trong thời gian ngắn sẽ rơi chậm.",
+      "description": "Trong thời đại mà thần cùng con người cùng sống trên trái đất, có vô số bài hát truyền khắp bốn phương. Đây là giai điệu đã sớm bị lãng quên.",
+      "attributes": [
+        {
+          "name": "Sát Thương Nhấn",
+          "parameters": [
+            "276.00%",
+            "296.70%",
+            "317.40%",
+            "345.00%",
+            "365.70%",
+            "386.40%",
+            "414.00%",
+            "441.60%",
+            "469.20%",
+            "496.80%",
+            "524.40%",
+            "552.00%",
+            "586.50%",
+            "621.00%",
+            "655.50%"
+          ]
+        },
+        {
+          "name": "CD Nhấn",
+          "parameters": [
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s"
+          ]
+        },
+        {
+          "name": "Sát Thương Nhấn Giữ",
+          "parameters": [
+            "380.00%",
+            "408.50%",
+            "437.00%",
+            "475.00%",
+            "503.50%",
+            "532.00%",
+            "570.00%",
+            "608.00%",
+            "646.00%",
+            "684.00%",
+            "722.00%",
+            "760.00%",
+            "807.50%",
+            "855.00%",
+            "902.50%"
+          ]
+        },
+        {
+          "name": "CD Nhấn Giữ",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Bài Thơ Thần Gió",
+      "info": "Bắn ra mũi tên được tạo thành từ hàng nghìn ngọn gió, tạo thành bão lớn, cuốn địch vào, duy trì gây Sát Thương Nguyên Tố Phong.\n\n**Chuyển hóa nguyên tố**\nNếu cơn bão trong thời gian duy trì kỹ năng có tiếp xúc Nguyên Tố Thủy/Nguyên Tố Hỏa/Nguyên Tố Băng/Nguyên Tố Lôi, sẽ nhận được thuộc tính nguyên tố tương ứng, tạo thêm sát thương thuộc tính.\nChuyển hóa nguyên tố chỉ phát sinh 1 lần.",
+      "description": "Có rất nhiều bài thơ ca ngợi Phong Thần đã biến mất. Trong đó bài thơ này miêu tả sức mạnh của ngài ấy cùng với gió.",
+      "attributes": [
+        {
+          "name": "Sát Thương Kéo Dài",
+          "parameters": [
+            "37.60%",
+            "40.42%",
+            "43.24%",
+            "47.00%",
+            "49.82%",
+            "52.64%",
+            "56.40%",
+            "60.16%",
+            "63.92%",
+            "67.68%",
+            "71.44%",
+            "75.20%",
+            "79.90%",
+            "84.60%",
+            "89.30%"
+          ]
+        },
+        {
+          "name": "Sát Thương Nguyên Tố Kèm Theo",
+          "parameters": [
+            "18.80%",
+            "20.21%",
+            "21.62%",
+            "23.50%",
+            "24.91%",
+            "26.32%",
+            "28.20%",
+            "30.08%",
+            "31.96%",
+            "33.84%",
+            "35.72%",
+            "37.60%",
+            "39.95%",
+            "42.30%",
+            "44.65%"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "parameters": [
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Cái Ôm Của Gió",
+      "info": "Nhấn giữ **Bài Ca Trời Cao**, sẽ tạo ra luồng gió lên cao, kéo dài 20s."
+    },
+    "passive2": {
+      "name": "Mắt Bão",
+      "info": "Sau khi kết thúc hiệu quả **Bài Thơ Thần Gió**, hồi phục 15 điểm năng lượng Nguyên Tố cho Venti; \nNếu xảy ra chuyển hoá nguyên tố, hồi phục 15 điểm năng lượng Nguyên Tố cho tất cả nhân vật trong đội có nguyên tố tương ứng."
+    },
+    "passive3": {
+      "name": "Đi Theo Cơn Gió",
+      "info": "Giảm 20% tiêu hao thể lực nhân vật của bản thân trong đội khi bay lượn.\nĐối với buff Thiên Phú cố định có hiệu quả hoàn toàn giống sẽ không thể cộng dồn."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Thơ Văn\"",
+          "count": 3
+        },
+        {
+          "name": "Dịch Slime",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Thơ Văn\"",
+          "count": 2
+        },
+        {
+          "name": "Tinh Slime",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Thơ Văn\"",
+          "count": 4
+        },
+        {
+          "name": "Tinh Slime",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Thơ Văn\"",
+          "count": 6
+        },
+        {
+          "name": "Tinh Slime",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Thơ Văn\"",
+          "count": 9
+        },
+        {
+          "name": "Tinh Slime",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Thơ Văn\"",
+          "count": 4
+        },
+        {
+          "name": "Bột Slime",
+          "count": 4
+        },
+        {
+          "name": "Lông Vũ Bắc Phong",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Thơ Văn\"",
+          "count": 6
+        },
+        {
+          "name": "Bột Slime",
+          "count": 6
+        },
+        {
+          "name": "Lông Vũ Bắc Phong",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Thơ Văn\"",
+          "count": 12
+        },
+        {
+          "name": "Bột Slime",
+          "count": 9
+        },
+        {
+          "name": "Lông Vũ Bắc Phong",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Thơ Văn\"",
+          "count": 16
+        },
+        {
+          "name": "Bột Slime",
+          "count": 12
+        },
+        {
+          "name": "Lông Vũ Bắc Phong",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_02",
+      "combat2": "Skill_S_Venti_01",
+      "combat3": "Skill_E_Venti_01_HD",
+      "passive1": "UI_Talent_S_Venti_05",
+      "passive2": "UI_Talent_S_Venti_06",
+      "passive3": "UI_Talent_Explosion_Glide"
+    },
+    "version": "1.0"
+  }
+}

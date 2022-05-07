@@ -1,0 +1,307 @@
+{
+  "name": "流月の針",
+  "description": "槍の先端は細く、根元には半月の形をした刃がある異国の兵器。貿易ルートを経て異国から璃月に渡った。少し練習すれば、かなりの破壊力を出せる優れもの。",
+  "weapontype": "長柄武器",
+  "rarity": "4",
+  "baseatk": 44,
+  "substat": "物理ダメージ",
+  "subvalue": "7.5",
+  "effectname": "注入の針",
+  "effect": [
+    "元素粒子または元素オーブを獲得した5秒間、通常攻撃と重撃で、攻撃力の[20%]の追加ダメージを与える。",
+    "元素粒子または元素オーブを獲得した5秒間、通常攻撃と重撃で、攻撃力の[25%]の追加ダメージを与える。",
+    "元素粒子または元素オーブを獲得した5秒間、通常攻撃と重撃で、攻撃力の[30%]の追加ダメージを与える。",
+    "元素粒子または元素オーブを獲得した5秒間、通常攻撃と重撃で、攻撃力の[35%]の追加ダメージを与える。",
+    "元素粒子または元素オーブを獲得した5秒間、通常攻撃と重撃で、攻撃力の[40%]の追加ダメージを与える。"
+  ],
+  "r1": [
+    "20%"
+  ],
+  "r2": [
+    "25%"
+  ],
+  "r3": [
+    "30%"
+  ],
+  "r4": [
+    "35%"
+  ],
+  "r5": [
+    "40%"
+  ],
+  "weaponmaterialtype": "Guyun",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "モラ",
+        "count": 5000
+      },
+      {
+        "name": "孤雲寒林の光砂",
+        "count": 3
+      },
+      {
+        "name": "猟兵の刀",
+        "count": 3
+      },
+      {
+        "name": "宝探しの鴉マーク",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "モラ",
+        "count": 15000
+      },
+      {
+        "name": "孤雲寒林の輝岩",
+        "count": 3
+      },
+      {
+        "name": "猟兵の刀",
+        "count": 12
+      },
+      {
+        "name": "宝探しの鴉マーク",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "モラ",
+        "count": 20000
+      },
+      {
+        "name": "孤雲寒林の輝岩",
+        "count": 6
+      },
+      {
+        "name": "エージェントの刀",
+        "count": 6
+      },
+      {
+        "name": "シルバーの鴉マーク",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "モラ",
+        "count": 30000
+      },
+      {
+        "name": "孤雲寒林の聖骸",
+        "count": 3
+      },
+      {
+        "name": "エージェントの刀",
+        "count": 12
+      },
+      {
+        "name": "シルバーの鴉マーク",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "モラ",
+        "count": 35000
+      },
+      {
+        "name": "孤雲寒林の聖骸",
+        "count": 6
+      },
+      {
+        "name": "検査官の刀",
+        "count": 9
+      },
+      {
+        "name": "ゴールドの鴉マーク",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "モラ",
+        "count": 45000
+      },
+      {
+        "name": "孤雲寒林の神体",
+        "count": 4
+      },
+      {
+        "name": "検査官の刀",
+        "count": 18
+      },
+      {
+        "name": "ゴールドの鴉マーク",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Weapon_Crescent_Pike.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Exotic.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Exotic_Awaken.png",
+    "nameicon": "UI_EquipIcon_Pole_Exotic",
+    "namegacha": "UI_Gacha_EquipIcon_Pole_Exotic",
+    "nameawakenicon": "UI_EquipIcon_Pole_Exotic_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Crescent_Pike"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 43.734901428222656,
+      "specialized": 0.07506699860095978
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 59.17332359270131,
+      "specialized": 0.08722784793576821
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 78.72282048535817,
+      "specialized": 0.10231632174191851
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 98.5347338353804,
+      "specialized": 0.11747985710587017
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 118.56531627039294,
+      "specialized": 0.13264338352113825
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 144.46531588892321,
+      "specialized": 0.13264338352113825
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 164.62710394581518,
+      "specialized": 0.1478069188850899
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 184.96383978335507,
+      "specialized": 0.16297045424904155
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 205.43177081556132,
+      "specialized": 0.17813398066430963
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 225.98716531087848,
+      "specialized": 0.19329752497694486
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 251.9871672182271,
+      "specialized": 0.19329752497694486
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 272.6300460310813,
+      "specialized": 0.20846105139221294
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 293.3603883070464,
+      "specialized": 0.22362459570484816
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 319.2603898329253,
+      "specialized": 0.22362459570484816
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 340.0344638404458,
+      "specialized": 0.23878812212011624
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 360.8960221655034,
+      "specialized": 0.2539516485353843
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 386.79601606198776,
+      "specialized": 0.2539516485353843
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 407.70130611860077,
+      "specialized": 0.26911519284801955
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 428.6940596383247,
+      "specialized": 0.2842036577054863
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 454.6940596383247,
+      "specialized": 0.2842036577054863
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 475.6867923036225,
+      "specialized": 0.29936718412075436
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 496.723298409328,
+      "specialized": 0.3145307284333896
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 522.6233075646014,
+      "specialized": 0.3145307284333896
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 543.7035036930101,
+      "specialized": 0.3296942727460248
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 564.7837415302711,
+      "specialized": 0.34485778126392574
+    }
+  },
+  "version": "1.0"
+}

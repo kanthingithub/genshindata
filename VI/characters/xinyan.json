@@ -1,0 +1,954 @@
+{
+  "name": "Xinyan",
+  "fullname": "Xinyan",
+  "title": "Giai Điệu Nóng Bỏng",
+  "description": "Nghệ sĩ rock duy nhất ở cảng Liyue, dùng âm nhạc và niềm đam mê hát lên chống lại những \"định kiến\".",
+  "rarity": "4",
+  "element": "Hỏa",
+  "weapontype": "Trọng Kiếm",
+  "substat": "Tấn Công",
+  "gender": "nữ",
+  "body": "GIRL",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "\"Dây Đỏ\"",
+  "birthdaymmdd": "10/16",
+  "birthday": "16 tháng 10",
+  "constellation": "Hồng Đàn Tứ Huyền",
+  "cv": {
+    "english": "Laura Stahl",
+    "chinese": "王雅欣",
+    "japanese": "たかはし智秋",
+    "korean": "Kim Chae-ha"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vụn Mã Não Cháy",
+        "count": 1
+      },
+      {
+        "name": "Túi Lưu Ly",
+        "count": 3
+      },
+      {
+        "name": "Ấn Quạ Tầm Bảo",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Mã Não Cháy",
+        "count": 3
+      },
+      {
+        "name": "Ngọn Lửa Vĩnh Hằng",
+        "count": 2
+      },
+      {
+        "name": "Túi Lưu Ly",
+        "count": 10
+      },
+      {
+        "name": "Ấn Quạ Tầm Bảo",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Mã Não Cháy",
+        "count": 6
+      },
+      {
+        "name": "Ngọn Lửa Vĩnh Hằng",
+        "count": 4
+      },
+      {
+        "name": "Túi Lưu Ly",
+        "count": 20
+      },
+      {
+        "name": "Ấn Quạ Bạc Ẩn",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Mã Não Cháy",
+        "count": 3
+      },
+      {
+        "name": "Ngọn Lửa Vĩnh Hằng",
+        "count": 8
+      },
+      {
+        "name": "Túi Lưu Ly",
+        "count": 30
+      },
+      {
+        "name": "Ấn Quạ Bạc Ẩn",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Mã Não Cháy",
+        "count": 6
+      },
+      {
+        "name": "Ngọn Lửa Vĩnh Hằng",
+        "count": 12
+      },
+      {
+        "name": "Túi Lưu Ly",
+        "count": 45
+      },
+      {
+        "name": "Ấn Quạ Trộm Vàng",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Mã Não Cháy",
+        "count": 6
+      },
+      {
+        "name": "Ngọn Lửa Vĩnh Hằng",
+        "count": 20
+      },
+      {
+        "name": "Túi Lưu Ly",
+        "count": 60
+      },
+      {
+        "name": "Ấn Quạ Trộm Vàng",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Xinyan_Card.jpeg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Character_Xinyan_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xinyan.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xinyan.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201125/2020112516015894679.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201125/2020112516125848571.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/1a30faffb4b122f778b1ab4c7c39d6bf.png",
+    "nameicon": "UI_AvatarIcon_Xinyan",
+    "nameiconcard": "UI_AvatarIcon_Xinyan_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Xinyan",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Xinyan",
+    "namesideicon": "UI_AvatarIcon_Side_Xinyan"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Xinyan"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 939.1447143554688,
+      "attack": 20.835359573364258,
+      "defense": 66.9532470703125,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2412.6627765530284,
+      "attack": 53.52603886319366,
+      "defense": 172.00289210674237,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3114.2519489163096,
+      "attack": 69.09148476315704,
+      "defense": 222.02039393779705,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4664.779669902957,
+      "attack": 103.49065892812814,
+      "defense": 332.56019042042317,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5163.277289531863,
+      "attack": 114.55031793233957,
+      "defense": 368.0989401152474,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5939.011024212436,
+      "attack": 131.76032939085144,
+      "defense": 423.40233649808215,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6603.674476360873,
+      "attack": 146.5065433038153,
+      "defense": 470.7873386343126,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7379.408211041446,
+      "attack": 163.71655476232718,
+      "defense": 526.0907350171474,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7877.905769635196,
+      "attack": 174.7762128128643,
+      "defense": 561.6294770825771,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 8652.699979850819,
+      "attack": 191.96538048686034,
+      "defense": 616.8658931452665,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 9151.197538444569,
+      "attack": 203.02503853739745,
+      "defense": 652.4046504694852,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9926.930825306044,
+      "attack": 220.23504006083567,
+      "defense": 707.7080149265239,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 10425.428383899794,
+      "attack": 231.29469811137278,
+      "defense": 743.2467569919536,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 11201.162118580367,
+      "attack": 248.50470956988465,
+      "defense": 798.5501533747884,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.1",
+  "constellations": {
+    "c1": {
+      "name": "Gia Tốc Của Tuyệt Mệnh",
+      "effect": "Trong 5s sau khi Xinyan tạo thành bạo kích, tốc độ tấn công của tấn công thường và trọng kích tăng 12%.\nHiệu quả này mỗi 5s chỉ kích hoạt 1 lần."
+    },
+    "c2": {
+      "name": "Khúc Ngẫu Hứng Mở Màn",
+      "effect": "Tỉ lệ bạo kích của sát thương vật lý mà **Cung Đàn Ngỗ Ngược** gây ra tăng 100%, đồng thời khi thi triển sẽ hình thành Lớp Khiên Cấp 3 - Vũ Điệu Tiết Tấu."
+    },
+    "c3": {
+      "name": "Phương Pháp Phân Giải",
+      "effect": "Cấp kỹ năng **Khuấy Động Nhiệt Huyết** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "Tiết Tấu Gây Nghiện",
+      "effect": "Sát thương từ vũ điệu hất tay **Khuấy Động Nhiệt Huyết** làm giảm 15% kháng sát thương vật lý của kẻ địch. kéo dài 12s."
+    },
+    "c5": {
+      "name": "Tiếng Vọng Khi Quay Về",
+      "effect": "Cấp kỹ năng **Cung Đàn Ngỗ Ngược** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Khuấy Động Từ Địa Ngục",
+      "effect": "Xinyan giảm 30% tiêu hao thể lực khi dùng trọng kích; Đồng thời khi thi triển, tăng sức tấn công bằng 50% phòng ngự."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xinyan_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xinyan_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Xinyan_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xinyan_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Xinyan_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xinyan_04.png",
+      "constellation": "Eff_UI_Talent_Xinyan"
+    },
+    "version": "1.1"
+  },
+  "talent": {
+    "name": "Xinyan",
+    "combat1": {
+      "name": "Tấn Công Thường - Viêm Vũ",
+      "info": "**Tấn Công Thường**\nThực hiện tối đa 4 lần chém liên tiếp.\n\n**Trọng Kích**\nTiêu hao thể lực để xoay kiếm tấn công địch xung quanh.\nKhi ngừng quay, sẽ bổ một nhát cực mạnh.\n\n**Tấn Công Khi Đáp**\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "76.54%",
+            "82.77%",
+            "89.00%",
+            "97.90%",
+            "104.13%",
+            "111.25%",
+            "121.04%",
+            "130.83%",
+            "140.62%",
+            "151.30%",
+            "161.98%",
+            "172.66%",
+            "183.34%",
+            "194.02%",
+            "204.70%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "73.96%",
+            "79.98%",
+            "86.00%",
+            "94.60%",
+            "100.62%",
+            "107.50%",
+            "116.96%",
+            "126.42%",
+            "135.88%",
+            "146.20%",
+            "156.52%",
+            "166.84%",
+            "177.16%",
+            "187.48%",
+            "197.80%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "95.46%",
+            "103.23%",
+            "111.00%",
+            "122.10%",
+            "129.87%",
+            "138.75%",
+            "150.96%",
+            "163.17%",
+            "175.38%",
+            "188.70%",
+            "202.02%",
+            "215.34%",
+            "228.66%",
+            "241.98%",
+            "255.30%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "115.84%",
+            "125.27%",
+            "134.70%",
+            "148.17%",
+            "157.60%",
+            "168.38%",
+            "183.19%",
+            "198.01%",
+            "212.83%",
+            "228.99%",
+            "245.15%",
+            "261.32%",
+            "277.48%",
+            "293.65%",
+            "309.81%"
+          ]
+        },
+        {
+          "name": "Sát Thương Trọng Kích Tuần Hoàn",
+          "parameters": [
+            "62.55%",
+            "67.64%",
+            "72.73%",
+            "80.00%",
+            "85.09%",
+            "90.91%",
+            "98.91%",
+            "106.91%",
+            "114.91%",
+            "123.64%",
+            "132.36%",
+            "141.09%",
+            "149.82%",
+            "158.55%",
+            "167.27%"
+          ]
+        },
+        {
+          "name": "Sát Thương Trọng Kích Chí Mạng",
+          "parameters": [
+            "113.09%",
+            "122.29%",
+            "131.50%",
+            "144.65%",
+            "153.86%",
+            "164.37%",
+            "178.84%",
+            "193.31%",
+            "207.77%",
+            "223.55%",
+            "239.33%",
+            "255.11%",
+            "270.89%",
+            "286.67%",
+            "302.45%"
+          ]
+        },
+        {
+          "name": "Thể lực Trọng Kích tiêu hao",
+          "parameters": [
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm",
+            "Mỗi giây 40 điểm"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài Tối Đa",
+          "parameters": [
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Đáp",
+          "parameters": [
+            "74.59%",
+            "80.66%",
+            "86.73%",
+            "95.40%",
+            "101.47%",
+            "108.41%",
+            "117.95%",
+            "127.49%",
+            "137.03%",
+            "147.44%",
+            "157.85%",
+            "168.26%",
+            "178.66%",
+            "189.07%",
+            "199.48%"
+          ]
+        },
+        {
+          "name": "ST Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "149.14%/186.29%",
+            "161.28%/201.45%",
+            "173.42%/216.62%",
+            "190.77%/238.28%",
+            "202.91%/253.44%",
+            "216.78%/270.77%",
+            "235.86%/294.60%",
+            "254.93%/318.42%",
+            "274.01%/342.25%",
+            "294.82%/368.25%",
+            "315.63%/394.24%",
+            "336.44%/420.23%",
+            "357.25%/446.23%",
+            "378.06%/472.22%",
+            "398.87%/498.21%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Khuấy Động Nhiệt Huyết",
+      "info": "Xinyan vung nhạc cụ gây sát thương nguyên tố hỏa cho kẻ địch xung quanh và hình thành khiên với sự cuồng nhiệt của khán giả.\nLượng hấp thụ sát thương của khiên được hưởng từ sức phòng thủ của Xinyan, và dựa trên số kẻ địch bị đánh trúng:\n·Chưa trúng hoặc trúng 1 địch: Khiên Cấp 1 - Nhịp Điệu Phân Tán.\n·Trúng 2 địch: Khiên Cấp 2 - Nhịp Điệu Mở Đầu.\n·Trúng từ 3 địch trở lên, sẽ tạo Khiên Cấp 3 - Nhịp Điệu Nhảy Múa. Ngoài việc hấp thụ sát thương còn gây sát thương nguyên tố hỏa cho kẻ địch xung quanh theo từng quãng.\n\nKhiên có đặc tính sau:\n·Khi thi triển sẽ tăng thêm cho Xinyan nguyên tố hỏa kèm theo.\n·Hấp thụ 250% sát thương nguyên tố hỏa.",
+      "description": "Xinyan quả quyết những tia lửa này là sự biểu hiện của kỹ thuật trình diễn đỉnh cao, là hiện tượng vật lý, không liên quan đến Vision.",
+      "attributes": [
+        {
+          "name": "Sát Thương Chém",
+          "parameters": [
+            "169.60%",
+            "182.32%",
+            "195.04%",
+            "212.00%",
+            "224.72%",
+            "237.44%",
+            "254.40%",
+            "271.36%",
+            "288.32%",
+            "305.28%",
+            "322.24%",
+            "339.20%",
+            "360.40%",
+            "381.60%",
+            "402.80%"
+          ]
+        },
+        {
+          "name": "Khiên Cấp 1 hấp thu",
+          "parameters": [
+            "104.04% Phòng ngự +501",
+            "111.84% Phòng ngự +551",
+            "119.65% Phòng ngự +605",
+            "130.05% Phòng ngự +663",
+            "137.85% Phòng ngự +726",
+            "145.66% Phòng ngự +793",
+            "156.06% Phòng ngự +864",
+            "166.46% Phòng ngự +939",
+            "176.87% Phòng ngự +1018",
+            "187.27% Phòng ngự +1101",
+            "197.68% Phòng ngự +1189",
+            "208.08% Phòng ngự +1281",
+            "221.09% Phòng ngự +1377",
+            "234.09% Phòng ngự +1477",
+            "247.09% Phòng ngự +1581"
+          ]
+        },
+        {
+          "name": "Khiên Cấp 2 hấp thu",
+          "parameters": [
+            "122.40% phòng ngự + 589",
+            "131.58% phòng ngự + 648",
+            "140.76% phòng ngự + 712",
+            "153.00% phòng ngự + 780",
+            "162.18% phòng ngự + 854",
+            "171.36% phòng ngự + 932",
+            "183.60% phòng ngự + 1016",
+            "195.84% phòng ngự + 1104",
+            "208.08% phòng ngự + 1197",
+            "220.32% phòng ngự + 1296",
+            "232.56% phòng ngự + 1399",
+            "244.80% phòng ngự + 1507",
+            "260.10% phòng ngự + 1620",
+            "275.40% phòng ngự + 1737",
+            "290.70% phòng ngự + 1860"
+          ]
+        },
+        {
+          "name": "Khiên Cấp 3 hấp thu",
+          "parameters": [
+            "144.00% Phòng ngự + 693",
+            "154.80% Phòng ngự + 762",
+            "165.60% Phòng ngự + 837",
+            "180.00% Phòng ngự + 918",
+            "190.80% Phòng ngự + 1005",
+            "201.60% Phòng ngự + 1097",
+            "216.00% Phòng ngự + 1195",
+            "230.40% Phòng ngự + 1299",
+            "244.80% Phòng ngự + 1409",
+            "259.20% Phòng ngự + 1524",
+            "273.60% Phòng ngự + 1646",
+            "288.00% Phòng ngự + 1773",
+            "306.00% Phòng ngự + 1905",
+            "324.00% Phòng ngự + 2044",
+            "342.00% Phòng ngự + 2188"
+          ]
+        },
+        {
+          "name": "Sát Thương Kéo Dài",
+          "parameters": [
+            "33.60%",
+            "36.12%",
+            "38.64%",
+            "42.00%",
+            "44.52%",
+            "47.04%",
+            "50.40%",
+            "53.76%",
+            "57.12%",
+            "60.48%",
+            "63.84%",
+            "67.20%",
+            "71.40%",
+            "75.60%",
+            "79.80%"
+          ]
+        },
+        {
+          "name": "Thời Gian Khiên Kéo Dài",
+          "parameters": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Cung Đàn Ngỗ Ngược",
+      "info": "Lướt nhanh qua dây đàn phát ra sóng âm đánh lui kẻ địch, gây sát thương vật lý cho địch xung quanh và khơi dậy bầu không khí trên sân khấu.\nVì bầu không khí quá cháy bỏng, nên sẽ phát ra lửa, gây sát thương nguyên tố hỏa liên tục cho kẻ địch xung quanh.",
+      "description": "Xưa kia mỗi lần diễn xong, Xinyan đều có màn kết như vậy. Sau này không làm vậy nữa, không phải do nguy hiểm, mà là vì, nếu như bị bắt phải \"diễn lại\", thì cô ấy không thể làm ra trận hạ màn bùng nổ hơn được.",
+      "attributes": [
+        {
+          "name": "Sát Thương Kỹ Năng",
+          "parameters": [
+            "340.80%",
+            "366.36%",
+            "391.92%",
+            "426.00%",
+            "451.56%",
+            "477.12%",
+            "511.20%",
+            "545.28%",
+            "579.36%",
+            "613.44%",
+            "647.52%",
+            "681.60%",
+            "724.20%",
+            "766.80%",
+            "809.40%"
+          ]
+        },
+        {
+          "name": "Sát Thương Nguyên Tố Hỏa Kéo Dài",
+          "parameters": [
+            "40.00%",
+            "43.00%",
+            "46.00%",
+            "50.00%",
+            "53.00%",
+            "56.00%",
+            "60.00%",
+            "64.00%",
+            "68.00%",
+            "72.00%",
+            "76.00%",
+            "80.00%",
+            "85.00%",
+            "90.00%",
+            "95.00%"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "parameters": [
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "\"Không có thính giả cũng phải diễn...\"",
+      "info": "Giảm số lượng địch cần đánh trúng mà khiên **Khuấy Động Nhiệt Huyết** cần:\n·Khiên Cấp 2 - Nhịp Điệu Mở Đầu: Trúng 1 địch.\n·Khiên Cấp 3 - Nhịp Điệu Nhảy Múa: Trúng từ 2 địch trở lên."
+    },
+    "passive2": {
+      "name": "\"...Đây mới là Rock and Roll!\"",
+      "info": "Nhân vật được bảo vệ bởi khiên **Khuấy Động Nhiệt Huyết** sẽ tăng 15% sát thương vật lý gây ra."
+    },
+    "passive3": {
+      "name": "Công Thức Rock",
+      "info": "Nấu hoàn mỹ món ăn thuộc loại phòng ngự, có tỷ lệ 12% x2 sản lượng."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Hoàng Kim\"",
+          "count": 3
+        },
+        {
+          "name": "Ấn Quạ Tầm Bảo",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Hoàng Kim\"",
+          "count": 2
+        },
+        {
+          "name": "Ấn Quạ Bạc Ẩn",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Hoàng Kim\"",
+          "count": 4
+        },
+        {
+          "name": "Ấn Quạ Bạc Ẩn",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Hoàng Kim\"",
+          "count": 6
+        },
+        {
+          "name": "Ấn Quạ Bạc Ẩn",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Hoàng Kim\"",
+          "count": 9
+        },
+        {
+          "name": "Ấn Quạ Bạc Ẩn",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Hoàng Kim\"",
+          "count": 4
+        },
+        {
+          "name": "Ấn Quạ Trộm Vàng",
+          "count": 4
+        },
+        {
+          "name": "Thôn Thiên Kình - Sừng",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Hoàng Kim\"",
+          "count": 6
+        },
+        {
+          "name": "Ấn Quạ Trộm Vàng",
+          "count": 6
+        },
+        {
+          "name": "Thôn Thiên Kình - Sừng",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Hoàng Kim\"",
+          "count": 12
+        },
+        {
+          "name": "Ấn Quạ Trộm Vàng",
+          "count": 9
+        },
+        {
+          "name": "Thôn Thiên Kình - Sừng",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Hoàng Kim\"",
+          "count": 16
+        },
+        {
+          "name": "Ấn Quạ Trộm Vàng",
+          "count": 12
+        },
+        {
+          "name": "Thôn Thiên Kình - Sừng",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Xinyan_01",
+      "combat3": "Skill_E_Xinyan_01_HD",
+      "passive1": "UI_Talent_S_Xinyan_05",
+      "passive2": "UI_Talent_S_Xinyan_06",
+      "passive3": "UI_Talent_Cook_Defense"
+    },
+    "version": "1.1"
+  }
+}

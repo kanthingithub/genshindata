@@ -1,0 +1,834 @@
+{
+  "name": "Barbara",
+  "fullname": "Barbara",
+  "title": "Thần Tượng Tỏa Sáng",
+  "description": "Mọi người trong thành Mondstadt đều yêu quý Barbara. Từ \"Thần Tượng\" là do cô đọc được từ một cuốn tạp chí.",
+  "rarity": "4",
+  "element": "Thủy",
+  "weapontype": "Pháp Khí",
+  "substat": "HP",
+  "gender": "nữ",
+  "body": "GIRL",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Giáo Hội Tây Phong",
+  "birthdaymmdd": "7/5",
+  "birthday": "5 tháng 7",
+  "constellation": "Kim Bôi",
+  "cv": {
+    "english": "Laura Stahl",
+    "chinese": "宋媛媛",
+    "japanese": "鬼頭明里",
+    "korean": "Yoon Ah-young"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vụn Thanh Kim Sạch",
+        "count": 1
+      },
+      {
+        "name": "Nấm Rơm Gió",
+        "count": 3
+      },
+      {
+        "name": "Bản Vẽ Hướng Dẫn",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Mảnh Thanh Kim Sạch",
+        "count": 3
+      },
+      {
+        "name": "Trái Tim Thuần Khiết",
+        "count": 2
+      },
+      {
+        "name": "Nấm Rơm Gió",
+        "count": 10
+      },
+      {
+        "name": "Bản Vẽ Hướng Dẫn",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Mảnh Thanh Kim Sạch",
+        "count": 6
+      },
+      {
+        "name": "Trái Tim Thuần Khiết",
+        "count": 4
+      },
+      {
+        "name": "Nấm Rơm Gió",
+        "count": 20
+      },
+      {
+        "name": "Bản Vẽ Phong Ấn",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Miếng Thanh Kim Sạch",
+        "count": 3
+      },
+      {
+        "name": "Trái Tim Thuần Khiết",
+        "count": 8
+      },
+      {
+        "name": "Nấm Rơm Gió",
+        "count": 30
+      },
+      {
+        "name": "Bản Vẽ Phong Ấn",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Miếng Thanh Kim Sạch",
+        "count": 6
+      },
+      {
+        "name": "Trái Tim Thuần Khiết",
+        "count": 12
+      },
+      {
+        "name": "Nấm Rơm Gió",
+        "count": 45
+      },
+      {
+        "name": "Bản Vẽ Cấm Chú",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Thanh Kim Sạch",
+        "count": 6
+      },
+      {
+        "name": "Trái Tim Thuần Khiết",
+        "count": 20
+      },
+      {
+        "name": "Nấm Rơm Gió",
+        "count": 60
+      },
+      {
+        "name": "Bản Vẽ Cấm Chú",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Character_Barbara_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Character_Barbara_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Barbara.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200609/2020060915101631868.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200609/2020060915102571828.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityweb/upload/2adac6e4e0195c39d90696955f9a7902.png",
+    "nameicon": "UI_AvatarIcon_Barbara",
+    "nameiconcard": "UI_AvatarIcon_Barbara_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Barbara",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Barbara",
+    "namesideicon": "UI_AvatarIcon_Side_Barbara"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Barbara"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 820.6118774414062,
+      "attack": 13.355999946594238,
+      "defense": 56.080501556396484,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2108.1519178425515,
+      "attack": 34.31156393922424,
+      "defense": 144.07080881927777,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2721.1910413777077,
+      "attack": 44.28941389955139,
+      "defense": 185.96580927704144,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4076.021074166667,
+      "attack": 66.34016693275453,
+      "defense": 278.55470525959936,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4511.601457467448,
+      "attack": 73.42969215553285,
+      "defense": 308.3222032759568,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5189.427043535659,
+      "attack": 84.46175096456909,
+      "defense": 354.6447095416279,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5770.200969316909,
+      "attack": 93.91445062582397,
+      "defense": 394.33471198303414,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6448.02655538512,
+      "attack": 104.94650943486022,
+      "defense": 440.65721824870525,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6883.606999721058,
+      "attack": 112.03603465763854,
+      "defense": 470.4247124503654,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7560.611642090924,
+      "attack": 123.05473206612396,
+      "defense": 516.6911155378857,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7996.191964356549,
+      "attack": 130.14425538155365,
+      "defense": 546.4586173689404,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8674.017159126524,
+      "attack": 141.17630782195283,
+      "defense": 592.7810968933445,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 9109.597725532774,
+      "attack": 148.26583495207979,
+      "defense": 622.5485987243992,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9787.423311600985,
+      "attack": 159.29789376111603,
+      "defense": 668.8711049900703,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Ca Dao Sắc Màu",
+      "effect": "Cứ 10s sẽ hồi phục 1 điểm năng lượng Nguyên Tố cho Barbara."
+    },
+    "c2": {
+      "name": "Bùng Nổ Nguyên Khí",
+      "effect": "CD của **Buổi Diễn,Bắt Đầu♪** giảm 15%;\nTrong thời gian kỹ năng tồn tại, sát thương Nguyên Tố Thủy của nhân vật của bản thân trong trận hiện tại tăng 15%."
+    },
+    "c3": {
+      "name": "Ngôi Sao Ngày Mai",
+      "effect": "Cấp kỹ năng **Kỳ Tích Vinh Diệu♪** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c4": {
+      "name": "Nỗ Lực Là Ma Thuật",
+      "effect": "Khi Barbara dùng trọng kích, mỗi khi đánh trúng 1 kẻ địch, sẽ hồi phục 1 điểm năng lượng nguyên tố.\nTối đa hồi 5 điểm Năng Lượng Nguyên Tố."
+    },
+    "c5": {
+      "name": "Liên Kết Thuần Khiết",
+      "effect": "Cấp kỹ năng **Buổi Diễn,Bắt Đầu♪** +3.\nTăng tối đa đến cấp 15."
+    },
+    "c6": {
+      "name": "Dành Cho Em Thứ Tốt Đẹp Nhất",
+      "effect": "Khi Barbara ở trạng thái chờ, nếu có nhân vật của bản thân trong đội ngã xuống sẽ lập tức:\nHồi sinh nhân vật đó;\nHồi phục 100% HP cho nhân vật.\nHiệu quả này mỗi 15 phút chỉ thi triển một lần."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Barbara_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Barbara_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Barbara_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Barbara_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Barbara_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Barbara_04.png",
+      "constellation": "Eff_UI_Talent_Barbara"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Barbara",
+    "combat1": {
+      "name": "Tấn Công Thường: Giọng Ca Của Nước",
+      "info": "**Tấn Công Thường**\nThực hiện tối đa 4 lần tấn công hoa nước, gây Sát Thương Nguyên Tố Thủy.\n\n**Trọng Kích**\nTiêu hao thể lực nhất định, sau khi tụ lực, gây Sát Thương Phạm Vi Nguyên Tố Thủy.\n\n**Tấn Công Khi Đáp**\nNgưng tụ sức mạnh nguyên tố Thủy, từ trên trời tấn công xuống mặt đất, tấn công kẻ địch trên đường đi, gây sát thương phạm vi Nguyên Tố Thủy khi chạm đất.",
+      "attributes": [
+        {
+          "name": "Sát Thương Lần 1",
+          "parameters": [
+            "37.84%",
+            "40.68%",
+            "43.52%",
+            "47.30%",
+            "50.14%",
+            "52.98%",
+            "56.76%",
+            "60.54%",
+            "64.33%",
+            "68.11%",
+            "72.05%",
+            "77.19%",
+            "82.34%",
+            "87.49%",
+            "92.63%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 2",
+          "parameters": [
+            "35.52%",
+            "38.18%",
+            "40.85%",
+            "44.40%",
+            "47.06%",
+            "49.73%",
+            "53.28%",
+            "56.83%",
+            "60.38%",
+            "63.94%",
+            "67.63%",
+            "72.46%",
+            "77.29%",
+            "82.12%",
+            "86.95%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 3",
+          "parameters": [
+            "41.04%",
+            "44.12%",
+            "47.20%",
+            "51.30%",
+            "54.38%",
+            "57.46%",
+            "61.56%",
+            "65.66%",
+            "69.77%",
+            "73.87%",
+            "78.14%",
+            "83.72%",
+            "89.30%",
+            "94.88%",
+            "100.47%"
+          ]
+        },
+        {
+          "name": "Sát Thương Lần 4",
+          "parameters": [
+            "55.20%",
+            "59.34%",
+            "63.48%",
+            "69.00%",
+            "73.14%",
+            "77.28%",
+            "82.80%",
+            "88.32%",
+            "93.84%",
+            "99.36%",
+            "105.10%",
+            "112.61%",
+            "120.12%",
+            "127.62%",
+            "135.13%"
+          ]
+        },
+        {
+          "name": "Sát Thương Trọng Kích",
+          "parameters": [
+            "166.24%",
+            "178.71%",
+            "191.18%",
+            "207.80%",
+            "220.27%",
+            "232.74%",
+            "249.36%",
+            "265.98%",
+            "282.61%",
+            "299.23%",
+            "316.52%",
+            "339.13%",
+            "361.74%",
+            "384.35%",
+            "406.96%"
+          ]
+        },
+        {
+          "name": "Thể lực Trọng Kích tiêu hao",
+          "parameters": [
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm",
+            "50 điểm"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Buổi Diễn, Bắt Đầu♪",
+      "info": "Triệu hồi những giọt nước nhảy nhót như tiếng hát, tạo thành vòng âm thanh, gây cho địch xung quanh Sát Thương Nguyên Tố Thủy, và thi triển trạng thái Ẩm Ướt.\n\n**Vòng Âm Thanh**\n·Khi Barbara tấn công thường trúng địch, thì nhân vật của bản thân trong đội và các nhân vật cùng phe gần đó sẽ được hồi HP, lượng hồi phụ thuộc vào giới hạn HP của Barbara;\n·Khi trọng kích trúng, có thể hồi x4;\n·Mỗi một khoảng thời gian, sẽ hồi HP cho nhân vật của bản thân trong trận hiện tại;\n·Thi triển trạng thái Ẩm Ướt cho nhân vật và địch có tiếp xúc.",
+      "description": "Âm nhạc của Barbara là phép thuật trị liệu cho mọi người.",
+      "attributes": [
+        {
+          "name": "Hồi HP khi đánh trúng địch",
+          "parameters": [
+            "0.75% giới hạn HP +72",
+            "0.81% giới hạn HP +79",
+            "0.86% giới hạn HP +87",
+            "0.94% giới hạn HP +96",
+            "0.99% giới hạn HP +105",
+            "1.05% giới hạn HP +114",
+            "1.13% giới hạn HP +125",
+            "1.20% giới hạn HP +135",
+            "1.27% giới hạn HP +147",
+            "1.35% giới hạn HP +159",
+            "1.43% giới hạn HP +172",
+            "1.50% giới hạn HP +185",
+            "1.59% giới hạn HP +199",
+            "1.69% giới hạn HP +213",
+            "1.78% giới hạn HP +228"
+          ]
+        },
+        {
+          "name": "Lượng trị liệu kéo dài",
+          "parameters": [
+            "4.00% giới hạn HP +385",
+            "4.30% giới hạn HP +424",
+            "4.60% giới hạn HP +465",
+            "5.00% giới hạn HP +510",
+            "5.30% giới hạn HP +559",
+            "5.60% giới hạn HP +610",
+            "6.00% giới hạn HP +664",
+            "6.40% giới hạn HP +722",
+            "6.80% giới hạn HP +783",
+            "7.20% giới hạn HP +847",
+            "7.60% giới hạn HP +915",
+            "8.00% giới hạn HP +986",
+            "8.50% giới hạn HP +1059",
+            "9.00% giới hạn HP +1136",
+            "9.50% giới hạn HP +1217"
+          ]
+        },
+        {
+          "name": "Sát Thương Thủy Châu",
+          "parameters": [
+            "58.40%",
+            "62.78%",
+            "67.16%",
+            "73.00%",
+            "77.38%",
+            "81.76%",
+            "87.60%",
+            "93.44%",
+            "99.28%",
+            "105.12%",
+            "110.96%",
+            "116.80%",
+            "124.10%",
+            "131.40%",
+            "138.70%"
+          ]
+        },
+        {
+          "name": "Thời Gian Kéo Dài",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "32s",
+            "32s",
+            "32s",
+            "32s",
+            "32s",
+            "32s",
+            "32s",
+            "32s",
+            "32s",
+            "32s",
+            "32s",
+            "32s",
+            "32s",
+            "32s",
+            "32s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Kỳ Tích Vinh Diệu♪",
+      "info": "Hồi lượng lớn HP cho các nhân vật của bản thân trong đội ở gần và tất cả nhân vật trong đội của bản thân, lượng hồi phụ thuộc vào giới hạn HP của Barbara.",
+      "description": "Chữa lành trái tim cho mọi người là sức mạnh để Barbara chiến đấu và ca hát.",
+      "attributes": [
+        {
+          "name": "Lượng trị liệu ",
+          "parameters": [
+            "17.60% giới hạn HP +1694",
+            "18.92% giới hạn HP +1864",
+            "20.24% giới hạn HP +2047",
+            "22.00% giới hạn HP +2245",
+            "23.32% giới hạn HP +2457",
+            "24.64% giới hạn HP +2683",
+            "26.40% giới hạn HP +2923",
+            "28.16% giới hạn HP +3177",
+            "29.92% giới hạn HP +3445",
+            "31.68% giới hạn HP +3728",
+            "33.44% giới hạn HP +4024",
+            "35.20% giới hạn HP +4335",
+            "37.40% giới hạn HP +4660",
+            "39.60% giới hạn HP +4999",
+            "41.80% giới hạn HP +5352"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "name": "Năng Lượng Nguyên Tố",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Mùa Huy Hoàng",
+      "info": "Khi nhân vật đang trong vòng âm thanh của **Buổi Diễn, Bắt Đầu♪**, giảm 12% thể lực tiêu hao."
+    },
+    "passive2": {
+      "name": "Lập Lại",
+      "info": "Khi nhân vật của bản thân trong trận hiện tại nhận được Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, vòng âm thanh của **Buổi Diễn,Bắt Đầu♪** sẽ kéo dài thêm 1s.\nBằng cách này có thể kéo dài nhiều nhất 5s."
+    },
+    "passive3": {
+      "name": "Tập Trung Ý Trí♪",
+      "info": "Nấu hoàn mỹ món ăn thuộc loại hồi phục, có tỷ lệ 12% x2 sản lượng."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Bài Giảng Của \"Tự Do\"",
+          "count": 3
+        },
+        {
+          "name": "Bản Vẽ Hướng Dẫn",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Tự Do\"",
+          "count": 2
+        },
+        {
+          "name": "Bản Vẽ Phong Ấn",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Tự Do\"",
+          "count": 4
+        },
+        {
+          "name": "Bản Vẽ Phong Ấn",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Hướng Dẫn Của \"Tự Do\"",
+          "count": 6
+        },
+        {
+          "name": "Bản Vẽ Phong Ấn",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Hướng Dẫn Của \"Tự Do\"",
+          "count": 9
+        },
+        {
+          "name": "Bản Vẽ Phong Ấn",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Triết Học Của \"Tự Do\"",
+          "count": 4
+        },
+        {
+          "name": "Bản Vẽ Cấm Chú",
+          "count": 4
+        },
+        {
+          "name": "Móng Vuốt Bắc Phong",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Triết Học Của \"Tự Do\"",
+          "count": 6
+        },
+        {
+          "name": "Bản Vẽ Cấm Chú",
+          "count": 6
+        },
+        {
+          "name": "Móng Vuốt Bắc Phong",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Triết Học Của \"Tự Do\"",
+          "count": 12
+        },
+        {
+          "name": "Bản Vẽ Cấm Chú",
+          "count": 9
+        },
+        {
+          "name": "Móng Vuốt Bắc Phong",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Triết Học Của \"Tự Do\"",
+          "count": 16
+        },
+        {
+          "name": "Bản Vẽ Cấm Chú",
+          "count": 12
+        },
+        {
+          "name": "Móng Vuốt Bắc Phong",
+          "count": 2
+        },
+        {
+          "name": "Vương Miện Trí Thức",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_Catalyst_MD",
+      "combat2": "Skill_S_Barbara_01",
+      "combat3": "Skill_E_Barbara_01_HD",
+      "passive1": "UI_Talent_S_Barbara_05",
+      "passive2": "UI_Talent_S_Barbara_06",
+      "passive3": "UI_Talent_Cook_Heal"
+    },
+    "version": "1.0"
+  }
+}
