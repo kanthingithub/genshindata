@@ -1,0 +1,19 @@
+{
+  "name": "Tomate",
+  "description": "Con una piel roja y brillante, tiene un sabor dulce y un aspecto muy jugoso. Respecto a si es una fruta o una verdura... Mejor no entramos en ese debate.",
+  "sortorder": 1999,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente culinario",
+  "source": [
+    "Comprado en tiendas"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Tomato.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Tomato.png",
+    "nameicon": "UI_ItemIcon_100079"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Tomato"
+  },
+  "version": ""
+}

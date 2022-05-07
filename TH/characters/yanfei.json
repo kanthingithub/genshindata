@@ -1,0 +1,852 @@
+{
+  "name": "Yanfei",
+  "fullname": "Yanfei",
+  "title": "ความไร้เดียงสาอันแสนแยบยล",
+  "description": "ที่ปรึกษาด้านกฎหมายผู้โด่งดังที่ประจำอยู่ที่ท่าเรือ Liyue หญิงสาวผู้ปราดเปรื่องที่มีสายเลือดสัตว์เวทผสมอยู่",
+  "rarity": "4",
+  "element": "ไฟ",
+  "weapontype": "สื่อเวท",
+  "substat": "โบนัสความเสียหายไฟ",
+  "gender": "ผู้หญิง",
+  "body": "GIRL",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "สำนักงานที่ปรึกษาด้านกฎหมาย Yanfei",
+  "birthdaymmdd": "7/28",
+  "birthday": "28 กรกฎาคม",
+  "constellation": "Bestia Iustitia",
+  "cv": {
+    "english": "Lizzie Freeman",
+    "chinese": "苏子芜",
+    "japanese": "花守ゆみり",
+    "korean": "Jo Kyeong-lee"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Agnidus Agate Sliver",
+        "count": 1
+      },
+      {
+        "name": "Noctilucous Jade",
+        "count": 3
+      },
+      {
+        "name": "Treasure Hoarders Insignia",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Agnidus Agate Fragment",
+        "count": 3
+      },
+      {
+        "name": "Juvenile Jade",
+        "count": 2
+      },
+      {
+        "name": "Noctilucous Jade",
+        "count": 10
+      },
+      {
+        "name": "Treasure Hoarders Insignia",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Agnidus Agate Fragment",
+        "count": 6
+      },
+      {
+        "name": "Juvenile Jade",
+        "count": 4
+      },
+      {
+        "name": "Noctilucous Jade",
+        "count": 20
+      },
+      {
+        "name": "Silver Raven Insignia",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Agnidus Agate Chunk",
+        "count": 3
+      },
+      {
+        "name": "Juvenile Jade",
+        "count": 8
+      },
+      {
+        "name": "Noctilucous Jade",
+        "count": 30
+      },
+      {
+        "name": "Silver Raven Insignia",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Agnidus Agate Chunk",
+        "count": 6
+      },
+      {
+        "name": "Juvenile Jade",
+        "count": 12
+      },
+      {
+        "name": "Noctilucous Jade",
+        "count": 45
+      },
+      {
+        "name": "Golden Raven Insignia",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Agnidus Agate Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Juvenile Jade",
+        "count": 20
+      },
+      {
+        "name": "Noctilucous Jade",
+        "count": 60
+      },
+      {
+        "name": "Golden Raven Insignia",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210421/2021042114214196211.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210421/2021042114231180906.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Feiyan.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Feiyan.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/75c1d48b2fa08bd4c583501a3bb476d3.png",
+    "nameicon": "UI_AvatarIcon_Feiyan",
+    "nameiconcard": "UI_AvatarIcon_Feiyan_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Feiyan",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Feiyan",
+    "namesideicon": "UI_AvatarIcon_Side_Feiyan"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Yanfei"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 784.1402587890625,
+      "attack": 20.12303924560547,
+      "defense": 49.2135009765625,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2014.4563293159881,
+      "attack": 51.6960879371054,
+      "defense": 126.42948429039097,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2600.249237030832,
+      "attack": 66.72938166116546,
+      "defense": 163.1944836800394,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 3894.864635285514,
+      "attack": 99.95251511853348,
+      "defense": 244.44596318533877,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4311.085948762076,
+      "attack": 110.63406705182206,
+      "defense": 270.5684645586298,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 4958.785970032273,
+      "attack": 127.25570176743713,
+      "defense": 311.21882687840844,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5513.747700989305,
+      "attack": 141.49776910447326,
+      "defense": 346.04882489476586,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6161.4477222595015,
+      "attack": 158.11940382008834,
+      "defense": 386.6991872145445,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6577.669035736064,
+      "attack": 168.80095670705123,
+      "defense": 412.82168477313826,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7224.5845996741555,
+      "attack": 185.4024602465106,
+      "defense": 453.42281369207194,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7640.8057910804055,
+      "attack": 196.08400931877622,
+      "defense": 479.5453112506657,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8288.50543844339,
+      "attack": 212.70563443897845,
+      "defense": 520.1956501036184,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 8704.726873990265,
+      "attack": 223.38718351124407,
+      "defense": 546.3181629210012,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9352.426895260462,
+      "attack": 240.00881822685915,
+      "defense": 586.9685252407799,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.5",
+  "constellations": {
+    "c1": {
+      "name": "The Law Knows No Kindness",
+      "effect": "ขณะที่ Yanfei ชาร์จโจมตีแล้วมี Scarlet Seal ทุก ๆ หนึ่งอัน จะเพิ่มความต้านทานการหยุดชะงักระหว่างที่ Yanfei ร่าย และลดการใช้พลังกายของการชาร์จโจมตีครั้งนี้ลง 10%"
+    },
+    "c2": {
+      "name": "Right of Final Interpretation",
+      "effect": "เมื่อ Yanfei ทำการชาร์จโจมตีใส่ศัตรูที่มีพลังชีวิตต่ำกว่า 50% อัตราคริจะเพิ่มขึ้น 20%"
+    },
+    "c3": {
+      "name": "Samadhi Fire-Forged",
+      "effect": "เพิ่มเลเวลสกิลของ **Signed Edict** ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ"
+    },
+    "c4": {
+      "name": "Supreme Amnesty",
+      "effect": "เมื่อปล่อย **Done Deal**: \nจะสร้างโล่ดูดซับความเสียหาย เท่ากับ 45% ของพลังชีวิต 1 อัน ต่อเนื่อง 15 วินาที\nซึ่งโล่นี้มีเอฟเฟกต์ดูดซับ ความเสียหายธาตุไฟ 250%"
+    },
+    "c5": {
+      "name": "Abiding Affidavit",
+      "effect": "เพิ่มเลเวลของสกิล **Done Deal** ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ"
+    },
+    "c6": {
+      "name": "Extra Clause",
+      "effect": "เพิ่มขีดจำกัดของ Scarlet Seal ของ Yanfei ขึ้น 1 อัน"
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Feiyan_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Feiyan_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Feiyan_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Feiyan_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Feiyan_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Feiyan_04.png",
+      "constellation": "Eff_UI_Talent_Feiyan"
+    },
+    "version": "1.5"
+  },
+  "talent": {
+    "name": "Yanfei",
+    "combat1": {
+      "name": "โจมตีปกติ - Seal of Approval",
+      "info": "**โจมตีปกติ**\nปล่อยลูกบอลไฟติดต่อกันเพื่อสร้าง ความเสียหายไฟ สูงสุดสามขั้น\nเมื่อโจมตีปกติโดนศัตรู จะมอบ Scarlet Seal ให้แก่ Yanfei หนึ่งอัน ในตอนเริ่มต้นจะสะสม Scarlet Seal ได้มากสุดสามอัน โดยทุกครั้งที่ได้รับจะเป็นการรีเฟรชช่วงเวลาต่อเนื่องของ Scarlet Seal ที่มีอยู่\nScarlet Seal แต่ละอันจะลดการใช้พลังกายของ Yanfei ลง และจะหายไปเมื่อ Yanfei ออกจากการต่อสู้\n\n**ชาร์จโจมตี**\nหลังจากใช้พลังกายและร่ายเวทสั้น ๆ จะใช้ Scarlet Seal ทั้งหมด และสร้างความเสียหายไฟวงกว้าง ไปยังบริเวณด้านหน้า\nพื้นที่และความเสียหายของชาร์จโจมตีแต่ละครั้งจะขึ้นอยู่กับจำนวน Scarlet Seal ที่ถูกใช้ไป\n\n**การโจมตีพุ่งลงจากอากาศ**\nรวบรวมพลังของธาตุไฟ กระโจนจากกลางอากาศลงมายังพื้นดินเพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี และจะสร้างความเสียหายไฟวงกว้างเมื่อลงถึงพื้น",
+      "attributes": [
+        {
+          "name": "ความเสียหายขั้น 1",
+          "parameters": [
+            "58.34%",
+            "62.72%",
+            "67.09%",
+            "72.93%",
+            "77.30%",
+            "81.68%",
+            "87.51%",
+            "93.35%",
+            "99.18%",
+            "105.01%",
+            "110.85%",
+            "116.68%",
+            "123.98%",
+            "131.27%",
+            "138.56%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 2",
+          "parameters": [
+            "52.13%",
+            "56.04%",
+            "59.94%",
+            "65.16%",
+            "69.07%",
+            "72.98%",
+            "78.19%",
+            "83.40%",
+            "88.61%",
+            "93.83%",
+            "99.04%",
+            "104.25%",
+            "110.77%",
+            "117.28%",
+            "123.80%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 3",
+          "parameters": [
+            "76.01%",
+            "81.71%",
+            "87.41%",
+            "95.02%",
+            "100.72%",
+            "106.42%",
+            "114.02%",
+            "121.62%",
+            "129.22%",
+            "136.82%",
+            "144.42%",
+            "152.03%",
+            "161.53%",
+            "171.03%",
+            "180.53%"
+          ]
+        },
+        {
+          "name": "ความเสียหายชาร์จโจมตี",
+          "parameters": [
+            "98.23%/115.56%/132.90%/150.23%/167.57%",
+            "104.11%/122.48%/140.86%/159.23%/177.60%",
+            "109.99%/129.40%/148.81%/168.23%/187.64%",
+            "117.64%/138.40%/159.16%/179.92%/200.68%",
+            "123.52%/145.32%/167.12%/188.92%/210.71%",
+            "129.40%/152.24%/175.08%/197.91%/220.75%",
+            "137.05%/161.24%/185.42%/209.61%/233.79%",
+            "144.70%/170.23%/195.77%/221.30%/246.84%",
+            "152.34%/179.23%/206.11%/233.00%/259.88%",
+            "159.99%/188.22%/216.46%/244.69%/272.92%",
+            "167.64%/197.22%/226.80%/256.39%/285.97%",
+            "175.28%/206.22%/237.15%/268.08%/299.01%",
+            "182.93%/215.21%/247.49%/279.78%/312.06%",
+            "190.58%/224.21%/257.84%/291.47%/325.10%",
+            "198.22%/233.20%/268.18%/303.17%/338.15%"
+          ]
+        },
+        {
+          "name": "ชาร์จโจมตีใช้พลังกาย",
+          "parameters": [
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย"
+          ]
+        },
+        {
+          "name": "Scarlet Seal ลดการใช้พลังกาย",
+          "parameters": [
+            "15.00% ต่อหนึ่งอัน",
+            "15.00% ต่อหนึ่งอัน",
+            "15.00% ต่อหนึ่งอัน",
+            "15.00% ต่อหนึ่งอัน",
+            "15.00% ต่อหนึ่งอัน",
+            "15.00% ต่อหนึ่งอัน",
+            "15.00% ต่อหนึ่งอัน",
+            "15.00% ต่อหนึ่งอัน",
+            "15.00% ต่อหนึ่งอัน",
+            "15.00% ต่อหนึ่งอัน",
+            "15.00% ต่อหนึ่งอัน",
+            "15.00% ต่อหนึ่งอัน",
+            "15.00% ต่อหนึ่งอัน",
+            "15.00% ต่อหนึ่งอัน",
+            "15.00% ต่อหนึ่งอัน"
+          ]
+        },
+        {
+          "name": "ระยะเวลาของ Scarlet Seal",
+          "parameters": [
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ"
+          ]
+        },
+        {
+          "name": "ความเสียหายพุ่งลง",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "ความเสียหายพุ่งถึงพื้นจากที่ต่ำ/สูง",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Signed Edict",
+      "info": "เรียกเปลวไฟอันร้อนแรงออกมา เพื่อสร้างความเสียหายไฟวงกว้าง\nหลังจากที่โดนศัตรู จะมอบ Scarlet Seal จำนวนสูงสุดให้แก่ Yanfei",
+      "description": "นอกจากผลทางกฎหมายแล้ว ตราประทับที่ทำด้วยไฟยังมีมาตราเพิ่มเติมของ Yanfei อีกด้วย ท้ายที่สุดแล้วกฎแห่งธรรมชาติก็ไม่สามารถเปลี่ยนแปลงได้โดยฝ่ายกิจการทั่วไปเพียงอย่างเดียว",
+      "attributes": [
+        {
+          "name": "ความเสียหายสกิล",
+          "parameters": [
+            "169.60%",
+            "182.32%",
+            "195.04%",
+            "212.00%",
+            "224.72%",
+            "237.44%",
+            "254.40%",
+            "271.36%",
+            "288.32%",
+            "305.28%",
+            "322.24%",
+            "339.20%",
+            "360.40%",
+            "381.60%",
+            "402.80%"
+          ]
+        },
+        {
+          "name": "คูลดาวน์",
+          "parameters": [
+            "9 วิ",
+            "9 วิ",
+            "9 วิ",
+            "9 วิ",
+            "9 วิ",
+            "9 วิ",
+            "9 วิ",
+            "9 วิ",
+            "9 วิ",
+            "9 วิ",
+            "9 วิ",
+            "9 วิ",
+            "9 วิ",
+            "9 วิ",
+            "9 วิ"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Done Deal",
+      "info": "ทำให้เกิดการปะทุของเปลวไฟ พุ่งออกมาใส่ศัตรูที่อยู่รอบ ๆ เพื่อสร้างความเสียหายไฟวงกว้าง และมอบ Scarlet Seal จำนวนสูงสุดกับเอฟเฟกต์ Brilliance ให้แก่ Yanfei เอง\n\n**Brilliance**\nมีเอฟเฟกต์ดังต่อไปนี้:\n·มอบ Scarlet Seal หนึ่งอันให้แก่ Yanfei เป็นระยะ ๆ ;\n·เพิ่มความเสียหายของชาร์จโจมตี\nเอฟเฟกต์ Brilliance จะหายไปเมื่อ Yanfei ออกจากการต่อสู้หรือหมดสติ",
+      "description": "\"ตัวบทที่สมบูรณ์ ทำให้เกิดเป็นข้อตกลงแห่งความเป็นและความตาย แน่นอนว่าไม่ใช่ฉันหรอกนะที่จะเป็นฝ่ายตาย!\"",
+      "attributes": [
+        {
+          "name": "ความเสียหายสกิล",
+          "parameters": [
+            "182.40%",
+            "196.08%",
+            "209.76%",
+            "228.00%",
+            "241.68%",
+            "255.36%",
+            "273.60%",
+            "291.84%",
+            "310.08%",
+            "328.32%",
+            "346.56%",
+            "364.80%",
+            "387.60%",
+            "410.40%",
+            "433.20%"
+          ]
+        },
+        {
+          "name": "ระยะเวลาการได้รับ Scarlet Seal ทุก",
+          "parameters": [
+            "1 วิ",
+            "1 วิ",
+            "1 วิ",
+            "1 วิ",
+            "1 วิ",
+            "1 วิ",
+            "1 วิ",
+            "1 วิ",
+            "1 วิ",
+            "1 วิ",
+            "1 วิ",
+            "1 วิ",
+            "1 วิ",
+            "1 วิ",
+            "1 วิ"
+          ]
+        },
+        {
+          "name": "เพิ่มความเสียหายชาร์จโจมตี",
+          "parameters": [
+            "33.40%",
+            "35.40%",
+            "37.40%",
+            "40.00%",
+            "42.00%",
+            "44.00%",
+            "46.60%",
+            "49.20%",
+            "51.80%",
+            "54.40%",
+            "57.00%",
+            "59.60%",
+            "62.20%",
+            "64.80%",
+            "67.40%"
+          ]
+        },
+        {
+          "name": "ระยะเวลาต่อเนื่อง",
+          "parameters": [
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ"
+          ]
+        },
+        {
+          "name": "เวลาคูลดาวน์",
+          "parameters": [
+            "20 วินาที",
+            "20 วินาที",
+            "20 วินาที",
+            "20 วินาที",
+            "20 วินาที",
+            "20 วินาที",
+            "20 วินาที",
+            "20 วินาที",
+            "20 วินาที",
+            "20 วินาที",
+            "20 วินาที",
+            "20 วินาที",
+            "20 วินาที",
+            "20 วินาที",
+            "20 วินาที"
+          ]
+        },
+        {
+          "name": "พลังงานธาตุ",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Proviso",
+      "info": "เมื่อ Yanfei ใช้ Scarlet Seal เพื่อทำการชาร์จโจมตี ทุกการใช้ Scarlet Seal หนึ่งอัน จะเพิ่มโบนัสความเสียหายไฟให้กับ Yanfei 5% เป็นเวลา 6 วินาที เมื่อใช้ชาร์จโจมตีอีกครั้งภายในช่วงเวลาต่อเนื่องของเอฟเฟกต์ดังกล่าว เอฟเฟกต์เดิมที่มีอยู่จะถูกล้างออกก่อน"
+    },
+    "passive2": {
+      "name": "Blazing Eye",
+      "info": "เมื่อชาร์จโจมตีที่ปล่อยโดย Yanfei เกิดคริติคอลแก่ศัตรู จะสร้างความเสียหายไฟวงกว้างที่มีความรุนแรงเท่ากับ 80% ของพลังโจมตีเพิ่มเติมหนึ่งครั้ง ซึ่งความเสียหายนี้นับเป็นความเสียหายชาร์จโจมตี"
+    },
+    "passive3": {
+      "name": "Encyclopedic Expertise",
+      "info": "แสดงตำแหน่งของ**ของพิเศษเฉพาะใน Liyue** ในมินิแมป"
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of Gold",
+          "count": 3
+        },
+        {
+          "name": "Treasure Hoarders Insignia",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to Gold",
+          "count": 2
+        },
+        {
+          "name": "Silver Raven Insignia",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to Gold",
+          "count": 4
+        },
+        {
+          "name": "Silver Raven Insignia",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to Gold",
+          "count": 6
+        },
+        {
+          "name": "Silver Raven Insignia",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to Gold",
+          "count": 9
+        },
+        {
+          "name": "Silver Raven Insignia",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of Gold",
+          "count": 4
+        },
+        {
+          "name": "Golden Raven Insignia",
+          "count": 4
+        },
+        {
+          "name": "Bloodpearl Branch",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of Gold",
+          "count": 6
+        },
+        {
+          "name": "Golden Raven Insignia",
+          "count": 6
+        },
+        {
+          "name": "Bloodpearl Branch",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of Gold",
+          "count": 12
+        },
+        {
+          "name": "Golden Raven Insignia",
+          "count": 9
+        },
+        {
+          "name": "Bloodpearl Branch",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of Gold",
+          "count": 16
+        },
+        {
+          "name": "Golden Raven Insignia",
+          "count": 12
+        },
+        {
+          "name": "Bloodpearl Branch",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_Catalyst_MD",
+      "combat2": "Skill_S_Feiyan_01",
+      "combat3": "Skill_E_Feiyan_01_HD",
+      "passive1": "UI_Talent_S_Feiyan_05",
+      "passive2": "UI_Talent_S_Feiyan_06",
+      "passive3": "UI_Talent_Collect_Local_Liyue"
+    },
+    "version": "1.5"
+  }
+}

@@ -1,0 +1,954 @@
+{
+  "name": "Hu Tao",
+  "fullname": "Hu Tao",
+  "title": "Fragrance in Thaw",
+  "description": "Master ke-77 Wangsheng Funeral Parlor. Dia mengambil alih bisnis ini di umur yang cukup muda.",
+  "rarity": "5",
+  "element": "Pyro",
+  "weapontype": "Polearm",
+  "substat": "CRIT DMG",
+  "gender": "Perempuan",
+  "body": "GIRL",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Wangsheng Funeral Parlor",
+  "birthdaymmdd": "7/15",
+  "birthday": "15 Juli",
+  "constellation": "Papilio Charontis",
+  "cv": {
+    "english": "Brianna Knickerbocker",
+    "chinese": "陶典",
+    "japanese": "高橋李依",
+    "korean": "Kim Ha-ru"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Agnidus Agate Sliver",
+        "count": 1
+      },
+      {
+        "name": "Silk Flower",
+        "count": 3
+      },
+      {
+        "name": "Whopperflower Nectar",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Agnidus Agate Fragment",
+        "count": 3
+      },
+      {
+        "name": "Juvenile Jade",
+        "count": 2
+      },
+      {
+        "name": "Silk Flower",
+        "count": 10
+      },
+      {
+        "name": "Whopperflower Nectar",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Agnidus Agate Fragment",
+        "count": 6
+      },
+      {
+        "name": "Juvenile Jade",
+        "count": 4
+      },
+      {
+        "name": "Silk Flower",
+        "count": 20
+      },
+      {
+        "name": "Shimmering Nectar",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Agnidus Agate Chunk",
+        "count": 3
+      },
+      {
+        "name": "Juvenile Jade",
+        "count": 8
+      },
+      {
+        "name": "Silk Flower",
+        "count": 30
+      },
+      {
+        "name": "Shimmering Nectar",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Agnidus Agate Chunk",
+        "count": 6
+      },
+      {
+        "name": "Juvenile Jade",
+        "count": 12
+      },
+      {
+        "name": "Silk Flower",
+        "count": 45
+      },
+      {
+        "name": "Energy Nectar",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Agnidus Agate Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Juvenile Jade",
+        "count": 20
+      },
+      {
+        "name": "Silk Flower",
+        "count": 60
+      },
+      {
+        "name": "Energy Nectar",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Character_Hu_Tao_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Character_Hu_Tao_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Hutao.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210224/2021022411345864283.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210224/2021022411361082980.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/e160b5fac097d628f5b2227fd507373b.png",
+    "nameicon": "UI_AvatarIcon_Hutao",
+    "nameiconcard": "UI_AvatarIcon_Hutao_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Hutao",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Hutao",
+    "namesideicon": "UI_AvatarIcon_Side_Hutao"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Hu_Tao"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1210.7164306640625,
+      "attack": 8.285900115966797,
+      "defense": 68.2061996459961,
+      "specialized": 0.5
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 3140.5985435332695,
+      "attack": 21.493625738435185,
+      "defense": 176.92688877664295,
+      "specialized": 0.5
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 4178.678377517645,
+      "attack": 28.59751663427869,
+      "defense": 235.40888722024647,
+      "specialized": 0.5
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 6252.635694832192,
+      "attack": 42.79126402285692,
+      "defense": 352.24611124672083,
+      "specialized": 0.5
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 6990.218702644692,
+      "attack": 47.83876606371996,
+      "defense": 393.7991164652267,
+      "specialized": 0.596000000834465
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 8042.331230088079,
+      "attack": 55.0392129168049,
+      "defense": 453.07030109555126,
+      "specialized": 0.596000000834465
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 9025.775321884954,
+      "attack": 61.769213412715544,
+      "defense": 508.47429279477,
+      "specialized": 0.69200000166893
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 10088.784084752551,
+      "attack": 69.04423191286696,
+      "defense": 568.3593212533524,
+      "specialized": 0.69200000166893
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 10826.367092565051,
+      "attack": 74.09173443056716,
+      "defense": 609.9123302865555,
+      "specialized": 0.69200000166893
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 11899.062039492594,
+      "attack": 81.43304322924996,
+      "defense": 670.3430338405342,
+      "specialized": 0.69200000166893
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 12636.645047305094,
+      "attack": 86.48054574695016,
+      "defense": 711.8960276149483,
+      "specialized": 0.7879999876022339
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 13721.446858335694,
+      "attack": 93.9047114922596,
+      "defense": 773.0087762532967,
+      "specialized": 0.7879999876022339
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 14459.029866148194,
+      "attack": 98.95221210261116,
+      "defense": 814.5617700277107,
+      "specialized": 0.8840000033378601
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 15552.307232559891,
+      "attack": 106.43438284689182,
+      "defense": 876.1519925053435,
+      "specialized": 0.8840000033378601
+    }
+  },
+  "version": "1.3",
+  "constellations": {
+    "c1": {
+      "name": "Crimson Bouquet",
+      "effect": "Saat kondisi **Paramita Papilio** diaktifkan oleh **Guide to Afterlife**, Charge Attack Hu Tao tidak akan mengonsumsi Stamina."
+    },
+    "c2": {
+      "name": "Ominous Rainfall",
+      "effect": "Meningkatkan DMG **Blood Blossom** sebesar 10% Max HP Hu Tao ketika efek diterapkan.\nSelain itu, **Spirit Soother** juga menyebabkan efek **Blood Blossom** saat mengenai musuh."
+    },
+    "c3": {
+      "name": "Lingering Carmine",
+      "effect": "Meningkatkan 3 level **Guide to Afterlife**.\nMaksimum: Lv. 15."
+    },
+    "c4": {
+      "name": "Garden of Eternal Rest",
+      "effect": "Saat musuh yang terkena efek **Blood Blossom** yang disebabkan oleh Hu Tao sendiri dikalahkan, akan meningkatkan 12% CRIT Rate seluruh anggota party yang ada di sekitar (tidak termasuk Hu Tao sendiri) selama 15 detik."
+    },
+    "c5": {
+      "name": "Floral Incense",
+      "effect": "Meningkatkan 3 level **Spirit Soother**.\nMaksimum: Lv. 15."
+    },
+    "c6": {
+      "name": "Butterfly's Embrace",
+      "effect": "Efek ini akan terpicu saat HP Hu Tao berada di bawah 25% atau terkena serangan mematikan:\nHu Tao tidak akan gugur saat terkena serangan tersebut. Selama 10 detik ke depan, meningkatkan 200% Elemental dan Physical RES, meningkatkan 100% CRIT Rate dan meningkatkan ketahanan Hu Tao terhadap interupsi secara signifikan.\nEfek ini akan terpicu otomatis saat HP Hu Tao tersisa 1.\nHanya dapat terpicu setiap 60 detik."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Hutao_03.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Hutao_01.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Hutao_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Hutao_02.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Hutao_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Hutao_04.png",
+      "constellation": "Eff_UI_Talent_Hutao"
+    },
+    "version": "1.3"
+  },
+  "talent": {
+    "name": "Hu Tao",
+    "combat1": {
+      "name": "Normal Attack: Secret Spear of Wangsheng",
+      "info": "**Normal Attack**\nMelancarkan hingga 6 serangan berturut-turut.\n\n**Charged Attack**\nMengonsumsi sejumlah Stamina untuk menerjang ke depan, mengakibatkan DMG pada musuh di jalur terjangan.\n\n**Plunging Attack**\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "attributes": [
+        {
+          "name": "DMG Tahap 1",
+          "parameters": [
+            "46.89%",
+            "50.08%",
+            "53.28%",
+            "57.54%",
+            "60.74%",
+            "64.47%",
+            "69.26%",
+            "74.06%",
+            "78.85%",
+            "83.65%",
+            "88.44%",
+            "93.24%",
+            "98.04%",
+            "102.83%",
+            "107.63%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 2",
+          "parameters": [
+            "48.25%",
+            "51.54%",
+            "54.83%",
+            "59.22%",
+            "62.51%",
+            "66.35%",
+            "71.28%",
+            "76.22%",
+            "81.15%",
+            "86.09%",
+            "91.02%",
+            "95.96%",
+            "100.89%",
+            "105.83%",
+            "110.76%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 3",
+          "parameters": [
+            "61.05%",
+            "65.21%",
+            "69.38%",
+            "74.92%",
+            "79.09%",
+            "83.94%",
+            "90.19%",
+            "96.43%",
+            "102.67%",
+            "108.92%",
+            "115.16%",
+            "121.41%",
+            "127.65%",
+            "133.89%",
+            "140.14%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 4",
+          "parameters": [
+            "65.64%",
+            "70.12%",
+            "74.59%",
+            "80.56%",
+            "85.03%",
+            "90.26%",
+            "96.97%",
+            "103.68%",
+            "110.40%",
+            "117.11%",
+            "123.82%",
+            "130.54%",
+            "137.25%",
+            "143.96%",
+            "150.68%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 5",
+          "parameters": [
+            "33.27%+35.20%",
+            "35.54%+37.60%",
+            "37.81%+40.00%",
+            "40.84%+43.20%",
+            "43.10%+45.60%",
+            "45.75%+48.40%",
+            "49.15%+52.00%",
+            "52.56%+55.60%",
+            "55.96%+59.20%",
+            "59.36%+62.80%",
+            "62.77%+66.40%",
+            "66.17%+70.00%",
+            "69.57%+73.60%",
+            "72.98%+77.20%",
+            "76.38%+80.80%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 6",
+          "parameters": [
+            "85.96%",
+            "91.82%",
+            "97.68%",
+            "105.49%",
+            "111.36%",
+            "118.19%",
+            "126.98%",
+            "135.78%",
+            "144.57%",
+            "153.36%",
+            "162.15%",
+            "170.94%",
+            "179.73%",
+            "188.52%",
+            "197.31%"
+          ]
+        },
+        {
+          "name": "DMG Charged Attack",
+          "parameters": [
+            "135.96%",
+            "145.23%",
+            "154.50%",
+            "166.86%",
+            "176.13%",
+            "186.94%",
+            "200.85%",
+            "214.76%",
+            "228.66%",
+            "242.56%",
+            "256.47%",
+            "270.37%",
+            "284.28%",
+            "298.18%",
+            "312.09%"
+          ]
+        },
+        {
+          "name": "Konsumsi Stamina Charged Attack",
+          "parameters": [
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25"
+          ]
+        },
+        {
+          "name": "DMG Selama Plunging",
+          "parameters": [
+            "65.42%",
+            "69.88%",
+            "74.34%",
+            "80.29%",
+            "84.75%",
+            "89.95%",
+            "96.64%",
+            "103.33%",
+            "110.02%",
+            "116.71%",
+            "123.40%",
+            "130.10%",
+            "136.79%",
+            "143.48%",
+            "150.17%"
+          ]
+        },
+        {
+          "name": "DMG Plunging Attack Min./Maks.",
+          "parameters": [
+            "130.81%/163.39%",
+            "139.73%/174.53%",
+            "148.65%/185.67%",
+            "160.54%/200.52%",
+            "169.46%/211.66%",
+            "179.86%/224.66%",
+            "193.24%/241.37%",
+            "206.62%/258.08%",
+            "220.00%/274.79%",
+            "233.38%/291.50%",
+            "246.76%/308.21%",
+            "260.13%/324.92%",
+            "273.51%/341.63%",
+            "286.89%/358.34%",
+            "300.27%/375.05%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Guide to Afterlife",
+      "info": "Hanya kobaran api tak terpadamkan yang dapat membersihkan ketidakmurnian dunia ini.\nHu Tao mengonsumsi sejumlah HP untuk menyerang dan menghempas musuh di sekitar, kemudian masuk ke dalam kondisi Paramita Papilio.\n\n**Paramita Papilio**\n·Kondisi ini meningkatkan ATK Hu Tao berdasarkan Max HP. Tambahan bonus ATK tidak dapat melebihi 400% Base ATK Hu Tao.\n·Mengonversi DMG serangan menjadi Pyro DMG, konversi ini tidak dapat ditimpa oleh Elemental Infusion lainnya.\n·Musuh yang terkena Charged Attack akan terkena efek Blood Blossom.\n·Meningkatkan ketahanan Hu Tao terhadap interupsi.\n\n**Blood Blossom**\nMusuh yang terkena efek Blood Blossom akan menerima Pyro DMG setiap 4 detik. DMG yang diakibatkan akan dihitung sebagai Elemental Skill DMG.\nSetiap musuh hanya dapat dipengaruhi oleh satu efek Blood Blossom dalam satu waktu, dan durasi waktunya hanya bisa diperbarui oleh Hu Tao sendiri.\n\n**Paramita Papilio** berhenti saat durasi waktunya berakhir, atau saat Hu Tao telah meninggalkan medan pertempuran/gugur.",
+      "description": "Teknik Secret Spear Hu Tao didasarkan pada beberapa aturan, di mana aturan yang pertama adalah: \"Tombak membuka jalan menuju akhirat, dan kupu-kupu menjembatani dunia sekarang dan dunia berikutnya.\"",
+      "attributes": [
+        {
+          "name": "Mengonsumsi",
+          "parameters": [
+            "30.00% HP saat ini",
+            "30.00% HP saat ini",
+            "30.00% HP saat ini",
+            "30.00% HP saat ini",
+            "30.00% HP saat ini",
+            "30.00% HP saat ini",
+            "30.00% HP saat ini",
+            "30.00% HP saat ini",
+            "30.00% HP saat ini",
+            "30.00% HP saat ini",
+            "30.00% HP saat ini",
+            "30.00% HP saat ini",
+            "30.00% HP saat ini",
+            "30.00% HP saat ini",
+            "30.00% HP saat ini"
+          ]
+        },
+        {
+          "name": "ATK Meningkat",
+          "parameters": [
+            "3.84% dari Max HP",
+            "4.07% dari Max HP",
+            "4.30% dari Max HP",
+            "4.60% dari Max HP",
+            "4.83% dari Max HP",
+            "5.06% dari Max HP",
+            "5.36% dari Max HP",
+            "5.66% dari Max HP",
+            "5.96% dari Max HP",
+            "6.26% dari Max HP",
+            "6.55% dari Max HP",
+            "6.85% dari Max HP",
+            "7.15% dari Max HP",
+            "7.45% dari Max HP",
+            "7.75% dari Max HP"
+          ]
+        },
+        {
+          "name": "DMG Blood Blossom",
+          "parameters": [
+            "64.00%",
+            "68.80%",
+            "73.60%",
+            "80.00%",
+            "84.80%",
+            "89.60%",
+            "96.00%",
+            "102.40%",
+            "108.80%",
+            "115.20%",
+            "121.60%",
+            "128.00%",
+            "136.00%",
+            "144.00%",
+            "152.00%"
+          ]
+        },
+        {
+          "name": "Durasi Blood Blossom",
+          "parameters": [
+            "8 detik",
+            "8 detik",
+            "8 detik",
+            "8 detik",
+            "8 detik",
+            "8 detik",
+            "8 detik",
+            "8 detik",
+            "8 detik",
+            "8 detik",
+            "8 detik",
+            "8 detik",
+            "8 detik",
+            "8 detik",
+            "8 detik"
+          ]
+        },
+        {
+          "name": "Durasi",
+          "parameters": [
+            "9 detik",
+            "9 detik",
+            "9 detik",
+            "9 detik",
+            "9 detik",
+            "9 detik",
+            "9 detik",
+            "9 detik",
+            "9 detik",
+            "9 detik",
+            "9 detik",
+            "9 detik",
+            "9 detik",
+            "9 detik",
+            "9 detik"
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "parameters": [
+            "16 detik",
+            "16 detik",
+            "16 detik",
+            "16 detik",
+            "16 detik",
+            "16 detik",
+            "16 detik",
+            "16 detik",
+            "16 detik",
+            "16 detik",
+            "16 detik",
+            "16 detik",
+            "16 detik",
+            "16 detik",
+            "16 detik"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Spirit Soother",
+      "info": "Memerintahkan roh yang membara untuk menyerang dan mengakibatkan Pyro DMG pada area yang besar.\nSaat memukul musuh, akan memulihkan HP berdasarkan persentase Max HP Hu Tao. Efek ini dapat terpicu ke 5 musuh berbeda.\nJika HP Hu Tao sama dengan atau kurang dari 50% saat skill ini mengenai musuh, maka DMG dan pemulihan HP akan meningkat.",
+      "description": "Aktivitas supernatural dari roh-roh yang telah meninggalkan dunia ini adalah kecemasan terbesar Wangsheng Funeral Parlor. Tetapi kegiatan kremasi selalu bisa meredakan kecemasan Hu Tao, dan semakin cemas Hu Tao, semakin kuat juga api kremasi yang dia gunakan.",
+      "attributes": [
+        {
+          "name": "DMG Skill",
+          "parameters": [
+            "303.27%",
+            "321.43%",
+            "339.59%",
+            "363.20%",
+            "381.36%",
+            "399.52%",
+            "423.13%",
+            "446.74%",
+            "470.34%",
+            "493.95%",
+            "517.56%",
+            "541.17%",
+            "564.78%",
+            "588.38%",
+            "611.99%"
+          ]
+        },
+        {
+          "name": "DMG Skill HP Rendah",
+          "parameters": [
+            "379.09%",
+            "401.79%",
+            "424.49%",
+            "454.00%",
+            "476.70%",
+            "499.40%",
+            "528.91%",
+            "558.42%",
+            "587.93%",
+            "617.44%",
+            "646.95%",
+            "676.46%",
+            "705.97%",
+            "735.48%",
+            "764.99%"
+          ]
+        },
+        {
+          "name": "Pemulihan HP",
+          "parameters": [
+            " 6.26% dari Max HP",
+            " 6.64% dari Max HP",
+            " 7.01% dari Max HP",
+            " 7.50% dari Max HP",
+            " 7.87% dari Max HP",
+            " 8.25% dari Max HP",
+            " 8.74% dari Max HP",
+            " 9.22% dari Max HP",
+            " 9.71% dari Max HP",
+            " 10.20% dari Max HP",
+            " 10.69% dari Max HP",
+            " 11.17% dari Max HP",
+            " 11.66% dari Max HP",
+            " 12.15% dari Max HP",
+            " 12.64% dari Max HP"
+          ]
+        },
+        {
+          "name": "Pemulihan HP Saat HP Rendah",
+          "parameters": [
+            " 8.35% dari Max HP",
+            " 8.85% dari Max HP",
+            " 9.35% dari Max HP",
+            " 10.00% dari Max HP",
+            " 10.50% dari Max HP",
+            " 11.00% dari Max HP",
+            " 11.65% dari Max HP",
+            " 12.30% dari Max HP",
+            " 12.95% dari Max HP",
+            " 13.60% dari Max HP",
+            " 14.25% dari Max HP",
+            " 14.90% dari Max HP",
+            " 15.55% dari Max HP",
+            " 16.20% dari Max HP",
+            " 16.85% dari Max HP"
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "parameters": [
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik"
+          ]
+        },
+        {
+          "name": "Konsumsi Energy",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Flutter By",
+      "info": "Saat kondisi **Paramita Papilio** yang diaktifkan oleh **Guide to Afterlife** telah berakhir, akan meningkatkan 12% CRIT Rate seluruh anggota party (tidak termasuk Hu Tao sendiri) selama 8 detik."
+    },
+    "passive2": {
+      "name": "Sanguine Rouge",
+      "info": "Saat HP Hu Tao kurang dari atau sama dengan 50%, maka Hu Tao akan memperoleh 33% Pyro DMG Bonus."
+    },
+    "passive3": {
+      "name": "The More the Merrier",
+      "info": "Saat Hu Tao memasak makanan dengan sempurna, terdapat 18% kemungkinan mendapatkan hasil tambahan makanan \"Suspicious\" dari jenis makanan yang sama."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of \"Diligence\"",
+          "count": 3
+        },
+        {
+          "name": "Whopperflower Nectar",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to \"Diligence\"",
+          "count": 2
+        },
+        {
+          "name": "Shimmering Nectar",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to \"Diligence\"",
+          "count": 4
+        },
+        {
+          "name": "Shimmering Nectar",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to \"Diligence\"",
+          "count": 6
+        },
+        {
+          "name": "Shimmering Nectar",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to \"Diligence\"",
+          "count": 9
+        },
+        {
+          "name": "Shimmering Nectar",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of \"Diligence\"",
+          "count": 4
+        },
+        {
+          "name": "Energy Nectar",
+          "count": 4
+        },
+        {
+          "name": "Shard of a Foul Legacy",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of \"Diligence\"",
+          "count": 6
+        },
+        {
+          "name": "Energy Nectar",
+          "count": 6
+        },
+        {
+          "name": "Shard of a Foul Legacy",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of \"Diligence\"",
+          "count": 12
+        },
+        {
+          "name": "Energy Nectar",
+          "count": 9
+        },
+        {
+          "name": "Shard of a Foul Legacy",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of \"Diligence\"",
+          "count": 16
+        },
+        {
+          "name": "Energy Nectar",
+          "count": 12
+        },
+        {
+          "name": "Shard of a Foul Legacy",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_03",
+      "combat2": "Skill_S_Hutao_01",
+      "combat3": "Skill_E_Hutao_01_HD",
+      "passive1": "UI_Talent_S_Hutao_05",
+      "passive2": "UI_Talent_S_Hutao_06",
+      "passive3": "UI_Talent_Cook_ExtraFailedItem"
+    },
+    "version": "1.3"
+  }
+}

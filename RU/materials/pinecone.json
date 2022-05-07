@@ -1,0 +1,19 @@
+{
+  "name": "Сосновая шишка",
+  "description": "Семена из сосновой шишки богаты натуральными маслами. Местные разрушители легенд доказали, что сосна не может вырасти из шишки у белки в животе.",
+  "sortorder": 1986,
+  "category": "EXCHANGE",
+  "materialtype": "Кухонный ингредиент",
+  "source": [
+    "Дикая природа"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Pinecone.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Item_Pinecone.png",
+    "nameicon": "UI_ItemIcon_100020"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Pinecone"
+  },
+  "version": ""
+}

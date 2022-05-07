@@ -1,0 +1,19 @@
+{
+  "name": "Рыба",
+  "description": "Свежее филе рыбы. С ним можно приготовить богатое блюдо.",
+  "sortorder": 2001,
+  "category": "EXCHANGE",
+  "materialtype": "Кухонный ингредиент",
+  "source": [
+    "Ловля рыбы"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fish.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Item_Fish.png",
+    "nameicon": "UI_ItemIcon_100084"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fish"
+  },
+  "version": ""
+}

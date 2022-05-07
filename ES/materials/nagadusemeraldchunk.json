@@ -1,0 +1,19 @@
+{
+  "name": "Trozo de esmeralda nagadus",
+  "description": "Material de ascensión de personaje.\n“Al final, la vida se desprendió de su mano...”\n“Dándole así a todos la libertad de vivir”.",
+  "sortorder": 1832,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Sintetizar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Nagadus_Emerald_Chunk.png",
+    "nameicon": "UI_ItemIcon_104133"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Nagadus_Emerald_Chunk"
+  },
+  "version": ""
+}

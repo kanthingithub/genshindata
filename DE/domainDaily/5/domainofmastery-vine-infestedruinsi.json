@@ -1,0 +1,171 @@
+{
+  "name": "Sphäre des Verständnisses: Verlassene Ruinen",
+  "region": "Inazuma",
+  "domainEntrance": "Stiefmütterchenhof",
+  "domainType": "Material zur Verbesserung von Talenten",
+  "description": "In diesem Altar, der ewig blühenden violetten Sakura, lauern immer weiter eindringende Feinde.\nSolltest du es schaffen, diese Prüfung zu bestehen, wirst du sicher etwas bekommen, womit du deine Talente verbessern kannst.",
+  "daysOfWeek": [
+    "Mittwoch",
+    "Samstag",
+    "Sonntag"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Thunder_Dq"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Sphäre des Verständnisses: Verlassene Ruinen I",
+      "recommendedLevel": 38,
+      "recommendedElements": [
+        "Elektro"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1575
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 15
+        },
+        {
+          "name": "Lehren des „Lichts“"
+        }
+      ],
+      "disorder": [
+        "Erhöht den Elektro-Schaden aller Truppenmitglieder um 25 %.",
+        "In der Herausforderung gibt es Elektro-Kristallfrüchte und in gewissen Abständen tauchen keimende Elektro-Perlen auf. Sobald Figuren eine keimende Elektro-Perle erhalten, entfesseln Standardangriffe, heftige Schläge, Angriffe aus dem Fall, Elementarfähigkeiten und Spezialfähigkeiten beim Treffen von Gegnern Blitze, die Elektro-Schaden verursachen."
+      ],
+      "monsterlist": [
+        "Hilichurl",
+        "Elektro-Hilichurl-Grenadier",
+        "Elektro-Hilichurl-Schütze",
+        "Mitachurl mit Blitzaxt"
+      ]
+    },
+    {
+      "name": "Sphäre des Verständnisses: Verlassene Ruinen II",
+      "recommendedLevel": 54,
+      "recommendedElements": [
+        "Elektro"
+      ],
+      "unlockRank": 28,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1800
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 15
+        },
+        {
+          "name": "Lehren des „Lichts“"
+        },
+        {
+          "name": "Anleitung zum „Licht“"
+        }
+      ],
+      "disorder": [
+        "Erhöht den Elektro-Schaden aller Truppenmitglieder um 25 %.",
+        "In der Herausforderung gibt es Elektro-Kristallfrüchte und in gewissen Abständen tauchen keimende Elektro-Perlen auf. Sobald Figuren eine keimende Elektro-Perle erhalten, entfesseln Standardangriffe, heftige Schläge, Angriffe aus dem Fall, Elementarfähigkeiten und Spezialfähigkeiten beim Treffen von Gegnern Blitze, die Elektro-Schaden verursachen."
+      ],
+      "monsterlist": [
+        "Nobushi – Jintouban",
+        "Nobushi – Hitsukeban",
+        "Nobushi – Kikouban",
+        "Schatzräuber – Pyro-Tränkemischer",
+        "Schatzräuber – Elektro-Tränkemischer"
+      ]
+    },
+    {
+      "name": "Sphäre des Verständnisses: Verlassene Ruinen III",
+      "recommendedLevel": 71,
+      "recommendedElements": [
+        "Elektro"
+      ],
+      "unlockRank": 36,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2050
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 20
+        },
+        {
+          "name": "Lehren des „Lichts“"
+        },
+        {
+          "name": "Anleitung zum „Licht“"
+        }
+      ],
+      "disorder": [
+        "Erhöht den Elektro-Schaden aller Truppenmitglieder um 25 %.",
+        "In der Herausforderung gibt es Elektro-Kristallfrüchte und in gewissen Abständen tauchen keimende Elektro-Perlen auf. Sobald Figuren eine keimende Elektro-Perle erhalten, entfesseln Standardangriffe, heftige Schläge, Angriffe aus dem Fall, Elementarfähigkeiten und Spezialfähigkeiten beim Treffen von Gegnern Blitze, die Elektro-Schaden verursachen."
+      ],
+      "monsterlist": [
+        "Nobushi – Hitsukeban",
+        "Nobushi – Kikouban",
+        "Schatzräuber – Pyro-Tränkemischer",
+        "Schatzräuber – Elektro-Tränkemischer",
+        "Kairagi – Sengende Macht"
+      ]
+    },
+    {
+      "name": "Sphäre des Verständnisses: Verlassene Ruinen IV",
+      "recommendedLevel": 88,
+      "recommendedElements": [
+        "Elektro"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2375
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 20
+        },
+        {
+          "name": "Lehren des „Lichts“"
+        },
+        {
+          "name": "Anleitung zum „Licht“"
+        },
+        {
+          "name": "Philosophie des „Lichts“"
+        }
+      ],
+      "disorder": [
+        "Erhöht den Elektro-Schaden aller Truppenmitglieder um 25 %.",
+        "In der Herausforderung gibt es Elektro-Kristallfrüchte und in gewissen Abständen tauchen keimende Elektro-Perlen auf. Sobald Figuren eine keimende Elektro-Perle erhalten, entfesseln Standardangriffe, heftige Schläge, Angriffe aus dem Fall, Elementarfähigkeiten und Spezialfähigkeiten beim Treffen von Gegnern Blitze, die Elektro-Schaden verursachen."
+      ],
+      "monsterlist": [
+        "Schatzräuber – Kryo-Tränkemischer",
+        "Kairagi – Galoppierender Blitz",
+        "Kairagi – Sengende Macht"
+      ]
+    }
+  ]
+}

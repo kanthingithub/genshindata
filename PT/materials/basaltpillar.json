@@ -1,0 +1,20 @@
+{
+  "name": "Torre da Terra",
+  "description": "Um pilar formado pela casca de uma Hypostasis Geo. Composto de energia Geo de alta densidade.\nÉ uma prova do status do Geo como o mais pesado dos elementos. Talvez a razão pela qual uma Hypostasis Geo cria esse pilar a partir de sua casca e se eleva é apenas para se aproximar do céu, não para combater os inimigos.",
+  "sortorder": 1791,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Dropado pelo Hypostasis Geo Nv.30+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Basalt_Pillar.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Basalt_Pillar.png",
+    "nameicon": "UI_ItemIcon_113009"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Basalt_Pillar"
+  },
+  "version": ""
+}

@@ -1,0 +1,166 @@
+{
+  "name": "Sphäre des Verständnisses: Abgrund voller Eis",
+  "region": "Mondstadt",
+  "domainEntrance": "Vergessene Schlucht",
+  "domainType": "Material zur Verbesserung von Talenten",
+  "description": "In diesem eiskalten Altar aus der Vergangenheit konzentriert sich enorme Kryo-Kraft.\nBei dieser Kälte frieren dir sogar die Knochen ein.\nSolltest du es schaffen, diese Prüfung zu bestehen, wirst du sicher etwas bekommen, womit du deine Talente verbessern kannst.",
+  "daysOfWeek": [
+    "Dienstag",
+    "Freitag",
+    "Sonntag"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Ice"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Sphäre des Verständnisses: Abgrund voller Eis I",
+      "recommendedLevel": 38,
+      "recommendedElements": [
+        "Elektro",
+        "Pyro"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1575
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 15
+        },
+        {
+          "name": "Lehren des „Widerstands“"
+        }
+      ],
+      "disorder": [
+        "Die Figur erleidet in regelmäßigen Abständen „Erstarrte Glieder“: Verleiht der Figur das Kryo-Attribut und erhöht ihren Ausdauerverbrauch stark."
+      ],
+      "monsterlist": [
+        "Kryo-Schleim",
+        "Großer Kryo-Schleim",
+        "Kryo-Abgrundmagier"
+      ]
+    },
+    {
+      "name": "Sphäre des Verständnisses: Abgrund voller Eis II",
+      "recommendedLevel": 54,
+      "recommendedElements": [
+        "Elektro",
+        "Pyro"
+      ],
+      "unlockRank": 28,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1800
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 15
+        },
+        {
+          "name": "Lehren des „Widerstands“"
+        },
+        {
+          "name": "Anleitung zum „Widerstand“"
+        }
+      ],
+      "disorder": [
+        "Die Figur erleidet in regelmäßigen Abständen „Erstarrte Glieder“: Verleiht der Figur das Kryo-Attribut und erhöht ihren Ausdauerverbrauch stark."
+      ],
+      "monsterlist": [
+        "Kryo-Schleim",
+        "Großer Kryo-Schleim",
+        "Hilichurl-Kämpfer",
+        "Kryo-Abgrundmagier"
+      ]
+    },
+    {
+      "name": "Sphäre des Verständnisses: Abgrund voller Eis III",
+      "recommendedLevel": 71,
+      "recommendedElements": [
+        "Elektro",
+        "Pyro"
+      ],
+      "unlockRank": 36,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2050
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 20
+        },
+        {
+          "name": "Lehren des „Widerstands“"
+        },
+        {
+          "name": "Anleitung zum „Widerstand“"
+        }
+      ],
+      "disorder": [
+        "Die Figur erleidet in regelmäßigen Abständen „Erstarrte Glieder“: Verleiht der Figur das Kryo-Attribut und erhöht ihren Ausdauerverbrauch stark. Auf dem Feld schlagen zufällig Eiszapfen nieder, die Kryo-Schaden verursachen."
+      ],
+      "monsterlist": [
+        "Kryo-Schleim",
+        "Großer Kryo-Schleim",
+        "Kryo-Abgrundmagier"
+      ]
+    },
+    {
+      "name": "Sphäre des Verständnisses: Abgrund voller Eis IV",
+      "recommendedLevel": 88,
+      "recommendedElements": [
+        "Elektro",
+        "Pyro"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2375
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 20
+        },
+        {
+          "name": "Lehren des „Widerstands“"
+        },
+        {
+          "name": "Anleitung zum „Widerstand“"
+        },
+        {
+          "name": "Philosophie des „Widerstands“"
+        }
+      ],
+      "disorder": [
+        "Die Figur erleidet in regelmäßigen Abständen „Erstarrte Glieder“: Verleiht der Figur das Kryo-Attribut und erhöht ihren Ausdauerverbrauch stark. Auf dem Feld schlagen zufällig Eiszapfen nieder, die Kryo-Schaden verursachen."
+      ],
+      "monsterlist": [
+        "Großer Kryo-Schleim",
+        "Kryo-Abgrundmagier"
+      ]
+    }
+  ]
+}

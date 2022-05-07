@@ -1,0 +1,20 @@
+{
+  "name": "Wolfhook",
+  "description": "A berry with thorns that often gets attached to a wolf's pelt. When you look at it, you can almost hear the echoing cries of the wolves in the woods.",
+  "sortorder": 2036,
+  "category": "EXCHANGE",
+  "materialtype": "Local Specialty (Mondstadt)",
+  "source": [
+    "Found in the wild",
+    "Recommendation: Found in Wolvendom"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wolfhook.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Item_Wolfhook.png",
+    "nameicon": "UI_ItemIcon_100021"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Wolfhook"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Wanderer's Advice",
+  "description": "วัสดุประสบการณ์ตัวละคร ประกอบไปด้วยประสบการณ์ 1000 หน่วย\nหากไม่ได้อยู่ในเจ็ดประเทศของทวีป แล้วล่ะก็ ประสบการณ์เหล่านี้จะเป็น สิ่งที่ขาดไม่ได้เลย",
+  "sortorder": 1290,
+  "rarity": "2",
+  "category": "EXP_FRUIT",
+  "materialtype": "วัสดุประสบการณ์ตัวละคร",
+  "source": [
+    "รางวัลการผจญภัยและสำรวจ"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_104001",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wanderer's_Advice.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Wanderer%27s_Advice.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Wanderer's_Advice"
+  },
+  "version": ""
+}

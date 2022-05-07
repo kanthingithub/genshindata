@@ -1,0 +1,914 @@
+{
+  "name": "Diluc",
+  "fullname": "Diluc",
+  "title": "เงาแห่งรุ่งอรุณ",
+  "description": "เจ้าของกิจการโรงผลิตไวน์แห่ง อาณาจักรใน Mondstadt ไม่มีใครเทียบเคียงได้ในทุกทาง",
+  "rarity": "5",
+  "element": "ไฟ",
+  "weapontype": "ดาบใหญ่",
+  "substat": "อัตราคริ",
+  "gender": "ชาย",
+  "body": "MALE",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Dawn Winery",
+  "birthdaymmdd": "4/30",
+  "birthday": "30 เมษายน",
+  "constellation": "Noctua",
+  "cv": {
+    "english": "Sean Chiplock",
+    "chinese": "马洋",
+    "japanese": "小野賢章",
+    "korean": "Choi Seung-hoon"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Agnidus Agate Sliver",
+        "count": 1
+      },
+      {
+        "name": "Small Lamp Grass",
+        "count": 3
+      },
+      {
+        "name": "Recruit's Insignia",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Agnidus Agate Fragment",
+        "count": 3
+      },
+      {
+        "name": "Everflame Seed",
+        "count": 2
+      },
+      {
+        "name": "Small Lamp Grass",
+        "count": 10
+      },
+      {
+        "name": "Recruit's Insignia",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Agnidus Agate Fragment",
+        "count": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "count": 4
+      },
+      {
+        "name": "Small Lamp Grass",
+        "count": 20
+      },
+      {
+        "name": "Sergeant's Insignia",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Agnidus Agate Chunk",
+        "count": 3
+      },
+      {
+        "name": "Everflame Seed",
+        "count": 8
+      },
+      {
+        "name": "Small Lamp Grass",
+        "count": 30
+      },
+      {
+        "name": "Sergeant's Insignia",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Agnidus Agate Chunk",
+        "count": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "count": 12
+      },
+      {
+        "name": "Small Lamp Grass",
+        "count": 45
+      },
+      {
+        "name": "Officer's Insignia",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Agnidus Agate Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "count": 20
+      },
+      {
+        "name": "Small Lamp Grass",
+        "count": 60
+      },
+      {
+        "name": "Officer's Insignia",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Character_Diluc_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Character_Diluc_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Diluc.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200609/2020060915105884221.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200609/2020060915105012670.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/7f68f45a650bbcf804215fc7890c7f35.png",
+    "nameicon": "UI_AvatarIcon_Diluc",
+    "nameiconcard": "UI_AvatarIcon_Diluc_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Diluc",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Diluc",
+    "namesideicon": "UI_AvatarIcon_Side_Diluc"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Diluc"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1010.5192260742188,
+      "attack": 26.06800079345703,
+      "defense": 61.0265998840332,
+      "specialized": 0.05000000074505806
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2621.286974589384,
+      "attack": 67.62039669342812,
+      "defense": 158.30300626832923,
+      "specialized": 0.05000000074505806
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3487.7158075971965,
+      "attack": 89.96971615143593,
+      "defense": 210.62900648195227,
+      "specialized": 0.05000000074505806
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5218.73530161212,
+      "attack": 134.62420305197156,
+      "defense": 315.1675756916702,
+      "specialized": 0.05000000074505806
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5834.355785010557,
+      "attack": 150.5039828676454,
+      "defense": 352.34657273146513,
+      "specialized": 0.09800000116229057
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6712.496950065979,
+      "attack": 173.1570744633027,
+      "defense": 405.37868546991194,
+      "specialized": 0.09800000116229057
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7533.324342644104,
+      "attack": 194.330116760666,
+      "defense": 454.95068406610335,
+      "specialized": 0.1460000015795231
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8420.560003412247,
+      "attack": 217.21781578915397,
+      "defense": 508.5320254947983,
+      "specialized": 0.1460000015795231
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9036.180364740372,
+      "attack": 233.0975956048278,
+      "defense": 545.7110263492905,
+      "specialized": 0.1460000015795231
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9931.500557089952,
+      "attack": 256.1938483849335,
+      "defense": 599.780603391262,
+      "specialized": 0.1460000015795231
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10547.121162558702,
+      "attack": 272.0736243859101,
+      "defense": 636.9596042457542,
+      "specialized": 0.193999994546175
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11452.546296605404,
+      "attack": 295.4305507102508,
+      "defense": 691.6394321546959,
+      "specialized": 0.193999994546175
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12068.166902074154,
+      "attack": 311.3103343406219,
+      "defense": 728.8184330091881,
+      "specialized": 0.2420000024139881
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12980.666121717892,
+      "attack": 334.84974830517604,
+      "defense": 783.9254743546844,
+      "specialized": 0.2420000024139881
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Conviction",
+      "effect": "เมื่อเผชิญหน้ากับศัตรูที่มี พลังชีวิตสูงกว่า 50% Diluc จะสร้างความเสียหายเพิ่มขึ้น 15%"
+    },
+    "c2": {
+      "name": "Searing Ember",
+      "effect": "เมื่อ Diluc ได้รับความเสียหาย พลังโจมตีจะเพิ่มขึ้น 10%, ความเร็วการโจมตีจะเพิ่มขึ้น 5% เป็นเวลา 10 วินาที\nเอฟเฟกต์นี้จะเกิดการทับซ้อน ได้มากสุด 3 ครั้ง และเกิดขึ้นได้หนึ่งครั้งในทุก 1.5 วินาที"
+    },
+    "c3": {
+      "name": "Fire and Steel",
+      "effect": "เพิ่มเลเวลสกิลของ **Searing Onslaught** ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ"
+    },
+    "c4": {
+      "name": "Flowing Flame",
+      "effect": "ใช้ **Searing Onslaught** อย่างเป็นจังหวะ โดยจะเพิ่มความเสียหายที่สร้างในปริมาณมาก\n2 วินาที หลังจากที่ใช้ **Searing Onslaught** จะทำให้ความเสียหายของ Searing Onslaught ครั้งต่อไปเพิ่มขึ้น 40% ต่อเนื่อง 2 วินาที"
+    },
+    "c5": {
+      "name": "Phoenix, Harbinger of Dawn",
+      "effect": "เพิ่มเลเวลสกิลของ **Dawn** ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ"
+    },
+    "c6": {
+      "name": "Flaming Sword, Nemesis of Dark",
+      "effect": "ภายในเวลา 6 วินาที หลังจากใช้ **Searing Onslaught** การโจมตีปกติ 2 ครั้ง หลังจากนั้นจะเพิ่มความเร็วขึ้น 30% และเพิ่มความเสียหายขึ้น 30%\nนอกจากนี้ Searing Onslaught จะไม่รีเซ็ตจำนวนคอมโบ การโจมตีปกติอีกต่อไป"
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diluc_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diluc_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Diluc_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diluc_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Diluc_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diluc_04.png",
+      "constellation": "Eff_UI_Talent_Diluc"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Diluc",
+    "combat1": {
+      "name": "โจมตีปกติ - Tempered Sword",
+      "info": "**โจมตีปกติ**\nฟาดฟันต่อเนื่องมากสุดสี่ครั้ง\n\n**ชาร์จโจมตี**\nใช้พลังกายต่อเนื่อง เพื่อฟันโจมตีติดต่อกันอย่างรวดเร็ว\nเมื่อชาร์จโจมตีสิ้นสุดลง จะทำการฟันอย่างรุนแรงเพิ่มอีกหนึ่งครั้ง\n\n**โจมตีพุ่งลงจากอากาศ**\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "attributes": [
+        {
+          "name": "ความเสียหายขั้น 1",
+          "parameters": [
+            "89.70%",
+            "97.00%",
+            "104.30%",
+            "114.73%",
+            "122.03%",
+            "130.38%",
+            "141.85%",
+            "153.32%",
+            "164.79%",
+            "177.31%",
+            "191.65%",
+            "208.52%",
+            "225.38%",
+            "242.25%",
+            "260.65%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 2",
+          "parameters": [
+            "87.63%",
+            "94.77%",
+            "101.90%",
+            "112.09%",
+            "119.22%",
+            "127.37%",
+            "138.58%",
+            "149.79%",
+            "161.00%",
+            "173.23%",
+            "187.24%",
+            "203.72%",
+            "220.20%",
+            "236.67%",
+            "254.65%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 3",
+          "parameters": [
+            "98.81%",
+            "106.86%",
+            "114.90%",
+            "126.39%",
+            "134.43%",
+            "143.62%",
+            "156.26%",
+            "168.90%",
+            "181.54%",
+            "195.33%",
+            "211.13%",
+            "229.71%",
+            "248.29%",
+            "266.87%",
+            "287.14%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 4",
+          "parameters": [
+            "133.99%",
+            "144.89%",
+            "155.80%",
+            "171.38%",
+            "182.29%",
+            "194.75%",
+            "211.89%",
+            "229.03%",
+            "246.16%",
+            "264.86%",
+            "286.28%",
+            "311.48%",
+            "336.67%",
+            "361.86%",
+            "389.34%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขณะชาร์จโจมตี",
+          "parameters": [
+            "68.80%",
+            "74.40%",
+            "80.00%",
+            "88.00%",
+            "93.60%",
+            "100.00%",
+            "108.80%",
+            "117.60%",
+            "126.40%",
+            "136.00%",
+            "147.00%",
+            "159.94%",
+            "172.87%",
+            "185.81%",
+            "199.92%"
+          ]
+        },
+        {
+          "name": "ความเสียหายชาร์จโจมตีครั้งสุดท้าย",
+          "parameters": [
+            "124.70%",
+            "134.85%",
+            "145.00%",
+            "159.50%",
+            "169.65%",
+            "181.25%",
+            "197.20%",
+            "213.15%",
+            "229.10%",
+            "246.50%",
+            "266.44%",
+            "289.88%",
+            "313.33%",
+            "336.78%",
+            "362.35%"
+          ]
+        },
+        {
+          "name": "ชาร์จโจมตีใช้พลังกาย",
+          "parameters": [
+            "40 หน่วย/วิ",
+            "40 หน่วย/วิ",
+            "40 หน่วย/วิ",
+            "40 หน่วย/วิ",
+            "40 หน่วย/วิ",
+            "40 หน่วย/วิ",
+            "40 หน่วย/วิ",
+            "40 หน่วย/วิ",
+            "40 หน่วย/วิ",
+            "40 หน่วย/วิ",
+            "40 หน่วย/วิ",
+            "40 หน่วย/วิ",
+            "40 หน่วย/วิ",
+            "40 หน่วย/วิ",
+            "40 หน่วย/วิ"
+          ]
+        },
+        {
+          "name": "ระยะเวลาต่อเนื่องสูงสุด",
+          "parameters": [
+            "5 วิ",
+            "5 วิ",
+            "5 วิ",
+            "5 วิ",
+            "5 วิ",
+            "5 วิ",
+            "5 วิ",
+            "5 วิ",
+            "5 วิ",
+            "5 วิ",
+            "5 วิ",
+            "5 วิ",
+            "5 วิ",
+            "5 วิ",
+            "5 วิ"
+          ]
+        },
+        {
+          "name": "ความเสียหายพุ่งลง",
+          "parameters": [
+            "89.51%",
+            "96.79%",
+            "104.08%",
+            "114.48%",
+            "121.77%",
+            "130.10%",
+            "141.54%",
+            "152.99%",
+            "164.44%",
+            "176.93%",
+            "189.42%",
+            "201.91%",
+            "214.40%",
+            "226.89%",
+            "239.37%"
+          ]
+        },
+        {
+          "name": "ความเสียหายพุ่งถึงพื้นจากที่ต่ำ/สูง",
+          "parameters": [
+            "178.97%/223.55%",
+            "193.54%/241.74%",
+            "208.11%/259.94%",
+            "228.92%/285.93%",
+            "243.49%/304.13%",
+            "260.13%/324.92%",
+            "283.03%/353.52%",
+            "305.92%/382.11%",
+            "328.81%/410.70%",
+            "353.78%/441.89%",
+            "378.76%/473.09%",
+            "403.73%/504.28%",
+            "428.70%/535.47%",
+            "453.68%/566.66%",
+            "478.65%/597.86%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Searing Onslaught",
+      "info": "กวัดแกว่งดาบขนาดใหญ่เพื่อฟาดฟันสิ่งที่อยู่ตรงหน้า สร้างความเสียหายไฟ\n\nสามารถทำได้ 3 ครั้งติดต่อกัน จากนั้นจะเข้าสู่ช่วงเวลาคูลดาวน์",
+      "description": "สิ่งที่บ่งบอกถึงตัวตนของ Diluc นั้นคือ ความยุติธรรม, ความกล้า และความรับผิดชอบ",
+      "attributes": [
+        {
+          "name": "ความเสียหายขั้น 1",
+          "parameters": [
+            "94.40%",
+            "101.48%",
+            "108.56%",
+            "118.00%",
+            "125.08%",
+            "132.16%",
+            "141.60%",
+            "151.04%",
+            "160.48%",
+            "169.92%",
+            "179.36%",
+            "188.80%",
+            "200.60%",
+            "212.40%",
+            "224.20%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 2",
+          "parameters": [
+            "97.60%",
+            "104.92%",
+            "112.24%",
+            "122.00%",
+            "129.32%",
+            "136.64%",
+            "146.40%",
+            "156.16%",
+            "165.92%",
+            "175.68%",
+            "185.44%",
+            "195.20%",
+            "207.40%",
+            "219.60%",
+            "231.80%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 3",
+          "parameters": [
+            "128.80%",
+            "138.46%",
+            "148.12%",
+            "161.00%",
+            "170.66%",
+            "180.32%",
+            "193.20%",
+            "206.08%",
+            "218.96%",
+            "231.84%",
+            "244.72%",
+            "257.60%",
+            "273.70%",
+            "289.80%",
+            "305.90%"
+          ]
+        },
+        {
+          "name": "คูลดาวน์",
+          "parameters": [
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Dawn",
+      "info": "ระเบิดพลังงานไฟอันร้อนแรงออกมา เพื่อโจมตีศัตรูโดยรอบให้ถอยกลับไป เกิดเป็นความเสียหายธาตุไฟ หลังจากนั้นจะรวบรวมไฟไว้บนอาวุธและ ปล่อยวิหคเพลิงออกไปยังข้างหน้า เพื่อสร้างความเสียหายธาตุไฟ ปริมาณมากแก่ศัตรูที่อยู่ในเส้นทาง โดยวิหคเพลิงจะระเบิดที่ปลายทาง และเกิดเป็นความเสียหายไฟวงกว้างอย่างรุนแรง\nเปลวไฟอันร้อนแรงที่ควบแน่นอยู่บนอาวุธ จะมอบพลังแห่งไฟให้แก่ Diluc",
+      "description": "เหตุผลที่เดินในความมืด ก็เพื่อปลดปล่อยแสงสว่าง มองไปยังแสงไฟท่ามกลางความมืดที่อยู่ไกลออกไป นั่นคือสิ่งที่บอกว่ารุ่งสางกำลังจะมาถึง",
+      "attributes": [
+        {
+          "name": "ความเสียหายจากการฟัน",
+          "parameters": [
+            "204.00%",
+            "219.30%",
+            "234.60%",
+            "255.00%",
+            "270.30%",
+            "285.60%",
+            "306.00%",
+            "326.40%",
+            "346.80%",
+            "367.20%",
+            "387.60%",
+            "408.00%",
+            "433.50%",
+            "459.00%",
+            "484.50%"
+          ]
+        },
+        {
+          "name": "ความเสียหายต่อเนื่อง",
+          "parameters": [
+            "60.00%",
+            "64.50%",
+            "69.00%",
+            "75.00%",
+            "79.50%",
+            "84.00%",
+            "90.00%",
+            "96.00%",
+            "102.00%",
+            "108.00%",
+            "114.00%",
+            "120.00%",
+            "127.50%",
+            "135.00%",
+            "142.50%"
+          ]
+        },
+        {
+          "name": "ความเสียหายแรงระเบิด",
+          "parameters": [
+            "204.00%",
+            "219.30%",
+            "234.60%",
+            "255.00%",
+            "270.30%",
+            "285.60%",
+            "306.00%",
+            "326.40%",
+            "346.80%",
+            "367.20%",
+            "387.60%",
+            "408.00%",
+            "433.50%",
+            "459.00%",
+            "484.50%"
+          ]
+        },
+        {
+          "name": "คูลดาวน์",
+          "parameters": [
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ"
+          ]
+        },
+        {
+          "name": "ระยะเวลาที่อาวุธได้รับพลัง",
+          "parameters": [
+            "8 วิ",
+            "8 วิ",
+            "8 วิ",
+            "8 วิ",
+            "8 วิ",
+            "8 วิ",
+            "8 วิ",
+            "8 วิ",
+            "8 วิ",
+            "8 วิ",
+            "8 วิ",
+            "8 วิ",
+            "8 วิ",
+            "8 วิ",
+            "8 วิ"
+          ]
+        },
+        {
+          "name": "พลังงานธาตุ",
+          "parameters": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Relentless",
+      "info": "การชาร์จโจมตีของ Diluc ใช้พลังกายลดลง 50% และเพิ่มระยะเวลาต่อเนื่องขึ้น 3 วินาที"
+    },
+    "passive2": {
+      "name": "Blessing of Phoenix",
+      "info": "ช่วงเวลาคงอยู่ของพลังแห่งไฟที่ได้จาก **Dawn** เพิ่มขึ้น 4 วินาที; นอกจากนี้ระหว่างช่วงเวลาที่เอฟเฟกต์คงอยู่ Diluc จะได้รับโบนัสความเสียหายไฟเพิ่ม 20%"
+    },
+    "passive3": {
+      "name": "Tradition of the Dawn Knight",
+      "info": "เมื่อสร้างอาวุธประเภทดาบใหญ่ จะได้รับแร่ที่ใช้ในการหลอมคืน 15%"
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of Resistance",
+          "count": 3
+        },
+        {
+          "name": "Recruit's Insignia",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to Resistance",
+          "count": 2
+        },
+        {
+          "name": "Sergeant's Insignia",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to Resistance",
+          "count": 4
+        },
+        {
+          "name": "Sergeant's Insignia",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to Resistance",
+          "count": 6
+        },
+        {
+          "name": "Sergeant's Insignia",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to Resistance",
+          "count": 9
+        },
+        {
+          "name": "Sergeant's Insignia",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of Resistance",
+          "count": 4
+        },
+        {
+          "name": "Officer's Insignia",
+          "count": 4
+        },
+        {
+          "name": "Stormterror Tail Feather",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of Resistance",
+          "count": 6
+        },
+        {
+          "name": "Officer's Insignia",
+          "count": 6
+        },
+        {
+          "name": "Stormterror Tail Feather",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of Resistance",
+          "count": 12
+        },
+        {
+          "name": "Officer's Insignia",
+          "count": 9
+        },
+        {
+          "name": "Stormterror Tail Feather",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of Resistance",
+          "count": 16
+        },
+        {
+          "name": "Officer's Insignia",
+          "count": 12
+        },
+        {
+          "name": "Stormterror Tail Feather",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Diluc_01_01",
+      "combat3": "Skill_E_Diluc_01_HD",
+      "passive1": "UI_Talent_S_Diluc_05",
+      "passive2": "UI_Talent_S_Diluc_06",
+      "passive3": "UI_Talent_Forge_Claymore"
+    },
+    "version": "1.0"
+  }
+}

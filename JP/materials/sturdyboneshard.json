@@ -1,0 +1,24 @@
+{
+  "name": "丈夫な骨片",
+  "description": "何らかの理由で、ヴィシャップが大切にしているある生き物の骨片。\n見た感じある程度年月が経っている。たとえ人間の言葉が分からない生き物でも、このような遺骨に特別な憧れを持っているらしい。",
+  "sortorder": 1760,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "キャラクター育成素材",
+  "source": [
+    "合成で獲得",
+    "ベビーヴィシャップ·岩（Lv.40以上）でドロップ",
+    "ヴィシャップ·岩（Lv.40以上）でドロップ",
+    "アビサルヴィシャップ（Lv.40以上）でドロップ",
+    "スターダスト交換"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sturdy_Bone_Shard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Item_Sturdy_Bone_Shard.png",
+    "nameicon": "UI_ItemIcon_112042"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sturdy_Bone_Shard"
+  },
+  "version": ""
+}

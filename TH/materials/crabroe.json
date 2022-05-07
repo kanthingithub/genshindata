@@ -1,0 +1,19 @@
+{
+  "name": "Crab Roe",
+  "description": "ส่วนที่สำคัญอย่างยิ่งของปูตัวเมีย อย่างไข่ปูนี้ เป็นสุดยอดวัตถุดิบอันเป็นดั่งรางวัล มีคนไม่มากนัก ที่จะเคยได้ลิ้มรสของมัน",
+  "sortorder": 1994,
+  "category": "EXCHANGE",
+  "materialtype": "วัตถุดิบประกอบอาหาร",
+  "source": [
+    "ได้จากการทำอาหาร"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crab_Roe.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/25/Item_Crab_Roe.png",
+    "nameicon": "UI_ItemIcon_110007"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Crab_Roe"
+  },
+  "version": ""
+}

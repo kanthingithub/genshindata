@@ -1,0 +1,19 @@
+{
+  "name": "Minze",
+  "description": "Eine Pflanze mit erfrischenden ätherischen Ölen in ihren Blättern. Das kühle Gefühl auf der Zunge lässt einen die Sommerhitze besser ertragen.",
+  "sortorder": 1982,
+  "category": "EXCHANGE",
+  "materialtype": "Zutat",
+  "source": [
+    "In der freien Natur zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mint.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Mint.png",
+    "nameicon": "UI_ItemIcon_100016"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mint"
+  },
+  "version": ""
+}

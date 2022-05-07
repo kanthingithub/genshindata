@@ -1,0 +1,20 @@
+{
+  "name": "流浪者の経験",
+  "description": "キャラクターのLvUP用アイテム、使用すると経験値1000を獲得できる。\n七国以外の地域で生きていくために必要なもの。",
+  "sortorder": 1290,
+  "rarity": "2",
+  "category": "EXP_FRUIT",
+  "materialtype": "キャラクター経験値素材",
+  "source": [
+    "冒険と探索報酬"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_104001",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wanderer's_Advice.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Wanderer%27s_Advice.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Wanderer's_Advice"
+  },
+  "version": ""
+}

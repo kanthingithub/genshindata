@@ -1,0 +1,175 @@
+{
+  "name": "Domain of Forgery: Kota Bayangan Air",
+  "region": "Mondstadt",
+  "domainEntrance": "Cecilia Garden",
+  "domainType": "Material Ascension Senjata",
+  "description": "Kekuatan energi Hydro yang kuat mengalir melalui altar pengorbanan kuno yang lembap ini.\nKelembapan di tempat ini akan meningkatkan durasi Cooldown skill.\nKamu akan berhak mendapatkan item Ascension Senjata, apabila kamu berhasil melewati ujian ini.",
+  "daysOfWeek": [
+    "Senin",
+    "Kamis",
+    "Minggu"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Water"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domain of Forgery: Kota Bayangan Air I",
+      "recommendedLevel": 15,
+      "recommendedElements": [
+        "Cryo",
+        "Pyro",
+        "Electro"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1125
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 10
+        },
+        {
+          "name": "Tile of Decarabian's Tower"
+        }
+      ],
+      "disorder": [
+        "Setiap beberapa saat, karakter yang bertarung akan terkena Slowing Water, yang menyebabkan durasi Cooldown skill karakter meningkat drastis sampai efek elemen Hydro terhilangkan."
+      ],
+      "monsterlist": [
+        "Hydro Slime",
+        "Large Hydro Slime"
+      ]
+    },
+    {
+      "name": "Domain of Forgery: Kota Bayangan Air II",
+      "recommendedLevel": 36,
+      "recommendedElements": [
+        "Cryo",
+        "Pyro",
+        "Electro"
+      ],
+      "unlockRank": 21,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1550
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Tile of Decarabian's Tower"
+        },
+        {
+          "name": "Debris of Decarabian's City"
+        }
+      ],
+      "disorder": [
+        "Setiap beberapa saat, karakter yang bertarung akan terkena Slowing Water, yang menyebabkan durasi Cooldown skill karakter meningkat drastis sampai efek elemen Hydro terhilangkan."
+      ],
+      "monsterlist": [
+        "Hydro Slime",
+        "Large Hydro Slime",
+        "Wooden Shield Hilichurl Guard"
+      ]
+    },
+    {
+      "name": "Domain of Forgery: Kota Bayangan Air III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Cryo",
+        "Pyro",
+        "Electro"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Tile of Decarabian's Tower"
+        },
+        {
+          "name": "Debris of Decarabian's City"
+        },
+        {
+          "name": "Fragment of Decarabian's Epic"
+        }
+      ],
+      "disorder": [
+        "Setiap beberapa saat, karakter yang bertarung akan terkena Slowing Water, yang menyebabkan durasi Cooldown skill karakter meningkat drastis sampai efek elemen Hydro terhilangkan."
+      ],
+      "monsterlist": [
+        "Hydro Slime",
+        "Large Hydro Slime",
+        "Hydro Samachurl",
+        "Hydro Abyss Mage"
+      ]
+    },
+    {
+      "name": "Domain of Forgery: Kota Bayangan Air IV",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Cryo",
+        "Pyro",
+        "Electro"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Tile of Decarabian's Tower"
+        },
+        {
+          "name": "Debris of Decarabian's City"
+        },
+        {
+          "name": "Fragment of Decarabian's Epic"
+        },
+        {
+          "name": "Scattered Piece of Decarabian's Dream"
+        }
+      ],
+      "disorder": [
+        "Setiap beberapa saat, karakter yang bertarung akan terkena Slowing Water, yang menyebabkan durasi Cooldown skill karakter meningkat drastis sampai efek elemen Hydro terhilangkan."
+      ],
+      "monsterlist": [
+        "Large Hydro Slime",
+        "Hydro Abyss Mage"
+      ]
+    }
+  ]
+}

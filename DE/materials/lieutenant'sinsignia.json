@@ -1,0 +1,23 @@
+{
+  "name": "Abzeichen für Offiziere",
+  "description": "Ein Abzeichen, das anzeigt, dass man Offizier ist. Die Fatui kontrollieren eine gewaltige Armee. Man muss also schon etwas Großes geleistet haben, um darin als Offizier dienen zu können.",
+  "sortorder": 1752,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Kann hergestellt werden",
+    "Beute von Fatui-Plänklern ab Stufe 60",
+    "Seltene Beute von Schuldeneintreibern der Fatui ab Stufe 60",
+    "Seltene Beute von Cicin-Zauberinnen der Fatui ab Stufe 60"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lieutenant's_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Item_Lieutenant%27s_Insignia.png",
+    "nameicon": "UI_ItemIcon_112034"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lieutenant's_Insignia"
+  },
+  "version": ""
+}

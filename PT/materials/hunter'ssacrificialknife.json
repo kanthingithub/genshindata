@@ -1,0 +1,21 @@
+{
+  "name": "Faca de Caça",
+  "description": "Algum tipo de equipamento de liga afiada. Mesmo se o dono a perder, ela ainda reflete uma luz fria e perturbadora.",
+  "sortorder": 1747,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Dropado pelos Cobradores de Dívidas Fatui",
+    "Resgate de Poeira Estrelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Hunter's_Sacrificial_Knife.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Item_Hunter%27s_Sacrificial_Knife.png",
+    "nameicon": "UI_ItemIcon_112029"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Hunter's_Sacrificial_Knife"
+  },
+  "version": ""
+}

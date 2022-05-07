@@ -1,0 +1,894 @@
+{
+  "name": "Venti",
+  "fullname": "Venti",
+  "title": "Bardo Itinerante",
+  "description": "Um dos muitos bardos de Mondstadt que vagueia livremente pelas ruas e becos da cidade.",
+  "rarity": "5",
+  "element": "Anemo",
+  "weapontype": "Arco",
+  "substat": "Recarga de Energia",
+  "gender": "Masculino",
+  "body": "BOY",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Mondstadt",
+  "birthdaymmdd": "6/16",
+  "birthday": "16 de junho",
+  "constellation": "Carmen Dei",
+  "cv": {
+    "english": "Erika Harlacher",
+    "chinese": "喵酱",
+    "japanese": "村瀬歩",
+    "korean": "Jung Yoo-jung"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Lasca de Turquesa Vayuda",
+        "count": 1
+      },
+      {
+        "name": "Cecília",
+        "count": 3
+      },
+      {
+        "name": "Condensado de Slime",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de Turquesa Vayuda",
+        "count": 3
+      },
+      {
+        "name": "Semente de Furacão",
+        "count": 2
+      },
+      {
+        "name": "Cecília",
+        "count": 10
+      },
+      {
+        "name": "Condensado de Slime",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de Turquesa Vayuda",
+        "count": 6
+      },
+      {
+        "name": "Semente de Furacão",
+        "count": 4
+      },
+      {
+        "name": "Cecília",
+        "count": 20
+      },
+      {
+        "name": "Secreção de Slime",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Pedaço de Turquesa Vayuda",
+        "count": 3
+      },
+      {
+        "name": "Semente de Furacão",
+        "count": 8
+      },
+      {
+        "name": "Cecília",
+        "count": 30
+      },
+      {
+        "name": "Secreção de Slime",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Pedaço de Turquesa Vayuda",
+        "count": 6
+      },
+      {
+        "name": "Semente de Furacão",
+        "count": 12
+      },
+      {
+        "name": "Cecília",
+        "count": 45
+      },
+      {
+        "name": "Essência de Slime",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Gema de Turquesa Vayuda",
+        "count": 6
+      },
+      {
+        "name": "Semente de Furacão",
+        "count": 20
+      },
+      {
+        "name": "Cecília",
+        "count": 60
+      },
+      {
+        "name": "Essência de Slime",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Character_Venti_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Character_Venti_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Venti.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20191122/2019112210305833310.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20191122/2019112211143037621.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/f42e16fca94650e2e932c093de92ae54.png",
+    "nameicon": "UI_AvatarIcon_Venti",
+    "nameiconcard": "UI_AvatarIcon_Venti_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Venti",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Venti",
+    "namesideicon": "UI_AvatarIcon_Side_Venti"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Venti"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 819.855224609375,
+      "attack": 20.48200035095215,
+      "defense": 52.052101135253906,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2126.704535515455,
+      "attack": 53.13031098088459,
+      "defense": 135.02315560676834,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2829.6562567068613,
+      "attack": 70.69049164494709,
+      "defense": 179.65415612556717,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4234.068304938963,
+      "attack": 105.7761594571839,
+      "defense": 268.81940844798373,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4733.533942145994,
+      "attack": 118.25312822244268,
+      "defense": 300.5309067084818,
+      "specialized": 0.07999999821186066
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5445.9880979290465,
+      "attack": 136.05198566796116,
+      "defense": 345.76418041082434,
+      "specialized": 0.07999999821186066
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6111.942321561859,
+      "attack": 152.68794720055394,
+      "defense": 388.0461780914884,
+      "specialized": 0.1599999964237213
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6831.77503050142,
+      "attack": 170.67113905512997,
+      "defense": 433.7479115701499,
+      "specialized": 0.1599999964237213
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7331.24085081392,
+      "attack": 183.1481097277374,
+      "defense": 465.4594136453452,
+      "specialized": 0.1599999964237213
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 8057.632708045305,
+      "attack": 201.29516524211886,
+      "defense": 511.5775833922635,
+      "specialized": 0.1599999964237213
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8557.09828421718,
+      "attack": 213.77213591472628,
+      "defense": 543.2890854674588,
+      "specialized": 0.23999999463558197
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9291.688490407192,
+      "attack": 232.12400635399626,
+      "defense": 589.9277633191341,
+      "specialized": 0.23999999463558197
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 9791.154310719692,
+      "attack": 244.60097321190642,
+      "defense": 621.6392653943294,
+      "specialized": 0.3199999928474426
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10531.48386939941,
+      "attack": 263.09622679515087,
+      "defense": 668.6423311858234,
+      "specialized": 0.3199999928474426
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Vento Dividido",
+      "effect": "Dispara 2 flechas adicionais por cada **Disparo com Mira**, cada flecha causa 33% do Dano original da flecha."
+    },
+    "c2": {
+      "name": "Brisa da Reminiscência",
+      "effect": "**Sonata Celestial** diminui a RES Anemo e RES Física do inimigo em 12% por 10s.\nOs inimigos lançados pela **Sonata Celestial** sofrem uma penalidade adicional de RES Anemo de 12% e RES física quando estiverem no ar."
+    },
+    "c3": {
+      "name": "Ode aos Ventos Milenares",
+      "effect": "Aumenta o nível do **Grande Ode do Vento** em 3.\nO nível máximo de elevação é 15."
+    },
+    "c4": {
+      "name": "Furacão da Liberdade",
+      "effect": "Quando Venti obtém um Orbe ou uma Partícula Elemental, ele recebe 25% de Dano Anemo Bônus por 10s."
+    },
+    "c5": {
+      "name": "Concerto Celestial",
+      "effect": "Aumenta o nível da **Sonata Celestial** em 3.\nO nível máximo de elevação é 15."
+    },
+    "c6": {
+      "name": "Tempestade do Desafio",
+      "effect": "Alvos que levarem Dano da **Grande Ode do Vento** terão sua RES Anemo reduzida em 20%.\nSe uma Absorção Elemental ocorrer, então sua RES ao Elemento correspondente também é reduzida em 20%."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Venti_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Venti_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Venti_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Venti_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Venti_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Venti_04.png",
+      "constellation": "Eff_UI_Talent_Venti"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Venti",
+    "combat1": {
+      "name": "Ataque Normal: Tiro com Arco Divino",
+      "info": "**Ataque Normal**\nRealiza até 6 tiros consecutivos com o arco.\n\n**Ataque Carregado**\nRealiza um **Tiro com Mira** mais preciso com Dano aumentado.\nEnquanto estiver mirando, ventos favoráveis irão se acumular na ponta da flecha. Uma flecha completamente carregada com o vento irá infligir Dano Anemo.\n\n**Ataque Imersivo**\nDispara uma chuva de flechas em pleno ar antes de atingir o chão, infligindo Dano em uma AdE durante o impacto.",
+      "attributes": [
+        {
+          "name": "Dano do 1° Golpe",
+          "parameters": [
+            "20.38%+20.38%",
+            "22.04%+22.04%",
+            "23.70%+23.70%",
+            "26.07%+26.07%",
+            "27.73%+27.73%",
+            "29.62%+29.62%",
+            "32.23%+32.23%",
+            "34.84%+34.84%",
+            "37.45%+37.45%",
+            "40.29%+40.29%",
+            "43.55%+43.55%",
+            "47.38%+47.38%",
+            "51.21%+51.21%",
+            "55.05%+55.05%",
+            "59.23%+59.23%"
+          ]
+        },
+        {
+          "name": "Dano do 2° Golpe",
+          "parameters": [
+            "44.38%",
+            "47.99%",
+            "51.60%",
+            "56.76%",
+            "60.37%",
+            "64.50%",
+            "70.18%",
+            "75.85%",
+            "81.53%",
+            "87.72%",
+            "94.81%",
+            "103.16%",
+            "111.50%",
+            "119.85%",
+            "128.95%"
+          ]
+        },
+        {
+          "name": "Dano do 3° Golpe",
+          "parameters": [
+            "52.37%",
+            "56.64%",
+            "60.90%",
+            "66.99%",
+            "71.25%",
+            "76.13%",
+            "82.82%",
+            "89.52%",
+            "96.22%",
+            "103.53%",
+            "111.90%",
+            "121.75%",
+            "131.60%",
+            "141.45%",
+            "152.19%"
+          ]
+        },
+        {
+          "name": "Dano do 4° Golpe",
+          "parameters": [
+            "26.06%+26.06%",
+            "28.18%+28.18%",
+            "30.30%+30.30%",
+            "33.33%+33.33%",
+            "35.45%+35.45%",
+            "37.87%+37.87%",
+            "41.21%+41.21%",
+            "44.54%+44.54%",
+            "47.87%+47.87%",
+            "51.51%+51.51%",
+            "55.68%+55.68%",
+            "60.58%+60.58%",
+            "65.48%+65.48%",
+            "70.37%+70.37%",
+            "75.72%+75.72%"
+          ]
+        },
+        {
+          "name": "Dano do 5° Golpe",
+          "parameters": [
+            "50.65%",
+            "54.78%",
+            "58.90%",
+            "64.79%",
+            "68.91%",
+            "73.62%",
+            "80.10%",
+            "86.58%",
+            "93.06%",
+            "100.13%",
+            "108.23%",
+            "117.75%",
+            "127.28%",
+            "136.80%",
+            "147.19%"
+          ]
+        },
+        {
+          "name": "Dano do 6° Golpe",
+          "parameters": [
+            "70.95%",
+            "76.73%",
+            "82.50%",
+            "90.75%",
+            "96.53%",
+            "103.13%",
+            "112.20%",
+            "121.27%",
+            "130.35%",
+            "140.25%",
+            "151.59%",
+            "164.93%",
+            "178.27%",
+            "191.61%",
+            "206.17%"
+          ]
+        },
+        {
+          "name": "Disparo com Mira",
+          "parameters": [
+            "43.86%",
+            "47.43%",
+            "51.00%",
+            "56.10%",
+            "59.67%",
+            "63.75%",
+            "69.36%",
+            "74.97%",
+            "80.58%",
+            "86.70%",
+            "93.71%",
+            "101.96%",
+            "110.21%",
+            "118.45%",
+            "127.45%"
+          ]
+        },
+        {
+          "name": "Disparo com Mira com Energização Completa",
+          "parameters": [
+            "124.00%",
+            "133.30%",
+            "142.60%",
+            "155.00%",
+            "164.30%",
+            "173.60%",
+            "186.00%",
+            "198.40%",
+            "210.80%",
+            "223.20%",
+            "236.10%",
+            "252.96%",
+            "269.82%",
+            "286.69%",
+            "303.55%"
+          ]
+        },
+        {
+          "name": "Dano Durante a Queda",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "Dano de Queda de Baixa/Alta Altitude",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Sonata Celestial",
+      "info": "Ó vento no qual voam todos os hinos e canções pelo ar, leve estes peregrinos terrestres aos céus!\n\n**Pressionar**\nEvoca um Domínio dos Ventos na localização do inimigo, causando Dano Anemo em uma AdE e lançando inimigos pelo ar.\n\n**Manter pressionado**\nEvoca um Domínio dos Ventos ainda maior com um Venti em seu centro, causando Dano Anemo em AdE e lançando inimigos afetados pelo ar.\nApós liberar a versão de Manter Pressionado dessa habilidade, Venti monta o vento pelo ar.\n\nInimigos atingidos pelo Soneto dos Céus cairão lentamente ao chão.",
+      "description": "Nos dias em que deuses e homens andaram na terra juntos, os céus eram cheios de infinitas canções. Essa melodia foi esquecida há muito tempo.",
+      "attributes": [
+        {
+          "name": "Dano de Toque",
+          "parameters": [
+            "276.00%",
+            "296.70%",
+            "317.40%",
+            "345.00%",
+            "365.70%",
+            "386.40%",
+            "414.00%",
+            "441.60%",
+            "469.20%",
+            "496.80%",
+            "524.40%",
+            "552.00%",
+            "586.50%",
+            "621.00%",
+            "655.50%"
+          ]
+        },
+        {
+          "name": "Recarga de Toque",
+          "parameters": [
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s"
+          ]
+        },
+        {
+          "name": "Dano ao Manter Pressionado",
+          "parameters": [
+            "380.00%",
+            "408.50%",
+            "437.00%",
+            "475.00%",
+            "503.50%",
+            "532.00%",
+            "570.00%",
+            "608.00%",
+            "646.00%",
+            "684.00%",
+            "722.00%",
+            "760.00%",
+            "807.50%",
+            "855.00%",
+            "902.50%"
+          ]
+        },
+        {
+          "name": "Recarga ao Manter Pressionado",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Grande Ode do Vento",
+      "info": "Dispara uma flecha energizada com vento, criando um grande Olho da Tempestade que suga inimigos, causando Dano Anemo contínuo.\n\n**Absorção Elemental**\nSe o Olho da Tempestade entrar em contato com os elementos Hydro/Pyro/Cryo/Electro, causará Dano elemental adicional daquele tipo.\nA Absorção Elemental pode ocorrer uma vez a cada uso.",
+      "description": "Muitos hinos escritos para elogiar o Arconte Anemo não existem mais. Essa é a sua compreensão do vento.",
+      "attributes": [
+        {
+          "name": "Dano de Contínuo",
+          "parameters": [
+            "37.60%",
+            "40.42%",
+            "43.24%",
+            "47.00%",
+            "49.82%",
+            "52.64%",
+            "56.40%",
+            "60.16%",
+            "63.92%",
+            "67.68%",
+            "71.44%",
+            "75.20%",
+            "79.90%",
+            "84.60%",
+            "89.30%"
+          ]
+        },
+        {
+          "name": "Adição de Dano Elemental",
+          "parameters": [
+            "18.80%",
+            "20.21%",
+            "21.62%",
+            "23.50%",
+            "24.91%",
+            "26.32%",
+            "28.20%",
+            "30.08%",
+            "31.96%",
+            "33.84%",
+            "35.72%",
+            "37.60%",
+            "39.95%",
+            "42.30%",
+            "44.65%"
+          ]
+        },
+        {
+          "name": "Duração",
+          "parameters": [
+            "8",
+            "8",
+            "8",
+            "8",
+            "8",
+            "8",
+            "8",
+            "8",
+            "8",
+            "8",
+            "8",
+            "8",
+            "8",
+            "8",
+            "8"
+          ]
+        },
+        {
+          "name": "Tempo de Recarga",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "Energia Elemental",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Abrace os Ventos",
+      "info": "Ao manter pressionado a **Sonata Celestial** cria uma corrente de vento que dura por 20s."
+    },
+    "passive2": {
+      "name": "Olho da Tempestade",
+      "info": "Regenera 15 de Energia para Venti após o efeito do **Grande Ode do Vento** terminar.\nSe ocorrer uma Absorção Elemental, também irá restaurar 15 de Energia a todos os personagens da equipe do elemento correspondente."
+    },
+    "passive3": {
+      "name": "Viajante do Vento",
+      "info": "Diminui o consumo de Stamina ao Planar de todos os seus personagens em 20%.\nNão acumulável com Talentos Passivos que concedem exatamente os mesmos efeitos."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Ensinamentos de Poemas",
+          "count": 3
+        },
+        {
+          "name": "Condensado de Slime",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guia de Poemas",
+          "count": 2
+        },
+        {
+          "name": "Secreção de Slime",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guia de Poemas",
+          "count": 4
+        },
+        {
+          "name": "Secreção de Slime",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guia de Poemas",
+          "count": 6
+        },
+        {
+          "name": "Secreção de Slime",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guia de Poemas",
+          "count": 9
+        },
+        {
+          "name": "Secreção de Slime",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofia de Poemas",
+          "count": 4
+        },
+        {
+          "name": "Essência de Slime",
+          "count": 4
+        },
+        {
+          "name": "Cauda do Vento do Norte",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofia de Poemas",
+          "count": 6
+        },
+        {
+          "name": "Essência de Slime",
+          "count": 6
+        },
+        {
+          "name": "Cauda do Vento do Norte",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofia de Poemas",
+          "count": 12
+        },
+        {
+          "name": "Essência de Slime",
+          "count": 9
+        },
+        {
+          "name": "Cauda do Vento do Norte",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofia de Poemas",
+          "count": 16
+        },
+        {
+          "name": "Essência de Slime",
+          "count": 12
+        },
+        {
+          "name": "Cauda do Vento do Norte",
+          "count": 2
+        },
+        {
+          "name": "Coroa da Sabedoria",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_02",
+      "combat2": "Skill_S_Venti_01",
+      "combat3": "Skill_E_Venti_01_HD",
+      "passive1": "UI_Talent_S_Venti_05",
+      "passive2": "UI_Talent_S_Venti_06",
+      "passive3": "UI_Talent_Explosion_Glide"
+    },
+    "version": "1.0"
+  }
+}

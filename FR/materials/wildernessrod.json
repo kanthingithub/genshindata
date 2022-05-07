@@ -1,0 +1,20 @@
+{
+  "name": "Canne sauvage",
+  "description": "Une canne à pêche plutôt ordinaire en apparence. Elle ne présente aucune caractéristique spéciale à part sa solidité, au point de pouvoir servir comme arme d'autodéfense efficace. Selon un ancien proverbe : « La canne à pêche du débutant est la base de leur expérience. » En effet, même le meilleur des pêcheurs commence avec un équipement simple.",
+  "sortorder": 2434,
+  "rarity": "4",
+  "category": "FISH_ROD",
+  "materialtype": "Canne à pêche",
+  "source": [
+    "Quête"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_200900",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wilderness_Rod.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Item_Wilderness_Rod.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Wilderness_Rod"
+  },
+  "version": ""
+}

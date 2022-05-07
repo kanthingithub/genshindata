@@ -1,0 +1,19 @@
+{
+  "name": "Confiture",
+  "description": "Un mélange de purée de fruits et de sucre. Une cuillerée suffit pour réveiller vos papilles.",
+  "sortorder": 1531,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrédient",
+  "source": [
+    "Cuisine (préparation)"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Jam.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Item_Jam.png",
+    "nameicon": "UI_ItemIcon_110008"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Jam"
+  },
+  "version": ""
+}

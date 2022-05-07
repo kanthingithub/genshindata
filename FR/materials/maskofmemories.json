@@ -1,0 +1,18 @@
+{
+  "name": "Masque des souvenirs",
+  "description": "Kazari, la prêtresse du sanctuaire, portait ce masque auparavant. Il est profondément taché.\nLes souvenirs qu'il contient permettent d'apprendre à fabriquer le catalyseur connu sous le nom d'« Anneau des Hakushin ».\nMaintenant que Kazari n'a plus ce masque, Paimon ne pourra plus l'appeler « prêtresse masquée »...",
+  "sortorder": 2608,
+  "rarity": "4",
+  "category": "CONSUME",
+  "materialtype": "Plan de forge",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_100865",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mask_of_Memories.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Mask_of_Memories.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mask_of_Memories"
+  },
+  "version": ""
+}

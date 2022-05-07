@@ -1,0 +1,18 @@
+{
+  "name": "Vento Visível",
+  "description": "Material de refinamento especializado para Ode à Brisa Florescente.\nUm ornamento feito detalhadamente que simboliza moinhos e a Flor do Vento, adornando os membros da Ode à Brisa Florescente. O vento é invisível e intangível, mas os moinhos continuam girando, e as flores voam nos campos de esmeralda são \"o vento visível\" que mostram ao povo que a brisa sempre cuidará de toda a vida em Mondstadt.",
+  "sortorder": 2294,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Refinamento",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_The_Visible_Winds.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Item_The_Visible_Winds.png",
+    "nameicon": "UI_ItemIcon_200104"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/\"The_Visible_Winds\""
+  },
+  "version": ""
+}

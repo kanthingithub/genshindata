@@ -1,0 +1,20 @@
+{
+  "name": "Quả Móc Câu",
+  "description": "Quả mâm xôi có gai móc, có thể móc trên da của sói để di chuyển. Nhìn thấy nó cứ như nghe được tiếng tru thê lương của sói vang vọng giữa rừng sâu...",
+  "sortorder": 2036,
+  "category": "EXCHANGE",
+  "materialtype": "Đặc Sản Khu Vực Mondstadt",
+  "source": [
+    "Thu Thập Bên Ngoài",
+    "Kiến nghị: Thu thập trong Lang Lãnh"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wolfhook.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Item_Wolfhook.png",
+    "nameicon": "UI_ItemIcon_100021"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Wolfhook"
+  },
+  "version": ""
+}

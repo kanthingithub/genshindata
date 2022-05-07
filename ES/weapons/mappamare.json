@@ -1,0 +1,307 @@
+{
+  "name": "Carta Náutica",
+  "description": "Un mapa muy detallado de las aguas alrededor de Teyvat. Este es uno de los maravillosos documentos que llegaron a través de las rutas comerciales de Liyue.",
+  "weapontype": "Catalizador",
+  "rarity": "4",
+  "baseatk": 44,
+  "substat": "Maestría Elemental",
+  "subvalue": "24",
+  "effectname": "Pergamino de infusión",
+  "effect": [
+    "Causar una Reacción Elemental otorga un [8%] de Bono de Daño Elemental durante 10 s. Puede acumularse hasta 2 veces.",
+    "Causar una Reacción Elemental otorga un [10%] de Bono de Daño Elemental durante 10 s. Puede acumularse hasta 2 veces.",
+    "Causar una Reacción Elemental otorga un [12%] de Bono de Daño Elemental durante 10 s. Puede acumularse hasta 2 veces.",
+    "Causar una Reacción Elemental otorga un [14%] de Bono de Daño Elemental durante 10 s. Puede acumularse hasta 2 veces.",
+    "Causar una Reacción Elemental otorga un [16%] de Bono de Daño Elemental durante 10 s. Puede acumularse hasta 2 veces."
+  ],
+  "r1": [
+    "8%"
+  ],
+  "r2": [
+    "10%"
+  ],
+  "r3": [
+    "12%"
+  ],
+  "r4": [
+    "14%"
+  ],
+  "r5": [
+    "16%"
+  ],
+  "weaponmaterialtype": "Aerosiderite",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 5000
+      },
+      {
+        "name": "Grano de siderita oscura",
+        "count": 3
+      },
+      {
+        "name": "Fragmento de hueso frágil",
+        "count": 3
+      },
+      {
+        "name": "Condensado de Slime",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 15000
+      },
+      {
+        "name": "Lámina de siderita oscura",
+        "count": 3
+      },
+      {
+        "name": "Fragmento de hueso frágil",
+        "count": 12
+      },
+      {
+        "name": "Condensado de Slime",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Lámina de siderita oscura",
+        "count": 6
+      },
+      {
+        "name": "Fragmento de hueso sólido",
+        "count": 6
+      },
+      {
+        "name": "Babas de Slime",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Fragmento de siderita oscura",
+        "count": 3
+      },
+      {
+        "name": "Fragmento de hueso sólido",
+        "count": 12
+      },
+      {
+        "name": "Babas de Slime",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 35000
+      },
+      {
+        "name": "Fragmento de siderita oscura",
+        "count": 6
+      },
+      {
+        "name": "Fragmento de hueso fosilizado",
+        "count": 9
+      },
+      {
+        "name": "Esencia de Slime",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Trozo de siderita oscura",
+        "count": 4
+      },
+      {
+        "name": "Fragmento de hueso fosilizado",
+        "count": 18
+      },
+      {
+        "name": "Esencia de Slime",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4d/Weapon_Mappa_Mare.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Exotic.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Exotic_Awaken.png",
+    "nameicon": "UI_EquipIcon_Catalyst_Exotic",
+    "namegacha": "UI_Gacha_EquipIcon_Catalyst_Exotic",
+    "nameawakenicon": "UI_EquipIcon_Catalyst_Exotic_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mappa_Mare"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 43.734901428222656,
+      "specialized": 24
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 59.17332359270131,
+      "specialized": 27.887998580932617
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 78.72282048535817,
+      "specialized": 32.71200084686279
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 98.5347338353804,
+      "specialized": 37.560001373291016
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 118.56531627039294,
+      "specialized": 42.40799903869629
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 144.46531588892321,
+      "specialized": 42.40799903869629
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 164.62710394581518,
+      "specialized": 47.25599956512451
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 184.96383978335507,
+      "specialized": 52.104000091552734
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 205.43177081556132,
+      "specialized": 56.95199775695801
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 225.98716531087848,
+      "specialized": 61.80000114440918
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 251.9871672182271,
+      "specialized": 61.80000114440918
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 272.6300460310813,
+      "specialized": 66.64799880981445
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 293.3603883070464,
+      "specialized": 71.49600219726562
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 319.2603898329253,
+      "specialized": 71.49600219726562
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 340.0344638404458,
+      "specialized": 76.3439998626709
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 360.8960221655034,
+      "specialized": 81.19199752807617
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 386.79601606198776,
+      "specialized": 81.19199752807617
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 407.70130611860077,
+      "specialized": 86.04000091552734
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 428.6940596383247,
+      "specialized": 90.86400032043457
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 454.6940596383247,
+      "specialized": 90.86400032043457
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 475.6867923036225,
+      "specialized": 95.71199798583984
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 496.723298409328,
+      "specialized": 100.56000137329102
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 522.6233075646014,
+      "specialized": 100.56000137329102
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 543.7035036930101,
+      "specialized": 105.40800476074219
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 564.7837415302711,
+      "specialized": 110.25599670410156
+    }
+  },
+  "version": "1.0"
+}

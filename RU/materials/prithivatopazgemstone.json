@@ -1,0 +1,23 @@
+{
+  "name": "Драгоценный топаз Притхива",
+  "description": "Материал возвышения персонажа.\n«Валютой здесь является кровь.\nЯ гарант усердия, мудрости и будущего народа.\nТаково оказанное мной доверие. Предай его, и ты осквернишь мою кровь».",
+  "sortorder": 1849,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Гео гипостазисы Ур. 75+",
+    "Золотой волчий вожак Ур. 75+",
+    "Змеи руин Ур. 75+",
+    "Алхимия"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Prithiva_Topaz_Gemstone.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Item_Prithiva_Topaz_Gemstone.png",
+    "nameicon": "UI_ItemIcon_104174"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Prithiva_Topaz_Gemstone"
+  },
+  "version": ""
+}

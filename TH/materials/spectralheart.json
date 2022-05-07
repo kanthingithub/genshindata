@@ -1,0 +1,22 @@
+{
+  "name": "Spectral Heart",
+  "description": "แกนพลังงานที่ช่วยให้ Specter ลอยได้\nสิ่งมีชีวิตธาตุชนิดนี้ดูเหมือนจะมีนิสัยแปลก ๆ พวกมันจะโผล่มาเป็นกลุ่มใหญ่เป็นระยะ แล้วก็หายไป",
+  "sortorder": 1772,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ได้รับจากการสรรสร้าง",
+    "ดรอปจาก Specter Lv.40 ขึ้นไป",
+    "แลกเปลี่ยนด้วย Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Spectral_Heart.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Item_Spectral_Heart.png",
+    "nameicon": "UI_ItemIcon_112054"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Spectral_Heart"
+  },
+  "version": ""
+}

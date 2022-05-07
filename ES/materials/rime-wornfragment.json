@@ -1,0 +1,18 @@
+{
+  "name": "Fragmento de escarcha",
+  "description": "Un pequeño cristal obtenido en el hábitat de los monstruos en Espinadragón.\nSolo se produce en momentos especiales.",
+  "sortorder": 2291,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "Material de Espinadragón",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_200101",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Rime-Worn_Fragment.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Rime-Worn_Fragment.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Rime-Worn_Fragment"
+  },
+  "version": ""
+}

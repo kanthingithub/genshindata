@@ -1,0 +1,26 @@
+{
+  "name": "Hạt Thiên Thạch Đen",
+  "description": "Nguyên liệu có sức mạnh đột phá vũ khí.\nLà thiên thạch màu đen rơi bên ngoài Vân Lai Hải của Liyue, nghe nói là để hàng yêu phục ma. Nhưng do bị nhiễm máu đen, đặc tính của nguyên liệu này đã không còn là sức mạch thuần khiết của Nham Vương Đế Quân nữa.",
+  "sortorder": 2203,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Đột Phá Vũ Khí",
+  "dropdomain": "Bí Cảnh Luyện Võ: Thử Thách Sấm Sét",
+  "daysofweek": [
+    "Thứ 4",
+    "Thứ 7",
+    "Chủ Nhật"
+  ],
+  "source": [
+    "Đổi trong Cửa Hàng Lưu Niệm Liyue"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Grain_of_Aerosiderite.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Item_Grain_of_Aerosiderite.png",
+    "nameicon": "UI_ItemIcon_114021"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Grain_of_Aerosiderite"
+  },
+  "version": ""
+}

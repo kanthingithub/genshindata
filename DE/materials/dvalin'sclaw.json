@@ -1,0 +1,20 @@
+{
+  "name": "Klaue des Ostwinds",
+  "description": "Eine scharfe Klaue vom Herrscher des Ostwinds von Mondstadt.\nDa sie durch das Fleisch des Drachen Durin schnitt, haftete ein tödliches Gift an ihr. Nach deiner Reinigung und Heilung ist sie nicht länger giftig.",
+  "sortorder": 1786,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Belohnung für die Herausforderung Sturmschreckens ab Stufe 70"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dvalin's_Claw.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Item_Dvalin%27s_Claw.png",
+    "nameicon": "UI_ItemIcon_113004"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dvalin's_Claw"
+  },
+  "version": ""
+}

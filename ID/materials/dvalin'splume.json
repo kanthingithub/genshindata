@@ -1,0 +1,20 @@
+{
+  "name": "Dvalin's Plume",
+  "description": "Sebuah bulu dari ekor Naga Timur.\nSebagai sebuah bulu naga, ia telah merasakan tiupan angin ribuan tahun lamanya. Ambisinya untuk bebas hampir membuat angin sepoi-sepoi untuk memutus belenggunya saat ini, tapi pengakuan pemilik sebelumnya kepadamu telah menahannya di tanganmu.",
+  "sortorder": 1785,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Hadiah tantangan Stormterror Lv. 70+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dvalin's_Plume.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Item_Dvalin%27s_Plume.png",
+    "nameicon": "UI_ItemIcon_113003"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dvalin's_Plume"
+  },
+  "version": ""
+}

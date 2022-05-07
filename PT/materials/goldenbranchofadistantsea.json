@@ -1,0 +1,26 @@
+{
+  "name": "Ramo Dourado de um Mar Distante",
+  "description": "Material de Ascensão de Armas.\nO significado por trás do nome \"Watatsumi\" é que o povo abandonado no mar da escuridão aguardava ansiosamente pelo deus serpente que os liderou.\nE também porque o deus serpente agora tinha pessoas que o veneravam que ficou no mundo que já deveria ter fugido há muito tempo, quebrando os ramos de coral que adornavam seu corpo, pisando numa terra em que não deveria, e lutando contra um inimigo que nunca poderia se igualar. Até que no final, sua forma divina foi dividida entre as montanhas, seu icor transformado em plasma, e sua determinação e poder viraram um veneno que jamais poderia ser extinguido.",
+  "sortorder": 2210,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Ascensão de Armas",
+  "dropdomain": "Domínio da Forja: Grãos das Profundezas",
+  "daysofweek": [
+    "Segunda-feira",
+    "Quinta-feira",
+    "Domingo"
+  ],
+  "source": [
+    "Obtido na síntese"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Golden_Branch_of_a_Distant_Sea.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Item_Golden_Branch_of_a_Distant_Sea.png",
+    "nameicon": "UI_ItemIcon_114028"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Golden_Branch_of_a_Distant_Sea"
+  },
+  "version": ""
+}

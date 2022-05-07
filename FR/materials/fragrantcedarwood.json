@@ -1,0 +1,21 @@
+{
+  "name": "Bois de cèdre parfumé",
+  "description": "Bois obtenu à partir de cèdre. Aussi connu sous le nom de « cèdre parfumé » du fait des huiles aromatiques qu'il contient.\nPeut être utilisé pour fabriquer des décorations.",
+  "sortorder": 1947,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Matériau",
+  "source": [
+    "Dans la nature",
+    "Zone conseillée : Vallée Tombétoile"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragrant_Cedar_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/65/Item_Fragrant_Cedar_Wood.png",
+    "nameicon": "UI_ItemIcon_101307"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fragrant_Cedar_Wood"
+  },
+  "version": ""
+}

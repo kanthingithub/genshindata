@@ -1,0 +1,19 @@
+{
+  "name": "糖",
+  "description": "提煉自甜甜花的調味劑。它的甜味彷彿有著與人共鳴的力量，能夠驅散內心的陰霾。",
+  "sortorder": 1530,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "烹飪加工獲得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sugar.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Item_Sugar.png",
+    "nameicon": "UI_ItemIcon_110006"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sugar"
+  },
+  "version": ""
+}

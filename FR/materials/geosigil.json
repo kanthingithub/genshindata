@@ -1,0 +1,20 @@
+{
+  "name": "Sceau Géo",
+  "description": "Un insigne reconnu par le rocher de Liyue.\nS'échange contre des objets spéciaux dans un lieu spécifique de Liyue.",
+  "sortorder": 506,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "Sceau des sept cités-États",
+  "source": [
+    "Exploration de Liyue"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_307",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Geo_Sigil.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Item_Geo_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Geo_Sigil"
+  },
+  "version": ""
+}

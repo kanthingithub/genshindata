@@ -1,0 +1,26 @@
+{
+  "name": "Philosophies of Transience",
+  "description": "Talent Level-Up material.\nTransience is the dream of the nation of thunder.\nThe fleeting nature of this mortal world is the essence of beauty, for are our lives in this world not akin to the levin flash? Yet the might of the divine comes suddenly, and before the roar of eternity, who can stand?",
+  "sortorder": 1871,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Talent Level-Up Material",
+  "dropdomain": "Domain of Mastery: Reign of Violet",
+  "daysofweek": [
+    "Monday",
+    "Thursday",
+    "Sunday"
+  ],
+  "source": [
+    "Crafted"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Transience.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Item_Philosophies_of_Transience.png",
+    "nameicon": "UI_ItemIcon_104322"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Transience"
+  },
+  "version": ""
+}

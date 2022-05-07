@@ -1,0 +1,20 @@
+{
+  "name": "Abalorio de la tempestad",
+  "description": "Una perla eléctrica dejada por la Manifestación del Trueno.\nCuenta la leyenda que la Manifestación del Trueno solo cae sobre los lugares con mayor concentración de odio. Según los bardos, las insoportables decepciones y el dolor de la vida son lo que conducen a la Manifestación del Trueno a deambular para siempre por la tierra destruida, liberando relámpagos que atraviesan el cielo.",
+  "sortorder": 1811,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Obtenido de Manifestación del Trueno (Niv. 30+)"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Storm_Beads.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Item_Storm_Beads.png",
+    "nameicon": "UI_ItemIcon_113029"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Storm_Beads"
+  },
+  "version": ""
+}

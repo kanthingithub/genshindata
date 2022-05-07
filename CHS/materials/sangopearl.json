@@ -1,0 +1,20 @@
+{
+  "name": "珊瑚真珠",
+  "description": "与海祇的珊瑚相伴而生的宝珠，散发着月光般的丝丝凉意。",
+  "sortorder": 2066,
+  "category": "EXCHANGE",
+  "materialtype": "稻妻区域特产",
+  "source": [
+    "野外采集",
+    "推荐：海祇岛采集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sango_Pearl.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Sango_Pearl.png",
+    "nameicon": "UI_ItemIcon_101207"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sango_Pearl"
+  },
+  "version": ""
+}

@@ -1,0 +1,190 @@
+{
+  "name": "Domain of Blessing: Stone Chamber",
+  "region": "Liyue",
+  "domainEntrance": "Clear Pool and Mountain Cavern",
+  "domainType": "Artifacts",
+  "description": "This ancient blessed altar is filled with monsters that fear the power of Geo.\nYou shall earn priceless Artifacts, if — and only if — you can pass the trial.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_4"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domain of Blessing: Stone Chamber I",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "Geo"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 20
+        },
+        {
+          "name": "Gambler",
+          "rarity": "3"
+        },
+        {
+          "name": "Scholar",
+          "rarity": "3"
+        },
+        {
+          "name": "Bloodstained Chivalry",
+          "rarity": "4"
+        },
+        {
+          "name": "Noblesse Oblige",
+          "rarity": "4"
+        },
+        {
+          "name": "Gambler",
+          "rarity": "4"
+        },
+        {
+          "name": "Scholar",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Geo DMG dealt by all party members increased by 75%."
+      ],
+      "monsterlist": [
+        "Pyro Abyss Mage",
+        "Cryo Abyss Mage"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Stone Chamber II",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Geo"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 20
+        },
+        {
+          "name": "Gambler",
+          "rarity": "3"
+        },
+        {
+          "name": "Scholar",
+          "rarity": "3"
+        },
+        {
+          "name": "Bloodstained Chivalry",
+          "rarity": "4"
+        },
+        {
+          "name": "Noblesse Oblige",
+          "rarity": "4"
+        },
+        {
+          "name": "Gambler",
+          "rarity": "4"
+        },
+        {
+          "name": "Scholar",
+          "rarity": "4"
+        },
+        {
+          "name": "Bloodstained Chivalry",
+          "rarity": "5"
+        },
+        {
+          "name": "Noblesse Oblige",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Geo DMG dealt by all party members increased by 75%."
+      ],
+      "monsterlist": [
+        "Pyro Abyss Mage",
+        "Cryo Abyss Mage"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Stone Chamber III",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "Geo"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 20
+        },
+        {
+          "name": "Gambler",
+          "rarity": "3"
+        },
+        {
+          "name": "Scholar",
+          "rarity": "3"
+        },
+        {
+          "name": "Bloodstained Chivalry",
+          "rarity": "4"
+        },
+        {
+          "name": "Noblesse Oblige",
+          "rarity": "4"
+        },
+        {
+          "name": "Gambler",
+          "rarity": "4"
+        },
+        {
+          "name": "Scholar",
+          "rarity": "4"
+        },
+        {
+          "name": "Bloodstained Chivalry",
+          "rarity": "5"
+        },
+        {
+          "name": "Noblesse Oblige",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Geo DMG dealt by all party members increased by 75%."
+      ],
+      "monsterlist": [
+        "Pyro Abyss Mage",
+        "Cryo Abyss Mage",
+        "Hydro Abyss Mage"
+      ]
+    }
+  ]
+}

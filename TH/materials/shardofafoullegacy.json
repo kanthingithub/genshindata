@@ -1,0 +1,20 @@
+{
+  "name": "Shard of a Foul Legacy",
+  "description": "ชิ้นส่วนอาวุธที่ได้รับหลังจากเอาชนะ Childe ผู้ที่ได้ปลดปล่อยพลังแห่งเนตรมาร\nเพราะการมาถึงของดินแดนแห่งความมืด เขาจึงได้เห็นความมืดมนของประเทศ ด้วยตาของเขาเอง ซึ่งค่อย ๆ แปดเปื้อนไปด้วย สีสันที่ไม่ควรเป็นของโลกใบนี้\nถึงแม้ว่าจะไม่เกี่ยวข้องกับพลังของเนตรมาร แต่อย่างที่เขาพูดกันว่า อาวุธก็เหมือนกับเจ้าของ...",
+  "sortorder": 1796,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "รางวัลการท้าทาย Childe Lv. 70 ขึ้นไป"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shard_of_a_Foul_Legacy.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Item_Shard_of_a_Foul_Legacy.png",
+    "nameicon": "UI_ItemIcon_113014"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shard_of_a_Foul_Legacy"
+  },
+  "version": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Concealed Claw",
+  "description": "Residual body tissue left behind by one of the Riftwolves.\nBy ordinary logic, these objects, so alien to this world, should not have remained behind after these abnormal creatures were excised from the land.",
+  "sortorder": 1774,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Dropped by Riftwolves",
+    "Stardust Exchange"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_112056",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Concealed_Claw.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Concealed_Claw.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Concealed_Claw"
+  },
+  "version": ""
+}

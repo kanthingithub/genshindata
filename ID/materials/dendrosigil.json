@@ -1,0 +1,19 @@
+{
+  "name": "Dendro Sigil",
+  "description": "Sebuah tanda pengakuan dan tanda penghormatan, di area sekitar Mondstadt. Dapat ditukarkan menjadi item langka di beberapa lokasi tertentu.",
+  "sortorder": 502,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "Sigil Elemental",
+  "source": [
+    "Hadiah Eksplorasi"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_303",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dendro_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dendro_Sigil"
+  },
+  "version": ""
+}

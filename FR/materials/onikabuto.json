@@ -1,0 +1,21 @@
+{
+  "name": "Scarabuto",
+  "description": "Un scarabée étrange qui peuple les zones riches en énergie Électro. Son tempérament docile et sédentaire ne pourrait pas contraster plus avec la forme féroce et démoniaque qui orne sa carapace.",
+  "sortorder": 2060,
+  "category": "EXCHANGE",
+  "materialtype": "Produit d'Inazuma",
+  "source": [
+    "Dans la nature",
+    "Zone conseillée : Île de Narukami",
+    "Zone conseillée : Tatarasuna"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Onikabuto.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Onikabuto.png",
+    "nameicon": "UI_ItemIcon_101201"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Onikabuto"
+  },
+  "version": ""
+}

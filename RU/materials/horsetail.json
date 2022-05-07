@@ -1,0 +1,20 @@
+{
+  "name": "Конский хвост",
+  "description": "Растение пурпурного цвета, обычно растущее вместе с тростником, но возвышается среди него. Выглядит прямее и толще, словно аристократ среди нищих.",
+  "sortorder": 1967,
+  "category": "EXCHANGE",
+  "materialtype": "Материал",
+  "source": [
+    "Среди зарослей тростника и во влажных местах",
+    "Тростниковые острова"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Horsetail.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Item_Horsetail.png",
+    "nameicon": "UI_ItemIcon_100032"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Horsetail"
+  },
+  "version": ""
+}

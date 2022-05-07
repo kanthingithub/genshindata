@@ -1,0 +1,21 @@
+{
+  "name": "Zeremonielles Kundschafterlangschwert",
+  "description": "In der Hand ihres ursprünglichen Besitzers hat diese Waffe einst viele Schulden eingetragen. Da niemand Augen im Hinterkopf hat, wurde diese Waffe dazu entworfen, diese Schwäche wettzumachen.",
+  "sortorder": 1749,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Kann hergestellt werden",
+    "Beute von Schuldeneintreibern der Fatui ab Stufe 60"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Inspector's_Sacrificial_Knife.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Item_Inspector%27s_Sacrificial_Knife.png",
+    "nameicon": "UI_ItemIcon_112031"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Inspector's_Sacrificial_Knife"
+  },
+  "version": ""
+}

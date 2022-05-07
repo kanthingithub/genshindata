@@ -1,0 +1,20 @@
+{
+  "name": "Northlander Bow Billet",
+  "description": "Material Crafting Senjata. Dapat digunakan untuk menempa Bow 4★.\nAhli filsafat percaya marmer memiliki potensi untuk diukir menjadi patung yang indah. Begitu juga dengan material senjata ini; ia juga memiliki potensi yang tak terbatas.",
+  "sortorder": 1963,
+  "rarity": "4",
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [
+    "Dijatuhkan oleh Boss"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Northlander_Bow_Billet.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Northlander_Bow_Billet.png",
+    "nameicon": "UI_ItemIcon_101102"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Northlander_Bow_Billet"
+  },
+  "version": ""
+}

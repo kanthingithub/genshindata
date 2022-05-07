@@ -1,0 +1,20 @@
+{
+  "name": "緋櫻毬",
+  "description": "鳴神大社の神櫻から落ちる花びら。稲妻の地の恵みを受けている。",
+  "sortorder": 2061,
+  "category": "EXCHANGE",
+  "materialtype": "稲妻地域の特産",
+  "source": [
+    "野外で採集",
+    "推奨：鳴神島で採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sakura_Bloom.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Sakura_Bloom.png",
+    "nameicon": "UI_ItemIcon_101202"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sakura_Bloom"
+  },
+  "version": ""
+}

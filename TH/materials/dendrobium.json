@@ -1,0 +1,20 @@
+{
+  "name": "Dendrobium",
+  "description": "พืชที่มีสีสันสดใส หรือที่ถูกเรียกอีกชื่อว่า \"Lycoris\" ในบทกวี ครั้งหนึ่งเคยหายไปจากหมู่เกาะ Inazuma แต่ตอนนี้กลับมาปรากฏขึ้นอีกครั้งท่ามกลางสนามรบ ตามตำนานเล่าว่าในสนามรบที่นองเลือดนั้น พวกมันจะเบ่งบานอย่างน่าหลงใหลเป็นพิเศษ",
+  "sortorder": 2063,
+  "category": "EXCHANGE",
+  "materialtype": "ของพิเศษเฉพาะใน Inazuma",
+  "source": [
+    "พบได้ในโลกกว้าง",
+    "คำแนะนำ: หาได้ที่หาด Nazuchi"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dendrobium.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Item_Dendrobium.png",
+    "nameicon": "UI_ItemIcon_101204"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dendrobium"
+  },
+  "version": ""
+}

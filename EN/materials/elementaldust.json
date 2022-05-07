@@ -1,0 +1,16 @@
+{
+  "name": "Elemental Dust",
+  "description": "Shattered fragments of the Oculus Crystal. Shows hidden treasure nearby.",
+  "sortorder": 1580,
+  "category": "CONSUME",
+  "materialtype": "Adventure Item",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_107002",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Elemental_Dust.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Elemental_Dust"
+  },
+  "version": ""
+}

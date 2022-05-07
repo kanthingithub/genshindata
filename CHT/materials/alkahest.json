@@ -1,0 +1,18 @@
+{
+  "name": "「溶媒」",
+  "description": "「辰砂之紡錘」專用的精煉道具。\n隱隱泛著世外之光的白銀液體，對地上之物或許有著蝕骨的猛毒吧。但也具有使物質昇華的力量。",
+  "sortorder": 2298,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "精煉材料",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_200108",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Alkahest.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Alkahest.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Alkahest"
+  },
+  "version": ""
+}

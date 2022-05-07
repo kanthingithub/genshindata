@@ -1,0 +1,26 @@
+{
+  "name": "Leuchtender Sand von Guyun",
+  "description": "Material mit der Kraft, Waffen aufsteigen zu lassen.\nDie Steinsäulen der Guyun-Türme nutzte Morax einst als steinerne Lanzen gegen seine Feinde. Letztendlich verschmolzen die Götter mit den Säulen, wodurch diese große Macht erhielten. Von Zeit zu Zeit splittern einige Teile voller Groll und Unheil von den steinernen Säulen.",
+  "sortorder": 2195,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zum Aufstieg von Waffen",
+  "dropdomain": "Sphäre der Kriegskunst: Altar der Gewitterwolken",
+  "daysofweek": [
+    "Montag",
+    "Donnerstag",
+    "Sonntag"
+  ],
+  "source": [
+    "Beim Andenkenhändler von Liyue zu erhalten"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Luminous_Sands_from_Guyun.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Luminous_Sands_from_Guyun.png",
+    "nameicon": "UI_ItemIcon_114013"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Luminous_Sands_from_Guyun"
+  },
+  "version": ""
+}

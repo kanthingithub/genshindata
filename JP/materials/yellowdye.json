@@ -1,0 +1,17 @@
+{
+  "name": "黄色の染料",
+  "description": "接触したものを黄色に染める染料。調度品を製作する時に使えるかもしれない。",
+  "sortorder": 1939,
+  "category": "EXCHANGE",
+  "materialtype": "素材",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Yellow_Dye.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Item_Yellow_Dye.png",
+    "nameicon": "UI_ItemIcon_101403"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Yellow_Dye"
+  },
+  "version": ""
+}

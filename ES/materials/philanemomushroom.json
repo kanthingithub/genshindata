@@ -1,0 +1,19 @@
+{
+  "name": "Seta filanemo",
+  "description": "Un hongo que crece bajo las cálidas caricias del viento. Es tan eterno y nutritivo para la vida como el viento.",
+  "sortorder": 2040,
+  "category": "EXCHANGE",
+  "materialtype": "Objeto típico de Mondstadt",
+  "source": [
+    "Recolectar en las paredes y tejados de las casas"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philanemo_Mushroom.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Philanemo_Mushroom.png",
+    "nameicon": "UI_ItemIcon_100025"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philanemo_Mushroom"
+  },
+  "version": ""
+}

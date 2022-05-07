@@ -1,0 +1,20 @@
+{
+  "name": "Glasmedaka",
+  "description": "Ein lebhafter, energiegeladener Fisch, der für seine blütenförmige Schwanzflosse berühmt ist.\nDiese Art hat undurchschaubare Verhaltensmuster und man kann sie oft dabei beobachten, wie sie aus heiterem Himmel in Kampfanfälle ausbrechen, als ob sie eine Art unsichtbaren Schmerz ertragen. Dieses Phänomen tritt jedoch überhaupt nicht auf, wenn sie alleine sind. Einige Forscher glauben, dass diese Besonderheit von ihrem natürlichen Drang nach Leistung herrührt.",
+  "sortorder": 2015,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Fisch",
+  "source": [
+    "Beim Angeln zu erhalten"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Glaze_Medaka.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Glaze_Medaka.png",
+    "nameicon": "UI_ItemIcon_131001"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Glaze_Medaka"
+  },
+  "version": ""
+}

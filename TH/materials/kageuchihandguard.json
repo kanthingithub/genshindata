@@ -1,0 +1,22 @@
+{
+  "name": "Kageuchi Handguard",
+  "description": "ส่วนป้องกันที่ติดอยู่บนดาบอันยอดเยี่ยม\nInazuma มีประเพณีการทำดาบที่สืบทอดกันมาช้านาน เวลาที่ช่างตีดาบ ก็มักจะสร้างขึ้นมาหลาย ๆ เล่ม จากนั้นจะเลือกเอาผลงานที่ดีที่สุดให้เป็น \"shinuchi\" ส่วนที่เหลือจะถูกเรียกว่า \"kageuchi\"",
+  "sortorder": 1763,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ได้รับจากการสรรสร้าง",
+    "ดรอปจาก Nobushi Lv.40 ขึ้นไป",
+    "แลกเปลี่ยนด้วย Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Kageuchi_Handguard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Kageuchi_Handguard.png",
+    "nameicon": "UI_ItemIcon_112045"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Kageuchi_Handguard"
+  },
+  "version": ""
+}

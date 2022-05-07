@@ -1,0 +1,169 @@
+{
+  "name": "Manifestación del Trueno",
+  "specialname": "Resentimiento tempestuoso",
+  "enemytype": "BOSS",
+  "category": "Seres elementales",
+  "description": "Un extraño ser Electro. Aunque en apariencia es similar a las Oceánidas, no son ni tan inteligentes ni tienen tan buena memoria como ellas.\nSe mueve gracias a una ira mucho más pura y primitiva.\nCuenta la leyenda que la Manifestación del Trueno solo cae sobre los lugares con mayor concentración de odio, como puede ser la devastada Cumbre Amakumo, oscurecida por las tormentas. Mientras el odio de esa tierra no desaparezca, los truenos no dejarán de caer.",
+  "investigation": {
+    "name": "Manifestación del Trueno",
+    "category": "Jefes",
+    "description": "Una forma de vida Electro bastante inusual que teje el trueno y el relámpago en forma de un cántico que empuja todas sus acciones.\\nPor su forma externa se parece a las Oceánidas, pero carece de la inteligencia de estas.\\nSe dice que el remordimiento es el motor de este monstruo elemental.",
+    "lockdesc": "Un trueno furioso retumba en medio de la tormenta en la Cumbre Amakumo..."
+  },
+  "rewardpreview": [
+    {
+      "name": "EXP de Aventura",
+      "count": 200
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "EXP de Amistad"
+    },
+    {
+      "name": "Pedacito de amatista vajrada"
+    },
+    {
+      "name": "Fragmento de amatista vajrada"
+    },
+    {
+      "name": "Trozo de amatista vajrada"
+    },
+    {
+      "name": "Amatista vajrada"
+    },
+    {
+      "name": "Abalorio de la tempestad",
+      "count": 2.5556
+    },
+    {
+      "name": "Instructor",
+      "rarity": "3"
+    },
+    {
+      "name": "Exiliado",
+      "rarity": "3"
+    },
+    {
+      "name": "Ritual de la Sabiduría",
+      "rarity": "3"
+    },
+    {
+      "name": "Médica Itinerante",
+      "rarity": "3"
+    },
+    {
+      "name": "Final del Gladiador",
+      "rarity": "4"
+    },
+    {
+      "name": "Orquesta del Errante",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "4"
+    },
+    {
+      "name": "Exiliado",
+      "rarity": "4"
+    },
+    {
+      "name": "Ritual de la Sabiduría",
+      "rarity": "4"
+    },
+    {
+      "name": "Final del Gladiador",
+      "rarity": "5"
+    },
+    {
+      "name": "Orquesta del Errante",
+      "rarity": "5"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Raijin"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 1027.8799816888059,
+      "attack": 101.5109267769958,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 4048.366122427513,
+      "attack": 271.2111127290973,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 11915.74950102903,
+      "attack": 668.9998862421999,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 22189.579890560824,
+      "attack": 1092.7064293284639,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 39841.85641662637,
+      "attack": 1633.6555819225032,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 73409.44878950994,
+      "attack": 2519.3090551147907,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 124025.19492398389,
+      "attack": 3547.6976112007105,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 205129.34855976328,
+      "attack": 4897.428879438376,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 330912.6383758038,
+      "attack": 6301.060288636945,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 519404.02494270355,
+      "attack": 7612.5492533508805,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 776440.2537632659,
+      "attack": 9848.835709898849,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 982740.2107875645,
+      "attack": 10044.388875611767,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 1136710.4291835576,
+      "attack": 10241.311191761051,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

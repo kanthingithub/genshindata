@@ -1,0 +1,19 @@
+{
+  "name": "Mảnh Ma Tinh",
+  "description": "Có thể thông qua ủy thác rèn, dùng Nhựa Nguyên Chất luyện thành nguyên liệu EXP Vũ Khí.\nMỏ pha lê bị năng lượng địa mạch ăn mòn, tay nghề bình thường sẽ không thể xử lý.",
+  "sortorder": 1957,
+  "category": "EXCHANGE",
+  "materialtype": "Quặng Đúc",
+  "source": [
+    "Thu Thập Bên Ngoài"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Magical_Crystal_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Item_Magical_Crystal_Chunk.png",
+    "nameicon": "UI_ItemIcon_101004"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Magical_Crystal_Chunk"
+  },
+  "version": ""
+}

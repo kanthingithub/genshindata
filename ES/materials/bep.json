@@ -1,0 +1,17 @@
+{
+  "name": "EXP PB",
+  "description": "Tu diario de viaje contiene todo lo que has experimentado en tu largo viaje. Estas experiencias algún día se convertirán en canciones.",
+  "sortorder": 2256,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "EXP PB",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_116001",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_BEP.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/BEP"
+  },
+  "version": ""
+}

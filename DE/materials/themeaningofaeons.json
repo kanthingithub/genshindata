@@ -1,0 +1,20 @@
+{
+  "name": "Sinn der Äonen",
+  "description": "Ein kleines Stück Kopfbedeckung, das du erhalten hast, als sich der Staub in den utopischen Gefilden gelegt hatte.\nEin einziger Gedanke kann alles Unheil beenden und es wird immer Gedanken geben, die die Zeit überstehen können.\nInmitten all dieser Katastrophen fragt man sich, ob Makotos wahre Absicht erfolgreich herübergebracht wurde oder nicht.",
+  "sortorder": 1816,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Belohnung für die Herausforderung des Ewigen Wächters ab Stufe 70"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_113034",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_The_Meaning_of_Aeons.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Item_The_Meaning_of_Aeons.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/The_Meaning_of_Aeons"
+  },
+  "version": ""
+}

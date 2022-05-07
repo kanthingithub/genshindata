@@ -1,0 +1,19 @@
+{
+  "name": "Cebolla",
+  "description": "Una verdura redonda. Por muy valiente que seas, como venganza por cortarla, te hará llorar.",
+  "sortorder": 1996,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente culinario",
+  "source": [
+    "Comprado en tiendas"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Onion.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Item_Onion.png",
+    "nameicon": "UI_ItemIcon_100076"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Onion"
+  },
+  "version": ""
+}

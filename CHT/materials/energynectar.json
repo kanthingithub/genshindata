@@ -1,0 +1,21 @@
+{
+  "name": "原素花蜜",
+  "description": "飽含能量的黏稠蜜汁。\n騙騙花欺瞞獵物是為了狩獵，而狩獵進食或許是為了進化成某種更強大、更純粹的姿態吧…",
+  "sortorder": 1758,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培養素材",
+  "source": [
+    "合成獲得",
+    "60級以上騙騙花掉落"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Energy_Nectar.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Energy_Nectar.png",
+    "nameicon": "UI_ItemIcon_112040"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Energy_Nectar"
+  },
+  "version": ""
+}

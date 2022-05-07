@@ -1,0 +1,21 @@
+{
+  "name": "Concealed Talon",
+  "description": "กรงเล็บแหลมคมที่ทิ้งไว้โดย Riftwolf\nถือเป็นสิ่งมหัศจรรย์บนโลก แต่เมื่อเทียบกับผลงานสุดล้ำค่าอย่าง \"Cretaceus\" แล้ว มันก็เป็นแค่ของธรรมดาเท่านั้น",
+  "sortorder": 1776,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ได้รับจากการสรรสร้าง",
+    "ดรอปจาก Riftwolf Lv.60 ขึ้นไป"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_112058",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Concealed_Talon.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Item_Concealed_Talon.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Concealed_Talon"
+  },
+  "version": ""
+}

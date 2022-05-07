@@ -1,0 +1,23 @@
+{
+  "name": "堅牢なトパーズ",
+  "description": "キャラクターの突破用アイテム。\n「この大陸の全ての金銭は俺の血肉。」\n「こんな形で俺は、人間の労働、知恵、未来を保証する。」\n「これが俺の人間への信頼。金銭に背くことは、俺の血を汚すと同然だ。」",
+  "sortorder": 1849,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "キャラクター育成素材",
+  "source": [
+    "無相の岩（Lv.75以上）でドロップ",
+    "黄金王獣（Lv.75以上）でドロップ",
+    "遺跡サーペント（Lv.75以上）でドロップ",
+    "合成で獲得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Prithiva_Topaz_Gemstone.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Item_Prithiva_Topaz_Gemstone.png",
+    "nameicon": "UI_ItemIcon_104174"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Prithiva_Topaz_Gemstone"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Fake Fly Bait",
+  "description": "เหยื่อแมลงวันปลอมที่ทำจากวัสดุที่มีสีสันสดใส และไม่มีกลิ่น เป็นเหยื่อที่ใช้สำหรับดึงดูดปลาขนาดใหญ่ที่มีสายตาที่เฉียบคมโดยเฉพาะ เหมาะกับเทคนิคการตกปลาขั้นสูง สมาคมนักตกปลาในภูมิภาคต่าง ๆ ถือว่าการใช้เหยื่อแมลงวันปลอมอย่างมีฝีมือเป็นเกณฑ์อย่างหนึ่งในการเลื่อนขั้นของสมาชิก\n\nเหมาะสำหรับปลาสายพันธุ์: Koi, Pufferfish และ Ray",
+  "sortorder": 1517,
+  "rarity": "2",
+  "category": "FISH_BAIT",
+  "materialtype": "เหยื่อตกปลา",
+  "source": [
+    "ได้รับจากการสรรสร้าง"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_111026",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fake_Fly_Bait.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Item_Fake_Fly_Bait.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fake_Fly_Bait"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "紫チョウチョウウオ",
+  "description": "温厚な性格と優雅な姿を持つチョウチョウウオ。流線形の背びれが美しく、「水中の女王」という名を持つ。体の表面に京紫の模様があり、群れで行動することで、環境と天敵からの危険を防ぐ。しかし、この習性がベテランの漁師に知られた後、これはかえって彼らを捕まえる良いヒントとなった——魚のリーダーを罠に導けば、残りのやつらが自ら罠に入ってくるのを待っているだけでいい。",
+  "sortorder": 2028,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "魚",
+  "source": [
+    "釣りで獲得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Purple_Shirakodai.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Item_Purple_Shirakodai.png",
+    "nameicon": "UI_ItemIcon_131014"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Purple_Shirakodai"
+  },
+  "version": ""
+}

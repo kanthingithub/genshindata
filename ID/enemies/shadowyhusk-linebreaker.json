@@ -1,0 +1,92 @@
+{
+  "name": "Shadowy Husk: Line Breaker",
+  "specialname": "Shadowy Husk: Line Breaker",
+  "enemytype": "ELITE",
+  "category": "Abyss",
+  "description": "Prajurit yang hitam pekat. Pernah menjadi prajurit gagah perkasa yang mengabdi kepada suatu peradaban kuno, kini dirinya sudah tidak punya kecerdasan yang lazim dimiliki kaum manusia.\nNamun kehendaknya untuk terjun ke medan perang demi mengalahkan musuh dan melindungi, telah terpatri ke dalam zirah yang kosong. Meskipun kini sudah tidak ada lagi yang memberi tahu di mana posisi musuh, dan apa yang harus dia lindungi ....",
+  "rewardpreview": [],
+  "images": {
+    "nameicon": "UI_MonsterIcon_ForlornVessel_Strong_Lance_Water"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 440.51999215234537,
+      "attack": 76.13334587723512,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 1735.014052468934,
+      "attack": 203.4083293985932,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 5106.749786155298,
+      "attack": 501.7500097857919,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 9509.819953097496,
+      "attack": 819.530016860881,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 17075.0813214113,
+      "attack": 1225.2416554312222,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 31461.192338361405,
+      "attack": 1723.4216136896866,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 53153.654967421666,
+      "attack": 2301.890485257114,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 87912.57795418426,
+      "attack": 3061.1142325560795,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 141819.70216105878,
+      "attack": 4446.764678959327,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 222601.72497544438,
+      "attack": 5709.411795508931,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 332760.1087556854,
+      "attack": 7386.62659546989,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 421174.37605181336,
+      "attack": 7533.291466042516,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 487161.612507239,
+      "attack": 7680.983199416427,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

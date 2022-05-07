@@ -1,0 +1,19 @@
+{
+  "name": "Poivre",
+  "description": "Cet assaisonnement pique légèrement vos papilles et fait des merveilles sur de la viande.",
+  "sortorder": 1997,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrédient",
+  "source": [
+    "Épiceries"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Pepper.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Item_Pepper.png",
+    "nameicon": "UI_ItemIcon_100077"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Pepper"
+  },
+  "version": ""
+}

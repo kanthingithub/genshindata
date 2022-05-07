@@ -1,0 +1,25 @@
+{
+  "name": "Unheilvolle Maske",
+  "description": "Eine leuchtende Maske aus Knochen mit Ölverzierungen, um Feinde abzuschrecken.\nWarum Hilichurle Masken tragen, ist bis heute nicht klar. Es gibt allerdings das Gerücht, sie täten es, um nicht ihr Spiegelbild sehen zu müssen.",
+  "sortorder": 1728,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Kann hergestellt werden",
+    "Beute von Hilichurlen ab Stufe 60",
+    "Seltene Beute von Hilichurl-Schützen ab Stufe 60",
+    "Seltene Beute von Samachurlen ab Stufe 60",
+    "Seltene Beute von Mitachurlen ab Stufe 60",
+    "Seltene Beute von Hilichurl-Fürsten ab Stufe 60"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ominous_Mask.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Ominous_Mask.png",
+    "nameicon": "UI_ItemIcon_112007"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ominous_Mask"
+  },
+  "version": ""
+}

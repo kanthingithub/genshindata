@@ -1,0 +1,141 @@
+{
+  "name": "Cachorro Acechador Eléctrico",
+  "specialname": "Bestia de la fisura",
+  "enemytype": "COMMON",
+  "category": "Abismo",
+  "description": "Una bestia de sangre demoniaca capaz de corroer las fronteras del mundo. Oro las clasificó como “alfisoles”.\nEn una época antigua, cuando los gigantescos monstruos descendieron a la tierra, una jauría de sabuesos apareció para disolver las fronteras del mundo y abrir caminos.",
+  "investigation": {
+    "name": "Lobos de la fisura",
+    "category": "Élites",
+    "description": "Unos extraños y oscuros monstruos de mal augurio que se mueven en jaurías.\\nSe dice que son capaces de disolver las fronteras del mundo."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Garra oculta",
+      "count": 5.2526
+    },
+    {
+      "name": "Garra afilada oculta",
+      "count": 1.4006
+    },
+    {
+      "name": "Garra fantasmal oculta",
+      "count": 0.3502
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "3"
+    },
+    {
+      "name": "Exiliado",
+      "rarity": "3"
+    },
+    {
+      "name": "Médica Itinerante",
+      "rarity": "3"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "4"
+    },
+    {
+      "name": "Exiliado",
+      "rarity": "4"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Hound_Kanis_Electric"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 176.20800510814297,
+      "attack": 30.453276106180738,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 694.0056534696778,
+      "attack": 81.36332867049941,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 2042.700010068249,
+      "attack": 200.69995317345638,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 3803.928159277304,
+      "attack": 327.81190805638107,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 6830.032848236035,
+      "attack": 490.09664356609574,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 12584.477524345974,
+      "attack": 755.7926687119798,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 21261.462982086,
+      "attack": 1064.3092160165033,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 35165.03282753099,
+      "attack": 1469.228570866704,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 56727.88351950422,
+      "attack": 1890.3179669820238,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 89040.69415762089,
+      "attack": 2283.764631501035,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 133104.04973204993,
+      "attack": 2954.650526015408,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 168469.7583057508,
+      "attack": 3013.316472017221,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 194864.65412330255,
+      "attack": 3072.393163123954,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

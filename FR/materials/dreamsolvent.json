@@ -1,0 +1,20 @@
+{
+  "name": "Solvant de rêve",
+  "description": "Un objet capable de modifier un matériau d'amélioration de personnage obtenu lors de réminiscences ou d'épreuves en ce qui est nécessaire.\nLes gens pensaient autrefois que l'âme et les souvenirs avaient une forme matérielle. Si quelqu'un rêvait de paradis avant de s'éveiller agrippant une fleur, alors cette fleur provenait de cette rêverie. Les solvants de rêve peuvent dissoudre ce qui vient de la mémoire et le transformer en un autre rêve.\nLes souvenirs de lutte contre les forts pavent le chemin vers une plus grande force pour son propre compte.",
+  "sortorder": 1803,
+  "rarity": "4",
+  "category": "CONSUME",
+  "materialtype": "Consommable",
+  "source": [
+    "Récompense de Donjon de la conquête et du Loup du Nord"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_113021",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dream_Solvent.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Dream_Solvent.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dream_Solvent"
+  },
+  "version": ""
+}

@@ -1,0 +1,319 @@
+{
+  "name": "ดันเจี้ยนแห่งพร: การฟื้นตื่นในฤดูใบไม้ผลิ",
+  "region": "Liyue",
+  "domainEntrance": "ดันเจี้ยนแห่ง Guyun",
+  "domainType": "อาร์ติแฟกต์",
+  "description": "ที่แท่นบูชาของเมืองโบราณแห่งนี้เป็นสถานที่ชุมนุมของเหล่ามอนสเตอร์มากมายซึ่งกระหายที่จะครอบครอง Ley Line Monolith\nหากสามารถควบคุมพลังของธาตุไฟฟ้าเพื่อจัดการกับมอนสเตอร์เหล่านั้นและปกป้อง Ley Line Monolith จากการถูกทำลายได้ล่ะก็ บางทีอาจจะได้รับอาร์ติแฟกต์ที่แสนมีค่าก็เป็นได้",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_1"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "ดันเจี้ยนแห่งพร: การฟื้นตื่นในฤดูใบไม้ผลิ I",
+      "recommendedLevel": 34,
+      "recommendedElements": [
+        "ไฟฟ้า"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1525
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Lucky Dog",
+          "rarity": "2"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Lucky Dog",
+          "rarity": "3"
+        }
+      ],
+      "disorder": [
+        "ปฏิกิริยาการชาร์จไฟฟ้าจะสร้างความเสียหายเพิ่มขึ้น 150% และขยายพื้นที่ผลกระทบขึ้น 100%"
+      ],
+      "monsterlist": [
+        "Hydro Slime",
+        "Large Hydro Slime",
+        "Hydro Abyss Mage"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งพร: การฟื้นตื่นในฤดูใบไม้ผลิ II",
+      "recommendedLevel": 47,
+      "recommendedElements": [
+        "ไฟฟ้า"
+      ],
+      "unlockRank": 25,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1700
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Lucky Dog",
+          "rarity": "2"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Lucky Dog",
+          "rarity": "3"
+        }
+      ],
+      "disorder": [
+        "เมื่อเกิดปฏิกิริยาโอเวอร์โหลด จะปล่อยระเบิดพลังงาน สร้างความเสียหายให้แก่ศัตรูโดยรอบ"
+      ],
+      "monsterlist": [
+        "Pyro Slime",
+        "Large Pyro Slime",
+        "Pyro Abyss Mage"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งพร: การฟื้นตื่นในฤดูใบไม้ผลิ III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "ไฟฟ้า"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Lucky Dog",
+          "rarity": "3"
+        },
+        {
+          "name": "Archaic Petra",
+          "rarity": "4"
+        },
+        {
+          "name": "Retracing Bolide",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "เมื่อเกิดปฏิกิริยานำไฟฟ้า จะปล่อยระเบิดพลังงาน สร้างความเสียหายให้แก่ศัตรูโดยรอบ"
+      ],
+      "monsterlist": [
+        "Cryo Slime",
+        "Large Cryo Slime",
+        "Cryo Abyss Mage"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งพร: การฟื้นตื่นในฤดูใบไม้ผลิ IV",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "ไฟฟ้า"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Lucky Dog",
+          "rarity": "3"
+        },
+        {
+          "name": "Archaic Petra",
+          "rarity": "4"
+        },
+        {
+          "name": "Retracing Bolide",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "ปฏิกิริยาการชาร์จไฟฟ้าจะสร้างความเสียหายเพิ่มขึ้น 150% และขยายพื้นที่ผลกระทบขึ้น 100%"
+      ],
+      "monsterlist": [
+        "Hydro Slime",
+        "Large Hydro Slime",
+        "Hilichurl Fighter",
+        "Hydro Samachurl",
+        "Hydro Abyss Mage"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งพร: การฟื้นตื่นในฤดูใบไม้ผลิ V",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "ไฟฟ้า"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Lucky Dog",
+          "rarity": "3"
+        },
+        {
+          "name": "Archaic Petra",
+          "rarity": "4"
+        },
+        {
+          "name": "Retracing Bolide",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        },
+        {
+          "name": "Archaic Petra",
+          "rarity": "5"
+        },
+        {
+          "name": "Retracing Bolide",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "เมื่อเกิดปฏิกิริยาโอเวอร์โหลด จะปล่อยระเบิดพลังงาน สร้างความเสียหายให้แก่ศัตรูโดยรอบ",
+        "เมื่อเกิดปฏิกิริยาละลาย จะได้รับความเสียหายจากการถูกโจมตีด้วยระเบิดแรงสูง",
+        "เมื่อเกิดปฏิกิริยาระเหย จะได้รับความเสียหายจากการถูกโจมตีด้วยระเบิดแรงสูง"
+      ],
+      "monsterlist": [
+        "Pyro Abyss Mage",
+        "Ruin Guard"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งพร: การฟื้นตื่นในฤดูใบไม้ผลิ VI",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "ไฟฟ้า"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Lucky Dog",
+          "rarity": "3"
+        },
+        {
+          "name": "Archaic Petra",
+          "rarity": "4"
+        },
+        {
+          "name": "Retracing Bolide",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        },
+        {
+          "name": "Archaic Petra",
+          "rarity": "5"
+        },
+        {
+          "name": "Retracing Bolide",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "เมื่อเกิดปฏิกิริยานำไฟฟ้า จะปล่อยระเบิดพลังงาน สร้างความเสียหายให้แก่ศัตรูโดยรอบ",
+        "เมื่อเกิดปฏิกิริยาละลาย จะได้รับความเสียหายจากการถูกโจมตีด้วยระเบิดแรงสูง",
+        "เมื่อเกิดปฏิกิริยาระเหย จะได้รับความเสียหายจากการถูกโจมตีด้วยระเบิดแรงสูง"
+      ],
+      "monsterlist": [
+        "Hilichurl Fighter",
+        "Cryo Abyss Mage",
+        "Ruin Hunter"
+      ]
+    }
+  ]
+}

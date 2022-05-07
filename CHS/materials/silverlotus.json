@@ -1,0 +1,18 @@
+{
+  "name": "天原银莲",
+  "description": "珍贵的植物，生长在陡峭崖壁上的傲骨，在暗夜中发出高洁的光。",
+  "sortorder": 1985,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "野外采集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Silver_Lotus.png",
+    "nameicon": "UI_ItemIcon_100019"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Silver_Lotus"
+  },
+  "version": ""
+}

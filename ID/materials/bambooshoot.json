@@ -1,0 +1,20 @@
+{
+  "name": "Bamboo Shoot",
+  "description": "Tunas bambu muda segar, yang berasal langsung dari tanah. Ini adalah bahan masakan lezat dengan aroma yang eksotis, dapat ditemukan secara eksklusif di daerah penanaman bambu.",
+  "sortorder": 2006,
+  "category": "EXCHANGE",
+  "materialtype": "Bahan Masak",
+  "source": [
+    "Ditemukan di alam liar",
+    "Rekomendasi: Ditemukan di hutan bambu Qingce Village"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bamboo_Shoot.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Bamboo_Shoot.png",
+    "nameicon": "UI_ItemIcon_100091"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bamboo_Shoot"
+  },
+  "version": ""
+}

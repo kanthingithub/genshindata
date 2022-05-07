@@ -1,0 +1,21 @@
+{
+  "name": "Hạt Bay Lượn Khô Héo",
+  "description": "Hạt năng lượng có thể giúp Bóng Ma bay lượn, chứa các vi nguyên tố.\nĐa số năng lượng hình như đã bốc hơi mất.",
+  "sortorder": 1771,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Bóng Ma Rơi Ra",
+    "Đổi từ Tinh Trần"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Spectral_Husk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Item_Spectral_Husk.png",
+    "nameicon": "UI_ItemIcon_112053"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Spectral_Husk"
+  },
+  "version": ""
+}

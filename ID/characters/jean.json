@@ -1,0 +1,894 @@
+{
+  "name": "Jean",
+  "fullname": "Jean",
+  "title": "Dandelion Knight",
+  "description": "Dandelion Knight yang menjunjung tinggi keadilan dan kebenaran. Menjabat sebagai Grand Master Knights of Favonius di Mondstadt.",
+  "rarity": "5",
+  "element": "Anemo",
+  "weapontype": "Sword",
+  "substat": "Healing Bonus",
+  "gender": "Perempuan",
+  "body": "LADY",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Knights of Favonius",
+  "birthdaymmdd": "3/14",
+  "birthday": "14 Maret",
+  "constellation": "Leo Minor",
+  "cv": {
+    "english": "Stephanie Southerland",
+    "chinese": "林簌",
+    "japanese": "斎藤千和",
+    "korean": "Ahn Young-mi"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vayuda Turquoise Sliver",
+        "count": 1
+      },
+      {
+        "name": "Dandelion Seed",
+        "count": 3
+      },
+      {
+        "name": "Damaged Mask",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Vayuda Turquoise Fragment",
+        "count": 3
+      },
+      {
+        "name": "Hurricane Seed",
+        "count": 2
+      },
+      {
+        "name": "Dandelion Seed",
+        "count": 10
+      },
+      {
+        "name": "Damaged Mask",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Vayuda Turquoise Fragment",
+        "count": 6
+      },
+      {
+        "name": "Hurricane Seed",
+        "count": 4
+      },
+      {
+        "name": "Dandelion Seed",
+        "count": 20
+      },
+      {
+        "name": "Stained Mask",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Vayuda Turquoise Chunk",
+        "count": 3
+      },
+      {
+        "name": "Hurricane Seed",
+        "count": 8
+      },
+      {
+        "name": "Dandelion Seed",
+        "count": 30
+      },
+      {
+        "name": "Stained Mask",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Vayuda Turquoise Chunk",
+        "count": 6
+      },
+      {
+        "name": "Hurricane Seed",
+        "count": 12
+      },
+      {
+        "name": "Dandelion Seed",
+        "count": 45
+      },
+      {
+        "name": "Ominous Mask",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Vayuda Turquoise Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Hurricane Seed",
+        "count": 20
+      },
+      {
+        "name": "Dandelion Seed",
+        "count": 60
+      },
+      {
+        "name": "Ominous Mask",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Character_Jean_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Character_Jean_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Qin.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200616/2020061611214389168.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200616/2020061611215344626.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/e15d789a558b128c05763495d35d55b9.png",
+    "nameicon": "UI_AvatarIcon_Qin",
+    "nameiconcard": "UI_AvatarIcon_Qin_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Qin",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Qin",
+    "namesideicon": "UI_AvatarIcon_Side_Qin"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Jean"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1143.9840087890625,
+      "attack": 18.6200008392334,
+      "defense": 59.83000183105469,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2967.494634443574,
+      "attack": 48.30028405925759,
+      "defense": 155.19903079793949,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3948.35748844748,
+      "attack": 64.26408448955544,
+      "defense": 206.49903003500003,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5908.002163144411,
+      "attack": 96.16014702812208,
+      "defense": 308.98782670921355,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 6604.931057187379,
+      "attack": 107.5028460790254,
+      "defense": 345.437827472153,
+      "specialized": 0.055399999022483826
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 7599.053112821595,
+      "attack": 123.6836260269929,
+      "defense": 397.43009655277274,
+      "specialized": 0.055399999022483826
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 8528.29163821222,
+      "attack": 138.8072260330964,
+      "defense": 446.03010265628836,
+      "specialized": 0.11079999804496765
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 9532.709349183715,
+      "attack": 155.15558272125236,
+      "defense": 498.56083125465375,
+      "specialized": 0.11079999804496765
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 10229.638060121215,
+      "attack": 166.4982836795043,
+      "defense": 535.0108282028959,
+      "specialized": 0.11079999804496765
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 11243.208070830384,
+      "attack": 182.99560733528142,
+      "defense": 588.0202191827775,
+      "specialized": 0.11079999804496765
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 11940.137025908509,
+      "attack": 194.33830829353337,
+      "defense": 624.4702161310197,
+      "specialized": 0.16619999706745148
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 12965.146593048645,
+      "attack": 211.0218273407745,
+      "defense": 678.0778922940444,
+      "specialized": 0.16619999706745148
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 13662.07554812677,
+      "attack": 222.3645244843292,
+      "defense": 714.5278892422866,
+      "specialized": 0.2214999943971634
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 14695.093513910891,
+      "attack": 239.17839184791592,
+      "defense": 768.55440212143,
+      "specialized": 0.2214999943971634
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Spiraling Tempest",
+      "effect": "Meningkatkan kecepatan menarik **Gale Blade** setelah ditahan lebih dari 1 detik, dan meningkatkan 40% DMG yang diakibatkan."
+    },
+    "c2": {
+      "name": "People's Aegis",
+      "effect": "Meningkatkan 15% Movement SPD dan ATK SPD seluruh anggota party selama 15 detik saat Jean mengambil Elemental Orb atau Particle."
+    },
+    "c3": {
+      "name": "When the West Wind Arises",
+      "effect": "Meningkatkan 3 level **Dandelion Breeze**.\nMaksimum: Lv. 15."
+    },
+    "c4": {
+      "name": "Lands of Dandelion",
+      "effect": "Mengurangi 40% Anemo RES musuh yang berada di dalam lingkup area **Dandelion Breeze**."
+    },
+    "c5": {
+      "name": "Outbursting Gust",
+      "effect": "Meningkatkan 3 level **Gale Blade**.\nMaksimum: Lv. 15."
+    },
+    "c6": {
+      "name": "Lion's Fang, Fair Protector of Mondstadt",
+      "effect": "Mengurangi 35% DMG yang diterima saat berada di dalam **Dandelion Breeze**. Efek ini masih bertahan selama 3 serangan atau 10 detik setelah meninggalkan lingkup area skill."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Qin_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Qin_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Qin_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Qin_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Qin_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Qin_04.png",
+      "constellation": "Eff_UI_Talent_Qin"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Jean",
+    "combat1": {
+      "name": "Favonius Bladework",
+      "info": "**Normal Attack**\nMelancarkan hingga 5 serangan berturut-turut.\n\n**Charged Attack**\nMengonsumsi sejumlah Stamina untuk melancarkan serangan yang menghempas musuh ke udara dengan kekuatan angin.\nMusuh yang terhempas akan terjatuh perlahan untuk sementara waktu.\n\n**Plunging Attack**\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "attributes": [
+        {
+          "name": "DMG Tahap 1",
+          "parameters": [
+            "48.33%",
+            "52.27%",
+            "56.20%",
+            "61.82%",
+            "65.75%",
+            "70.25%",
+            "76.43%",
+            "82.61%",
+            "88.80%",
+            "95.54%",
+            "103.27%",
+            "112.36%",
+            "121.44%",
+            "130.53%",
+            "140.44%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 2",
+          "parameters": [
+            "45.58%",
+            "49.29%",
+            "53.00%",
+            "58.30%",
+            "62.01%",
+            "66.25%",
+            "72.08%",
+            "77.91%",
+            "83.74%",
+            "90.10%",
+            "97.39%",
+            "105.96%",
+            "114.53%",
+            "123.10%",
+            "132.45%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 3",
+          "parameters": [
+            "60.29%",
+            "65.19%",
+            "70.10%",
+            "77.11%",
+            "82.02%",
+            "87.63%",
+            "95.34%",
+            "103.05%",
+            "110.76%",
+            "119.17%",
+            "128.81%",
+            "140.14%",
+            "151.48%",
+            "162.81%",
+            "175.18%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 4",
+          "parameters": [
+            "65.88%",
+            "71.24%",
+            "76.60%",
+            "84.26%",
+            "89.62%",
+            "95.75%",
+            "104.18%",
+            "112.60%",
+            "121.03%",
+            "130.22%",
+            "140.75%",
+            "153.14%",
+            "165.52%",
+            "177.91%",
+            "191.42%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 5",
+          "parameters": [
+            "79.21%",
+            "85.65%",
+            "92.10%",
+            "101.31%",
+            "107.76%",
+            "115.13%",
+            "125.26%",
+            "135.39%",
+            "145.52%",
+            "156.57%",
+            "169.23%",
+            "184.13%",
+            "199.02%",
+            "213.91%",
+            "230.16%"
+          ]
+        },
+        {
+          "name": "DMG Charged Attack",
+          "parameters": [
+            "162.02%",
+            "175.21%",
+            "188.40%",
+            "207.24%",
+            "220.43%",
+            "235.50%",
+            "256.22%",
+            "276.95%",
+            "297.67%",
+            "320.28%",
+            "346.18%",
+            "376.65%",
+            "407.11%",
+            "437.58%",
+            "470.81%"
+          ]
+        },
+        {
+          "name": "Konsumsi Stamina Charged Attack",
+          "parameters": [
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "name": "DMG Selama Plunging",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "DMG Plunging Attack Min./Maks.",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Gale Blade",
+      "info": "Jean mengerahkan badai kecil dengan memusatkan kekuatan angin di bilah pedangnya untuk menghempas musuh ke arah yang dia tunjuk. Mengakibatkan Anemo DMG yang besar.\n\n**Tahan**\nDengan terus mengonsumsi Stamina, Jean dapat mengarahkan badai tersebut, yang menarik musuh dan obyek di sekitar ke depannya.\nArahnya dapat disesuaikan.\nKarakter tidak dapat bergerak selama durasi skill.",
+      "description": "Yang mengikuti Jean, pelindung berhati emas, adalah angin penjaga yang bisa menghalau bahaya dari rekan-rekannya.",
+      "attributes": [
+        {
+          "name": "DMG Skill",
+          "parameters": [
+            "292.00%",
+            "313.90%",
+            "335.80%",
+            "365.00%",
+            "386.90%",
+            "408.80%",
+            "438.00%",
+            "467.20%",
+            "496.40%",
+            "525.60%",
+            "554.80%",
+            "584.00%",
+            "620.50%",
+            "657.00%",
+            "693.50%"
+          ]
+        },
+        {
+          "name": "Konsumsi Stamina",
+          "parameters": [
+            "20/dtk",
+            "20/dtk",
+            "20/dtk",
+            "20/dtk",
+            "20/dtk",
+            "20/dtk",
+            "20/dtk",
+            "20/dtk",
+            "20/dtk",
+            "20/dtk",
+            "20/dtk",
+            "20/dtk",
+            "20/dtk",
+            "20/dtk",
+            "20/dtk"
+          ]
+        },
+        {
+          "name": "Durasi Maksimum",
+          "parameters": [
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik"
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "parameters": [
+            "6 detik",
+            "6 detik",
+            "6 detik",
+            "6 detik",
+            "6 detik",
+            "6 detik",
+            "6 detik",
+            "6 detik",
+            "6 detik",
+            "6 detik",
+            "6 detik",
+            "6 detik",
+            "6 detik",
+            "6 detik",
+            "6 detik"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Dandelion Breeze",
+      "info": "Dengan memanggil perlindungan dari angin, Jean dapat menciptakan Dandelion Field yang menghempas musuh di sekitar dan mengakibatkan Anemo DMG.\nDi saat yang sama, sejumlah besar HP untuk semua anggota party akan pulih secara langsung. Jumlah HP yang dipulihkan bergantung dari ATK Jean.\n\n**Dandelion Field**\n·Memulihkan HP karakter yang berada di dalam lingkup area secara berkelanjutan.\n·Memengaruhi musuh yang berada di dalam lingkup area dengan elemen Anemo secara berkelanjutan.\n·Mengakibatkan Anemo DMG kepada musuh yang memasuki atau keluar dari Dandelion Field.",
+      "description": "Berkat Anemo bagaikan dandelion yang terbang ke seluruh pelosok dunia. Inilah fondasi prinsip dan pendirian Jean.",
+      "attributes": [
+        {
+          "name": "DMG Elemental Burst",
+          "parameters": [
+            "424.80%",
+            "456.66%",
+            "488.52%",
+            "531.00%",
+            "562.86%",
+            "594.72%",
+            "637.20%",
+            "679.68%",
+            "722.16%",
+            "764.64%",
+            "807.12%",
+            "849.60%",
+            "902.70%",
+            "955.80%",
+            "1008.90%"
+          ]
+        },
+        {
+          "name": "DMG Keluar Masuk Field",
+          "parameters": [
+            "78.40%",
+            "84.28%",
+            "90.16%",
+            "98.00%",
+            "103.88%",
+            "109.76%",
+            "117.60%",
+            "125.44%",
+            "133.28%",
+            "141.12%",
+            "148.96%",
+            "156.80%",
+            "166.60%",
+            "176.40%",
+            "186.20%"
+          ]
+        },
+        {
+          "name": "Pemulihan Saat Talenta Dilancarkan",
+          "parameters": [
+            "251.20% ATK + 1540",
+            "270.04% ATK + 1694",
+            "288.88% ATK + 1861",
+            "314.00% ATK + 2041",
+            "332.84% ATK + 2234",
+            "351.68% ATK + 2439",
+            "376.80% ATK + 2657",
+            "401.92% ATK + 2888",
+            "427.04% ATK + 3132",
+            "452.16% ATK + 3389",
+            "477.28% ATK + 3659",
+            "502.40% ATK + 3941",
+            "533.80% ATK + 4236",
+            "565.20% ATK + 4544",
+            "596.60% ATK + 4865"
+          ]
+        },
+        {
+          "name": "Regenerasi HP/dtk",
+          "parameters": [
+            "25.12% ATK + 154",
+            "27.00% ATK + 169",
+            "28.89% ATK + 186",
+            "31.40% ATK + 204",
+            "33.28% ATK + 223",
+            "35.17% ATK + 244",
+            "37.68% ATK + 266",
+            "40.19% ATK + 289",
+            "42.70% ATK + 313",
+            "45.22% ATK + 339",
+            "47.73% ATK + 366",
+            "50.24% ATK + 394",
+            "53.38% ATK + 424",
+            "56.52% ATK + 454",
+            "59.66% ATK + 487"
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "parameters": [
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik"
+          ]
+        },
+        {
+          "name": "Konsumsi Energy",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Wind Companion",
+      "info": "Saat Normal Attack Jean mengenai musuh, memiliki 50% kemungkinan untuk memulihkan HP seluruh anggota party sebesar 15% ATK Jean."
+    },
+    "passive2": {
+      "name": "Let the Wind Lead",
+      "info": "Menggunakan **Dandelion Breeze** akan memulihkan 20% Energy."
+    },
+    "passive3": {
+      "name": "Guiding Breeze",
+      "info": "Saat masakan jenis pemulihan dimasak dengan sempurna, memiliki 12% kemungkinan mendapatkan hasil 2 kali lipat."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of \"Resistance\"",
+          "count": 3
+        },
+        {
+          "name": "Damaged Mask",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to \"Resistance\"",
+          "count": 2
+        },
+        {
+          "name": "Stained Mask",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to \"Resistance\"",
+          "count": 4
+        },
+        {
+          "name": "Stained Mask",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to \"Resistance\"",
+          "count": 6
+        },
+        {
+          "name": "Stained Mask",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to \"Resistance\"",
+          "count": 9
+        },
+        {
+          "name": "Stained Mask",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of \"Resistance\"",
+          "count": 4
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 4
+        },
+        {
+          "name": "Dvalin's Plume",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of \"Resistance\"",
+          "count": 6
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 6
+        },
+        {
+          "name": "Dvalin's Plume",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of \"Resistance\"",
+          "count": 12
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 9
+        },
+        {
+          "name": "Dvalin's Plume",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of \"Resistance\"",
+          "count": 16
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 12
+        },
+        {
+          "name": "Dvalin's Plume",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_01",
+      "combat2": "Skill_S_Qin_02",
+      "combat3": "Skill_E_Qin_01_HD",
+      "passive1": "UI_Talent_S_Qin_05",
+      "passive2": "UI_Talent_S_Qin_06",
+      "passive3": "UI_Talent_Cook_Heal"
+    },
+    "version": "1.0"
+  }
+}

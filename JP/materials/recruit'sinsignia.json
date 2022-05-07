@@ -1,0 +1,23 @@
+{
+  "name": "新兵の記章",
+  "description": "新兵の身分を記した記章。かつてこれをつけた人は、どんな気持ちでファデュイの戦争兵器になったのだろうか。",
+  "sortorder": 1750,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "キャラクター育成素材",
+  "source": [
+    "ファデュイ·先遣隊でドロップ",
+    "ファデュイ·デットエージェントでレアドロップ",
+    "ファデュイ·蛍術師でレアドロップ",
+    "スターダスト交換"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Recruit's_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Item_Recruit%27s_Insignia.png",
+    "nameicon": "UI_ItemIcon_112032"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Recruit's_Insignia"
+  },
+  "version": ""
+}

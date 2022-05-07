@@ -1,0 +1,178 @@
+{
+  "name": "Domain of Forgery: Desiran Pasir",
+  "region": "Inazuma",
+  "domainEntrance": "Court of Flowing Sand",
+  "domainType": "Material Ascension Senjata",
+  "description": "Di balik altar di mana pasir emas terus mengalir tanpa henti, bersembunyilah musuh-musuh yang lemah terhadap serangan Geo.\nKamu akan berhak mendapatkan material Ascension Senjata, apabila kamu berhasil melewati tantangan ini.",
+  "daysOfWeek": [
+    "Senin",
+    "Kamis",
+    "Minggu"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Rock"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domain of Forgery: Desiran Pasir I",
+      "recommendedLevel": 15,
+      "recommendedElements": [
+        "Geo",
+        "Cryo"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1125
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 10
+        },
+        {
+          "name": "Coral Branch of a Distant Sea"
+        }
+      ],
+      "disorder": [
+        "Kekuatan Perisai seluruh anggota party +40%.",
+        "Saat Karakter mengambil Elemental Shard dari Reaksi Elemental Geo, Karakter akan melancarkan serangan gelombang dan mengakibatkan DMG pada musuh di sekitar."
+      ],
+      "monsterlist": [
+        "Hydro Slime",
+        "Large Hydro Slime",
+        "Pyro Slime",
+        "Large Pyro Slime"
+      ]
+    },
+    {
+      "name": "Domain of Forgery: Desiran Pasir II",
+      "recommendedLevel": 36,
+      "recommendedElements": [
+        "Geo",
+        "Cryo"
+      ],
+      "unlockRank": 21,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1550
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Coral Branch of a Distant Sea"
+        },
+        {
+          "name": "Jeweled Branch of a Distant Sea"
+        }
+      ],
+      "disorder": [
+        "Kekuatan Perisai seluruh anggota party +40%.",
+        "Saat Karakter mengambil Elemental Shard dari Reaksi Elemental Geo, Karakter akan melancarkan serangan gelombang dan mengakibatkan DMG pada musuh di sekitar."
+      ],
+      "monsterlist": [
+        "Large Hydro Slime",
+        "Large Pyro Slime"
+      ]
+    },
+    {
+      "name": "Domain of Forgery: Desiran Pasir III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Geo",
+        "Cryo"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Coral Branch of a Distant Sea"
+        },
+        {
+          "name": "Jeweled Branch of a Distant Sea"
+        },
+        {
+          "name": "Jade Branch of a Distant Sea"
+        }
+      ],
+      "disorder": [
+        "Kekuatan Perisai seluruh anggota party +40%.",
+        "Saat Karakter mengambil Elemental Shard dari Reaksi Elemental Geo, Karakter akan melancarkan serangan gelombang dan mengakibatkan DMG pada musuh di sekitar."
+      ],
+      "monsterlist": [
+        "Large Hydro Slime",
+        "Large Pyro Slime",
+        "Hydro Abyss Mage",
+        "Pyro Abyss Mage"
+      ]
+    },
+    {
+      "name": "Domain of Forgery: Desiran Pasir IV",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Geo",
+        "Cryo"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Coral Branch of a Distant Sea"
+        },
+        {
+          "name": "Jeweled Branch of a Distant Sea"
+        },
+        {
+          "name": "Jade Branch of a Distant Sea"
+        },
+        {
+          "name": "Golden Branch of a Distant Sea"
+        }
+      ],
+      "disorder": [
+        "Kekuatan Perisai seluruh anggota party +40%.",
+        "Saat Karakter mengambil Elemental Shard dari Reaksi Elemental Geo, Karakter akan melancarkan serangan gelombang dan mengakibatkan DMG pada musuh di sekitar."
+      ],
+      "monsterlist": [
+        "Electro Hilichurl Grenadier",
+        "Large Electro Slime",
+        "Mutant Electro Slime",
+        "Crackling Axe Mitachurl"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "远海夷地的瑚枝",
+  "description": "赋予武器突破之力的材料。\n稻妻列岛中距离鸣神岛最遥远的「海祇」，在海祇岛的古语中的意思是「统管诸海的大神」。传说大蛇在常夜的渊下国土中初次现身时，身上覆满了四色的珊瑚枝，散发着煌煌的荧光。",
+  "sortorder": 2207,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "武器突破素材",
+  "dropdomain": "炼武秘境：沉沙之渊",
+  "daysofweek": [
+    "周一",
+    "周四",
+    "周日"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Coral_Branch_of_a_Distant_Sea.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Item_Coral_Branch_of_a_Distant_Sea.png",
+    "nameicon": "UI_ItemIcon_114025"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Coral_Branch_of_a_Distant_Sea"
+  },
+  "version": ""
+}

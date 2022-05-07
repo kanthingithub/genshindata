@@ -1,0 +1,19 @@
+{
+  "name": "炎の印",
+  "description": "モンド周辺の特殊な記念貨幣。街のショップでレアアイテムと交換できる",
+  "sortorder": 500,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "七国の印",
+  "source": [
+    "探索報酬"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_301",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Pyro_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Pyro_Sigil"
+  },
+  "version": ""
+}

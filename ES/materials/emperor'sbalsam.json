@@ -1,0 +1,18 @@
+{
+  "name": "Bálsamo regio",
+  "description": "Objeto de refinamiento exclusivo para el arma Rey de los Mares.\nLa intensa fragancia de este ungüento parece encerrar el espíritu de la vida acuática. Aplícalo sobre el Rey de los Mares para templar este mandoble único y hacerlo aún más resistente.",
+  "sortorder": 2296,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de refinamiento",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Emperor's_Balsam.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Item_Emperor%27s_Balsam.png",
+    "nameicon": "UI_ItemIcon_200106"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Emperor's_Balsam"
+  },
+  "version": ""
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Dente Estranho",
+  "description": "Um dente que você pegou na Montanha Nevada. Talvez alguém saiba algo sobre ele...",
+  "sortorder": 418,
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Strange_Tooth.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Item_Strange_Tooth.png",
+    "nameicon": "UI_ItemIcon_100618"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Strange_Tooth"
+  },
+  "version": ""
+}

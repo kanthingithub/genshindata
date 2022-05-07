@@ -1,0 +1,19 @@
+{
+  "name": "Huevo de pájaro",
+  "description": "Este huevo ofrece un sinfín de posibilidades culinarias. Puede aportar la dosis diaria de proteínas para una persona adulta.",
+  "sortorder": 1990,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente culinario",
+  "source": [
+    "Recolectar en la naturaleza"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bird_Egg.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Item_Bird_Egg.png",
+    "nameicon": "UI_ItemIcon_100062"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bird_Egg"
+  },
+  "version": ""
+}

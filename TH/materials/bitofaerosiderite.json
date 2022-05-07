@@ -1,0 +1,26 @@
+{
+  "name": "Bit of Aerosiderite",
+  "description": "วัสดุเลื่อนขั้นอาวุธ\nประเทศชายฝั่งของ Teyvat นั้นอ้างอิงถึงภูมิภาคที่อยู่นอกเหนือการคุ้มครองของเหล่าเทพว่าเป็น \"Dark Sea\" ว่ากันว่าเหล่าเทพที่พ่ายแพ้ในสงครามนั้นไม่ยอมอยู่ใต้อาณัติของเทพทั้งเจ็ด ดังนั้นจึงหลบหนีไปยังเกาะที่แสนไกลและกลายเป็นเทพปีศาจ แต่ว่าพลังของพวกเขาและราชาแห่งหินนั้นมีแหล่งที่มาเดียวกัน ไม่เหมือนกับสิ่งที่ถูกปกคลุมไปด้วยความมืดนี้",
+  "sortorder": 2205,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุเลื่อนขั้นอาวุธ",
+  "dropdomain": "ดันเจี้ยนแห่งการต่อสู้: สนามทดลองไฟฟ้า",
+  "daysofweek": [
+    "วันพุธ",
+    "วันเสาร์",
+    "วันอาทิตย์"
+  ],
+  "source": [
+    "ได้รับจากการสรรสร้าง"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bit_of_Aerosiderite.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Bit_of_Aerosiderite.png",
+    "nameicon": "UI_ItemIcon_114023"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bit_of_Aerosiderite"
+  },
+  "version": ""
+}

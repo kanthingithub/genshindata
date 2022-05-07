@@ -1,0 +1,172 @@
+{
+  "name": "Sphäre der Kriegskunst: Prüfungsplatz des alten Donners",
+  "region": "Liyue",
+  "domainEntrance": "Versteckter Palast von Lianshan",
+  "domainType": "Material zum Aufstieg von Waffen",
+  "description": "In diesem alten Altar, in dem der Donner widerhallt, konzentriert sich enorme Elektro-Kraft.\nDie von Elektrizität durchzogene Luft verringert deine Elementarenergie fortlaufend.\nSolltest du es schaffen, diese Prüfung zu bestehen, wirst du sicher etwas bekommen, womit du deine Waffen verstärken kannst.",
+  "daysOfWeek": [
+    "Mittwoch",
+    "Samstag",
+    "Sonntag"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Thunder"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Sphäre der Kriegskunst: Prüfungsplatz des alten Donners I",
+      "recommendedLevel": 15,
+      "recommendedElements": [
+        "Pyro",
+        "Kryo"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1125
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 10
+        },
+        {
+          "name": "Körnchen pechschwarzer Aerosiderit"
+        }
+      ],
+      "disorder": [
+        "Die Figur erleidet in regelmäßigen Abständen „Hungriger Blitz“: Verleiht der Figur das Elektro-Attribut und lässt sie fortlaufend Elementarenergie verlieren."
+      ],
+      "monsterlist": [
+        "Elektro-Schleim",
+        "Großer Elektro-Schleim",
+        "Mutierter Elektro-Schleim"
+      ]
+    },
+    {
+      "name": "Sphäre der Kriegskunst: Prüfungsplatz des alten Donners II",
+      "recommendedLevel": 36,
+      "recommendedElements": [
+        "Pyro",
+        "Kryo"
+      ],
+      "unlockRank": 21,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1550
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 15
+        },
+        {
+          "name": "Körnchen pechschwarzer Aerosiderit"
+        },
+        {
+          "name": "Stückchen pechschwarzer Aerosiderit"
+        }
+      ],
+      "disorder": [
+        "Die Figur erleidet in regelmäßigen Abständen „Hungriger Blitz“: Verleiht der Figur das Elektro-Attribut und lässt sie fortlaufend Elementarenergie verlieren."
+      ],
+      "monsterlist": [
+        "Elektro-Schleim",
+        "Großer Elektro-Schleim",
+        "Mutierter Elektro-Schleim"
+      ]
+    },
+    {
+      "name": "Sphäre der Kriegskunst: Prüfungsplatz des alten Donners III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Pyro",
+        "Kryo"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 15
+        },
+        {
+          "name": "Körnchen pechschwarzer Aerosiderit"
+        },
+        {
+          "name": "Stückchen pechschwarzer Aerosiderit"
+        },
+        {
+          "name": "Klumpen pechschwarzer Aerosiderit"
+        }
+      ],
+      "disorder": [
+        "Die Figur erleidet in regelmäßigen Abständen „Hungriger Blitz“: Verleiht der Figur das Elektro-Attribut und lässt sie fortlaufend Elementarenergie verlieren. Auf dem Feld schlagen zufällig Blitze ein, die Elektro-Schaden verursachen und die Elementarenergie von Figuren tilgen. Beim Einschlag können Kugelblitze entstehen."
+      ],
+      "monsterlist": [
+        "Großer Elektro-Schleim",
+        "Mutierter Elektro-Schleim",
+        "Fatui – Elektro-Cicin-Zauberin"
+      ]
+    },
+    {
+      "name": "Sphäre der Kriegskunst: Prüfungsplatz des alten Donners IV",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Pyro",
+        "Kryo"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 20
+        },
+        {
+          "name": "Körnchen pechschwarzer Aerosiderit"
+        },
+        {
+          "name": "Stückchen pechschwarzer Aerosiderit"
+        },
+        {
+          "name": "Klumpen pechschwarzer Aerosiderit"
+        },
+        {
+          "name": "Brocken pechschwarzer Aerosiderit"
+        }
+      ],
+      "disorder": [
+        "Die Figur erleidet in regelmäßigen Abständen „Hungriger Blitz“: Verleiht der Figur das Elektro-Attribut und lässt sie fortlaufend Elementarenergie verlieren. Auf dem Feld schlagen zufällig Blitze ein, die Elektro-Schaden verursachen und die Elementarenergie von Figuren tilgen. Beim Einschlag können Kugelblitze entstehen."
+      ],
+      "monsterlist": [
+        "Großer Elektro-Schleim",
+        "Mutierter Elektro-Schleim",
+        "Fatui – Elektro-Cicin-Zauberin"
+      ]
+    }
+  ]
+}

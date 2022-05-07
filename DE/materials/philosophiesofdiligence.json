@@ -1,0 +1,26 @@
+{
+  "name": "Philosophie des „Fleißes“",
+  "description": "Material zum Verbessern von Talenten.\nFleiß ist die Grundlage des Reiches des Gesteins.\nDer Fleiß ist der Glaube an einen selbst. Er ist der Glaube an seinen Schweiß, seine Weisheit und seine Kraft. Jeder hat in der Welt, geschaffen von den Göttern, seinen Platz.",
+  "sortorder": 1865,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Talenten",
+  "dropdomain": "Sphäre des Verständnisses: Grund der Flammen",
+  "daysofweek": [
+    "Dienstag",
+    "Freitag",
+    "Sonntag"
+  ],
+  "source": [
+    "Kann hergestellt werden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Diligence.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Item_Philosophies_of_Diligence.png",
+    "nameicon": "UI_ItemIcon_104315"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Diligence"
+  },
+  "version": ""
+}

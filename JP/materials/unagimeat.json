@@ -1,0 +1,20 @@
+{
+  "name": "ウナギ肉",
+  "description": "陸ウナギの新鮮な肉。適切な調理をすると美味しい料理になる。",
+  "sortorder": 2010,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "野外で採集",
+    "推奨：海祇島で採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Unagi_Meat.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0c/Item_Unagi_Meat.png",
+    "nameicon": "UI_ItemIcon_100095"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Unagi_Meat"
+  },
+  "version": ""
+}

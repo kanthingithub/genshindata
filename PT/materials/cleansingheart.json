@@ -1,0 +1,20 @@
+{
+  "name": "Coração Purificador",
+  "description": "Uma concha de água eterna deixada por um Oceanid.\nApesar de já ter se espalhado pelas profundezas do lago, sua pureza permanece a mesma. Mas por que uma criatura tão pura e limpa como um Oceanid deseja a aparência de plantas nascidas no solo e assume essa forma com água pura? Eles não precisam respirar nem precisam de sustento...",
+  "sortorder": 1794,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Dropado pelos Oceanids de Nível 30+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cleansing_Heart.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Item_Cleansing_Heart.png",
+    "nameicon": "UI_ItemIcon_113012"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cleansing_Heart"
+  },
+  "version": ""
+}

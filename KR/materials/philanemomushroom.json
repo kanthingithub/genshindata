@@ -1,0 +1,19 @@
+{
+  "name": "바람버섯",
+  "description": "따사로운 바람을 쐬며 자라는 버섯. 바람처럼 쉬지 않고 끊임없이 자란다",
+  "sortorder": 2040,
+  "category": "EXCHANGE",
+  "materialtype": "몬드 지역 특산물",
+  "source": [
+    "지붕 밑 채집"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philanemo_Mushroom.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Philanemo_Mushroom.png",
+    "nameicon": "UI_ItemIcon_100025"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philanemo_Mushroom"
+  },
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Seagrass",
+  "description": "Tumbuhan yang tumbuh di laut dangkal. Tumbuhan ini menambahkan rasa unik pada hidangan.",
+  "sortorder": 2012,
+  "category": "EXCHANGE",
+  "materialtype": "Bahan Masak",
+  "source": [
+    "Ditemukan di perairan Inazuma"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Seagrass.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Item_Seagrass.png",
+    "nameicon": "UI_ItemIcon_101210"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Seagrass"
+  },
+  "version": ""
+}

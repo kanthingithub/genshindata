@@ -1,0 +1,24 @@
+{
+  "name": "Teachings of \"Resistance\"",
+  "description": "Material Penguatan Talenta.\nPerlawanan adalah tulang punggung Kerajaan Angin.\nSejarah Mondstadt adalah sejarah perlawanan. Rakyat bangkit untuk mencegah konflik masa lalu agar tidak dilupakan, seperti kecambah yang menembus tanah, seperti angin abadi yang bertiup dari celah dinding-dinding batu.",
+  "sortorder": 1854,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Talenta",
+  "dropdomain": "Domain of Mastery: Belenggu Jurang Es",
+  "daysofweek": [
+    "Selasa",
+    "Jumat",
+    "Minggu"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Resistance.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Teachings_of_Resistance.png",
+    "nameicon": "UI_ItemIcon_104304"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Resistance"
+  },
+  "version": ""
+}

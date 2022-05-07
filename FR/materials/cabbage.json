@@ -1,0 +1,20 @@
+{
+  "name": "Chou",
+  "description": "Un légume à feuilles. D'après certains, il s'agissait d'une plante décorative autrefois. En tout cas, sa meilleure place est dans la casserole.",
+  "sortorder": 1984,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrédient",
+  "source": [
+    "Dans la nature",
+    "Épiceries"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cabbage.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Item_Cabbage.png",
+    "nameicon": "UI_ItemIcon_100018"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cabbage"
+  },
+  "version": ""
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Fragmento de osso fossilizado",
+  "description": "Um fragmento de osso fossilizado encontrado após derrotar Dragartos.\nTodos os Dragartos sonham em se tornar um formidável dragão algum dia. Eles veem esses fósseis como ossos de dragões e os valorizam muito, talvez porque eles esperam receber a longevidade e poder de um dragão.",
+  "sortorder": 1761,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Obtido na síntese",
+    "Dropado pelas Crias de Dragartos Geo de Nível 60+",
+    "Dropado pelos Dragartos Geo de Nível 60+",
+    "Dropado pelos Dragartos das Profundezas de Nv. 60+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fossilized_Bone_Shard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Fossilized_Bone_Shard.png",
+    "nameicon": "UI_ItemIcon_112043"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fossilized_Bone_Shard"
+  },
+  "version": ""
+}

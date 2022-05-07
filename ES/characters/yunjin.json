@@ -1,0 +1,911 @@
+{
+  "name": "Yun Jin",
+  "fullname": "Yun Jin",
+  "title": "La Prima Donna del Escenario",
+  "description": "Una renombrada cantante de ópera de Liyue que es experta tanto en la composición de obras como en el canto. Su estilo es único, exquisito y delicado, como su propia persona.",
+  "rarity": "4",
+  "element": "Geo",
+  "weapontype": "Lanza",
+  "substat": "Recarga de Energía",
+  "gender": "Femenino",
+  "body": "GIRL",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Compañía de Ópera Yun-Han",
+  "birthdaymmdd": "5/21",
+  "birthday": "21 de mayo",
+  "constellation": "Opera Grandis",
+  "cv": {
+    "english": "Judy Alice Lee & Yang Yang",
+    "chinese": "贺文潇&杨扬",
+    "japanese": "小岩井ことり & Yang Yang",
+    "korean": "Sah Moon-young & Yang Yang"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Pedacito de topacio prithiva",
+        "count": 1
+      },
+      {
+        "name": "Lirio de cristal",
+        "count": 3
+      },
+      {
+        "name": "Máscara dañada",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de topacio prithiva",
+        "count": 3
+      },
+      {
+        "name": "Cuerno del Rey Acechador",
+        "count": 2
+      },
+      {
+        "name": "Lirio de cristal",
+        "count": 10
+      },
+      {
+        "name": "Máscara dañada",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de topacio prithiva",
+        "count": 6
+      },
+      {
+        "name": "Cuerno del Rey Acechador",
+        "count": 4
+      },
+      {
+        "name": "Lirio de cristal",
+        "count": 20
+      },
+      {
+        "name": "Máscara sucia",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Trozo de topacio prithiva",
+        "count": 3
+      },
+      {
+        "name": "Cuerno del Rey Acechador",
+        "count": 8
+      },
+      {
+        "name": "Lirio de cristal",
+        "count": 30
+      },
+      {
+        "name": "Máscara sucia",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Trozo de topacio prithiva",
+        "count": 6
+      },
+      {
+        "name": "Cuerno del Rey Acechador",
+        "count": 12
+      },
+      {
+        "name": "Lirio de cristal",
+        "count": 45
+      },
+      {
+        "name": "Máscara amenazante",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Topacio prithiva",
+        "count": 6
+      },
+      {
+        "name": "Cuerno del Rey Acechador",
+        "count": 20
+      },
+      {
+        "name": "Lirio de cristal",
+        "count": 60
+      },
+      {
+        "name": "Máscara amenazante",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_AvatarIcon_Yunjin",
+    "nameiconcard": "UI_AvatarIcon_Yunjin_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Yunjin",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Yunjin",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yunjin.png",
+    "namesideicon": "UI_AvatarIcon_Side_Yunjin",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Yunjin.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211226/2021122614194093504.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211226/2021122614194555292.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Yun_Jin"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 893.55517578125,
+      "attack": 16.02720069885254,
+      "defense": 61.574100494384766,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2295.543251694995,
+      "attack": 41.17387868706055,
+      "defense": 158.1838645224043,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2963.07474583562,
+      "attack": 53.14729883018799,
+      "defense": 204.1828650717207,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4438.334148462163,
+      "attack": 79.60820372964463,
+      "defense": 305.8416917168597,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4912.632854516851,
+      "attack": 88.11563380624375,
+      "defense": 338.52519391412534,
+      "specialized": 0.06669999659061432
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5650.7096205961425,
+      "attack": 101.3541050072754,
+      "defense": 389.3854140761341,
+      "specialized": 0.06669999659061432
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6283.1078139555175,
+      "attack": 112.6973438378418,
+      "defense": 432.9634093764271,
+      "specialized": 0.13330000638961792
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7021.184580034809,
+      "attack": 125.93581503887344,
+      "defense": 483.82362953843585,
+      "specialized": 0.13330000638961792
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7495.483286089497,
+      "attack": 134.44324606914688,
+      "defense": 516.5071317357015,
+      "specialized": 0.13330000638961792
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 8232.666135676904,
+      "attack": 147.6656835887543,
+      "defense": 567.3057528992413,
+      "specialized": 0.13330000638961792
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8706.964719661279,
+      "attack": 156.17311461902773,
+      "defense": 599.9892550965069,
+      "specialized": 0.20000000298023224
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9445.04105966026,
+      "attack": 169.41157817769454,
+      "defense": 650.8494458976966,
+      "specialized": 0.20000000298023224
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 9919.33988778526,
+      "attack": 177.9190053932707,
+      "defense": 683.5329480949622,
+      "specialized": 0.26669999957084656
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10657.416653864551,
+      "attack": 191.15747659430235,
+      "defense": 734.393168256971,
+      "specialized": 0.26669999957084656
+    }
+  },
+  "version": "2.4",
+  "constellations": {
+    "c1": {
+      "name": "Galope dramático",
+      "effect": "El TdE de **Disipadora de nimbos** se reduce en un 18%."
+    },
+    "c2": {
+      "name": "Atrezo",
+      "effect": "Después de usar **Estandarte romperrocas**, el daño de los Ataques Normales de todos los miembros del equipo cercanos aumenta en un 15% durante 12 s."
+    },
+    "c3": {
+      "name": "Bandera marítima",
+      "effect": "Aumenta el nivel de habilidad de **Estandarte romperrocas** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c4": {
+      "name": "Pose bélica",
+      "effect": "Cuando Yun Jin causa una reacción de Cristalización, su DEF aumenta en un 20% durante 12 s."
+    },
+    "c5": {
+      "name": "Fama internacional",
+      "effect": "Aumenta el nivel de habilidad de **Disipadora de nimbos** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c6": {
+      "name": "Armonía y decoro",
+      "effect": "Aumenta en un 12% la Vel. de Ataque Normal de los personajes bajo los efectos de los **banderines de las nubes**."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yunjin_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yunjin_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Yunjin_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yunjin_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Yunjin_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yunjin_04.png",
+      "constellation": "Eff_UI_Talent_Yunjin"
+    },
+    "version": "2.4"
+  },
+  "talent": {
+    "name": "Yun Jin",
+    "combat1": {
+      "name": "Ataque Normal: Caricia de las nubes",
+      "info": "**Ataque Normal**\nRealiza hasta 5 ataques rápidos con lanza.\n\n**Ataque Cargado**\nConsume una cierta cantidad de Aguante para lanzarse al frente, infligiendo daño a los enemigos en el camino.\n\n**Ataque Descendente**\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "attributes": [
+        {
+          "name": "Daño de 1er golpe",
+          "parameters": [
+            "40.51%",
+            "43.80%",
+            "47.10%",
+            "51.81%",
+            "55.11%",
+            "58.88%",
+            "64.06%",
+            "69.24%",
+            "74.42%",
+            "80.07%",
+            "85.72%",
+            "91.37%",
+            "97.03%",
+            "102.68%",
+            "108.33%"
+          ]
+        },
+        {
+          "name": "Daño de 2.º golpe",
+          "parameters": [
+            "40.25%",
+            "43.52%",
+            "46.80%",
+            "51.48%",
+            "54.76%",
+            "58.50%",
+            "63.65%",
+            "68.80%",
+            "73.94%",
+            "79.56%",
+            "85.18%",
+            "90.79%",
+            "96.41%",
+            "102.02%",
+            "107.64%"
+          ]
+        },
+        {
+          "name": "Daño de 3er golpe",
+          "parameters": [
+            "22.96%+27.52%",
+            "24.83%+29.76%",
+            "26.70%+32.00%",
+            "29.37%+35.20%",
+            "31.24%+37.44%",
+            "33.38%+40.00%",
+            "36.31%+43.52%",
+            "39.25%+47.04%",
+            "42.19%+50.56%",
+            "45.39%+54.40%",
+            "48.59%+58.24%",
+            "51.80%+62.08%",
+            "55.00%+65.92%",
+            "58.21%+69.76%",
+            "61.41%+73.60%"
+          ]
+        },
+        {
+          "name": "Daño de 4.º golpe",
+          "parameters": [
+            "23.99%+28.81%",
+            "25.95%+31.15%",
+            "27.90%+33.50%",
+            "30.69%+36.85%",
+            "32.64%+39.20%",
+            "34.87%+41.87%",
+            "37.94%+45.56%",
+            "41.01%+49.24%",
+            "44.08%+52.93%",
+            "47.43%+56.95%",
+            "50.78%+60.97%",
+            "54.13%+64.99%",
+            "57.47%+69.01%",
+            "60.82%+73.03%",
+            "64.17%+77.05%"
+          ]
+        },
+        {
+          "name": "Daño de 5.º golpe",
+          "parameters": [
+            "67.34%",
+            "72.82%",
+            "78.30%",
+            "86.13%",
+            "91.61%",
+            "97.87%",
+            "106.49%",
+            "115.10%",
+            "123.71%",
+            "133.11%",
+            "142.51%",
+            "151.90%",
+            "161.30%",
+            "170.69%",
+            "180.09%"
+          ]
+        },
+        {
+          "name": "Daño de ATQ Cargado",
+          "parameters": [
+            "121.69%",
+            "131.60%",
+            "141.50%",
+            "155.65%",
+            "165.56%",
+            "176.87%",
+            "192.44%",
+            "208.00%",
+            "223.57%",
+            "240.55%",
+            "260.01%",
+            "282.89%",
+            "305.77%",
+            "328.65%",
+            "353.61%"
+          ]
+        },
+        {
+          "name": "Coste de Aguante de ATQ Cargado",
+          "parameters": [
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts."
+          ]
+        },
+        {
+          "name": "Daño de Caída",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "Daño de impacto de caída baja/alta",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Disipadora de nimbos",
+      "info": "A pesar de que la maestra Yun maneja la lanza para coreografías en escena, sus habilidades de combate son muy reales.\n\n**Pulsar una vez**\nEmpuña su lanza para disipar las nubes e infligir Daño Geo.\n\n**Mantener pulsado**\nEntra en su posición de disipadora de nimbos para acumular fuerza y crear un escudo que absorbe daño en proporción a la Vida Máx. de Yun Jin. El escudo tiene un 150% de efectividad de absorción de Daño Elemental y Físico, y dura hasta que Yun Jin termine de lanzar la Habilidad Elemental.\nAl dejar de pulsar la habilidad, cuando termine su duración o cuando el escudo se rompa, libera un ataque con todo el poder acumulado que inflige Daño Geo.\nSegún el tiempo de carga, el poder acumulado podrá ser de una o dos cargas.",
+      "description": "Un momento brillante en el escenario equivale a diez años de duro trabajo.",
+      "attributes": [
+        {
+          "name": "Daño al pulsar una vez",
+          "parameters": [
+            "149.12% de DEF",
+            "160.30% de DEF",
+            "171.49% de DEF",
+            "186.40% de DEF",
+            "197.58% de DEF",
+            "208.77% de DEF",
+            "223.68% de DEF",
+            "238.59% de DEF",
+            "253.50% de DEF",
+            "268.42% de DEF",
+            "283.33% de DEF",
+            "298.24% de DEF",
+            "316.88% de DEF",
+            "335.52% de DEF",
+            "354.16% de DEF"
+          ]
+        },
+        {
+          "name": "Daño de 1 carga",
+          "parameters": [
+            "260.96% de DEF",
+            "280.53% de DEF",
+            "300.10% de DEF",
+            "326.20% de DEF",
+            "345.77% de DEF",
+            "365.34% de DEF",
+            "391.44% de DEF",
+            "417.54% de DEF",
+            "443.63% de DEF",
+            "469.73% de DEF",
+            "495.82% de DEF",
+            "521.92% de DEF",
+            "554.54% de DEF",
+            "587.16% de DEF",
+            "619.78% de DEF"
+          ]
+        },
+        {
+          "name": "Daño de 2 cargas",
+          "parameters": [
+            "372.80% de DEF",
+            "400.76% de DEF",
+            "428.72% de DEF",
+            "466.00% de DEF",
+            "493.96% de DEF",
+            "521.92% de DEF",
+            "559.20% de DEF",
+            "596.48% de DEF",
+            "633.76% de DEF",
+            "671.04% de DEF",
+            "708.32% de DEF",
+            "745.60% de DEF",
+            "792.20% de DEF",
+            "838.80% de DEF",
+            "885.40% de DEF"
+          ]
+        },
+        {
+          "name": "Absorción de daño del escudo",
+          "parameters": [
+            "12.00% de Vida Máx. + 1155",
+            "12.90% de Vida Máx. + 1271",
+            "13.80% de Vida Máx. + 1396",
+            "15.00% de Vida Máx. + 1531",
+            "15.90% de Vida Máx. + 1675",
+            "16.80% de Vida Máx. + 1830",
+            "18.00% de Vida Máx. + 1993",
+            "19.20% de Vida Máx. + 2167",
+            "20.40% de Vida Máx. + 2350",
+            "21.60% de Vida Máx. + 2542",
+            "22.80% de Vida Máx. + 2744",
+            "24.00% de Vida Máx. + 2956",
+            "25.50% de Vida Máx. + 3178",
+            "27.00% de Vida Máx. + 3409",
+            "28.50% de Vida Máx. + 3650"
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Estandarte romperrocas",
+      "info": "Inflige Daño Geo en el AdE y otorga a todos los miembros del equipo cercanos los banderines de las nubes.\n\n**Banderines de las nubes**\nEl daño que infligen los miembros del equipo con sus Ataques Normales aumenta en proporción a la DEF actual de Yun Jin.\n\nLos efectos de los banderines desaparecerán cuando termine su duración o tras activar un número determinado de cargas.\nAl golpear a varios enemigos a la vez con un Ataque Normal, se consumirán cargas en función del número de enemigos golpeados. Los efectos y las cargas de los banderines de las nubes se calculan de manera independiente para cada personaje.",
+      "description": "Entre el golpeteo de los tambores y el repiqueteo de las lanzas, una bella mujer general porta un estandarte.\nLa música converge en el escenario, donde la general purga el mal con suma serenidad.",
+      "attributes": [
+        {
+          "name": "Daño de habilidad",
+          "parameters": [
+            "244.00%",
+            "262.30%",
+            "280.60%",
+            "305.00%",
+            "323.30%",
+            "341.60%",
+            "366.00%",
+            "390.40%",
+            "414.80%",
+            "439.20%",
+            "463.60%",
+            "488.00%",
+            "518.50%",
+            "549.00%",
+            "579.50%"
+          ]
+        },
+        {
+          "name": "Aumento de daño",
+          "parameters": [
+            "32.16% de DEF",
+            "34.57% de DEF",
+            "36.98% de DEF",
+            "40.20% de DEF",
+            "42.61% de DEF",
+            "45.02% de DEF",
+            "48.24% de DEF",
+            "51.46% de DEF",
+            "54.67% de DEF",
+            "57.89% de DEF",
+            "61.10% de DEF",
+            "64.32% de DEF",
+            "68.34% de DEF",
+            "72.36% de DEF",
+            "76.38% de DEF"
+          ]
+        },
+        {
+          "name": "Duración",
+          "parameters": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        },
+        {
+          "name": "Cargas",
+          "parameters": [
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30"
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "Energía Elemental",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Fiel a sí misma",
+      "info": "Si Yun Jin usa **Disipadora de nimbos** en el momento justo en el que recibe un ataque, la habilidad se liberará con la fuerza de dos cargas."
+    },
+    "passive2": {
+      "name": "Rechazo de la convención",
+      "info": "Cuando en el equipo hay 1/2/3/4 personajes con tipos elementales distintos, el aumento de daño de Ataque Normal otorgado por los **banderines de las nubes** incrementa en un 2.5/5/7.5/11.5% adicional en proporción a la DEF de Yun Jin."
+    },
+    "passive3": {
+      "name": "Alimentación ligera",
+      "info": "Al lograr un “Perfecto” en un plato con efectos de ayuda a la aventura, hay una probabilidad del 12% de obtener el doble."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseñanzas del esfuerzo",
+          "count": 3
+        },
+        {
+          "name": "Máscara dañada",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guía del esfuerzo",
+          "count": 2
+        },
+        {
+          "name": "Máscara sucia",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guía del esfuerzo",
+          "count": 4
+        },
+        {
+          "name": "Máscara sucia",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guía del esfuerzo",
+          "count": 6
+        },
+        {
+          "name": "Máscara sucia",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guía del esfuerzo",
+          "count": 9
+        },
+        {
+          "name": "Máscara sucia",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofía del esfuerzo",
+          "count": 4
+        },
+        {
+          "name": "Máscara amenazante",
+          "count": 4
+        },
+        {
+          "name": "Corazón de las cenizas",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofía del esfuerzo",
+          "count": 6
+        },
+        {
+          "name": "Máscara amenazante",
+          "count": 6
+        },
+        {
+          "name": "Corazón de las cenizas",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofía del esfuerzo",
+          "count": 12
+        },
+        {
+          "name": "Máscara amenazante",
+          "count": 9
+        },
+        {
+          "name": "Corazón de las cenizas",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofía del esfuerzo",
+          "count": 16
+        },
+        {
+          "name": "Máscara amenazante",
+          "count": 12
+        },
+        {
+          "name": "Corazón de las cenizas",
+          "count": 2
+        },
+        {
+          "name": "Corona de la sabiduría",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_03",
+      "combat2": "Skill_S_Yunjin_01",
+      "combat3": "Skill_E_Yunjin_01_HD",
+      "passive1": "UI_Talent_S_Yunjin_05",
+      "passive2": "UI_Talent_S_Yunjin_06",
+      "passive3": "UI_Talent_S_Yunjin_07"
+    },
+    "version": "2.4"
+  }
+}

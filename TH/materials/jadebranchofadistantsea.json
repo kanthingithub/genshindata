@@ -1,0 +1,26 @@
+{
+  "name": "Jade Branch of a Distant Sea",
+  "description": "วัสดุเลื่อนขั้นอาวุธ\nเทพอสูรผู้สูญเสียทุกสิ่ง ได้หนีไปยังทะเลแห่งความมืดมิด และพบกับผู้คนที่ถูกทอดทิ้ง มันจึงตัดสินใจอยู่ที่นั่นและกลายเป็น \"Orobashi no Mikoto\", \"Watatsumi Omikami\" ของพวกเขา\nตำนานเล่าว่า เทพอสรพิษเคยหักกิ่งปะการังทั้งหมดบนตัวของมัน เพื่อให้แสงสว่างโดยรอบกับลูก ๆ ที่ขดตัวอยู่ในความมืด บางคนบอกว่ามันใช้กิ่งปะการังที่หักนั้นสร้างบันได เพื่อให้ลูก ๆ ของมันได้กลับไปบนพื้นดินและเห็นแสงอาทิตย์อีกครั้ง",
+  "sortorder": 2209,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุเลื่อนขั้นอาวุธ",
+  "dropdomain": "ดันเจี้ยนแห่งการต่อสู้: ห้วงทรายในเหวลึก",
+  "daysofweek": [
+    "วันจันทร์",
+    "วันพฤหัสบดี",
+    "วันอาทิตย์"
+  ],
+  "source": [
+    "ได้รับจากการสรรสร้าง"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Jade_Branch_of_a_Distant_Sea.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/29/Item_Jade_Branch_of_a_Distant_Sea.png",
+    "nameicon": "UI_ItemIcon_114027"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Jade_Branch_of_a_Distant_Sea"
+  },
+  "version": ""
+}

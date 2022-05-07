@@ -1,0 +1,18 @@
+{
+  "name": "綺麗な結晶（小）",
+  "description": "合成追加産物",
+  "sortorder": 1587,
+  "category": "CONSUME",
+  "materialtype": "合成産物",
+  "source": [
+    "合成で獲得"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_111020",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Small_Pretty_Crystal.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Small_Pretty_Crystal"
+  },
+  "version": ""
+}

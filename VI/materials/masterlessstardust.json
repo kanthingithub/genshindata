@@ -1,0 +1,20 @@
+{
+  "name": "Tinh Trần Vô Chủ",
+  "description": "Tiền dùng để đổi tài nguyên hiếm trong cửa hàng.\nBụi tinh còn sót lại của ngôi sao may mắn. Tích lũy nó, không chừng có thể tạo ra một vận mệnh mới.",
+  "sortorder": 497,
+  "rarity": "4",
+  "category": "CONSUME",
+  "materialtype": "Phiếu Đổi Thưởng-Thường",
+  "source": [
+    "Cầu Nguyện"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_222",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Masterless_Stardust.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7c/Item_Masterless_Stardust.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Masterless_Stardust"
+  },
+  "version": ""
+}

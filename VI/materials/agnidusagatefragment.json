@@ -1,0 +1,22 @@
+{
+  "name": "Mảnh Mã Não Cháy",
+  "description": "Nguyên liệu đột phá nhân vật.\n\"Vì nguyện vọng mà bước vào con đường lữ hành, vì danh hiệu mạnh nhất mà cố gắng chiến đấu...\"",
+  "sortorder": 1823,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Cây Nổ cấp 40 trở lên rơi",
+    "Hỏa Nguyên Bản cấp 40 trở lên rơi",
+    "Ghép Nhận"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Agnidus_Agate_Fragment.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Item_Agnidus_Agate_Fragment.png",
+    "nameicon": "UI_ItemIcon_104112"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Agnidus_Agate_Fragment"
+  },
+  "version": ""
+}

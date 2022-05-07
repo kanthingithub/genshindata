@@ -1,0 +1,914 @@
+{
+  "name": "Ganyu",
+  "fullname": "Ganyu",
+  "title": "La Vigía del Plenilunio",
+  "description": "La secretaria del Pabellón Yuehai. La sangre de bestia iluminada Chilin fluye por sus venas.",
+  "rarity": "5",
+  "element": "Cryo",
+  "weapontype": "Arco",
+  "substat": "Daño CRIT",
+  "gender": "Femenino",
+  "body": "GIRL",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Pabellón Yuehai",
+  "birthdaymmdd": "12/2",
+  "birthday": "2 de diciembre",
+  "constellation": "Sinae Unicornis",
+  "cv": {
+    "english": "Jennifer Losi",
+    "chinese": "林簌",
+    "japanese": "上田麗奈",
+    "korean": "Kim Seon-hye"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Pedacito de jade shivada",
+        "count": 1
+      },
+      {
+        "name": "Flor chingxin",
+        "count": 3
+      },
+      {
+        "name": "Néctar de Megaflora",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de jade shivada",
+        "count": 3
+      },
+      {
+        "name": "Núcleo de escarcha",
+        "count": 2
+      },
+      {
+        "name": "Flor chingxin",
+        "count": 10
+      },
+      {
+        "name": "Néctar de Megaflora",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de jade shivada",
+        "count": 6
+      },
+      {
+        "name": "Núcleo de escarcha",
+        "count": 4
+      },
+      {
+        "name": "Flor chingxin",
+        "count": 20
+      },
+      {
+        "name": "Néctar brillante",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Trozo de jade shivada",
+        "count": 3
+      },
+      {
+        "name": "Núcleo de escarcha",
+        "count": 8
+      },
+      {
+        "name": "Flor chingxin",
+        "count": 30
+      },
+      {
+        "name": "Néctar brillante",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Trozo de jade shivada",
+        "count": 6
+      },
+      {
+        "name": "Núcleo de escarcha",
+        "count": 12
+      },
+      {
+        "name": "Flor chingxin",
+        "count": 45
+      },
+      {
+        "name": "Néctar energético",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Jade shivada",
+        "count": 6
+      },
+      {
+        "name": "Núcleo de escarcha",
+        "count": 20
+      },
+      {
+        "name": "Flor chingxin",
+        "count": 60
+      },
+      {
+        "name": "Néctar energético",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Character_Ganyu_Card.png",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Character_Ganyu_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ganyu.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210105/2021010519275372324.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210105/2021010519280045054.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/4af4adf192a35db2dd76d9718acc7bc8.png",
+    "nameicon": "UI_AvatarIcon_Ganyu",
+    "nameiconcard": "UI_AvatarIcon_Ganyu_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Ganyu",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Ganyu",
+    "namesideicon": "UI_AvatarIcon_Side_Ganyu"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ganyu"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 762.656005859375,
+      "attack": 26.06800079345703,
+      "defense": 49.06060028076172,
+      "specialized": 0.5
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 1978.329756295716,
+      "attack": 67.62039669342812,
+      "defense": 127.26320208780635,
+      "specialized": 0.5
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2632.2383256316534,
+      "attack": 89.96971615143593,
+      "defense": 169.3292039798962,
+      "specialized": 0.5
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 3938.6681087629404,
+      "attack": 134.62420305197156,
+      "defense": 253.37001516168675,
+      "specialized": 0.5
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4403.287371458253,
+      "attack": 150.5039828676454,
+      "defense": 283.2590151006516,
+      "specialized": 0.596000000834465
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5066.03540854773,
+      "attack": 173.1570744633027,
+      "defense": 325.8926746859688,
+      "specialized": 0.596000000834465
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5685.527718118043,
+      "attack": 194.330116760666,
+      "defense": 365.7446720614571,
+      "specialized": 0.69200000166893
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6355.1395254323725,
+      "attack": 217.21781578915397,
+      "defense": 408.81986844033963,
+      "specialized": 0.69200000166893
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6819.758788127685,
+      "attack": 233.0975956048278,
+      "defense": 438.7088683793045,
+      "specialized": 0.69200000166893
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7495.472128600464,
+      "attack": 256.1938483849335,
+      "defense": 482.1765679012642,
+      "specialized": 0.69200000166893
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7960.091269225464,
+      "attack": 272.0736243859101,
+      "defense": 512.0655754696236,
+      "specialized": 0.7879999876022339
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8643.430980652221,
+      "attack": 295.4305507102508,
+      "defense": 556.023868829554,
+      "specialized": 0.7879999876022339
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 9108.050365417846,
+      "attack": 311.3103343406219,
+      "defense": 585.9128611391243,
+      "specialized": 0.8840000033378601
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9796.729009273928,
+      "attack": 334.84974830517604,
+      "defense": 630.2146005977265,
+      "specialized": 0.8840000033378601
+    }
+  },
+  "version": "1.2",
+  "constellations": {
+    "c1": {
+      "name": "Bebedora de rocío",
+      "effect": "Reduce en un 15% la RES Cryo de los enemigos golpeados por una flecha helada de Carga 2 o una explosión de escarcha durante 6 s.\nAdemás, al golpear a un enemigo, Ganyu recupera 2 pts. de Energía Elemental. Este efecto solo puede activarse una vez por cada flecha helada de Carga 2, independientemente de que tanto dicha flecha helada como la explosión de escarcha golpeen al enemigo."
+    },
+    "c2": {
+      "name": "La auspiciosa",
+      "effect": "Aumenta en 1 las cargas de **Senda de Chilin**."
+    },
+    "c3": {
+      "name": "Jinete de las nubes",
+      "effect": "Aumenta el nivel de habilidad de **Diluvio celestial** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c4": {
+      "name": "Viaje al Oeste",
+      "effect": "Los enemigos que estén en el AdE de **Diluvio celestial** reciben daño adicional. Este efecto se fortalece con el tiempo.\nEl daño comienza con un 5% adicional, y aumenta en un 5% cada 3 s hasta un máximo de un 25%.\nEste efecto persiste durante 3 s después de que el enemigo se aleje del AdE de la habilidad."
+    },
+    "c5": {
+      "name": "La misericordiosa",
+      "effect": "Aumenta el nivel de habilidad de **Senda de Chilin** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c6": {
+      "name": "La clemente",
+      "effect": "Utilizar **Senda de Chilin** hace que durante 30 s no se requiera cargar la siguiente flecha helada."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ganyu_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ganyu_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Ganyu_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ganyu_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Ganyu_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ganyu_04.png",
+      "constellation": "Eff_UI_Talent_Ganyu"
+    },
+    "version": "1.2"
+  },
+  "talent": {
+    "name": "Ganyu",
+    "combat1": {
+      "name": "Ataque Normal: Técnica de tiro Liutian",
+      "info": "**Ataque Normal**\nRealiza hasta 6 disparos consecutivos con arco.\n\n**Ataque Cargado**\nRealiza un **Disparo Preciso** que inflige mayor daño y tiene mayor precisión.\nMientras se apunta, un aura helada se acumulará en la punta de la flecha antes de que esta sea disparada. Sus efectos serán distintos dependiendo de durante cuánto tiempo se ha cargado:\nCarga 1: Dispara una flecha congelada que inflige Daño Cryo.\nCarga 2: Dispara una flecha helada que inflige Daño Cryo. Al golpear a su objetivo, la flecha estallará, creando una explosión de escarcha e infligiendo Daño Cryo en el AdE.\n\n**Ataque Descendente**\nDispara una lluvia de flechas desde el aire mientras desciende rápidamente, infligiendo Daño en el AdE al impactar contra el suelo.",
+      "attributes": [
+        {
+          "name": "Daño de 1er golpe",
+          "parameters": [
+            "31.73%",
+            "34.32%",
+            "36.90%",
+            "40.59%",
+            "43.17%",
+            "46.13%",
+            "50.18%",
+            "54.24%",
+            "58.30%",
+            "62.73%",
+            "67.80%",
+            "73.77%",
+            "79.74%",
+            "85.70%",
+            "92.21%"
+          ]
+        },
+        {
+          "name": "Daño de 2.º golpe",
+          "parameters": [
+            "35.60%",
+            "38.50%",
+            "41.40%",
+            "45.54%",
+            "48.44%",
+            "51.75%",
+            "56.30%",
+            "60.86%",
+            "65.41%",
+            "70.38%",
+            "76.07%",
+            "82.77%",
+            "89.46%",
+            "96.16%",
+            "103.46%"
+          ]
+        },
+        {
+          "name": "Daño de 3er golpe",
+          "parameters": [
+            "45.49%",
+            "49.20%",
+            "52.90%",
+            "58.19%",
+            "61.89%",
+            "66.12%",
+            "71.94%",
+            "77.76%",
+            "83.58%",
+            "89.93%",
+            "97.20%",
+            "105.76%",
+            "114.31%",
+            "122.87%",
+            "132.20%"
+          ]
+        },
+        {
+          "name": "Daño de 4.º golpe",
+          "parameters": [
+            "45.49%",
+            "49.20%",
+            "52.90%",
+            "58.19%",
+            "61.89%",
+            "66.12%",
+            "71.94%",
+            "77.76%",
+            "83.58%",
+            "89.93%",
+            "97.20%",
+            "105.76%",
+            "114.31%",
+            "122.87%",
+            "132.20%"
+          ]
+        },
+        {
+          "name": "Daño de 5.º golpe",
+          "parameters": [
+            "48.25%",
+            "52.17%",
+            "56.10%",
+            "61.71%",
+            "65.64%",
+            "70.13%",
+            "76.30%",
+            "82.47%",
+            "88.64%",
+            "95.37%",
+            "103.08%",
+            "112.16%",
+            "121.23%",
+            "130.30%",
+            "140.19%"
+          ]
+        },
+        {
+          "name": "Daño de 6.º golpe",
+          "parameters": [
+            "57.62%",
+            "62.31%",
+            "67.00%",
+            "73.70%",
+            "78.39%",
+            "83.75%",
+            "91.12%",
+            "98.49%",
+            "105.86%",
+            "113.90%",
+            "123.11%",
+            "133.95%",
+            "144.78%",
+            "155.61%",
+            "167.43%"
+          ]
+        },
+        {
+          "name": "Disparo Preciso",
+          "parameters": [
+            "43.86%",
+            "47.43%",
+            "51.00%",
+            "56.10%",
+            "59.67%",
+            "63.75%",
+            "69.36%",
+            "74.97%",
+            "80.58%",
+            "86.70%",
+            "92.82%",
+            "98.94%",
+            "105.06%",
+            "111.18%",
+            "117.30%"
+          ]
+        },
+        {
+          "name": "1er Disparo Preciso cargado",
+          "parameters": [
+            "124.00%",
+            "133.30%",
+            "142.60%",
+            "155.00%",
+            "164.30%",
+            "173.60%",
+            "186.00%",
+            "198.40%",
+            "210.80%",
+            "223.20%",
+            "235.60%",
+            "248.00%",
+            "263.50%",
+            "279.00%",
+            "294.50%"
+          ]
+        },
+        {
+          "name": "Daño de flecha helada",
+          "parameters": [
+            "128.00%",
+            "137.60%",
+            "147.20%",
+            "160.00%",
+            "169.60%",
+            "179.20%",
+            "192.00%",
+            "204.80%",
+            "217.60%",
+            "230.40%",
+            "243.20%",
+            "256.00%",
+            "272.00%",
+            "288.00%",
+            "304.00%"
+          ]
+        },
+        {
+          "name": "Daño de explosión de escarcha de flecha helada",
+          "parameters": [
+            "217.60%",
+            "233.92%",
+            "250.24%",
+            "272.00%",
+            "288.32%",
+            "304.64%",
+            "326.40%",
+            "348.16%",
+            "369.92%",
+            "391.68%",
+            "413.44%",
+            "435.20%",
+            "462.40%",
+            "489.60%",
+            "516.80%"
+          ]
+        },
+        {
+          "name": "Daño de Caída",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "Daño de impacto de caída baja/alta",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Senda de Chilin",
+      "info": "Ganyu da un salto atrás para dejar un loto de hielo, evitando toda impureza e infligiendo Daño Cryo en el AdE.\n**Loto de hielo**\n·Provoca continuamente a los enemigos que lo rodean, atrayéndolos para que lo ataquen.\n·La resistencia del loto es proporcional a la Vida Máx. de Ganyu.\n·Explota cuando es destruido o una vez terminada su duración, infligiendo Daño Cryo en el AdE.",
+      "description": "“¿Dices que me viste? Debe haber sido un error. A esas horas estaba trabajando horas extras”.",
+      "attributes": [
+        {
+          "name": "Vida del loto",
+          "parameters": [
+            "120.00% de Vida Máx.",
+            "129.00% de Vida Máx.",
+            "138.00% de Vida Máx.",
+            "150.00% de Vida Máx.",
+            "159.00% de Vida Máx.",
+            "168.00% de Vida Máx.",
+            "180.00% de Vida Máx.",
+            "192.00% de Vida Máx.",
+            "204.00% de Vida Máx.",
+            "216.00% de Vida Máx.",
+            "228.00% de Vida Máx.",
+            "240.00% de Vida Máx.",
+            "255.00% de Vida Máx.",
+            "270.00% de Vida Máx.",
+            "285.00% de Vida Máx."
+          ]
+        },
+        {
+          "name": "Daño de habilidad",
+          "parameters": [
+            "132.00%",
+            "141.90%",
+            "151.80%",
+            "165.00%",
+            "174.90%",
+            "184.80%",
+            "198.00%",
+            "211.20%",
+            "224.40%",
+            "237.60%",
+            "250.80%",
+            "264.00%",
+            "280.50%",
+            "297.00%",
+            "313.50%"
+          ]
+        },
+        {
+          "name": "Duración",
+          "parameters": [
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s"
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Diluvio celestial",
+      "info": "Fusiona nieve y escarcha en la atmósfera para invocar una perla de hielo sagrada que exorciza el mal.\nMientras dure la habilidad, la perla hará llover continuamente fragmentos de hielo que golpean a los enemigos dentro de un AdE e infligen Daño Cryo.",
+      "description": "Ganyu puede provocar una lluvia sin problemas. Pero contra los demonios y los herejes, esa lluvia se convierte en una helada y amarga nieve.",
+      "attributes": [
+        {
+          "name": "Daño de carámbano",
+          "parameters": [
+            "70.27%",
+            "75.54%",
+            "80.81%",
+            "87.84%",
+            "93.11%",
+            "98.38%",
+            "105.41%",
+            "112.44%",
+            "119.46%",
+            "126.49%",
+            "133.52%",
+            "140.54%",
+            "149.33%",
+            "158.11%",
+            "166.90%"
+          ]
+        },
+        {
+          "name": "Duración",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "Energía Elemental",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Corazón indiviso",
+      "info": "Tras lanzar una flecha helada, aumenta en un 20% la Prob. CRIT de la siguiente flecha helada y de la explosión de escarcha causada por ella durante 5 s."
+    },
+    "passive2": {
+      "name": "Armonía entre el Cielo y la Tierra",
+      "info": "Los personajes en uso que se encuentren dentro del área de **Diluvio celestial** obtienen un 20% de Bono de Daño Cryo."
+    },
+    "passive3": {
+      "name": "Arco de repuesto",
+      "info": "Recupera el 15% de los minerales utilizados en la fabricación de arcos."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseñanzas del esfuerzo",
+          "count": 3
+        },
+        {
+          "name": "Néctar de Megaflora",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guía del esfuerzo",
+          "count": 2
+        },
+        {
+          "name": "Néctar brillante",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guía del esfuerzo",
+          "count": 4
+        },
+        {
+          "name": "Néctar brillante",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guía del esfuerzo",
+          "count": 6
+        },
+        {
+          "name": "Néctar brillante",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guía del esfuerzo",
+          "count": 9
+        },
+        {
+          "name": "Néctar brillante",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofía del esfuerzo",
+          "count": 4
+        },
+        {
+          "name": "Néctar energético",
+          "count": 4
+        },
+        {
+          "name": "Sombra del guerrero",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofía del esfuerzo",
+          "count": 6
+        },
+        {
+          "name": "Néctar energético",
+          "count": 6
+        },
+        {
+          "name": "Sombra del guerrero",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofía del esfuerzo",
+          "count": 12
+        },
+        {
+          "name": "Néctar energético",
+          "count": 9
+        },
+        {
+          "name": "Sombra del guerrero",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofía del esfuerzo",
+          "count": 16
+        },
+        {
+          "name": "Néctar energético",
+          "count": 12
+        },
+        {
+          "name": "Sombra del guerrero",
+          "count": 2
+        },
+        {
+          "name": "Corona de la sabiduría",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_02",
+      "combat2": "Skill_S_Ganyu_01",
+      "combat3": "Skill_E_Ganyu_01_HD",
+      "passive1": "UI_Talent_S_Ganyu_05",
+      "passive2": "UI_Talent_S_Ganyu_06",
+      "passive3": "UI_Talent_Forge_Bow"
+    },
+    "version": "1.2"
+  }
+}

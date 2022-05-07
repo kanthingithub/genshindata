@@ -1,0 +1,19 @@
+{
+  "name": "Fisch",
+  "description": "Ein frisches Stück Fisch, das sich richtig zubereitet für eine leckere Mahlzeit eignet.",
+  "sortorder": 2001,
+  "category": "EXCHANGE",
+  "materialtype": "Zutat",
+  "source": [
+    "Beim Fangen von Fischen zu erhalten"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fish.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Item_Fish.png",
+    "nameicon": "UI_ItemIcon_100084"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fish"
+  },
+  "version": ""
+}

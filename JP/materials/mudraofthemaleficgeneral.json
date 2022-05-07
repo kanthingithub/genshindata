@@ -1,0 +1,20 @@
+{
+  "name": "凶将の手眼",
+  "description": "浄土から取り出した人形の関節。「見たままを形にする」という概念を象徴している。\n禍神となった今も「彼女」はこの手眼を操ることができ、視界が捉えた一瞬の間に、一太刀を放つ。\nしかし万劫はあまりに遠く、凶将の骸も春を迎えねばならなかった。",
+  "sortorder": 1814,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "キャラクター育成素材",
+  "source": [
+    "永遠の守護者（Lv.70以上）挑戦報酬"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_113032",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mudra_of_the_Malefic_General.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Item_Mudra_of_the_Malefic_General.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mudra_of_the_Malefic_General"
+  },
+  "version": ""
+}

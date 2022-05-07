@@ -1,0 +1,914 @@
+{
+  "name": "Bennett",
+  "fullname": "Bennett",
+  "title": "ไฟแห่งโชคชะตา",
+  "description": "เด็กหนุ่มนักผจญภัยแห่ง Mondstadt มีความซวยซึ่งไม่เข้ากันกับ ความใจดีมีเมตตาของเขาเลย",
+  "rarity": "4",
+  "element": "ไฟ",
+  "weapontype": "ดาบ",
+  "substat": "การฟื้นฟูพลังงาน",
+  "gender": "ชาย",
+  "body": "BOY",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "กิลด์นักผจญภัย",
+  "birthdaymmdd": "2/29",
+  "birthday": "29 กุมภาพันธ์",
+  "constellation": "Rota Calamitas",
+  "cv": {
+    "english": "Cristina Vee Valenzuela",
+    "chinese": "穆雪婷",
+    "japanese": "逢坂良太",
+    "korean": "Song Ha-rim"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Agnidus Agate Sliver",
+        "count": 1
+      },
+      {
+        "name": "Windwheel Aster",
+        "count": 3
+      },
+      {
+        "name": "Treasure Hoarders Insignia",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Agnidus Agate Fragment",
+        "count": 3
+      },
+      {
+        "name": "Everflame Seed",
+        "count": 2
+      },
+      {
+        "name": "Windwheel Aster",
+        "count": 10
+      },
+      {
+        "name": "Treasure Hoarders Insignia",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Agnidus Agate Fragment",
+        "count": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "count": 4
+      },
+      {
+        "name": "Windwheel Aster",
+        "count": 20
+      },
+      {
+        "name": "Silver Raven Insignia",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Agnidus Agate Chunk",
+        "count": 3
+      },
+      {
+        "name": "Everflame Seed",
+        "count": 8
+      },
+      {
+        "name": "Windwheel Aster",
+        "count": 30
+      },
+      {
+        "name": "Silver Raven Insignia",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Agnidus Agate Chunk",
+        "count": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "count": 12
+      },
+      {
+        "name": "Windwheel Aster",
+        "count": 45
+      },
+      {
+        "name": "Golden Raven Insignia",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Agnidus Agate Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "count": 20
+      },
+      {
+        "name": "Windwheel Aster",
+        "count": 60
+      },
+      {
+        "name": "Golden Raven Insignia",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Character_Bennett_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Character_Bennett_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Bennett.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200312/2020031220001589124.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200312/2020031220015487912.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/661fca5d5165dee41fd29c142a59c2f9.png",
+    "nameicon": "UI_AvatarIcon_Bennett",
+    "nameiconcard": "UI_AvatarIcon_Bennett_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Bennett",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Bennett",
+    "namesideicon": "UI_AvatarIcon_Side_Bennett"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bennett"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1039.4417724609375,
+      "attack": 16.02720069885254,
+      "defense": 64.66425323486328,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2670.325919399882,
+      "attack": 41.17387868706055,
+      "defense": 166.1224669303756,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3446.842093716288,
+      "attack": 53.14729883018799,
+      "defense": 214.42996586226036,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5162.960236018,
+      "attack": 79.60820372964463,
+      "defense": 321.19063401590756,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5714.695404475031,
+      "attack": 88.11563380624375,
+      "defense": 355.5143835581439,
+      "specialized": 0.06669999659061432
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6573.274530576484,
+      "attack": 101.3541050072754,
+      "defense": 408.92707054391576,
+      "specialized": 0.06669999659061432
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7308.921625303046,
+      "attack": 112.6973438378418,
+      "defense": 454.69207756295873,
+      "specialized": 0.13330000638961792
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8167.500751404499,
+      "attack": 125.93581503887344,
+      "defense": 508.1047645487306,
+      "specialized": 0.13330000638961792
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8719.235858826374,
+      "attack": 134.44324606914688,
+      "defense": 542.4285102762697,
+      "specialized": 0.13330000638961792
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9576.775122848863,
+      "attack": 147.6656835887543,
+      "defense": 595.7765068613044,
+      "specialized": 0.13330000638961792
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10128.510230270738,
+      "attack": 156.17311461902773,
+      "defense": 630.1002525888434,
+      "specialized": 0.20000000298023224
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 10987.08886072773,
+      "attack": 169.41157817769454,
+      "defense": 683.5129087402966,
+      "specialized": 0.20000000298023224
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11538.82421229023,
+      "attack": 177.9190053932707,
+      "defense": 717.8366544678356,
+      "specialized": 0.26669999957084656
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12397.403338391683,
+      "attack": 191.15747659430235,
+      "defense": 771.2493414536075,
+      "specialized": 0.26669999957084656
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Grand Expectation",
+      "effect": "ผลของพลังโจมตีของ **Fantastic Voyage** ที่เพิ่มขึ้นจะไม่ถูกจำกัดโดย ปริมาณพลังชีวิตอีกต่อไป และจะเพิ่มขึ้นอีก 20% จากพลังโจมตีพื้นฐานของ Bennett"
+    },
+    "c2": {
+      "name": "Impasse Conqueror",
+      "effect": "เมื่อพลังชีวิตของ Bennett ต่ำกว่า 70% จะเพิ่มประสิทธิภาพการฟื้นฟูพลังงานขึ้น 30%"
+    },
+    "c3": {
+      "name": "Unstoppable Fervor",
+      "effect": "เพิ่มเลเวลสกิลของ **Passion Overload** ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ"
+    },
+    "c4": {
+      "name": "Unexpected Odyssey",
+      "effect": "เมื่อปล่อยการชาร์จโจมตี ขั้นหนึ่งของ **Passion Overload** การโจมตีขั้นสองของสกิล จะเป็นการโจมตีปกติ และสามารถทำการโจมตี ต่อเนื่องได้ \nความเสียหายจาก การโจมตีต่อเนื่องเป็น 135% ของการโจมตีขั้นสอง"
+    },
+    "c5": {
+      "name": "True Explorer",
+      "effect": "เพิ่มเลเวลสกิลของ **Fantastic Voyage** ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ"
+    },
+    "c6": {
+      "name": "Fire Ventures with Me",
+      "effect": "ตัวละครในทีมที่เข้าสู่การต่อสู้ในขณะนั้นที่ใช้อาวุธดาบ, ดาบใหญ่, หอก ที่อยู่ในพื้นที่ของ **Fantastic Voyage** จะได้รับ โบนัสความเสียหายไฟ 15% และจะได้รับพลังแห่งไฟ"
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Bennett_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Bennett_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Bennett_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Bennett_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Bennett_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Bennett_04.png",
+      "constellation": "Eff_UI_Talent_Bennett"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Bennett",
+    "combat1": {
+      "name": "โจมตีปกติ - Strike of Fortune",
+      "info": "**โจมตีปกติ**\nโจมตีด้วยดาบต่อเนื่องมากสุดห้าครั้ง\n\n**ชาร์จโจมตี**\nใช้พลังกายส่วนหนึ่งเพื่อปลดปล่อยดาบ ออกไปข้างหน้าสองเล่มในช่วงเวลาสั้น ๆ\n\n**โจมตีพุ่งลงจากอากาศ**\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "attributes": [
+        {
+          "name": "ความเสียหายขั้น 1",
+          "parameters": [
+            "44.55%",
+            "48.17%",
+            "51.80%",
+            "56.98%",
+            "60.61%",
+            "64.75%",
+            "70.45%",
+            "76.15%",
+            "81.84%",
+            "88.06%",
+            "94.28%",
+            "100.49%",
+            "106.71%",
+            "112.92%",
+            "119.14%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 2",
+          "parameters": [
+            "42.74%",
+            "46.22%",
+            "49.70%",
+            "54.67%",
+            "58.15%",
+            "62.12%",
+            "67.59%",
+            "73.06%",
+            "78.53%",
+            "84.49%",
+            "90.45%",
+            "96.42%",
+            "102.38%",
+            "108.35%",
+            "114.31%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 3",
+          "parameters": [
+            "54.61%",
+            "59.06%",
+            "63.50%",
+            "69.85%",
+            "74.30%",
+            "79.37%",
+            "86.36%",
+            "93.34%",
+            "100.33%",
+            "107.95%",
+            "115.57%",
+            "123.19%",
+            "130.81%",
+            "138.43%",
+            "146.05%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 4",
+          "parameters": [
+            "59.68%",
+            "64.54%",
+            "69.40%",
+            "76.34%",
+            "81.20%",
+            "86.75%",
+            "94.38%",
+            "102.02%",
+            "109.65%",
+            "117.98%",
+            "126.31%",
+            "134.64%",
+            "142.96%",
+            "151.29%",
+            "159.62%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 5",
+          "parameters": [
+            "71.90%",
+            "77.75%",
+            "83.60%",
+            "91.96%",
+            "97.81%",
+            "104.50%",
+            "113.70%",
+            "122.89%",
+            "132.09%",
+            "142.12%",
+            "152.15%",
+            "162.18%",
+            "172.22%",
+            "182.25%",
+            "192.28%"
+          ]
+        },
+        {
+          "name": "ความเสียหายชาร์จโจมตี",
+          "parameters": [
+            "55.90%+60.72%",
+            "60.45%+65.66%",
+            "65.00%+70.60%",
+            "71.50%+77.66%",
+            "76.05%+82.60%",
+            "81.25%+88.25%",
+            "88.40%+96.02%",
+            "95.55%+103.78%",
+            "102.70%+111.55%",
+            "110.50%+120.02%",
+            "118.30%+128.49%",
+            "126.10%+136.96%",
+            "133.90%+145.44%",
+            "141.70%+153.91%",
+            "149.50%+162.38%"
+          ]
+        },
+        {
+          "name": "ชาร์จโจมตีใช้พลังกาย",
+          "parameters": [
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย"
+          ]
+        },
+        {
+          "name": "ความเสียหายพุ่งลง",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "ความเสียหายพุ่งถึงพื้นจากที่ต่ำ/สูง",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Passion Overload",
+      "info": "Bennett รวบรวมธาตุไฟและ ความคลั่งไคล้ในการผจญภัยไว้บนดาบ โดยสิ่งที่จะเกิดขึ้นได้นั้นจะขึ้นอยู่กับระดับ ของการรวบรวมความคลั่งไคล้ ของเขาเอง...\n\n**กด**\nฟาดฟันดาบไฟไปข้างหน้าอย่างรวดเร็ว ทำให้เกิดความเสียหายไฟ\n\n**กดค้าง**\nอ้างอิงจากระยะเวลาในการกดค้าง เพื่อชาร์จพลัง การปลดปล่อยออกไปจะทำให้เกิด เอฟเฟกต์ที่แตกต่างกันโดยขึ้นอยู่กับ ระดับของการชาร์จพลัง\n·ชาร์จระดับ 1: ทำการโจมตีสองครั้ง เกิดเป็นความเสียหายไฟ และซัดศัตรูให้กระเด็น;\n·ชาร์จระดับ 2: ทำการโจมตีต่อเนื่องสามครั้ง เกิดเป็นความเสียหายไฟอย่างรุนแรง ซึ่งการโจมตีครั้งสุดท้ายจะเกิดการระเบิด และจะซัด Bennett กับศัตรู ให้กระเด็นลอยออกไปพร้อมกัน โดยที่ Bennett จะไม่ได้รับความเสียหาย เมื่อถูกซัดกระเด็น",
+      "description": "รวบรวมความคลั่งไคล้และความฝันเอาไว้ กับธาตุไฟในการโจมตีแต่ละครั้ง แต่บางครั้งดูเหมือนว่าความคลั่งไคล้นั้น จะมากเกินไปหน่อย ทำให้ธาตุไฟระเบิดออกมาเป็นบางที",
+      "attributes": [
+        {
+          "name": "ความเสียหายเมื่อกด",
+          "parameters": [
+            "137.60%",
+            "147.92%",
+            "158.24%",
+            "172.00%",
+            "182.32%",
+            "192.64%",
+            "206.40%",
+            "220.16%",
+            "233.92%",
+            "247.68%",
+            "261.44%",
+            "275.20%",
+            "292.40%",
+            "309.60%",
+            "326.80%"
+          ]
+        },
+        {
+          "name": "ความเสียหายชาร์จระดับ 1",
+          "parameters": [
+            "84.00%+92.00%",
+            "90.30%+98.90%",
+            "96.60%+105.80%",
+            "105.00%+115.00%",
+            "111.30%+121.90%",
+            "117.60%+128.80%",
+            "126.00%+138.00%",
+            "134.40%+147.20%",
+            "142.80%+156.40%",
+            "151.20%+165.60%",
+            "159.60%+174.80%",
+            "168.00%+184.00%",
+            "178.50%+195.50%",
+            "189.00%+207.00%",
+            "199.50%+218.50%"
+          ]
+        },
+        {
+          "name": "ความเสียหายชาร์จขั้น 2",
+          "parameters": [
+            "88.00%+96.00%",
+            "94.60%+103.20%",
+            "101.20%+110.40%",
+            "110.00%+120.00%",
+            "116.60%+127.20%",
+            "123.20%+134.40%",
+            "132.00%+144.00%",
+            "140.80%+153.60%",
+            "149.60%+163.20%",
+            "158.40%+172.80%",
+            "167.20%+182.40%",
+            "176.00%+192.00%",
+            "187.00%+204.00%",
+            "198.00%+216.00%",
+            "209.00%+228.00%"
+          ]
+        },
+        {
+          "name": "ความเสียหายการระเบิด",
+          "parameters": [
+            "132.00%",
+            "141.90%",
+            "151.80%",
+            "165.00%",
+            "174.90%",
+            "184.80%",
+            "198.00%",
+            "211.20%",
+            "224.40%",
+            "237.60%",
+            "250.80%",
+            "264.00%",
+            "280.50%",
+            "297.00%",
+            "313.50%"
+          ]
+        },
+        {
+          "name": "คูลดาวน์",
+          "parameters": [
+            "5/7.5/10 วิ",
+            "5/7.5/10 วิ",
+            "5/7.5/10 วิ",
+            "5/7.5/10 วิ",
+            "5/7.5/10 วิ",
+            "5/7.5/10 วิ",
+            "5/7.5/10 วิ",
+            "5/7.5/10 วิ",
+            "5/7.5/10 วิ",
+            "5/7.5/10 วิ",
+            "5/7.5/10 วิ",
+            "5/7.5/10 วิ",
+            "5/7.5/10 วิ",
+            "5/7.5/10 วิ",
+            "5/7.5/10 วิ"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Fantastic Voyage",
+      "info": "Bennett ทำการกระโดดโจมตี โดยจะเกิดเป็นความเสียหายไฟ และสร้างพื้นที่ให้กำลังใจขึ้นมา\n\n**พื้นที่ให้กำลังใจ**\n·หากตัวละครที่อยู่ในพื้นที่มีพลังชีวิต ต่ำกว่าหรือเท่ากับ 70% จะได้รับการฟื้นฟูพลังชีวิตอย่างต่อเนื่อง โดยปริมาณการฟื้นฟูจะขึ้นอยู่กับ พลังชีวิตสูงสุดของ Bennett;\n·หากตัวละครที่อยู่ในพื้นที่มีพลังชีวิต สูงกว่า 70% จะได้รับโบนัสโจมตีโดยจะขึ้นอยู่กับ พื้นฐานพลังโจมตีของ Bennett;\n·ทำให้ตัวละครที่อยู่ในนั้น ติดสถานะธาตุไฟ",
+      "description": "การเดินทางสำรวจทุกครั้งของ กลุ่มนักผจญภัยของ Benny นั้น ล้วนเต็มไปด้วยความเสี่ยงที่คาดไม่ถึง มีเพียง Bennett ซึ่งเป็นสมาชิกคนเดียว เท่านั้นที่พูดว่า มันช่างเป็น \"การเดินทางที่สุดยอด, ตื่นเต้นแล้วก็สวยงาม\"",
+      "attributes": [
+        {
+          "name": "ความเสียหายสกิล",
+          "parameters": [
+            "232.80%",
+            "250.26%",
+            "267.72%",
+            "291.00%",
+            "308.46%",
+            "325.92%",
+            "349.20%",
+            "372.48%",
+            "395.76%",
+            "419.04%",
+            "442.32%",
+            "465.60%",
+            "494.70%",
+            "523.80%",
+            "552.90%"
+          ]
+        },
+        {
+          "name": "รักษาต่อเนื่อง",
+          "parameters": [
+            "6.00% ของ HP สูงสุด ต่อวิ +577",
+            "6.45% ของ HP สูงสุด ต่อวิ +635",
+            "6.90% ของ HP สูงสุด ต่อวิ +698",
+            "7.50% ของ HP สูงสุด ต่อวิ +765",
+            "7.95% ของ HP สูงสุด ต่อวิ +837",
+            "8.40% ของ HP สูงสุด ต่อวิ +914",
+            "9.00% ของ HP สูงสุด ต่อวิ +996",
+            "9.60% ของ HP สูงสุด ต่อวิ +1083",
+            "10.20% ของ HP สูงสุด ต่อวิ +1174",
+            "10.80% ของ HP สูงสุด ต่อวิ +1270",
+            "11.40% ของ HP สูงสุด ต่อวิ +1371",
+            "12.00% ของ HP สูงสุด ต่อวิ +1477",
+            "12.75% ของ HP สูงสุด ต่อวิ +1588",
+            "13.50% ของ HP สูงสุด ต่อวิ +1703",
+            "14.25% ของ HP สูงสุด ต่อวิ +1824"
+          ]
+        },
+        {
+          "name": "อัตราส่วนโบนัสโจมตี",
+          "parameters": [
+            "56.00%",
+            "60.20%",
+            "64.40%",
+            "70.00%",
+            "74.20%",
+            "78.40%",
+            "84.00%",
+            "89.60%",
+            "95.20%",
+            "100.80%",
+            "106.40%",
+            "112.00%",
+            "119.00%",
+            "126.00%",
+            "133.00%"
+          ]
+        },
+        {
+          "name": "ระยะเวลาต่อเนื่อง",
+          "parameters": [
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ"
+          ]
+        },
+        {
+          "name": "คูลดาวน์",
+          "parameters": [
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ"
+          ]
+        },
+        {
+          "name": "พลังงานธาตุ",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Rekindle",
+      "info": "ลดเวลาคูลดาวน์ของ **Passion Overload** ลง 20%"
+    },
+    "passive2": {
+      "name": "Fearnaught",
+      "info": "ภายในพื้นที่ของ **Fantastic Voyage** เอฟเฟกต์ของ **Passion Overload** จะมีดังนี้:\n·ลดเวลาคูลดาวน์ลง 50%;\n·การชาร์จระดับ 2 จะไม่ซัด Bennett ให้กระเด็น"
+    },
+    "passive3": {
+      "name": "It Should Be Safe...",
+      "info": "เมื่อทำคำขอการออกสำรวจของ Mondstadt เวลาที่ใช้จะลดลง 25%"
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of Resistance",
+          "count": 3
+        },
+        {
+          "name": "Treasure Hoarders Insignia",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to Resistance",
+          "count": 2
+        },
+        {
+          "name": "Silver Raven Insignia",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to Resistance",
+          "count": 4
+        },
+        {
+          "name": "Silver Raven Insignia",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to Resistance",
+          "count": 6
+        },
+        {
+          "name": "Silver Raven Insignia",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to Resistance",
+          "count": 9
+        },
+        {
+          "name": "Silver Raven Insignia",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of Resistance",
+          "count": 4
+        },
+        {
+          "name": "Golden Raven Insignia",
+          "count": 4
+        },
+        {
+          "name": "Stormterror Tail Feather",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of Resistance",
+          "count": 6
+        },
+        {
+          "name": "Golden Raven Insignia",
+          "count": 6
+        },
+        {
+          "name": "Stormterror Tail Feather",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of Resistance",
+          "count": 12
+        },
+        {
+          "name": "Golden Raven Insignia",
+          "count": 9
+        },
+        {
+          "name": "Stormterror Tail Feather",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of Resistance",
+          "count": 16
+        },
+        {
+          "name": "Golden Raven Insignia",
+          "count": 12
+        },
+        {
+          "name": "Stormterror Tail Feather",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_01",
+      "combat2": "Skill_S_Bennett_01",
+      "combat3": "Skill_E_Bennett_01_HD",
+      "passive1": "UI_Talent_S_Bennett_05",
+      "passive2": "UI_Talent_S_Bennett_06",
+      "passive3": "UI_Talent_Expedition_Mengde"
+    },
+    "version": "1.0"
+  }
+}

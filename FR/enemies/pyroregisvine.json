@@ -1,0 +1,168 @@
+{
+  "name": "Arbre enflammé",
+  "specialname": "Baiser de feu",
+  "enemytype": "BOSS",
+  "category": "Bêtes mystiques",
+  "description": "Une plante grimpante géante qui a absorbé l'ancienne flamme qui brûle dans les lignes énergétiques.\nCette créature végétale est habitée d'une furie inextinguible.\nPoètes, bardes et mêmes certains érudits croient que les éléments contiennent aussi des particules d'espoir et d'émotion. Si cela est vrai, alors on se demande quels sont les sentiments qui permettent à l'Arbre enflammé de brûler sans jamais se consumer, comme s'il cherchait à se libérer des entraves de ce monde...",
+  "investigation": {
+    "name": "Arbre enflammé",
+    "category": "Boss",
+    "description": "Une plante grimpante géante qui a absorbé l'ancienne flamme qui brûle dans les lignes énergétiques.\\nCette créature végétale est habitée d'une furie inextinguible.\\nPoètes, bardes et mêmes certains érudits croient que les éléments contiennent aussi des particules d'espoir et d'émotion. Si cela est vrai, alors on se demande quels sont les sentiments qui permettent à l'Arbre enflammé de brûler sans jamais se consumer, comme s'il cherchait à se libérer des entraves de ce monde..."
+  },
+  "rewardpreview": [
+    {
+      "name": "EXP d'aventure",
+      "count": 200
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "EXP d'affinité"
+    },
+    {
+      "name": "Éclat d'agate agnidus"
+    },
+    {
+      "name": "Fragment d'agate agnidus"
+    },
+    {
+      "name": "Morceau d'agate agnidus"
+    },
+    {
+      "name": "Pierre d'agate agnidus"
+    },
+    {
+      "name": "Graine de feu",
+      "count": 2.5556
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instructeur",
+      "rarity": "3"
+    },
+    {
+      "name": "Sacrifieur Pyro",
+      "rarity": "3"
+    },
+    {
+      "name": "Aventurier",
+      "rarity": "3"
+    },
+    {
+      "name": "Rideau du Gladiateur",
+      "rarity": "4"
+    },
+    {
+      "name": "Bande vagabonde",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructeur",
+      "rarity": "4"
+    },
+    {
+      "name": "Sacrifieur Pyro",
+      "rarity": "4"
+    },
+    {
+      "name": "Rideau du Gladiateur",
+      "rarity": "5"
+    },
+    {
+      "name": "Bande vagabonde",
+      "rarity": "5"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Regisvine_Fire"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 510.41895205993205,
+      "attack": 126.88865269049074,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 2006.2283750828065,
+      "attack": 339.0138754666823,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 6196.400008976692,
+      "attack": 836.2498197051391,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 10309.60228639457,
+      "attack": 1365.8829744341056,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 18863.94624437671,
+      "attack": 2042.0693843711633,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 34975.389791473746,
+      "attack": 3149.136175426116,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 58668.78369178623,
+      "attack": 4434.621811969759,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 91363.8084617285,
+      "attack": 6121.785820403544,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 129960.09278351627,
+      "attack": 7876.325001969002,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 170478.60674195923,
+      "attack": 9515.686133175914,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 257355.85078069568,
+      "attack": 12311.044076510821,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 374516.19605185837,
+      "attack": 12555.48552251578,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 503904.21706368774,
+      "attack": 12801.63840648823,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

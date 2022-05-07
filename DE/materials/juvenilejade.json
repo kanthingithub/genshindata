@@ -1,0 +1,20 @@
+{
+  "name": "Junge Jade",
+  "description": "Eine kristalline Substanz, erhalten von einer alten Geo-Drachenechse. Ihr wohnt das Potenzial inne, ein Drache zu werden.\nDer stumpfe Kristall entsteht in den Körpern von Drachenechsen, die in den Bergen schlafen. Der Volksglaube in Liyue besagt, dass der Kristall über die Jahre immer stärker wird und schließlich das Herz einer Drachenechse ersetzt. Wenn dieser Punkt erreicht ist, wird die Drachenechsen zu einem wahren Drachen.",
+  "sortorder": 1798,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Beute von alten Geo-Drachenechsen ab Stufe 30"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Juvenile_Jade.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Juvenile_Jade.png",
+    "nameicon": "UI_ItemIcon_113016"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Juvenile_Jade"
+  },
+  "version": ""
+}

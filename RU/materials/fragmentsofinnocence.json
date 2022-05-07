@@ -1,0 +1,18 @@
+{
+  "name": "«Фрагменты невинности»",
+  "description": "Особый предмет пробуждения в событии «Истории Додоко».\nСтраницы, развеянные по ветру. Каждая из них наполнена детскими фантазиями, а размеры точно соответствуют «Историям Додоко». Невинность и чистая любовь, заключенные в них, никогда не померкнут, как и бесконечные приключения, о которых повествует книга. Эта захватывающая сказка будет вечно парить на крыльях по следам автора.",
+  "sortorder": 2295,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Материал пробуждения",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragments_of_Innocence.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Item_Fragments_of_Innocence.png",
+    "nameicon": "UI_ItemIcon_200105"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/\"Fragments_of_Innocence\""
+  },
+  "version": ""
+}

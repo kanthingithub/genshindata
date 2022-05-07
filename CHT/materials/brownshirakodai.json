@@ -1,0 +1,20 @@
+{
+  "name": "流紋褐蝶魚",
+  "description": "性情溫和，姿態優雅的蝶魚，擁有流線型的美麗背鰭，又有「水中王后」的美譽。\n體表環繞著大地色的紋路，脾氣也如同岩石般沉穩，缺點是沉穩過頭了，有時會像岩石一樣沉在水底不動，以致常讓買家懷疑買到了已經無力回天的老頭魚。",
+  "sortorder": 2027,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "魚",
+  "source": [
+    "釣魚獲得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Brown_Shirakodai.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/43/Item_Brown_Shirakodai.png",
+    "nameicon": "UI_ItemIcon_131013"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Brown_Shirakodai"
+  },
+  "version": ""
+}

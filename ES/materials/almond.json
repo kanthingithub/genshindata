@@ -1,0 +1,19 @@
+{
+  "name": "Almendra",
+  "description": "Un fruto seco con un sabor muy intenso que puede dar un toque diferente a cualquier plato.",
+  "sortorder": 2005,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente culinario",
+  "source": [
+    "Comprado en tiendas de Liyue"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Almond.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Item_Almond.png",
+    "nameicon": "UI_ItemIcon_100089"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Almond"
+  },
+  "version": ""
+}

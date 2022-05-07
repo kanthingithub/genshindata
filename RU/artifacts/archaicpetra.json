@@ -1,0 +1,45 @@
+{
+  "name": "Архаичный камень",
+  "rarity": [
+    "4",
+    "5"
+  ],
+  "2pc": "Увеличивает бонус Гео урона на 15%.",
+  "4pc": "Подобранный элементальный осколок, образованный реакцией Кристалл, увеличивает бонус элементального урона соответствующего элемента всех членов отряда на 35% в течение 10 сек. Одновременно можно иметь бонус урона только одного элемента.",
+  "flower": {
+    "name": "Цветок скальных трещин",
+    "relictype": "Цветок жизни",
+    "description": "Цветок, рождённый из минералов и камней в скальных трещинах. То, как его лепестки танцуют на ветру, заставляет его казаться живым."
+  },
+  "plume": {
+    "name": "Перо зубчатых пиков",
+    "relictype": "Перо смерти",
+    "description": "Окаменелое перо большого скального ястреба. Его базальтовый кончик иногда отдаёт прохладой росы."
+  },
+  "sands": {
+    "name": "Часы из прочного нефрита",
+    "relictype": "Пески времени",
+    "description": "Солнечные часы, вырезанные из цельного куска нефрита. Вырезанный на них узор безмолвно отсчитывает ход времени."
+  },
+  "goblet": {
+    "name": "Кубок из резного камня",
+    "relictype": "Кубок пространства",
+    "description": "Роскошный торжественный винный кубок, наполненный до краёв в давно минувшую эпоху."
+  },
+  "circlet": {
+    "name": "Маска из одинокого базальта",
+    "relictype": "Корона разума",
+    "description": "Торжественная маска, изысканно вырезанная из базальта. Её полые глаза равнодушно и холодно смотрят вдаль."
+  },
+  "images": {
+    "flower": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15014_4.png",
+    "plume": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15014_2.png",
+    "sands": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15014_5.png",
+    "goblet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15014_1.png",
+    "circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15014_3.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Archaic_Petra"
+  },
+  "version": "1.0"
+}

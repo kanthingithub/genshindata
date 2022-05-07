@@ -1,0 +1,20 @@
+{
+  "name": "Brillantbruchstück",
+  "description": "Material für den Figurenaufstieg.\n„Willkommen in dieser Welt!“",
+  "sortorder": 1819,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Belohnung für Abenteuerstufe"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Brilliant_Diamond_Fragment.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Brilliant_Diamond_Fragment.png",
+    "nameicon": "UI_ItemIcon_104102"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Brilliant_Diamond_Fragment"
+  },
+  "version": ""
+}

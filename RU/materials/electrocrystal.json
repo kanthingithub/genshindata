@@ -1,0 +1,20 @@
+{
+  "name": "Электро кристалл",
+  "description": "Заряженный электричеством кристалл, который продолжает тянуть электричество из окружающего воздуха. Если взять его в руку, то она начнёт неметь.",
+  "sortorder": 1970,
+  "category": "EXCHANGE",
+  "materialtype": "Материал",
+  "source": [
+    "У подножья скал",
+    "Мыс Веры"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Electro_Crystal.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/99/Item_Electro_Crystal.png",
+    "nameicon": "UI_ItemIcon_100054"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Electro_Crystal"
+  },
+  "version": ""
+}

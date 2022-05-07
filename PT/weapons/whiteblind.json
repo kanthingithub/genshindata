@@ -1,0 +1,307 @@
+{
+  "name": "Sombra Branca",
+  "description": "Uma espada exótica com uma lâmina que ficou sem corte. Chegou a Liyue pelas mãos de comerciantes estrangeiros. Incrivelmente poderosa nas mãos de alguém que sabe usá-la.",
+  "weapontype": "Espadão",
+  "rarity": "4",
+  "baseatk": 42,
+  "substat": "DEF",
+  "subvalue": "11.3",
+  "effectname": "Ponta Energética",
+  "effect": [
+    "Após acertar um Ataque Normal e um Ataque Carregado, o ATQ e a DEF aumentam [6%] por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.",
+    "Após acertar um Ataque Normal e um Ataque Carregado, o ATQ e a DEF aumentam [7.5%] por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.",
+    "Após acertar um Ataque Normal e um Ataque Carregado, o ATQ e a DEF aumentam [9%] por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.",
+    "Após acertar um Ataque Normal e um Ataque Carregado, o ATQ e a DEF aumentam [10.5%] por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.",
+    "Após acertar um Ataque Normal e um Ataque Carregado, o ATQ e a DEF aumentam [12%] por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s."
+  ],
+  "r1": [
+    "6%"
+  ],
+  "r2": [
+    "7.5%"
+  ],
+  "r3": [
+    "9%"
+  ],
+  "r4": [
+    "10.5%"
+  ],
+  "r5": [
+    "12%"
+  ],
+  "weaponmaterialtype": "Guyun",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 5000
+      },
+      {
+        "name": "Areia Brilhante de Guyun",
+        "count": 3
+      },
+      {
+        "name": "Faca de Caça",
+        "count": 3
+      },
+      {
+        "name": "Insígnia dos Ladrões de Tesouro",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 15000
+      },
+      {
+        "name": "Pedra Lustrosa de Guyun",
+        "count": 3
+      },
+      {
+        "name": "Faca de Caça",
+        "count": 12
+      },
+      {
+        "name": "Insígnia dos Ladrões de Tesouro",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Pedra Lustrosa de Guyun",
+        "count": 6
+      },
+      {
+        "name": "Faca Especial",
+        "count": 6
+      },
+      {
+        "name": "Insígnia do Corvo Prateado",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Relíquia de Guyun",
+        "count": 3
+      },
+      {
+        "name": "Faca Especial",
+        "count": 12
+      },
+      {
+        "name": "Insígnia do Corvo Prateado",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 35000
+      },
+      {
+        "name": "Relíquia de Guyun",
+        "count": 6
+      },
+      {
+        "name": "Faca Longa de Inspetor",
+        "count": 9
+      },
+      {
+        "name": "Insígnia de Corvo Dourado",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Corpo Divino de Guyun",
+        "count": 4
+      },
+      {
+        "name": "Faca Longa de Inspetor",
+        "count": 18
+      },
+      {
+        "name": "Insígnia de Corvo Dourado",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Weapon_Whiteblind.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Exotic.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Exotic_Awaken.png",
+    "nameicon": "UI_EquipIcon_Claymore_Exotic",
+    "namegacha": "UI_Gacha_EquipIcon_Claymore_Exotic",
+    "nameawakenicon": "UI_EquipIcon_Claymore_Exotic_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Whiteblind"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 42.4010009765625,
+      "specialized": 0.11259999871253967
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 56.39333311848168,
+      "specialized": 0.13084119184618004
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 73.9049459961243,
+      "specialized": 0.15347380221838947
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 91.41655381917371,
+      "specialized": 0.1762190044281482
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 108.92817175140954,
+      "specialized": 0.19896419321494108
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 134.8281713699398,
+      "specialized": 0.19896419321494108
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 152.33978930217563,
+      "specialized": 0.2217093954246998
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 169.80899919744115,
+      "specialized": 0.24445459763445854
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 187.32060702049057,
+      "specialized": 0.2671997864212514
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 204.83221484354,
+      "specialized": 0.289945002053976
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 230.83221675088862,
+      "specialized": 0.289945002053976
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 248.34383468312444,
+      "specialized": 0.3126901908407689
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 265.85545261536026,
+      "specialized": 0.33543540647349346
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 291.75545414123917,
+      "specialized": 0.33543540647349346
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 309.267072073475,
+      "specialized": 0.35818059526028634
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 326.7786900057108,
+      "specialized": 0.3809257840470792
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 352.6786839021952,
+      "specialized": 0.3809257840470792
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 370.1478836882743,
+      "specialized": 0.4036709996798038
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 387.6595016205101,
+      "specialized": 0.4263035966290474
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 413.6595016205101,
+      "specialized": 0.4263035966290474
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 431.17111955274595,
+      "specialized": 0.44904878541584026
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 448.68271726660896,
+      "specialized": 0.47179400104856484
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 474.5827264218824,
+      "specialized": 0.47179400104856484
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 492.0943443541182,
+      "specialized": 0.4945392166812894
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 509.60596228635404,
+      "specialized": 0.5172843786221506
+    }
+  },
+  "version": "1.0"
+}

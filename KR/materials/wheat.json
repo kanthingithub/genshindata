@@ -1,0 +1,20 @@
+{
+  "name": "밀",
+  "description": "황금빛의 이삭, 사람들에게 희망을 안겨준다. 물과 불의 단련을 거쳐야만 최종 형태로 변할 수 있다",
+  "sortorder": 1983,
+  "category": "EXCHANGE",
+  "materialtype": "식자재",
+  "source": [
+    "야외 채집",
+    "잡화점 구매"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wheat.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Item_Wheat.png",
+    "nameicon": "UI_ItemIcon_100017"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Wheat"
+  },
+  "version": ""
+}

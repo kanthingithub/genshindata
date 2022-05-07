@@ -1,0 +1,22 @@
+{
+  "name": "Mảnh Ngọc Băng Vụn",
+  "description": "Nguyên Liệu Đột Phá Nhân Vật",
+  "sortorder": 1842,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Cây Cấp Đông rơi ra",
+    "Băng Nguyên Bản rơi",
+    "Đổi trong Cửa Hàng Lưu Niệm"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shivada_Jade_Sliver.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Item_Shivada_Jade_Sliver.png",
+    "nameicon": "UI_ItemIcon_104161"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shivada_Jade_Sliver"
+  },
+  "version": ""
+}

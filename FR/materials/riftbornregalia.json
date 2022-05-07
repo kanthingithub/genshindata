@@ -1,0 +1,20 @@
+{
+  "name": "Régalia de faille",
+  "description": "Une corne brisée obtenue après avoir vaincu le loup alpha. Cela dit, il n'aurait dû rien rester après votre chasse.\nMême un seigneur des failles n'est rien en comparaison avec des monstres plus puissants.\nL'« Or » a produit en masse ce genre de meutes de canidés malformés comme par accident, un peu comme des gribouillis ratés sur des vieux morceaux de papier, et les cornes de ce dernier représentent son autorité à commander sa sombre meute à dissoudre l'espace lui-même.",
+  "sortorder": 1812,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Butin de Loup alpha doré (Niv.30+)"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_113030",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Riftborn_Regalia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/Item_Riftborn_Regalia.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Riftborn_Regalia"
+  },
+  "version": ""
+}

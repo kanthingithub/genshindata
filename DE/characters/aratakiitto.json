@@ -1,0 +1,911 @@
+{
+  "name": "Arataki Itto",
+  "fullname": "Arataki Itto",
+  "title": "Held von Hanamizaka",
+  "description": "Der erste und größte Anführer der Arataki-Bande, berühmt in ganz Hanamizaka im Gebiet von Inazuma ... Wie bitte? Du hast noch nie von der Arataki-Bande gehört? Ernsthaft?",
+  "rarity": "5",
+  "element": "Geo",
+  "weapontype": "Zweihänder",
+  "substat": "KT",
+  "gender": "Männlich",
+  "body": "MALE",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "Arataki-Bande",
+  "birthdaymmdd": "6/1",
+  "birthday": "1. Juni",
+  "constellation": "Taurus Iracundus",
+  "cv": {
+    "english": "Max Mittelman",
+    "chinese": "刘照坤",
+    "japanese": "西川貴教",
+    "korean": "Song Jun-seok"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Prithiva-Topas-Splitter",
+        "count": 1
+      },
+      {
+        "name": "Onikabuto",
+        "count": 3
+      },
+      {
+        "name": "Schleimabsonderung",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Prithiva-Topas-Bruchstück",
+        "count": 3
+      },
+      {
+        "name": "Gehörn des Wolfskönigs",
+        "count": 2
+      },
+      {
+        "name": "Onikabuto",
+        "count": 10
+      },
+      {
+        "name": "Schleimabsonderung",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Prithiva-Topas-Bruchstück",
+        "count": 6
+      },
+      {
+        "name": "Gehörn des Wolfskönigs",
+        "count": 4
+      },
+      {
+        "name": "Onikabuto",
+        "count": 20
+      },
+      {
+        "name": "Schleimkondensat",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Prithiva-Topas-Brocken",
+        "count": 3
+      },
+      {
+        "name": "Gehörn des Wolfskönigs",
+        "count": 8
+      },
+      {
+        "name": "Onikabuto",
+        "count": 30
+      },
+      {
+        "name": "Schleimkondensat",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Prithiva-Topas-Brocken",
+        "count": 6
+      },
+      {
+        "name": "Gehörn des Wolfskönigs",
+        "count": 12
+      },
+      {
+        "name": "Onikabuto",
+        "count": 45
+      },
+      {
+        "name": "Schleimkonzentrat",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Prithiva-Topas",
+        "count": 6
+      },
+      {
+        "name": "Gehörn des Wolfskönigs",
+        "count": 20
+      },
+      {
+        "name": "Onikabuto",
+        "count": 60
+      },
+      {
+        "name": "Schleimkonzentrat",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_AvatarIcon_Itto",
+    "nameiconcard": "UI_AvatarIcon_Itto_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Itto",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Itto",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Itto.png",
+    "namesideicon": "UI_AvatarIcon_Side_Itto",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Itto.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211203/2021120311564937286.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211203/2021120311564391237.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Arataki_Itto"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1000.9860229492188,
+      "attack": 17.68899917602539,
+      "defense": 74.66783905029297,
+      "specialized": 0.05000000074505806
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2596.5578447194275,
+      "attack": 45.88526565078155,
+      "defense": 193.6883820445928,
+      "specialized": 0.05000000074505806
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3454.81284960224,
+      "attack": 61.050875964197076,
+      "defense": 257.71078194693655,
+      "specialized": 0.05000000074505806
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5169.501966100361,
+      "attack": 91.35213259864031,
+      "defense": 385.616794655034,
+      "specialized": 0.05000000074505806
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5779.314710240986,
+      "attack": 102.12769774604021,
+      "defense": 431.10639579028793,
+      "specialized": 0.09800000116229057
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6649.171522180812,
+      "attack": 117.49943728774633,
+      "defense": 495.9927447918053,
+      "specialized": 0.09800000116229057
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7462.255140344874,
+      "attack": 131.8668555769309,
+      "defense": 556.6455386760827,
+      "specialized": 0.1460000015795231
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8341.120650842146,
+      "attack": 147.39779300722512,
+      "defense": 622.2038851266334,
+      "specialized": 0.1460000015795231
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8950.93339498277,
+      "attack": 158.17335910829934,
+      "defense": 667.6934938912818,
+      "specialized": 0.1460000015795231
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9837.807167872583,
+      "attack": 173.84581514486308,
+      "defense": 733.8492109680847,
+      "specialized": 0.1460000015795231
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10447.619912013208,
+      "attack": 184.6213812459373,
+      "defense": 779.3388197327331,
+      "specialized": 0.193999994546175
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11344.5032969327,
+      "attack": 200.4707228881798,
+      "defense": 846.2411966857508,
+      "specialized": 0.193999994546175
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11954.31628521395,
+      "attack": 211.24628898925403,
+      "defense": 891.7307901916101,
+      "specialized": 0.2420000024139881
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12858.207019053749,
+      "attack": 227.2194615206754,
+      "defense": 959.1558753436984,
+      "specialized": 0.2420000024139881
+    }
+  },
+  "version": "2.3",
+  "constellations": {
+    "c1": {
+      "name": "Hör gut zu!",
+      "effect": "Verleiht Arataki Itto nach Anwendung von **Schrecklicher Oni-König – Itto bricht vor!** 2 Stapelungen des Effekts „superstarke Superkraft“. Verleiht Arataki Itto 1 s später 1,5 s lang alle 0,5 s jeweils 1 Stapelung des Effekts „superstarke Superkraft“."
+    },
+    "c2": {
+      "name": "Sieh gut her!",
+      "effect": "Verkürzt die Abklingzeit von **Schrecklicher Oni-König – Itto bricht vor!** nach dem Auslösen dieser Fähigkeit für jede Figur in der Truppe, die die Geo-Kraft beherrscht, um 1,5 s und stellt Arataki Itto 6 Punkte Elementarenergie wieder her.\nVerkürzt die Abklingzeit auf diese Weise um bis zu 4,5 s und stellt bis zu 18 Punkte Elementarenergie wieder her."
+    },
+    "c3": {
+      "name": "Bulle im Anmarsch",
+      "effect": "Erhöht die Stufe der Fähigkeit **Masatsu Zetsugi – Akaushi-Wurf!** um 3.\nHöchststufe 15."
+    },
+    "c4": {
+      "name": "Brot und Wasser",
+      "effect": "Erhöht nach dem Ende des durch **Schrecklicher Oni-König – Itto bricht vor!** entstandenen Zustands „wütender Oni-König“ die VTD aller Truppenmitglieder in der Nähe 10 s lang um 20 % und ihren ANG um 20 %."
+    },
+    "c5": {
+      "name": "Jahrzente des Ruhms in Hanamizaka",
+      "effect": "Erhöht die Stufe der Fähigkeit **Schrecklicher Oni-König – Itto bricht vor!** um 3.\nHöchststufe 15."
+    },
+    "c6": {
+      "name": "Arataki Itto, höchstpersönlich!",
+      "effect": "Erhöht den KSCH von heftigen Schlägen von Arataki Itto um 70 %. Verbraucht außerdem bei Anwendung von „Arataki Kesagiri“ mit einer Wahrscheinlichkeit von 50 % keine „superstarke Superkraft“."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Itto_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Itto_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_04.png",
+      "constellation": "Eff_UI_Talent_Itto"
+    },
+    "version": "2.3"
+  },
+  "talent": {
+    "name": "Arataki Itto",
+    "combat1": {
+      "name": "Standardangriff: Lärmende Legende",
+      "info": "**Standardangriff**\nFührt bis zu 4 Schwünge mit dem Schwert hintereinander aus.\nGibt Itto beim Treffen von Gegnern mit den Angriffen Phase 2 und Phase 4 1 bzw. 2 Stapelungen des Effekts „superstarke Superkraft“.\n5-fach stapelbar. Erneuert die Wirkungsdauer der superstarken Superkraft bei jedem Auslösen.\n\nSetzt die Kombozahl des Standardangriffs darüber hinaus kurze Zeit nach Anwendung der Elementarfähigkeit „Masatsu Zetsugi – Akaushi-Wurf!“ oder nach dem Rennen nicht zurück.\n\n**Heftiger Schlag**\nFührt, wenn „superstarke Superkraft“ vorhanden ist, nach dem Gedrückthalten zum Ausführen eines heftiges Schlags „Arataki Kesagiri“ aus, wofür keine Ausdauer verbraucht wird. Bei jedem Angriff mit Arataki Kesagiri wird eine Stapelung superstarke Superkraft verbraucht. Beim Verbrauchen der letzten Stapelung wird ein besonders starker Schlag ausgelöst.\nOhne superstarke Superkraft wird Ausdauer verbraucht, um einen einzelnen Saichimonji-Hieb auszulösen.\n\n**Angriff aus dem Fall**\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "attributes": [
+        {
+          "name": "SCH Phase 1",
+          "parameters": [
+            "79.23%",
+            "85.68%",
+            "92.13%",
+            "101.34%",
+            "107.79%",
+            "115.16%",
+            "125.30%",
+            "135.43%",
+            "145.57%",
+            "156.62%",
+            "169.29%",
+            "184.19%",
+            "199.08%",
+            "213.98%",
+            "230.23%"
+          ]
+        },
+        {
+          "name": "SCH Phase 2",
+          "parameters": [
+            "76.37%",
+            "82.58%",
+            "88.80%",
+            "97.68%",
+            "103.90%",
+            "111.00%",
+            "120.77%",
+            "130.54%",
+            "140.30%",
+            "150.96%",
+            "163.17%",
+            "177.53%",
+            "191.89%",
+            "206.25%",
+            "221.91%"
+          ]
+        },
+        {
+          "name": "SCH Phase 3",
+          "parameters": [
+            "91.64%",
+            "99.10%",
+            "106.56%",
+            "117.22%",
+            "124.68%",
+            "133.20%",
+            "144.92%",
+            "156.64%",
+            "168.36%",
+            "181.15%",
+            "195.80%",
+            "213.03%",
+            "230.27%",
+            "247.50%",
+            "266.29%"
+          ]
+        },
+        {
+          "name": "SCH Phase 4",
+          "parameters": [
+            "117.22%",
+            "126.77%",
+            "136.31%",
+            "149.94%",
+            "159.48%",
+            "170.39%",
+            "185.38%",
+            "200.37%",
+            "215.37%",
+            "231.72%",
+            "250.47%",
+            "272.51%",
+            "294.55%",
+            "316.59%",
+            "340.63%"
+          ]
+        },
+        {
+          "name": "Kombo-SCH von Arataki Kesagiri",
+          "parameters": [
+            "91.16%",
+            "98.58%",
+            "106.00%",
+            "116.60%",
+            "124.02%",
+            "132.50%",
+            "144.16%",
+            "155.82%",
+            "167.48%",
+            "180.20%",
+            "194.77%",
+            "211.92%",
+            "229.06%",
+            "246.20%",
+            "264.89%"
+          ]
+        },
+        {
+          "name": "End-SCH von Arataki Kesagiri",
+          "parameters": [
+            "190.92%",
+            "206.46%",
+            "222.00%",
+            "244.20%",
+            "259.74%",
+            "277.50%",
+            "301.92%",
+            "326.34%",
+            "350.76%",
+            "377.40%",
+            "407.92%",
+            "443.82%",
+            "479.72%",
+            "515.62%",
+            "554.78%"
+          ]
+        },
+        {
+          "name": "Dauer der superstarken Superkraft",
+          "parameters": [
+            "60 s",
+            "60 s",
+            "60 s",
+            "60 s",
+            "60 s",
+            "60 s",
+            "60 s",
+            "60 s",
+            "60 s",
+            "60 s",
+            "60 s",
+            "60 s",
+            "60 s",
+            "60 s",
+            "60 s"
+          ]
+        },
+        {
+          "name": "SCH des Saichimonji-Hiebs",
+          "parameters": [
+            "90.47%",
+            "97.84%",
+            "105.20%",
+            "115.72%",
+            "123.08%",
+            "131.50%",
+            "143.07%",
+            "154.64%",
+            "166.22%",
+            "178.84%",
+            "193.31%",
+            "210.32%",
+            "227.33%",
+            "244.34%",
+            "262.89%"
+          ]
+        },
+        {
+          "name": "Ausdauerverbrauch für Saichimonji-Hiebe",
+          "parameters": [
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen",
+          "parameters": [
+            "81.83%",
+            "88.49%",
+            "95.16%",
+            "104.67%",
+            "111.33%",
+            "118.94%",
+            "129.41%",
+            "139.88%",
+            "150.35%",
+            "161.76%",
+            "173.18%",
+            "184.60%",
+            "196.02%",
+            "207.44%",
+            "218.86%"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen aus niedriger/großer Höhe",
+          "parameters": [
+            "163.63%/204.39%",
+            "176.95%/221.02%",
+            "190.27%/237.66%",
+            "209.30%/261.42%",
+            "222.62%/278.06%",
+            "237.84%/297.07%",
+            "258.77%/323.21%",
+            "279.70%/349.36%",
+            "300.63%/375.50%",
+            "323.46%/404.02%",
+            "346.29%/432.54%",
+            "369.12%/461.06%",
+            "391.96%/489.57%",
+            "414.79%/518.09%",
+            "437.62%/546.61%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Masatsu Zetsugi – Akaushi-Wurf!",
+      "info": "Schleudert Ushi, einen jungen Akaushi-Bullen und ein loses Mitglied der Arataki-Bande, mit hoher Geschwindigkeit auf Gegner und fügt getroffenen Gegnern Geo-Schaden zu! Verleiht Arataki Itto, wenn Ushi Gegner trifft, 1 Stapelung des Effekts „superstarke Superkraft“.\n\nUshi bleibt nach dem Wurf auf dem Feld und bietet folgende Unterstützung:\n· Verspottet Gegner in der Umgebung fortlaufend und zieht ihre Angriffe auf sich.\n· Beständigkeit hängt von Arataki Ittos max. LP ab.\n· Gibt Arataki Itto beim Erleiden von Schaden 1 Stapelung des Effekts „superstarke Superkraft“. Alle 2 s 1 Stapelung auf diese Weise möglich.\n· Flieht bei aufgebrauchter Beständigkeit oder nach Ablaufen der Wirkungsdauer und gibt Arataki Itto dabei 1 Stapelung des Effekts „superstarke Superkraft“.\n\n**Gedrückt halten**\nAnpassung der Wurfrichtung.\n\nUshi gilt als Geo-Objekt. Zu einem Zeitpunkt kann nur ein von Arataki Itto selbst beschworener Ushi existieren.",
+      "description": "Der Name dieser Technik leitet sich von „Onibudou“， einem Roman von Junkichi, ab. Es würde jedoch wahrscheinlich eine Urheberrechtsverletzung darstellen, sie „Onisatsu Zetsugi“ zu nennen, mal ganz davon abgesehen, dass Itto selbst ein Oni ist.",
+      "attributes": [
+        {
+          "name": "Fähigkeits-SCH",
+          "parameters": [
+            "307.20%",
+            "330.24%",
+            "353.28%",
+            "384.00%",
+            "407.04%",
+            "430.08%",
+            "460.80%",
+            "491.52%",
+            "522.24%",
+            "552.96%",
+            "583.68%",
+            "614.40%",
+            "652.80%",
+            "691.20%",
+            "729.60%"
+          ]
+        },
+        {
+          "name": "Erhaltene LP",
+          "parameters": [
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%"
+          ]
+        },
+        {
+          "name": "Dauer",
+          "parameters": [
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s"
+          ]
+        },
+        {
+          "name": "Abklingzeit",
+          "parameters": [
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Schrecklicher Oni-König – Itto bricht vor!",
+      "info": "Es wird Zeit, die Macht von Itto aus der Arataki-Bande zur Schau zu stellen! Bringt Ittos inneren „wütenden Oni-König“ hervor und verwendet dessen Kanabou zum Kampf.\nMerkmale:\n· Verursacht mit Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall Geo-Schaden, wobei diese Elementarumwandlung nicht von anderen Elementen überdeckt werden kann.\n· Erhöht die Angriffs-GSW von Arataki Ittos Standardangriff und erhöht seinen ANG basierend auf seiner VTD.\n· Verleiht Arataki Itto selbst beim Treffen von Gegnern mit den Angriffen von Phase 1 und Phase 3 1 Stapelung des Effekts „superstarke Superkraft“.\n· Verringert Arataki Ittos WDS gegen alle Elemente sowie seinen physischen WDS um 20 %.\n\nDer Zustand „wütender Oni-König“ erlischt, wenn Arataki Itto ausgewechselt wird.",
+      "description": "Dies ist Ittos größte ultimative Supertechnik, zumindest behauptet er das. Für Arataki Itto bringt es nichts, andere nachzuahmen, um stärker zu werden, weil er ja schon der stärkste und schrecklichste Oni überhaupt ist.\nShouta findet ihn echt klasse.",
+      "attributes": [
+        {
+          "name": "ANG-Bonus",
+          "parameters": [
+            "57.60% VTD",
+            "61.92% VTD",
+            "66.24% VTD",
+            "72.00% VTD",
+            "76.32% VTD",
+            "80.64% VTD",
+            "86.40% VTD",
+            "92.16% VTD",
+            "97.92% VTD",
+            "103.68% VTD",
+            "109.44% VTD",
+            "115.20% VTD",
+            "122.40% VTD",
+            "129.60% VTD",
+            "136.80% VTD"
+          ]
+        },
+        {
+          "name": "Angriffs-GSW-Bonus",
+          "parameters": [
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%"
+          ]
+        },
+        {
+          "name": "Dauer",
+          "parameters": [
+            "11 s",
+            "11 s",
+            "11 s",
+            "11 s",
+            "11 s",
+            "11 s",
+            "11 s",
+            "11 s",
+            "11 s",
+            "11 s",
+            "11 s",
+            "11 s",
+            "11 s",
+            "11 s",
+            "11 s"
+          ]
+        },
+        {
+          "name": "Abklingzeit",
+          "parameters": [
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s"
+          ]
+        },
+        {
+          "name": "Elementarenergie",
+          "parameters": [
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Arataki Ichiban",
+      "info": "Verleiht Arataki Itto bei Anwendung aufeinanderfolgender Angriffe mit „Arataki Kesagiri“ folgende Effekte:\n· Jeder Hieb erhöht die Angriffs-GSW des nächsten Hiebs um 10 %, insgesamt auf diese Weise um bis zu 30 %.\n· Erhöht den Unterbrechungs-WDS.\n\nDiese Effekte erlöschen beim Ende der aufeinanderfolgenden Angriffe."
+    },
+    "passive2": {
+      "name": "Blut des roten Oni",
+      "info": "Erhöht den mit „Arataki Kesagiri“ verursachten Schaden basierend auf 35 % von Arataki Ittos VTD."
+    },
+    "passive3": {
+      "name": "Holzspalter",
+      "info": "Erhält beim Sammeln von Holz durch Angriffe auf Bäume mit eigenen Figuren in der Truppe mit einer Wahrscheinlichkeit von 25 % zusätzliches Holz."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Lehren der „Eleganz“",
+          "count": 3
+        },
+        {
+          "name": "Schleimabsonderung",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Anleitung zur „Eleganz“",
+          "count": 2
+        },
+        {
+          "name": "Schleimkondensat",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Anleitung zur „Eleganz“",
+          "count": 4
+        },
+        {
+          "name": "Schleimkondensat",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Anleitung zur „Eleganz“",
+          "count": 6
+        },
+        {
+          "name": "Schleimkondensat",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Anleitung zur „Eleganz“",
+          "count": 9
+        },
+        {
+          "name": "Schleimkondensat",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie der „Eleganz“",
+          "count": 4
+        },
+        {
+          "name": "Schleimkonzentrat",
+          "count": 4
+        },
+        {
+          "name": "Ascheherz",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie der „Eleganz“",
+          "count": 6
+        },
+        {
+          "name": "Schleimkonzentrat",
+          "count": 6
+        },
+        {
+          "name": "Ascheherz",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie der „Eleganz“",
+          "count": 12
+        },
+        {
+          "name": "Schleimkonzentrat",
+          "count": 9
+        },
+        {
+          "name": "Ascheherz",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie der „Eleganz“",
+          "count": 16
+        },
+        {
+          "name": "Schleimkonzentrat",
+          "count": 12
+        },
+        {
+          "name": "Ascheherz",
+          "count": 2
+        },
+        {
+          "name": "Krone der Weisheit",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Itto_01",
+      "combat3": "Skill_E_Itto_01_HD",
+      "passive1": "UI_Talent_S_Itto_05",
+      "passive2": "UI_Talent_S_Itto_06",
+      "passive3": "UI_Talent_S_Itto_07"
+    },
+    "version": "2.3"
+  }
+}

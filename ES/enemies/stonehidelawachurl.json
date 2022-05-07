@@ -1,0 +1,153 @@
+{
+  "name": "Lawachurl Acorazado",
+  "specialname": "Lawachurl Sello de Roca",
+  "enemytype": "ELITE",
+  "category": "Hilichurls",
+  "description": "Un misterioso rey de los Hilichurls que deambula por las montañas rocosas.\nSe trata de una criatura de gran tamaño a la que los demás Hilichurls llaman Lawa. El elemento Geo presente en el entorno se fusionó con su cuerpo, y su carne y su piel parecen hechas de roca.",
+  "investigation": {
+    "name": "Lawachurl",
+    "category": "Élites",
+    "description": "Su cuerpo acumula una gran cantidad de elementos. Es un Mitachurl que experimentó una mutación y se volvió más corpulento, más fuerte y más fiero.\\nLos Hilichurls no adoran a ninguna deidad y no tienen ningún orden. Quien sea el luchador más fuerte y más feroz entre ellos se considera apto para convertirse en su rey."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Cuerno pesado",
+      "count": 5.2526
+    },
+    {
+      "name": "Cuerno de bronce negro",
+      "count": 1.4006
+    },
+    {
+      "name": "Cuerno con cristal negro",
+      "count": 0.3502
+    },
+    {
+      "name": "Máscara dañada",
+      "count": 0.5253
+    },
+    {
+      "name": "Máscara sucia",
+      "count": 0.1401
+    },
+    {
+      "name": "Máscara amenazante",
+      "count": 0.035
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "3"
+    },
+    {
+      "name": "Exiliado",
+      "rarity": "3"
+    },
+    {
+      "name": "Médica Itinerante",
+      "rarity": "3"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "4"
+    },
+    {
+      "name": "Exiliado",
+      "rarity": "4"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Brute_Rock_None"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 656.2529383627698,
+      "attack": 152.2663863116577,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 2579.4364822493226,
+      "attack": 406.8166587971864,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 7966.800011541462,
+      "attack": 1003.4998039648926,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 13255.20293965016,
+      "attack": 1639.0596025083796,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 24253.645171341486,
+      "attack": 2450.4833108624443,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 44968.35830332339,
+      "attack": 3778.963487027271,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 75431.29331801087,
+      "attack": 5321.546282113646,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 117467.75373650808,
+      "attack": 7346.143133227946,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 167091.54786452092,
+      "attack": 9451.590193737298,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 219186.78009680472,
+      "attack": 11418.823591017863,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 330886.09386089444,
+      "attack": 14773.25319093978,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 481520.82349524647,
+      "attack": 15066.582932085032,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 647876.8505104557,
+      "attack": 15361.966398832854,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

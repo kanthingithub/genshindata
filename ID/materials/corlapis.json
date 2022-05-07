@@ -1,0 +1,20 @@
+{
+  "name": "Cor Lapis",
+  "description": "Kristal berharga yang terbuat dari elemen Geo murni dan biasanya tumbuh bersama dengan mineral lain. Juga dikenal sebagai \"Cor Petrae\".",
+  "sortorder": 2044,
+  "category": "EXCHANGE",
+  "materialtype": "Produk khas Liyue",
+  "source": [
+    "Ditemukan di bawah tebing di Liyue",
+    "Rekomendasi: Ditemukan di Mt. Hulao"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cor_Lapis.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Item_Cor_Lapis.png",
+    "nameicon": "UI_ItemIcon_100058"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cor_Lapis"
+  },
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Đuôi Rồng Đất",
+  "description": "Đuôi Rồng Đất có dược tính rất cao, có thể khiến da người cứng cáp, vị rất đắng.",
+  "sortorder": 1974,
+  "category": "EXCHANGE",
+  "materialtype": "Nguyên Liệu",
+  "source": [
+    "Bắt Rồng Đất để thu thập"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lizard_Tail.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Lizard_Tail.png",
+    "nameicon": "UI_ItemIcon_100083"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lizard_Tail"
+  },
+  "version": ""
+}

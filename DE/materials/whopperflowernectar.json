@@ -1,0 +1,21 @@
+{
+  "name": "Vaniloqua-Nektar",
+  "description": "Aus Staubblättern entnommener Nektar mit geringen Spuren von Elementen.\nDer Geschmack erinnert stark an den von Zuckerblumen.",
+  "sortorder": 1756,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Beute von Vaniloquen",
+    "Mit Sternenstaub kaufen"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Whopperflower_Nectar.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Item_Whopperflower_Nectar.png",
+    "nameicon": "UI_ItemIcon_112038"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Whopperflower_Nectar"
+  },
+  "version": ""
+}

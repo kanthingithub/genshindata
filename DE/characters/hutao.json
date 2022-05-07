@@ -1,0 +1,954 @@
+{
+  "name": "Hu Tao",
+  "fullname": "Hu Tao",
+  "title": "Pflaumenduft bei Tauwetter",
+  "description": "77. Direktorin des Bestattungsunternehmens Wangsheng in Liyue. Sie übernahm die Leitung bereits in sehr jungen Jahren",
+  "rarity": "5",
+  "element": "Pyro",
+  "weapontype": "Stangenwaffe",
+  "substat": "KSCH",
+  "gender": "Weiblich",
+  "body": "GIRL",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Bestattungsunternehmen Wangsheng",
+  "birthdaymmdd": "7/15",
+  "birthday": "15. Juli",
+  "constellation": "Papilio Charontis",
+  "cv": {
+    "english": "Brianna Knickerbocker",
+    "chinese": "陶典",
+    "japanese": "高橋李依",
+    "korean": "Kim Ha-ru"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Agnidus-Achat-Splitter",
+        "count": 1
+      },
+      {
+        "name": "Seidenblume",
+        "count": 3
+      },
+      {
+        "name": "Vaniloqua-Nektar",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Agnidus-Achat-Bruchstück",
+        "count": 3
+      },
+      {
+        "name": "Junge Jade",
+        "count": 2
+      },
+      {
+        "name": "Seidenblume",
+        "count": 10
+      },
+      {
+        "name": "Vaniloqua-Nektar",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Agnidus-Achat-Bruchstück",
+        "count": 6
+      },
+      {
+        "name": "Junge Jade",
+        "count": 4
+      },
+      {
+        "name": "Seidenblume",
+        "count": 20
+      },
+      {
+        "name": "Leuchtender Nektar",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Agnidus-Achat-Brocken",
+        "count": 3
+      },
+      {
+        "name": "Junge Jade",
+        "count": 8
+      },
+      {
+        "name": "Seidenblume",
+        "count": 30
+      },
+      {
+        "name": "Leuchtender Nektar",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Agnidus-Achat-Brocken",
+        "count": 6
+      },
+      {
+        "name": "Junge Jade",
+        "count": 12
+      },
+      {
+        "name": "Seidenblume",
+        "count": 45
+      },
+      {
+        "name": "Elementarnektar",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Agnidus-Achat",
+        "count": 6
+      },
+      {
+        "name": "Junge Jade",
+        "count": 20
+      },
+      {
+        "name": "Seidenblume",
+        "count": 60
+      },
+      {
+        "name": "Elementarnektar",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Character_Hu_Tao_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Character_Hu_Tao_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Hutao.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210224/2021022411345864283.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210224/2021022411361082980.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/e160b5fac097d628f5b2227fd507373b.png",
+    "nameicon": "UI_AvatarIcon_Hutao",
+    "nameiconcard": "UI_AvatarIcon_Hutao_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Hutao",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Hutao",
+    "namesideicon": "UI_AvatarIcon_Side_Hutao"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Hu_Tao"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1210.7164306640625,
+      "attack": 8.285900115966797,
+      "defense": 68.2061996459961,
+      "specialized": 0.5
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 3140.5985435332695,
+      "attack": 21.493625738435185,
+      "defense": 176.92688877664295,
+      "specialized": 0.5
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 4178.678377517645,
+      "attack": 28.59751663427869,
+      "defense": 235.40888722024647,
+      "specialized": 0.5
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 6252.635694832192,
+      "attack": 42.79126402285692,
+      "defense": 352.24611124672083,
+      "specialized": 0.5
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 6990.218702644692,
+      "attack": 47.83876606371996,
+      "defense": 393.7991164652267,
+      "specialized": 0.596000000834465
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 8042.331230088079,
+      "attack": 55.0392129168049,
+      "defense": 453.07030109555126,
+      "specialized": 0.596000000834465
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 9025.775321884954,
+      "attack": 61.769213412715544,
+      "defense": 508.47429279477,
+      "specialized": 0.69200000166893
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 10088.784084752551,
+      "attack": 69.04423191286696,
+      "defense": 568.3593212533524,
+      "specialized": 0.69200000166893
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 10826.367092565051,
+      "attack": 74.09173443056716,
+      "defense": 609.9123302865555,
+      "specialized": 0.69200000166893
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 11899.062039492594,
+      "attack": 81.43304322924996,
+      "defense": 670.3430338405342,
+      "specialized": 0.69200000166893
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 12636.645047305094,
+      "attack": 86.48054574695016,
+      "defense": 711.8960276149483,
+      "specialized": 0.7879999876022339
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 13721.446858335694,
+      "attack": 93.9047114922596,
+      "defense": 773.0087762532967,
+      "specialized": 0.7879999876022339
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 14459.029866148194,
+      "attack": 98.95221210261116,
+      "defense": 814.5617700277107,
+      "specialized": 0.8840000033378601
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 15552.307232559891,
+      "attack": 106.43438284689182,
+      "defense": 876.1519925053435,
+      "specialized": 0.8840000033378601
+    }
+  },
+  "version": "1.3",
+  "constellations": {
+    "c1": {
+      "name": "Roter Flug",
+      "effect": "Verbraucht im Zustand **Paramita-Schmetterlingstanz** von **Geleit ins Jenseits** keine Ausdauer für Hu Taos heftige Schläge."
+    },
+    "c2": {
+      "name": "Wetterwechsel",
+      "effect": "Erhöht den mit **Blutblüten** verursachten Schaden um 10 % von Hu Taos max. LP beim Auslösen des Effekts.\nFügt mit **Geheime Kunst der Besänftigung** getroffenen Gegnern den Effekt **Blutblüten** zu."
+    },
+    "c3": {
+      "name": "Aderlass",
+      "effect": "Erhöht die Stufe der Fähigkeit **Geleit ins Jenseits** um 3.\nHöchststufe 15."
+    },
+    "c4": {
+      "name": "Bettung zur ewigen Ruhe",
+      "effect": "Erhöht beim Besiegen von durch Hu Tao selbst ausgelöste **Blutblüten** betroffener Gegner die KT aller Truppenmitglieder (außer Hu Tao selbst) in der Nähe 15 s lang um 12 %."
+    },
+    "c5": {
+      "name": "Blumenräucherwerk",
+      "effect": "Erhöht die Stufe der Fähigkeit **Geheime Kunst der Besänftigung** um 3.\nHöchststufe 15."
+    },
+    "c6": {
+      "name": "Schmetterlingsduft",
+      "effect": "Löst folgenden Effekt aus, wenn Hu Taos LP unter 25 % fallen oder sie Schaden erleidet, der sie besiegen würde:\nVermeidet, dass dieser Schaden Hu Tao besiegt, und erhöht Hu Taos WDS gegen alle Elemente sowie ihren physischen WDS 10 s lang um 200 % und ihre KT um 100 %. Erhöht ihren Unterbrechungs-WDS außerdem enorm.\nDieser Effekt wird automatisch ausgelöst, wenn Hu Tao nur noch 1 LP hat.\n60 s Abklingzeit."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Hutao_03.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Hutao_01.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Hutao_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Hutao_02.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Hutao_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Hutao_04.png",
+      "constellation": "Eff_UI_Talent_Hutao"
+    },
+    "version": "1.3"
+  },
+  "talent": {
+    "name": "Hu Tao",
+    "combat1": {
+      "name": "Standardangriff: Geheime Wangsheng-Lanzentechnik",
+      "info": "**Standardangriff**\nFührt bis zu 6 Lanzenstiche hintereinander aus.\n\n**Heftiger Schlag**\nVerbraucht eine gewisse Menge Ausdauer, sticht geschwind nach vorn und fügt den Gegnern in der Bahn Schaden zu.\n\n**Angriff aus dem Fall**\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "attributes": [
+        {
+          "name": "SCH Phase 1",
+          "parameters": [
+            "46.89%",
+            "50.08%",
+            "53.28%",
+            "57.54%",
+            "60.74%",
+            "64.47%",
+            "69.26%",
+            "74.06%",
+            "78.85%",
+            "83.65%",
+            "88.44%",
+            "93.24%",
+            "98.04%",
+            "102.83%",
+            "107.63%"
+          ]
+        },
+        {
+          "name": "SCH Phase 2",
+          "parameters": [
+            "48.25%",
+            "51.54%",
+            "54.83%",
+            "59.22%",
+            "62.51%",
+            "66.35%",
+            "71.28%",
+            "76.22%",
+            "81.15%",
+            "86.09%",
+            "91.02%",
+            "95.96%",
+            "100.89%",
+            "105.83%",
+            "110.76%"
+          ]
+        },
+        {
+          "name": "SCH Phase 3",
+          "parameters": [
+            "61.05%",
+            "65.21%",
+            "69.38%",
+            "74.92%",
+            "79.09%",
+            "83.94%",
+            "90.19%",
+            "96.43%",
+            "102.67%",
+            "108.92%",
+            "115.16%",
+            "121.41%",
+            "127.65%",
+            "133.89%",
+            "140.14%"
+          ]
+        },
+        {
+          "name": "SCH Phase 4",
+          "parameters": [
+            "65.64%",
+            "70.12%",
+            "74.59%",
+            "80.56%",
+            "85.03%",
+            "90.26%",
+            "96.97%",
+            "103.68%",
+            "110.40%",
+            "117.11%",
+            "123.82%",
+            "130.54%",
+            "137.25%",
+            "143.96%",
+            "150.68%"
+          ]
+        },
+        {
+          "name": "SCH Phase 5",
+          "parameters": [
+            "33.27% + 35.20%",
+            "35.54% + 37.60%",
+            "37.81% + 40.00%",
+            "40.84% + 43.20%",
+            "43.10% + 45.60%",
+            "45.75% + 48.40%",
+            "49.15% + 52.00%",
+            "52.56% + 55.60%",
+            "55.96% + 59.20%",
+            "59.36% + 62.80%",
+            "62.77% + 66.40%",
+            "66.17% + 70.00%",
+            "69.57% + 73.60%",
+            "72.98% + 77.20%",
+            "76.38% + 80.80%"
+          ]
+        },
+        {
+          "name": "SCH Phase 6",
+          "parameters": [
+            "85.96%",
+            "91.82%",
+            "97.68%",
+            "105.49%",
+            "111.36%",
+            "118.19%",
+            "126.98%",
+            "135.78%",
+            "144.57%",
+            "153.36%",
+            "162.15%",
+            "170.94%",
+            "179.73%",
+            "188.52%",
+            "197.31%"
+          ]
+        },
+        {
+          "name": "SCH heftiger Schläge",
+          "parameters": [
+            "135.96%",
+            "145.23%",
+            "154.50%",
+            "166.86%",
+            "176.13%",
+            "186.94%",
+            "200.85%",
+            "214.76%",
+            "228.66%",
+            "242.56%",
+            "256.47%",
+            "270.37%",
+            "284.28%",
+            "298.18%",
+            "312.09%"
+          ]
+        },
+        {
+          "name": "Ausdauerverbrauch heftiger Schläge",
+          "parameters": [
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen",
+          "parameters": [
+            "65.42%",
+            "69.88%",
+            "74.34%",
+            "80.29%",
+            "84.75%",
+            "89.95%",
+            "96.64%",
+            "103.33%",
+            "110.02%",
+            "116.71%",
+            "123.40%",
+            "130.10%",
+            "136.79%",
+            "143.48%",
+            "150.17%"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen aus niedriger/großer Höhe",
+          "parameters": [
+            "130.81%/163.39%",
+            "139.73%/174.53%",
+            "148.65%/185.67%",
+            "160.54%/200.52%",
+            "169.46%/211.66%",
+            "179.86%/224.66%",
+            "193.24%/241.37%",
+            "206.62%/258.08%",
+            "220.00%/274.79%",
+            "233.38%/291.50%",
+            "246.76%/308.21%",
+            "260.13%/324.92%",
+            "273.51%/341.63%",
+            "286.89%/358.34%",
+            "300.27%/375.05%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Geleit ins Jenseits",
+      "info": "Nur mit einer immer währenden Flamme kann die Welt vom Schmutz bereinigt werden.\nVerbraucht einen Teil von Hu Taos LP, stößt Gegner in der Umgebung zurück und aktiviert den Zustandt Paramita-Schmetterlingstanz.\n\n**Paramita-Schmetterlingstanz**\n· Erhöht Hu Taos ANG gemäß ihrer max. LP bei Aktivierung des Zustands. Dieser Angriffsbonus erreicht bis zu 400 % von Hu Taos Basis-ANG.\n· Verleiht dem Schaden von Angriffen die Pyro-Kraft. Diese Elementarumwandlung kann nicht von anderen Elementen überdeckt werden.\n· Fügt mit heftigen Schlägen getroffenen Gegnern den Effekt der Blutblüten zu.\n· Erhöht Hu Taos Unterbrechungs-WDS.\n\n**Blutblüten**\nVom Zustand Blutblüten betroffene Gegner erleiden alle 4 s Pyro-Schaden. Dieser Schaden gilt als Elementarfähigkeitsschaden.\nDer Zustand Blutblüten ist nicht stapelbar und kann nur von Hu Tao selbst aktualisiert werden.\n\nDie Wirkung von **Paramita-Schmetterlingstanz** endet, sobald die Dauer abläuft oder Hu Tao ausgewechselt oder besiegt wird.",
+      "description": "Die Lanzentechnik, die Hu Tao übt, gründet auf einem Regelwerk, das mit folgenden Worten beginnt: „Die Lanze öffnet den Weg ins Jenseit, die Schmetterlinge bilden die Brücke dorthin.“",
+      "attributes": [
+        {
+          "name": "Kosten",
+          "parameters": [
+            "30.00% der aktuellen LP",
+            "30.00% der aktuellen LP",
+            "30.00% der aktuellen LP",
+            "30.00% der aktuellen LP",
+            "30.00% der aktuellen LP",
+            "30.00% der aktuellen LP",
+            "30.00% der aktuellen LP",
+            "30.00% der aktuellen LP",
+            "30.00% der aktuellen LP",
+            "30.00% der aktuellen LP",
+            "30.00% der aktuellen LP",
+            "30.00% der aktuellen LP",
+            "30.00% der aktuellen LP",
+            "30.00% der aktuellen LP",
+            "30.00% der aktuellen LP"
+          ]
+        },
+        {
+          "name": "ANG-Bonus",
+          "parameters": [
+            "3.84% der max. LP",
+            "4.07% der max. LP",
+            "4.30% der max. LP",
+            "4.60% der max. LP",
+            "4.83% der max. LP",
+            "5.06% der max. LP",
+            "5.36% der max. LP",
+            "5.66% der max. LP",
+            "5.96% der max. LP",
+            "6.26% der max. LP",
+            "6.55% der max. LP",
+            "6.85% der max. LP",
+            "7.15% der max. LP",
+            "7.45% der max. LP",
+            "7.75% der max. LP"
+          ]
+        },
+        {
+          "name": "Blutblüten-SCH",
+          "parameters": [
+            "64.00%",
+            "68.80%",
+            "73.60%",
+            "80.00%",
+            "84.80%",
+            "89.60%",
+            "96.00%",
+            "102.40%",
+            "108.80%",
+            "115.20%",
+            "121.60%",
+            "128.00%",
+            "136.00%",
+            "144.00%",
+            "152.00%"
+          ]
+        },
+        {
+          "name": "Blutblüten-Dauer",
+          "parameters": [
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s"
+          ]
+        },
+        {
+          "name": "Dauer",
+          "parameters": [
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s"
+          ]
+        },
+        {
+          "name": "Abklingzeit",
+          "parameters": [
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Geheime Kunst der Besänftigung",
+      "info": "Befiehlt einem Flammengeist anzugreifen und verursacht Pyro-Flächenschaden in einem großen Bereich.\nStellt Hu Tao beim Treffen von Gegnern LP basierend auf ihren max. LP wieder her. Dieser Effekt ist auf 5 getroffene Gegner beschränkt.\nVerursacht bei weniger als 50 % LP beim Treffen von Gegnern mit dieser Fähigkeit mehr Schaden und stellt mehr LP wieder her.",
+      "description": "Dass sich die Geister verschiedener Menschen weiter in dieser Welt aufhalten, ist eine große Sorge beim Bestattungsunternehmen Wangsheng. Feuerbestattungen helfen Hu Tao, wieder zur Ruhe zu kommen. Je größer ihre Sorge ist, desto stärker sind auch die Flammen.",
+      "attributes": [
+        {
+          "name": "Fähigkeits-SCH",
+          "parameters": [
+            "303.27%",
+            "321.43%",
+            "339.59%",
+            "363.20%",
+            "381.36%",
+            "399.52%",
+            "423.13%",
+            "446.74%",
+            "470.34%",
+            "493.95%",
+            "517.56%",
+            "541.17%",
+            "564.78%",
+            "588.38%",
+            "611.99%"
+          ]
+        },
+        {
+          "name": "Fähigkeits-SCH bei geringen LP",
+          "parameters": [
+            "379.09%",
+            "401.79%",
+            "424.49%",
+            "454.00%",
+            "476.70%",
+            "499.40%",
+            "528.91%",
+            "558.42%",
+            "587.93%",
+            "617.44%",
+            "646.95%",
+            "676.46%",
+            "705.97%",
+            "735.48%",
+            "764.99%"
+          ]
+        },
+        {
+          "name": "Heilung durch Fähigkeit",
+          "parameters": [
+            "6.26% der max. LP",
+            "6.64% der max. LP",
+            "7.01% der max. LP",
+            "7.50% der max. LP",
+            "7.87% der max. LP",
+            "8.25% der max. LP",
+            "8.74% der max. LP",
+            "9.22% der max. LP",
+            "9.71% der max. LP",
+            "10.20% der max. LP",
+            "10.69% der max. LP",
+            "11.17% der max. LP",
+            "11.66% der max. LP",
+            "12.15% der max. LP",
+            "12.64% der max. LP"
+          ]
+        },
+        {
+          "name": "Heilung durch Fähigkeit bei geringen LP",
+          "parameters": [
+            "8.35% der max. LP",
+            "8.85% der max. LP",
+            "9.35% der max. LP",
+            "10.00% der max. LP",
+            "10.50% der max. LP",
+            "11.00% der max. LP",
+            "11.65% der max. LP",
+            "12.30% der max. LP",
+            "12.95% der max. LP",
+            "13.60% der max. LP",
+            "14.25% der max. LP",
+            "14.90% der max. LP",
+            "15.55% der max. LP",
+            "16.20% der max. LP",
+            "16.85% der max. LP"
+          ]
+        },
+        {
+          "name": "Abklingzeit",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "Elementarenergie",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Schmetterlingsflügelschlag",
+      "info": "Erhöht die KT aller Truppenmitglieder (außer Hu Tao selbst) nach dem Ende des Zustands **Paramita-Schmetterlingstanz** von **Geleit ins Jenseits** 8 s lang um 12 %."
+    },
+    "passive2": {
+      "name": "Feuerrote Wangen",
+      "info": "Erhöht Hu Taos Pyro-Schaden bei weniger als 50 % LP um 33 %."
+    },
+    "passive3": {
+      "name": "Je mehr, desto besser",
+      "info": "Stellt bei der perfekten Zubereitung von Gerichten mit einer Wahrscheinlichkeit von 18 % zusätzlich die misslungene Variante des jeweiligen Gerichts her."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Lehren des „Fleißes“",
+          "count": 3
+        },
+        {
+          "name": "Vaniloqua-Nektar",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Anleitung zum „Fleiß“",
+          "count": 2
+        },
+        {
+          "name": "Leuchtender Nektar",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Anleitung zum „Fleiß“",
+          "count": 4
+        },
+        {
+          "name": "Leuchtender Nektar",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Anleitung zum „Fleiß“",
+          "count": 6
+        },
+        {
+          "name": "Leuchtender Nektar",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Anleitung zum „Fleiß“",
+          "count": 9
+        },
+        {
+          "name": "Leuchtender Nektar",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie des „Fleißes“",
+          "count": 4
+        },
+        {
+          "name": "Elementarnektar",
+          "count": 4
+        },
+        {
+          "name": "Dämonengewand – Fragment",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie des „Fleißes“",
+          "count": 6
+        },
+        {
+          "name": "Elementarnektar",
+          "count": 6
+        },
+        {
+          "name": "Dämonengewand – Fragment",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie des „Fleißes“",
+          "count": 12
+        },
+        {
+          "name": "Elementarnektar",
+          "count": 9
+        },
+        {
+          "name": "Dämonengewand – Fragment",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie des „Fleißes“",
+          "count": 16
+        },
+        {
+          "name": "Elementarnektar",
+          "count": 12
+        },
+        {
+          "name": "Dämonengewand – Fragment",
+          "count": 2
+        },
+        {
+          "name": "Krone der Weisheit",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_03",
+      "combat2": "Skill_S_Hutao_01",
+      "combat3": "Skill_E_Hutao_01_HD",
+      "passive1": "UI_Talent_S_Hutao_05",
+      "passive2": "UI_Talent_S_Hutao_06",
+      "passive3": "UI_Talent_Cook_ExtraFailedItem"
+    },
+    "version": "1.3"
+  }
+}

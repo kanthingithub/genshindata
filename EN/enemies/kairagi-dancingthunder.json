@@ -1,0 +1,113 @@
+{
+  "name": "Kairagi: Dancing Thunder",
+  "specialname": "\"Shady Samanosuke\"",
+  "enemytype": "COMMON",
+  "category": "Other Human Factions",
+  "description": "Samurai who have fallen into banditry.\nThey possess highly advanced martial art skills but found no use for them for various reasons. Out of desperation, they have fallen onto the path of evil. They use paper seals, created from a Kamuna art that has been lost for centuries, to infuse their blades with the power of lightning.",
+  "investigation": {
+    "name": "Nobushi",
+    "category": "Easy",
+    "description": "Despite often appearing in groups, the Nobushi do not have a centralized organization. Depending on their temperament or the nature of their crimes, they are also known as the \"homeless ones,\" \"vagabonds,\" \"Kairagi,\" \"ne'er-do-wells,\" or even \"the rioters,\" or just simply known collectively as \"those rogues.\"\\nThey are often samurai who have fallen into banditry, and some will even ally themselves with the Treasure Hoarders or the Fatui for survival or monetary gain."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Old Handguard",
+      "count": 0.8404
+    },
+    {
+      "name": "Kageuchi Handguard",
+      "count": 0.2241
+    },
+    {
+      "name": "Famed Handguard",
+      "count": 0.056
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Samurai_Kairagi_01"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 352.41601021628594,
+      "attack": 126.88865269049074,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 1388.0113069393556,
+      "attack": 339.0138754666823,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 4085.400020136498,
+      "attack": 836.2498197051391,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 7607.856318554608,
+      "attack": 1365.8829744341056,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 13660.06569647207,
+      "attack": 2042.0693843711633,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 25168.955048691947,
+      "attack": 3149.136175426116,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 42522.925964172,
+      "attack": 4434.621811969759,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 70330.06565506198,
+      "attack": 6121.785820403544,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 113455.76703900844,
+      "attack": 7876.325001969002,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 178081.38831524178,
+      "attack": 9515.686133175914,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 266208.09946409985,
+      "attack": 12311.044076510821,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 336939.5166115016,
+      "attack": 12555.48552251578,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 389729.3082466051,
+      "attack": 12801.63840648823,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

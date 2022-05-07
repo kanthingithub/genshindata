@@ -1,0 +1,141 @@
+{
+  "name": "Thể Lôi - Chó Săn Ma Vật",
+  "specialname": "Dị Thú Khe Nứt",
+  "enemytype": "ELITE",
+  "category": "Vực Sâu",
+  "description": "Ma thú có khả năng xâm thực rìa thế giới. Là tạo vật của \"Gold\".\nTừng càn quét khắp đại lục, sau đó bị phản kháng và săn bắt nên đã tuyệt chủng. Nhưng gần đây chúng đã xuất hiện trở lại. Bầy sói đen gây uy hiếp đến an nguy của Thanh Tuyền Trấn và Lang Lãnh chính là chúng.",
+  "investigation": {
+    "name": "Sói Ma Vật",
+    "category": "Tinh Anh",
+    "description": "Loài dị thú màu sắc ảm đạm, hành động giống như bầy sói.\\nNghe nói có sức mạnh làm xói mòn biên giới."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Móng Vuốt Ma Thú",
+      "count": 5.2526
+    },
+    {
+      "name": "Vuốt Sắt Ma Thú",
+      "count": 1.4006
+    },
+    {
+      "name": "Vuốt Quỷ Ma Thú",
+      "count": 0.3502
+    },
+    {
+      "name": "Cuồng Chiến",
+      "rarity": "3"
+    },
+    {
+      "name": "Giáo Quan",
+      "rarity": "3"
+    },
+    {
+      "name": "Kẻ Lưu Đày",
+      "rarity": "3"
+    },
+    {
+      "name": "Thầy Thuốc",
+      "rarity": "3"
+    },
+    {
+      "name": "Cuồng Chiến",
+      "rarity": "4"
+    },
+    {
+      "name": "Giáo Quan",
+      "rarity": "4"
+    },
+    {
+      "name": "Kẻ Lưu Đày",
+      "rarity": "4"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Hound_Riftstalker_Electric"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 513.9399908444029,
+      "attack": 81.20874142159664,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 2024.1830612137564,
+      "attack": 216.96889018327784,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 5957.874750514515,
+      "attack": 535.1999089937599,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 11094.789945280412,
+      "attack": 874.1651434627711,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 19920.928208313184,
+      "attack": 1306.9244655380026,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 36704.72439475497,
+      "attack": 2015.4472440918325,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 62012.59746199194,
+      "attack": 2838.1580889605684,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 102564.67427988164,
+      "attack": 3917.9431035507005,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 165456.3191879019,
+      "attack": 5040.848230909556,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 259702.01247135177,
+      "attack": 6090.039402680704,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 388220.12688163295,
+      "attack": 7879.068567919079,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 491370.10539378226,
+      "attack": 8035.511100489413,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 568355.2145917788,
+      "attack": 8193.048953408841,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

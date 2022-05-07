@@ -1,0 +1,20 @@
+{
+  "name": "Lightning Prism",
+  "description": "Electro Hypostasis ใช้ในการรวบรวมพลังงานธาตุและซ่อมแซมวัตถุทางธาตุที่ถูกทำลาย ข้างในอัดแน่นไปด้วยพลังของไฟฟ้าอันแสนบริสุทธิ์\nปริซึมนั้นสามารถแยกสีของแสงให้เป็นชั้น ๆ ได้ ในขณะที่ Lightning Prism จะถักทอพลังที่ไหลเวียนอยู่ให้กลายเป็นสายฟ้าที่บริสุทธิ์ ถึงแม้ว่า Electro Hypostasis จะถูกจัดการไปแล้วแต่พลังงานไฟฟ้านั้นยังคงรวบรวมอยู่ในปริซึมนี้ต่อไป",
+  "sortorder": 1784,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ดรอปจาก Electro Hypostasis Lv.30 ขึ้นไป"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lightning_Prism.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Item_Lightning_Prism.png",
+    "nameicon": "UI_ItemIcon_113002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lightning_Prism"
+  },
+  "version": ""
+}

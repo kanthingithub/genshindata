@@ -1,0 +1,17 @@
+{
+  "name": "紀行經驗",
+  "description": "紀行即是將長旅中所經歷的一切都記錄下來。這些就是將被譜寫成詩的素材。",
+  "sortorder": 2256,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "紀行經驗",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_116001",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_BEP.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/BEP"
+  },
+  "version": ""
+}

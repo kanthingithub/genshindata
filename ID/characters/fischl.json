@@ -1,0 +1,834 @@
+{
+  "name": "Fischl",
+  "fullname": "Fischl",
+  "title": "Prinzessin der Verurteilung!!",
+  "description": "Seorang gadis misterius yang menyebut dirinya sendiri \"Prinzessin der Verurteilung\", dia selalu terlihat bersama dengan seekor gagak hitam yang bernama Oz.",
+  "rarity": "4",
+  "element": "Electro",
+  "weapontype": "Bow",
+  "substat": "ATK",
+  "gender": "Perempuan",
+  "body": "GIRL",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Adventurers' Guild",
+  "birthdaymmdd": "5/27",
+  "birthday": "27 Mei",
+  "constellation": "Corvus",
+  "cv": {
+    "english": "Brittany Cox & Ben Pronsky",
+    "chinese": "Mace&赵悦程",
+    "japanese": "内田真礼&増谷康紀",
+    "korean": "Park Go-woon & Lee Hyeon"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vajrada Amethyst Sliver",
+        "count": 1
+      },
+      {
+        "name": "Small Lamp Grass",
+        "count": 3
+      },
+      {
+        "name": "Firm Arrowhead",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "count": 3
+      },
+      {
+        "name": "Lightning Prism",
+        "count": 2
+      },
+      {
+        "name": "Small Lamp Grass",
+        "count": 10
+      },
+      {
+        "name": "Firm Arrowhead",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "count": 6
+      },
+      {
+        "name": "Lightning Prism",
+        "count": 4
+      },
+      {
+        "name": "Small Lamp Grass",
+        "count": 20
+      },
+      {
+        "name": "Sharp Arrowhead",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "count": 3
+      },
+      {
+        "name": "Lightning Prism",
+        "count": 8
+      },
+      {
+        "name": "Small Lamp Grass",
+        "count": 30
+      },
+      {
+        "name": "Sharp Arrowhead",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "count": 6
+      },
+      {
+        "name": "Lightning Prism",
+        "count": 12
+      },
+      {
+        "name": "Small Lamp Grass",
+        "count": 45
+      },
+      {
+        "name": "Weathered Arrowhead",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Vajrada Amethyst Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Lightning Prism",
+        "count": 20
+      },
+      {
+        "name": "Small Lamp Grass",
+        "count": 60
+      },
+      {
+        "name": "Weathered Arrowhead",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Character_Fischl_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/Character_Fischl_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Fischl.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200402/2020040211240853891.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200402/2020040211242065763.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/0bb4e376b31993e6fdab02786bc6a20a.png",
+    "nameicon": "UI_AvatarIcon_Fischl",
+    "nameiconcard": "UI_AvatarIcon_Fischl_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Fischl",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Fischl",
+    "namesideicon": "UI_AvatarIcon_Side_Fischl"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fischl"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 770.46337890625,
+      "attack": 20.47920036315918,
+      "defense": 49.78575134277344,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 1979.320424818783,
+      "attack": 52.61106585013886,
+      "defense": 127.89959548446132,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2554.896047377377,
+      "attack": 67.91043566215058,
+      "defense": 165.09209655257655,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 3826.930919893319,
+      "attack": 101.72159104783623,
+      "defense": 247.28836128915282,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4235.8925287800375,
+      "attack": 112.59219651658623,
+      "defense": 273.7146117469165,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 4872.2954443453345,
+      "attack": 129.5080203913849,
+      "defense": 314.83765299143124,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5417.577548837522,
+      "attack": 144.0021610163849,
+      "defense": 350.0726536017828,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6053.980464402819,
+      "attack": 160.91798489118355,
+      "defense": 391.19569484629756,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6462.942134324694,
+      "attack": 171.78859035993355,
+      "defense": 417.62194148936396,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7098.574274968123,
+      "attack": 188.6839267534424,
+      "defense": 458.6951768512736,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7507.535944889998,
+      "attack": 199.5545322221924,
+      "defense": 485.1214311237345,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8143.938493069727,
+      "attack": 216.47034633174735,
+      "defense": 526.2444486285531,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 8552.899918850977,
+      "attack": 227.34095180049735,
+      "defense": 552.670702901014,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9189.302834416274,
+      "attack": 244.256775675296,
+      "defense": 593.7937441455288,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Gaze of the Deep",
+      "effect": "Saat Oz tidak di dalam medan pertarungan, dia masih tetap bisa melindungi Fischl melalui mata burung gagak. Saat Fischl menyerang musuh dengan Normal Attack, Oz melancarkan serangan melalui mata burung gagak yang mengakibatkan DMG sebesar 22% ATK."
+    },
+    "c2": {
+      "name": "Devourer of All Sins",
+      "effect": "Menggunakan **Nightrider** akan mengakibatkan serangan tambahan sebesar 200% ATK, dan meningkatkan 50% area serangan."
+    },
+    "c3": {
+      "name": "Wings of Nightmare",
+      "effect": "Meningkatkan 3 level **Nightrider**.\nMaksimum: Lv. 15."
+    },
+    "c4": {
+      "name": "Her Pilgrimage of Bleak",
+      "effect": "Saat menggunakan **Midnight Phantasmagoria**, mengakibatkan Electro DMG ke musuh di sekitar sebesar 222% ATK ke musuh di sekitar.\nSaat skill berakhir, memulihkan 20% HP Fischl."
+    },
+    "c5": {
+      "name": "Against the Fleeing Light",
+      "effect": "Meningkatkan 3 level **Midnight Phantasmagoria**.\nMaksimum: Lv. 15."
+    },
+    "c6": {
+      "name": "Evernight Raven",
+      "effect": "Meningkatkan durasi pemanggilan Oz selama 2 detik, selama durasi, Oz menyerang bersama dengan karakter yang sedang bertarung, mengakibatkan 30% ATK Fischl sebagai Electro DMG."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Fischl_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Fischl_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Fischl_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Fischl_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Fischl_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Fischl_04.png",
+      "constellation": "Eff_UI_Talent_Fischl"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Fischl",
+    "combat1": {
+      "name": "Normal Attack: Bolts of Downfall",
+      "info": "**Normal Attack**\nMelancarkan hingga 5 serangan berturut-turut menggunakan busur.\n\n**Charged Attack**\nMelancarkan sebuah **Serangan Membidik** yang lebih akurat untuk mengakibatkan DMG lebih besar. Saat membidik, jiwa petir hitam dari Immernachtreich akan menjawab panggilan Prinzessin dan kekuatannya berkumpul pada ujung anak panah. Saat terkumpul penuh, Rachsüchtig Blitz akan mengakibatkan Electro DMG.\n\n**Plunging Attack**\nMelancarkan hujan panah dari udara dan menerjang tanah dengan kecepatan tinggi, mengakibatkan DMG area saat mendarat.",
+      "attributes": [
+        {
+          "name": "DMG Tahap 1",
+          "parameters": [
+            "44.12%",
+            "47.71%",
+            "51.30%",
+            "56.43%",
+            "60.02%",
+            "64.13%",
+            "69.77%",
+            "75.41%",
+            "81.05%",
+            "87.21%",
+            "93.37%",
+            "99.52%",
+            "105.68%",
+            "111.83%",
+            "117.99%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 2",
+          "parameters": [
+            "46.78%",
+            "50.59%",
+            "54.40%",
+            "59.84%",
+            "63.65%",
+            "68.00%",
+            "73.98%",
+            "79.97%",
+            "85.95%",
+            "92.48%",
+            "99.01%",
+            "105.54%",
+            "112.06%",
+            "118.59%",
+            "125.12%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 3",
+          "parameters": [
+            "58.14%",
+            "62.87%",
+            "67.60%",
+            "74.36%",
+            "79.09%",
+            "84.50%",
+            "91.94%",
+            "99.37%",
+            "106.81%",
+            "114.92%",
+            "123.03%",
+            "131.14%",
+            "139.26%",
+            "147.37%",
+            "155.48%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 4",
+          "parameters": [
+            "57.71%",
+            "62.40%",
+            "67.10%",
+            "73.81%",
+            "78.51%",
+            "83.88%",
+            "91.26%",
+            "98.64%",
+            "106.02%",
+            "114.07%",
+            "122.12%",
+            "130.17%",
+            "138.23%",
+            "146.28%",
+            "154.33%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 5",
+          "parameters": [
+            "72.07%",
+            "77.93%",
+            "83.80%",
+            "92.18%",
+            "98.05%",
+            "104.75%",
+            "113.97%",
+            "123.19%",
+            "132.40%",
+            "142.46%",
+            "152.52%",
+            "162.57%",
+            "172.63%",
+            "182.68%",
+            "192.74%"
+          ]
+        },
+        {
+          "name": "DMG Membidik",
+          "parameters": [
+            "43.86%",
+            "47.43%",
+            "51.00%",
+            "56.10%",
+            "59.67%",
+            "63.75%",
+            "69.36%",
+            "74.97%",
+            "80.58%",
+            "86.70%",
+            "92.82%",
+            "98.94%",
+            "105.06%",
+            "111.18%",
+            "117.30%"
+          ]
+        },
+        {
+          "name": "DMG Membidik Penuh",
+          "parameters": [
+            "124.00%",
+            "133.30%",
+            "142.60%",
+            "155.00%",
+            "164.30%",
+            "173.60%",
+            "186.00%",
+            "198.40%",
+            "210.80%",
+            "223.20%",
+            "235.60%",
+            "248.00%",
+            "263.50%",
+            "279.00%",
+            "294.50%"
+          ]
+        },
+        {
+          "name": "DMG Selama Plunging",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "DMG Plunging Attack Min./Maks.",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Nightrider",
+      "info": "Memanggil Oz. Gagak malam yang tercipta dalam kegelapan dan halilintar turun ke bumi untuk mengakibatkan Electro DMG dalam area kecil.\nSelama durasi skill, Oz akan terus menyerang musuh di sekitar dengan Freikugel.\n\nTahan untuk mengatur lokasi di mana Oz akan dipanggil.\nTekan lagi sewaktu-waktu dalam durasi skill untuk memanggil Oz kembali ke sisi Fischl.",
+      "description": "\"Waktu kita terlalu berharga untuk dihabiskan bersama orang sepertimu... Pergilah, Oz, datangi mereka, dan lepaskan Rachsüchtig Blitz milikmu yang membelah malam terhadap mereka.\"\n— Bunga untuk Putri Fischl (IV): Selamat Tinggal Frau Welt",
+      "attributes": [
+        {
+          "name": "DMG Serangan Oz",
+          "parameters": [
+            "88.80%",
+            "95.46%",
+            "102.12%",
+            "111.00%",
+            "117.66%",
+            "124.32%",
+            "133.20%",
+            "142.08%",
+            "150.96%",
+            "159.84%",
+            "168.72%",
+            "177.60%",
+            "188.70%",
+            "199.80%",
+            "210.90%"
+          ]
+        },
+        {
+          "name": "Summoning DMG",
+          "parameters": [
+            "115.44%",
+            "124.10%",
+            "132.76%",
+            "144.30%",
+            "152.96%",
+            "161.62%",
+            "173.16%",
+            "184.70%",
+            "196.25%",
+            "207.79%",
+            "219.34%",
+            "230.88%",
+            "245.31%",
+            "259.74%",
+            "274.17%"
+          ]
+        },
+        {
+          "name": "Durasi Oz",
+          "parameters": [
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik"
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "parameters": [
+            "25 detik",
+            "25 detik",
+            "25 detik",
+            "25 detik",
+            "25 detik",
+            "25 detik",
+            "25 detik",
+            "25 detik",
+            "25 detik",
+            "25 detik",
+            "25 detik",
+            "25 detik",
+            "25 detik",
+            "25 detik",
+            "25 detik"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Midnight Phantasmagoria",
+      "info": "Memanggil Oz untuk membentangkan kedua sayap kegelapan dan melindungi Fischl.\nMemiliki efek berikut selama durasi skill:\n·Fischl mengambil bentuk Oz, membuat kecepatan gerak dia meningkat drastis.\n·Menyerang musuh terdekat dengan menggunakan petir, menghasilkan Electro DMG kepada musuh yang menyentuhnya. Setiap musuh hanya dapat tersambar satu kali.\n·Saat efeknya berakhir, Oz akan tetap berada di medan tempur dan menyerang musuh Prinzessin. Jika Oz sudah berada di medan tempur, maka akan memutar ulang durasi kehadirannya.",
+      "description": "\"...dari segerombolan hewan buas yang mengikuti darah terkutuk, hanya Pangeran Nachtraben, yang telah menyaksikan kepunahan ribuan dunia, mengetahui kekuatannya yang sesungguhnya. Karena itu, sayap malam yang dia bentangkan adalah janji abadinya untuk selalu melindungi sang ratu.\"\n— Bunga untuk Putri Fischl (I): Akhir Waktu Zerzetsung.",
+      "attributes": [
+        {
+          "name": "DMG Falling Thunder",
+          "parameters": [
+            "208.00%",
+            "223.60%",
+            "239.20%",
+            "260.00%",
+            "275.60%",
+            "291.20%",
+            "312.00%",
+            "332.80%",
+            "353.60%",
+            "374.40%",
+            "395.20%",
+            "416.00%",
+            "442.00%",
+            "468.00%",
+            "494.00%"
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "parameters": [
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik"
+          ]
+        },
+        {
+          "name": "Konsumsi Energy",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Stellar Predator",
+      "info": "Saat Fischl menembakkan Serangan Membidik yang telah di-Charge penuh ke arah Oz, Oz akan memanggil Thundering Retribution yang mengakibatkan Electro DMG area sebesar 152.7% DMG panah."
+    },
+    "passive2": {
+      "name": "Undone Be Thy Sinful Hex",
+      "info": "Jika karakter yang sedang digunakan memicu Reaksi Elemental yang berhubungan dengan elemen Electro pada saat Oz berada di medan tempur, musuh akan terkena Thundering Retribution yang mengakibatkan Electro DMG sebesar 80% ATK Fischl."
+    },
+    "passive3": {
+      "name": "Mein Hausgarten",
+      "info": "Ketika dikirim untuk melakukan ekspedisi di Mondstadt, waktu yang dibutuhkan berkurang 25%."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of \"Ballad\"",
+          "count": 3
+        },
+        {
+          "name": "Firm Arrowhead",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to \"Ballad\"",
+          "count": 2
+        },
+        {
+          "name": "Sharp Arrowhead",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to \"Ballad\"",
+          "count": 4
+        },
+        {
+          "name": "Sharp Arrowhead",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to \"Ballad\"",
+          "count": 6
+        },
+        {
+          "name": "Sharp Arrowhead",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to \"Ballad\"",
+          "count": 9
+        },
+        {
+          "name": "Sharp Arrowhead",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of \"Ballad\"",
+          "count": 4
+        },
+        {
+          "name": "Weathered Arrowhead",
+          "count": 4
+        },
+        {
+          "name": "Spirit Locket of Boreas",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of \"Ballad\"",
+          "count": 6
+        },
+        {
+          "name": "Weathered Arrowhead",
+          "count": 6
+        },
+        {
+          "name": "Spirit Locket of Boreas",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of \"Ballad\"",
+          "count": 12
+        },
+        {
+          "name": "Weathered Arrowhead",
+          "count": 9
+        },
+        {
+          "name": "Spirit Locket of Boreas",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of \"Ballad\"",
+          "count": 16
+        },
+        {
+          "name": "Weathered Arrowhead",
+          "count": 12
+        },
+        {
+          "name": "Spirit Locket of Boreas",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_02",
+      "combat2": "Skill_S_Fischl_01",
+      "combat3": "Skill_E_Fischl_01_HD",
+      "passive1": "UI_Talent_S_Fischl_05",
+      "passive2": "UI_Talent_S_Fischl_06",
+      "passive3": "UI_Talent_Expedition_Mengde"
+    },
+    "version": "1.0"
+  }
+}

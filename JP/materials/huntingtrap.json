@@ -1,0 +1,17 @@
+{
+  "name": "狩猟の罠",
+  "description": "一定の大きさの野獣を捕獲するための罠。野外でちゃんと素材を捜せば作れる物。バレないように地面に設置しよう。",
+  "sortorder": 99,
+  "category": "CONSUME",
+  "materialtype": "消耗品",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_100225",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Hunting_Trap.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Hunting_Trap.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Hunting_Trap"
+  },
+  "version": ""
+}

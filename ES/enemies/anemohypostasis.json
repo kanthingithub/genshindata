@@ -1,0 +1,160 @@
+{
+  "name": "Hipostasis Anemo",
+  "specialname": "Bett",
+  "enemytype": "BOSS",
+  "category": "Seres elementales",
+  "description": "Nombre en clave: Bett. Un ser Anemo de alta pureza.\nLos Hipostasis Elementales son formas de vida que han abandonado por completo su forma y estructura biológica anteriores, lo que les permite alcanzar el nivel más alto de pureza elemental.\nLa investigación de Hipostasis es dirigida principalmente por eruditos de la Academia de Sumeru, pero debido a la cantidad de peligro que representan, además de su nombre científico y su nombre en clave, el resto de la información de los Hipostasis sigue siendo un misterio.",
+  "investigation": {
+    "name": "Hipostasis Anemo",
+    "category": "Jefes",
+    "description": "Nombre en clave: Bett. Un ser Anemo de alta pureza.\\nLos Hipostasis Elementales son formas de vida que han abandonado por completo su forma y estructura biológica anteriores, lo que les permite alcanzar el nivel más alto de pureza elemental.\\nLa investigación de Hipostasis es dirigida principalmente por eruditos de la Academia de Sumeru, pero debido a la cantidad de peligro que representan, además de su nombre científico y su nombre en clave, el resto de la información de los Hipostasis sigue siendo un misterio."
+  },
+  "rewardpreview": [
+    {
+      "name": "EXP de Aventura",
+      "count": 200
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "EXP de Amistad"
+    },
+    {
+      "name": "Pedacito de turquesa vayuda"
+    },
+    {
+      "name": "Fragmento de turquesa vayuda"
+    },
+    {
+      "name": "Trozo de turquesa vayuda"
+    },
+    {
+      "name": "Turquesa vayuda"
+    },
+    {
+      "name": "Semilla de huracán",
+      "count": 2.5556
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "3"
+    },
+    {
+      "name": "Afortunado",
+      "rarity": "3"
+    },
+    {
+      "name": "Final del Gladiador",
+      "rarity": "4"
+    },
+    {
+      "name": "Orquesta del Errante",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "4"
+    },
+    {
+      "name": "Final del Gladiador",
+      "rarity": "5"
+    },
+    {
+      "name": "Orquesta del Errante",
+      "rarity": "5"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Effigy_Wind"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 510.41895205993205,
+      "attack": 152.2663863116577,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 2006.2283750828065,
+      "attack": 406.8166587971864,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 6196.400008976692,
+      "attack": 1003.4998039648926,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 10309.60228639457,
+      "attack": 1639.0596025083796,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 18863.94624437671,
+      "attack": 2450.4833108624443,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 34975.389791473746,
+      "attack": 3778.963487027271,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 58668.78369178623,
+      "attack": 5321.546282113646,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 91363.8084617285,
+      "attack": 7346.143133227946,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 129960.09278351627,
+      "attack": 9451.590193737298,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 170478.60674195923,
+      "attack": 11418.823591017863,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 257355.85078069568,
+      "attack": 14773.25319093978,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 374516.19605185837,
+      "attack": 15066.582932085032,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 503904.21706368774,
+      "attack": 15361.966398832854,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

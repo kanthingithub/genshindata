@@ -1,0 +1,19 @@
+{
+  "name": "堇瓜",
+  "description": "有着色泽艳丽的外皮的果实，其中的果肉可以在烹饪后转化为口感独特的食物。",
+  "sortorder": 2013,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "稻妻野外采集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lavender_Melon.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Lavender_Melon.png",
+    "nameicon": "UI_ItemIcon_101211"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lavender_Melon"
+  },
+  "version": ""
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Plaustrite Shard",
+  "description": "Bahan yang digunakan untuk membuat Lentera Xiao selama Lantern Rite.\nSebuah pecahan dengan unsur misterius yang dapat mengambang dengan sendirinya. Ini adalah rahasia mengapa Lentera Xiao bisa terbang. Konon batu ini juga yang memungkinkan Jade Chamber untuk mengapung di udara.",
+  "sortorder": 2289,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Material Lantern Rite",
+  "source": [
+    "Didapatkan dari tambang mineral",
+    "Didapatkan dari Geovishap Hatchling dan Geovishap",
+    "Dihasilkan oleh Stonehide Lawachurl"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Plaustrite_Shard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/78/Item_Plaustrite_Shard.png",
+    "nameicon": "UI_ItemIcon_200003"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Plaustrite_Shard"
+  },
+  "version": ""
+}

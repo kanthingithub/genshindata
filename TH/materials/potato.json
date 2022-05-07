@@ -1,0 +1,19 @@
+{
+  "name": "Potato",
+  "description": "พืชที่มีลักษณะเป็นก้อน ๆ ของขวัญจากโลกใบนี้ที่ซึ่ง ไม่ว่าจะทานแบบไหนก็ไม่มีวันเบื่อ",
+  "sortorder": 2000,
+  "category": "EXCHANGE",
+  "materialtype": "วัตถุดิบประกอบอาหาร",
+  "source": [
+    "ซื้อจากร้านขายของชำ"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Potato.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Item_Potato.png",
+    "nameicon": "UI_ItemIcon_100080"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Potato"
+  },
+  "version": ""
+}

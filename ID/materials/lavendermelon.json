@@ -1,0 +1,19 @@
+{
+  "name": "Lavender Melon",
+  "description": "Buah yang berwarna cerah dan terang. Saat dimasak, dagingnya memberikan rasa unik di dalam mulut.",
+  "sortorder": 2013,
+  "category": "EXCHANGE",
+  "materialtype": "Bahan Masak",
+  "source": [
+    "Ditemukan di alam liar Inazuma"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lavender_Melon.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Lavender_Melon.png",
+    "nameicon": "UI_ItemIcon_101211"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lavender_Melon"
+  },
+  "version": ""
+}

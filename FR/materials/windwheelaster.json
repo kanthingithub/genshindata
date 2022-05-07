@@ -1,0 +1,21 @@
+{
+  "name": "Chrysanthème à aubes",
+  "description": "Une plante qui aime le vent. Pour les habitants de Mondstadt qui vénèrent le vent et la liberté, les chrysanthèmes à aubes sont les « vents visibles ».",
+  "sortorder": 2039,
+  "category": "EXCHANGE",
+  "materialtype": "Produit de Mondstadt",
+  "source": [
+    "Statue des Sept de Ventlevé",
+    "Sous les arbres dans la nature",
+    "Zone conseillée : Antre de Stormterror"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Windwheel_Aster.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Windwheel_Aster.png",
+    "nameicon": "UI_ItemIcon_100024"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Windwheel_Aster"
+  },
+  "version": ""
+}

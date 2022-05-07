@@ -1,0 +1,20 @@
+{
+  "name": "天雲草實",
+  "description": "生長在清籟島的天雲草結成的果實，貼在耳畔能聽見微弱的電流聲。",
+  "sortorder": 2067,
+  "category": "EXCHANGE",
+  "materialtype": "稻妻區域特產",
+  "source": [
+    "野外採集",
+    "推薦：清籟島採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Amakumo_Fruit.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Amakumo_Fruit.png",
+    "nameicon": "UI_ItemIcon_101208"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Amakumo_Fruit"
+  },
+  "version": ""
+}

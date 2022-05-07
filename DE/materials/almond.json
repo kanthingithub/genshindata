@@ -1,0 +1,19 @@
+{
+  "name": "Mandeln",
+  "description": "Ein Samen mit einem kräftigen Geschmack, der Gerichten eine frische Note verleihen kann.",
+  "sortorder": 2005,
+  "category": "EXCHANGE",
+  "materialtype": "Zutat",
+  "source": [
+    "Im Gemischtwarenladen von Liyue zu erstehen"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Almond.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Item_Almond.png",
+    "nameicon": "UI_ItemIcon_100089"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Almond"
+  },
+  "version": ""
+}

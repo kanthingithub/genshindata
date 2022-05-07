@@ -1,0 +1,20 @@
+{
+  "name": "Perpetual Heart",
+  "description": "The core that powers the autonomous movements of the Perpetual Mechanical Array.\nSome theorize that the symbols on these cores have knowledge and logic inscribed upon them in a language that eyes cannot perceive. Some go a step further and believe that these unique Ruin machines autonomously decided to forsake a biomimetic form to pursue strength of function on account of their especially large cores and complex inscriptions.",
+  "sortorder": 1805,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Dropped by Lv. 30+ Perpetual Mechanical Arrays"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Perpetual_Heart.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Item_Perpetual_Heart.png",
+    "nameicon": "UI_ItemIcon_113023"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Perpetual_Heart"
+  },
+  "version": ""
+}

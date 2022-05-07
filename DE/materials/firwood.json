@@ -1,0 +1,22 @@
+{
+  "name": "Tannenholz",
+  "description": "Holz des Baumes, der als „Fabers Tanne“ bekannt ist. Weit verbreitet für seine feine Qualität und attraktive Maserung.\nKann zum Herstellen von Dekoration verwendet werden.",
+  "sortorder": 1942,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Material",
+  "source": [
+    "In der freien Natur zu finden",
+    "Empfohlen: In dem Sternfalltal zu finden",
+    "Empfohlen: An dem Pfeifenden Abhang zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fir_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Item_Fir_Wood.png",
+    "nameicon": "UI_ItemIcon_101308"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fir_Wood"
+  },
+  "version": ""
+}

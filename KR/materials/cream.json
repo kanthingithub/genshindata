@@ -1,0 +1,19 @@
+{
+  "name": "크림",
+  "description": "우유를 빨리 저어 정제한 유제품. 케익을 만들 때 필요한 식재료",
+  "sortorder": 1526,
+  "category": "EXCHANGE",
+  "materialtype": "식자재",
+  "source": [
+    "요리 가공 획득"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cream.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Item_Cream.png",
+    "nameicon": "UI_ItemIcon_110002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cream"
+  },
+  "version": ""
+}

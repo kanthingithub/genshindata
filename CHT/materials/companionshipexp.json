@@ -1,0 +1,18 @@
+{
+  "name": "好感經驗",
+  "description": "好感經驗，用於提升好感等級。",
+  "sortorder": 448,
+  "rarity": "3",
+  "category": "ITEM_VIRTUAL",
+  "materialtype": "好感成長",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_105",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Companionship_EXP.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Item_Companionship_EXP.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Companionship_EXP"
+  },
+  "version": ""
+}

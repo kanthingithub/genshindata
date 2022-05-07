@@ -1,0 +1,20 @@
+{
+  "name": "Pérola da Tempestade",
+  "description": "Pérolas Electro deixadas para trás por uma Manifestação Trovejante.\nDizem que Manifestações Trovejantes apenas descem sobre terras em que ódios poderosos vivem. Cantores dizem que os desapontamentos insuportáveis e sofrimentos da vida que os energizam para vagar eternamente na terra destruída, lançando raios que arranham o céu.",
+  "sortorder": 1811,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Dropado por Manifestação Trovejante Nv.30+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Storm_Beads.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Item_Storm_Beads.png",
+    "nameicon": "UI_ItemIcon_113029"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Storm_Beads"
+  },
+  "version": ""
+}

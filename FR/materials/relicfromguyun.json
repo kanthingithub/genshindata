@@ -1,0 +1,26 @@
+{
+  "name": "Squelette sacré de Guyun",
+  "description": "Matériau d'élévation d'arme.\nLa lance de pierre possède une sphère lumineuse formé par le pouvoir des ennemis du Souverain de la Roche. Il n'était pas l'objet de leur haine, car corrompus depuis bien longtemps, elle faisait désormais naturellement partie d'eux.",
+  "sortorder": 2197,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'élévation d'arme",
+  "dropdomain": "Donjon d'entraînement : Autel du nuage d'orage",
+  "daysofweek": [
+    "Lundi",
+    "Jeudi",
+    "Dimanche"
+  ],
+  "source": [
+    "Synthèse"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Relic_from_Guyun.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/94/Item_Relic_from_Guyun.png",
+    "nameicon": "UI_ItemIcon_114015"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Relic_from_Guyun"
+  },
+  "version": ""
+}

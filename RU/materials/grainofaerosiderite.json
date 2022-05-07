@@ -1,0 +1,26 @@
+{
+  "name": "Зерно чёрного сидерита",
+  "description": "Материал возвышения оружия.\nОднажды за Облачным морем упал чёрный метеорит, который должен был уничтожить страшное чудовище. Этот метеорит был осквернён злой кровью чудовища, поэтому в нём больше не осталось божественных сил Властелина Камня.",
+  "sortorder": 2203,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Возвышение оружия",
+  "dropdomain": "Воля: Древние испытания молнии",
+  "daysofweek": [
+    "Среда",
+    "Суббота",
+    "Воскресенье"
+  ],
+  "source": [
+    "Сувенирная лавка Ли Юэ"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Grain_of_Aerosiderite.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Item_Grain_of_Aerosiderite.png",
+    "nameicon": "UI_ItemIcon_114021"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Grain_of_Aerosiderite"
+  },
+  "version": ""
+}

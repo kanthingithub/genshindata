@@ -1,0 +1,21 @@
+{
+  "name": "Pinheiro",
+  "description": "Madeira obtida de Pinheiros. Sua cor e grãos não são dignos de nota, mas sua natureza despretensiosa é bastante elegante. A madeira também é muito resistente. Em mãos hábeis, produtos feitos com ela resistem a traças e ao apodrecimento.\nPode ser usada para fabricar Decorações.",
+  "sortorder": 1951,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Material",
+  "source": [
+    "Encontrado na natureza",
+    "Recomendação: Talhado na Espinha do Dragão"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Pine_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Item_Pine_Wood.png",
+    "nameicon": "UI_ItemIcon_101303"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Pine_Wood"
+  },
+  "version": ""
+}

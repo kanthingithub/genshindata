@@ -1,0 +1,22 @@
+{
+  "name": "Hierba brumosa",
+  "description": "Hierba brumosa bien conservada. Algunos se aprovechan del amor incondicional de los Cicines voladores por este tipo de hierba para controlarlos.",
+  "sortorder": 1745,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Sintetizar",
+    "Obtenido de Magas de Cicin (Niv. 40+)",
+    "Canjear Polvo estelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Grass.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Item_Mist_Grass.png",
+    "nameicon": "UI_ItemIcon_112027"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Grass"
+  },
+  "version": ""
+}

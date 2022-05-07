@@ -1,0 +1,20 @@
+{
+  "name": "Tú Cầu Anh Đào",
+  "description": "Cánh hoa rơi từ cây Anh Đào Thần ở Đền Narukami, mang theo sự phù hộ của Inazuma.",
+  "sortorder": 2061,
+  "category": "EXCHANGE",
+  "materialtype": "Đặc Sản Khu Vực Inazuma",
+  "source": [
+    "Thu Thập Bên Ngoài",
+    "Đề xuất: Thu thập ở Đảo Narukami"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sakura_Bloom.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Sakura_Bloom.png",
+    "nameicon": "UI_ItemIcon_101202"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sakura_Bloom"
+  },
+  "version": ""
+}

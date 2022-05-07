@@ -1,0 +1,45 @@
+{
+  "name": "Guardião",
+  "rarity": [
+    "3",
+    "4"
+  ],
+  "2pc": "DEF +30%",
+  "4pc": "Aumenta a própria RES do respectivo elemento em 30% para cada elemento diferente dos seus personagens da equipe.",
+  "flower": {
+    "name": "Flor do Guarda",
+    "relictype": "Flor da Vida",
+    "description": "As íris apreciadas pelos guardiões. Não há chances de dar a quem ama."
+  },
+  "plume": {
+    "name": "Emblema do Guarda",
+    "relictype": "Pluma da Morte",
+    "description": "Um broche em forma de pena que simboliza o desejo de proteger."
+  },
+  "sands": {
+    "name": "Relógio do Guarda",
+    "relictype": "Areia do tempo",
+    "description": "Um pequeno dispositivo para mostrar a hora atual. Apenas funciona em noites sem lua."
+  },
+  "goblet": {
+    "name": "Sangue do Guarda",
+    "relictype": "Cálice de Erátema",
+    "description": "Recipiente de metal. Pode ser usado para reter algum tipo de líquido que pode espantar a solidão."
+  },
+  "circlet": {
+    "name": "Cinto do Guarda",
+    "relictype": "Tiara de Logos",
+    "description": "Uma bandana de tecido para prender o cabelo que também pode servir de curativo em caso de emergências."
+  },
+  "images": {
+    "flower": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_10003_4.png",
+    "plume": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_10003_2.png",
+    "sands": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_10003_5.png",
+    "goblet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_10003_1.png",
+    "circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_10003_3.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Defender's_Will"
+  },
+  "version": "1.0"
+}

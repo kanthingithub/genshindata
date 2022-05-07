@@ -1,0 +1,26 @@
+{
+  "name": "Die Maske des Tigerbisses",
+  "description": "Waffenaufstiegsmaterial.\nIn „Sumirezome Sangetsu Kogetsukan“ zerschmettert der wilde Oni Torachiyo die Naginata des Shouguns mit einem einzigen Biss und gewinnt so für eine Weile die Oberhand. Daher haben Masken, die ihm nachempfunden sind, fein gearbeitete Reißzähne.\nIn der Auflösung dieser Geschichte flüchtet der verwundete Oni in den Wald, in Todesangst, sich selbst dem kalten Mondlicht zu zeigen. Man kann sagen, dass der Wind, der durch die Gassen und Täler flüstert, seinen leisen Schmerzensschreien ähnelt, und so gibt es einen poetischen jahreszeitlichen Ausdruck dafür in Inazuma: „Torachiyos Wind“.",
+  "sortorder": 2216,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zum Aufstieg von Waffen",
+  "dropdomain": "Sphäre der Kriegskunst: Treibsand-Grab",
+  "daysofweek": [
+    "Mittwoch",
+    "Samstag",
+    "Sonntag"
+  ],
+  "source": [
+    "Kann hergestellt werden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mask_of_the_Tiger's_Bite.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Item_Mask_of_the_Tiger%27s_Bite.png",
+    "nameicon": "UI_ItemIcon_114034"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mask_of_the_Tiger's_Bite"
+  },
+  "version": ""
+}

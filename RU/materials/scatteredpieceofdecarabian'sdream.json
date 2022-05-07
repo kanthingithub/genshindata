@@ -1,0 +1,26 @@
+{
+  "name": "Осколок мечты Декарабиана",
+  "description": "Материал возвышения оружия.\nЛюди поклонялись Декарабиану не из уважения или обожания, а из-за сильных ветров, не дающих им встать с колен. Таковы были мечты и стремления Анемо Архонта до появления Барбатоса.\nМечта Декарабиана всё ещё хранит в себе частицу его могущества.",
+  "sortorder": 2186,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Возвышение оружия",
+  "dropdomain": "Воля: Город отражений",
+  "daysofweek": [
+    "Понедельник",
+    "Четверг",
+    "Воскресенье"
+  ],
+  "source": [
+    "Алхимия"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Scattered_Piece_of_Decarabian's_Dream.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Item_Scattered_Piece_of_Decarabian%27s_Dream.png",
+    "nameicon": "UI_ItemIcon_114004"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Scattered_Piece_of_Decarabian's_Dream"
+  },
+  "version": ""
+}

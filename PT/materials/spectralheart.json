@@ -1,0 +1,22 @@
+{
+  "name": "Coração Espectral",
+  "description": "Um núcleo energético que permite os Espectros flutuarem.\nEssas formas de vida elemental possuem padrões de comportamento estranhos e periodicamente aparecerão em grande número antes de desaparecerem.",
+  "sortorder": 1772,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Obtido na síntese",
+    "Dropado por Espectros Nv.40+",
+    "Resgate de Poeira Estrelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Spectral_Heart.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Item_Spectral_Heart.png",
+    "nameicon": "UI_ItemIcon_112054"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Spectral_Heart"
+  },
+  "version": ""
+}

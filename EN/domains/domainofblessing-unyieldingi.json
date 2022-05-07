@@ -1,0 +1,252 @@
+{
+  "name": "Domain of Blessing: Unyielding",
+  "region": "Mondstadt",
+  "domainEntrance": "Ridge Watch",
+  "domainType": "Artifacts",
+  "description": "Those who are tough in spirit and body and who are not afraid of suffering pain shall gain the protection of this ritual site.\nThose who conquer the trial within have a chance to obtain precious artifacts, and with them, the power to achieve dreams yet far-off.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_4"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domain of Blessing: Unyielding I",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Hydro",
+        "Cryo",
+        "Geo"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 15
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "3"
+        },
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": "4"
+        },
+        {
+          "name": "Pale Flame",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "A backlash will occur when opponents hit a character protected by a shield, unleashing a shockwave originating at the attacking opponent's position that deals one instance of AoE DMG. Can occur once every 2s."
+      ],
+      "monsterlist": [
+        "Pyro Slime",
+        "Large Pyro Slime",
+        "Hilichurl Berserker"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Unyielding II",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "Hydro",
+        "Cryo",
+        "Geo"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 20
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "3"
+        },
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": "4"
+        },
+        {
+          "name": "Pale Flame",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "A backlash will occur when opponents hit a character protected by a shield, unleashing a shockwave originating at the attacking opponent's position that deals one instance of AoE DMG. Can occur once every 2s."
+      ],
+      "monsterlist": [
+        "Large Pyro Slime",
+        "Hilichurl Berserker",
+        "Blazing Axe Mitachurl"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Unyielding III",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Hydro",
+        "Cryo",
+        "Geo"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 20
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "3"
+        },
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": "4"
+        },
+        {
+          "name": "Pale Flame",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "4"
+        },
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": "5"
+        },
+        {
+          "name": "Pale Flame",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "A backlash will occur when opponents hit a character protected by a shield, unleashing a shockwave originating at the attacking opponent's position that deals one instance of AoE DMG. Can occur once every 2s.",
+        ""
+      ],
+      "monsterlist": [
+        "Large Pyro Slime",
+        "Blazing Axe Mitachurl",
+        "Rock Shieldwall Mitachurl"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Unyielding IV",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "Geo"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 20
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "3"
+        },
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": "4"
+        },
+        {
+          "name": "Pale Flame",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "4"
+        },
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": "5"
+        },
+        {
+          "name": "Pale Flame",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "A backlash will occur when opponents hit a character protected by a shield, unleashing a shockwave originating at the attacking opponent's position that deals one instance of AoE DMG. Can occur once every 2s.",
+        ""
+      ],
+      "monsterlist": [
+        "Geovishap"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Teachings of Light",
+  "description": "Material Penguatan Talenta.\n\"Light\" adalah harapan bangsa petir.\nPenguasa yang menganggap dirinya sendiri mahatahu selalu berupaya untuk mendapatkan semua kemuliaan setinggi bintang. Namun Vision yang bukan untuk dibagi-bagikan justru membuat orang semakin menginginkannya dengan lebih tamak — namun akhirnya hanya menjadi senjata makan tuan.",
+  "sortorder": 1875,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Talenta",
+  "dropdomain": "Domain of Mastery: Reruntuhan Kota Tua",
+  "daysofweek": [
+    "Rabu",
+    "Sabtu",
+    "Minggu"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Light.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Item_Teachings_of_Light.png",
+    "nameicon": "UI_ItemIcon_104326"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Light"
+  },
+  "version": ""
+}

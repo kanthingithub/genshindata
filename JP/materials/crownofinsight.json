@@ -1,0 +1,20 @@
+{
+  "name": "知恵の冠",
+  "description": "天賦のLvUpに必要なレア素材。\n遥か昔に、知恵の伝承に使用していた儀式の器具。現在、知恵はすでに言語や典籍と一体化している。しかし「知恵の冠」に残された力と知識は今の人に偉大なる突破をもたらしてくれる。",
+  "sortorder": 2182,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "天賦育成素材",
+  "source": [
+    "期間限定イベント報酬"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crown_of_Insight.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Item_Crown_of_Insight.png",
+    "nameicon": "UI_ItemIcon_104319"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Crown_of_Insight"
+  },
+  "version": ""
+}

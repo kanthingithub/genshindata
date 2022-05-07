@@ -1,0 +1,914 @@
+{
+  "name": "Qiqi",
+  "fullname": "Qiqi",
+  "title": "Eisige Nacht der Wiedergänger",
+  "description": "Schülerin in der Bubu-Hütte und Kräutersammlerin. Sie ist leichenblass und redet nur sehr wenig. Ihr Miene verzieht sie kein einziges Mal.",
+  "rarity": "5",
+  "element": "Kryo",
+  "weapontype": "Einhänder",
+  "substat": "Heilungsbonus",
+  "gender": "Weiblich",
+  "body": "LOLI",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Bubu-Hütte",
+  "birthdaymmdd": "3/3",
+  "birthday": "3. März",
+  "constellation": "Pristina Nola",
+  "cv": {
+    "english": "Christie Cate",
+    "chinese": "宴宁",
+    "japanese": "田村ゆかり",
+    "korean": "Lee Seul"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Shivada-Jade-Splitter",
+        "count": 1
+      },
+      {
+        "name": "Glasglöckchen",
+        "count": 3
+      },
+      {
+        "name": "Leitende Schriftrolle",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Shivada-Jade-Bruchstück",
+        "count": 3
+      },
+      {
+        "name": "Fluxeiskern",
+        "count": 2
+      },
+      {
+        "name": "Glasglöckchen",
+        "count": 10
+      },
+      {
+        "name": "Leitende Schriftrolle",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Shivada-Jade-Bruchstück",
+        "count": 6
+      },
+      {
+        "name": "Fluxeiskern",
+        "count": 4
+      },
+      {
+        "name": "Glasglöckchen",
+        "count": 20
+      },
+      {
+        "name": "Zaubersiegel-Schriftrolle",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Shivada-Jade-Brocken",
+        "count": 3
+      },
+      {
+        "name": "Fluxeiskern",
+        "count": 8
+      },
+      {
+        "name": "Glasglöckchen",
+        "count": 30
+      },
+      {
+        "name": "Zaubersiegel-Schriftrolle",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Shivada-Jade-Brocken",
+        "count": 6
+      },
+      {
+        "name": "Fluxeiskern",
+        "count": 12
+      },
+      {
+        "name": "Glasglöckchen",
+        "count": 45
+      },
+      {
+        "name": "Fluchschriftrolle",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Shivada-Jade",
+        "count": 6
+      },
+      {
+        "name": "Fluxeiskern",
+        "count": 20
+      },
+      {
+        "name": "Glasglöckchen",
+        "count": 60
+      },
+      {
+        "name": "Fluchschriftrolle",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Character_Qiqi_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Character_Qiqi_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Qiqi.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817145380161.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817153781489.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/d696551575bc6c117462563fc92eae6c.png",
+    "nameicon": "UI_AvatarIcon_Qiqi",
+    "nameiconcard": "UI_AvatarIcon_Qiqi_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Qiqi",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Qiqi",
+    "namesideicon": "UI_AvatarIcon_Side_Qiqi"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Qiqi"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 962.8532104492188,
+      "attack": 22.3439998626709,
+      "defense": 71.7959976196289,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2497.6413252396014,
+      "attack": 57.96033790251158,
+      "defense": 186.23882508313727,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3323.2008955521014,
+      "attack": 77.11689880033873,
+      "defense": 247.7988264564283,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4972.5685019830125,
+      "attack": 115.3921718862457,
+      "defense": 370.78537462399254,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5559.1502890923875,
+      "attack": 129.00341036585996,
+      "defense": 414.52537630245934,
+      "specialized": 0.055399999022483826
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6395.86968856983,
+      "attack": 148.42034530892943,
+      "defense": 476.9160952212369,
+      "specialized": 0.055399999022483826
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7177.978819429205,
+      "attack": 166.5686645533142,
+      "defense": 535.2360872866666,
+      "specialized": 0.11079999804496765
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8023.363728842989,
+      "attack": 186.18669157431032,
+      "defense": 598.272957585541,
+      "specialized": 0.11079999804496765
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8609.945515952364,
+      "attack": 199.7979319612732,
+      "defense": 642.0129630787051,
+      "specialized": 0.11079999804496765
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9463.033611003106,
+      "attack": 219.59471933425903,
+      "defense": 705.6242281987761,
+      "specialized": 0.11079999804496765
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10049.61539811248,
+      "attack": 233.20596353591918,
+      "defense": 749.3642336919402,
+      "specialized": 0.16619999706745148
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 10912.331786523137,
+      "attack": 253.22618536721802,
+      "defense": 813.6934409860078,
+      "specialized": 0.16619999706745148
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11498.913573632512,
+      "attack": 266.83742193948365,
+      "defense": 857.4334312203828,
+      "specialized": 0.2214999943971634
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12368.370364256552,
+      "attack": 287.0140617423858,
+      "defense": 922.2652425417473,
+      "specialized": 0.2214999943971634
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Winterliche Ernte",
+      "effect": "Stellt Qiqi beim Treffen von mit dem Leidbefreiungs-Talisman markierten Gegnern mit Frostbringer 2 Punkte Elementarenergie wieder her."
+    },
+    "c2": {
+      "name": "Fröstelnde Glieder",
+      "effect": "Erhöht den von Kryo-Effekten betroffenen Gegnern mit Qiqis Standardangriffen und heftigen Schlägen zugefügten Schaden um 15 %."
+    },
+    "c3": {
+      "name": "Lobpreisung des Himmels",
+      "effect": "Erhöht die Stufe der Fähigkeit **Adeptenkunst – Befreiung vom Leid** um 3.\nHöchststufe 15."
+    },
+    "c4": {
+      "name": "Stärke des Himmels",
+      "effect": "Verringert den ANG von mit dem Leidbefreiungs-Talisman markierten Zielen um 20 %."
+    },
+    "c5": {
+      "name": "Blüte des roten Lotos",
+      "effect": "Erhöht die Stufe der Fähigkeit **Adeptenkunst – Frostbringer** um 3.\nHöchststufe 15."
+    },
+    "c6": {
+      "name": "Auferstehung",
+      "effect": "Belebt alle besiegten Figuren der Truppe in der Nähe bei Anwendung von **Adeptenkunst – Befreiung vom Leid** wieder und stellt ihnen LP auf bis zu 50 % ihrer max. LP wieder her.\n15 min Abklingzeit."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Qiqi_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Qiqi_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Qiqi_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Qiqi_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Qiqi_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Qiqi_04.png",
+      "constellation": "Eff_UI_Talent_Qiqi"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Qiqi",
+    "combat1": {
+      "name": "Standardangriff: Alte Schwertkunst aus den Wolken",
+      "info": "**Standardangriff**\nFührt bis zu 5 Schwerthiebe hintereinander aus.\n\n**Heftiger Schlag**\nVerbraucht eine gewisse Menge Ausdauer und schwingt das Schwert zweimal schnell nach vorn.\n\n**Angriff aus dem Fall**\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "attributes": [
+        {
+          "name": "SCH Phase 1",
+          "parameters": [
+            "37.75%",
+            "40.83%",
+            "43.90%",
+            "48.29%",
+            "51.36%",
+            "54.87%",
+            "59.70%",
+            "64.53%",
+            "69.36%",
+            "74.63%",
+            "79.90%",
+            "85.17%",
+            "90.43%",
+            "95.70%",
+            "100.97%"
+          ]
+        },
+        {
+          "name": "SCH Phase 2",
+          "parameters": [
+            "38.87%",
+            "42.04%",
+            "45.20%",
+            "49.72%",
+            "52.88%",
+            "56.50%",
+            "61.47%",
+            "66.44%",
+            "71.42%",
+            "76.84%",
+            "82.26%",
+            "87.69%",
+            "93.11%",
+            "98.54%",
+            "103.96%"
+          ]
+        },
+        {
+          "name": "SCH Phase 3",
+          "parameters": [
+            "24.17% + 24.17%",
+            "26.13% + 26.13%",
+            "28.10% + 28.10%",
+            "30.91% + 30.91%",
+            "32.88% + 32.88%",
+            "35.12% + 35.12%",
+            "38.22% + 38.22%",
+            "41.31% + 41.31%",
+            "44.40% + 44.40%",
+            "47.77% + 47.77%",
+            "51.14% + 51.14%",
+            "54.51% + 54.51%",
+            "57.89% + 57.89%",
+            "61.26% + 61.26%",
+            "64.63% + 64.63%"
+          ]
+        },
+        {
+          "name": "SCH Phase 4",
+          "parameters": [
+            "24.68% + 24.68%",
+            "26.69% + 26.69%",
+            "28.70% + 28.70%",
+            "31.57% + 31.57%",
+            "33.58% + 33.58%",
+            "35.87% + 35.87%",
+            "39.03% + 39.03%",
+            "42.19% + 42.19%",
+            "45.35% + 45.35%",
+            "48.79% + 48.79%",
+            "52.23% + 52.23%",
+            "55.68% + 55.68%",
+            "59.12% + 59.12%",
+            "62.57% + 62.57%",
+            "66.01% + 66.01%"
+          ]
+        },
+        {
+          "name": "SCH Phase 5",
+          "parameters": [
+            "63.04%",
+            "68.17%",
+            "73.30%",
+            "80.63%",
+            "85.76%",
+            "91.62%",
+            "99.69%",
+            "107.75%",
+            "115.81%",
+            "124.61%",
+            "133.41%",
+            "142.20%",
+            "151.00%",
+            "159.79%",
+            "168.59%"
+          ]
+        },
+        {
+          "name": "SCH heftiger Schläge",
+          "parameters": [
+            "64.33% + 64.33%",
+            "69.56% + 69.56%",
+            "74.80% + 74.80%",
+            "82.28% + 82.28%",
+            "87.52% + 87.52%",
+            "93.50% + 93.50%",
+            "101.73% + 101.73%",
+            "109.96% + 109.96%",
+            "118.18% + 118.18%",
+            "127.16% + 127.16%",
+            "136.14% + 136.14%",
+            "145.11% + 145.11%",
+            "154.09% + 154.09%",
+            "163.06% + 163.06%",
+            "172.04% + 172.04%"
+          ]
+        },
+        {
+          "name": "Ausdauerverbrauch heftiger Schläge",
+          "parameters": [
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen aus niedriger/großer Höhe",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Adeptenkunst: Frostbringer",
+      "info": "Beschwört den Frostbringer mithilfe des Frostader-Talismans und fügt den Gegnern in der Umgebung Kryo-Schaden zu.\n\n**Frostbringer**\n· Qiqi stellt bei Treffern mit Standardangriffen und heftigen Schlägen allen eigenen Truppenmitgliedern und befreundeten Einheiten in der Nähe LP basierend auf Qiqis ANG wieder her.\n· Stellt der aktuellen eigenen Figur in regelmäßigen Abständen LP wieder her.\n· Fügt den Gegnern in der Bahn gemäß den Bewegungen der Figur Kryo-Schaden zu.",
+      "description": "„Mein Freund hier dient größtenteils der Frischhaltung ... also für die kostbaren Wirkstoffe von Dr. Baizhu.“",
+      "attributes": [
+        {
+          "name": "Fähigkeits-SCH",
+          "parameters": [
+            "96.00%",
+            "103.20%",
+            "110.40%",
+            "120.00%",
+            "127.20%",
+            "134.40%",
+            "144.00%",
+            "153.60%",
+            "163.20%",
+            "172.80%",
+            "182.40%",
+            "192.00%",
+            "204.00%",
+            "216.00%",
+            "228.00%"
+          ]
+        },
+        {
+          "name": "Heilung bei Treffer",
+          "parameters": [
+            "10.56% ANG + 67",
+            "11.35% ANG + 74",
+            "12.14% ANG + 81",
+            "13.20% ANG + 89",
+            "13.99% ANG + 98",
+            "14.78% ANG + 107",
+            "15.84% ANG + 116",
+            "16.90% ANG + 126",
+            "17.95% ANG + 137",
+            "19.01% ANG + 148",
+            "20.06% ANG + 160",
+            "21.12% ANG + 172",
+            "22.44% ANG + 185",
+            "23.76% ANG + 199",
+            "25.08% ANG + 213"
+          ]
+        },
+        {
+          "name": "Fortlaufende Heilung",
+          "parameters": [
+            "69.60% ANG + 451",
+            "74.82% ANG + 496",
+            "80.04% ANG + 544",
+            "87.00% ANG + 597",
+            "92.22% ANG + 653",
+            "97.44% ANG + 713",
+            "104.40% ANG + 777",
+            "111.36% ANG + 845",
+            "118.32% ANG + 916",
+            "125.28% ANG + 991",
+            "132.24% ANG + 1070",
+            "139.20% ANG + 1153",
+            "147.90% ANG + 1239",
+            "156.60% ANG + 1329",
+            "165.30% ANG + 1423"
+          ]
+        },
+        {
+          "name": "Frostbringer-SCH",
+          "parameters": [
+            "36.00%",
+            "38.70%",
+            "41.40%",
+            "45.00%",
+            "47.70%",
+            "50.40%",
+            "54.00%",
+            "57.60%",
+            "61.20%",
+            "64.80%",
+            "68.40%",
+            "72.00%",
+            "76.50%",
+            "81.00%",
+            "85.50%"
+          ]
+        },
+        {
+          "name": "Dauer",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "Abklingzeit",
+          "parameters": [
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Adeptenkunst: Befreiung vom Leid",
+      "info": "Qiqi lässt der adeptischen Kraft, die in ihrem Körper versiegelt ist, freien Lauf, markiert Gegner in der Nähe mit ihrem Leidbefreiungs-Talisman und verursacht Kryo-Schaden.\n\n**Leidbefreiungs-Talisman**\nStellt Figuren, die vom Effekt des Leidbefreiungs-Talismans betroffenen Gegnern Schaden zufügen, LP wieder her.",
+      "description": "„Ich bin die Fürstin der Befreiung von Leid und Elend“, das wiederauferstandene Kind.\n- An diese Worte erinnert sich Qiqi längst nicht mehr.",
+      "attributes": [
+        {
+          "name": "Fähigkeits-SCH",
+          "parameters": [
+            "284.80%",
+            "306.16%",
+            "327.52%",
+            "356.00%",
+            "377.36%",
+            "398.72%",
+            "427.20%",
+            "455.68%",
+            "484.16%",
+            "512.64%",
+            "541.12%",
+            "569.60%",
+            "605.20%",
+            "640.80%",
+            "676.40%"
+          ]
+        },
+        {
+          "name": "Heilung",
+          "parameters": [
+            "90.00% ANG + 577",
+            "96.75% ANG + 635",
+            "103.50% ANG + 698",
+            "112.50% ANG + 765",
+            "119.25% ANG + 837",
+            "126.00% ANG + 914",
+            "135.00% ANG + 996",
+            "144.00% ANG + 1083",
+            "153.00% ANG + 1174",
+            "162.00% ANG + 1270",
+            "171.00% ANG + 1371",
+            "180.00% ANG + 1477",
+            "191.25% ANG + 1588",
+            "202.50% ANG + 1703",
+            "213.75% ANG + 1824"
+          ]
+        },
+        {
+          "name": "Dauer",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "Abklingzeit",
+          "parameters": [
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s"
+          ]
+        },
+        {
+          "name": "Elementarenergie",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Technik der Langlebigkeit",
+      "info": "Erhöht den passiven Heilungsbonus beim Auslösen von Elementarreaktionen durch Figuren im Zustand **Adeptenkunst – Frostbringer** 8 s lang um 20 %."
+    },
+    "passive2": {
+      "name": "Blick ins Ungewisse",
+      "info": "Fügt mit Standardangriffen und heftigen Schlägen von Qiqi getroffenen Gegnern mit einer Wahrscheinlichkeit von 50 % einen Leidbefreiungs-Talisman hinzu, hält 6 s. 30 s Abklingzeit"
+    },
+    "passive3": {
+      "name": "Alte Zeiten",
+      "info": "Zeigt alle **Besonderheiten Liyues** in der Nähe auf der Minikarte an."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Lehren des „Wohlstands“",
+          "count": 3
+        },
+        {
+          "name": "Leitende Schriftrolle",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Anleitung zum „Wohlstand“",
+          "count": 2
+        },
+        {
+          "name": "Zaubersiegel-Schriftrolle",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Anleitung zum „Wohlstand“",
+          "count": 4
+        },
+        {
+          "name": "Zaubersiegel-Schriftrolle",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Anleitung zum „Wohlstand“",
+          "count": 6
+        },
+        {
+          "name": "Zaubersiegel-Schriftrolle",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Anleitung zum „Wohlstand“",
+          "count": 9
+        },
+        {
+          "name": "Zaubersiegel-Schriftrolle",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie des „Wohlstands“",
+          "count": 4
+        },
+        {
+          "name": "Fluchschriftrolle",
+          "count": 4
+        },
+        {
+          "name": "Schwanz des Nordwinds",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie des „Wohlstands“",
+          "count": 6
+        },
+        {
+          "name": "Fluchschriftrolle",
+          "count": 6
+        },
+        {
+          "name": "Schwanz des Nordwinds",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie des „Wohlstands“",
+          "count": 12
+        },
+        {
+          "name": "Fluchschriftrolle",
+          "count": 9
+        },
+        {
+          "name": "Schwanz des Nordwinds",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie des „Wohlstands“",
+          "count": 16
+        },
+        {
+          "name": "Fluchschriftrolle",
+          "count": 12
+        },
+        {
+          "name": "Schwanz des Nordwinds",
+          "count": 2
+        },
+        {
+          "name": "Krone der Weisheit",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_01",
+      "combat2": "Skill_S_Qiqi_01",
+      "combat3": "Skill_E_Qiqi_01_HD",
+      "passive1": "UI_Talent_S_Qiqi_05",
+      "passive2": "UI_Talent_S_Qiqi_06",
+      "passive3": "UI_Talent_Collect_Local_Liyue"
+    },
+    "version": "1.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Sigil Kunci",
+  "description": "Sebuah sigil yang diturunkan melalui Pulau Watatsumi dan Enkanomiya. Mengandung beberapa rahasia yang tersembunyi.",
+  "sortorder": 977,
+  "category": "CONSUME",
+  "materialtype": "Konsumsi",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_100934",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Key_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Key_Sigil"
+  },
+  "version": ""
+}

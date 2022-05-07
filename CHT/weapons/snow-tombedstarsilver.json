@@ -1,0 +1,317 @@
+{
+  "name": "雪葬的星銀",
+  "description": "儲存在壁畫之間的古老大劍。由星銀鑄成，似乎擁有斬開冰雪的力量。",
+  "weapontype": "雙手劍",
+  "rarity": "4",
+  "baseatk": 44,
+  "substat": "物理傷害加成",
+  "subvalue": "7.5",
+  "effectname": "霜葬",
+  "effect": [
+    "普通攻擊與重擊命中敵人時，有[60%]機率在敵人上方生成恆冰晶核並墜落，造成[80%]攻擊力的範圍傷害。若敵人處於冰元素影響下，則造成[200%]攻擊力的傷害。該效果每10秒至多觸發一次。",
+    "普通攻擊與重擊命中敵人時，有[70%]機率在敵人上方生成恆冰晶核並墜落，造成[95%]攻擊力的範圍傷害。若敵人處於冰元素影響下，則造成[240%]攻擊力的傷害。該效果每10秒至多觸發一次。",
+    "普通攻擊與重擊命中敵人時，有[80%]機率在敵人上方生成恆冰晶核並墜落，造成[110%]攻擊力的範圍傷害。若敵人處於冰元素影響下，則造成[280%]攻擊力的傷害。該效果每10秒至多觸發一次。",
+    "普通攻擊與重擊命中敵人時，有[90%]機率在敵人上方生成恆冰晶核並墜落，造成[125%]攻擊力的範圍傷害。若敵人處於冰元素影響下，則造成[320%]攻擊力的傷害。該效果每10秒至多觸發一次。",
+    "普通攻擊與重擊命中敵人時，有[100%]機率在敵人上方生成恆冰晶核並墜落，造成[140%]攻擊力的範圍傷害。若敵人處於冰元素影響下，則造成[360%]攻擊力的傷害。該效果每10秒至多觸發一次。"
+  ],
+  "r1": [
+    "60%",
+    "80%",
+    "200%"
+  ],
+  "r2": [
+    "70%",
+    "95%",
+    "240%"
+  ],
+  "r3": [
+    "80%",
+    "110%",
+    "280%"
+  ],
+  "r4": [
+    "90%",
+    "125%",
+    "320%"
+  ],
+  "r5": [
+    "100%",
+    "140%",
+    "360%"
+  ],
+  "weaponmaterialtype": "Decarabian",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "摩拉",
+        "count": 5000
+      },
+      {
+        "name": "高塔孤王的破瓦",
+        "count": 3
+      },
+      {
+        "name": "沉重號角",
+        "count": 3
+      },
+      {
+        "name": "史萊姆凝液",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "摩拉",
+        "count": 15000
+      },
+      {
+        "name": "高塔孤王的殘垣",
+        "count": 3
+      },
+      {
+        "name": "沉重號角",
+        "count": 12
+      },
+      {
+        "name": "史萊姆凝液",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "摩拉",
+        "count": 20000
+      },
+      {
+        "name": "高塔孤王的殘垣",
+        "count": 6
+      },
+      {
+        "name": "黑銅號角",
+        "count": 6
+      },
+      {
+        "name": "史萊姆清",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "摩拉",
+        "count": 30000
+      },
+      {
+        "name": "高塔孤王的斷片",
+        "count": 3
+      },
+      {
+        "name": "黑銅號角",
+        "count": 12
+      },
+      {
+        "name": "史萊姆清",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "摩拉",
+        "count": 35000
+      },
+      {
+        "name": "高塔孤王的斷片",
+        "count": 6
+      },
+      {
+        "name": "黑晶號角",
+        "count": 9
+      },
+      {
+        "name": "史萊姆原漿",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "摩拉",
+        "count": 45000
+      },
+      {
+        "name": "高塔孤王的碎夢",
+        "count": 4
+      },
+      {
+        "name": "黑晶號角",
+        "count": 18
+      },
+      {
+        "name": "史萊姆原漿",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/49/Weapon_Snow-Tombed_Starsilver.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Dragonfell.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Dragonfell_Awaken.png",
+    "nameicon": "UI_EquipIcon_Claymore_Dragonfell",
+    "namegacha": "UI_Gacha_EquipIcon_Claymore_Dragonfell",
+    "nameawakenicon": "UI_EquipIcon_Claymore_Dragonfell_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Snow-Tombed_Starsilver"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 43.734901428222656,
+      "specialized": 0.07506699860095978
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 59.17332359270131,
+      "specialized": 0.08722784793576821
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 78.72282048535817,
+      "specialized": 0.10231632174191851
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 98.5347338353804,
+      "specialized": 0.11747985710587017
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 118.56531627039294,
+      "specialized": 0.13264338352113825
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 144.46531588892321,
+      "specialized": 0.13264338352113825
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 164.62710394581518,
+      "specialized": 0.1478069188850899
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 184.96383978335507,
+      "specialized": 0.16297045424904155
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 205.43177081556132,
+      "specialized": 0.17813398066430963
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 225.98716531087848,
+      "specialized": 0.19329752497694486
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 251.9871672182271,
+      "specialized": 0.19329752497694486
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 272.6300460310813,
+      "specialized": 0.20846105139221294
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 293.3603883070464,
+      "specialized": 0.22362459570484816
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 319.2603898329253,
+      "specialized": 0.22362459570484816
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 340.0344638404458,
+      "specialized": 0.23878812212011624
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 360.8960221655034,
+      "specialized": 0.2539516485353843
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 386.79601606198776,
+      "specialized": 0.2539516485353843
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 407.70130611860077,
+      "specialized": 0.26911519284801955
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 428.6940596383247,
+      "specialized": 0.2842036577054863
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 454.6940596383247,
+      "specialized": 0.2842036577054863
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 475.6867923036225,
+      "specialized": 0.29936718412075436
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 496.723298409328,
+      "specialized": 0.3145307284333896
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 522.6233075646014,
+      "specialized": 0.3145307284333896
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 543.7035036930101,
+      "specialized": 0.3296942727460248
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 564.7837415302711,
+      "specialized": 0.34485778126392574
+    }
+  },
+  "version": "1.2"
+}

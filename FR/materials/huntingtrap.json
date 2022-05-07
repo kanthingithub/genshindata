@@ -1,0 +1,17 @@
+{
+  "name": "Piège de chasse",
+  "description": "Un piège permettant d'attraper les créatures d'une certaine taille. Utilisez-le dans la nature pour attraper des bêtes. Posez-le par terre à un endroit où les animaux ne le soupçonneront pas.",
+  "sortorder": 99,
+  "category": "CONSUME",
+  "materialtype": "Consommable",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_100225",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Hunting_Trap.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Hunting_Trap.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Hunting_Trap"
+  },
+  "version": ""
+}

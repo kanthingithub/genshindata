@@ -1,0 +1,252 @@
+{
+  "name": "祝聖秘境：不移",
+  "region": "蒙德",
+  "domainEntrance": "山脊守望",
+  "domainType": "聖遺物",
+  "description": "精神與軀體足夠強韌、面臨傷害而不屈服的人，在這間祭場中就能獲得護佑。\n能成功克服其中試煉者，或許就能獲得珍貴的聖遺物，獲得實現遙不可及的夢想的助力。",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_4"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "祝聖秘境：不移 I",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "水元素",
+        "冰元素",
+        "岩元素"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "冒險閱歷",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 1850
+        },
+        {
+          "name": "好感經驗",
+          "count": 15
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "3"
+        },
+        {
+          "name": "武人",
+          "rarity": "3"
+        },
+        {
+          "name": "千岩牢固",
+          "rarity": "4"
+        },
+        {
+          "name": "蒼白之火",
+          "rarity": "4"
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "4"
+        },
+        {
+          "name": "武人",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "敵人的攻擊命中處於護盾庇護下的角色時，會進行反噬：在進行攻擊的敵人位置釋放衝擊波，造成範圍傷害。該效果每2秒只能觸發一次。"
+      ],
+      "monsterlist": [
+        "火史萊姆",
+        "大型火史萊姆",
+        "衝鋒丘丘人"
+      ]
+    },
+    {
+      "name": "祝聖秘境：不移 II",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "水元素",
+        "冰元素",
+        "岩元素"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "冒險閱歷",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 2025
+        },
+        {
+          "name": "好感經驗",
+          "count": 20
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "3"
+        },
+        {
+          "name": "武人",
+          "rarity": "3"
+        },
+        {
+          "name": "千岩牢固",
+          "rarity": "4"
+        },
+        {
+          "name": "蒼白之火",
+          "rarity": "4"
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "4"
+        },
+        {
+          "name": "武人",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "敵人的攻擊命中處於護盾庇護下的角色時，會進行反噬：在進行攻擊的敵人位置釋放衝擊波，造成範圍傷害。該效果每2秒只能觸發一次。"
+      ],
+      "monsterlist": [
+        "大型火史萊姆",
+        "衝鋒丘丘人",
+        "火斧丘丘暴徒"
+      ]
+    },
+    {
+      "name": "祝聖秘境：不移 III",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "水元素",
+        "冰元素",
+        "岩元素"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "冒險閱歷",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 2200
+        },
+        {
+          "name": "好感經驗",
+          "count": 20
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "3"
+        },
+        {
+          "name": "武人",
+          "rarity": "3"
+        },
+        {
+          "name": "千岩牢固",
+          "rarity": "4"
+        },
+        {
+          "name": "蒼白之火",
+          "rarity": "4"
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "4"
+        },
+        {
+          "name": "武人",
+          "rarity": "4"
+        },
+        {
+          "name": "千岩牢固",
+          "rarity": "5"
+        },
+        {
+          "name": "蒼白之火",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "敵人的攻擊命中處於護盾庇護下的角色時，會進行反噬：在進行攻擊的敵人位置釋放衝擊波，造成範圍傷害。該效果每2秒只能觸發一次。",
+        ""
+      ],
+      "monsterlist": [
+        "大型火史萊姆",
+        "火斧丘丘暴徒",
+        "岩盾丘丘暴徒"
+      ]
+    },
+    {
+      "name": "祝聖秘境：不移 IV",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "岩元素"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "冒險閱歷",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 2525
+        },
+        {
+          "name": "好感經驗",
+          "count": 20
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "3"
+        },
+        {
+          "name": "武人",
+          "rarity": "3"
+        },
+        {
+          "name": "千岩牢固",
+          "rarity": "4"
+        },
+        {
+          "name": "蒼白之火",
+          "rarity": "4"
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "4"
+        },
+        {
+          "name": "武人",
+          "rarity": "4"
+        },
+        {
+          "name": "千岩牢固",
+          "rarity": "5"
+        },
+        {
+          "name": "蒼白之火",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "敵人的攻擊命中處於護盾庇護下的角色時，會進行反噬：在進行攻擊的敵人位置釋放衝擊波，造成範圍傷害。該效果每2秒只能觸發一次。",
+        ""
+      ],
+      "monsterlist": [
+        "岩龍蜥"
+      ]
+    }
+  ]
+}

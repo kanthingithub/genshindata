@@ -1,0 +1,19 @@
+{
+  "name": "Leche",
+  "description": "Leche de vaca, dulce y deliciosa. No desperdicies una sola gota, ni siquiera esa que baja por tu barbilla.",
+  "sortorder": 1998,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente culinario",
+  "source": [
+    "Comprado en tiendas"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Milk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Item_Milk.png",
+    "nameicon": "UI_ItemIcon_100078"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Milk"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "星銀礦石",
+  "description": "因為龍脊雪山的特殊地理環境與地脈，而產生的珍稀礦石。",
+  "sortorder": 1959,
+  "category": "EXCHANGE",
+  "materialtype": "鍛造用礦石",
+  "source": [
+    "野外採集",
+    "推薦：龍脊雪山採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Starsilver.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Item_Starsilver.png",
+    "nameicon": "UI_ItemIcon_101006"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Starsilver"
+  },
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Cryo Sigil",
+  "description": "Sebuah tanda pengakuan dan tanda penghormatan, di area sekitar Mondstadt. Dapat ditukarkan menjadi item langka di beberapa lokasi tertentu.",
+  "sortorder": 505,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "Sigil Elemental",
+  "source": [
+    "Hadiah Eksplorasi"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_306",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cryo_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cryo_Sigil"
+  },
+  "version": ""
+}

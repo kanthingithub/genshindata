@@ -1,0 +1,26 @@
+{
+  "name": "Dente de Leite do Lobo Boreal",
+  "description": "Material de Ascensão de Armas.\nA alcateia de lobos é abençoada pelos guardas e os dentes de leite de um lobo possui grande potencial.\nNo passado, os Arcontes tinham a responsabilidade de amar as pessoas, então Andrius se destacou por ser diferente por apenas adotar bebês abandonados e Andrius.",
+  "sortorder": 2187,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Ascensão de Armas",
+  "dropdomain": "Domínio da Forja: Vale Submerso",
+  "daysofweek": [
+    "Terça-feira",
+    "Sexta-feira",
+    "Domingo"
+  ],
+  "source": [
+    "Comprado na Loja de Lembranças de Mondstadt"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Boreal_Wolf's_Milk_Tooth.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Boreal_Wolf%27s_Milk_Tooth.png",
+    "nameicon": "UI_ItemIcon_114005"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Boreal_Wolf's_Milk_Tooth"
+  },
+  "version": ""
+}

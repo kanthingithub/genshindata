@@ -1,0 +1,171 @@
+{
+  "name": "Domain of Mastery: Lembah Petir",
+  "region": "Inazuma",
+  "domainEntrance": "Violet Court",
+  "domainType": "Material Penguatan Talenta",
+  "description": "Para monster telah menyerbu altar di mana bunga sakura berwarna ungu mekar abadi.\nKamu berhak memperoleh Material Penguatan Talenta, apabila kamu berhasil melewati tantangan ini.",
+  "daysOfWeek": [
+    "Selasa",
+    "Jumat",
+    "Minggu"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Thunder_Dq"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domain of Mastery: Lembah Petir I",
+      "recommendedLevel": 38,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1575
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Teachings of Elegance"
+        }
+      ],
+      "disorder": [
+        "Meningkatkan 25% Electro DMG seluruh Karakter dalam party.",
+        "Di dalam tantangan ini terdapat Electro Crystalfruit yang memberikan Nascent Electro Pearl secara berkala. Setelah mengambil Nascent Electro Pearl, maka Normal Attack, Charged Attack, Plunging Attack, Elemental Skill dan Elemental Burst Karakter akan melancarkan Falling Thunder yang mengakibatkan Electro DMG saat mengenai musuh."
+      ],
+      "monsterlist": [
+        "Hilichurl",
+        "Electro Hilichurl Grenadier",
+        "Electro Hilichurl Shooter",
+        "Crackling Axe Mitachurl"
+      ]
+    },
+    {
+      "name": "Domain of Mastery: Lembah Petir II",
+      "recommendedLevel": 54,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 28,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1800
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Teachings of Elegance"
+        },
+        {
+          "name": "Guide to Elegance"
+        }
+      ],
+      "disorder": [
+        "Meningkatkan 25% Electro DMG seluruh Karakter dalam party.",
+        "Di dalam tantangan ini terdapat Electro Crystalfruit yang memberikan Nascent Electro Pearl secara berkala. Setelah mengambil Nascent Electro Pearl, maka Normal Attack, Charged Attack, Plunging Attack, Elemental Skill dan Elemental Burst Karakter akan melancarkan Falling Thunder yang mengakibatkan Electro DMG saat mengenai musuh."
+      ],
+      "monsterlist": [
+        "Nobushi: Jintouban",
+        "Nobushi: Hitsukeban",
+        "Nobushi: Kikouban",
+        "Treasure Hoarder: Pyro Potioneer",
+        "Treasure Hoarder: Electro Potioneer"
+      ]
+    },
+    {
+      "name": "Domain of Mastery: Lembah Petir III",
+      "recommendedLevel": 71,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 36,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2050
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Teachings of Elegance"
+        },
+        {
+          "name": "Guide to Elegance"
+        }
+      ],
+      "disorder": [
+        "Meningkatkan 25% Electro DMG seluruh Karakter dalam party.",
+        "Di dalam tantangan ini terdapat Electro Crystalfruit yang memberikan Nascent Electro Pearl secara berkala. Setelah mengambil Nascent Electro Pearl, maka Normal Attack, Charged Attack, Plunging Attack, Elemental Skill dan Elemental Burst Karakter akan melancarkan Falling Thunder yang mengakibatkan Electro DMG saat mengenai musuh."
+      ],
+      "monsterlist": [
+        "Nobushi: Hitsukeban",
+        "Nobushi: Kikouban",
+        "Treasure Hoarder: Pyro Potioneer",
+        "Treasure Hoarder: Electro Potioneer",
+        "Kairagi: Fiery Might"
+      ]
+    },
+    {
+      "name": "Domain of Mastery: Lembah Petir IV",
+      "recommendedLevel": 88,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2375
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Teachings of Elegance"
+        },
+        {
+          "name": "Guide to Elegance"
+        },
+        {
+          "name": "Philosophies of Elegance"
+        }
+      ],
+      "disorder": [
+        "Meningkatkan 25% Electro DMG seluruh Karakter dalam party.",
+        "Di dalam tantangan ini terdapat Electro Crystalfruit yang memberikan Nascent Electro Pearl secara berkala. Setelah mengambil Nascent Electro Pearl, maka Normal Attack, Charged Attack, Plunging Attack, Elemental Skill dan Elemental Burst Karakter akan melancarkan Falling Thunder yang mengakibatkan Electro DMG saat mengenai musuh."
+      ],
+      "monsterlist": [
+        "Treasure Hoarder: Cryo Potioneer",
+        "Kairagi: Dancing Thunder",
+        "Kairagi: Fiery Might"
+      ]
+    }
+  ]
+}

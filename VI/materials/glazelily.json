@@ -1,0 +1,21 @@
+{
+  "name": "Bách Hợp Lưu Ly",
+  "description": "Loài hoa từ thời cổ xưa. Nghe nói từng mọc khắp vùng đất Liyue, có thể tích tụ những ký ức tạo thành hương thơm của hoa.",
+  "sortorder": 2051,
+  "category": "EXCHANGE",
+  "materialtype": "Đặc Sản Khu Vực Liyue",
+  "source": [
+    "Thu Thập Bên Ngoài",
+    "Đề xuất: Thu thập tại Ngọc Kinh Đài cảng Liyue",
+    "Kiến nghị: Thu thập trong Khinh Sách Trang"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Glaze_Lily.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Item_Glaze_Lily.png",
+    "nameicon": "UI_ItemIcon_100030"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Glaze_Lily"
+  },
+  "version": ""
+}

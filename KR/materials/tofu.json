@@ -1,0 +1,20 @@
+{
+  "name": "두부",
+  "description": "신선하고 연한 콩제품. 식감은 응유처럼 부드럽다",
+  "sortorder": 2004,
+  "category": "EXCHANGE",
+  "materialtype": "식자재",
+  "source": [
+    "리월 잡화점 구매",
+    "이나즈마 잡화점 구매"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Tofu.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Item_Tofu.png",
+    "nameicon": "UI_ItemIcon_100088"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Tofu"
+  },
+  "version": ""
+}

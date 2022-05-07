@@ -1,0 +1,24 @@
+{
+  "name": "Branche marine de corail",
+  "description": "Matériau d'élévation d'arme.\nL'Île de Watatsumi est la plus éloignée de l'Île de Narukami dans la chaîne d'îles inazumiennes, et son nom signifie « divinité des océans » dans l'ancienne langue de l'île. La légende raconte que lorsque le Grand serpent est apparu pour la première fois dans la nation abyssale de la nuit éternelle, son corps fluorescent était recouvert d'une myriade de coraux colorés.",
+  "sortorder": 2207,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'élévation d'arme",
+  "dropdomain": "Donjon d'entraînement : Sables engloutis",
+  "daysofweek": [
+    "Lundi",
+    "Jeudi",
+    "Dimanche"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Coral_Branch_of_a_Distant_Sea.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Item_Coral_Branch_of_a_Distant_Sea.png",
+    "nameicon": "UI_ItemIcon_114025"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Coral_Branch_of_a_Distant_Sea"
+  },
+  "version": ""
+}

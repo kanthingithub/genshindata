@@ -1,0 +1,171 @@
+{
+  "name": "ดันเจี้ยนแห่งการพัฒนา: เมืองโบราณที่รกร้าง",
+  "region": "Inazuma",
+  "domainEntrance": "โถงสีม่วง",
+  "domainType": "วัสดุยกระดับพรสวรรค์",
+  "description": "ในแท่นบูชาที่มีดอกซากุระสีม่วงเบ่งบานอยู่เสมอนี้ มีมอนสเตอร์ซุ่มซ่อนตัวอยู่\nหากว่าสามารถผ่านการทดสอบนี้ได้ล่ะก็ บางทีอาจจะได้รับวัตถุ ที่สามารถพัฒนาพรสวรรค์ได้ก็เป็นได้",
+  "daysOfWeek": [
+    "วันพุธ",
+    "วันเสาร์",
+    "วันอาทิตย์"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Thunder_Dq"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "ดันเจี้ยนแห่งการพัฒนา: เมืองโบราณที่รกร้าง I",
+      "recommendedLevel": 38,
+      "recommendedElements": [
+        "ไฟฟ้า"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1575
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Teachings of Light"
+        }
+      ],
+      "disorder": [
+        "ตัวละครในทีมจะได้รับโบนัสความเสียหายไฟฟ้า 25%",
+        "ในระหว่างการท้าทายจะมีการตกผลึกไฟฟ้า ซึ่งจะปรากฏเป็นไข่มุกไฟฟ้าเป็นระยะ ๆ เมื่อตัวละครได้รับไข่มุกไฟฟ้าและทำการโจมตีปกติ, ชาร์จโจมตี, โจมตีพุ่งลงจากอากาศถูกศัตรูจะทำให้เกิดสายฟ้าซึ่งสามารถสร้างความเสียหายไฟฟ้าได้"
+      ],
+      "monsterlist": [
+        "Hilichurl",
+        "Electro Hilichurl Grenadier",
+        "Electro Hilichurl Shooter",
+        "Crackling Axe Mitachurl"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งการพัฒนา: เมืองโบราณที่รกร้าง II",
+      "recommendedLevel": 54,
+      "recommendedElements": [
+        "ไฟฟ้า"
+      ],
+      "unlockRank": 28,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1800
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Teachings of Light"
+        },
+        {
+          "name": "Guide to Light"
+        }
+      ],
+      "disorder": [
+        "ตัวละครในทีมจะได้รับโบนัสความเสียหายไฟฟ้า 25%",
+        "ในระหว่างการท้าทายจะมีการตกผลึกไฟฟ้า ซึ่งจะปรากฏเป็นไข่มุกไฟฟ้าเป็นระยะ ๆ เมื่อตัวละครได้รับไข่มุกไฟฟ้าและทำการโจมตีปกติ, ชาร์จโจมตี, โจมตีพุ่งลงจากอากาศถูกศัตรูจะทำให้เกิดสายฟ้าซึ่งสามารถสร้างความเสียหายไฟฟ้าได้"
+      ],
+      "monsterlist": [
+        "Nobushi: Jintouban",
+        "Nobushi: Hitsukeban",
+        "Nobushi: Kikouban",
+        "กองโจรล่าสมบัติ - Pyro Potioneer",
+        "กองโจรล่าสมบัติ - Electro Potioneer"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งการพัฒนา: เมืองโบราณที่รกร้าง III",
+      "recommendedLevel": 71,
+      "recommendedElements": [
+        "ไฟฟ้า"
+      ],
+      "unlockRank": 36,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2050
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Teachings of Light"
+        },
+        {
+          "name": "Guide to Light"
+        }
+      ],
+      "disorder": [
+        "ตัวละครในทีมจะได้รับโบนัสความเสียหายไฟฟ้า 25%",
+        "ในระหว่างการท้าทายจะมีการตกผลึกไฟฟ้า ซึ่งจะปรากฏเป็นไข่มุกไฟฟ้าเป็นระยะ ๆ เมื่อตัวละครได้รับไข่มุกไฟฟ้าและทำการโจมตีปกติ, ชาร์จโจมตี, โจมตีพุ่งลงจากอากาศถูกศัตรูจะทำให้เกิดสายฟ้าซึ่งสามารถสร้างความเสียหายไฟฟ้าได้"
+      ],
+      "monsterlist": [
+        "Nobushi: Hitsukeban",
+        "Nobushi: Kikouban",
+        "กองโจรล่าสมบัติ - Pyro Potioneer",
+        "กองโจรล่าสมบัติ - Electro Potioneer",
+        "Kairagi: Fiery Might"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งการพัฒนา: เมืองโบราณที่รกร้าง IV",
+      "recommendedLevel": 88,
+      "recommendedElements": [
+        "ไฟฟ้า"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2375
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Teachings of Light"
+        },
+        {
+          "name": "Guide to Light"
+        },
+        {
+          "name": "Philosophies of Light"
+        }
+      ],
+      "disorder": [
+        "ตัวละครในทีมจะได้รับโบนัสความเสียหายไฟฟ้า 25%",
+        "ในระหว่างการท้าทายจะมีการตกผลึกไฟฟ้า ซึ่งจะปรากฏเป็นไข่มุกไฟฟ้าเป็นระยะ ๆ เมื่อตัวละครได้รับไข่มุกไฟฟ้าและทำการโจมตีปกติ, ชาร์จโจมตี, โจมตีพุ่งลงจากอากาศถูกศัตรูจะทำให้เกิดสายฟ้าซึ่งสามารถสร้างความเสียหายไฟฟ้าได้"
+      ],
+      "monsterlist": [
+        "กองโจรล่าสมบัติ - Cryo Potioneer",
+        "Kairagi: Dancing Thunder",
+        "Kairagi: Fiery Might"
+      ]
+    }
+  ]
+}

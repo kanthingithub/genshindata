@@ -1,0 +1,207 @@
+{
+  "name": "Azhdaha",
+  "specialname": "Azhdaha",
+  "enemytype": "BOSS",
+  "category": "Enemigos memorables",
+  "description": "Un enorme dragón tan antiguo como las montañas.\nEn una época que ya nadie recuerda, fue el compañero del gobernante del Puerto de Piedra. Pero, al final, entre ellos surgió un conflicto y el dragón fue encerrado en las profundidades de la tierra. Durante los largos años de confinamiento, su poder se disipó lentamente y su apariencia quedó desfigurada.\nEl tintineo de los grilletes que aprisionan al dragón y sus profundos gruñidos resuenan en el interior de la montaña como los recuerdos de un tiempo pasado.",
+  "rewardpreview": [
+    {
+      "name": "EXP de Aventura",
+      "count": 300
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "EXP de Amistad"
+    },
+    {
+      "name": "Pedacito de ágata agnidus"
+    },
+    {
+      "name": "Fragmento de ágata agnidus"
+    },
+    {
+      "name": "Trozo de ágata agnidus"
+    },
+    {
+      "name": "Ágata agnidus"
+    },
+    {
+      "name": "Pedacito de amatista vajrada"
+    },
+    {
+      "name": "Fragmento de amatista vajrada"
+    },
+    {
+      "name": "Trozo de amatista vajrada"
+    },
+    {
+      "name": "Amatista vajrada"
+    },
+    {
+      "name": "Pedacito de topacio prithiva"
+    },
+    {
+      "name": "Fragmento de topacio prithiva"
+    },
+    {
+      "name": "Trozo de topacio prithiva"
+    },
+    {
+      "name": "Topacio prithiva"
+    },
+    {
+      "name": "Solvente de sueños",
+      "count": 0.33
+    },
+    {
+      "name": "Corona del rey dragón"
+    },
+    {
+      "name": "Rama de jade carmesí"
+    },
+    {
+      "name": "Escama dorada"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "3"
+    },
+    {
+      "name": "Exiliado",
+      "rarity": "3"
+    },
+    {
+      "name": "Final del Gladiador",
+      "rarity": "4"
+    },
+    {
+      "name": "Orquesta del Errante",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "4"
+    },
+    {
+      "name": "Exiliado",
+      "rarity": "4"
+    },
+    {
+      "name": "Final del Gladiador",
+      "rarity": "5"
+    },
+    {
+      "name": "Orquesta del Errante",
+      "rarity": "5"
+    },
+    {
+      "name": "Prototipo de espada del Norte"
+    },
+    {
+      "name": "Prototipo de arco del Norte"
+    },
+    {
+      "name": "Prototipo de mandoble del Norte"
+    },
+    {
+      "name": "Prototipo de catalizador del Norte"
+    },
+    {
+      "name": "Prototipo de lanza del Norte"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Dahaka"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 2625.011753451079,
+      "attack": 76.13319315582885,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 10317.74592899729,
+      "attack": 203.4083293985932,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 31867.200046165846,
+      "attack": 501.7499019824463,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 53020.81175860064,
+      "attack": 819.5298012541898,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 97014.58068536595,
+      "attack": 1225.2416554312222,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 179873.43321329355,
+      "attack": 1889.4817435136356,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 301725.17327204347,
+      "attack": 2660.773141056823,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 469871.0149460323,
+      "attack": 3673.071566613973,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 668366.1914580837,
+      "attack": 4725.795096868649,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 876747.1203872189,
+      "attack": 5709.411795508931,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 1323544.3754435778,
+      "attack": 7386.62659546989,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 1926083.2939809859,
+      "attack": 7533.291466042516,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 2591507.4020418227,
+      "attack": 7680.983199416427,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

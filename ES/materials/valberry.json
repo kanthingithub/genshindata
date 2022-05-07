@@ -1,0 +1,20 @@
+{
+  "name": "Valbaya",
+  "description": "Una baya redonda y brillante que tiene un olor aromático y un sabor dulce y refrescante. En el pasado, los vigilantes de las tormentas encontraron consuelo en la dulzura de la valbaya y en la esperanza de que la ciudad se volviera tranquila y segura.",
+  "sortorder": 2037,
+  "category": "EXCHANGE",
+  "materialtype": "Objeto típico de Mondstadt",
+  "source": [
+    "Recolectar en la naturaleza",
+    "Recolectar en las Montañas Portatormentas"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Valberry.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/ed/Item_Valberry.png",
+    "nameicon": "UI_ItemIcon_100022"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Valberry"
+  },
+  "version": ""
+}

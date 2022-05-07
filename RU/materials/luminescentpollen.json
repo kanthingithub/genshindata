@@ -1,0 +1,17 @@
+{
+  "name": "Светящаяся пыльца",
+  "description": "Крохотная сумка со светящимся споровым порошком плесенников - распространённый лекарственный ингредиент в землях тропических лесов. Торговцы обычно продают их в бумажных пакетах.",
+  "sortorder": 1781,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Плесенники Ур. 40+",
+    "Алхимия"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_112060",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Luminescent_Pollen.png"
+  },
+  "version": "2.6"
+}

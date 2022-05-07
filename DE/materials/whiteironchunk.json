@@ -1,0 +1,21 @@
+{
+  "name": "Brocken weißes Eisen",
+  "description": "Ein Klumpen weißes Eisenerz, der in den Händen eines begabten Schmieds zu glanzvollen Dingen reifen kann.",
+  "sortorder": 1955,
+  "category": "EXCHANGE",
+  "materialtype": "Zum Schmieden geeignetes Erz",
+  "source": [
+    "In der freien Natur zu finden",
+    "Empfohlen: Auf den Windblickbergen zu finden",
+    "Empfohlen: In Wolfenlauf zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_White_Iron_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Item_White_Iron_Chunk.png",
+    "nameicon": "UI_ItemIcon_101002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/White_Iron_Chunk"
+  },
+  "version": ""
+}

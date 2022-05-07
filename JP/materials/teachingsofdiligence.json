@@ -1,0 +1,24 @@
+{
+  "name": "「勤労」の教え",
+  "description": "天賦育成素材。\n岩の国の根本は勤労である。\n勤労とは人の努力で山と海を越え、繁栄と黄金を追い求める勇気と力である。",
+  "sortorder": 1863,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "天賦育成素材",
+  "dropdomain": "熟知秘境：深炎の底",
+  "daysofweek": [
+    "火曜",
+    "金曜",
+    "日曜"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Diligence.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Item_Teachings_of_Diligence.png",
+    "nameicon": "UI_ItemIcon_104313"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Diligence"
+  },
+  "version": ""
+}

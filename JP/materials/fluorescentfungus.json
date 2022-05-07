@@ -1,0 +1,20 @@
+{
+  "name": "ユウトウタケ",
+  "description": "灯のように微かな光を放っているキノコ。中には不思議な力が秘められている。",
+  "sortorder": 2068,
+  "category": "EXCHANGE",
+  "materialtype": "稲妻地域の特産",
+  "source": [
+    "野外で採集",
+    "推奨：鶴観で採集"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_101209",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fluorescent_Fungus.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Fluorescent_Fungus.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fluorescent_Fungus"
+  },
+  "version": ""
+}

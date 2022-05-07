@@ -1,0 +1,20 @@
+{
+  "name": "Masterless Stardust",
+  "description": "Mata uang yang dapat digunakan untuk membeli item-item langka dari Toko.\nStardust of Destiny yang berlebih, mungkin bisa dikumpulkan untuk menciptakan takdir yang baru.",
+  "sortorder": 497,
+  "rarity": "4",
+  "category": "CONSUME",
+  "materialtype": "Common Voucher",
+  "source": [
+    "Permohonan"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_222",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Masterless_Stardust.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7c/Item_Masterless_Stardust.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Masterless_Stardust"
+  },
+  "version": ""
+}

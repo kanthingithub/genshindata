@@ -1,0 +1,20 @@
+{
+  "name": "Bloodpearl Branch",
+  "description": "กิ่งกระดูกที่เปล่งแสงประหลาด ซึ่งเกิดขึ้นจากพลังของ \"Azhdaha\" \nเส้นทางที่เกิดจากความโกรธแค้น แสงจันทร์ที่เย็นยะเยือก ทำให้กระดูกถูกขยายขึ้น... \nแม้ว่าจะหักลงในระหว่างการต่อสู้ แต่กิ่งกระดูกที่ถูกเลี้ยงด้วยเลือดมังกรยังคงส่งเสียงและอยู่อย่างไม่เป็นสุข",
+  "sortorder": 1800,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "รางวัลการท้าทาย Azhdaha Lv.70 ขึ้นไป"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bloodjade_Branch.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Item_Bloodjade_Branch.png",
+    "nameicon": "UI_ItemIcon_113018"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bloodjade_Branch"
+  },
+  "version": ""
+}

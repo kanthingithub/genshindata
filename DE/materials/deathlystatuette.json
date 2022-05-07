@@ -1,0 +1,20 @@
+{
+  "name": "Figur der Finsternis",
+  "description": "Eine einäugige Schnitzerei, die eine unheilvolle Energie ausstrahlt, ohne dass man weiß, woraus sie besteht.\nWenn du diese kleine Statue betrachtest, kannst du fast ein seltsames, tröstliches Flüstern hören ...\n„Sieh, mein Kind. Alles, was unter dem Thron des Himmels liegt, wird durch die Umwälzung zerstört werden. Der ewige Frieden der pechschwarzen Leere wird uns alle umarmen.“",
+  "sortorder": 1779,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Kann hergestellt werden",
+    "Beute von Schwarzen Schlangen ab Stufe 60"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Deathly_Statuette.png",
+    "nameicon": "UI_ItemIcon_112019"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Deathly_Statuette"
+  },
+  "version": ""
+}

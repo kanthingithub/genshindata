@@ -1,0 +1,21 @@
+{
+  "name": "混沌の機関",
+  "description": "すでに動かなくなった古代遺跡機械からとったもの。\n擬生からくりの動力源であるようだ。",
+  "sortorder": 1765,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "キャラクター育成素材",
+  "source": [
+    "遺跡機兵でドロップ",
+    "スターダスト交換"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Gear.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Chaos_Gear.png",
+    "nameicon": "UI_ItemIcon_112047"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chaos_Gear"
+  },
+  "version": ""
+}

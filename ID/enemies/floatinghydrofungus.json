@@ -1,0 +1,92 @@
+{
+  "name": "Floating Hydro Fungus",
+  "specialname": "Spora Bisa Melayang, Jamur Juga Bisa Ya?",
+  "enemytype": "COMMON",
+  "category": "Makhluk Mistis",
+  "description": "Makhluk spora yang punya sedikit kecerdasan. Memiliki kemampuan beradaptasi yang sangat kuat.\nKatanya sih rasanya amat sangat tidak enak. Tapi karena jamur jenis ini mengandung banyak cairan, dia bisa digunakan sebagai sumber air dalam keadaan darurat ....",
+  "rewardpreview": [],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Fungus_Un_Gamma_Water"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 73.41999869205756,
+      "attack": 45.68000675557232,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 289.16900874482235,
+      "attack": 122.04499557986401,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 851.1249643592164,
+      "attack": 301.0500007917926,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 1584.969992182916,
+      "attack": 491.7180018196632,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 2845.8468869018834,
+      "attack": 735.1449808544712,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 5243.5320563935675,
+      "attack": 1034.0529507660103,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 8858.942494570278,
+      "attack": 1381.1342678500878,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 14652.096325697377,
+      "attack": 1836.6685085431382,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 23636.61702684313,
+      "attack": 2668.058762356857,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 37100.287495907396,
+      "attack": 3425.6470195036673,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 55460.018125947565,
+      "attack": 4431.9758825002355,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 70195.7293419689,
+      "attack": 4519.974803358986,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 81193.60208453983,
+      "attack": 4608.589841888112,
+      "defense": 1100
+    }
+  ],
+  "version": "2.6"
+}

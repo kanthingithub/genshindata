@@ -1,0 +1,26 @@
+{
+  "name": "Fragmento de Azulejo de Decarabian",
+  "description": "Material de Ascensão de Armas.\nO local atualmente conhecido como Toca de Stormterror já foi a capital construída por Decarabian, o Arconte Anemo. Desde que esse sonho próspero foi criado pelo seu poder, os pedaços partidos deixados para trás quando o sonho foi destruído ainda possuem grandes poderes.",
+  "sortorder": 2183,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Ascensão de Armas",
+  "dropdomain": "Domínio da Forja: Cidade das Reflexões",
+  "daysofweek": [
+    "Segunda-feira",
+    "Quinta-feira",
+    "Domingo"
+  ],
+  "source": [
+    "Comprado na Loja de Lembranças de Mondstadt"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Tile_of_Decarabian's_Tower.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Item_Tile_of_Decarabian%27s_Tower.png",
+    "nameicon": "UI_ItemIcon_114001"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Tile_of_Decarabian's_Tower"
+  },
+  "version": ""
+}

@@ -1,0 +1,312 @@
+{
+  "name": "Knochenschwert",
+  "description": "Eine seltene Waffe aus dem Ozean alter Zeiten. Schwingt man es durch die Luft, so hört man das Rauschen der Wellen.",
+  "weapontype": "Zweihänder",
+  "rarity": "4",
+  "baseatk": 42,
+  "substat": "KT",
+  "subvalue": "6",
+  "effectname": "Wellenspalter",
+  "effect": [
+    "Erhöht den verursachten Schaden bei Anwesenheit der Figur alle 4 s um [6 %] und den erlittenen Schaden um [3 %], 5-fach stapelbar. Effekt wird nicht bei Auswechseln der Figur zurückgesetzt, 1 Stapelung des Effekts wird bei Erleiden von Schaden aber entfernt.",
+    "Erhöht den verursachten Schaden bei Anwesenheit der Figur alle 4 s um [7 %] und den erlittenen Schaden um [2,7 %], 5-fach stapelbar. Effekt wird nicht bei Auswechseln der Figur zurückgesetzt, 1 Stapelung des Effekts wird bei Erleiden von Schaden aber entfernt.",
+    "Erhöht den verursachten Schaden bei Anwesenheit der Figur alle 4 s um [8 %] und den erlittenen Schaden um [2,4 %], 5-fach stapelbar. Effekt wird nicht bei Auswechseln der Figur zurückgesetzt, 1 Stapelung des Effekts wird bei Erleiden von Schaden aber entfernt.",
+    "Erhöht den verursachten Schaden bei Anwesenheit der Figur alle 4 s um [9 %] und den erlittenen Schaden um [2,2 %], 5-fach stapelbar. Effekt wird nicht bei Auswechseln der Figur zurückgesetzt, 1 Stapelung des Effekts wird bei Erleiden von Schaden aber entfernt.",
+    "Erhöht den verursachten Schaden bei Anwesenheit der Figur alle 4 s um [10 %] und den erlittenen Schaden um [2 %], 5-fach stapelbar. Effekt wird nicht bei Auswechseln der Figur zurückgesetzt, 1 Stapelung des Effekts wird bei Erleiden von Schaden aber entfernt."
+  ],
+  "r1": [
+    "6 %",
+    "3 %"
+  ],
+  "r2": [
+    "7 %",
+    "2,7 %"
+  ],
+  "r3": [
+    "8 %",
+    "2,4 %"
+  ],
+  "r4": [
+    "9 %",
+    "2,2 %"
+  ],
+  "r5": [
+    "10 %",
+    "2 %"
+  ],
+  "weaponmaterialtype": "Aerosiderite",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 5000
+      },
+      {
+        "name": "Körnchen pechschwarzer Aerosiderit",
+        "count": 3
+      },
+      {
+        "name": "Zerbrechliches Knochenstück",
+        "count": 3
+      },
+      {
+        "name": "Vaniloqua-Nektar",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 15000
+      },
+      {
+        "name": "Stückchen pechschwarzer Aerosiderit",
+        "count": 3
+      },
+      {
+        "name": "Zerbrechliches Knochenstück",
+        "count": 12
+      },
+      {
+        "name": "Vaniloqua-Nektar",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Stückchen pechschwarzer Aerosiderit",
+        "count": 6
+      },
+      {
+        "name": "Stabiles Knochenstück",
+        "count": 6
+      },
+      {
+        "name": "Leuchtender Nektar",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Klumpen pechschwarzer Aerosiderit",
+        "count": 3
+      },
+      {
+        "name": "Stabiles Knochenstück",
+        "count": 12
+      },
+      {
+        "name": "Leuchtender Nektar",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 35000
+      },
+      {
+        "name": "Klumpen pechschwarzer Aerosiderit",
+        "count": 6
+      },
+      {
+        "name": "Versteinertes Knochenstück",
+        "count": 9
+      },
+      {
+        "name": "Elementarnektar",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Brocken pechschwarzer Aerosiderit",
+        "count": 4
+      },
+      {
+        "name": "Versteinertes Knochenstück",
+        "count": 18
+      },
+      {
+        "name": "Elementarnektar",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Weapon_Serpent_Spine.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Kione.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Kione_Awaken.png",
+    "nameicon": "UI_EquipIcon_Claymore_Kione",
+    "namegacha": "UI_Gacha_EquipIcon_Claymore_Kione",
+    "nameawakenicon": "UI_EquipIcon_Claymore_Kione_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Serpent_Spine"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 42.4010009765625,
+      "specialized": 0.05999999865889549
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 56.39333311848168,
+      "specialized": 0.06971999489396818
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 73.9049459961243,
+      "specialized": 0.08178000028923149
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 91.41655381917371,
+      "specialized": 0.09390000133439891
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 108.92817175140954,
+      "specialized": 0.10601999522700911
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 134.8281713699398,
+      "specialized": 0.10601999522700911
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 152.33978930217563,
+      "specialized": 0.11813999627217653
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 169.80899919744115,
+      "specialized": 0.13025999731734395
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 187.32060702049057,
+      "specialized": 0.14237999120995415
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 204.83221484354,
+      "specialized": 0.15449999940767878
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 230.83221675088862,
+      "specialized": 0.15449999940767878
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 248.34383468312444,
+      "specialized": 0.16661999330028898
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 265.85545261536026,
+      "specialized": 0.1787400014980136
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 291.75545414123917,
+      "specialized": 0.1787400014980136
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 309.267072073475,
+      "specialized": 0.19085999539062382
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 326.7786900057108,
+      "specialized": 0.20297998928323402
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 352.6786839021952,
+      "specialized": 0.20297998928323402
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 370.1478836882743,
+      "specialized": 0.21509999748095865
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 387.6595016205101,
+      "specialized": 0.22715999572366474
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 413.6595016205101,
+      "specialized": 0.22715999572366474
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 431.17111955274595,
+      "specialized": 0.23927998961627495
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 448.68271726660896,
+      "specialized": 0.2513999978139996
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 474.5827264218824,
+      "specialized": 0.2513999978139996
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 492.0943443541182,
+      "specialized": 0.2635200060117242
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 509.60596228635404,
+      "specialized": 0.27563998559922
+    }
+  },
+  "version": "1.0"
+}

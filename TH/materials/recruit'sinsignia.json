@@ -1,0 +1,23 @@
+{
+  "name": "Recruit's Insignia",
+  "description": "ตราสัญลักษณ์ของทหารใหม่ ไม่ทราบว่าใครเป็นเจ้าของมันมาก่อน ทำให้ชวนสงสัยว่าเหล่าผู้คนที่เข้าร่วมสงครามเครื่องจักรของ Fatui นั้นกำลังคิดอะไรกันอยู่นะ",
+  "sortorder": 1750,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ดรอปจาก Fatui Skirmisher",
+    "ดรอปจาก Fatui - Agent บางตัว",
+    "ดรอปจาก Fatui - Cicin Mage บางตัว",
+    "แลกเปลี่ยนด้วย Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Recruit's_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Item_Recruit%27s_Insignia.png",
+    "nameicon": "UI_ItemIcon_112032"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Recruit's_Insignia"
+  },
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Amande",
+  "description": "Une graine avec un arôme spécial qui peut donner une toute nouvelle saveur fraîche et différente aux plats.",
+  "sortorder": 2005,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrédient",
+  "source": [
+    "Épiceries de Liyue"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Almond.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Item_Almond.png",
+    "nameicon": "UI_ItemIcon_100089"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Almond"
+  },
+  "version": ""
+}

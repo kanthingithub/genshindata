@@ -1,0 +1,316 @@
+{
+  "name": "Freedom-Sworn",
+  "description": "ดาบตรงสีน้ำเงินเข้มแห่งบทเพลงโบราณ เป็นดาบที่เหมือนดั่งคำมั่นสัญญาแห่งอิสรภาพในดินแดนแห่งสายลม",
+  "weapontype": "ดาบ",
+  "rarity": "5",
+  "baseatk": 46,
+  "substat": "ความชำนาญธาตุ",
+  "subvalue": "43",
+  "effectname": "Revolutionary Chorale",
+  "effect": [
+    "ส่วนหนึ่งของ Millennial Movement ที่ล่องลอยอยู่ในอากาศ ช่วยเพิ่มความเสียหายที่สร้างขึ้น [10%] เมื่อตัวละครที่สวมใส่ทำให้เกิดปฏิกิริยาธาตุ จะได้รับ Sigil of Rebellion 1 อัน โดยจะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 0.5 วินาที และจะยังได้รับแม้ว่าตัวละครจะอยู่ในทีมแต่ไม่ได้อยู่ในการต่อสู้แล้วก็ตาม เมื่อครอบครอง Sigil of Rebellion ครบ 2 อัน จะใช้ Sigil of Rebellion ทั้งหมดเพื่อมอบเอฟเฟกต์ Millennial Movement: Song of Resistance ให้แก่ตัวละครทั้งหมดในทีมที่อยู่ในบริเวณใกล้เคียงเป็นเวลา 12 วินาที: ความเสียหายโจมตีปกติ ชาร์จโจมตี โจมตีพุ่งลงจากอากาศเพิ่มขึ้น [16%], พลังโจมตีเพิ่มขึ้น [20%] และจะไม่สามารถรับ Sigil of Rebellion ได้อีกภายในเวลา 20 วินาที หลังจากเอฟเฟกต์บัฟนี้แสดงผล โดยที่ในบรรดาเอฟเฟกต์บัฟต่าง ๆ ที่เกิดขึ้นโดย Millennial Movement นั้น เอฟเฟกต์บัฟที่เป็นประเภทเดียวกันจะไม่สามารถซ้อนทับกันได้",
+    "ส่วนหนึ่งของ Millennial Movement ที่ล่องลอยอยู่ในอากาศ ช่วยเพิ่มความเสียหายที่สร้างขึ้น [12.5%] เมื่อตัวละครที่สวมใส่ทำให้เกิดปฏิกิริยาธาตุ จะได้รับ Sigil of Rebellion 1 อัน โดยจะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 0.5 วินาที และจะยังได้รับแม้ว่าตัวละครจะอยู่ในทีมแต่ไม่ได้อยู่ในการต่อสู้แล้วก็ตาม เมื่อครอบครอง Sigil of Rebellion ครบ 2 อัน จะใช้ Sigil of Rebellion ทั้งหมดเพื่อมอบเอฟเฟกต์ Millennial Movement: Song of Resistance ให้แก่ตัวละครทั้งหมดในทีมที่อยู่ในบริเวณใกล้เคียงเป็นเวลา 12 วินาที: ความเสียหายโจมตีปกติ ชาร์จโจมตี โจมตีพุ่งลงจากอากาศเพิ่มขึ้น [20%], พลังโจมตีเพิ่มขึ้น [25%] และจะไม่สามารถรับ Sigil of Rebellion ได้อีกภายในเวลา 20 วินาที หลังจากเอฟเฟกต์บัฟนี้แสดงผล โดยที่ในบรรดาเอฟเฟกต์บัฟต่าง ๆ ที่เกิดขึ้นโดย Millennial Movement นั้น เอฟเฟกต์บัฟที่เป็นประเภทเดียวกันจะไม่สามารถซ้อนทับกันได้",
+    "ส่วนหนึ่งของ Millennial Movement ที่ล่องลอยอยู่ในอากาศ ช่วยเพิ่มความเสียหายที่สร้างขึ้น [15%] เมื่อตัวละครที่สวมใส่ทำให้เกิดปฏิกิริยาธาตุ จะได้รับ Sigil of Rebellion 1 อัน โดยจะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 0.5 วินาที และจะยังได้รับแม้ว่าตัวละครจะอยู่ในทีมแต่ไม่ได้อยู่ในการต่อสู้แล้วก็ตาม เมื่อครอบครอง Sigil of Rebellion ครบ 2 อัน จะใช้ Sigil of Rebellion ทั้งหมดเพื่อมอบเอฟเฟกต์ Millennial Movement: Song of Resistance ให้แก่ตัวละครทั้งหมดในทีมที่อยู่ในบริเวณใกล้เคียงเป็นเวลา 12 วินาที: ความเสียหายโจมตีปกติ ชาร์จโจมตี โจมตีพุ่งลงจากอากาศเพิ่มขึ้น [24%], พลังโจมตีเพิ่มขึ้น [30%] และจะไม่สามารถรับ Sigil of Rebellion ได้อีกภายในเวลา 20 วินาที หลังจากเอฟเฟกต์บัฟนี้แสดงผล โดยที่ในบรรดาเอฟเฟกต์บัฟต่าง ๆ ที่เกิดขึ้นโดย Millennial Movement นั้น เอฟเฟกต์บัฟที่เป็นประเภทเดียวกันจะไม่สามารถซ้อนทับกันได้",
+    "ส่วนหนึ่งของ Millennial Movement ที่ล่องลอยอยู่ในอากาศ ช่วยเพิ่มความเสียหายที่สร้างขึ้น [17.5%] เมื่อตัวละครที่สวมใส่ทำให้เกิดปฏิกิริยาธาตุ จะได้รับ Sigil of Rebellion 1 อัน โดยจะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 0.5 วินาที และจะยังได้รับแม้ว่าตัวละครจะอยู่ในทีมแต่ไม่ได้อยู่ในการต่อสู้แล้วก็ตาม เมื่อครอบครอง Sigil of Rebellion ครบ 2 อัน จะใช้ Sigil of Rebellion ทั้งหมดเพื่อมอบเอฟเฟกต์ Millennial Movement: Song of Resistance ให้แก่ตัวละครทั้งหมดในทีมที่อยู่ในบริเวณใกล้เคียงเป็นเวลา 12 วินาที: ความเสียหายโจมตีปกติ ชาร์จโจมตี โจมตีพุ่งลงจากอากาศเพิ่มขึ้น [28%], พลังโจมตีเพิ่มขึ้น [35%] และจะไม่สามารถรับ Sigil of Rebellion ได้อีกภายในเวลา 20 วินาที หลังจากเอฟเฟกต์บัฟนี้แสดงผล โดยที่ในบรรดาเอฟเฟกต์บัฟต่าง ๆ ที่เกิดขึ้นโดย Millennial Movement นั้น เอฟเฟกต์บัฟที่เป็นประเภทเดียวกันจะไม่สามารถซ้อนทับกันได้",
+    "ส่วนหนึ่งของ Millennial Movement ที่ล่องลอยอยู่ในอากาศ ช่วยเพิ่มความเสียหายที่สร้างขึ้น [20%] เมื่อตัวละครที่สวมใส่ทำให้เกิดปฏิกิริยาธาตุ จะได้รับ Sigil of Rebellion 1 อัน โดยจะเกิดขึ้นได้มากสุดหนึ่งครั้งในทุก 0.5 วินาที และจะยังได้รับแม้ว่าตัวละครจะอยู่ในทีมแต่ไม่ได้อยู่ในการต่อสู้แล้วก็ตาม เมื่อครอบครอง Sigil of Rebellion ครบ 2 อัน จะใช้ Sigil of Rebellion ทั้งหมดเพื่อมอบเอฟเฟกต์ Millennial Movement: Song of Resistance ให้แก่ตัวละครทั้งหมดในทีมที่อยู่ในบริเวณใกล้เคียงเป็นเวลา 12 วินาที: ความเสียหายโจมตีปกติ ชาร์จโจมตี โจมตีพุ่งลงจากอากาศเพิ่มขึ้น [32%], พลังโจมตีเพิ่มขึ้น [40%] และจะไม่สามารถรับ Sigil of Rebellion ได้อีกภายในเวลา 20 วินาที หลังจากเอฟเฟกต์บัฟนี้แสดงผล โดยที่ในบรรดาเอฟเฟกต์บัฟต่าง ๆ ที่เกิดขึ้นโดย Millennial Movement นั้น เอฟเฟกต์บัฟที่เป็นประเภทเดียวกันจะไม่สามารถซ้อนทับกันได้"
+  ],
+  "r1": [
+    "10%",
+    "16%",
+    "20%"
+  ],
+  "r2": [
+    "12.5%",
+    "20%",
+    "25%"
+  ],
+  "r3": [
+    "15%",
+    "24%",
+    "30%"
+  ],
+  "r4": [
+    "17.5%",
+    "28%",
+    "35%"
+  ],
+  "r5": [
+    "20%",
+    "32%",
+    "40%"
+  ],
+  "weaponmaterialtype": "",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 10000
+      },
+      {
+        "name": "Fetters of the Dandelion Gladiator",
+        "count": 5
+      },
+      {
+        "name": "Chaos Device",
+        "count": 5
+      },
+      {
+        "name": "Divining Scroll",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Chains of the Dandelion Gladiator",
+        "count": 5
+      },
+      {
+        "name": "Chaos Device",
+        "count": 18
+      },
+      {
+        "name": "Divining Scroll",
+        "count": 12
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Chains of the Dandelion Gladiator",
+        "count": 9
+      },
+      {
+        "name": "Chaos Circuit",
+        "count": 9
+      },
+      {
+        "name": "Seal Scroll",
+        "count": 9
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Shackles of Dandelion Gladiator",
+        "count": 5
+      },
+      {
+        "name": "Chaos Circuit",
+        "count": 18
+      },
+      {
+        "name": "Seal Scroll",
+        "count": 14
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 55000
+      },
+      {
+        "name": "Shackles of Dandelion Gladiator",
+        "count": 9
+      },
+      {
+        "name": "Chaos Core",
+        "count": 14
+      },
+      {
+        "name": "Forbidden Curse Scroll",
+        "count": 9
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 65000
+      },
+      {
+        "name": "Dream of Dandelion Gladiator",
+        "count": 6
+      },
+      {
+        "name": "Chaos Core",
+        "count": 27
+      },
+      {
+        "name": "Forbidden Curse Scroll",
+        "count": 18
+      }
+    ]
+  },
+  "images": {
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Widsith.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Widsith_Awaken.png",
+    "nameicon": "UI_EquipIcon_Sword_Widsith",
+    "namegacha": "UI_Gacha_EquipIcon_Sword_Widsith",
+    "nameawakenicon": "UI_EquipIcon_Sword_Widsith_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Freedom-Sworn"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 45.9364013671875,
+      "specialized": 43.20000076293945
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 61.692589533209684,
+      "specialized": 50.19839833221431
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 81.53711133154866,
+      "specialized": 58.88160256423953
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 101.56538184575038,
+      "specialized": 67.60800366592412
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 121.73146800388349,
+      "specialized": 76.3343996177673
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 152.83146838535322,
+      "specialized": 76.3343996177673
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 173.18128683121176,
+      "specialized": 85.06080071945189
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 193.66892639704747,
+      "specialized": 93.78720182113648
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 214.34030920270015,
+      "specialized": 102.51359777297967
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 235.19542429607827,
+      "specialized": 111.24000402450565
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 266.295424677548,
+      "specialized": 111.24000402450565
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 287.2883718429948,
+      "specialized": 119.96639997634884
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 308.4191182242357,
+      "specialized": 128.69280622787483
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 339.61911898717517,
+      "specialized": 128.69280622787483
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 360.97953072807286,
+      "specialized": 137.419202179718
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 382.43183051701635,
+      "specialized": 146.1455981315612
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 413.53182899113744,
+      "specialized": 146.1455981315612
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 435.16788297198946,
+      "specialized": 154.8720043830872
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 456.9876692405669,
+      "specialized": 163.555203465271
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 488.0876753440825,
+      "specialized": 163.555203465271
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 510.0912158045685,
+      "specialized": 172.2815994171142
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 532.2325773850316,
+      "specialized": 181.00800566864018
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 563.3325682297582,
+      "specialized": 181.00800566864018
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 585.6117071218323,
+      "specialized": 189.73441192016617
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 608.074622109998,
+      "specialized": 198.46079757232656
+    }
+  },
+  "version": "1.6"
+}

@@ -1,0 +1,252 @@
+{
+  "name": "Domínio da Bênção: Geada",
+  "region": "Liyue",
+  "domainEntrance": "Palácio Oculto da Fórmula Zhou",
+  "domainType": "Artefatos",
+  "description": "Neste antigo altar se reúnem os monstros que cobiçam suas Linhas Ley.\nVocê obterá Artefatos valiosos apensar se você proteger as Linhas Ley dos monstros com poder Cryo.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_1"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domínio da Bênção: Geada I",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Cryo"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 15
+        },
+        {
+          "name": "Guardião",
+          "rarity": "3"
+        },
+        {
+          "name": "Artista Marcial",
+          "rarity": "3"
+        },
+        {
+          "name": "A Bruxa das Chamas Carmesim",
+          "rarity": "4"
+        },
+        {
+          "name": "Atravessador do Fogo",
+          "rarity": "4"
+        },
+        {
+          "name": "Guardião",
+          "rarity": "4"
+        },
+        {
+          "name": "Artista Marcial",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "A duração do efeito de Congelamento é aumentada grandemente.",
+        "Quando a Supercondução é ativada, ocorrerá uma Explosão de Energia, causando Dano aos oponentes ao redor."
+      ],
+      "monsterlist": [
+        "Grande Slime Electro",
+        "Grande Slime Mutante",
+        "Slime Hydro",
+        "Grande Slime Hydro"
+      ]
+    },
+    {
+      "name": "Domínio da Bênção: Geada II",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "Cryo"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 20
+        },
+        {
+          "name": "Guardião",
+          "rarity": "3"
+        },
+        {
+          "name": "Artista Marcial",
+          "rarity": "3"
+        },
+        {
+          "name": "A Bruxa das Chamas Carmesim",
+          "rarity": "4"
+        },
+        {
+          "name": "Atravessador do Fogo",
+          "rarity": "4"
+        },
+        {
+          "name": "Guardião",
+          "rarity": "4"
+        },
+        {
+          "name": "Artista Marcial",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Quando a Fusão é ativada, ocorrerá uma Explosão de Energia, causando Dano aos oponentes ao redor.",
+        "Quando a reação de Sobrecarga é ativada, você será atingido por uma explosão poderosa, causando Dano em seu personagem."
+      ],
+      "monsterlist": [
+        "Grande Slime Pyro",
+        "Mitachurl do Machado Ardente",
+        "Feiticeiro do Abismo Pyro"
+      ]
+    },
+    {
+      "name": "Domínio da Bênção: Geada III",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Cryo"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 20
+        },
+        {
+          "name": "Guardião",
+          "rarity": "3"
+        },
+        {
+          "name": "Artista Marcial",
+          "rarity": "3"
+        },
+        {
+          "name": "A Bruxa das Chamas Carmesim",
+          "rarity": "4"
+        },
+        {
+          "name": "Atravessador do Fogo",
+          "rarity": "4"
+        },
+        {
+          "name": "Guardião",
+          "rarity": "4"
+        },
+        {
+          "name": "Artista Marcial",
+          "rarity": "4"
+        },
+        {
+          "name": "A Bruxa das Chamas Carmesim",
+          "rarity": "5"
+        },
+        {
+          "name": "Atravessador do Fogo",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Quando a Supercondução é ativada, ocorrerá uma Explosão de Energia, causando Dano aos oponentes ao redor.",
+        "Quando a reação de Sobrecarga é ativada, você será atingido por uma explosão poderosa, causando Dano em seu personagem."
+      ],
+      "monsterlist": [
+        "Grande Slime Electro",
+        "Grande Slime Mutante",
+        "Hilichurl Lutador",
+        "Fatui - Feiticeira Cicin Electro"
+      ]
+    },
+    {
+      "name": "Domínio da Bênção: Geada IV",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "Cryo"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 20
+        },
+        {
+          "name": "Guardião",
+          "rarity": "3"
+        },
+        {
+          "name": "Artista Marcial",
+          "rarity": "3"
+        },
+        {
+          "name": "A Bruxa das Chamas Carmesim",
+          "rarity": "4"
+        },
+        {
+          "name": "Atravessador do Fogo",
+          "rarity": "4"
+        },
+        {
+          "name": "Guardião",
+          "rarity": "4"
+        },
+        {
+          "name": "Artista Marcial",
+          "rarity": "4"
+        },
+        {
+          "name": "A Bruxa das Chamas Carmesim",
+          "rarity": "5"
+        },
+        {
+          "name": "Atravessador do Fogo",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Quando a Fusão é ativada, ocorrerá uma Explosão de Energia, causando Dano aos oponentes ao redor.",
+        "Quando a reação de Sobrecarga é ativada, você será atingido por uma explosão poderosa, causando Dano em seu personagem."
+      ],
+      "monsterlist": [
+        "Grande Slime Pyro",
+        "Mitachurl do Machado Ardente",
+        "Feiticeiro do Abismo Pyro"
+      ]
+    }
+  ]
+}

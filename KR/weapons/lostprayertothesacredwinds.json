@@ -1,0 +1,307 @@
+{
+  "name": "사풍 원서",
+  "description": "바람을 신봉하던 무명의 신도가 작성한 교전의 진본. 몇 천년 전부터 전해져 오던 신앙의 힘이 바람의 총애를 받아 축복과 힘이 깃들었다",
+  "weapontype": "법구",
+  "rarity": "5",
+  "baseatk": 46,
+  "substat": "치명타 확률",
+  "subvalue": "7.2",
+  "effectname": "끝없는 은혜",
+  "effect": [
+    "이동속도+10%. 필드에 있을 때 4초마다 원소 피해 보너스를 [8%] 획득한다. 최대 중첩수: 4회. 캐릭터가 전투 불능이 되거나 교체될 때까지 지속된다",
+    "이동속도+10%. 필드에 있을 때 4초마다 원소 피해 보너스를 [10%] 획득한다. 최대 중첩수: 4회. 캐릭터가 전투 불능이 되거나 교체될 때까지 지속된다",
+    "이동속도+10%. 필드에 있을 때 4초마다 원소 피해 보너스를 [12%] 획득한다. 최대 중첩수: 4회. 캐릭터가 전투 불능이 되거나 교체될 때까지 지속된다",
+    "이동속도+10%. 필드에 있을 때 4초마다 원소 피해 보너스를 [14%] 획득한다. 최대 중첩수: 4회. 캐릭터가 전투 불능이 되거나 교체될 때까지 지속된다",
+    "이동속도+10%. 필드에 있을 때 4초마다 원소 피해 보너스를 [16%] 획득한다. 최대 중첩수: 4회. 캐릭터가 전투 불능이 되거나 교체될 때까지 지속된다"
+  ],
+  "r1": [
+    "8%"
+  ],
+  "r2": [
+    "10%"
+  ],
+  "r3": [
+    "12%"
+  ],
+  "r4": [
+    "14%"
+  ],
+  "r5": [
+    "16%"
+  ],
+  "weaponmaterialtype": "Dandelion Gladiator",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "모라",
+        "count": 10000
+      },
+      {
+        "name": "라이언 투사의 족쇄",
+        "count": 5
+      },
+      {
+        "name": "혼돈의 장치",
+        "count": 5
+      },
+      {
+        "name": "슬라임 응축액",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "모라",
+        "count": 20000
+      },
+      {
+        "name": "라이언 투사의 쇠사슬",
+        "count": 5
+      },
+      {
+        "name": "혼돈의 장치",
+        "count": 18
+      },
+      {
+        "name": "슬라임 응축액",
+        "count": 12
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "모라",
+        "count": 30000
+      },
+      {
+        "name": "라이언 투사의 쇠사슬",
+        "count": 9
+      },
+      {
+        "name": "혼돈의 회로",
+        "count": 9
+      },
+      {
+        "name": "슬라임청",
+        "count": 9
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "모라",
+        "count": 45000
+      },
+      {
+        "name": "라이언 투사의 수갑",
+        "count": 5
+      },
+      {
+        "name": "혼돈의 회로",
+        "count": 18
+      },
+      {
+        "name": "슬라임청",
+        "count": 14
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "모라",
+        "count": 55000
+      },
+      {
+        "name": "라이언 투사의 수갑",
+        "count": 9
+      },
+      {
+        "name": "혼돈의 노심",
+        "count": 14
+      },
+      {
+        "name": "슬라임 원액",
+        "count": 9
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "모라",
+        "count": 65000
+      },
+      {
+        "name": "라이언 투사의 이념",
+        "count": 6
+      },
+      {
+        "name": "혼돈의 노심",
+        "count": 27
+      },
+      {
+        "name": "슬라임 원액",
+        "count": 18
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Weapon_Lost_Prayer_to_the_Sacred_Winds.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fourwinds.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Fourwinds_Awaken.png",
+    "nameicon": "UI_EquipIcon_Catalyst_Fourwinds",
+    "namegacha": "UI_Gacha_EquipIcon_Catalyst_Fourwinds",
+    "nameawakenicon": "UI_EquipIcon_Catalyst_Fourwinds_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lost_Prayer_to_the_Sacred_Winds"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 45.9364013671875,
+      "specialized": 0.07199999690055847
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 61.692589533209684,
+      "specialized": 0.08366399214124698
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 81.53711133154866,
+      "specialized": 0.09813599831604947
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 101.56538184575038,
+      "specialized": 0.11267999926924688
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 121.73146800388349,
+      "specialized": 0.1272239916393758
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 152.83146838535322,
+      "specialized": 0.1272239916393758
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 173.18128683121176,
+      "specialized": 0.14176799259257322
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 193.66892639704747,
+      "specialized": 0.15631199354577063
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 214.34030920270015,
+      "specialized": 0.17085598591589957
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 235.19542429607827,
+      "specialized": 0.18539999545216546
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 266.295424677548,
+      "specialized": 0.18539999545216546
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 287.2883718429948,
+      "specialized": 0.1999439878222944
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 308.4191182242357,
+      "specialized": 0.21448799735856028
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 339.61911898717517,
+      "specialized": 0.21448799735856028
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 360.97953072807286,
+      "specialized": 0.2290319897286892
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 382.43183051701635,
+      "specialized": 0.24357598209881814
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 413.53182899113744,
+      "specialized": 0.24357598209881814
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 435.16788297198946,
+      "specialized": 0.25811999163508403
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 456.9876692405669,
+      "specialized": 0.27259198922681804
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 488.0876753440825,
+      "specialized": 0.27259198922681804
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 510.0912158045685,
+      "specialized": 0.287135981596947
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 532.2325773850316,
+      "specialized": 0.30167999113321287
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 563.3325682297582,
+      "specialized": 0.30167999113321287
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 585.6117071218323,
+      "specialized": 0.31622400066947876
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 608.074622109998,
+      "specialized": 0.33076797587347073
+    }
+  },
+  "version": "1.0"
+}

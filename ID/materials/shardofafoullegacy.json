@@ -1,0 +1,20 @@
+{
+  "name": "Shard of a Foul Legacy",
+  "description": "Serpihan senjata yang didapatkan setelah berhasil mengalahkan Childe, seorang Harbinger yang menggunakan kekuatan Delusion.\nBenda ini memiliki warna yang benar-benar misterius, sepertinya muncul karena anak muda ini telah melihat sebuah dataran yang penuh dengan kegelapan tanpa batas dengan mata kepalanya sendiri.\nMeskipun benda ini tidak berhubungan dengan kekuatan Delusion, tetapi sebuah senjata menggambarkan sifat penggunanya.",
+  "sortorder": 1796,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Hadiah dari Tantangan Childe Lv. 70+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shard_of_a_Foul_Legacy.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Item_Shard_of_a_Foul_Legacy.png",
+    "nameicon": "UI_ItemIcon_113014"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shard_of_a_Foul_Legacy"
+  },
+  "version": ""
+}

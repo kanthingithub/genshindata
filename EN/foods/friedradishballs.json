@@ -1,0 +1,42 @@
+{
+  "name": "Fried Radish Balls",
+  "rarity": "2",
+  "foodtype": "NORMAL",
+  "foodfilter": "ATK-Boosting Dish",
+  "foodcategory": "Atk_Add",
+  "effect": "Increases all party members' ATK by 66–95 for 300s.\nIn Co-Op Mode, this effect only applies to your own character(s).",
+  "description": "Fried Radish Balls. Fragrant and crispy. Make sure to eat them while they're hot! Said to be a recipe from Liyue.",
+  "suspicious": {
+    "effect": "Increases all party members' ATK by 66 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "description": "Fried Radish Balls. Way too oily, and leaves you looking for something to drink to cut through the grease."
+  },
+  "normal": {
+    "effect": "Increases all party members' ATK by 81 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "description": "Fried Radish Balls. Fragrant and crispy. Make sure to eat them while they're hot! Said to be a recipe from Liyue."
+  },
+  "delicious": {
+    "effect": "Increases all party members' ATK by 95 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "description": "Fried Radish Balls. It's insane that something so delicious comes from plain old radishes! All who eat them will truly understand Liyue's culinary reputation."
+  },
+  "ingredients": [
+    {
+      "name": "Flour",
+      "count": 3
+    },
+    {
+      "name": "Radish",
+      "count": 2
+    },
+    {
+      "name": "Pepper",
+      "count": 1
+    }
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_Recipe_4002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fried_Radish_Balls"
+  },
+  "version": "1.0"
+}

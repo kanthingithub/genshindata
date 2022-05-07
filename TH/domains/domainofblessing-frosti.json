@@ -1,0 +1,252 @@
+{
+  "name": "ดันเจี้ยนแห่งพร: น้ำแข็งโลกันตร์",
+  "region": "Liyue",
+  "domainEntrance": "ราชวังลับแห่ง Zhou Formula",
+  "domainType": "อาร์ติแฟกต์",
+  "description": "ที่แท่นบูชาของเมืองโบราณแห่งนี้เป็นสถานที่ชุมนุมของเหล่ามอนสเตอร์มากมายซึ่งกระหายที่จะครอบครอง Ley Line Monolith\nหากสามารถควบคุมพลังของธาตุน้ำแข็งเพื่อจัดการกับมอนสเตอร์เหล่านั้นและปกป้อง Ley Line Monolith จากการถูกทำลายได้ล่ะก็ บางทีอาจจะได้รับอาร์ติแฟกต์ที่แสนมีค่าก็เป็นได้",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_1"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "ดันเจี้ยนแห่งพร: น้ำแข็งโลกันตร์ I",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "น้ำแข็ง"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "3"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "3"
+        },
+        {
+          "name": "Crimson Witch of Flames",
+          "rarity": "4"
+        },
+        {
+          "name": "Lavawalker",
+          "rarity": "4"
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "4"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "ระยะเวลาของปฏิกิริยาแช่แข็งเพิ่มขึ้น",
+        "เมื่อเกิดปฏิกิริยานำไฟฟ้า จะปล่อยระเบิดพลังงาน สร้างความเสียหายให้แก่ศัตรูโดยรอบ"
+      ],
+      "monsterlist": [
+        "Large Electro Slime",
+        "Mutant Electro Slime",
+        "Hydro Slime",
+        "Large Hydro Slime"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งพร: น้ำแข็งโลกันตร์ II",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "น้ำแข็ง"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "3"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "3"
+        },
+        {
+          "name": "Crimson Witch of Flames",
+          "rarity": "4"
+        },
+        {
+          "name": "Lavawalker",
+          "rarity": "4"
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "4"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "เมื่อเกิดปฏิกิริยาละลาย จะปล่อยระเบิดพลังงาน สร้างความเสียหายให้แก่ศัตรูโดยรอบ",
+        "เมื่อเกิดปฏิกิริยาโอเวอร์โหลด จะรับความเสียหายจากการถูกโจมตีด้วยระเบิดแรงสูง"
+      ],
+      "monsterlist": [
+        "Large Pyro Slime",
+        "Blazing Axe Mitachurl",
+        "Pyro Abyss Mage"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งพร: น้ำแข็งโลกันตร์ III",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "น้ำแข็ง"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "3"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "3"
+        },
+        {
+          "name": "Crimson Witch of Flames",
+          "rarity": "4"
+        },
+        {
+          "name": "Lavawalker",
+          "rarity": "4"
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "4"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "4"
+        },
+        {
+          "name": "Crimson Witch of Flames",
+          "rarity": "5"
+        },
+        {
+          "name": "Lavawalker",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "เมื่อเกิดปฏิกิริยานำไฟฟ้า จะปล่อยระเบิดพลังงาน สร้างความเสียหายให้แก่ศัตรูโดยรอบ",
+        "เมื่อเกิดปฏิกิริยาโอเวอร์โหลด จะรับความเสียหายจากการถูกโจมตีด้วยระเบิดแรงสูง"
+      ],
+      "monsterlist": [
+        "Large Electro Slime",
+        "Mutant Electro Slime",
+        "Hilichurl Fighter",
+        "Fatui - Electro Cicin Mage"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งพร: น้ำแข็งโลกันตร์ IV",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "น้ำแข็ง"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "3"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "3"
+        },
+        {
+          "name": "Crimson Witch of Flames",
+          "rarity": "4"
+        },
+        {
+          "name": "Lavawalker",
+          "rarity": "4"
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "4"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "4"
+        },
+        {
+          "name": "Crimson Witch of Flames",
+          "rarity": "5"
+        },
+        {
+          "name": "Lavawalker",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "เมื่อเกิดปฏิกิริยาละลาย จะปล่อยระเบิดพลังงาน สร้างความเสียหายให้แก่ศัตรูโดยรอบ",
+        "เมื่อเกิดปฏิกิริยาโอเวอร์โหลด จะรับความเสียหายจากการถูกโจมตีด้วยระเบิดแรงสูง"
+      ],
+      "monsterlist": [
+        "Large Pyro Slime",
+        "Blazing Axe Mitachurl",
+        "Pyro Abyss Mage"
+      ]
+    }
+  ]
+}

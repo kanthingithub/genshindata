@@ -1,0 +1,21 @@
+{
+  "name": "Polen de neblina",
+  "description": "Extrañas esporas creadas por la hierba brumosa en espacios cerrados. Es la comida favorita de los Cicines voladores.",
+  "sortorder": 1744,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Obtenido de Magas de Cicin",
+    "Canjear Polvo estelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Grass_Pollen.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Mist_Grass_Pollen.png",
+    "nameicon": "UI_ItemIcon_112026"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Grass_Pollen"
+  },
+  "version": ""
+}

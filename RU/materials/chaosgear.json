@@ -1,0 +1,21 @@
+{
+  "name": "Механизм хаоса",
+  "description": "Часть древнего механизма из руин.\nСлужит источником энергии биомиметических механизмов.",
+  "sortorder": 1765,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Часовые руин",
+    "Покупается за Звёздную пыль"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Gear.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Chaos_Gear.png",
+    "nameicon": "UI_ItemIcon_112047"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chaos_Gear"
+  },
+  "version": ""
+}

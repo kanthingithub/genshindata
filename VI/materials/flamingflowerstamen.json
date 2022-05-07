@@ -1,0 +1,20 @@
+{
+  "name": "Nhụy Hoa Liệt Hỏa",
+  "description": "Đóa hoa như ngọn lửa rực rỡ, cho dù bị nước dập tắt cũng vẫn tỏa ra nhiệt lượng cao.",
+  "sortorder": 1969,
+  "category": "EXCHANGE",
+  "materialtype": "Nguyên Liệu",
+  "source": [
+    "Thu Thập Bên Ngoài",
+    "Kiến nghị: Thu thập trong Thiên Phong Thần Điện"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Flaming_Flower_Stamen.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Item_Flaming_Flower_Stamen.png",
+    "nameicon": "UI_ItemIcon_100053"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Flaming_Flower_Stamen"
+  },
+  "version": ""
+}

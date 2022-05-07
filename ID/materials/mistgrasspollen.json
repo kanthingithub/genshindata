@@ -1,0 +1,21 @@
+{
+  "name": "Mist Grass Pollen",
+  "description": "Spora aneh yang diciptakan oleh Mist Grass di tempat tertutup. Mereka adalah makanan favorit Cicin.",
+  "sortorder": 1744,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Dijatuhkan oleh Fatui Cicin Mage",
+    "Penukaran Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Grass_Pollen.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Mist_Grass_Pollen.png",
+    "nameicon": "UI_ItemIcon_112026"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Grass_Pollen"
+  },
+  "version": ""
+}

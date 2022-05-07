@@ -1,0 +1,14 @@
+{
+  "name": "香り高い調味料",
+  "description": "ナザファリンのレシピ通りに作った調味料。食欲をそそる匂いがする。料理に加えれば、より風味が増しそうだ。",
+  "sortorder": 1232,
+  "rarity": "1",
+  "category": "CONSUME",
+  "materialtype": "消耗品",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_101714",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragrant_Seasoning.png"
+  },
+  "version": "2.6"
+}

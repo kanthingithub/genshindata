@@ -1,0 +1,20 @@
+{
+  "name": "Diamant scintillant",
+  "description": "Matériau d'élévation de personnage.\n« Bienvenue au monde »",
+  "sortorder": 1821,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Récompense de Niv. d'aventure"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Brilliant_Diamond_Gemstone.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Brilliant_Diamond_Gemstone.png",
+    "nameicon": "UI_ItemIcon_104104"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Brilliant_Diamond_Gemstone"
+  },
+  "version": ""
+}

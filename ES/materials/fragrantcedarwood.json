@@ -1,0 +1,21 @@
+{
+  "name": "Madera de cedro fragante",
+  "description": "Madera obtenida de cedros fragantes. Estos árboles se llaman así por los aceites aromáticos que contienen.\nPuede utilizarse para fabricar decoraciones.",
+  "sortorder": 1947,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Material",
+  "source": [
+    "Recolectar en la naturaleza",
+    "Talando en el Valle Estelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragrant_Cedar_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/65/Item_Fragrant_Cedar_Wood.png",
+    "nameicon": "UI_ItemIcon_101307"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fragrant_Cedar_Wood"
+  },
+  "version": ""
+}

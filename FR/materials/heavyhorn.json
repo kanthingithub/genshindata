@@ -1,0 +1,22 @@
+{
+  "name": "Corne lourde",
+  "description": "Une corne utilisée par les Brutocollinus pour prévenir leurs alliés d'un danger imminent. Bien que cet objet soit déjà bien endommagé, il n'est pas prêt de rendre l'âme.",
+  "sortorder": 1735,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Butin de Brutoviandu",
+    "Butin de Chef Brutorocheux",
+    "Échange Astrions"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Heavy_Horn.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c0/Item_Heavy_Horn.png",
+    "nameicon": "UI_ItemIcon_112014"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Heavy_Horn"
+  },
+  "version": ""
+}

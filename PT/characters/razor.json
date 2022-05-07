@@ -1,0 +1,994 @@
+{
+  "name": "Razor",
+  "fullname": "Razor",
+  "title": "Lobo Jovem",
+  "description": "Um garoto que vive entre os lobos no Reino dos Lobos em Mondstadt, longe da civilização. É ágil como um relâmpago.",
+  "rarity": "4",
+  "element": "Electro",
+  "weapontype": "Espadão",
+  "substat": "Bônus de Dano Físico",
+  "gender": "Masculino",
+  "body": "BOY",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Reino dos Lobos",
+  "birthdaymmdd": "9/9",
+  "birthday": "9 de setembro",
+  "constellation": "Lupus Minor",
+  "cv": {
+    "english": "Todd Haberkorn",
+    "chinese": "周帅",
+    "japanese": "内山昂輝",
+    "korean": "Kim Seo-young"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Lasca de Ametista Vajrada",
+        "count": 1
+      },
+      {
+        "name": "Gancho do Lobo",
+        "count": 3
+      },
+      {
+        "name": "Máscara Danificada",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de Ametista Vajrada",
+        "count": 3
+      },
+      {
+        "name": "Prisma do Relâmpago",
+        "count": 2
+      },
+      {
+        "name": "Gancho do Lobo",
+        "count": 10
+      },
+      {
+        "name": "Máscara Danificada",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de Ametista Vajrada",
+        "count": 6
+      },
+      {
+        "name": "Prisma do Relâmpago",
+        "count": 4
+      },
+      {
+        "name": "Gancho do Lobo",
+        "count": 20
+      },
+      {
+        "name": "Máscara Suja",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Pedaço de Ametista Vajrada",
+        "count": 3
+      },
+      {
+        "name": "Prisma do Relâmpago",
+        "count": 8
+      },
+      {
+        "name": "Gancho do Lobo",
+        "count": 30
+      },
+      {
+        "name": "Máscara Suja",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Pedaço de Ametista Vajrada",
+        "count": 6
+      },
+      {
+        "name": "Prisma do Relâmpago",
+        "count": 12
+      },
+      {
+        "name": "Gancho do Lobo",
+        "count": 45
+      },
+      {
+        "name": "Máscara Ominosa",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Gema de Ametista Vajrada",
+        "count": 6
+      },
+      {
+        "name": "Prisma do Relâmpago",
+        "count": 20
+      },
+      {
+        "name": "Gancho do Lobo",
+        "count": 60
+      },
+      {
+        "name": "Máscara Ominosa",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/6/68/Character_Razor_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/1/1e/Character_Razor_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Razor.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Razor.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20191028/2019102814495922891.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20191018/2019101811585976188.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/997709a43b4f8d80a58ac14d412bf2e7.png",
+    "nameicon": "UI_AvatarIcon_Razor",
+    "nameiconcard": "UI_AvatarIcon_Razor_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Razor",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Razor",
+    "namesideicon": "UI_AvatarIcon_Side_Razor"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Razor"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1002.9700927734375,
+      "attack": 19.58880043029785,
+      "defense": 62.9474983215332,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2576.630174074002,
+      "attack": 50.323628417523196,
+      "defense": 161.71212354820727,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3325.900193605252,
+      "attack": 64.95780848649292,
+      "defense": 208.73712507408618,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4981.803600603656,
+      "attack": 97.29891377493277,
+      "defense": 312.6634312358383,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5514.179699236469,
+      "attack": 107.69688397451773,
+      "defense": 346.0759297099594,
+      "specialized": 0.07500000298023224
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6342.633210124855,
+      "attack": 123.87723731456299,
+      "defense": 398.0705767705822,
+      "specialized": 0.07500000298023224
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7052.46792692173,
+      "attack": 137.74119758067627,
+      "defense": 442.62057982234,
+      "specialized": 0.15000000596046448
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7880.921437810117,
+      "attack": 153.92155092072153,
+      "defense": 494.6152268829628,
+      "specialized": 0.15000000596046448
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8413.29753644293,
+      "attack": 164.31951921295786,
+      "defense": 528.0277177276894,
+      "specialized": 0.15000000596046448
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9240.747671679652,
+      "attack": 180.4802758316864,
+      "defense": 579.9593918366718,
+      "specialized": 0.15000000596046448
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 9773.123648242152,
+      "attack": 190.87824793862,
+      "defense": 613.3718979401874,
+      "specialized": 0.22499999403953552
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 10601.57668087713,
+      "attack": 207.05859193799733,
+      "defense": 665.366514985104,
+      "specialized": 0.22499999403953552
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11133.952901580255,
+      "attack": 217.45656023023366,
+      "defense": 698.7790210886196,
+      "specialized": 0.30000001192092896
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 11962.406412468641,
+      "attack": 233.63691357027892,
+      "defense": 750.7736681492424,
+      "specialized": 0.30000001192092896
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Natureza do Lobo",
+      "effect": "Ao obter um Orbe Elemental ou Partícula Elemental, aumenta o Dano de Razor em 10% por 8s."
+    },
+    "c2": {
+      "name": "Supressão",
+      "effect": "Aumenta a Taxa Crítica contra inimigos com menos de 30% de Vida em 10%."
+    },
+    "c3": {
+      "name": "Espírito Animal",
+      "effect": "Aumenta o nível do **Dente de Relâmpago** em 3.\nO nível máximo de elevação é 15."
+    },
+    "c4": {
+      "name": "Mordida",
+      "effect": "Ao pressionar para lançar a **Garra e Trovão**, diminui a DEF dos inimigos acertados em 15% por 7s."
+    },
+    "c5": {
+      "name": "Garras Afiadas",
+      "effect": "Aumenta o nível da **Garra e Trovão** em 3.\nO nível máximo de elevação é 15."
+    },
+    "c6": {
+      "name": "Lupus Fulguris",
+      "effect": "A cada 10s, a espada de Razor recarrega, fazendo com que o próximo Ataque Normal libere um relâmpago que causa 100% de Dano Electro do ATQ de Razor.\nQuando Razor não estiver usando o **Dente de Relâmpago**, um golpe de relâmpago contra o inimigo concederá um Selo Electro a Razor pela **Garra e Trovão**."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Razor_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Razor_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Razor_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Razor_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Razor_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Razor_04.png",
+      "constellation": "Eff_UI_Talent_Razor"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Razor",
+    "combat1": {
+      "name": "Ataque Normal: Presa de Aço",
+      "info": "**Ataque Normal**\nRealiza até 4 golpes consecutivos.\n\n**Ataque Carregado**\nDrena Stamina ao longo do tempo para realizar um ataque giratório contínuo contra todos os inimigos próximos.\nAo final da sequência, realiza um corte poderoso.\n\n**Ataque Imersivo**\nMergulha em pleno ar para golpear o chão, danificando inimigos em seu caminho e infligindo Dano em uma AdE durante o impacto.",
+      "attributes": [
+        {
+          "name": "Dano do 1° Golpe",
+          "parameters": [
+            "95.92%",
+            "102.46%",
+            "109.00%",
+            "117.72%",
+            "124.26%",
+            "131.89%",
+            "141.70%",
+            "151.51%",
+            "161.32%",
+            "171.13%",
+            "180.94%",
+            "190.75%",
+            "200.56%",
+            "210.37%",
+            "220.18%"
+          ]
+        },
+        {
+          "name": "Dano do 2° Golpe",
+          "parameters": [
+            "82.63%",
+            "88.27%",
+            "93.90%",
+            "101.41%",
+            "107.05%",
+            "113.62%",
+            "122.07%",
+            "130.52%",
+            "138.97%",
+            "147.42%",
+            "155.87%",
+            "164.32%",
+            "172.78%",
+            "181.23%",
+            "189.68%"
+          ]
+        },
+        {
+          "name": "Dano do 3° golpe ",
+          "parameters": [
+            "103.31%",
+            "110.36%",
+            "117.40%",
+            "126.79%",
+            "133.84%",
+            "142.05%",
+            "152.62%",
+            "163.19%",
+            "173.75%",
+            "184.32%",
+            "194.88%",
+            "205.45%",
+            "216.02%",
+            "226.58%",
+            "237.15%"
+          ]
+        },
+        {
+          "name": "Dano do 4° golpe",
+          "parameters": [
+            "136.05%",
+            "145.32%",
+            "154.60%",
+            "166.97%",
+            "176.24%",
+            "187.07%",
+            "200.98%",
+            "214.89%",
+            "228.81%",
+            "242.72%",
+            "256.64%",
+            "270.55%",
+            "284.46%",
+            "298.38%",
+            "312.29%"
+          ]
+        },
+        {
+          "name": "Dano de Loop de Ataque Carregado",
+          "parameters": [
+            "62.54%",
+            "67.63%",
+            "72.72%",
+            "79.99%",
+            "85.08%",
+            "90.90%",
+            "98.90%",
+            "106.90%",
+            "114.90%",
+            "123.62%",
+            "132.35%",
+            "141.08%",
+            "149.80%",
+            "158.53%",
+            "167.26%"
+          ]
+        },
+        {
+          "name": "Dano Final de Ataque Carregado",
+          "parameters": [
+            "113.09%",
+            "122.29%",
+            "131.50%",
+            "144.65%",
+            "153.86%",
+            "164.37%",
+            "178.84%",
+            "193.31%",
+            "207.77%",
+            "223.55%",
+            "239.33%",
+            "255.11%",
+            "270.89%",
+            "286.67%",
+            "302.45%"
+          ]
+        },
+        {
+          "name": "Consumo de Stamina de Ataque Carregado",
+          "parameters": [
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s"
+          ]
+        },
+        {
+          "name": "Duração Máxima",
+          "parameters": [
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s"
+          ]
+        },
+        {
+          "name": "Dano Durante a Queda",
+          "parameters": [
+            "82.05%",
+            "88.72%",
+            "95.40%",
+            "104.94%",
+            "111.62%",
+            "119.25%",
+            "129.75%",
+            "140.24%",
+            "150.74%",
+            "162.19%",
+            "173.63%",
+            "185.08%",
+            "196.53%",
+            "207.98%",
+            "219.43%"
+          ]
+        },
+        {
+          "name": "Dano de Queda de Baixa/Alta Altitude",
+          "parameters": [
+            "164.06%/204.92%",
+            "177.41%/221.60%",
+            "190.77%/238.28%",
+            "209.84%/262.10%",
+            "223.20%/278.78%",
+            "238.46%/297.85%",
+            "259.44%/324.06%",
+            "280.43%/350.27%",
+            "301.41%/376.48%",
+            "324.30%/405.07%",
+            "347.19%/433.66%",
+            "370.09%/462.26%",
+            "392.98%/490.85%",
+            "415.87%/519.44%",
+            "438.76%/548.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Garra e Trovão",
+      "info": "Caça sua presa usando as técnicas ensinadas para ele por seu mestre e seu Lupical.\n\n**Pressionar**\nBalança suas Garras de Lobo do Trovão, causando Dano Electro nos inimigos em frente do Razor.\nAo atacar um inimigo, Razor ganha um Selo Electro que aumenta sua taxa de Recarga de Energia.\nRazor pode ter até 3 Selos Electro simultaneamente, e ganhando um novo Selo Electro recarrega sua duração.\n\n**Manter pressionado**\nReúne energia Electro para desencadear uma tempestade de raios em uma pequena AdE, causando Dano Electro massivo, e removendo todos os Selos Electro de Razor.\nCada Selo Electro removido dessa maneira será convertido em Energia para o Razor.",
+      "description": "É quando relâmpagos caem que às vezes você pode ver de relance o olhar de um predador, analisando sua presa profundamente dentro dos olhos do Razor.",
+      "attributes": [
+        {
+          "name": "Dano de Habilidade de Pressionar",
+          "parameters": [
+            "199.20%",
+            "214.14%",
+            "229.08%",
+            "249.00%",
+            "263.94%",
+            "278.88%",
+            "298.80%",
+            "318.72%",
+            "338.64%",
+            "358.56%",
+            "378.48%",
+            "398.40%",
+            "423.30%",
+            "448.20%",
+            "473.10%"
+          ]
+        },
+        {
+          "name": "Dano de Habilidade ao Manter Pressionado",
+          "parameters": [
+            "295.20%",
+            "317.34%",
+            "339.48%",
+            "369.00%",
+            "391.14%",
+            "413.28%",
+            "442.80%",
+            "472.32%",
+            "501.84%",
+            "531.36%",
+            "560.88%",
+            "590.40%",
+            "627.30%",
+            "664.20%",
+            "701.10%"
+          ]
+        },
+        {
+          "name": "Bônus de Recarga de Energia",
+          "parameters": [
+            "20.00% por Selo Electro",
+            "20.00% por Selo Electro",
+            "20.00% por Selo Electro",
+            "20.00% por Selo Electro",
+            "20.00% por Selo Electro",
+            "20.00% por Selo Electro",
+            "20.00% por Selo Electro",
+            "20.00% por Selo Electro",
+            "20.00% por Selo Electro",
+            "20.00% por Selo Electro",
+            "20.00% por Selo Electro",
+            "20.00% por Selo Electro",
+            "20.00% por Selo Electro",
+            "20.00% por Selo Electro",
+            "20.00% por Selo Electro"
+          ]
+        },
+        {
+          "name": "Energia Regenerada",
+          "parameters": [
+            "5 por cada Selo Electro Absorvido",
+            "5 por cada Selo Electro Absorvido",
+            "5 por cada Selo Electro Absorvido",
+            "5 por cada Selo Electro Absorvido",
+            "5 por cada Selo Electro Absorvido",
+            "5 por cada Selo Electro Absorvido",
+            "5 por cada Selo Electro Absorvido",
+            "5 por cada Selo Electro Absorvido",
+            "5 por cada Selo Electro Absorvido",
+            "5 por cada Selo Electro Absorvido",
+            "5 por cada Selo Electro Absorvido",
+            "5 por cada Selo Electro Absorvido",
+            "5 por cada Selo Electro Absorvido",
+            "5 por cada Selo Electro Absorvido",
+            "5 por cada Selo Electro Absorvido"
+          ]
+        },
+        {
+          "name": "Duração do Selo Electro",
+          "parameters": [
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s"
+          ]
+        },
+        {
+          "name": "Recarga do Pressionar",
+          "parameters": [
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s"
+          ]
+        },
+        {
+          "name": "Recarga ao Manter Pressionado",
+          "parameters": [
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Dente de Relâmpago",
+      "info": "Evoca o Lobo Interior que causa Dano Electro a todos os inimigos ao redor. Isso remove todos os Selos Electro do Razor, que serão convertidos em energia elemental para ele.\nO Lobo Interior irá lutar ao lado de Razor durante o período de duração da habilidade.\n\n**O Lobo Interior**\n Ataca juntamente com os ataques normais do Razor, causando Dano Electro. Aumenta a Vel. de ATQ e RES Electro.\nCausa imunidade a Razor por Dano infligido pelo estado de Eletricamente Carregado\nDesabilita o Ataque Carregado do Razor. Aumenta a capacidade de RES à Interrupção de Razor.\n\nEsses efeitos terminam quando Razor sai de batalha.\nQuando Razor deixa o campo, um máximo de 10 de Energia irá ser retornada para ele baseado na duração restante da habilidade.",
+      "description": "O lobo acordou. A caça começou.",
+      "attributes": [
+        {
+          "name": "Dano de Explosão",
+          "parameters": [
+            "160.00%",
+            "172.00%",
+            "184.00%",
+            "200.00%",
+            "212.00%",
+            "224.00%",
+            "240.00%",
+            "256.00%",
+            "272.00%",
+            "288.00%",
+            "304.00%",
+            "320.00%",
+            "340.00%",
+            "360.00%",
+            "380.00%"
+          ]
+        },
+        {
+          "name": "Dano do Espírito do Lobo",
+          "parameters": [
+            "24.00% Dano de Ataque Normal",
+            "25.80% Dano de Ataque Normal",
+            "27.60% Dano de Ataque Normal",
+            "30.00% Dano de Ataque Normal",
+            "31.80% Dano de Ataque Normal",
+            "33.60% Dano de Ataque Normal",
+            "36.00% Dano de Ataque Normal",
+            "38.40% Dano de Ataque Normal",
+            "40.80% Dano de Ataque Normal",
+            "43.20% Dano de Ataque Normal",
+            "45.60% Dano de Ataque Normal",
+            "48.00% Dano de Ataque Normal",
+            "51.00% Dano de Ataque Normal",
+            "54.00% Dano de Ataque Normal",
+            "57.00% Dano de Ataque Normal"
+          ]
+        },
+        {
+          "name": "Aumento da Vel. de Ataque Normal",
+          "parameters": [
+            "26.00%",
+            "28.00%",
+            "30.00%",
+            "32.00%",
+            "34.00%",
+            "36.00%",
+            "37.00%",
+            "38.00%",
+            "39.00%",
+            "40.00%",
+            "40.00%",
+            "40.00%",
+            "40.00%",
+            "40.00%",
+            "40.00%"
+          ]
+        },
+        {
+          "name": "Aumento da RES Electro",
+          "parameters": [
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%"
+          ]
+        },
+        {
+          "name": "Duração",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "Tempo de Recarga",
+          "parameters": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "name": "Energia Elemental",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Despertamento",
+      "info": "Diminui a Recarga das **Garra e Trovão** em 18%. Usar as **Dente de Relâmpago** redefinem a Recarga da **Garra e Trovão**."
+    },
+    "passive2": {
+      "name": "Fome",
+      "info": "Quando a Energia de Razor está abaixo de 50%, aumenta a Recarga de Energia em 30%."
+    },
+    "passive3": {
+      "name": "Corrida de Lobos",
+      "info": "Diminui o consumo de Stamina ao Correr de todos os seus personagens em 20%.\nNão acumulável com Talentos Passivos que concedem exatamente os mesmos efeitos."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Ensinamentos de Resistência",
+          "count": 3
+        },
+        {
+          "name": "Máscara Danificada",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guia de Resistência",
+          "count": 2
+        },
+        {
+          "name": "Máscara Suja",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guia de Resistência",
+          "count": 4
+        },
+        {
+          "name": "Máscara Suja",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guia de Resistência",
+          "count": 6
+        },
+        {
+          "name": "Máscara Suja",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guia de Resistência",
+          "count": 9
+        },
+        {
+          "name": "Máscara Suja",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofia de Resistência",
+          "count": 4
+        },
+        {
+          "name": "Máscara Ominosa",
+          "count": 4
+        },
+        {
+          "name": "Garra do Vento Oriental",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofia de Resistência",
+          "count": 6
+        },
+        {
+          "name": "Máscara Ominosa",
+          "count": 6
+        },
+        {
+          "name": "Garra do Vento Oriental",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofia de Resistência",
+          "count": 12
+        },
+        {
+          "name": "Máscara Ominosa",
+          "count": 9
+        },
+        {
+          "name": "Garra do Vento Oriental",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofia de Resistência",
+          "count": 16
+        },
+        {
+          "name": "Máscara Ominosa",
+          "count": 12
+        },
+        {
+          "name": "Garra do Vento Oriental",
+          "count": 2
+        },
+        {
+          "name": "Coroa da Sabedoria",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Razor_01",
+      "combat3": "Skill_E_Razor_01_HD",
+      "passive1": "UI_Talent_S_Razor_05",
+      "passive2": "UI_Talent_S_Razor_06",
+      "passive3": "UI_Talent_Explosion_Sprint"
+    },
+    "version": "1.0"
+  }
+}

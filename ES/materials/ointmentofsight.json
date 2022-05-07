@@ -1,0 +1,18 @@
+{
+  "name": "Bálsamo de visión",
+  "description": "Objeto de refinamiento exclusivo para el arma “Ojo del Juramento”.\nEl especial aceite de las anguilas de las profundidades se usó en el pasado para conservar los artilugios sagrados de Enkanomiya y que permanecieran relucientes durante siglos.",
+  "sortorder": 2299,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de refinamiento",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_200109",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ointment_of_Sight.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Item_Ointment_of_Sight.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ointment_of_Sight"
+  },
+  "version": ""
+}

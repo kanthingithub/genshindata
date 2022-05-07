@@ -1,0 +1,26 @@
+{
+  "name": "Máscara sucia",
+  "description": "Totalmente cubierta de tierra, libera un sutil olor a huesos.\nSin embargo, los Hilichurls siguen poniéndosela.",
+  "sortorder": 1727,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Sintetizar",
+    "Obtenido de Hilichurls (Niv. 40+)",
+    "Obtenido de algunos Hilichurls Ballesteros (Niv. 40+)",
+    "Obtenido de algunos Samachurls (Niv. 40+)",
+    "Obtenido de algunos Mitachurls (Niv. 40+)",
+    "Obtenido de algunos Lawachurls (Niv. 40+)",
+    "Canjear Polvo estelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Stained_Mask.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Stained_Mask.png",
+    "nameicon": "UI_ItemIcon_112006"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Stained_Mask"
+  },
+  "version": ""
+}

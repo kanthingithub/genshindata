@@ -1,0 +1,113 @@
+{
+  "name": "Kairagi – Sengende Macht",
+  "specialname": "„Anrüchiger Samanosuke“",
+  "enemytype": "COMMON",
+  "category": "Weitere Menschen",
+  "description": "Ein wandernder Kampfkünstler, der sich dem Bösen verschrieben hat.\nEr hat sich seit seiner Kindheit auf die Kampfkünste konzentriert und nie nachgelassen, aber weil er die Gelegenheit verlor, seiner Pflicht nachzukommen, kam er vom rechten Weg ab und schlug den Weg des Bösen und der Rebellion ein. Die Klinge ist nicht so kalt wie normaler Stahl, sondern ist voller feurigen Zorns. Sie scheint mit Hilfe eines Talismans aus Papier zum Brennen gebracht worden zu sein, das durch die angeblich verlorene Technik der Götter hergestellt wurde.",
+  "investigation": {
+    "name": "Nobushi",
+    "category": "Normal",
+    "description": "Obwohl sie die „Nobushi“ genannt werden, haben diese Räuber keine zentralisierte Organisation. Abhängig von ihrem Temperament oder der Art ihrer Verbrechen sind sie auch als „Obdachlose“, „Vagabunden“, „Kairagi“, „Taugenichtse“ oder sogar „Randalierer“ bekannt, oder einfach kollektiv als „diese Schurken“. Sie sind oft Samurai, die dem Banditentum verfallen sind, und einige verbünden sich sogar mit den Schatzräubern oder den Fatui, um zu überleben oder Geld zu verdienen."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Alter Handschutz",
+      "count": 0.8404
+    },
+    {
+      "name": "Kageuchi-Handschutz",
+      "count": 0.2241
+    },
+    {
+      "name": "Berühmter Handschutz",
+      "count": 0.056
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Samurai_Kairagi_02"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 352.41601021628594,
+      "attack": 126.88865269049074,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 1388.0113069393556,
+      "attack": 339.0138754666823,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 4085.400020136498,
+      "attack": 836.2498197051391,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 7607.856318554608,
+      "attack": 1365.8829744341056,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 13660.06569647207,
+      "attack": 2042.0693843711633,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 25168.955048691947,
+      "attack": 3149.136175426116,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 42522.925964172,
+      "attack": 4434.621811969759,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 70330.06565506198,
+      "attack": 6121.785820403544,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 113455.76703900844,
+      "attack": 7876.325001969002,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 178081.38831524178,
+      "attack": 9515.686133175914,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 266208.09946409985,
+      "attack": 12311.044076510821,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 336939.5166115016,
+      "attack": 12555.48552251578,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 389729.3082466051,
+      "attack": 12801.63840648823,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

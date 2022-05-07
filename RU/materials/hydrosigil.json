@@ -1,0 +1,19 @@
+{
+  "name": "Символ Гидро",
+  "description": "Символ признания города-государства.\nМожно обменять на особые предметы в соответствующем городе.",
+  "sortorder": 501,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "Символ города",
+  "source": [
+    "Исследование мира"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_302",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Hydro_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Hydro_Sigil"
+  },
+  "version": ""
+}

@@ -1,0 +1,307 @@
+{
+  "name": "Skyrider Sword",
+  "description": "Pedang baja yang dapat diandalkan. Konon, Skyrider yang terkenal pernah mencoba meminjam kekuatannya untuk terbang...",
+  "weapontype": "Sword",
+  "rarity": "3",
+  "baseatk": 38,
+  "substat": "Energy Recharge",
+  "subvalue": "11.3",
+  "effectname": "Determination",
+  "effect": [
+    "Menggunakan Elemental Burst meningkatkan [12%] ATK dan Movement SPD selama 15 detik.",
+    "Menggunakan Elemental Burst meningkatkan [15%] ATK dan Movement SPD selama 15 detik.",
+    "Menggunakan Elemental Burst meningkatkan [18%] ATK dan Movement SPD selama 15 detik.",
+    "Menggunakan Elemental Burst meningkatkan [21%] ATK dan Movement SPD selama 15 detik.",
+    "Menggunakan Elemental Burst meningkatkan [24%] ATK dan Movement SPD selama 15 detik."
+  ],
+  "r1": [
+    "12%"
+  ],
+  "r2": [
+    "15%"
+  ],
+  "r3": [
+    "18%"
+  ],
+  "r4": [
+    "21%"
+  ],
+  "r5": [
+    "24%"
+  ],
+  "weaponmaterialtype": "Aerosiderite",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 5000
+      },
+      {
+        "name": "Grain of Aerosiderite",
+        "count": 2
+      },
+      {
+        "name": "Fragile Bone Shard",
+        "count": 2
+      },
+      {
+        "name": "Recruit's Insignia",
+        "count": 1
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 10000
+      },
+      {
+        "name": "Piece of Aerosiderite",
+        "count": 2
+      },
+      {
+        "name": "Fragile Bone Shard",
+        "count": 8
+      },
+      {
+        "name": "Recruit's Insignia",
+        "count": 5
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 15000
+      },
+      {
+        "name": "Piece of Aerosiderite",
+        "count": 4
+      },
+      {
+        "name": "Sturdy Bone Shard",
+        "count": 4
+      },
+      {
+        "name": "Sergeant's Insignia",
+        "count": 4
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Bit of Aerosiderite",
+        "count": 2
+      },
+      {
+        "name": "Sturdy Bone Shard",
+        "count": 8
+      },
+      {
+        "name": "Sergeant's Insignia",
+        "count": 6
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 25000
+      },
+      {
+        "name": "Bit of Aerosiderite",
+        "count": 4
+      },
+      {
+        "name": "Fossilized Bone Shard",
+        "count": 6
+      },
+      {
+        "name": "Lieutenant's Insignia",
+        "count": 4
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Chunk of Aerosiderite",
+        "count": 3
+      },
+      {
+        "name": "Fossilized Bone Shard",
+        "count": 12
+      },
+      {
+        "name": "Lieutenant's Insignia",
+        "count": 8
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/Weapon_Skyrider_Sword.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Mitsurugi.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Mitsurugi_Awaken.png",
+    "nameicon": "UI_EquipIcon_Sword_Mitsurugi",
+    "namegacha": "UI_Gacha_EquipIcon_Sword_Mitsurugi",
+    "nameawakenicon": "UI_EquipIcon_Sword_Mitsurugi_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Skyrider_Sword"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 37.60749816894531,
+      "specialized": 0.11333300173282623
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 48.13759658029085,
+      "specialized": 0.13169294131241216
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 60.96175646858683,
+      "specialized": 0.15447288536090475
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 73.40983725068327,
+      "specialized": 0.17736615419683943
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 85.5570619208811,
+      "specialized": 0.2002594095224275
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 105.0570619208811,
+      "specialized": 0.2002594095224275
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 116.94103076842293,
+      "specialized": 0.22315267835836217
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 128.59935304887767,
+      "specialized": 0.24604594719429684
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 140.03202876224532,
+      "specialized": 0.2689392025198849
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 151.2766716472579,
+      "specialized": 0.2918324848661662
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 170.6766731731368,
+      "specialized": 0.2918324848661662
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 181.77088800220008,
+      "specialized": 0.31472574019175426
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 192.71467477531405,
+      "specialized": 0.33761902253803555
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 212.21467477531405,
+      "specialized": 0.33761902253803555
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 223.00801555982616,
+      "specialized": 0.3605122778636236
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 233.688542027121,
+      "specialized": 0.38340553318921167
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 253.0885435529999,
+      "specialized": 0.38340553318921167
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 263.69386047548323,
+      "specialized": 0.40629881553549296
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 274.1863630807493,
+      "specialized": 0.42907874607363894
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 293.6863630807493,
+      "specialized": 0.42907874607363894
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 304.0660334361455,
+      "specialized": 0.451972001399227
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 314.44570379154175,
+      "specialized": 0.4748652837455083
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 333.8456976880261,
+      "specialized": 0.4748652837455083
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 344.1125357935525,
+      "specialized": 0.4977585660917896
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 354.3793918317315,
+      "specialized": 0.5206517943966844
+    }
+  },
+  "version": "1.0"
+}

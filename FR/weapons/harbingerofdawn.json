@@ -1,0 +1,307 @@
+{
+  "name": "Messager de l'Aube",
+  "description": "La lame de cette épée luisait jadis comme le soleil, mais ce n'est plus le cas aujourd'hui. Celui qui manie cette arme se sent au sommet de sa forme.",
+  "weapontype": "Épée à une main",
+  "rarity": "3",
+  "baseatk": 39,
+  "substat": "DGT CRIT",
+  "subvalue": "10.2",
+  "effectname": "Vigueur",
+  "effect": [
+    "Augmente le taux CRIT de [14 %] quand les PV sont supérieurs à 90 %.",
+    "Augmente le taux CRIT de [17,5 %] quand les PV sont supérieurs à 90 %.",
+    "Augmente le taux CRIT de [21 %] quand les PV sont supérieurs à 90 %.",
+    "Augmente le taux CRIT de [24,5 %] quand les PV sont supérieurs à 90 %.",
+    "Augmente le taux CRIT de [28 %] quand les PV sont supérieurs à 90 %."
+  ],
+  "r1": [
+    "14 %"
+  ],
+  "r2": [
+    "17,5 %"
+  ],
+  "r3": [
+    "21 %"
+  ],
+  "r4": [
+    "24,5 %"
+  ],
+  "r5": [
+    "28 %"
+  ],
+  "weaponmaterialtype": "Boreal Wolf",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 5000
+      },
+      {
+        "name": "Dent de lait du Loup boréal",
+        "count": 2
+      },
+      {
+        "name": "Branche morte des lignes énergétiques",
+        "count": 2
+      },
+      {
+        "name": "Bave de Blob",
+        "count": 1
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 10000
+      },
+      {
+        "name": "Croc brisé du Loup boréal",
+        "count": 2
+      },
+      {
+        "name": "Branche morte des lignes énergétiques",
+        "count": 8
+      },
+      {
+        "name": "Bave de Blob",
+        "count": 5
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 15000
+      },
+      {
+        "name": "Croc brisé du Loup boréal",
+        "count": 4
+      },
+      {
+        "name": "Feuilles mortes des lignes énergétiques",
+        "count": 4
+      },
+      {
+        "name": "Mucus de Blob",
+        "count": 4
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Croc fendu du Loup boréal",
+        "count": 2
+      },
+      {
+        "name": "Feuilles mortes des lignes énergétiques",
+        "count": 8
+      },
+      {
+        "name": "Mucus de Blob",
+        "count": 6
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 25000
+      },
+      {
+        "name": "Croc fendu du Loup boréal",
+        "count": 4
+      },
+      {
+        "name": "Pousse des lignes énergétiques",
+        "count": 6
+      },
+      {
+        "name": "Essence de Blob",
+        "count": 4
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Nostalgie du Loup boréal",
+        "count": 3
+      },
+      {
+        "name": "Pousse des lignes énergétiques",
+        "count": 12
+      },
+      {
+        "name": "Essence de Blob",
+        "count": 8
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Weapon_Harbinger_of_Dawn.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Dawn.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Dawn_Awaken.png",
+    "nameicon": "UI_EquipIcon_Sword_Dawn",
+    "namegacha": "UI_Gacha_EquipIcon_Sword_Dawn",
+    "nameawakenicon": "UI_EquipIcon_Sword_Dawn_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Harbinger_of_Dawn"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 38.74129867553711,
+      "specialized": 0.10199999809265137
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 50.47991113972057,
+      "specialized": 0.11852399175262462
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 65.04664125210502,
+      "specialized": 0.13902600099945062
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 79.45840816490272,
+      "specialized": 0.1596300028514861
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 93.75394575052633,
+      "specialized": 0.18023399254417427
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 113.25394575052633,
+      "specialized": 0.18023399254417427
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 127.43325862729853,
+      "specialized": 0.20083799439620975
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 141.45760830448398,
+      "specialized": 0.22144199624824523
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 155.40447176355337,
+      "specialized": 0.2420459859409334
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 169.27385824115208,
+      "specialized": 0.2626499999523162
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 188.673859767031,
+      "specialized": 0.2626499999523162
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 202.42703077242368,
+      "specialized": 0.28325398964500437
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 216.10269708640953,
+      "specialized": 0.30385800365638715
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 235.60269708640953,
+      "specialized": 0.30385800365638715
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 249.20090489221548,
+      "specialized": 0.32446199334907533
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 262.72161724325997,
+      "specialized": 0.3450659830417635
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 282.1216187691389,
+      "specialized": 0.3450659830417635
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 295.60359262944803,
+      "specialized": 0.3656699970531463
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 309.00807103499574,
+      "specialized": 0.386171994140625
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 328.50807103499574,
+      "specialized": 0.386171994140625
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 341.9125679138342,
+      "specialized": 0.40677598383331315
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 355.2783078286466,
+      "specialized": 0.42737999784469594
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 374.67830172513095,
+      "specialized": 0.42737999784469594
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 388.005303149208,
+      "specialized": 0.4479840118560787
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 401.2935845558404,
+      "specialized": 0.4685879772300723
+    }
+  },
+  "version": "1.0"
+}

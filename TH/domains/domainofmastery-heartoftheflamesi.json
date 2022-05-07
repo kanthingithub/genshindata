@@ -1,0 +1,168 @@
+{
+  "name": "ดันเจี้ยนแห่งการพัฒนา: ห้วงลึกแห่งเปลวไฟ",
+  "region": "Liyue",
+  "domainEntrance": "วัง Taishan Mansion",
+  "domainType": "วัสดุยกระดับพรสวรรค์",
+  "description": "แท่นบูชายัญอันแสนร้อนระอุนี้มีพลังของธาตุไฟอันมากมายมหาศาลอัดแน่นอยู่\nสัมผัสกับการเผาไหม้ความร้อนสูงอย่างต่อเนื่อง\nหากว่าสามารถผ่านการทดสอบนี้ได้ล่ะก็ บางทีอาจจะได้รับวัตถุพัฒนาพรสวรรค์ก็เป็นได้",
+  "daysOfWeek": [
+    "วันอังคาร",
+    "วันศุกร์",
+    "วันอาทิตย์"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Fire"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "ดันเจี้ยนแห่งการพัฒนา: ห้วงลึกแห่งเปลวไฟ I",
+      "recommendedLevel": 38,
+      "recommendedElements": [
+        "น้ำ",
+        "น้ำแข็ง",
+        "ไฟฟ้า"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1575
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Teachings of Diligence"
+        }
+      ],
+      "disorder": [
+        "ตัวละครของคุณจะถูกโจมตีด้วย \"Smoldering Flames\" เป็นช่วง ๆ : ได้รับความเสียหายธาตุไฟต่อเนื่อง จนกว่าจะกำจัดธาตุไฟที่ติดอยู่กับตัวละครได้"
+      ],
+      "monsterlist": [
+        "Pyro Slime",
+        "Large Pyro Slime",
+        "Pyro Abyss Mage"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งการพัฒนา: ห้วงลึกแห่งเปลวไฟ II",
+      "recommendedLevel": 54,
+      "recommendedElements": [
+        "น้ำ",
+        "น้ำแข็ง",
+        "ไฟฟ้า"
+      ],
+      "unlockRank": 28,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1800
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Teachings of Diligence"
+        },
+        {
+          "name": "Guide to Diligence"
+        }
+      ],
+      "disorder": [
+        "ตัวละครของคุณจะถูกโจมตีด้วย \"Smoldering Flames\" เป็นช่วง ๆ : ได้รับความเสียหายธาตุไฟต่อเนื่อง จนกว่าจะกำจัดธาตุไฟที่ติดอยู่กับตัวละครได้"
+      ],
+      "monsterlist": [
+        "Pyro Slime",
+        "Large Pyro Slime",
+        "Pyro Abyss Mage"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งการพัฒนา: ห้วงลึกแห่งเปลวไฟ III",
+      "recommendedLevel": 71,
+      "recommendedElements": [
+        "น้ำ",
+        "น้ำแข็ง",
+        "ไฟฟ้า"
+      ],
+      "unlockRank": 36,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2050
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Teachings of Diligence"
+        },
+        {
+          "name": "Guide to Diligence"
+        }
+      ],
+      "disorder": [
+        "ตัวละครของคุณจะถูกโจมตีด้วย \"Smoldering Flames\" เป็นช่วง ๆ : ได้รับความเสียหายธาตุไฟต่อเนื่อง จนกว่าจะกำจัดธาตุไฟที่ติดอยู่กับตัวละครได้"
+      ],
+      "monsterlist": [
+        "Large Pyro Slime",
+        "Pyro Abyss Mage"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งการพัฒนา: ห้วงลึกแห่งเปลวไฟ IV",
+      "recommendedLevel": 88,
+      "recommendedElements": [
+        "น้ำ",
+        "น้ำแข็ง",
+        "ไฟฟ้า"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2375
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Teachings of Diligence"
+        },
+        {
+          "name": "Guide to Diligence"
+        },
+        {
+          "name": "Philosophies of Diligence"
+        }
+      ],
+      "disorder": [
+        "ตัวละครของคุณจะถูกโจมตีด้วย \"Smoldering Flames\" เป็นช่วง ๆ : ได้รับความเสียหายธาตุไฟต่อเนื่อง จนกว่าจะกำจัดธาตุไฟที่ติดอยู่กับตัวละครได้"
+      ],
+      "monsterlist": [
+        "Blazing Axe Mitachurl",
+        "Fatui - Pyro Agent"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Ветряная астра",
+  "description": "Растение, которое больше всего на свете любит ветер. Жители Мондштадта, гордый народ ветров, также называют его «видимым ветром».",
+  "sortorder": 2039,
+  "category": "EXCHANGE",
+  "materialtype": "Диковина Мондштадта",
+  "source": [
+    "У статуи Анемо Архонта в долине Ветров",
+    "Под деревьями",
+    "Логово Ужаса Бури"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Windwheel_Aster.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Windwheel_Aster.png",
+    "nameicon": "UI_ItemIcon_100024"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Windwheel_Aster"
+  },
+  "version": ""
+}

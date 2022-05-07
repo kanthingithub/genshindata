@@ -1,0 +1,19 @@
+{
+  "name": "생선 살코기",
+  "description": "생선의 신선한 살코기. 적절히 조리하면 아주 맛있는 요리가 된다",
+  "sortorder": 2001,
+  "category": "EXCHANGE",
+  "materialtype": "식자재",
+  "source": [
+    "어류를 포획하여 채집"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fish.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Item_Fish.png",
+    "nameicon": "UI_ItemIcon_100084"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fish"
+  },
+  "version": ""
+}

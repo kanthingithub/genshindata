@@ -1,0 +1,24 @@
+{
+  "name": "Enseignement de l'éphémère",
+  "description": "Matériau d'amélioration d'aptitude.\nL'éphémère est ce dont rêve la Nation du Tonnerre.\nLes gloires éphémères sont la plus haute expression de la beauté mortelle, car nous autres, mortels, sommes tels des éclairs dans la nuit. Comme un beau rêve ou une étincelle qui s'embrase, nous laissons une empreinte magnifique sur le ciel nocturne éternel.",
+  "sortorder": 1869,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration d'aptitude",
+  "dropdomain": "Donjon de la maîtrise : Règne violet",
+  "daysofweek": [
+    "Lundi",
+    "Jeudi",
+    "Dimanche"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Transience.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Item_Teachings_of_Transience.png",
+    "nameicon": "UI_ItemIcon_104320"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Transience"
+  },
+  "version": ""
+}

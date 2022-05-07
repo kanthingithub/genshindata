@@ -1,0 +1,21 @@
+{
+  "name": "Wick Material",
+  "description": "Bahan yang digunakan untuk membuat Lentera Xiao selama Lantern Rite.\nBahan berserat umum yang dapat diproses menjadi sumbu lentera sehingga lentera dapat melayang jauh bersama dengan harapan yang dibawanya.",
+  "sortorder": 2288,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Material Lantern Rite",
+  "source": [
+    "Didapatkan dari berbagai jenis Hilichurl",
+    "Didapatkan dari musuh Elite Fatui"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wick_Material.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Item_Wick_Material.png",
+    "nameicon": "UI_ItemIcon_200002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Wick_Material"
+  },
+  "version": ""
+}

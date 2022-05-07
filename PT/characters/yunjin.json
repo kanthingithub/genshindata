@@ -1,0 +1,911 @@
+{
+  "name": "Yunjin",
+  "fullname": "Yunjin",
+  "title": "Palco Lúcida",
+  "description": "Uma renomada cantora de ópera de Liyue, hábil tanto em dramaturgia quanto em canto. Seu estilo é único, requintado e delicado, exatamente como ela.",
+  "rarity": "4",
+  "element": "Geo",
+  "weapontype": "Lança",
+  "substat": "Recarga de Energia",
+  "gender": "Feminino",
+  "body": "GIRL",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Trupe de Ópera Yun-Han",
+  "birthdaymmdd": "5/21",
+  "birthday": "21 de maio",
+  "constellation": "Opera Grandis",
+  "cv": {
+    "english": "Judy Alice Lee & Yang Yang",
+    "chinese": "贺文潇&杨扬",
+    "japanese": "小岩井小鸟&杨扬",
+    "korean": "Sah Moon-young & Yang Yang"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Lasca de Topázio Prithiva",
+        "count": 1
+      },
+      {
+        "name": "Lírio de Vidro",
+        "count": 3
+      },
+      {
+        "name": "Máscara Danificada",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de Topázio Prithiva",
+        "count": 3
+      },
+      {
+        "name": "Chifre do Rei Canino",
+        "count": 2
+      },
+      {
+        "name": "Lírio de Vidro",
+        "count": 10
+      },
+      {
+        "name": "Máscara Danificada",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de Topázio Prithiva",
+        "count": 6
+      },
+      {
+        "name": "Chifre do Rei Canino",
+        "count": 4
+      },
+      {
+        "name": "Lírio de Vidro",
+        "count": 20
+      },
+      {
+        "name": "Máscara Suja",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Pedaço de Topázio Prithiva",
+        "count": 3
+      },
+      {
+        "name": "Chifre do Rei Canino",
+        "count": 8
+      },
+      {
+        "name": "Lírio de Vidro",
+        "count": 30
+      },
+      {
+        "name": "Máscara Suja",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Pedaço de Topázio Prithiva",
+        "count": 6
+      },
+      {
+        "name": "Chifre do Rei Canino",
+        "count": 12
+      },
+      {
+        "name": "Lírio de Vidro",
+        "count": 45
+      },
+      {
+        "name": "Máscara Ominosa",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Gema de Topázio Prithiva",
+        "count": 6
+      },
+      {
+        "name": "Chifre do Rei Canino",
+        "count": 20
+      },
+      {
+        "name": "Lírio de Vidro",
+        "count": 60
+      },
+      {
+        "name": "Máscara Ominosa",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_AvatarIcon_Yunjin",
+    "nameiconcard": "UI_AvatarIcon_Yunjin_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Yunjin",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Yunjin",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yunjin.png",
+    "namesideicon": "UI_AvatarIcon_Side_Yunjin",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Yunjin.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211226/2021122614194093504.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211226/2021122614194555292.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Yun_Jin"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 893.55517578125,
+      "attack": 16.02720069885254,
+      "defense": 61.574100494384766,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2295.543251694995,
+      "attack": 41.17387868706055,
+      "defense": 158.1838645224043,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2963.07474583562,
+      "attack": 53.14729883018799,
+      "defense": 204.1828650717207,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4438.334148462163,
+      "attack": 79.60820372964463,
+      "defense": 305.8416917168597,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4912.632854516851,
+      "attack": 88.11563380624375,
+      "defense": 338.52519391412534,
+      "specialized": 0.06669999659061432
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5650.7096205961425,
+      "attack": 101.3541050072754,
+      "defense": 389.3854140761341,
+      "specialized": 0.06669999659061432
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6283.1078139555175,
+      "attack": 112.6973438378418,
+      "defense": 432.9634093764271,
+      "specialized": 0.13330000638961792
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7021.184580034809,
+      "attack": 125.93581503887344,
+      "defense": 483.82362953843585,
+      "specialized": 0.13330000638961792
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7495.483286089497,
+      "attack": 134.44324606914688,
+      "defense": 516.5071317357015,
+      "specialized": 0.13330000638961792
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 8232.666135676904,
+      "attack": 147.6656835887543,
+      "defense": 567.3057528992413,
+      "specialized": 0.13330000638961792
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8706.964719661279,
+      "attack": 156.17311461902773,
+      "defense": 599.9892550965069,
+      "specialized": 0.20000000298023224
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9445.04105966026,
+      "attack": 169.41157817769454,
+      "defense": 650.8494458976966,
+      "specialized": 0.20000000298023224
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 9919.33988778526,
+      "attack": 177.9190053932707,
+      "defense": 683.5329480949622,
+      "specialized": 0.26669999957084656
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10657.416653864551,
+      "attack": 191.15747659430235,
+      "defense": 734.393168256971,
+      "specialized": 0.26669999957084656
+    }
+  },
+  "version": "2.4",
+  "constellations": {
+    "c1": {
+      "name": "Galope Veloz",
+      "effect": "O Tempo de Recarga de **Abertura Deslumbrante** é reduzido em 18%."
+    },
+    "c2": {
+      "name": "Miríade de Adereços",
+      "effect": "Quando a **Bandeira Quebra-Rochas** é usada, o Dano do Ataque Normal de todos os membros da equipe próximos é aumentado em 15% por 12s."
+    },
+    "c3": {
+      "name": "Bandeira Marítima",
+      "effect": "Aumenta o nível de **Bandeira Quebra-rochas** em 3.\nNível máximo de elevação é 15."
+    },
+    "c4": {
+      "name": "Flor e Lutadora",
+      "effect": "Quando Yunjin desencadeia Cristalização, sua DEF aumenta 20% por 12s."
+    },
+    "c5": {
+      "name": "Fama Mundial",
+      "effect": "Aumenta o nível de **Abertura Deslumbrante** em 3.\nNível máximo de elevação é 15."
+    },
+    "c6": {
+      "name": "Harmonia e Decoro",
+      "effect": "Personagens sob o efeito de **Formação da Bandeira das Nuvens** terão a Vel. de ATQ de seus Ataques Normais aumentada em 12%."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yunjin_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yunjin_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Yunjin_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yunjin_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Yunjin_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yunjin_04.png",
+      "constellation": "Eff_UI_Talent_Yunjin"
+    },
+    "version": "2.4"
+  },
+  "talent": {
+    "name": "Yunjin",
+    "combat1": {
+      "name": "Ataque Normal: Golpe das Nuvens",
+      "info": "**Ataque Normal**\nRealiza até 5 golpes com a lança.\n\n**Ataque Carregado**\nConsome uma certa quantidade de Stamina para se lançar para frente, infligindo Dano em seu trajeto.\n\n**Ataque Imersivo**\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+      "attributes": [
+        {
+          "name": "Dano do 1° Golpe",
+          "parameters": [
+            "40.51%",
+            "43.80%",
+            "47.10%",
+            "51.81%",
+            "55.11%",
+            "58.88%",
+            "64.06%",
+            "69.24%",
+            "74.42%",
+            "80.07%",
+            "85.72%",
+            "91.37%",
+            "97.03%",
+            "102.68%",
+            "108.33%"
+          ]
+        },
+        {
+          "name": "Dano do 2° Golpe",
+          "parameters": [
+            "40.25%",
+            "43.52%",
+            "46.80%",
+            "51.48%",
+            "54.76%",
+            "58.50%",
+            "63.65%",
+            "68.80%",
+            "73.94%",
+            "79.56%",
+            "85.18%",
+            "90.79%",
+            "96.41%",
+            "102.02%",
+            "107.64%"
+          ]
+        },
+        {
+          "name": "Dano do 3° Golpe",
+          "parameters": [
+            "22.96%+27.52%",
+            "24.83%+29.76%",
+            "26.70%+32.00%",
+            "29.37%+35.20%",
+            "31.24%+37.44%",
+            "33.38%+40.00%",
+            "36.31%+43.52%",
+            "39.25%+47.04%",
+            "42.19%+50.56%",
+            "45.39%+54.40%",
+            "48.59%+58.24%",
+            "51.80%+62.08%",
+            "55.00%+65.92%",
+            "58.21%+69.76%",
+            "61.41%+73.60%"
+          ]
+        },
+        {
+          "name": "Dano do 4° Golpe",
+          "parameters": [
+            "23.99%+28.81%",
+            "25.95%+31.15%",
+            "27.90%+33.50%",
+            "30.69%+36.85%",
+            "32.64%+39.20%",
+            "34.87%+41.87%",
+            "37.94%+45.56%",
+            "41.01%+49.24%",
+            "44.08%+52.93%",
+            "47.43%+56.95%",
+            "50.78%+60.97%",
+            "54.13%+64.99%",
+            "57.47%+69.01%",
+            "60.82%+73.03%",
+            "64.17%+77.05%"
+          ]
+        },
+        {
+          "name": "Dano do 5° Golpe",
+          "parameters": [
+            "67.34%",
+            "72.82%",
+            "78.30%",
+            "86.13%",
+            "91.61%",
+            "97.87%",
+            "106.49%",
+            "115.10%",
+            "123.71%",
+            "133.11%",
+            "142.51%",
+            "151.90%",
+            "161.30%",
+            "170.69%",
+            "180.09%"
+          ]
+        },
+        {
+          "name": "Dano de Ataque Carregado",
+          "parameters": [
+            "121.69%",
+            "131.60%",
+            "141.50%",
+            "155.65%",
+            "165.56%",
+            "176.87%",
+            "192.44%",
+            "208.00%",
+            "223.57%",
+            "240.55%",
+            "260.01%",
+            "282.89%",
+            "305.77%",
+            "328.65%",
+            "353.61%"
+          ]
+        },
+        {
+          "name": "Consumo de Stamina de Ataque Carregado",
+          "parameters": [
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25"
+          ]
+        },
+        {
+          "name": "Dano Durante a Queda",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "Dano de Queda de Baixa/Alta Altitude",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Abertura Deslumbrante",
+      "info": "A Srta. Yun apenas atua no palco, mas realmente sabe usar uma lança.\n\n**Pressionar**\nBrande sua lança na Forma de Corte das Nuvens, infligindo Dano Geo.\n\n**Manter Pressionado**\nAssume a posição de Abertura Deslumbrante e inicia um carregamento, formando um escudo. A absorção de Dano do Escudo é baseado na Vida Máxima de Yunjin, e é 150% eficaz contra Dano de todos os elementos e Dano Físico. O escudo dura até o final da Habilidade.\nQuando a Habilidade é lançada, sua duração encerrar ou o escudo for destruído, Yunjin brande a lança, lançando seu poder acumulado, infligindo Dano Geo.\nDe acordo com o tempo de carregamento, a Habilidade ao ser lançada pode ser dividida em Carga Nível 1 e Carga Nível 2.",
+      "description": "Um momento glorioso no palco é uma década de preparação por detrás dele.",
+      "attributes": [
+        {
+          "name": "Dano ao Pressionar",
+          "parameters": [
+            "149.12% da DEF",
+            "160.30% da DEF",
+            "171.49% da DEF",
+            "186.40% da DEF",
+            "197.58% da DEF",
+            "208.77% da DEF",
+            "223.68% da DEF",
+            "238.59% da DEF",
+            "253.50% da DEF",
+            "268.42% da DEF",
+            "283.33% da DEF",
+            "298.24% da DEF",
+            "316.88% da DEF",
+            "335.52% da DEF",
+            "354.16% da DEF"
+          ]
+        },
+        {
+          "name": "Dano de 1 Carga",
+          "parameters": [
+            "260.96% da DEF",
+            "280.53% da DEF",
+            "300.10% da DEF",
+            "326.20% da DEF",
+            "345.77% da DEF",
+            "365.34% da DEF",
+            "391.44% da DEF",
+            "417.54% da DEF",
+            "443.63% da DEF",
+            "469.73% da DEF",
+            "495.82% da DEF",
+            "521.92% da DEF",
+            "554.54% da DEF",
+            "587.16% da DEF",
+            "619.78% da DEF"
+          ]
+        },
+        {
+          "name": "Dano de 2 Cargas",
+          "parameters": [
+            "372.80% da DEF",
+            "400.76% da DEF",
+            "428.72% da DEF",
+            "466.00% da DEF",
+            "493.96% da DEF",
+            "521.92% da DEF",
+            "559.20% da DEF",
+            "596.48% da DEF",
+            "633.76% da DEF",
+            "671.04% da DEF",
+            "708.32% da DEF",
+            "745.60% da DEF",
+            "792.20% da DEF",
+            "838.80% da DEF",
+            "885.40% da DEF"
+          ]
+        },
+        {
+          "name": "Absorção de Dano de Escudo",
+          "parameters": [
+            "12.00% da Vida Máxima + 1155",
+            "12.90% da Vida Máxima + 1271",
+            "13.80% da Vida Máxima + 1396",
+            "15.00% da Vida Máxima + 1531",
+            "15.90% da Vida Máxima + 1675",
+            "16.80% da Vida Máxima + 1830",
+            "18.00% da Vida Máxima + 1993",
+            "19.20% da Vida Máxima + 2167",
+            "20.40% da Vida Máxima + 2350",
+            "21.60% da Vida Máxima + 2542",
+            "22.80% da Vida Máxima + 2744",
+            "24.00% da Vida Máxima + 2956",
+            "25.50% da Vida Máxima + 3178",
+            "27.00% da Vida Máxima + 3409",
+            "28.50% da Vida Máxima + 3650"
+          ]
+        },
+        {
+          "name": "Tempo de Recarga",
+          "parameters": [
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Bandeira Quebra-Rochas",
+      "info": "Causa Dano Geo em uma AdE e dá a todos os personagens da equipe a \"Formação da Bandeira das Nuvens\".\n\n**Formação da Bandeira das Nuvens**\nQuando causa Dano de Ataque Normal, aumenta o Dano causado com base na DEF da própria Yunjin.\n\nO efeito \"Formação da Bandeira das Nuvens\" desaparece após o fim da sua duração ou após ser ativado um determinado número de vezes.\nQuando um Ataque Normal atinge vários inimigos simultaneamente, irá consumir vezes de ativação de acordo com o número de inimigos atingidos; as vezes de ativação de \"Formação de Bandeira das Nuvens\" é contada separadamente entre os personagens que a possuem.",
+      "description": "\"Com o ressoar dos tambores, espadas e alabardas balançando, uma bela mulher general segura uma bandeira.\"\nCom os instrumentos soando em uníssono, podemos ver ela limpando todos os demônios.\"",
+      "attributes": [
+        {
+          "name": "Dano de Habilidade",
+          "parameters": [
+            "244.00%",
+            "262.30%",
+            "280.60%",
+            "305.00%",
+            "323.30%",
+            "341.60%",
+            "366.00%",
+            "390.40%",
+            "414.80%",
+            "439.20%",
+            "463.60%",
+            "488.00%",
+            "518.50%",
+            "549.00%",
+            "579.50%"
+          ]
+        },
+        {
+          "name": "Aumento de Dano",
+          "parameters": [
+            "32.16% DEF",
+            "34.57% DEF",
+            "36.98% DEF",
+            "40.20% DEF",
+            "42.61% DEF",
+            "45.02% DEF",
+            "48.24% DEF",
+            "51.46% DEF",
+            "54.67% DEF",
+            "57.89% DEF",
+            "61.10% DEF",
+            "64.32% DEF",
+            "68.34% DEF",
+            "72.36% DEF",
+            "76.38% DEF"
+          ]
+        },
+        {
+          "name": "Duração",
+          "parameters": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        },
+        {
+          "name": "Cargas",
+          "parameters": [
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30"
+          ]
+        },
+        {
+          "name": "Tempo de Recarga",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "Energia Elemental",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Fiel a si mesma",
+      "info": "Usar **Abertura Deslumbrante** no momento correto em que estiver sendo atacada fará com que a Carga Nível 2 de Manter Pressionado seja lançada."
+    },
+    "passive2": {
+      "name": "Quebradora de Convenções",
+      "info": "Quando a equipe contém personagens de 1/2/3/4 Tipos Elementais diferentes, o Bônus de Dano do Ataque Normal de **Formação da Bandeira das Nuvens** é aumentado em 2.5%/5%/7.5%/11.5% com base na DEF de Yunjin."
+    },
+    "passive3": {
+      "name": "Alimentação Leve",
+      "info": "Ao fazer uma comida Perfeita relacionada a efeitos de Aventura, há 12% de chance de se obter o dobro de produção."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Ensinamentos de Esforço",
+          "count": 3
+        },
+        {
+          "name": "Máscara Danificada",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guia de Esforço",
+          "count": 2
+        },
+        {
+          "name": "Máscara Suja",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guia de Esforço",
+          "count": 4
+        },
+        {
+          "name": "Máscara Suja",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guia de Esforço",
+          "count": 6
+        },
+        {
+          "name": "Máscara Suja",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guia de Esforço",
+          "count": 9
+        },
+        {
+          "name": "Máscara Suja",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofia de Esforço",
+          "count": 4
+        },
+        {
+          "name": "Máscara Ominosa",
+          "count": 4
+        },
+        {
+          "name": "Coração das Cinzas",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofia de Esforço",
+          "count": 6
+        },
+        {
+          "name": "Máscara Ominosa",
+          "count": 6
+        },
+        {
+          "name": "Coração das Cinzas",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofia de Esforço",
+          "count": 12
+        },
+        {
+          "name": "Máscara Ominosa",
+          "count": 9
+        },
+        {
+          "name": "Coração das Cinzas",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofia de Esforço",
+          "count": 16
+        },
+        {
+          "name": "Máscara Ominosa",
+          "count": 12
+        },
+        {
+          "name": "Coração das Cinzas",
+          "count": 2
+        },
+        {
+          "name": "Coroa da Sabedoria",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_03",
+      "combat2": "Skill_S_Yunjin_01",
+      "combat3": "Skill_E_Yunjin_01_HD",
+      "passive1": "UI_Talent_S_Yunjin_05",
+      "passive2": "UI_Talent_S_Yunjin_06",
+      "passive3": "UI_Talent_S_Yunjin_07"
+    },
+    "version": "2.4"
+  }
+}

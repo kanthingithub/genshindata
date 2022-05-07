@@ -1,0 +1,21 @@
+{
+  "name": "Spectral Husk",
+  "description": "An energy core that allows the Specters to float. It contains a small amount of elemental energy.\nMost of the rest has already dispersed.",
+  "sortorder": 1771,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Dropped by Specters",
+    "Stardust Exchange"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Spectral_Husk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Item_Spectral_Husk.png",
+    "nameicon": "UI_ItemIcon_112053"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Spectral_Husk"
+  },
+  "version": ""
+}

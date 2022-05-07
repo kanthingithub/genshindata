@@ -1,0 +1,951 @@
+{
+  "name": "Shenhe",
+  "fullname": "Shenhe",
+  "title": "Einsame Abgeschiedenheit",
+  "description": "Eine adeptische Schülerin mit einer übernatürlichen Aura, die ihr das langjährige eremitenhafte Leben in den Bergen von Liyue verleiht. Ihr Charakter ist von dem Gleichmut und der Distanzierung der Adepten zutiefst geprägt.",
+  "rarity": "5",
+  "element": "Kryo",
+  "weapontype": "Stangenwaffe",
+  "substat": "ANG",
+  "gender": "Weiblich",
+  "body": "LADY",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Behausung der Fürstin der stehenden Wolken und des stillen Windes",
+  "birthdaymmdd": "3/10",
+  "birthday": "10. März",
+  "constellation": "Crista Doloris",
+  "cv": {
+    "english": "Chelsea Kwoka",
+    "chinese": "秦紫翼",
+    "japanese": "川澄綾子",
+    "korean": "Lee Hyeon-jin"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Shivada-Jade-Splitter",
+        "count": 1
+      },
+      {
+        "name": "Qingxin",
+        "count": 3
+      },
+      {
+        "name": "Vaniloqua-Nektar",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Shivada-Jade-Bruchstück",
+        "count": 3
+      },
+      {
+        "name": "Falsche Flosse der Drachennachfahren",
+        "count": 2
+      },
+      {
+        "name": "Qingxin",
+        "count": 10
+      },
+      {
+        "name": "Vaniloqua-Nektar",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Shivada-Jade-Bruchstück",
+        "count": 6
+      },
+      {
+        "name": "Falsche Flosse der Drachennachfahren",
+        "count": 4
+      },
+      {
+        "name": "Qingxin",
+        "count": 20
+      },
+      {
+        "name": "Leuchtender Nektar",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Shivada-Jade-Brocken",
+        "count": 3
+      },
+      {
+        "name": "Falsche Flosse der Drachennachfahren",
+        "count": 8
+      },
+      {
+        "name": "Qingxin",
+        "count": 30
+      },
+      {
+        "name": "Leuchtender Nektar",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Shivada-Jade-Brocken",
+        "count": 6
+      },
+      {
+        "name": "Falsche Flosse der Drachennachfahren",
+        "count": 12
+      },
+      {
+        "name": "Qingxin",
+        "count": 45
+      },
+      {
+        "name": "Elementarnektar",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Shivada-Jade",
+        "count": 6
+      },
+      {
+        "name": "Falsche Flosse der Drachennachfahren",
+        "count": 20
+      },
+      {
+        "name": "Qingxin",
+        "count": 60
+      },
+      {
+        "name": "Elementarnektar",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_AvatarIcon_Shenhe",
+    "nameiconcard": "UI_AvatarIcon_Shenhe_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Shenhe",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Shenhe",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png",
+    "namesideicon": "UI_AvatarIcon_Side_Shenhe",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Shenhe.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211226/2021122613552422734.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211226/2021122613553025678.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shenhe"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1011.4725341796875,
+      "attack": 23.64739990234375,
+      "defense": 64.61640167236328,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2623.7598559113394,
+      "attack": 61.34135773718299,
+      "defense": 167.61495247014864,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3491.006071731652,
+      "attack": 81.61538460791053,
+      "defense": 223.01895179876192,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5223.65858258761,
+      "attack": 122.12338203884428,
+      "defense": 333.7068516841464,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5839.8598765329225,
+      "attack": 136.52861160732573,
+      "defense": 373.0728489985995,
+      "specialized": 0.07199999690055847
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6718.829466291994,
+      "attack": 157.07820113017806,
+      "defense": 429.2244993404711,
+      "specialized": 0.07199999690055847
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7540.431028791994,
+      "attack": 176.2851713450218,
+      "defense": 481.7124983028734,
+      "specialized": 0.14399999380111694
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8428.503693869454,
+      "attack": 197.04758331744233,
+      "defense": 538.4456849211638,
+      "specialized": 0.14399999380111694
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9044.705109885079,
+      "attack": 211.4528147932724,
+      "defense": 577.8116822356169,
+      "specialized": 0.14399999380111694
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9940.869933365204,
+      "attack": 232.4044148052635,
+      "defense": 635.0618242235032,
+      "specialized": 0.14399999380111694
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10557.071105240204,
+      "attack": 246.80964246639633,
+      "defense": 674.4278367967454,
+      "specialized": 0.2160000056028366
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11463.350403262128,
+      "attack": 267.9977106139122,
+      "defense": 732.3241267793746,
+      "specialized": 0.2160000056028366
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12079.551575137128,
+      "attack": 282.402938275045,
+      "defense": 771.6901088350387,
+      "specialized": 0.2879999876022339
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12992.911632338306,
+      "attack": 303.7565487761749,
+      "defense": 830.0387424689397,
+      "specialized": 0.2879999876022339
+    }
+  },
+  "version": "2.4",
+  "constellations": {
+    "c1": {
+      "name": "Klarheiten im Herzen",
+      "effect": "Ermöglicht 1 weitere Anwendung von **Mantra der Geisterbeschwörung**."
+    },
+    "c2": {
+      "name": "Fixierung des Geistes",
+      "effect": "Verlängert die Wirkungsdauer von **Geisterbefehligung der göttlichen Jungfrau** um 6 s. Erhöht KSCH des Kryo-Schadens aktueller Figuren im Wirkungsbereich um 15 %."
+    },
+    "c3": {
+      "name": "Zurückgezogenheit",
+      "effect": "Erhöht die Stufe der Fähigkeit **Mantra der Geisterbeschwörung** um 3.\nHöchststufe 15."
+    },
+    "c4": {
+      "name": "Durchdringender Blick",
+      "effect": "Verleiht Shenhe beim Auslösen des Schadensbonus von „Eisfeder“ durch Figuren im von Shenhe selbst verliehenen Zustand **Eisfeder** eine Stapelung „Frosthimmelmantra“:\n· Entfernt beim Auslösen von **Mantra der Geisterbeschwörung** durch Shenhe alle Stapelungen von Frosthimmelmantra und erhöht den mit diesem Mantra der Geisterbeschwörung verursachten Schaden je nach der Menge an entfernten Stapelungen um 5 %.\n· Dieser Effekt ist 50-fach stapelbar und hält 60 s."
+    },
+    "c5": {
+      "name": "Erlangung von Göttlichkeit",
+      "effect": "Erhöht die Stufe der Fähigkeit **Geisterbefehligung der göttlichen Jungfrau** um 3.\nHöchststufe 15."
+    },
+    "c6": {
+      "name": "Mystische Verlassenheit",
+      "effect": "Verringert beim Auslösen von **Eisfeder** mit dem Schaden von Standardangriffen und heftigen Schlägen von Figuren keine Stapelungen von Eisfeder mehr."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shenhe_02.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shenhe_01.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Shenhe_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shenhe_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Shenhe_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shenhe_04.png",
+      "constellation": "Eff_UI_Talent_Shenhe"
+    },
+    "version": "2.4"
+  },
+  "talent": {
+    "name": "Shenhe",
+    "combat1": {
+      "name": "Standardangriff: Morgensternstachel",
+      "info": "**Standardangriff**\nFührt bis zu 5 Lanzenstiche hintereinander aus.\n\n**Heftiger Schlag**\nVerbraucht eine gewisse Menge Ausdauer, sticht geschwind nach vorn und fügt den Gegnern in der Bahn Schaden zu.\n\n**Angriff aus dem Fall**\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "attributes": [
+        {
+          "name": "SCH Phase 1",
+          "parameters": [
+            "43.26%",
+            "46.78%",
+            "50.30%",
+            "55.33%",
+            "58.85%",
+            "62.88%",
+            "68.41%",
+            "73.94%",
+            "79.47%",
+            "85.51%",
+            "91.55%",
+            "97.58%",
+            "103.62%",
+            "109.65%",
+            "115.69%"
+          ]
+        },
+        {
+          "name": "SCH Phase 2",
+          "parameters": [
+            "40.25%",
+            "43.52%",
+            "46.80%",
+            "51.48%",
+            "54.76%",
+            "58.50%",
+            "63.65%",
+            "68.80%",
+            "73.94%",
+            "79.56%",
+            "85.18%",
+            "90.79%",
+            "96.41%",
+            "102.02%",
+            "107.64%"
+          ]
+        },
+        {
+          "name": "SCH Phase 3",
+          "parameters": [
+            "53.32%",
+            "57.66%",
+            "62.00%",
+            "68.20%",
+            "72.54%",
+            "77.50%",
+            "84.32%",
+            "91.14%",
+            "97.96%",
+            "105.40%",
+            "112.84%",
+            "120.28%",
+            "127.72%",
+            "135.16%",
+            "142.60%"
+          ]
+        },
+        {
+          "name": "SCH Phase 4",
+          "parameters": [
+            "26.32% + 26.32%",
+            "28.46% + 28.46%",
+            "30.60% + 30.60%",
+            "33.66% + 33.66%",
+            "35.80% + 35.80%",
+            "38.25% + 38.25%",
+            "41.62% + 41.62%",
+            "44.98% + 44.98%",
+            "48.35% + 48.35%",
+            "52.02% + 52.02%",
+            "55.69% + 55.69%",
+            "59.36% + 59.36%",
+            "63.04% + 63.04%",
+            "66.71% + 66.71%",
+            "70.38% + 70.38%"
+          ]
+        },
+        {
+          "name": "SCH Phase 5",
+          "parameters": [
+            "65.62%",
+            "70.96%",
+            "76.30%",
+            "83.93%",
+            "89.27%",
+            "95.38%",
+            "103.77%",
+            "112.16%",
+            "120.55%",
+            "129.71%",
+            "138.87%",
+            "148.02%",
+            "157.18%",
+            "166.33%",
+            "175.49%"
+          ]
+        },
+        {
+          "name": "SCH heftiger Schläge",
+          "parameters": [
+            "110.67%",
+            "119.68%",
+            "128.69%",
+            "141.56%",
+            "150.57%",
+            "160.86%",
+            "175.02%",
+            "189.17%",
+            "203.33%",
+            "218.77%",
+            "234.22%",
+            "249.66%",
+            "265.10%",
+            "280.54%",
+            "295.99%"
+          ]
+        },
+        {
+          "name": "Ausdauerverbrauch heftiger Schläge",
+          "parameters": [
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen aus niedriger/großer Höhe",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Mantra der Geisterbeschwörung",
+      "info": "Fester und silberner eisiger Tau möge das Böse vertreiben.\nVerleiht allen Truppenmitgliedern in der Nähe den Effekt „Eisfeder“ und verursacht je nachdem, ob gedrückt oder gedrückt gehalten wird, auf unterschiedliche Weise Kryo-Schaden.\n\n**Drücken**\nStößt gemeinsam mit einem „Talismangeist“ vor und fügt Gegnern in der Bahn Kryo-Schaden zu.\n\n**Gedrückt halten**\nBefielt dem Talismangeist, Kryo-Flächenschaden zu verursachen.\n\n**Eisfeder**\nErhöht den Gegnern mit Standardangriffen, heftigen Schlägen, Angriffen aus dem Fall, Elementarfähigkeiten und Spezialfähigkeiten zugefügten Kryo-Schaden basierend auf Shenhes eigenem aktuellen ANG.\n\nDer Effekt „Eisfeder“ erlischt nach dem Ende der Wirkungsdauer oder nach dem Inkrafttreten einer bestimmten Menge an Stapelungen. Eisfeder hält beim Gedrückthalten länger und verleiht mehr Stapelungen als beim Drücken.\nVerbraucht beim Treffen mehrerer Gegner mit einem einzelnen Kryo-Schaden eine der Anzahl der getroffenen Gegner entsprechende Menge an wirksamen Stapelungen. Die wirksamen Stapelungen jedes Truppenmitglieds mit dem Effekt Eisfeder werden unabhängig voneinander berechnet.",
+      "description": "„Die Macht der Geister ist keine Täuschung. Hunderte von ihnen arbeiten für mich. Die göttliche Jungfrau befielt, in den Talisman zu eilen! Los!“",
+      "attributes": [
+        {
+          "name": "SCH bei Drücken",
+          "parameters": [
+            "139.20%",
+            "149.64%",
+            "160.08%",
+            "174.00%",
+            "184.44%",
+            "194.88%",
+            "208.80%",
+            "222.72%",
+            "236.64%",
+            "250.56%",
+            "264.48%",
+            "278.40%",
+            "295.80%",
+            "313.20%",
+            "330.60%"
+          ]
+        },
+        {
+          "name": "SCH bei Gedrückthalten",
+          "parameters": [
+            "188.80%",
+            "202.96%",
+            "217.12%",
+            "236.00%",
+            "250.16%",
+            "264.32%",
+            "283.20%",
+            "302.08%",
+            "320.96%",
+            "339.84%",
+            "358.72%",
+            "377.60%",
+            "401.20%",
+            "424.80%",
+            "448.40%"
+          ]
+        },
+        {
+          "name": "SCH-Bonus",
+          "parameters": [
+            "45.66% ANG",
+            "49.08% ANG",
+            "52.50% ANG",
+            "57.07% ANG",
+            "60.49% ANG",
+            "63.92% ANG",
+            "68.48% ANG",
+            "73.05% ANG",
+            "77.62% ANG",
+            "82.18% ANG",
+            "86.75% ANG",
+            "91.31% ANG",
+            "97.02% ANG",
+            "102.73% ANG",
+            "108.43% ANG"
+          ]
+        },
+        {
+          "name": "Dauer bei Drücken/Gedrückthalten",
+          "parameters": [
+            "10/15 s",
+            "10/15 s",
+            "10/15 s",
+            "10/15 s",
+            "10/15 s",
+            "10/15 s",
+            "10/15 s",
+            "10/15 s",
+            "10/15 s",
+            "10/15 s",
+            "10/15 s",
+            "10/15 s",
+            "10/15 s",
+            "10/15 s",
+            "10/15 s"
+          ]
+        },
+        {
+          "name": "Wirksame Stapelungen bei Drücken/Gedrückthalten",
+          "parameters": [
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7"
+          ]
+        },
+        {
+          "name": "Abklingzeit für Drücken",
+          "parameters": [
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s"
+          ]
+        },
+        {
+          "name": "Abklingzeit für Gedrückthalten",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Geisterbefehligung der göttlichen Jungfrau",
+      "info": "Entfesselt die Kraft des „Talismangeists“, lässt ihn auf die Welt los und verursacht Kryo-Flächenschaden.\nDer Talismangeist erschafft ein Feld, das den Kryo-WDS sowie den physischen WDS von Gegnern darin verringert und ihnen fortlaufend Kryo-Schaden zufügt.",
+      "description": "„Der Weg der Adepten ist kein dunkles Mysterium, sondern kann begriffen werden, wenn man die Wandlungen von Himmel und Erde beobachtet und die Zusammenhänge in der Welt versteht.“",
+      "attributes": [
+        {
+          "name": "Fähigkeits-SCH",
+          "parameters": [
+            "100.80%",
+            "108.36%",
+            "115.92%",
+            "126.00%",
+            "133.56%",
+            "141.12%",
+            "151.20%",
+            "161.28%",
+            "171.36%",
+            "181.44%",
+            "191.52%",
+            "201.60%",
+            "214.20%",
+            "226.80%",
+            "239.40%"
+          ]
+        },
+        {
+          "name": "WDS-Malus",
+          "parameters": [
+            "6.00%",
+            "7.00%",
+            "8.00%",
+            "9.00%",
+            "10.00%",
+            "11.00%",
+            "12.00%",
+            "13.00%",
+            "14.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%"
+          ]
+        },
+        {
+          "name": "Fortlaufender SCH",
+          "parameters": [
+            "33.12%",
+            "35.60%",
+            "38.09%",
+            "41.40%",
+            "43.88%",
+            "46.37%",
+            "49.68%",
+            "52.99%",
+            "56.30%",
+            "59.62%",
+            "62.93%",
+            "66.24%",
+            "70.38%",
+            "74.52%",
+            "78.66%"
+          ]
+        },
+        {
+          "name": "Dauer",
+          "parameters": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        },
+        {
+          "name": "Abklingzeit",
+          "parameters": [
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s"
+          ]
+        },
+        {
+          "name": "Elementarenergie",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Göttliche Umarmung",
+      "info": "Erhöht den Kryo-Schadensbonus aktueller Figuren im Wirkungsbereich von **Geisterbefehligung der göttlichen Jungfrau** um 15 %."
+    },
+    "passive2": {
+      "name": "Siegel der Geisterbindung",
+      "info": "Verleiht nach Anwendung von **Mantra der Geisterbeschwörung** durch Shenhe allen Truppenmitgliedern in der Nähe folgende Effekte:\n· Drücken: Erhöht den mit Elementarfähigkeiten und Spezialfähigkeiten verursachten Schaden 10 s lang um 15 %.\n· Gedrückt halten: Erhöht den mit Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall verursachten Schaden 15 s lang um 15 %."
+    },
+    "passive3": {
+      "name": "Kenntnisse von der Umgebung",
+      "info": "Bringt bei 20-stündigen Erkundungsentsendungen in Liyue 25 % mehr Belohnungen."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Lehren des „Wohlstands“",
+          "count": 3
+        },
+        {
+          "name": "Vaniloqua-Nektar",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Anleitung zum „Wohlstand“",
+          "count": 2
+        },
+        {
+          "name": "Leuchtender Nektar",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Anleitung zum „Wohlstand“",
+          "count": 4
+        },
+        {
+          "name": "Leuchtender Nektar",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Anleitung zum „Wohlstand“",
+          "count": 6
+        },
+        {
+          "name": "Leuchtender Nektar",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Anleitung zum „Wohlstand“",
+          "count": 9
+        },
+        {
+          "name": "Leuchtender Nektar",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie des „Wohlstands“",
+          "count": 4
+        },
+        {
+          "name": "Elementarnektar",
+          "count": 4
+        },
+        {
+          "name": "Höllenfeuerfalter",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie des „Wohlstands“",
+          "count": 6
+        },
+        {
+          "name": "Elementarnektar",
+          "count": 6
+        },
+        {
+          "name": "Höllenfeuerfalter",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie des „Wohlstands“",
+          "count": 12
+        },
+        {
+          "name": "Elementarnektar",
+          "count": 9
+        },
+        {
+          "name": "Höllenfeuerfalter",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie des „Wohlstands“",
+          "count": 16
+        },
+        {
+          "name": "Elementarnektar",
+          "count": 12
+        },
+        {
+          "name": "Höllenfeuerfalter",
+          "count": 2
+        },
+        {
+          "name": "Krone der Weisheit",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_03",
+      "combat2": "Skill_S_Shenhe_01",
+      "combat3": "Skill_E_Shenhe_01_HD",
+      "passive1": "UI_Talent_S_Shenhe_05",
+      "passive2": "UI_Talent_S_Shenhe_06",
+      "passive3": "UI_Talent_Expedition_Liyue"
+    },
+    "version": "2.4"
+  }
+}

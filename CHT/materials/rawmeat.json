@@ -1,0 +1,19 @@
+{
+  "name": "獸肉",
+  "description": "獸類的新鮮肉塊。經過適當處理可以製成讓人元氣滿滿的美食。",
+  "sortorder": 1989,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "動物掉落"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Raw_Meat.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Item_Raw_Meat.png",
+    "nameicon": "UI_ItemIcon_100061"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Raw_Meat"
+  },
+  "version": ""
+}

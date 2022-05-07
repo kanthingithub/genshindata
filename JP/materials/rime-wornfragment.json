@@ -1,0 +1,18 @@
+{
+  "name": "霜噬砕屑",
+  "description": "ドラゴンスパインの魔物から取り出した小さな結晶。\n特殊な時期にのみ生成される。",
+  "sortorder": 2291,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "雪山素材",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_200101",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Rime-Worn_Fragment.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Rime-Worn_Fragment.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Rime-Worn_Fragment"
+  },
+  "version": ""
+}

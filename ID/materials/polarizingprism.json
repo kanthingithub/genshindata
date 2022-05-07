@@ -1,0 +1,21 @@
+{
+  "name": "Polarizing Prism",
+  "description": "Prisma yang dapat memantulkan polarisasi cahaya.\nDalam kegelapan, prisma ini dapat menyebarkan cahaya yang samar-samar ke area yang lebih luas. Mungkin karena keunikan inilah, prisma jenis ini memiliki kemampuan untuk menenangkan hati orang-orang yang diselimuti kegelapan.",
+  "sortorder": 1770,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Didapatkan melalui Craft",
+    "Dijatuhkan oleh Mirror Maiden Lv. 60+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Polarizing_Prism.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Item_Polarizing_Prism.png",
+    "nameicon": "UI_ItemIcon_112052"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Polarizing_Prism"
+  },
+  "version": ""
+}

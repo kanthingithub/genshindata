@@ -1,0 +1,322 @@
+{
+  "name": "Domain of Blessing: Api Pemurnian",
+  "region": "Mondstadt",
+  "domainEntrance": "Midsummer Courtyard",
+  "domainType": "Artefak",
+  "description": "Altar kuno yang suci ini dipenuhi oleh monster-monster yang takut akan elemen Pyro.\nKamu akan berhak mendapatkan item Artefak yang berharga, apabila kamu berhasil melewati ujian ini.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_1"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domain of Blessing: Api Pemurnian I",
+      "recommendedLevel": 34,
+      "recommendedElements": [
+        "Pyro"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1525
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Adventurer",
+          "rarity": "2"
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Adventurer",
+          "rarity": "3"
+        }
+      ],
+      "disorder": [
+        "Saat Melt terpicu, ledakan energi akan tercipta dan mengakibatkan DMG pada musuh di sekitar."
+      ],
+      "monsterlist": [
+        "Cryo Slime",
+        "Large Cryo Slime",
+        "Large Hydro Slime",
+        "Wooden Shield Hilichurl Guard",
+        "Cryo Abyss Mage"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Api Pemurnian II",
+      "recommendedLevel": 47,
+      "recommendedElements": [
+        "Pyro"
+      ],
+      "unlockRank": 25,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1700
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Adventurer",
+          "rarity": "2"
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Adventurer",
+          "rarity": "3"
+        }
+      ],
+      "disorder": [
+        "Saat Overloaded terpicu, ledakan energi akan tercipta dan mengakibatkan DMG pada musuh di sekitar.",
+        "Saat Superconduct terpicu, kamu akan terkena serangan berenergi tinggi yang mengakibatkan DMG."
+      ],
+      "monsterlist": [
+        "Electro Slime",
+        "Large Electro Slime",
+        "Mutant Electro Slime",
+        "Fatui - Electro Cicin Mage"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Api Pemurnian III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Pyro"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Adventurer",
+          "rarity": "3"
+        },
+        {
+          "name": "Thundering Fury",
+          "rarity": "4"
+        },
+        {
+          "name": "Thundersoother",
+          "rarity": "4"
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Saat Melt terpicu, ledakan energi akan tercipta dan mengakibatkan DMG pada musuh di sekitar.",
+        "Saat Superconduct terpicu, kamu akan terkena serangan berenergi tinggi yang mengakibatkan DMG."
+      ],
+      "monsterlist": [
+        "Cryo Slime",
+        "Large Cryo Slime",
+        "Cryo Abyss Mage"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Api Pemurnian IV",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "Pyro"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Adventurer",
+          "rarity": "3"
+        },
+        {
+          "name": "Thundering Fury",
+          "rarity": "4"
+        },
+        {
+          "name": "Thundersoother",
+          "rarity": "4"
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Saat Vaporize terpicu, ledakan energi akan tercipta dan mengakibatkan DMG pada musuh di sekitar.",
+        "Saat Electro-Charged terpicu, kamu akan terkena serangan berenergi tinggi yang mengakibatkan DMG."
+      ],
+      "monsterlist": [
+        "Hydro Slime",
+        "Large Hydro Slime",
+        "Hydro Samachurl",
+        "Hydro Abyss Mage"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Api Pemurnian V",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Pyro"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Adventurer",
+          "rarity": "3"
+        },
+        {
+          "name": "Thundering Fury",
+          "rarity": "4"
+        },
+        {
+          "name": "Thundersoother",
+          "rarity": "4"
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "4"
+        },
+        {
+          "name": "Thundering Fury",
+          "rarity": "5"
+        },
+        {
+          "name": "Thundersoother",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Saat Melt terpicu, ledakan energi akan tercipta dan mengakibatkan DMG pada musuh di sekitar.",
+        "Saat Superconduct terpicu, kamu akan terkena serangan berenergi tinggi yang mengakibatkan DMG."
+      ],
+      "monsterlist": [
+        "Large Cryo Slime",
+        "Cryo Abyss Mage"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Api Pemurnian VI",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "Pyro"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Adventurer",
+          "rarity": "3"
+        },
+        {
+          "name": "Thundering Fury",
+          "rarity": "4"
+        },
+        {
+          "name": "Thundersoother",
+          "rarity": "4"
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "4"
+        },
+        {
+          "name": "Thundering Fury",
+          "rarity": "5"
+        },
+        {
+          "name": "Thundersoother",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Saat Overloaded terpicu, ledakan energi akan tercipta dan mengakibatkan DMG pada musuh di sekitar.",
+        "Saat Superconduct terpicu, kamu akan terkena serangan berenergi tinggi yang mengakibatkan DMG."
+      ],
+      "monsterlist": [
+        "Large Electro Slime",
+        "Mutant Electro Slime",
+        "Fatui - Electro Cicin Mage"
+      ]
+    }
+  ]
+}

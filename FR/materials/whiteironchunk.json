@@ -1,0 +1,21 @@
+{
+  "name": "Morceau de fer blanc",
+  "description": "Un morceau de fer blanc que les mains expertes d'un bon forgeron peuvent transformer en objet.",
+  "sortorder": 1955,
+  "category": "EXCHANGE",
+  "materialtype": "Minerai de forge",
+  "source": [
+    "Dans la nature",
+    "Zone conseillée : Montagnes du guet",
+    "Zone conseillée : Territoire des Loups"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_White_Iron_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Item_White_Iron_Chunk.png",
+    "nameicon": "UI_ItemIcon_101002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/White_Iron_Chunk"
+  },
+  "version": ""
+}

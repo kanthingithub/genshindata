@@ -1,0 +1,19 @@
+{
+  "name": "Magical Crystal Chunk",
+  "description": "สามารถปรับปรุงเป็นวัสดุประสบการณ์อาวุธได้ผ่านการ \"สั่งทำอาวุธ\" โดยใช้ Original Resin\nCrystal Ore ที่ถูกกัดเซาะด้วยพลังงานของ Ley Lines นั้นจะไม่สามารถจัดการได้ด้วยวิธีทั่วไป",
+  "sortorder": 1957,
+  "category": "EXCHANGE",
+  "materialtype": "แร่ที่ใช้ในการหลอม",
+  "source": [
+    "พบได้ในโลกกว้าง"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Magical_Crystal_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Item_Magical_Crystal_Chunk.png",
+    "nameicon": "UI_ItemIcon_101004"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Magical_Crystal_Chunk"
+  },
+  "version": ""
+}

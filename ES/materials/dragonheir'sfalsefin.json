@@ -1,0 +1,20 @@
+{
+  "name": "Pseudoaleta de dragón de las profundidades",
+  "description": "Una parte del cuerpo del Dragarto de las Profundidades recogida tras derrotarlo.\nAunque parece una aleta, en realidad no sirve para nada.\nLos antiguos habitantes del reino de Byakuya estudiaron en profundidad a los Dragartos de las Profundidades, cuya mayor particularidad es que pueden decidir qué características conservar y transmitir a sus crías según ellos mismos deseen. Como detestan la luz artificial, estos Dragartos pierden una gran parte de su sentido de la vista durante la adultez. Además, para poder luchar, han evolucionado hasta ser capaces de cambiar de elemento.",
+  "sortorder": 1813,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Obtenido de la manada de Dragartos de las Profundidades (Niv. 30+)"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_113031",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dragonheir's_False_Fin.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Item_Dragonheir%27s_False_Fin.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dragonheir's_False_Fin"
+  },
+  "version": ""
+}

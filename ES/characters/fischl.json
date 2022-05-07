@@ -1,0 +1,834 @@
+{
+  "name": "Fischl",
+  "fullname": "Fischl",
+  "title": "La Princesa del Juicio",
+  "description": "Una chica misteriosa que se hace llamar “Princesa del Juicio”. Siempre camina junto con un cuervo oscuro llamado Oz.",
+  "rarity": "4",
+  "element": "Electro",
+  "weapontype": "Arco",
+  "substat": "ATQ",
+  "gender": "Femenino",
+  "body": "GIRL",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Gremio de Aventureros",
+  "birthdaymmdd": "5/27",
+  "birthday": "27 de mayo",
+  "constellation": "Corvus",
+  "cv": {
+    "english": "Brittany Cox & Ben Pronsky",
+    "chinese": "Mace&赵悦程",
+    "japanese": "内田真礼&増谷康紀",
+    "korean": "Park Go-woon & Lee Hyeon"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Pedacito de amatista vajrada",
+        "count": 1
+      },
+      {
+        "name": "Lucetta",
+        "count": 3
+      },
+      {
+        "name": "Flecha robusta",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de amatista vajrada",
+        "count": 3
+      },
+      {
+        "name": "Prisma del relámpago",
+        "count": 2
+      },
+      {
+        "name": "Lucetta",
+        "count": 10
+      },
+      {
+        "name": "Flecha robusta",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de amatista vajrada",
+        "count": 6
+      },
+      {
+        "name": "Prisma del relámpago",
+        "count": 4
+      },
+      {
+        "name": "Lucetta",
+        "count": 20
+      },
+      {
+        "name": "Flecha afilada",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Trozo de amatista vajrada",
+        "count": 3
+      },
+      {
+        "name": "Prisma del relámpago",
+        "count": 8
+      },
+      {
+        "name": "Lucetta",
+        "count": 30
+      },
+      {
+        "name": "Flecha afilada",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Trozo de amatista vajrada",
+        "count": 6
+      },
+      {
+        "name": "Prisma del relámpago",
+        "count": 12
+      },
+      {
+        "name": "Lucetta",
+        "count": 45
+      },
+      {
+        "name": "Flecha veterana",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Amatista vajrada",
+        "count": 6
+      },
+      {
+        "name": "Prisma del relámpago",
+        "count": 20
+      },
+      {
+        "name": "Lucetta",
+        "count": 60
+      },
+      {
+        "name": "Flecha veterana",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Character_Fischl_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/Character_Fischl_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Fischl.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200402/2020040211240853891.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200402/2020040211242065763.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/0bb4e376b31993e6fdab02786bc6a20a.png",
+    "nameicon": "UI_AvatarIcon_Fischl",
+    "nameiconcard": "UI_AvatarIcon_Fischl_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Fischl",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Fischl",
+    "namesideicon": "UI_AvatarIcon_Side_Fischl"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fischl"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 770.46337890625,
+      "attack": 20.47920036315918,
+      "defense": 49.78575134277344,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 1979.320424818783,
+      "attack": 52.61106585013886,
+      "defense": 127.89959548446132,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2554.896047377377,
+      "attack": 67.91043566215058,
+      "defense": 165.09209655257655,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 3826.930919893319,
+      "attack": 101.72159104783623,
+      "defense": 247.28836128915282,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4235.8925287800375,
+      "attack": 112.59219651658623,
+      "defense": 273.7146117469165,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 4872.2954443453345,
+      "attack": 129.5080203913849,
+      "defense": 314.83765299143124,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5417.577548837522,
+      "attack": 144.0021610163849,
+      "defense": 350.0726536017828,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6053.980464402819,
+      "attack": 160.91798489118355,
+      "defense": 391.19569484629756,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6462.942134324694,
+      "attack": 171.78859035993355,
+      "defense": 417.62194148936396,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7098.574274968123,
+      "attack": 188.6839267534424,
+      "defense": 458.6951768512736,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7507.535944889998,
+      "attack": 199.5545322221924,
+      "defense": 485.1214311237345,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8143.938493069727,
+      "attack": 216.47034633174735,
+      "defense": 526.2444486285531,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 8552.899918850977,
+      "attack": 227.34095180049735,
+      "defense": 552.670702901014,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9189.302834416274,
+      "attack": 244.256775675296,
+      "defense": 593.7937441455288,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Ojo de cuervo penetrante",
+      "effect": "Cuando Oz no está en el campo de batalla, seguirá vigilando a Fischl a través de su ojo de cuervo. Cuando Fischl ataca a un enemigo con Ataque Normal, Oz atacará simultáneamente con su ojo e infligirá un 22% de daño."
+    },
+    "c2": {
+      "name": "Devorador de pecados",
+      "effect": "**Vigía de la noche** inflige un 200% de daño adicional, y su AdE aumenta en un 50%."
+    },
+    "c3": {
+      "name": "Alas sombrías",
+      "effect": "Aumenta el nivel de habilidad de **Vigía de la noche** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c4": {
+      "name": "Fantasía de la princesa",
+      "effect": "Al lanzar **Ilusión nocturna**, inflige un 222% de daño de ATQ como Daño Electro a los enemigos cercanos.\nCuando termina la duración de la habilidad, Fischl recupera el 20% de su Vida."
+    },
+    "c5": {
+      "name": "Noche silenciosa",
+      "effect": "Aumenta el nivel de habilidad de **Ilusión nocturna** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c6": {
+      "name": "Ave de la Noche Eterna",
+      "effect": "Aumenta la duración de la invocación de Oz en 2 s. Mientras Oz esté presente, atacará junto a tu personaje en uso, e infligirá un 30% del ATQ de Fischl como Daño Electro."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Fischl_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Fischl_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Fischl_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Fischl_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Fischl_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Fischl_04.png",
+      "constellation": "Eff_UI_Talent_Fischl"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Fischl",
+    "combat1": {
+      "name": "Ataque Normal: Flechas del juicio",
+      "info": "**Ataque Normal**\nRealiza hasta 5 disparos consecutivos con arco.\n\n**Ataque Cargado**\nRealiza un **Disparo Preciso** que inflige mayor daño y tiene mayor precisión.\nAl apuntar, los espíritus oscuros del Reino de la Noche Eterna atenderán al llamado de su Princesa y se acumularán en la punta de la flecha mágica. Cuando esté completamente cargada, la flecha liberará un relámpago del juicio que inflige una cantidad considerable de Daño Electro.\n\n**Ataque Descendente**\nDispara una lluvia de flechas desde el aire mientras desciende rápidamente, infligiendo Daño en el AdE al impactar contra el suelo.",
+      "attributes": [
+        {
+          "name": "Daño de 1er golpe",
+          "parameters": [
+            "44.12%",
+            "47.71%",
+            "51.30%",
+            "56.43%",
+            "60.02%",
+            "64.13%",
+            "69.77%",
+            "75.41%",
+            "81.05%",
+            "87.21%",
+            "93.37%",
+            "99.52%",
+            "105.68%",
+            "111.83%",
+            "117.99%"
+          ]
+        },
+        {
+          "name": "Daño de 2.º golpe",
+          "parameters": [
+            "46.78%",
+            "50.59%",
+            "54.40%",
+            "59.84%",
+            "63.65%",
+            "68.00%",
+            "73.98%",
+            "79.97%",
+            "85.95%",
+            "92.48%",
+            "99.01%",
+            "105.54%",
+            "112.06%",
+            "118.59%",
+            "125.12%"
+          ]
+        },
+        {
+          "name": "Daño de 3er golpe",
+          "parameters": [
+            "58.14%",
+            "62.87%",
+            "67.60%",
+            "74.36%",
+            "79.09%",
+            "84.50%",
+            "91.94%",
+            "99.37%",
+            "106.81%",
+            "114.92%",
+            "123.03%",
+            "131.14%",
+            "139.26%",
+            "147.37%",
+            "155.48%"
+          ]
+        },
+        {
+          "name": "Daño de 4.º golpe",
+          "parameters": [
+            "57.71%",
+            "62.40%",
+            "67.10%",
+            "73.81%",
+            "78.51%",
+            "83.88%",
+            "91.26%",
+            "98.64%",
+            "106.02%",
+            "114.07%",
+            "122.12%",
+            "130.17%",
+            "138.23%",
+            "146.28%",
+            "154.33%"
+          ]
+        },
+        {
+          "name": "Daño de 5.º golpe",
+          "parameters": [
+            "72.07%",
+            "77.93%",
+            "83.80%",
+            "92.18%",
+            "98.05%",
+            "104.75%",
+            "113.97%",
+            "123.19%",
+            "132.40%",
+            "142.46%",
+            "152.52%",
+            "162.57%",
+            "172.63%",
+            "182.68%",
+            "192.74%"
+          ]
+        },
+        {
+          "name": "Disparo Preciso",
+          "parameters": [
+            "43.86%",
+            "47.43%",
+            "51.00%",
+            "56.10%",
+            "59.67%",
+            "63.75%",
+            "69.36%",
+            "74.97%",
+            "80.58%",
+            "86.70%",
+            "92.82%",
+            "98.94%",
+            "105.06%",
+            "111.18%",
+            "117.30%"
+          ]
+        },
+        {
+          "name": "Disparo Preciso (carga completa)",
+          "parameters": [
+            "124.00%",
+            "133.30%",
+            "142.60%",
+            "155.00%",
+            "164.30%",
+            "173.60%",
+            "186.00%",
+            "198.40%",
+            "210.80%",
+            "223.20%",
+            "235.60%",
+            "248.00%",
+            "263.50%",
+            "279.00%",
+            "294.50%"
+          ]
+        },
+        {
+          "name": "Daño de Caída",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "Daño de impacto de caída baja/alta",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Vigía de la noche",
+      "info": "Invoca a Oz. El cuervo nocturno compuesto de oscuridad y truenos desciende sobre la tierra, infligiendo Daño Electro en una pequeña AdE.\nMientras dure la habilidad, Oz atacará continuamente a los enemigos cercanos con balas Electro.\n\nMantén pulsado para ajustar la ubicación en la que se invocará a Oz.\nPulsa de nuevo cuando Oz esté presente para invocarlo al lado de Fischl.",
+      "description": "“Ve, Oz. Cae sobre ellos e invoca tu relámpago del juicio para dar comienzo a la noche eterna”.\n——«Flores para la princesa Fischl (IV): Adiós, Señorita».",
+      "attributes": [
+        {
+          "name": "Daño de ATQ de Oz",
+          "parameters": [
+            "88.80%",
+            "95.46%",
+            "102.12%",
+            "111.00%",
+            "117.66%",
+            "124.32%",
+            "133.20%",
+            "142.08%",
+            "150.96%",
+            "159.84%",
+            "168.72%",
+            "177.60%",
+            "188.70%",
+            "199.80%",
+            "210.90%"
+          ]
+        },
+        {
+          "name": "Daño al invocar",
+          "parameters": [
+            "115.44%",
+            "124.10%",
+            "132.76%",
+            "144.30%",
+            "152.96%",
+            "161.62%",
+            "173.16%",
+            "184.70%",
+            "196.25%",
+            "207.79%",
+            "219.34%",
+            "230.88%",
+            "245.31%",
+            "259.74%",
+            "274.17%"
+          ]
+        },
+        {
+          "name": "Duración de Oz",
+          "parameters": [
+            "10 s.",
+            "10 s.",
+            "10 s.",
+            "10 s.",
+            "10 s.",
+            "10 s.",
+            "10 s.",
+            "10 s.",
+            "10 s.",
+            "10 s.",
+            "10 s.",
+            "10 s.",
+            "10 s.",
+            "10 s.",
+            "10 s."
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Ilusión nocturna",
+      "info": "Invoca a Oz para extender sus alas del crepúsculo y proteger a Fischl.\nDurante la habilidad, tiene las siguientes propiedades:\n·Fischl adquiere la forma de Oz, lo que aumenta considerablemente su Velocidad de Movimiento.\n·Inflige Daño Electro a los enemigos cercanos. Cada enemigo puede ser golpeado solo una vez.\nAl finalizar la habilidad, Oz permanecerá en el campo de batalla, atacando a los enemigos de la Princesa. Si Oz ya estaba en el campo de batalla, reiniciará su duración.",
+      "description": "“... Entre las hordas de bestias que persiguen la sangre maldita, solo el Príncipe Cuervo de la Noche, que fue testigo de la extinción de mil mundos, conoce la verdadera grandeza de la Princesa. Así, las alas nocturnas que extiende son su eterna promesa de proteger a Su Alteza Real”.\n—«Flores para la Princesa Fischl - Vol. I: El colapso del fin de los tiempos».",
+      "attributes": [
+        {
+          "name": "Daño de rayo",
+          "parameters": [
+            "208.00%",
+            "223.60%",
+            "239.20%",
+            "260.00%",
+            "275.60%",
+            "291.20%",
+            "312.00%",
+            "332.80%",
+            "353.60%",
+            "374.40%",
+            "395.20%",
+            "416.00%",
+            "442.00%",
+            "468.00%",
+            "494.00%"
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "Energía Elemental",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Cuervo devoraestrellas",
+      "info": "Cuando Fischl golpea a Oz con un Disparo Preciso completamente cargado, Oz lanza una retribución del trueno, infligiendo Daño Electro en el AdE igual al 152.7% del daño de la flecha."
+    },
+    "passive2": {
+      "name": "Juicio de los pecadores",
+      "info": "Si el personaje en uso desencadena una Reacción Elemental con Electro cuando Oz está en combate, el enemigo será golpeado con retribución del trueno, infligiendo Daño Electro igual al 80% del ATQ de Fischl."
+    },
+    "passive3": {
+      "name": "Mi jardín secreto",
+      "info": "Reduce en un 25% el tiempo necesario para completar una expedición en Mondstadt."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseñanzas de la poesía",
+          "count": 3
+        },
+        {
+          "name": "Flecha robusta",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guía de la poesía",
+          "count": 2
+        },
+        {
+          "name": "Flecha afilada",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guía de la poesía",
+          "count": 4
+        },
+        {
+          "name": "Flecha afilada",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guía de la poesía",
+          "count": 6
+        },
+        {
+          "name": "Flecha afilada",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guía de la poesía",
+          "count": 9
+        },
+        {
+          "name": "Flecha afilada",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofía de la poesía",
+          "count": 4
+        },
+        {
+          "name": "Flecha veterana",
+          "count": 4
+        },
+        {
+          "name": "Alma de Boreas",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofía de la poesía",
+          "count": 6
+        },
+        {
+          "name": "Flecha veterana",
+          "count": 6
+        },
+        {
+          "name": "Alma de Boreas",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofía de la poesía",
+          "count": 12
+        },
+        {
+          "name": "Flecha veterana",
+          "count": 9
+        },
+        {
+          "name": "Alma de Boreas",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofía de la poesía",
+          "count": 16
+        },
+        {
+          "name": "Flecha veterana",
+          "count": 12
+        },
+        {
+          "name": "Alma de Boreas",
+          "count": 2
+        },
+        {
+          "name": "Corona de la sabiduría",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_02",
+      "combat2": "Skill_S_Fischl_01",
+      "combat3": "Skill_E_Fischl_01_HD",
+      "passive1": "UI_Talent_S_Fischl_05",
+      "passive2": "UI_Talent_S_Fischl_06",
+      "passive3": "UI_Talent_Expedition_Mengde"
+    },
+    "version": "1.0"
+  }
+}

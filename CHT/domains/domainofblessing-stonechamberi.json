@@ -1,0 +1,190 @@
+{
+  "name": "祝聖秘境：岩牢",
+  "region": "璃月",
+  "domainEntrance": "華池岩岫",
+  "domainType": "聖遺物",
+  "description": "這座遠古祝聖祭壇中，聚集著懼怕岩元素的魔物。\n若能通過其中的試煉，或許能獲得珍貴的聖遺物。",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_4"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "祝聖秘境：岩牢 I",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "岩元素"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "冒險閱歷",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 2025
+        },
+        {
+          "name": "好感經驗",
+          "count": 20
+        },
+        {
+          "name": "賭徒",
+          "rarity": "3"
+        },
+        {
+          "name": "學士",
+          "rarity": "3"
+        },
+        {
+          "name": "染血的騎士道",
+          "rarity": "4"
+        },
+        {
+          "name": "昔日宗室之儀",
+          "rarity": "4"
+        },
+        {
+          "name": "賭徒",
+          "rarity": "4"
+        },
+        {
+          "name": "學士",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "隊伍中所有角色造成的岩元素傷害提高75%。"
+      ],
+      "monsterlist": [
+        "火深淵法師",
+        "冰深淵法師"
+      ]
+    },
+    {
+      "name": "祝聖秘境：岩牢 II",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "岩元素"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "冒險閱歷",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 2200
+        },
+        {
+          "name": "好感經驗",
+          "count": 20
+        },
+        {
+          "name": "賭徒",
+          "rarity": "3"
+        },
+        {
+          "name": "學士",
+          "rarity": "3"
+        },
+        {
+          "name": "染血的騎士道",
+          "rarity": "4"
+        },
+        {
+          "name": "昔日宗室之儀",
+          "rarity": "4"
+        },
+        {
+          "name": "賭徒",
+          "rarity": "4"
+        },
+        {
+          "name": "學士",
+          "rarity": "4"
+        },
+        {
+          "name": "染血的騎士道",
+          "rarity": "5"
+        },
+        {
+          "name": "昔日宗室之儀",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "隊伍中所有角色造成的岩元素傷害提高75%。"
+      ],
+      "monsterlist": [
+        "火深淵法師",
+        "冰深淵法師"
+      ]
+    },
+    {
+      "name": "祝聖秘境：岩牢 III",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "岩元素"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "冒險閱歷",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 2525
+        },
+        {
+          "name": "好感經驗",
+          "count": 20
+        },
+        {
+          "name": "賭徒",
+          "rarity": "3"
+        },
+        {
+          "name": "學士",
+          "rarity": "3"
+        },
+        {
+          "name": "染血的騎士道",
+          "rarity": "4"
+        },
+        {
+          "name": "昔日宗室之儀",
+          "rarity": "4"
+        },
+        {
+          "name": "賭徒",
+          "rarity": "4"
+        },
+        {
+          "name": "學士",
+          "rarity": "4"
+        },
+        {
+          "name": "染血的騎士道",
+          "rarity": "5"
+        },
+        {
+          "name": "昔日宗室之儀",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "隊伍中所有角色造成的岩元素傷害提高75%。"
+      ],
+      "monsterlist": [
+        "火深淵法師",
+        "冰深淵法師",
+        "水深淵法師"
+      ]
+    }
+  ]
+}

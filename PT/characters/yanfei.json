@@ -1,0 +1,852 @@
+{
+  "name": "Yanfei",
+  "fullname": "Yanfei",
+  "title": "Inocência Sábia",
+  "description": "Uma Consultora Jurídica animada que vive no Porto de Liyue, é uma garota esperta com sangue da Besta Iluminada.",
+  "rarity": "4",
+  "element": "Pyro",
+  "weapontype": "Catalisador",
+  "substat": "Bônus de Dano Pyro",
+  "gender": "Feminino",
+  "body": "GIRL",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Escritório de Advocacia de Yanfei",
+  "birthdaymmdd": "7/28",
+  "birthday": "28 de julho",
+  "constellation": "Bestia Iustitia",
+  "cv": {
+    "english": "Lizzie Freeman",
+    "chinese": "苏子芜",
+    "japanese": "花守ゆみり",
+    "korean": "Jo Kyeong-lee"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Lasca de Ágata Agnidus",
+        "count": 1
+      },
+      {
+        "name": "Jade Nocticulosa",
+        "count": 3
+      },
+      {
+        "name": "Insígnia dos Ladrões de Tesouro",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de Ágata Agnidus",
+        "count": 3
+      },
+      {
+        "name": "Jade Juvenil",
+        "count": 2
+      },
+      {
+        "name": "Jade Nocticulosa",
+        "count": 10
+      },
+      {
+        "name": "Insígnia dos Ladrões de Tesouro",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de Ágata Agnidus",
+        "count": 6
+      },
+      {
+        "name": "Jade Juvenil",
+        "count": 4
+      },
+      {
+        "name": "Jade Nocticulosa",
+        "count": 20
+      },
+      {
+        "name": "Insígnia do Corvo Prateado",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Pedaço de Ágata Agnidus",
+        "count": 3
+      },
+      {
+        "name": "Jade Juvenil",
+        "count": 8
+      },
+      {
+        "name": "Jade Nocticulosa",
+        "count": 30
+      },
+      {
+        "name": "Insígnia do Corvo Prateado",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Pedaço de Ágata Agnidus",
+        "count": 6
+      },
+      {
+        "name": "Jade Juvenil",
+        "count": 12
+      },
+      {
+        "name": "Jade Nocticulosa",
+        "count": 45
+      },
+      {
+        "name": "Insígnia de Corvo Dourado",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Gema de Ágata Agnidus",
+        "count": 6
+      },
+      {
+        "name": "Jade Juvenil",
+        "count": 20
+      },
+      {
+        "name": "Jade Nocticulosa",
+        "count": 60
+      },
+      {
+        "name": "Insígnia de Corvo Dourado",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210421/2021042114214196211.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210421/2021042114231180906.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Feiyan.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Feiyan.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/75c1d48b2fa08bd4c583501a3bb476d3.png",
+    "nameicon": "UI_AvatarIcon_Feiyan",
+    "nameiconcard": "UI_AvatarIcon_Feiyan_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Feiyan",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Feiyan",
+    "namesideicon": "UI_AvatarIcon_Side_Feiyan"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Yanfei"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 784.1402587890625,
+      "attack": 20.12303924560547,
+      "defense": 49.2135009765625,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2014.4563293159881,
+      "attack": 51.6960879371054,
+      "defense": 126.42948429039097,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2600.249237030832,
+      "attack": 66.72938166116546,
+      "defense": 163.1944836800394,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 3894.864635285514,
+      "attack": 99.95251511853348,
+      "defense": 244.44596318533877,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4311.085948762076,
+      "attack": 110.63406705182206,
+      "defense": 270.5684645586298,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 4958.785970032273,
+      "attack": 127.25570176743713,
+      "defense": 311.21882687840844,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5513.747700989305,
+      "attack": 141.49776910447326,
+      "defense": 346.04882489476586,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6161.4477222595015,
+      "attack": 158.11940382008834,
+      "defense": 386.6991872145445,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6577.669035736064,
+      "attack": 168.80095670705123,
+      "defense": 412.82168477313826,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7224.5845996741555,
+      "attack": 185.4024602465106,
+      "defense": 453.42281369207194,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7640.8057910804055,
+      "attack": 196.08400931877622,
+      "defense": 479.5453112506657,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8288.50543844339,
+      "attack": 212.70563443897845,
+      "defense": 520.1956501036184,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 8704.726873990265,
+      "attack": 223.38718351124407,
+      "defense": 546.3181629210012,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9352.426895260462,
+      "attack": 240.00881822685915,
+      "defense": 586.9685252407799,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.5",
+  "constellations": {
+    "c1": {
+      "name": "A Lei Não Perdoa",
+      "effect": "Quando Yanfei realiza um Ataque Carregado, cada Insígnia de Chamas que ela possuir aumenta sua Resistência Contra Interrupção enquanto ataca, e também reduz o consumo de Stamina desse Ataque Carregado em 10%."
+    },
+    "c2": {
+      "name": "Direito de Interpretação Final",
+      "effect": "A Taxa CRIT de Yanfei aumenta em 20% contra inimigos com menos de 50% de Vida."
+    },
+    "c3": {
+      "name": "Selado sobre Fogo",
+      "effect": "Aumenta o nível da Habilidade **Édito Assinado** em 3.\nO nível máximo é 15."
+    },
+    "c4": {
+      "name": "Boa Autoridade",
+      "effect": "Ao lançar o **Contrato Vinculativo**:\nGera um Escudo que absorve Dano com base em 45% da Vida Máxima, com duração de 15s.\nEsse Escudo tem eficiência de 250% contra Dano Pyro."
+    },
+    "c5": {
+      "name": "Respeitando a Declaração Juramentada",
+      "effect": "Aumenta o nível da Habilidade **Contrato Vinculativo** em 3.\nO nível máximo é 15."
+    },
+    "c6": {
+      "name": "Uma Cláusula Adicional",
+      "effect": "Aumenta a capacidade máxima de Insígnia de Chamas que Yanfei pode ter em 1."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Feiyan_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Feiyan_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Feiyan_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Feiyan_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Feiyan_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Feiyan_04.png",
+      "constellation": "Eff_UI_Talent_Feiyan"
+    },
+    "version": "1.5"
+  },
+  "talent": {
+    "name": "Yanfei",
+    "combat1": {
+      "name": "Ataque Normal: Selo Ardente",
+      "info": "**Ataque Normal**\nDispara bolas de fogo continuamente, causando no máximo três Danos Pyro.\nQuando o Ataque Normal atinge os inimigos, Yanfei obtém uma Insígnia de Chamas. Inicialmente, pode ter no máximo três Insígnias de Chamas. A cada vez que o efeito ocorre, a duração da Insígnia de Chamas atual será renovada.\nCada Insígnia de Chamas reduzirá o consumo de Stamina de Yanfei e desaparecerá quando Yanfei sair do combate.\n\n**Ataque Carregado**\nConsome Stamina e, depois de ativada por um curto tempo, consome todas as Insígnias de Chamas e causa Dano Pyro na AdE em sua frente.\nDe acordo com a quantidade de Insígnias de Chama consumidas, fortalece a Área e Dano do Ataque Carregado.\n\n**Ataque Imersivo**\nAcumula energia Pyro, mergulha em pleno ar para golpear o chão, atingindo os inimigos em seu caminho e infligindo Dano Pyro na AdE quando impacta no chão.",
+      "attributes": [
+        {
+          "name": "Dano do 1° Golpe",
+          "parameters": [
+            "58.34%",
+            "62.72%",
+            "67.09%",
+            "72.93%",
+            "77.30%",
+            "81.68%",
+            "87.51%",
+            "93.35%",
+            "99.18%",
+            "105.01%",
+            "110.85%",
+            "116.68%",
+            "123.98%",
+            "131.27%",
+            "138.56%"
+          ]
+        },
+        {
+          "name": "Dano do 2° Golpe",
+          "parameters": [
+            "52.13%",
+            "56.04%",
+            "59.94%",
+            "65.16%",
+            "69.07%",
+            "72.98%",
+            "78.19%",
+            "83.40%",
+            "88.61%",
+            "93.83%",
+            "99.04%",
+            "104.25%",
+            "110.77%",
+            "117.28%",
+            "123.80%"
+          ]
+        },
+        {
+          "name": "Dano do 3° Golpe",
+          "parameters": [
+            "76.01%",
+            "81.71%",
+            "87.41%",
+            "95.02%",
+            "100.72%",
+            "106.42%",
+            "114.02%",
+            "121.62%",
+            "129.22%",
+            "136.82%",
+            "144.42%",
+            "152.03%",
+            "161.53%",
+            "171.03%",
+            "180.53%"
+          ]
+        },
+        {
+          "name": "Dano de Ataque Carregado",
+          "parameters": [
+            "98.23%/115.56%/132.90%/150.23%/167.57%",
+            "104.11%/122.48%/140.86%/159.23%/177.60%",
+            "109.99%/129.40%/148.81%/168.23%/187.64%",
+            "117.64%/138.40%/159.16%/179.92%/200.68%",
+            "123.52%/145.32%/167.12%/188.92%/210.71%",
+            "129.40%/152.24%/175.08%/197.91%/220.75%",
+            "137.05%/161.24%/185.42%/209.61%/233.79%",
+            "144.70%/170.23%/195.77%/221.30%/246.84%",
+            "152.34%/179.23%/206.11%/233.00%/259.88%",
+            "159.99%/188.22%/216.46%/244.69%/272.92%",
+            "167.64%/197.22%/226.80%/256.39%/285.97%",
+            "175.28%/206.22%/237.15%/268.08%/299.01%",
+            "182.93%/215.21%/247.49%/279.78%/312.06%",
+            "190.58%/224.21%/257.84%/291.47%/325.10%",
+            "198.22%/233.20%/268.18%/303.17%/338.15%"
+          ]
+        },
+        {
+          "name": "Consumo de Stamina de Ataque Carregado",
+          "parameters": [
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50"
+          ]
+        },
+        {
+          "name": "Redução do Consumo de Stamina da Insígnia de Chamas",
+          "parameters": [
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%"
+          ]
+        },
+        {
+          "name": "Recarga de Insígnia de Chamas",
+          "parameters": [
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s"
+          ]
+        },
+        {
+          "name": "Dano Durante a Queda",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "Dano de Queda de Baixa/Alta Altitude",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Édito Assinado",
+      "info": "Invoca as chamas, criando Dano Pyro na AdE.\nDepois de atingir o inimigo, Yanfei obtém a quantidade máxima de Insígnias de Chamas.",
+      "description": "Apesar de possuírem vínculo legal, as Insígnias de Chamas de Yanfei também têm suas próprias cláusulas adicionais. No final das contas, o Ministério dos Assuntos Civis não pode modificar as leis naturais sozinho.",
+      "attributes": [
+        {
+          "name": "Dano de Habilidade",
+          "parameters": [
+            "169.60%",
+            "182.32%",
+            "195.04%",
+            "212.00%",
+            "224.72%",
+            "237.44%",
+            "254.40%",
+            "271.36%",
+            "288.32%",
+            "305.28%",
+            "322.24%",
+            "339.20%",
+            "360.40%",
+            "381.60%",
+            "402.80%"
+          ]
+        },
+        {
+          "name": "Tempo de Recarga",
+          "parameters": [
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s",
+            "9s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Contrato Vinculativo",
+      "info": "Causa o lançamento de uma chama explosiva, atacando os inimigos ao redor e criando Dano Pyro na AdE e Yanfei obtém a quantidade máxima de Insígnias de Chamas e Efeito de Clarão.\n\n**Clarão**\nPossui os seguintes efeitos:\nYanfei obtém uma Insígnia de Chamas em cada intervalo de tempo;\n·Aumenta o Dano causado pelo Ataque Carregado.\nO efeito de Clarão será eliminado quando Yanfei sair do combate ou for derrotada em batalha.",
+      "description": "\"As cláusulas já estão escritas. Assim, por esse meio, estabeleço esse contrato de vida ou morte. É claro, eu vivo e você morre!\"",
+      "attributes": [
+        {
+          "name": "Dano de Habilidade",
+          "parameters": [
+            "182.40%",
+            "196.08%",
+            "209.76%",
+            "228.00%",
+            "241.68%",
+            "255.36%",
+            "273.60%",
+            "291.84%",
+            "310.08%",
+            "328.32%",
+            "346.56%",
+            "364.80%",
+            "387.60%",
+            "410.40%",
+            "433.20%"
+          ]
+        },
+        {
+          "name": "Intervalo de Obtenção de Insígnia de Chamas",
+          "parameters": [
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s"
+          ]
+        },
+        {
+          "name": "Aumenta Dano de Ataque Carregado",
+          "parameters": [
+            "33.40%",
+            "35.40%",
+            "37.40%",
+            "40.00%",
+            "42.00%",
+            "44.00%",
+            "46.60%",
+            "49.20%",
+            "51.80%",
+            "54.40%",
+            "57.00%",
+            "59.60%",
+            "62.20%",
+            "64.80%",
+            "67.40%"
+          ]
+        },
+        {
+          "name": "Duração",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "Tempo de Recarga",
+          "parameters": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "name": "Energia Elemental",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Clausulas Relacionais",
+      "info": "Quando o Ataque Carregado de Yanfei consumir uma Insígnia de Chama, cada Insígnia de Chama irá aumentar o Bônus de Dano Pyro de Yanfei em 5% por 6s. Ao lançar novamente o Ataque Carregado durante o período deste efeito, o efeito anterior será dissipado."
+    },
+    "passive2": {
+      "name": "Olho de Xiezhi",
+      "info": "Quando o Ataque Carregado de Yanfei causa um Dano CRIT, ela causará um Dano Pyro AdE correspondente a 80% do seu Ataque. Este Dano é considerado como Dano de um Ataque Carregado."
+    },
+    "passive3": {
+      "name": "Conhecimento Enciclopédico",
+      "info": "Mostra a localização de **Especialidades de Liyue** próximos no mapa."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Ensinamentos de Ouro",
+          "count": 3
+        },
+        {
+          "name": "Insígnia dos Ladrões de Tesouro",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guia de Ouro",
+          "count": 2
+        },
+        {
+          "name": "Insígnia do Corvo Prateado",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guia de Ouro",
+          "count": 4
+        },
+        {
+          "name": "Insígnia do Corvo Prateado",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guia de Ouro",
+          "count": 6
+        },
+        {
+          "name": "Insígnia do Corvo Prateado",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guia de Ouro",
+          "count": 9
+        },
+        {
+          "name": "Insígnia do Corvo Prateado",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofia de Ouro",
+          "count": 4
+        },
+        {
+          "name": "Insígnia de Corvo Dourado",
+          "count": 4
+        },
+        {
+          "name": "Galho de Jade de Sangue",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofia de Ouro",
+          "count": 6
+        },
+        {
+          "name": "Insígnia de Corvo Dourado",
+          "count": 6
+        },
+        {
+          "name": "Galho de Jade de Sangue",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofia de Ouro",
+          "count": 12
+        },
+        {
+          "name": "Insígnia de Corvo Dourado",
+          "count": 9
+        },
+        {
+          "name": "Galho de Jade de Sangue",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofia de Ouro",
+          "count": 16
+        },
+        {
+          "name": "Insígnia de Corvo Dourado",
+          "count": 12
+        },
+        {
+          "name": "Galho de Jade de Sangue",
+          "count": 2
+        },
+        {
+          "name": "Coroa da Sabedoria",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_Catalyst_MD",
+      "combat2": "Skill_S_Feiyan_01",
+      "combat3": "Skill_E_Feiyan_01_HD",
+      "passive1": "UI_Talent_S_Feiyan_05",
+      "passive2": "UI_Talent_S_Feiyan_06",
+      "passive3": "UI_Talent_Collect_Local_Liyue"
+    },
+    "version": "1.5"
+  }
+}

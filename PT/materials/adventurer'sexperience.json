@@ -1,0 +1,20 @@
+{
+  "name": "EXP do Aventureiro",
+  "description": "Material de EXP de Personagem. Concede 5000 de EXP.\nEsta experiência é muito benéfica durante jornadas nas Profundezas Misteriosas.",
+  "sortorder": 1291,
+  "rarity": "3",
+  "category": "EXP_FRUIT",
+  "materialtype": "Material de EXP de Personagem",
+  "source": [
+    "Recompensa de Expedição e Aventura"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_104002",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Adventurer's_Experience.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Adventurer's_Experience"
+  },
+  "version": ""
+}

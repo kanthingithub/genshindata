@@ -1,0 +1,322 @@
+{
+  "name": "ดันเจี้ยนแห่งพร: ไฟแห่งการชำระล้าง",
+  "region": "Mondstadt",
+  "domainEntrance": "สวนฤดูร้อน",
+  "domainType": "อาร์ติแฟกต์",
+  "description": "ที่แท่นบูชาของเมืองโบราณแห่งนี้ เป็นสถานที่ชุมนุมของมอนสเตอร์ที่เกรงกลัวธาตุไฟ\nหากสามารถผ่านการทดสอบนี้ได้ล่ะก็ บางทีอาจจะได้รับอาร์ติแฟกต์ที่มีค่าก็เป็นได้",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_1"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "ดันเจี้ยนแห่งพร: ไฟแห่งการชำระล้าง I",
+      "recommendedLevel": 34,
+      "recommendedElements": [
+        "ไฟ"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1525
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Adventurer",
+          "rarity": "2"
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Adventurer",
+          "rarity": "3"
+        }
+      ],
+      "disorder": [
+        "เมื่อเกิดปฏิกิริยาละลาย จะปล่อยระเบิดพลังงาน สร้างความเสียหายให้แก่ศัตรูโดยรอบ"
+      ],
+      "monsterlist": [
+        "Cryo Slime",
+        "Large Cryo Slime",
+        "Large Hydro Slime",
+        "Wooden Shield Hilichurl Guard",
+        "Cryo Abyss Mage"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งพร: ไฟแห่งการชำระล้าง II",
+      "recommendedLevel": 47,
+      "recommendedElements": [
+        "ไฟ"
+      ],
+      "unlockRank": 25,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1700
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Adventurer",
+          "rarity": "2"
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Adventurer",
+          "rarity": "3"
+        }
+      ],
+      "disorder": [
+        "เมื่อเกิดปฏิกิริยาโอเวอร์โหลด จะปล่อยระเบิดพลังงาน สร้างความเสียหายให้แก่ศัตรูโดยรอบ",
+        "เมื่อเกิดปฏิกิริยาการนำไฟฟ้า จะได้รับความเสียหายจากการถูกโจมตีด้วยระเบิดแรงสูง"
+      ],
+      "monsterlist": [
+        "Electro Slime",
+        "Large Electro Slime",
+        "Mutant Electro Slime",
+        "Fatui - Electro Cicin Mage"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งพร: ไฟแห่งการชำระล้าง III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "ไฟ"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Adventurer",
+          "rarity": "3"
+        },
+        {
+          "name": "Thundering Fury",
+          "rarity": "4"
+        },
+        {
+          "name": "Thundersoother",
+          "rarity": "4"
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "เมื่อเกิดปฏิกิริยาละลาย จะปล่อยระเบิดพลังงาน สร้างความเสียหายให้แก่ศัตรูโดยรอบ",
+        "เมื่อเกิดปฏิกิริยาการนำไฟฟ้า จะได้รับความเสียหายจากการถูกโจมตีด้วยระเบิดแรงสูง"
+      ],
+      "monsterlist": [
+        "Cryo Slime",
+        "Large Cryo Slime",
+        "Cryo Abyss Mage"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งพร: ไฟแห่งการชำระล้าง IV",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "ไฟ"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Adventurer",
+          "rarity": "3"
+        },
+        {
+          "name": "Thundering Fury",
+          "rarity": "4"
+        },
+        {
+          "name": "Thundersoother",
+          "rarity": "4"
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "เมื่อเกิดปฏิกิริยาการระเหย จะปล่อยระเบิดพลังงานสร้างความเสียหายให้แก่ศัตรูโดยรอบ",
+        "เมื่อเกิดปฏิกิริยาการชาร์จไฟฟ้า จะได้รับความเสียหายจากการถูกโจมตีด้วยระเบิดแรงสูง"
+      ],
+      "monsterlist": [
+        "Hydro Slime",
+        "Large Hydro Slime",
+        "Hydro Samachurl",
+        "Hydro Abyss Mage"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งพร: ไฟแห่งการชำระล้าง V",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "ไฟ"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Adventurer",
+          "rarity": "3"
+        },
+        {
+          "name": "Thundering Fury",
+          "rarity": "4"
+        },
+        {
+          "name": "Thundersoother",
+          "rarity": "4"
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "4"
+        },
+        {
+          "name": "Thundering Fury",
+          "rarity": "5"
+        },
+        {
+          "name": "Thundersoother",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "เมื่อเกิดปฏิกิริยาละลาย จะปล่อยระเบิดพลังงาน สร้างความเสียหายให้แก่ศัตรูโดยรอบ",
+        "เมื่อเกิดปฏิกิริยาการนำไฟฟ้า จะได้รับความเสียหายจากการถูกโจมตีด้วยระเบิดแรงสูง"
+      ],
+      "monsterlist": [
+        "Large Cryo Slime",
+        "Cryo Abyss Mage"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งพร: ไฟแห่งการชำระล้าง VI",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "ไฟ"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Adventurer",
+          "rarity": "3"
+        },
+        {
+          "name": "Thundering Fury",
+          "rarity": "4"
+        },
+        {
+          "name": "Thundersoother",
+          "rarity": "4"
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "4"
+        },
+        {
+          "name": "Thundering Fury",
+          "rarity": "5"
+        },
+        {
+          "name": "Thundersoother",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "เมื่อเกิดปฏิกิริยาโอเวอร์โหลด จะปล่อยระเบิดพลังงาน สร้างความเสียหายให้แก่ศัตรูโดยรอบ",
+        "เมื่อเกิดปฏิกิริยาการนำไฟฟ้า จะได้รับความเสียหายจากการถูกโจมตีด้วยระเบิดแรงสูง"
+      ],
+      "monsterlist": [
+        "Large Electro Slime",
+        "Mutant Electro Slime",
+        "Fatui - Electro Cicin Mage"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Dvalin's Plume",
+  "description": "A feather from the tail of the Dragon of the East.\nAs a dragon's feather it has experienced more than a thousand years' worth of winds. One senses within it a yearning for freedom so strong that it could whip up a light breeze to rescue it from its current confines. Its former owner's recognition of you is what makes it content to stay in your hands.",
+  "sortorder": 1785,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Lv. 70+ Stormterror Challenge Reward"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dvalin's_Plume.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Item_Dvalin%27s_Plume.png",
+    "nameicon": "UI_ItemIcon_113003"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dvalin's_Plume"
+  },
+  "version": ""
+}

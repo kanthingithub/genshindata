@@ -1,0 +1,22 @@
+{
+  "name": "Gema de Jade Shivada",
+  "description": "Material de Ascensão de Personagem.\n\"Desculpe...\"\n\"...por lhe fazer ter que carregar o peso deste mundo.\"\n\"Já que você consegue lidar com a minha frieza, você deve ter um desejo ardente por dentro.\"\n\"Então, queime o mundo antigo para mim.\"",
+  "sortorder": 1845,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Dropado por Regisvine Cryo Nv.75+",
+    "Dropado pelo Hypostasis Cryo Nv.75+",
+    "Obtido na síntese"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shivada_Jade_Gemstone.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Item_Shivada_Jade_Gemstone.png",
+    "nameicon": "UI_ItemIcon_104164"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shivada_Jade_Gemstone"
+  },
+  "version": ""
+}

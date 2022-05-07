@@ -1,0 +1,20 @@
+{
+  "name": "Xamã do Ritual Pyro",
+  "rarity": [
+    "3",
+    "4"
+  ],
+  "1pc": "Reduz a duração dos efeitos causados por Pyro em 40%.",
+  "circlet": {
+    "name": "Coroa do Ritual Pyro",
+    "relictype": "Tiara de Logos",
+    "description": "Uma coroa usada por sacerdotes durante cerimônias antigamente. Sua imersão no fogo ao longo do ano deu-lhe uma resistência incrível."
+  },
+  "images": {
+    "circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15009_3.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Prayers_for_Illumination"
+  },
+  "version": "1.0"
+}

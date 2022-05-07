@@ -1,0 +1,16 @@
+{
+  "name": "元素クリスタルの欠片",
+  "description": "神の瞳の結晶が砕けた破片。付近に隠されている宝箱を知らせる",
+  "sortorder": 1580,
+  "category": "CONSUME",
+  "materialtype": "冒険アイテム",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_107002",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Elemental_Dust.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Elemental_Dust"
+  },
+  "version": ""
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Dead Ley Line Leaves",
+  "description": "Ranting dengan beberapa helai daun, berasal dari kedalaman tanah. Meskipun jaraknya jauh dari pohon utamanya, tetapi masih terasa sisa energi berdetak di dalamnya.",
+  "sortorder": 1739,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Didapatkan melalui Craft",
+    "Dijatuhkan oleh Abyss Mage Lv. 40+",
+    "Penukaran Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dead_Ley_Line_Leaves.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Item_Dead_Ley_Line_Leaves.png",
+    "nameicon": "UI_ItemIcon_112021"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dead_Ley_Line_Leaves"
+  },
+  "version": ""
+}

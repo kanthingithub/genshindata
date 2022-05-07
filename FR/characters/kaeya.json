@@ -1,0 +1,814 @@
+{
+  "name": "Kaeya",
+  "fullname": "Kaeya",
+  "title": "Chevalier du froid",
+  "description": "Un épéiste accompli et un stratège de génie de l'Ordre de Favonius ; il est originaire, selon les rumeurs, d'une terre bien au-delà des frontières de Mondstadt.",
+  "rarity": "4",
+  "element": "Cryo",
+  "weapontype": "Épée à une main",
+  "substat": "Recharge d'énergie",
+  "gender": "Homme",
+  "body": "MALE",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Ordre de Favonius",
+  "birthdaymmdd": "11/30",
+  "birthday": "30 novembre",
+  "constellation": "Pavo Ocellus",
+  "cv": {
+    "english": "Josey Montana McCoy",
+    "chinese": "孙晔",
+    "japanese": "鳥海浩輔",
+    "korean": "Jung Joo-won"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Éclat de jade shivada",
+        "count": 1
+      },
+      {
+        "name": "Lys calla",
+        "count": 3
+      },
+      {
+        "name": "Insigne du Pilleur",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragment de jade shivada",
+        "count": 3
+      },
+      {
+        "name": "Duramen de glace",
+        "count": 2
+      },
+      {
+        "name": "Lys calla",
+        "count": 10
+      },
+      {
+        "name": "Insigne du Pilleur",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragment de jade shivada",
+        "count": 6
+      },
+      {
+        "name": "Duramen de glace",
+        "count": 4
+      },
+      {
+        "name": "Lys calla",
+        "count": 20
+      },
+      {
+        "name": "Insigne de corbeau en argent",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Morceau de jade shivada",
+        "count": 3
+      },
+      {
+        "name": "Duramen de glace",
+        "count": 8
+      },
+      {
+        "name": "Lys calla",
+        "count": 30
+      },
+      {
+        "name": "Insigne de corbeau en argent",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Morceau de jade shivada",
+        "count": 6
+      },
+      {
+        "name": "Duramen de glace",
+        "count": 12
+      },
+      {
+        "name": "Lys calla",
+        "count": 45
+      },
+      {
+        "name": "Insigne de corbeau en or",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Pierre de jade shivada",
+        "count": 6
+      },
+      {
+        "name": "Duramen de glace",
+        "count": 20
+      },
+      {
+        "name": "Lys calla",
+        "count": 60
+      },
+      {
+        "name": "Insigne de corbeau en or",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Character_Kaeya_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Character_Kaeya_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kaeya.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Kaeya.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20191009/2019100910335338023.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20191009/2019100910351589464.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/428a3008f1d6fda010ccfcf7d83b08fe.png",
+    "nameicon": "UI_AvatarIcon_Kaeya",
+    "nameiconcard": "UI_AvatarIcon_Kaeya_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Kaeya",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Kaeya",
+    "namesideicon": "UI_AvatarIcon_Side_Kaeya"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Kaeya"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 975.6163940429688,
+      "attack": 18.698400497436523,
+      "defense": 66.38099670410156,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2506.3585218789085,
+      "attack": 48.036190984907535,
+      "defense": 170.53278091267202,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3235.1939100625023,
+      "attack": 62.00518131083527,
+      "defense": 220.12278106525991,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4845.936366352456,
+      "attack": 92.87623650202931,
+      "defense": 329.7177923166091,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5363.793116840738,
+      "attack": 102.80157143244924,
+      "defense": 364.9527891122634,
+      "specialized": 0.06669999659061432
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6169.6524667343765,
+      "attack": 118.24645423774109,
+      "defense": 419.7835065703621,
+      "specialized": 0.06669999659061432
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6860.1280526718765,
+      "attack": 131.48023414496765,
+      "defense": 466.76350229790114,
+      "specialized": 0.13330000638961792
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7665.987402565515,
+      "attack": 146.9251169502595,
+      "defense": 521.5942197559998,
+      "specialized": 0.13330000638961792
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8183.84409201864,
+      "attack": 156.85045188067943,
+      "defense": 556.8292203663514,
+      "specialized": 0.13330000638961792
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 8988.72743102003,
+      "attack": 172.2766287246277,
+      "defense": 611.5935299860648,
+      "specialized": 0.13330000638961792
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 9506.584120473155,
+      "attack": 182.20196365504762,
+      "defense": 646.8285305964164,
+      "specialized": 0.20000000298023224
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 10312.443005156645,
+      "attack": 197.64683754424732,
+      "defense": 701.6592164015892,
+      "specialized": 0.20000000298023224
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 10830.29969460977,
+      "attack": 207.5721762893645,
+      "defense": 736.8942170119408,
+      "specialized": 0.26669999957084656
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 11636.159044503409,
+      "attack": 223.01705909465636,
+      "defense": 791.7249344700394,
+      "specialized": 0.26669999957084656
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Lignée de l'excellence",
+      "effect": "Le taux CRIT des attaques normales et chargées de Kaeya contre les ennemis affectés par Cryo augmente de 15 %."
+    },
+    "c2": {
+      "name": "Danse givrée éternelle",
+      "effect": "Chaque ennemi éliminé pendant la durée de **Valse glaciale** prolonge la durée de la compétence de 2,5 s. Cumul max : 15 s."
+    },
+    "c3": {
+      "name": "Ébats glacials",
+      "effect": "Niveau d'aptitude **Attaque givrée** +3.\nNiveau max : 15"
+    },
+    "c4": {
+      "name": "Baiser glacé",
+      "effect": "Kaeya génère un bouclier lorsque ses PV sont inférieurs à 20 %.\nLe bouclier absorbe une quantité de DGT équivalant à 30 % des PV max et dure 20 s.\nLe bouclier est efficace à 250 % contre les DGT Cryo.\nCet effet peut être déclenché une fois toutes les 60 s."
+    },
+    "c5": {
+      "name": "Étreinte glaciale",
+      "effect": "Niveau d'aptitude **Valse glaciale** +3.\nNiveau max : 15"
+    },
+    "c6": {
+      "name": "Tourbillon glacial",
+      "effect": "Génère une stalactite supplémentaire pendant **Valse glaciale** et restaure 15 pts d'énergie élémentaire."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Kaeya_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Kaeya_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Kaeya_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Kaeya_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Kaeya_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Kaeya_04.png",
+      "constellation": "Eff_UI_Talent_Kaeya"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Kaeya",
+    "combat1": {
+      "name": "Attaque normale : Passe d'armes",
+      "info": "**Attaque normale**\nEnchaîne jusqu'à 5 coups d'épée.\n\n**Attaque chargée**\nConsomme de l'endurance pour déclencher deux coups d'épée rapides.\n\n**Attaque plongeante**\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "attributes": [
+        {
+          "name": "DGT 1er coup",
+          "parameters": [
+            "53.75%",
+            "58.13%",
+            "62.50%",
+            "68.75%",
+            "73.12%",
+            "78.13%",
+            "85.00%",
+            "91.87%",
+            "98.75%",
+            "106.25%",
+            "114.84%",
+            "124.95%",
+            "135.06%",
+            "145.16%",
+            "156.19%"
+          ]
+        },
+        {
+          "name": "DGT 2e coup",
+          "parameters": [
+            "51.69%",
+            "55.89%",
+            "60.10%",
+            "66.11%",
+            "70.32%",
+            "75.13%",
+            "81.74%",
+            "88.35%",
+            "94.96%",
+            "102.17%",
+            "110.43%",
+            "120.15%",
+            "129.87%",
+            "139.59%",
+            "150.19%"
+          ]
+        },
+        {
+          "name": "DGT 3e coup",
+          "parameters": [
+            "65.27%",
+            "70.59%",
+            "75.90%",
+            "83.49%",
+            "88.80%",
+            "94.88%",
+            "103.22%",
+            "111.57%",
+            "119.92%",
+            "129.03%",
+            "139.47%",
+            "151.74%",
+            "164.01%",
+            "176.29%",
+            "189.67%"
+          ]
+        },
+        {
+          "name": "DGT 4e coup",
+          "parameters": [
+            "70.86%",
+            "76.63%",
+            "82.40%",
+            "90.64%",
+            "96.41%",
+            "103.00%",
+            "112.06%",
+            "121.13%",
+            "130.19%",
+            "140.08%",
+            "151.41%",
+            "164.73%",
+            "178.06%",
+            "191.38%",
+            "205.92%"
+          ]
+        },
+        {
+          "name": "DGT 5e coup",
+          "parameters": [
+            "88.24%",
+            "95.42%",
+            "102.60%",
+            "112.86%",
+            "120.04%",
+            "128.25%",
+            "139.54%",
+            "150.82%",
+            "162.11%",
+            "174.42%",
+            "188.53%",
+            "205.12%",
+            "221.71%",
+            "238.30%",
+            "256.40%"
+          ]
+        },
+        {
+          "name": "DGT attaque chargée",
+          "parameters": [
+            "55.04%+73.10%",
+            "59.52%+79.05%",
+            "64.00%+85.00%",
+            "70.40%+93.50%",
+            "74.88%+99.45%",
+            "80.00%+106.25%",
+            "87.04%+115.60%",
+            "94.08%+124.95%",
+            "101.12%+134.30%",
+            "108.80%+144.50%",
+            "117.60%+156.19%",
+            "127.95%+169.93%",
+            "138.30%+183.68%",
+            "148.65%+197.42%",
+            "159.94%+212.42%"
+          ]
+        },
+        {
+          "name": "Coût d'endurance attaque chargée",
+          "parameters": [
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts"
+          ]
+        },
+        {
+          "name": "DGT durant la chute",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "DGT chute basse/élevée",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Attaque givrée",
+      "info": "Libère un blizzard gelant qui inflige des DGT Cryo aux ennemis en face.",
+      "description": "Qui serait capable de faire fondre la glace qui se cache derrière ce masque aimable...",
+      "attributes": [
+        {
+          "name": "DGT compétence",
+          "parameters": [
+            "191.20%",
+            "205.54%",
+            "219.88%",
+            "239.00%",
+            "253.34%",
+            "267.68%",
+            "286.80%",
+            "305.92%",
+            "325.04%",
+            "344.16%",
+            "363.28%",
+            "382.40%",
+            "406.30%",
+            "430.20%",
+            "454.10%"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Valse glaciale",
+      "info": "Kaeya condense les particules dans l'air pour invoquer 3 stalactites tournoyantes.\nLes stalactites suivent le personnage, et infligent des DGT Cryo aux ennemis sur leur route.",
+      "description": "Ses dehors souriants, son ton agréable, et la glace qu'ils cachent : voici les armes de Kaeya.",
+      "attributes": [
+        {
+          "name": "DGT compétence",
+          "parameters": [
+            "77.60%",
+            "83.42%",
+            "89.24%",
+            "97.00%",
+            "102.82%",
+            "108.64%",
+            "116.40%",
+            "124.16%",
+            "131.92%",
+            "139.68%",
+            "147.44%",
+            "155.20%",
+            "164.90%",
+            "174.60%",
+            "184.30%"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "Durée",
+          "parameters": [
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s"
+          ]
+        },
+        {
+          "name": "Énergie élémentaire",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Épée de la cruauté",
+      "info": "Chaque fois qu'**Attaque givrée** touche un ennemi, Kaeya récupère une quantité de PV équivalant à 15 % de son ATQ."
+    },
+    "passive2": {
+      "name": "Cœur de l'Abîme glacial",
+      "info": "Les ennemis gelés par **Attaque givrée** font tomber davantage de particules élémentaires.\nJusqu'à 2 particules supplémentaires peuvent ainsi être obtenues par Attaque givrée."
+    },
+    "passive3": {
+      "name": "Force cachée",
+      "info": "Réduit la consommation d'endurance des personnages de l'équipe de 20 % lors du sprint.\nNe peut pas être cumulé avec d'autres aptitudes passives aux effets identiques."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseignement de la Poésie",
+          "count": 3
+        },
+        {
+          "name": "Insigne du Pilleur",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide de la Poésie",
+          "count": 2
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide de la Poésie",
+          "count": 4
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide de la Poésie",
+          "count": 6
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide de la Poésie",
+          "count": 9
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie de la Poésie",
+          "count": 4
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "count": 4
+        },
+        {
+          "name": "Esprit de Borée",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie de la Poésie",
+          "count": 6
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "count": 6
+        },
+        {
+          "name": "Esprit de Borée",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie de la Poésie",
+          "count": 12
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "count": 9
+        },
+        {
+          "name": "Esprit de Borée",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie de la Poésie",
+          "count": 16
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "count": 12
+        },
+        {
+          "name": "Esprit de Borée",
+          "count": 2
+        },
+        {
+          "name": "Couronne de la sagesse",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_01",
+      "combat2": "Skill_S_Kaeya_01",
+      "combat3": "Skill_E_Kaeya_01_HD",
+      "passive1": "UI_Talent_S_Kaeya_05",
+      "passive2": "UI_Talent_S_Kaeya_06",
+      "passive3": "UI_Talent_Explosion_Sprint"
+    },
+    "version": "1.0"
+  }
+}

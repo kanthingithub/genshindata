@@ -1,0 +1,20 @@
+{
+  "name": "Tofu",
+  "description": "Um produto fresco feito de soja processada. Possui um sabor suave e textura macia.",
+  "sortorder": 2004,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente",
+  "source": [
+    "Vendido nas Tendas de Liyue",
+    "Vendido nas Lojas de Inazuma"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Tofu.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Item_Tofu.png",
+    "nameicon": "UI_ItemIcon_100088"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Tofu"
+  },
+  "version": ""
+}

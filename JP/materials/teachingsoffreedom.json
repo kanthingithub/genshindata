@@ -1,0 +1,24 @@
+{
+  "name": "「自由」の教え",
+  "description": "天賦育成素材。\n風の国の精神は自由である。\n自由その1、生きる自由、すなわち健全、健康に生きること。いつ終わるか分からない自由の心配がないこと。",
+  "sortorder": 1851,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "天賦育成素材",
+  "dropdomain": "熟知秘境：氷霜の祭壇",
+  "daysofweek": [
+    "月曜",
+    "木曜",
+    "日曜"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Freedom.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Item_Teachings_of_Freedom.png",
+    "nameicon": "UI_ItemIcon_104301"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Freedom"
+  },
+  "version": ""
+}

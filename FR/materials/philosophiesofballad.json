@@ -1,0 +1,26 @@
+{
+  "name": "Philosophie de la Poésie",
+  "description": "Matériau d'amélioration d'aptitude.\nL'âme du Royaume du Vent réside dans la poésie.\nElle existe pour être transmise à travers les générations. Bien que rien ne soit éternel, le vent soufflera toujours ces mots doux au-delà des cieux, à travers les terres et les mers du monde entier.",
+  "sortorder": 1859,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration d'aptitude",
+  "dropdomain": "Donjon de la maîtrise : Royaume endormi",
+  "daysofweek": [
+    "Mercredi",
+    "Samedi",
+    "Dimanche"
+  ],
+  "source": [
+    "Synthèse"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Ballad.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Item_Philosophies_of_Ballad.png",
+    "nameicon": "UI_ItemIcon_104309"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Ballad"
+  },
+  "version": ""
+}

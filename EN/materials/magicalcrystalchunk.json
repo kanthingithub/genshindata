@@ -1,0 +1,19 @@
+{
+  "name": "Magical Crystal Chunk",
+  "description": "These crystal chunks can be refined into Weapon EXP materials by using Original Resin.\nCrystals from mines that were eroded by the energy of the Ley Lines cannot be processed by ordinary means.",
+  "sortorder": 1957,
+  "category": "EXCHANGE",
+  "materialtype": "Forging Ore",
+  "source": [
+    "Found in the wild"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Magical_Crystal_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Item_Magical_Crystal_Chunk.png",
+    "nameicon": "UI_ItemIcon_101004"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Magical_Crystal_Chunk"
+  },
+  "version": ""
+}

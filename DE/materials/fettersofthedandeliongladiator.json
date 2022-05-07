@@ -1,0 +1,26 @@
+{
+  "name": "Fesseln des Löwenzahnkämpfers",
+  "description": "Material mit der Kraft, Waffen aufsteigen zu lassen.\nMenschen übertreiben gern bei Heldengeschichten. Das geht sogar so weit, dass selbst die Fesseln, die einen Helden einst gefangen hielten, zum Feind der Freiheit erhoben werden.\nAus diesem Grund besitzen diese Ketten eine überaus große Kraft.",
+  "sortorder": 2191,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zum Aufstieg von Waffen",
+  "dropdomain": "Sphäre der Kriegskunst: Verdurstete Stadt",
+  "daysofweek": [
+    "Mittwoch",
+    "Samstag",
+    "Sonntag"
+  ],
+  "source": [
+    "Beim Andenkenhändler von Mondstadt zu erhalten"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fetters_of_the_Dandelion_Gladiator.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Item_Fetters_of_the_Dandelion_Gladiator.png",
+    "nameicon": "UI_ItemIcon_114009"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fetters_of_the_Dandelion_Gladiator"
+  },
+  "version": ""
+}

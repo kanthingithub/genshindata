@@ -1,0 +1,227 @@
+{
+  "name": "Alte Geo-Drachenechse",
+  "specialname": "Ein Steindrache, der einst mit dem König der Drachen die Berge erschütterte",
+  "enemytype": "BOSS",
+  "category": "Mystische Bestien",
+  "description": "Nach vielen Jahren gewöhnte sich die unglaublich mächtige alte Geodrachenechse an die Veränderungen in ihrer Elementarumgebung.\nIn Volksmärchen ist von einer „Drachenkatastrophe“ die Rede, die das Tianqiu-Tal ins Verderben stürzte. Danach wurden die stärkste Geodrachenechse und alte Geodrachenechsen tief unter die Erde verbannt. Sie vergruben sich in der unbekannten Tiefe, wartend auf eine Gelegenheit, zurück an die Oberfläche zu gelangen ...",
+  "investigation": {
+    "name": "Alte Geo-Drachenechse",
+    "category": "Anführer",
+    "description": "Nach vielen Jahren gewöhnten sich die unglaublich mächtigen alten Geo-Drachenechsen an die Veränderungen in ihrer Elementarumgebung.\\nIn Volksmärchen ist von einer „Drachenkatastrophe“ die Rede, die das Tianqiu-Tal ins Verderben stürzte. Danach vergruben sich die jungen und alten Geo-Drachenechsen tief unter der Erde und warteten auf eine Gelegenheit, zurück an die Oberfläche zu gelangen ..."
+  },
+  "rewardpreview": [
+    {
+      "name": "Abenteuer-EP",
+      "count": 200
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Freundschafts-EP"
+    },
+    {
+      "name": "Prithiva-Topas-Splitter"
+    },
+    {
+      "name": "Prithiva-Topas-Bruchstück"
+    },
+    {
+      "name": "Prithiva-Topas-Brocken"
+    },
+    {
+      "name": "Prithiva-Topas"
+    },
+    {
+      "name": "Vajrada-Amethyst-Splitter"
+    },
+    {
+      "name": "Vajrada-Amethyst-Bruchstück"
+    },
+    {
+      "name": "Vajrada-Amethyst-Brocken"
+    },
+    {
+      "name": "Vajrada-Amethyst"
+    },
+    {
+      "name": "Shivada-Jade-Splitter"
+    },
+    {
+      "name": "Shivada-Jade-Bruchstück"
+    },
+    {
+      "name": "Shivada-Jade-Brocken"
+    },
+    {
+      "name": "Shivada-Jade"
+    },
+    {
+      "name": "Agnidus-Achat-Splitter"
+    },
+    {
+      "name": "Agnidus-Achat-Bruchstück"
+    },
+    {
+      "name": "Agnidus-Achat-Brocken"
+    },
+    {
+      "name": "Agnidus-Achat"
+    },
+    {
+      "name": "Varunada-Lasurit-Splitter"
+    },
+    {
+      "name": "Varunada-Lasurit-Bruchstück"
+    },
+    {
+      "name": "Varunada-Lasurit-Brocken"
+    },
+    {
+      "name": "Varunada-Lasurit"
+    },
+    {
+      "name": "Junge Jade"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Ausbilder",
+      "rarity": "3"
+    },
+    {
+      "name": "Verbannter",
+      "rarity": "3"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Ausbilder",
+      "rarity": "4"
+    },
+    {
+      "name": "Verbannter",
+      "rarity": "4"
+    },
+    {
+      "name": "Blitzopfer",
+      "rarity": "4"
+    },
+    {
+      "name": "Eisopfer",
+      "rarity": "4"
+    },
+    {
+      "name": "Feueropfer",
+      "rarity": "4"
+    },
+    {
+      "name": "Wasseropfer",
+      "rarity": "4"
+    },
+    {
+      "name": "Verbeugung des Gladiators",
+      "rarity": "4"
+    },
+    {
+      "name": "Wanderorchester",
+      "rarity": "4"
+    },
+    {
+      "name": "Verbeugung des Gladiators",
+      "rarity": "5"
+    },
+    {
+      "name": "Wanderorchester",
+      "rarity": "5"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Drake_Primo_Rock"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 2187.509794542566,
+      "attack": 101.5109267769958,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 8598.121607497742,
+      "attack": 271.2111127290973,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 26556.00003847154,
+      "attack": 668.9998862421999,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 44184.00979883387,
+      "attack": 1092.7064293284639,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 80845.48390447162,
+      "attack": 1633.6555819225032,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 149894.52767774463,
+      "attack": 2519.3090551147907,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 251437.64439336956,
+      "attack": 3547.6976112007105,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 391559.1791216936,
+      "attack": 4897.428879438376,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 556971.8262150697,
+      "attack": 6301.060288636945,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 730622.6003226824,
+      "attack": 7612.5492533508805,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 1102953.6462029815,
+      "attack": 9848.835709898849,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 1605069.4116508216,
+      "attack": 10044.388875611767,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 2159589.501701519,
+      "attack": 10241.311191761051,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

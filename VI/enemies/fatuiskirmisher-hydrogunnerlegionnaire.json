@@ -1,0 +1,113 @@
+{
+  "name": "Đội tiên phong Fatui - Vệ Binh Thủy Hạng Nặng",
+  "specialname": "Fatui - Decord",
+  "enemytype": "COMMON",
+  "category": "Fatui",
+  "description": "Binh sĩ trong cỗ máy chiến tranh của Fatui.\nMang theo trang bị có thể điều khiển sức mạnh nguyên tố hạn chế, có thể lợi dụng vũ khí hình dạng khẩu súng để bắn ra dòng nước cực mạnh.\nCái tên \"Đội tiên phong\" có nghĩa là không màng sống chết, xâm nhập vào những vùng đất lạ để hoàn thành nhiệm vụ tiền kỳ, làm nền tảng cho những hành động sau này.",
+  "investigation": {
+    "name": "Fatui - Quân tiên phong",
+    "category": "Thường",
+    "description": "Binh sĩ trong cỗ máy chiến tranh của Fatui.\\nCái tên \"Đội tiên phong\" có nghĩa là không màng sống chết, xâm nhập vào những vùng đất lạ để hoàn thành nhiệm vụ tiền kỳ, làm nền tảng cho những hành động sau này.\\nKhác với người xử lý nợ và thuật sĩ Cicin ưu tú, thực lực và trang bị của đội tiên phong có phần yếu kém.\\nĐể hoàn thành nhiệm vụ và giảm với tổn thất về vật tư cũng như con người, chiến thuật của đội tiên phong chú trọng đến sự hợp tác chiến đấu."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Phù Hiệu Tân Binh",
+      "count": 4.202
+    },
+    {
+      "name": "Phù Hiệu Sĩ Quan",
+      "count": 1.1205
+    },
+    {
+      "name": "Phù Hiệu Hiệu Úy",
+      "count": 0.28
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Water_01"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 218.7509794542566,
+      "attack": 50.7554633884979,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 859.8121607497742,
+      "attack": 135.60555636454865,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 2655.600003847154,
+      "attack": 334.49994312109993,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 4418.400979883387,
+      "attack": 546.3532146642319,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 8084.548390447162,
+      "attack": 816.8277909612516,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 14989.452767774463,
+      "attack": 1259.6545275573953,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 25143.764439336956,
+      "attack": 1773.8488056003553,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 39155.91791216936,
+      "attack": 2448.714439719188,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 55697.182621506974,
+      "attack": 3150.5301443184726,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 73062.26003226824,
+      "attack": 3806.2746266754402,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 110295.36462029815,
+      "attack": 4924.4178549494245,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 160506.94116508216,
+      "attack": 5022.194437805883,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 215958.9501701519,
+      "attack": 5120.655595880526,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

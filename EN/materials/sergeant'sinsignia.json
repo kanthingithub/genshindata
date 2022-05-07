@@ -1,0 +1,24 @@
+{
+  "name": "Sergeant's Insignia",
+  "description": "An insignia with a different shape to distinguish the sergeants from new recruits. Perhaps there are complicated emotions behind it.",
+  "sortorder": 1751,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Crafted",
+    "Dropped by Lv. 40+ Fatui Skirmishers",
+    "Dropped uncommonly by Lv. 40+ Fatui Agents",
+    "Dropped uncommonly by Lv. 40+ Fatui Cicin Mages",
+    "Stardust Exchange"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sergeant's_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Sergeant%27s_Insignia.png",
+    "nameicon": "UI_ItemIcon_112033"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sergeant's_Insignia"
+  },
+  "version": ""
+}

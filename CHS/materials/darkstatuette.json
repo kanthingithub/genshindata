@@ -1,0 +1,21 @@
+{
+  "name": "夤夜刻像",
+  "description": "刻画着某人形象的独目偶像。\n握在手中时似乎能感受到其中散发的丝丝暖意，就像挚友的臂膀那般。或许能给予明白雕像背后个中含义的人持续前进的勇气吧。",
+  "sortorder": 1778,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培养素材",
+  "source": [
+    "合成获得",
+    "40级以上黑蛇众掉落",
+    "星尘兑换"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dark_Statuette.png",
+    "nameicon": "UI_ItemIcon_112018"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dark_Statuette"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Капуста",
+  "description": "Многослойный листовой овощ. Говорят, что изначально капуста была декоративным растением. Сейчас она в основном украшает только котелки с едой.",
+  "sortorder": 1984,
+  "category": "EXCHANGE",
+  "materialtype": "Кухонный ингредиент",
+  "source": [
+    "Дикая природа",
+    "Торговые лавки"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cabbage.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Item_Cabbage.png",
+    "nameicon": "UI_ItemIcon_100018"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cabbage"
+  },
+  "version": ""
+}

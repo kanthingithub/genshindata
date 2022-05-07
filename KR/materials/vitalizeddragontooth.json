@@ -1,0 +1,17 @@
+{
+  "name": "생명력을 흡수한 용의 이빨",
+  "description": "생명력을 흡수한 용의 이빨. 불쾌한 광택에 불쾌한 질감이다…",
+  "sortorder": 419,
+  "category": "EXCHANGE",
+  "materialtype": "소재",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vitalized_Dragontooth.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8c/Item_Vitalized_Dragontooth.png",
+    "nameicon": "UI_ItemIcon_100619"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Vitalized_Dragontooth"
+  },
+  "version": ""
+}

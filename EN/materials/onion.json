@@ -1,0 +1,19 @@
+{
+  "name": "Onion",
+  "description": "A spherical vegetable. As vengeance for cutting it, it will make you cry, no matter how brave you are.",
+  "sortorder": 1996,
+  "category": "EXCHANGE",
+  "materialtype": "Cooking Ingredient",
+  "source": [
+    "Sold at general goods shops"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Onion.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Item_Onion.png",
+    "nameicon": "UI_ItemIcon_100076"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Onion"
+  },
+  "version": ""
+}

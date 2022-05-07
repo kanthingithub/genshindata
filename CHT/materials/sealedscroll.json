@@ -1,0 +1,22 @@
+{
+  "name": "封魔繪卷",
+  "description": "模糊地繪製了難解形象的古書斷章。透過模仿其中的人物形象，一些魔物能小小地再現魔法的奇蹟。",
+  "sortorder": 1730,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培養素材",
+  "source": [
+    "合成獲得",
+    "40級以上丘丘薩滿掉落",
+    "星塵兌換"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sealed_Scroll.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Sealed_Scroll.png",
+    "nameicon": "UI_ItemIcon_112009"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sealed_Scroll"
+  },
+  "version": ""
+}

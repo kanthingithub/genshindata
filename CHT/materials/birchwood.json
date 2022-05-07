@@ -1,0 +1,21 @@
+{
+  "name": "樺木",
+  "description": "產自「樺樹」的木材，易於加工，切面光滑，用這種木材製作的家具器物大多美觀而耐用。\n可用於製作擺設。",
+  "sortorder": 1953,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "素材",
+  "source": [
+    "野外採集",
+    "推薦：蒼風高地砍伐"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Birch_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Item_Birch_Wood.png",
+    "nameicon": "UI_ItemIcon_101301"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Birch_Wood"
+  },
+  "version": ""
+}

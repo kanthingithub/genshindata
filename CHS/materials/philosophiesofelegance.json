@@ -1,0 +1,26 @@
+{
+  "name": "「风雅」的哲学",
+  "description": "天赋培养素材。\n雷之国土的姿容是风雅。\n风雅是不庸俗。风雅之人永远是独行的。不屈于平庸之恶，不感动于平庸之爱，不逃避于平庸的无知，才可能明辨何为雅致与鄙陋。",
+  "sortorder": 1874,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "天赋培养素材",
+  "dropdomain": "精通秘境：初雷幽谷",
+  "daysofweek": [
+    "周二",
+    "周五",
+    "周日"
+  ],
+  "source": [
+    "合成获得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Elegance.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Item_Philosophies_of_Elegance.png",
+    "nameicon": "UI_ItemIcon_104325"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Elegance"
+  },
+  "version": ""
+}

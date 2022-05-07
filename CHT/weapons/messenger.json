@@ -1,0 +1,307 @@
+{
+  "name": "信使",
+  "description": "造型簡單的木製弓。傳說它曾被人用做遠程通訊的道具。",
+  "weapontype": "弓",
+  "rarity": "3",
+  "baseatk": 40,
+  "substat": "暴擊傷害",
+  "subvalue": "6.8",
+  "effectname": "飛矢傳書",
+  "effect": [
+    "重擊若命中要害，則額外造成[100%]攻擊力的傷害，該傷害必定暴擊。此效果每10秒只能觸發一次。",
+    "重擊若命中要害，則額外造成[125%]攻擊力的傷害，該傷害必定暴擊。此效果每10秒只能觸發一次。",
+    "重擊若命中要害，則額外造成[150%]攻擊力的傷害，該傷害必定暴擊。此效果每10秒只能觸發一次。",
+    "重擊若命中要害，則額外造成[175%]攻擊力的傷害，該傷害必定暴擊。此效果每10秒只能觸發一次。",
+    "重擊若命中要害，則額外造成[200%]攻擊力的傷害，該傷害必定暴擊。此效果每10秒只能觸發一次。"
+  ],
+  "r1": [
+    "100%"
+  ],
+  "r2": [
+    "125%"
+  ],
+  "r3": [
+    "150%"
+  ],
+  "r4": [
+    "175%"
+  ],
+  "r5": [
+    "200%"
+  ],
+  "weaponmaterialtype": "Mist Veiled Elixir",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "摩拉",
+        "count": 5000
+      },
+      {
+        "name": "霧海雲間的鉛丹",
+        "count": 2
+      },
+      {
+        "name": "霧虛花粉",
+        "count": 2
+      },
+      {
+        "name": "尋寶鴉印",
+        "count": 1
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "摩拉",
+        "count": 10000
+      },
+      {
+        "name": "霧海雲間的汞丹",
+        "count": 2
+      },
+      {
+        "name": "霧虛花粉",
+        "count": 8
+      },
+      {
+        "name": "尋寶鴉印",
+        "count": 5
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "摩拉",
+        "count": 15000
+      },
+      {
+        "name": "霧海雲間的汞丹",
+        "count": 4
+      },
+      {
+        "name": "霧虛草囊",
+        "count": 4
+      },
+      {
+        "name": "藏銀鴉印",
+        "count": 4
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "摩拉",
+        "count": 20000
+      },
+      {
+        "name": "霧海雲間的金丹",
+        "count": 2
+      },
+      {
+        "name": "霧虛草囊",
+        "count": 8
+      },
+      {
+        "name": "藏銀鴉印",
+        "count": 6
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "摩拉",
+        "count": 25000
+      },
+      {
+        "name": "霧海雲間的金丹",
+        "count": 4
+      },
+      {
+        "name": "霧虛燈芯",
+        "count": 6
+      },
+      {
+        "name": "攫金鴉印",
+        "count": 4
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "摩拉",
+        "count": 30000
+      },
+      {
+        "name": "霧海雲間的轉還",
+        "count": 3
+      },
+      {
+        "name": "霧虛燈芯",
+        "count": 12
+      },
+      {
+        "name": "攫金鴉印",
+        "count": 8
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/38/Weapon_Messenger.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Msg.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Msg_Awaken.png",
+    "nameicon": "UI_EquipIcon_Bow_Msg",
+    "namegacha": "UI_Gacha_EquipIcon_Bow_Msg",
+    "nameawakenicon": "UI_EquipIcon_Bow_Msg_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Messenger"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 39.875099182128906,
+      "specialized": 0.06800000369548798
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 52.8345083177137,
+      "specialized": 0.07901600027346589
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 69.14342068886435,
+      "specialized": 0.09268400743639482
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 85.53208698510934,
+      "specialized": 0.1064200096744301
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 101.96062549041926,
+      "specialized": 0.12015600380623326
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 121.46062549041926,
+      "specialized": 0.12015600380623326
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 137.88917350269367,
+      "specialized": 0.13389200604426854
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 154.3575842170685,
+      "specialized": 0.14762800828230382
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 170.78612272237842,
+      "specialized": 0.16136400241410698
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 187.21466122768834,
+      "specialized": 0.1751000127583744
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 206.61466275356725,
+      "specialized": 0.1751000127583744
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 223.04321076584165,
+      "specialized": 0.18883600689017754
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 239.47175877811605,
+      "specialized": 0.20257201723444496
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 258.97175877811605,
+      "specialized": 0.20257201723444496
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 275.36041556739656,
+      "specialized": 0.2163080113662481
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 291.74909137060604,
+      "specialized": 0.23004400549805126
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 311.14909289648494,
+      "specialized": 0.23004400549805126
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 327.4978774767005,
+      "specialized": 0.24378001584231868
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 343.886534265981,
+      "specialized": 0.2574480148990155
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 363.386534265981,
+      "specialized": 0.2574480148990155
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 379.7353378601256,
+      "specialized": 0.27118400903081863
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 396.08412244034116,
+      "specialized": 0.28492001937508604
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 415.48411633682554,
+      "specialized": 0.28492001937508604
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 431.87277312610604,
+      "specialized": 0.29865602971935346
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 448.2215767202506,
+      "specialized": 0.31239200763869235
+    }
+  },
+  "version": "1.0"
+}

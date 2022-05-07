@@ -1,0 +1,21 @@
+{
+  "name": "鬼兜虫",
+  "description": "栖息在雷元素富集区域的奇异甲虫。与甲壳上宛如怒目而视的恶鬼之相相反，鬼兜虫其实非常温顺迟钝。",
+  "sortorder": 2060,
+  "category": "EXCHANGE",
+  "materialtype": "稻妻区域特产",
+  "source": [
+    "野外采集",
+    "推荐：鸣神岛采集",
+    "推荐：踏鞴砂采集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Onikabuto.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Onikabuto.png",
+    "nameicon": "UI_ItemIcon_101201"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Onikabuto"
+  },
+  "version": ""
+}

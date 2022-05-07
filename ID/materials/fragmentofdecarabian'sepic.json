@@ -1,0 +1,26 @@
+{
+  "name": "Fragment of Decarabian's Epic",
+  "description": "Material Ascension Senjata.\nAndrius pernah menyatakan perang melawan Decarabian, tapi gagal untuk merusak kotanya sedikitpun. Jika bukan karena suara kebebasan yang menghancurkan kotanya dalam sekejap, mungkin mimpi Decarabian akan berlangsung selamanya.",
+  "sortorder": 2185,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Ascension Senjata",
+  "dropdomain": "Domain of Forgery: Kota Bayangan Air",
+  "daysofweek": [
+    "Senin",
+    "Kamis",
+    "Minggu"
+  ],
+  "source": [
+    "Didapatkan melalui Craft"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragment_of_Decarabian's_Epic.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Fragment_of_Decarabian%27s_Epic.png",
+    "nameicon": "UI_ItemIcon_114003"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fragment_of_Decarabian's_Epic"
+  },
+  "version": ""
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Chaos-Getriebe",
+  "description": "Ein Relikt aus uralten Ruinen, das einmal dazu diente, ein Gerät mit Energie zu versorgen. Wenn man diese Technik verstehen und nachbauen könnte, wäre die Welt womöglich eine vollkommen andere.",
+  "sortorder": 1743,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Kann hergestellt werden",
+    "Beute von Ruinenwächtern ab Stufe 60",
+    "Beute von Ruinenjägern ab Stufe 60"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Core.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Chaos_Core.png",
+    "nameicon": "UI_ItemIcon_112025"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chaos_Core"
+  },
+  "version": ""
+}

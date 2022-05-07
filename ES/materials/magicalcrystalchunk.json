@@ -1,0 +1,19 @@
+{
+  "name": "Pedazo de cristal mágico",
+  "description": "Estos trozos de cristal pueden ser refinados y convertidos en Materiales de EXP de Arma utilizando Resina original.\nLos cristales de las minas que fueron erosionados por la energía de las líneas ley no pueden ser procesados por medios ordinarios.",
+  "sortorder": 1957,
+  "category": "EXCHANGE",
+  "materialtype": "Mineral de forja",
+  "source": [
+    "Recolectar en la naturaleza"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Magical_Crystal_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Item_Magical_Crystal_Chunk.png",
+    "nameicon": "UI_ItemIcon_101004"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Magical_Crystal_Chunk"
+  },
+  "version": ""
+}

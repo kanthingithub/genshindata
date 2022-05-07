@@ -1,0 +1,21 @@
+{
+  "name": "Vayuda Turquoise Gemstone",
+  "description": "Character Ascension material.\n\"Still, the winds change direction.\n\"Someday, they will blow towards a brighter future...\n\"Take my blessings and live leisurely from this day onward.\"",
+  "sortorder": 1841,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Dropped by Lv. 75+ Anemo Hypostases",
+    "Crafted"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vayuda_Turquoise_Gemstone.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Vayuda_Turquoise_Gemstone.png",
+    "nameicon": "UI_ItemIcon_104154"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Vayuda_Turquoise_Gemstone"
+  },
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Nấm Rơm",
+  "description": "Loại nấm thường thấy, chỉ cần đủ nước và bóng mát thì có thể sinh trưởng mạnh mẽ.",
+  "sortorder": 1977,
+  "category": "EXCHANGE",
+  "materialtype": "Nguyên Liệu Thực Phẩm",
+  "source": [
+    "Thu Thập Bên Ngoài"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mushroom.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Item_Mushroom.png",
+    "nameicon": "UI_ItemIcon_100011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mushroom"
+  },
+  "version": ""
+}

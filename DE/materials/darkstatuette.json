@@ -1,0 +1,21 @@
+{
+  "name": "Figur der Nacht",
+  "description": "Eine kleine Statue, die nach dem Abbild einer unbekannten, einäugigen Person angefertigt wurde.\nWenn du sie festhältst, spürst du eine seltsame Wärme in dir aufsteigen, wie die Schulter eines lieben Freundes. Vielleicht kann diese Ikone tatsächlich Menschen, die ihre Bedeutung verstehen, den Mut geben, weiterzumachen.",
+  "sortorder": 1778,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Kann hergestellt werden",
+    "Beute von Schwarzen Schlangen ab Stufe 40",
+    "Mit Sternenstaub kaufen"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dark_Statuette.png",
+    "nameicon": "UI_ItemIcon_112018"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dark_Statuette"
+  },
+  "version": ""
+}

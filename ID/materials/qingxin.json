@@ -1,0 +1,21 @@
+{
+  "name": "Qingxin",
+  "description": "Bunga putih transparan yang hanya tumbuh di dataran batu tertinggi. Bunganya menolak kehangatan dan kelembapan dataran rendah untuk menatap kejauhan di puncak gunung sendirian.",
+  "sortorder": 2052,
+  "category": "EXCHANGE",
+  "materialtype": "Produk khas Liyue",
+  "source": [
+    "Ditemukan di puncak hutan batu",
+    "Rekomendasi: Ditemukan di Jueyun Karst",
+    "Rekomendasi: Ditemukan di Guyun Stone Forest"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Qingxin.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Item_Qingxin.png",
+    "nameicon": "UI_ItemIcon_100031"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Qingxin"
+  },
+  "version": ""
+}

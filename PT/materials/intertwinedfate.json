@@ -1,0 +1,18 @@
+{
+  "name": "Destino Entrelaçado",
+  "description": "Uma pedra do destino que conecta sonhos.\nO seu brilho pode entrelaçar e conectar sonhos, assim como seu brilho pode conectar as estrelas em formatos de desejos de um coração.",
+  "sortorder": 498,
+  "rarity": "5",
+  "category": "CONSUME",
+  "materialtype": "Item de Oração limitada",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_223",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Intertwined_Fate.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Item_Intertwined_Fate.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Intertwined_Fate"
+  },
+  "version": ""
+}

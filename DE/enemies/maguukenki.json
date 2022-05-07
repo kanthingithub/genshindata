@@ -1,0 +1,172 @@
+{
+  "name": "Maguu Kenki",
+  "specialname": "Geniale Maschine – Marionetten-Schwertmeister",
+  "enemytype": "BOSS",
+  "category": "Automata",
+  "description": "Selbstregulierte humanoide Vorrichtung mit einem Schwert.\nNormalerweise scheint diese Vorrichtung keine Fähigkeit oder Bereitschaft zum Sprechen zu haben. Sie ist nur bereit, mit ihrem Schwert zu sprechen.\nEs wird gesagt, dass für die Herstellung der Maschine eine gewisse Schwertkunst verwendet wurde. Aus unbekannten Gründen verlor man aber die Kontrolle über die Maschine und so wurde sie deaktiviert.\nEs gibt Lieder, in denen über den Verbleib des Geistes des Schwertes gesungen wird und das grimmige Gesicht, das über dieses wacht, scheint von einem berühmten Oni jener Zeit zu sein.",
+  "investigation": {
+    "name": "Maguu Kenki",
+    "category": "Anführer",
+    "description": "Selbstregulierte humanoide Vorrichtung mit einem Schwert.\\nEs wird gesagt, dass für die Herstellung der Maschine eine gewisse Schwertkunst verwendet wurde, die für ihre geheime Technik Tengu-Säuberung bekannt ist. Aus unbekannten Gründen verlor man aber die Kontrolle über die Maschine und so wurde sie deaktiviert.\\nEs gibt Lieder, in denen über den Geist des Schwertes gesungen wird und wie er an einem Ort umherirrt, an dem das Schicksal durchtrennt wurde."
+  },
+  "rewardpreview": [
+    {
+      "name": "Abenteuer-EP",
+      "count": 200
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Freundschafts-EP"
+    },
+    {
+      "name": "Vayuda-Türkis-Splitter"
+    },
+    {
+      "name": "Vayuda-Türkis-Bruchstück"
+    },
+    {
+      "name": "Vayuda-Türkis-Brocken"
+    },
+    {
+      "name": "Vayuda-Türkis"
+    },
+    {
+      "name": "Shivada-Jade-Splitter"
+    },
+    {
+      "name": "Shivada-Jade-Bruchstück"
+    },
+    {
+      "name": "Shivada-Jade-Brocken"
+    },
+    {
+      "name": "Shivada-Jade"
+    },
+    {
+      "name": "Marionettenkern",
+      "count": 2.5556
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Ausbilder",
+      "rarity": "3"
+    },
+    {
+      "name": "Glückspilz",
+      "rarity": "3"
+    },
+    {
+      "name": "Verbeugung des Gladiators",
+      "rarity": "4"
+    },
+    {
+      "name": "Wanderorchester",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Ausbilder",
+      "rarity": "4"
+    },
+    {
+      "name": "Verbeugung des Gladiators",
+      "rarity": "5"
+    },
+    {
+      "name": "Wanderorchester",
+      "rarity": "5"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Samurai_Ningyo"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 1458.3398630283773,
+      "attack": 203.0218535539916,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 5732.081071665161,
+      "attack": 542.4222254581946,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 17704.000025647692,
+      "attack": 1337.9997724843997,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 29456.00653255591,
+      "attack": 2185.4128586569277,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 53896.98926964775,
+      "attack": 3267.3111638450064,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 99929.68511849642,
+      "attack": 5038.618110229581,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 167625.09626224637,
+      "attack": 7095.395222401421,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 261039.45274779573,
+      "attack": 9794.857758876751,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 371314.5508100465,
+      "attack": 12602.12057727389,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 487081.73354845494,
+      "attack": 15225.098506701761,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 735302.4308019876,
+      "attack": 19697.671419797698,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 1070046.274433881,
+      "attack": 20088.777751223533,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 1439726.3344676793,
+      "attack": 20482.622383522103,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

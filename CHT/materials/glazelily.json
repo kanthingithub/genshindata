@@ -1,0 +1,21 @@
+{
+  "name": "琉璃百合",
+  "description": "極為古老的花卉。據說曾經遍佈璃月大地，能將大地的記憶積累成花期時的芬芳。",
+  "sortorder": 2051,
+  "category": "EXCHANGE",
+  "materialtype": "璃月區域特產",
+  "source": [
+    "野外採集",
+    "推薦：璃月港玉京臺採集",
+    "推薦：輕策莊採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Glaze_Lily.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Item_Glaze_Lily.png",
+    "nameicon": "UI_ItemIcon_100030"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Glaze_Lily"
+  },
+  "version": ""
+}

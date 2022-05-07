@@ -1,0 +1,21 @@
+{
+  "name": "Элементальный нектар",
+  "description": "Густой липкий мёд, наполненный энергией.\nПопрыгунья обманывает свою жертву и съедает её для того, чтобы эволюционировать в более сильную и чистую форму жизни.",
+  "sortorder": 1758,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Алхимия",
+    "Попрыгуньи Ур. 60+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Energy_Nectar.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Energy_Nectar.png",
+    "nameicon": "UI_ItemIcon_112040"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Energy_Nectar"
+  },
+  "version": ""
+}

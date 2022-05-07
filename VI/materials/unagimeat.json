@@ -1,0 +1,20 @@
+{
+  "name": "Thịt Lươn",
+  "description": "Thịt lươn tươi ngon, qua chế biến sẽ tạo thành món ngon tuyệt vời.",
+  "sortorder": 2010,
+  "category": "EXCHANGE",
+  "materialtype": "Nguyên Liệu Thực Phẩm",
+  "source": [
+    "Thu Thập Bên Ngoài",
+    "Đề xuất: Thu thập ở Đảo Watatsumi"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Unagi_Meat.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0c/Item_Unagi_Meat.png",
+    "nameicon": "UI_ItemIcon_100095"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Unagi_Meat"
+  },
+  "version": ""
+}

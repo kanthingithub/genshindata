@@ -1,0 +1,26 @@
+{
+  "name": "Fragment d'aérosidérite noire",
+  "description": "Matériau d'élévation d'arme.\n« Outre-mer » est le surnom des terres inconnues qui s'étendent au-delà de la côte de Teyvat. Jadis, de nombreuses anciennes divinités refusèrent de vivre sous l'ordre des Sept Archons et se réfugièrent dans des régions lointaines et devinrent maléfiques. Bien que l'histoire en soit ainsi, la source de leurs pouvoirs était la même que celle du Souverain de la Roche.",
+  "sortorder": 2205,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'élévation d'arme",
+  "dropdomain": "Donjon d'entraînement : Terrain d'ancien tonnerre",
+  "daysofweek": [
+    "Mercredi",
+    "Samedi",
+    "Dimanche"
+  ],
+  "source": [
+    "Synthèse"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bit_of_Aerosiderite.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Bit_of_Aerosiderite.png",
+    "nameicon": "UI_ItemIcon_114023"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bit_of_Aerosiderite"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Кристальная рыба",
+  "description": "Редкая оризия, сверкающая, словно кристалл, со сложным узором на теле. Её можно назвать самой красивой оризией. \nТорговцы утверждают, будто эта рыба, попадая в экстремальные условия, рождает хрустальные жемчужины, которые невероятно ценны. Поэтому эта оризия популярна у всех слоёв общества, что обуславливает её высокую стоимость. Однако это очень смешит знающих рыбаков, ведь «хрустальные жемчужины» на самом деле случайно проглоченные рыбкой жемчужины аксолотля. За что же тогда платить такую цену?",
+  "sortorder": 2019,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Рыба",
+  "source": [
+    "Рыбалка"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crystalfish.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Crystalfish.png",
+    "nameicon": "UI_ItemIcon_131005"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Crystalfish"
+  },
+  "version": ""
+}

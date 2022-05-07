@@ -1,0 +1,17 @@
+{
+  "name": "เขี้ยวมังกรที่ดูดซับพลังชีวิต",
+  "description": "เขี้ยวมังกรที่ดูดซับพลังชีวิตแล้ว จะมีความเงาหรือเนื้อสัมผัสที่จะทำให้รู้สึกไม่ค่อยปลอดภัย...",
+  "sortorder": 419,
+  "category": "EXCHANGE",
+  "materialtype": "วัสดุ",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vitalized_Dragontooth.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8c/Item_Vitalized_Dragontooth.png",
+    "nameicon": "UI_ItemIcon_100619"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Vitalized_Dragontooth"
+  },
+  "version": ""
+}

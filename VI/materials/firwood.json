@@ -1,0 +1,22 @@
+{
+  "name": "Gỗ Sam",
+  "description": "Gỗ Linh Sam, chất gỗ và kết cấu bền chặt, được dùng rộng rãi trong nhiều lĩnh vực.\nCó thể dùng để chế tạo đồ trang trí.",
+  "sortorder": 1942,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Nguyên Liệu",
+  "source": [
+    "Thu Thập Bên Ngoài",
+    "Kiến nghị: Đốn ở Vực Sao Rơi",
+    "Kiến nghị: Đốn ở Đồi Phong Tiêu"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fir_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Item_Fir_Wood.png",
+    "nameicon": "UI_ItemIcon_101308"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fir_Wood"
+  },
+  "version": ""
+}

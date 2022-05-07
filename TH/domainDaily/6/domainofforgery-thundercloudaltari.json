@@ -1,0 +1,172 @@
+{
+  "name": "ดันเจี้ยนแห่งการต่อสู้: แท่นบูชาสายฟ้า",
+  "region": "Liyue",
+  "domainEntrance": "ราชวังลับแห่ง Lianshan Formula",
+  "domainType": "วัสดุเลื่อนขั้นอาวุธ",
+  "description": "ที่แท่นบูชายัญที่มีสายฟ้าเกิดขึ้นตลอดเวลานี้มีพลังของธาตุไฟฟ้าอันมากมายมหาศาลอัดแน่นอยู่\nไฟฟ้าที่ปกคลุมไปทั่วทั้งพื้นที่นั้นจะปล่อยสายฟ้าลงมาเป็นระยะ ๆ\nหากว่าสามารถผ่านการทดสอบได้ล่ะก็ บางทีอาจจะได้รับวัตถุเสริมความแข็งแกร่งให้อุปกรณ์ก็เป็นได้",
+  "daysOfWeek": [
+    "วันจันทร์",
+    "วันพฤหัสบดี",
+    "วันอาทิตย์"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Thunder"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "ดันเจี้ยนแห่งการต่อสู้: แท่นบูชาสายฟ้า I",
+      "recommendedLevel": 15,
+      "recommendedElements": [
+        "ไฟ",
+        "น้ำแข็ง"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1125
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 10
+        },
+        {
+          "name": "Luminous Sands from Guyun"
+        }
+      ],
+      "disorder": [
+        "ตัวละครของคุณจะถูกโจมตีด้วย \"Engulfing Storm\" เป็นช่วง ๆ : ทำให้ถูกดูดพลังงานธาตุต่อเนื่อง จนกว่าจะกำจัดธาตุไฟฟ้าที่ติดอยู่กับตัวละครได้"
+      ],
+      "monsterlist": [
+        "Electro Slime",
+        "Large Electro Slime",
+        "Mutant Electro Slime"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งการต่อสู้: แท่นบูชาสายฟ้า II",
+      "recommendedLevel": 36,
+      "recommendedElements": [
+        "ไฟ",
+        "น้ำแข็ง"
+      ],
+      "unlockRank": 21,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1550
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Luminous Sands from Guyun"
+        },
+        {
+          "name": "Lustrous Stone from Guyun"
+        }
+      ],
+      "disorder": [
+        "ตัวละครของคุณจะถูกโจมตีด้วย \"Engulfing Storm\" เป็นช่วง ๆ : ทำให้ถูกดูดพลังงานธาตุต่อเนื่อง จนกว่าจะกำจัดธาตุไฟฟ้าที่ติดอยู่กับตัวละครได้"
+      ],
+      "monsterlist": [
+        "Electro Slime",
+        "Large Electro Slime",
+        "Mutant Electro Slime"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งการต่อสู้: แท่นบูชาสายฟ้า III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "ไฟ",
+        "น้ำแข็ง"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Luminous Sands from Guyun"
+        },
+        {
+          "name": "Lustrous Stone from Guyun"
+        },
+        {
+          "name": "Relic from Guyun"
+        }
+      ],
+      "disorder": [
+        "ตัวละครของคุณจะถูกโจมตีด้วย \"Engulfing Storm\" เป็นช่วง ๆ : ทำให้ถูกดูดพลังงานธาตุต่อเนื่อง จนกว่าจะกำจัดธาตุไฟฟ้าที่ติดอยู่กับตัวละครได้ จะมีสายฟ้าสุ่มฟาดลงมาในพื้นที่เพื่อสร้างความเสียหายไฟฟ้า และใช้พลังงานธาตุทั้งหมดของตัวละคร สายฟ้าจะทำให้เกิดลูกบอลสายฟ้า"
+      ],
+      "monsterlist": [
+        "Large Electro Slime",
+        "Mutant Electro Slime",
+        "Fatui - Electro Cicin Mage"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งการต่อสู้: แท่นบูชาสายฟ้า IV",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "ไฟ",
+        "น้ำแข็ง"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Luminous Sands from Guyun"
+        },
+        {
+          "name": "Lustrous Stone from Guyun"
+        },
+        {
+          "name": "Relic from Guyun"
+        },
+        {
+          "name": "Divine Body from Guyun"
+        }
+      ],
+      "disorder": [
+        "ตัวละครของคุณจะถูกโจมตีด้วย \"Engulfing Storm\" เป็นช่วง ๆ : ทำให้ถูกดูดพลังงานธาตุต่อเนื่อง จนกว่าจะกำจัดธาตุไฟฟ้าที่ติดอยู่กับตัวละครได้ จะมีสายฟ้าสุ่มฟาดลงมาในพื้นที่เพื่อสร้างความเสียหายไฟฟ้า และใช้พลังงานธาตุทั้งหมดของตัวละคร สายฟ้าจะทำให้เกิดลูกบอลสายฟ้า"
+      ],
+      "monsterlist": [
+        "Large Electro Slime",
+        "Mutant Electro Slime",
+        "Fatui - Electro Cicin Mage"
+      ]
+    }
+  ]
+}

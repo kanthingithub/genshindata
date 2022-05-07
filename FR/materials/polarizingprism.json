@@ -1,0 +1,21 @@
+{
+  "name": "Prisme polarisant",
+  "description": "Un prisme qui peut dévier la lumière.\nDans l'obscurité, de tels prismes peuvent diffuser une faible lumière sur une zone plus large. Peut-être est-ce dû à cette caractéristique que ce genre de prismes peut apporter une certaine quiétude à ceux dont le cœur est souvent enveloppé de ténèbres.",
+  "sortorder": 1770,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Synthèse",
+    "Butin de Suivante des Fatui (Niv.60+)"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Polarizing_Prism.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Item_Polarizing_Prism.png",
+    "nameicon": "UI_ItemIcon_112052"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Polarizing_Prism"
+  },
+  "version": ""
+}

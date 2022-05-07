@@ -1,0 +1,19 @@
+{
+  "name": "Calavanda",
+  "description": "Esta fruta de piel colorida y brillante contiene una pulpa que, al ser cocinada, puede convertirse en un postre delicioso.",
+  "sortorder": 2013,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente culinario",
+  "source": [
+    "Recolectar en la naturaleza de Inazuma"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lavender_Melon.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Lavender_Melon.png",
+    "nameicon": "UI_ItemIcon_101211"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lavender_Melon"
+  },
+  "version": ""
+}

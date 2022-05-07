@@ -1,0 +1,2079 @@
+{
+  "name": "Aether",
+  "fullname": "Aether",
+  "title": "",
+  "description": "{F#Uma}{M#Um} Viajante de outro mundo que teve seu ente querido levado e foi forçad{F#a}{M#o} a embarcar em uma jornada em busca dos Sete.",
+  "rarity": "5",
+  "element": "Indisponível",
+  "weapontype": "Espada",
+  "substat": "ATQ",
+  "gender": "Masculino",
+  "body": "BOY",
+  "association": "MAINACTOR",
+  "region": "",
+  "affiliation": "",
+  "birthdaymmdd": "",
+  "birthday": "",
+  "constellation": "Viator",
+  "cv": {
+    "english": "Zach Aguilar & Corina Boettger",
+    "chinese": "鹿喑&多多poi",
+    "japanese": "堀江瞬&古賀葵",
+    "korean": "Lee Kyeong-tae & Kim Ka-ryoung"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Lasca de Diamante Brilhante",
+        "count": 1
+      },
+      {
+        "name": "Margaridas Voadoras",
+        "count": 3
+      },
+      {
+        "name": "Máscara Danificada",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de Diamante Brilhante",
+        "count": 3
+      },
+      {
+        "name": "Margaridas Voadoras",
+        "count": 10
+      },
+      {
+        "name": "Máscara Danificada",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de Diamante Brilhante",
+        "count": 6
+      },
+      {
+        "name": "Margaridas Voadoras",
+        "count": 20
+      },
+      {
+        "name": "Máscara Suja",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Pedaço de Diamante Brilhante",
+        "count": 3
+      },
+      {
+        "name": "Margaridas Voadoras",
+        "count": 30
+      },
+      {
+        "name": "Máscara Suja",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Pedaço de Diamante Brilhante",
+        "count": 6
+      },
+      {
+        "name": "Margaridas Voadoras",
+        "count": 45
+      },
+      {
+        "name": "Máscara Ominosa",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Gema de Diamante Brilhante",
+        "count": 6
+      },
+      {
+        "name": "Margaridas Voadoras",
+        "count": 60
+      },
+      {
+        "name": "Máscara Ominosa",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Character_Traveler_Thumb.png",
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Traveler_Male_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Character_Traveler_%28Male%29_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_PlayerBoy.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/762377aee992cb1dfd4e0e0a7911096d.png",
+    "nameicon": "UI_AvatarIcon_PlayerBoy",
+    "nameiconcard": "UI_AvatarIcon_PlayerBoy_Card",
+    "namesideicon": "UI_AvatarIcon_Side_PlayerBoy"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Aether"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 911.791015625,
+      "attack": 17.808000564575195,
+      "defense": 57.224998474121094,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2342.391124357935,
+      "attack": 45.74875355229187,
+      "defense": 147.01102140746116,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3023.54566537356,
+      "attack": 59.0525531815033,
+      "defense": 189.76102140746116,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4528.912435651757,
+      "attack": 88.45355827545154,
+      "defense": 284.23948155450853,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5012.890707136132,
+      "attack": 97.90625889038074,
+      "defense": 314.61448155450853,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5766.030280821957,
+      "attack": 112.61567116091919,
+      "defense": 361.8823425187111,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6411.334602111019,
+      "attack": 125.21927070925904,
+      "defense": 402.3823425187111,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7164.474175796844,
+      "attack": 139.9286829797975,
+      "defense": 449.65020348291364,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7648.452325210907,
+      "attack": 149.381384548401,
+      "defense": 480.02520348291364,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 8400.679739191197,
+      "attack": 164.07298161756898,
+      "defense": 527.2358163092613,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8884.658010675572,
+      "attack": 173.52567937147523,
+      "defense": 557.6108163092613,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9637.79714958556,
+      "attack": 188.2350831504973,
+      "defense": 604.8786499864582,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 10121.775421069935,
+      "attack": 197.68778471910082,
+      "defense": 635.2536499864582,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10874.91499475576,
+      "attack": 212.39719698963927,
+      "defense": 682.5215109506607,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellationTraveler": [
+    {
+      "c1": {
+        "name": "Vórtice da Fúria",
+        "effect": "A **Palma da Vórtice** puxa os inimigos e objetos dentro de um raio de 5 metros."
+      },
+      "c2": {
+        "name": "Turbilhão da Revolta",
+        "effect": "Aumenta a Recarga da Energia em 16%."
+      },
+      "c3": {
+        "name": "Rajada Arrebatadora",
+        "effect": "Aumenta o nível das **Ondas de Rajadas** em 3.\nO nível máximo de elevação é 15."
+      },
+      "c4": {
+        "name": "Brisa Protetora",
+        "effect": "Reduz o Dano recebido enquanto lança a **Vórtice da Palma** em 10%."
+      },
+      "c5": {
+        "name": "Vórtice Stellaris",
+        "effect": "Aumenta o nível da **Vórtice da Palma** em 3.\nO nível máximo de elevação é 15."
+      },
+      "c6": {
+        "name": "Ventos Entrelaçados",
+        "effect": "Os alvos que recebem Dano de **Ondas de Rajadas** possuem sua RES Anemo reduzido em 20%.\nSe ocorrer uma Absorção Elemental, então sua RES do Elemento correspondente também diminuirá 20%."
+      },
+      "images": {
+        "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_01.png",
+        "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_02.png",
+        "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerWind_02.png",
+        "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_03.png",
+        "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerWind_01.png",
+        "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_04.png",
+        "constellation": "Eff_UI_Talent_PlayerBoy_Wind",
+        "constellation2": "Eff_UI_Talent_PlayerGirl_Wind"
+      },
+      "version": "1.0"
+    },
+    {
+      "c1": {
+        "name": "Trovão Primaveril da Fertilidade",
+        "effect": "Aumenta o número de Amuletos da Abundância que podem ser gerados usando a **Lâmina Raikage** para 3."
+      },
+      "c2": {
+        "name": "Veemência Violeta",
+        "effect": "Após o Relâmpago Poderoso do **Rugido do Trovão** acertar em um inimigo, a RES Electro do inimigo é diminuída em 15% por 8s."
+      },
+      "c3": {
+        "name": "Trovoada Distante",
+        "effect": "Aumenta o nível do **Rugido do Trovão** em 3.\nO nível máximo de elevação é 15."
+      },
+      "c4": {
+        "name": "Relâmpago Repentino",
+        "effect": "Quando um personagem obtém Amuleto da Abundância gerado por **Lâmina Raikage**, se a Energia Elemental do personagem for inferior a 35%, a Energia Elemental recuperada por Amuleto da Abundância aumenta em 100%."
+      },
+      "c5": {
+        "name": "Clamor na Natureza",
+        "effect": "Aumenta o nível de habilidade da **Lâmina Raikage** em 3 níveis. \nO nível máximo de elevação é 15."
+      },
+      "c6": {
+        "name": "Agitador de Mundos",
+        "effect": "A cada 2 Relâmpagos Poderosos desencadeados pelo **Rugido do Trovão**, o Dano do próximo Relâmpago Poderoso será aumentado consideravelmente, fazendo com que cause 200% do seu Dano original, e restaurará 1 ponto de Energia Elemental adicional para o personagem atual."
+      },
+      "images": {
+        "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_01.png",
+        "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_02.png",
+        "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerElectric_01.png",
+        "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_03.png",
+        "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerElectric_02.png",
+        "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_04.png",
+        "constellation": "Eff_UI_Talent_PlayerBoy_Electric",
+        "constellation2": "Eff_UI_Talent_PlayerGirl_Electric"
+      },
+      "version": "2.0"
+    },
+    {
+      "c1": {
+        "name": "Parede de Pedra Inquebrável",
+        "effect": "Personagens de equipe dentro do raio do **Despertamento da Terra** possuem sua Taxa Crítica aumentada em 10% e possuem a resistência contra interrupção aumentada."
+      },
+      "c2": {
+        "name": "Pedra Derretida",
+        "effect": "Quando o meteorito criado pela **Espada da Estrela Cadente** é destruído, ela também explode, causando Dano Geo Adicional equivalente a quantidade de dano causada pela Espada da Estrela Cadente."
+      },
+      "c3": {
+        "name": "Desejo da Pedra",
+        "effect": "Aumenta o nível do **Despertar da Terra** em 3.\nO nível máximo de elevação é 15."
+      },
+      "c4": {
+        "name": "Força de Reação",
+        "effect": "A onda de choque do **Despertamento da Terra** recupera 5 de Energia até no máximo 25 de Energia a cada oponente atingido.\nUm máximo de 25 de Energia pode ser restaurada desta maneira."
+      },
+      "c5": {
+        "name": "Impacto de Meteorito",
+        "effect": "Aumenta o nível da **Espada da Estrela Cadente** em 3.\nO nível máximo de elevação é 15."
+      },
+      "c6": {
+        "name": "Pedregulho Eterno",
+        "effect": "Uma barreira criada pelo **Despertar da Terra** por 5 segundos extra.\nO meteorito criado pela **Espada da Estrela Cadente** se estende por 10s."
+      },
+      "images": {
+        "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_01.png",
+        "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_02.png",
+        "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerRock_02.png",
+        "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_03.png",
+        "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerRock_01.png",
+        "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_04.png",
+        "constellation": "Eff_UI_Talent_PlayerBoy_Rock",
+        "constellation2": "Eff_UI_Talent_PlayerGirl_Rock"
+      },
+      "version": "1.0"
+    }
+  ],
+  "talentTraveler": [
+    {
+      "name": "Viajante (Anemo)",
+      "combat1": {
+        "name": "Ataque Normal: Vento de Ferro Estrangeiro",
+        "info": "**Ataque Normal**\nRealiza até 5 golpes rápidos.\n\n**Ataque Carregado**\nConsome uma certa quantidade de Stamina para desferir 2 golpes rápidos com a espada.\n\n**Ataque Imersivo**\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+        "attributes": [
+          {
+            "name": "Dano do 1° Golpe",
+            "parameters": [
+              "44.46%",
+              "48.08%",
+              "51.70%",
+              "56.87%",
+              "60.49%",
+              "64.63%",
+              "70.31%",
+              "76.00%",
+              "81.69%",
+              "87.89%",
+              "94.09%",
+              "100.30%",
+              "106.50%",
+              "112.71%",
+              "118.91%"
+            ]
+          },
+          {
+            "name": "Dano do 2° Golpe",
+            "parameters": [
+              "43.43%",
+              "46.97%",
+              "50.50%",
+              "55.55%",
+              "59.08%",
+              "63.13%",
+              "68.68%",
+              "74.23%",
+              "79.79%",
+              "85.85%",
+              "91.91%",
+              "97.97%",
+              "104.03%",
+              "110.09%",
+              "116.15%"
+            ]
+          },
+          {
+            "name": "Dano do 3° Golpe",
+            "parameters": [
+              "52.98%",
+              "57.29%",
+              "61.60%",
+              "67.76%",
+              "72.07%",
+              "77.00%",
+              "83.78%",
+              "90.55%",
+              "97.33%",
+              "104.72%",
+              "112.11%",
+              "119.50%",
+              "126.90%",
+              "134.29%",
+              "141.68%"
+            ]
+          },
+          {
+            "name": "Dano do 4° Golpe",
+            "parameters": [
+              "58.31%",
+              "63.05%",
+              "67.80%",
+              "74.58%",
+              "79.33%",
+              "84.75%",
+              "92.21%",
+              "99.67%",
+              "107.12%",
+              "115.26%",
+              "123.40%",
+              "131.53%",
+              "139.67%",
+              "147.80%",
+              "155.94%"
+            ]
+          },
+          {
+            "name": "Dano do 5° Golpe",
+            "parameters": [
+              "70.78%",
+              "76.54%",
+              "82.30%",
+              "90.53%",
+              "96.29%",
+              "102.87%",
+              "111.93%",
+              "120.98%",
+              "130.03%",
+              "139.91%",
+              "149.79%",
+              "159.66%",
+              "169.54%",
+              "179.41%",
+              "189.29%"
+            ]
+          },
+          {
+            "name": "Dano de Ataque Carregado",
+            "parameters": [
+              "55.90%+72.24%",
+              "60.45%+78.12%",
+              "65.00%+84.00%",
+              "71.50%+92.40%",
+              "76.05%+98.28%",
+              "81.25%+105.00%",
+              "88.40%+114.24%",
+              "95.55%+123.48%",
+              "102.70%+132.72%",
+              "110.50%+142.80%",
+              "118.30%+152.88%",
+              "126.10%+162.96%",
+              "133.90%+173.04%",
+              "141.70%+183.12%",
+              "149.50%+193.20%"
+            ]
+          },
+          {
+            "name": "Consumo de Stamina de Ataque Carregado",
+            "parameters": [
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20"
+            ]
+          },
+          {
+            "name": "Dano Durante a Queda",
+            "parameters": [
+              "63.93%",
+              "69.14%",
+              "74.34%",
+              "81.77%",
+              "86.98%",
+              "92.93%",
+              "101.10%",
+              "109.28%",
+              "117.46%",
+              "126.38%",
+              "135.30%",
+              "144.22%",
+              "153.14%",
+              "162.06%",
+              "170.98%"
+            ]
+          },
+          {
+            "name": "Dano de Queda de Baixa/Alta Altitude",
+            "parameters": [
+              "127.84%/159.68%",
+              "138.24%/172.67%",
+              "148.65%/185.67%",
+              "163.51%/204.24%",
+              "173.92%/217.23%",
+              "185.81%/232.09%",
+              "202.16%/252.51%",
+              "218.51%/272.93%",
+              "234.86%/293.36%",
+              "252.70%/315.64%",
+              "270.54%/337.92%",
+              "288.38%/360.20%",
+              "306.22%/382.48%",
+              "324.05%/404.76%",
+              "341.89%/427.04%"
+            ]
+          }
+        ]
+      },
+      "combat2": {
+        "name": "Vórtice da Palma",
+        "info": "Agarrando o poder do vento, você cria um vórtex de vácuo na sua palma, causando Dano Anemo contínuo nos inimigos à sua frente.\nO vórtex de vácuo explode quando a duração da habilidade acaba, causando um dano Anemo ainda maior em uma grande área.\n\n**Manter pressionado**\nDano em AdE irá aumentar gradualmente.\n\n**Absorção Elemental**\nSe o vórtex entrar em contato com os elementos Hydro/Pyro/Cryo/Electro, ele irá causar Dano elemental adicional baseado naquele tipo.\nAbsorção Elemental pode ocorrer apenas uma vez por uso.",
+        "description": "Você conversou com a Paimon sobre a maneira de agarrar o vento sem forma.",
+        "attributes": [
+          {
+            "name": "Dano de Corte Inicial",
+            "parameters": [
+              "12.00%",
+              "12.90%",
+              "13.80%",
+              "15.00%",
+              "15.90%",
+              "16.80%",
+              "18.00%",
+              "19.20%",
+              "20.40%",
+              "21.60%",
+              "22.80%",
+              "24.00%",
+              "25.50%",
+              "27.00%",
+              "28.50%"
+            ]
+          },
+          {
+            "name": "Dano de Corte Máximo",
+            "parameters": [
+              "16.80%",
+              "18.06%",
+              "19.32%",
+              "21.00%",
+              "22.26%",
+              "23.52%",
+              "25.20%",
+              "26.88%",
+              "28.56%",
+              "30.24%",
+              "31.92%",
+              "33.60%",
+              "35.70%",
+              "37.80%",
+              "39.90%"
+            ]
+          },
+          {
+            "name": "Dano de Explosão de Vento Inicial",
+            "parameters": [
+              "176.00%",
+              "189.20%",
+              "202.40%",
+              "220.00%",
+              "233.20%",
+              "246.40%",
+              "264.00%",
+              "281.60%",
+              "299.20%",
+              "316.80%",
+              "334.40%",
+              "352.00%",
+              "374.00%",
+              "396.00%",
+              "418.00%"
+            ]
+          },
+          {
+            "name": "Dano de Explosão de Vento Máximo",
+            "parameters": [
+              "192.00%",
+              "206.40%",
+              "220.80%",
+              "240.00%",
+              "254.40%",
+              "268.80%",
+              "288.00%",
+              "307.20%",
+              "326.40%",
+              "345.60%",
+              "364.80%",
+              "384.00%",
+              "408.00%",
+              "432.00%",
+              "456.00%"
+            ]
+          },
+          {
+            "name": "Tempo de Recarga Básico",
+            "parameters": [
+              "5s",
+              "5s",
+              "5s",
+              "5s",
+              "5s",
+              "5s",
+              "5s",
+              "5s",
+              "5s",
+              "5s",
+              "5s",
+              "5s",
+              "5s",
+              "5s",
+              "5s"
+            ]
+          },
+          {
+            "name": "Recarga de Energização Máxima",
+            "parameters": [
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s"
+            ]
+          }
+        ]
+      },
+      "combat3": {
+        "name": "Ondas de Rajadas",
+        "info": "Guiando o caminho das correntes de vento, você evoca um tornado que se movimenta rapidamente para a frente e suga objetos e oponentes para dentro de si, causando Dano Anemo contínuo.\n\n**Absorção Elemental**\nSe o tornado entrar em contato com os elementos Hydro/Pyro/Cryo/Electro, ele irá causar Dano elemental adicional daquele tipo.\nAbsorção Elemental pode ocorrer apenas uma vez por uso.",
+        "description": "Você e a Paimon estudaram o bater das asas de uma borboleta.",
+        "attributes": [
+          {
+            "name": "Dano de Tornado",
+            "parameters": [
+              "80.80%",
+              "86.86%",
+              "92.92%",
+              "101.00%",
+              "107.06%",
+              "113.12%",
+              "121.20%",
+              "129.28%",
+              "137.36%",
+              "145.44%",
+              "153.52%",
+              "161.60%",
+              "171.70%",
+              "181.80%",
+              "191.90%"
+            ]
+          },
+          {
+            "name": "Adição de Dano Elemental",
+            "parameters": [
+              "24.80%",
+              "26.66%",
+              "28.52%",
+              "31.00%",
+              "32.86%",
+              "34.72%",
+              "37.20%",
+              "39.68%",
+              "42.16%",
+              "44.64%",
+              "47.12%",
+              "49.60%",
+              "52.70%",
+              "55.80%",
+              "58.90%"
+            ]
+          },
+          {
+            "name": "Duração",
+            "parameters": [
+              "6",
+              "6",
+              "6",
+              "6",
+              "6",
+              "6",
+              "6",
+              "6",
+              "6",
+              "6",
+              "6",
+              "6",
+              "6",
+              "6",
+              "6"
+            ]
+          },
+          {
+            "name": "Tempo de Recarga",
+            "parameters": [
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s"
+            ]
+          },
+          {
+            "name": "Energia Elemental",
+            "parameters": [
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60"
+            ]
+          }
+        ]
+      },
+      "passive1": {
+        "name": "Vento Cortante",
+        "info": "O último acerto de um combo de Ataques Normais libera uma lâmina de vento, causando 60% de Dano Anemo de ATQ a todos os oponentes em seu caminho."
+      },
+      "passive2": {
+        "name": "Vento da Ressuscitação",
+        "info": "Os abates com a **Palma da Vórtice** regeneram 2% de Vida por 5s. Este efeito pode ser ativado uma vez a cada 5s."
+      },
+      "costs": {
+        "lvl2": [
+          {
+            "name": "Mora",
+            "count": 12500
+          },
+          {
+            "name": "Ensinamentos de \"Liberdade\"",
+            "count": 3
+          },
+          {
+            "name": "Pergaminho Guia",
+            "count": 6
+          }
+        ],
+        "lvl3": [
+          {
+            "name": "Mora",
+            "count": 17500
+          },
+          {
+            "name": "Guia de Resistência",
+            "count": 2
+          },
+          {
+            "name": "Pergaminho do Encantamento",
+            "count": 3
+          }
+        ],
+        "lvl4": [
+          {
+            "name": "Mora",
+            "count": 25000
+          },
+          {
+            "name": "Guia de Poemas",
+            "count": 4
+          },
+          {
+            "name": "Pergaminho do Encantamento",
+            "count": 4
+          }
+        ],
+        "lvl5": [
+          {
+            "name": "Mora",
+            "count": 30000
+          },
+          {
+            "name": "Guia da Liberdade",
+            "count": 6
+          },
+          {
+            "name": "Pergaminho do Encantamento",
+            "count": 6
+          }
+        ],
+        "lvl6": [
+          {
+            "name": "Mora",
+            "count": 37500
+          },
+          {
+            "name": "Guia de Resistência",
+            "count": 9
+          },
+          {
+            "name": "Pergaminho do Encantamento",
+            "count": 9
+          }
+        ],
+        "lvl7": [
+          {
+            "name": "Mora",
+            "count": 120000
+          },
+          {
+            "name": "Filosofia de Poemas",
+            "count": 4
+          },
+          {
+            "name": "Pergaminho da Maldição",
+            "count": 4
+          },
+          {
+            "name": "Suspiro do Vento Oriental",
+            "count": 1
+          }
+        ],
+        "lvl8": [
+          {
+            "name": "Mora",
+            "count": 260000
+          },
+          {
+            "name": "Filosofia da Liberdade",
+            "count": 6
+          },
+          {
+            "name": "Pergaminho da Maldição",
+            "count": 6
+          },
+          {
+            "name": "Suspiro do Vento Oriental",
+            "count": 1
+          }
+        ],
+        "lvl9": [
+          {
+            "name": "Mora",
+            "count": 450000
+          },
+          {
+            "name": "Filosofia de Resistência",
+            "count": 12
+          },
+          {
+            "name": "Pergaminho da Maldição",
+            "count": 9
+          },
+          {
+            "name": "Suspiro do Vento Oriental",
+            "count": 2
+          }
+        ],
+        "lvl10": [
+          {
+            "name": "Mora",
+            "count": 700000
+          },
+          {
+            "name": "Filosofia de Poemas",
+            "count": 16
+          },
+          {
+            "name": "Pergaminho da Maldição",
+            "count": 12
+          },
+          {
+            "name": "Suspiro do Vento Oriental",
+            "count": 2
+          },
+          {
+            "name": "Coroa da Sabedoria",
+            "count": 1
+          }
+        ]
+      },
+      "images": {
+        "combat1": "Skill_A_01",
+        "combat2": "Skill_S_PlayerWind_01",
+        "combat3": "Skill_E_PlayerWind_01_HD",
+        "passive1": "UI_Talent_S_PlayerWind_05",
+        "passive2": "UI_Talent_S_PlayerWind_06"
+      },
+      "version": "1.0"
+    },
+    {
+      "name": "Viajante (Electro)",
+      "combat1": {
+        "name": "Ataque Normal: Choque do Trovão Estrangeiro",
+        "info": "**Ataque Normal**\nRealiza até 5 golpes rápidos.\n\n**Ataque Carregado**\nConsome uma certa quantidade de Stamina para desferir 2 golpes rápidos com a espada.\n\n**Ataque Imersivo**\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE no impacto.",
+        "attributes": [
+          {
+            "name": "Dano do 1° Golpe",
+            "parameters": [
+              "44.46%",
+              "48.08%",
+              "51.70%",
+              "56.87%",
+              "60.49%",
+              "64.63%",
+              "70.31%",
+              "76.00%",
+              "81.69%",
+              "87.89%",
+              "94.09%",
+              "100.30%",
+              "106.50%",
+              "112.71%",
+              "118.91%"
+            ]
+          },
+          {
+            "name": "Dano do 2° Golpe",
+            "parameters": [
+              "43.43%",
+              "46.97%",
+              "50.50%",
+              "55.55%",
+              "59.08%",
+              "63.13%",
+              "68.68%",
+              "74.23%",
+              "79.79%",
+              "85.85%",
+              "91.91%",
+              "97.97%",
+              "104.03%",
+              "110.09%",
+              "116.15%"
+            ]
+          },
+          {
+            "name": "Dano do 3° Golpe",
+            "parameters": [
+              "52.98%",
+              "57.29%",
+              "61.60%",
+              "67.76%",
+              "72.07%",
+              "77.00%",
+              "83.78%",
+              "90.55%",
+              "97.33%",
+              "104.72%",
+              "112.11%",
+              "119.50%",
+              "126.90%",
+              "134.29%",
+              "141.68%"
+            ]
+          },
+          {
+            "name": "Dano do 4° Golpe",
+            "parameters": [
+              "58.31%",
+              "63.05%",
+              "67.80%",
+              "74.58%",
+              "79.33%",
+              "84.75%",
+              "92.21%",
+              "99.67%",
+              "107.12%",
+              "115.26%",
+              "123.40%",
+              "131.53%",
+              "139.67%",
+              "147.80%",
+              "155.94%"
+            ]
+          },
+          {
+            "name": "Dano do 5° Golpe",
+            "parameters": [
+              "70.78%",
+              "76.54%",
+              "82.30%",
+              "90.53%",
+              "96.29%",
+              "102.87%",
+              "111.93%",
+              "120.98%",
+              "130.03%",
+              "139.91%",
+              "149.79%",
+              "159.66%",
+              "169.54%",
+              "179.41%",
+              "189.29%"
+            ]
+          },
+          {
+            "name": "Dano de Ataque Carregado",
+            "parameters": [
+              "55.90%+72.24%",
+              "60.45%+78.12%",
+              "65.00%+84.00%",
+              "71.50%+92.40%",
+              "76.05%+98.28%",
+              "81.25%+105.00%",
+              "88.40%+114.24%",
+              "95.55%+123.48%",
+              "102.70%+132.72%",
+              "110.50%+142.80%",
+              "118.30%+152.88%",
+              "126.10%+162.96%",
+              "133.90%+173.04%",
+              "141.70%+183.12%",
+              "149.50%+193.20%"
+            ]
+          },
+          {
+            "name": "Consumo de Stamina de Ataque Carregado",
+            "parameters": [
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20"
+            ]
+          },
+          {
+            "name": "Dano Durante a Queda",
+            "parameters": [
+              "63.93%",
+              "69.14%",
+              "74.34%",
+              "81.77%",
+              "86.98%",
+              "92.93%",
+              "101.10%",
+              "109.28%",
+              "117.46%",
+              "126.38%",
+              "135.30%",
+              "144.22%",
+              "153.14%",
+              "162.06%",
+              "170.98%"
+            ]
+          },
+          {
+            "name": "Dano de Queda de Baixa/Alta Altitude",
+            "parameters": [
+              "127.84%/159.68%",
+              "138.24%/172.67%",
+              "148.65%/185.67%",
+              "163.51%/204.24%",
+              "173.92%/217.23%",
+              "185.81%/232.09%",
+              "202.16%/252.51%",
+              "218.51%/272.93%",
+              "234.86%/293.36%",
+              "252.70%/315.64%",
+              "270.54%/337.92%",
+              "288.38%/360.20%",
+              "306.22%/382.48%",
+              "324.05%/404.76%",
+              "341.89%/427.04%"
+            ]
+          }
+        ]
+      },
+      "combat2": {
+        "name": "Lâmina Raikage",
+        "info": "Libera três sombras de raio ágil, causando Dano Electro. Quando atinge o inimigo, deixa um Amuleto da Abundância.\nNo início, podem ser criados até 2 Amuletos da Abundância. Ao lançar a Habilidade, os Amuletos da Abundância criados por você serão eliminados.\n\n**Amuleto da Abundância**\nQuando o personagem se aproxima, ele irá absorver Amuleto da Abundância, obtendo os seguintes efeitos:\n·Regenera Energia Elemental;\n·Durante a duração, aumentará a Recarga de Energia Elemental.",
+        "description": "Você e Paimon falam sobre os caminhos pelos quais a energia flui.",
+        "attributes": [
+          {
+            "name": "Dano de Habilidade",
+            "parameters": [
+              "78.66%",
+              "84.56%",
+              "90.46%",
+              "98.33%",
+              "104.23%",
+              "110.13%",
+              "118.00%",
+              "125.86%",
+              "133.73%",
+              "141.60%",
+              "149.46%",
+              "157.33%",
+              "167.16%",
+              "176.99%",
+              "186.83%"
+            ]
+          },
+          {
+            "name": "Regeneração de Energia Elemental",
+            "parameters": [
+              "Por 3 Amuleto",
+              "Por 3 Amuleto",
+              "Por 3 Amuleto",
+              "Por 3.5 Amuleto",
+              "Por 3.5 Amuleto",
+              "Por 3.5 Amuleto",
+              "Por 4 Amuleto",
+              "Por 4 Amuleto",
+              "Por 4 Amuleto",
+              "Por 4 Amuleto",
+              "Por 4 Amuleto",
+              "Por 4 Amuleto",
+              "Por 4 Amuleto",
+              "Por 4 Amuleto",
+              "Por 4 Amuleto"
+            ]
+          },
+          {
+            "name": "Aumento de Recarga de Energia",
+            "parameters": [
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%"
+            ]
+          },
+          {
+            "name": "Duração",
+            "parameters": [
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s",
+              "6s"
+            ]
+          },
+          {
+            "name": "Duração de Amuleto da Abundância",
+            "parameters": [
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s"
+            ]
+          },
+          {
+            "name": "Tempo de Recarga",
+            "parameters": [
+              "13.5s",
+              "13.5s",
+              "13.5s",
+              "13.5s",
+              "13.5s",
+              "13.5s",
+              "13.5s",
+              "13.5s",
+              "13.5s",
+              "13.5s",
+              "13.5s",
+              "13.5s",
+              "13.5s",
+              "13.5s",
+              "13.5s"
+            ]
+          }
+        ]
+      },
+      "combat3": {
+        "name": "Rugido do Trovão",
+        "info": "Você pode invocar a proteção do Revestimento de Relâmpago, afastando os inimigos ao redor e causando Dano Electro.\n\n**Revestimento de Relâmpago**\nQuando o Ataque Normal ou Ataque Carregado do seu personagem em campo atinge o inimigo, irá ser invocado um Relâmpago Poderoso, causando Dano Electro ao inimigo.\nQuando o Relâmpago Poderoso atinge um inimigo, irá restaurar Energia Elemental para esse personagem.\nUm Relâmpago Poderoso pode ser ativado uma vez a cada 0.5s.",
+        "description": "Você e Paimon estudaram a luz que ilumina por entre as nuvens.",
+        "attributes": [
+          {
+            "name": "Dano de Habilidade",
+            "parameters": [
+              "114.40%",
+              "122.98%",
+              "131.56%",
+              "143.00%",
+              "151.58%",
+              "160.16%",
+              "171.60%",
+              "183.04%",
+              "194.48%",
+              "205.92%",
+              "217.36%",
+              "228.80%",
+              "243.10%",
+              "257.40%",
+              "271.70%"
+            ]
+          },
+          {
+            "name": "Dano do Relâmpago Poderoso",
+            "parameters": [
+              "32.80%",
+              "35.26%",
+              "37.72%",
+              "41.00%",
+              "43.46%",
+              "45.92%",
+              "49.20%",
+              "52.48%",
+              "55.76%",
+              "59.04%",
+              "62.32%",
+              "65.60%",
+              "69.70%",
+              "73.80%",
+              "77.90%"
+            ]
+          },
+          {
+            "name": "Regeneração de Energia Elemental",
+            "parameters": [
+              "0.800000011920929",
+              "0.800000011920929",
+              "0.800000011920929",
+              "0.8999999761581421",
+              "0.8999999761581421",
+              "0.8999999761581421",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1"
+            ]
+          },
+          {
+            "name": "Duração",
+            "parameters": [
+              "12s",
+              "12s",
+              "12s",
+              "12s",
+              "12s",
+              "12s",
+              "12s",
+              "12s",
+              "12s",
+              "12s",
+              "12s",
+              "12s",
+              "12s",
+              "12s",
+              "12s"
+            ]
+          },
+          {
+            "name": "Tempo de Recarga",
+            "parameters": [
+              "20s",
+              "20s",
+              "20s",
+              "20s",
+              "20s",
+              "20s",
+              "20s",
+              "20s",
+              "20s",
+              "20s",
+              "20s",
+              "20s",
+              "20s",
+              "20s",
+              "20s"
+            ]
+          },
+          {
+            "name": "Energia Elemental",
+            "parameters": [
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80"
+            ]
+          }
+        ]
+      },
+      "passive1": {
+        "name": "Trovão Repentino",
+        "info": "Quando um personagem próximo da equipe obtém um Amuleto da Abundância criado pela **Lâmina Raikage**, o tempo de recarga da **Lâmina Raikage** diminui 1,5s."
+      },
+      "passive2": {
+        "name": "Rugido Estrondoso",
+        "info": "Aumenta a Recarga de Energia da **Lâmina Raikage** do Amuleto da Abundância em 10% com base na Recarga de Energia d{F#a}{M#o} Viajante."
+      },
+      "costs": {
+        "lvl2": [
+          {
+            "name": "Mora",
+            "count": 12500
+          },
+          {
+            "name": "Ensinamentos do Mundo Mortal",
+            "count": 3
+          },
+          {
+            "name": "Protetor de Mão Velho",
+            "count": 6
+          }
+        ],
+        "lvl3": [
+          {
+            "name": "Mora",
+            "count": 17500
+          },
+          {
+            "name": "Guia da Cultura",
+            "count": 2
+          },
+          {
+            "name": "Protetor de Mão Kageuchi",
+            "count": 3
+          }
+        ],
+        "lvl4": [
+          {
+            "name": "Mora",
+            "count": 25000
+          },
+          {
+            "name": "Guia da Luz Celeste",
+            "count": 4
+          },
+          {
+            "name": "Protetor de Mão Kageuchi",
+            "count": 4
+          }
+        ],
+        "lvl5": [
+          {
+            "name": "Mora",
+            "count": 30000
+          },
+          {
+            "name": "Guia do Mundo Mortal",
+            "count": 6
+          },
+          {
+            "name": "Protetor de Mão Kageuchi",
+            "count": 6
+          }
+        ],
+        "lvl6": [
+          {
+            "name": "Mora",
+            "count": 37500
+          },
+          {
+            "name": "Guia da Cultura",
+            "count": 9
+          },
+          {
+            "name": "Protetor de Mão Kageuchi",
+            "count": 9
+          }
+        ],
+        "lvl7": [
+          {
+            "name": "Mora",
+            "count": 120000
+          },
+          {
+            "name": "Filosofia da Luz Celeste",
+            "count": 4
+          },
+          {
+            "name": "Protetor de Mão Famoso",
+            "count": 4
+          },
+          {
+            "name": "Coroa do Senhor dos Dragões",
+            "count": 1
+          }
+        ],
+        "lvl8": [
+          {
+            "name": "Mora",
+            "count": 260000
+          },
+          {
+            "name": "Filosofia do Mundo Mortal",
+            "count": 6
+          },
+          {
+            "name": "Protetor de Mão Famoso",
+            "count": 6
+          },
+          {
+            "name": "Coroa do Senhor dos Dragões",
+            "count": 1
+          }
+        ],
+        "lvl9": [
+          {
+            "name": "Mora",
+            "count": 450000
+          },
+          {
+            "name": "Filosofia da Cultura",
+            "count": 12
+          },
+          {
+            "name": "Protetor de Mão Famoso",
+            "count": 9
+          },
+          {
+            "name": "Coroa do Senhor dos Dragões",
+            "count": 2
+          }
+        ],
+        "lvl10": [
+          {
+            "name": "Mora",
+            "count": 700000
+          },
+          {
+            "name": "Filosofia da Luz Celeste",
+            "count": 16
+          },
+          {
+            "name": "Protetor de Mão Famoso",
+            "count": 12
+          },
+          {
+            "name": "Coroa do Senhor dos Dragões",
+            "count": 2
+          },
+          {
+            "name": "Coroa da Sabedoria",
+            "count": 1
+          }
+        ]
+      },
+      "images": {
+        "combat1": "Skill_A_01",
+        "combat2": "Skill_S_PlayerElectric_01",
+        "combat3": "Skill_E_PlayerElectric_01_HD",
+        "passive1": "UI_Talent_S_PlayerElectric_05",
+        "passive2": "UI_Talent_S_PlayerElectric_06"
+      },
+      "version": "2.0"
+    },
+    {
+      "name": "Viajante (Geo)",
+      "combat1": {
+        "name": "Ataque Normal: Lâmina de Rocha Estrangeira",
+        "info": "**Ataque Normal**\nRealiza até 5 golpes rápidos.\n\n**Ataque Carregado**\nConsome uma certa quantidade de Stamina para desferir 2 golpes rápidos com a espada.\n\n**Ataque Imersivo**\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+        "attributes": [
+          {
+            "name": "Dano do 1° Golpe",
+            "parameters": [
+              "44.46%",
+              "48.08%",
+              "51.70%",
+              "56.87%",
+              "60.49%",
+              "64.63%",
+              "70.31%",
+              "76.00%",
+              "81.69%",
+              "87.89%",
+              "94.09%",
+              "100.30%",
+              "106.50%",
+              "112.71%",
+              "118.91%"
+            ]
+          },
+          {
+            "name": "Dano do 2° Golpe",
+            "parameters": [
+              "43.43%",
+              "46.97%",
+              "50.50%",
+              "55.55%",
+              "59.08%",
+              "63.13%",
+              "68.68%",
+              "74.23%",
+              "79.79%",
+              "85.85%",
+              "91.91%",
+              "97.97%",
+              "104.03%",
+              "110.09%",
+              "116.15%"
+            ]
+          },
+          {
+            "name": "Dano do 3° Golpe",
+            "parameters": [
+              "52.98%",
+              "57.29%",
+              "61.60%",
+              "67.76%",
+              "72.07%",
+              "77.00%",
+              "83.78%",
+              "90.55%",
+              "97.33%",
+              "104.72%",
+              "112.11%",
+              "119.50%",
+              "126.90%",
+              "134.29%",
+              "141.68%"
+            ]
+          },
+          {
+            "name": "Dano do 4° Golpe",
+            "parameters": [
+              "58.31%",
+              "63.05%",
+              "67.80%",
+              "74.58%",
+              "79.33%",
+              "84.75%",
+              "92.21%",
+              "99.67%",
+              "107.12%",
+              "115.26%",
+              "123.40%",
+              "131.53%",
+              "139.67%",
+              "147.80%",
+              "155.94%"
+            ]
+          },
+          {
+            "name": "Dano do 5° Golpe",
+            "parameters": [
+              "70.78%",
+              "76.54%",
+              "82.30%",
+              "90.53%",
+              "96.29%",
+              "102.87%",
+              "111.93%",
+              "120.98%",
+              "130.03%",
+              "139.91%",
+              "149.79%",
+              "159.66%",
+              "169.54%",
+              "179.41%",
+              "189.29%"
+            ]
+          },
+          {
+            "name": "Dano de Ataque Carregado",
+            "parameters": [
+              "55.90%+72.24%",
+              "60.45%+78.12%",
+              "65.00%+84.00%",
+              "71.50%+92.40%",
+              "76.05%+98.28%",
+              "81.25%+105.00%",
+              "88.40%+114.24%",
+              "95.55%+123.48%",
+              "102.70%+132.72%",
+              "110.50%+142.80%",
+              "118.30%+152.88%",
+              "126.10%+162.96%",
+              "133.90%+173.04%",
+              "141.70%+183.12%",
+              "149.50%+193.20%"
+            ]
+          },
+          {
+            "name": "Consumo de Stamina de Ataque Carregado",
+            "parameters": [
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20",
+              "20"
+            ]
+          },
+          {
+            "name": "Dano Durante a Queda",
+            "parameters": [
+              "63.93%",
+              "69.14%",
+              "74.34%",
+              "81.77%",
+              "86.98%",
+              "92.93%",
+              "101.10%",
+              "109.28%",
+              "117.46%",
+              "126.38%",
+              "135.30%",
+              "144.22%",
+              "153.14%",
+              "162.06%",
+              "170.98%"
+            ]
+          },
+          {
+            "name": "Dano de Queda de Baixa/Alta Altitude",
+            "parameters": [
+              "127.84%/159.68%",
+              "138.24%/172.67%",
+              "148.65%/185.67%",
+              "163.51%/204.24%",
+              "173.92%/217.23%",
+              "185.81%/232.09%",
+              "202.16%/252.51%",
+              "218.51%/272.93%",
+              "234.86%/293.36%",
+              "252.70%/315.64%",
+              "270.54%/337.92%",
+              "288.38%/360.20%",
+              "306.22%/382.48%",
+              "324.05%/404.76%",
+              "341.89%/427.04%"
+            ]
+          }
+        ]
+      },
+      "combat2": {
+        "name": "Espada da Estrela Cadente",
+        "info": "Você expele um meteorito das profundezas da terra, infligindo Dano Geo em uma AdE.\nO meteorito é considerado uma Construção Geo, e pode ser escalada ou usada para bloquear ataques.\n\n**Manter pressionado**\nO posicionamento dessa habilidade pode ser controlado.",
+        "description": "Você conversou com a Paimon sobre o destino das estrelas cadentes.",
+        "attributes": [
+          {
+            "name": "Dano de Habilidade",
+            "parameters": [
+              "248.00%",
+              "266.60%",
+              "285.20%",
+              "310.00%",
+              "328.60%",
+              "347.20%",
+              "372.00%",
+              "396.80%",
+              "421.60%",
+              "446.40%",
+              "471.20%",
+              "496.00%",
+              "527.00%",
+              "558.00%",
+              "589.00%"
+            ]
+          },
+          {
+            "name": "Duração do Meteorito",
+            "parameters": [
+              "30s",
+              "30s",
+              "30s",
+              "30s",
+              "30s",
+              "30s",
+              "30s",
+              "30s",
+              "30s",
+              "30s",
+              "30s",
+              "30s",
+              "30s",
+              "30s",
+              "30s"
+            ]
+          },
+          {
+            "name": "Tempo de Recarga",
+            "parameters": [
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s",
+              "8s"
+            ]
+          }
+        ]
+      },
+      "combat3": {
+        "name": "Despertar da Terra",
+        "info": "Energizando os elementos Geo no subsolo, você desencadeia ondas de choque em expansão.\nLança os inimigos ao redor e causa Dano AdE Geo.\nUma parede de pedra é erguida nas bordas da onda de choque.\nA parede de pedra é considerada uma Construção Geo e pode ser usada para bloquear ataques.",
+        "description": "Você e Paimon investigaram a vibração das montanhas.",
+        "attributes": [
+          {
+            "name": "Dano Único de Onda Sísmica",
+            "parameters": [
+              "148.00%",
+              "159.10%",
+              "170.20%",
+              "185.00%",
+              "196.10%",
+              "207.20%",
+              "222.00%",
+              "236.80%",
+              "251.60%",
+              "266.40%",
+              "281.20%",
+              "296.00%",
+              "314.50%",
+              "333.00%",
+              "351.50%"
+            ]
+          },
+          {
+            "name": "Duração da Parede de Pedras",
+            "parameters": [
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s"
+            ]
+          },
+          {
+            "name": "Tempo de Recarga",
+            "parameters": [
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s",
+              "15s"
+            ]
+          },
+          {
+            "name": "Energia Elemental",
+            "parameters": [
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60"
+            ]
+          }
+        ]
+      },
+      "passive1": {
+        "name": "Rocha Quebrada",
+        "info": "Restaura a Recarga da **Espada da Estrela Cadente** em 2s."
+      },
+      "passive2": {
+        "name": "Rocha Turbulenta",
+        "info": "O golpe final de um combo de Ataque Normal ativa um colapso, causando Dano AdE Geo de 60% do ATQ."
+      },
+      "costs": {
+        "lvl2": [
+          {
+            "name": "Mora",
+            "count": 12500
+          },
+          {
+            "name": "Ensinamentos de Prosperidade",
+            "count": 3
+          },
+          {
+            "name": "Ponta de Flecha Robusta",
+            "count": 6
+          }
+        ],
+        "lvl3": [
+          {
+            "name": "Mora",
+            "count": 17500
+          },
+          {
+            "name": "Guia de Esforço",
+            "count": 2
+          },
+          {
+            "name": "Ponta de Flecha Afiada",
+            "count": 3
+          }
+        ],
+        "lvl4": [
+          {
+            "name": "Mora",
+            "count": 25000
+          },
+          {
+            "name": "Guia de Ouro",
+            "count": 4
+          },
+          {
+            "name": "Ponta de Flecha Afiada",
+            "count": 4
+          }
+        ],
+        "lvl5": [
+          {
+            "name": "Mora",
+            "count": 30000
+          },
+          {
+            "name": "Guia de Prosperidade",
+            "count": 6
+          },
+          {
+            "name": "Ponta de Flecha Afiada",
+            "count": 6
+          }
+        ],
+        "lvl6": [
+          {
+            "name": "Mora",
+            "count": 37500
+          },
+          {
+            "name": "Guia de Esforço",
+            "count": 9
+          },
+          {
+            "name": "Ponta de Flecha Afiada",
+            "count": 9
+          }
+        ],
+        "lvl7": [
+          {
+            "name": "Mora",
+            "count": 120000
+          },
+          {
+            "name": "Filosofia de Ouro",
+            "count": 4
+          },
+          {
+            "name": "Ponta de Flecha Usada",
+            "count": 4
+          },
+          {
+            "name": "Cauda do Vento do Norte",
+            "count": 1
+          }
+        ],
+        "lvl8": [
+          {
+            "name": "Mora",
+            "count": 260000
+          },
+          {
+            "name": "Filosofia de Prosperidade",
+            "count": 6
+          },
+          {
+            "name": "Ponta de Flecha Usada",
+            "count": 6
+          },
+          {
+            "name": "Cauda do Vento do Norte",
+            "count": 1
+          }
+        ],
+        "lvl9": [
+          {
+            "name": "Mora",
+            "count": 450000
+          },
+          {
+            "name": "Filosofia de Esforço",
+            "count": 12
+          },
+          {
+            "name": "Ponta de Flecha Usada",
+            "count": 9
+          },
+          {
+            "name": "Cauda do Vento do Norte",
+            "count": 2
+          }
+        ],
+        "lvl10": [
+          {
+            "name": "Mora",
+            "count": 700000
+          },
+          {
+            "name": "Filosofia de Ouro",
+            "count": 16
+          },
+          {
+            "name": "Ponta de Flecha Usada",
+            "count": 12
+          },
+          {
+            "name": "Cauda do Vento do Norte",
+            "count": 2
+          },
+          {
+            "name": "Coroa da Sabedoria",
+            "count": 1
+          }
+        ]
+      },
+      "images": {
+        "combat1": "Skill_A_01",
+        "combat2": "Skill_S_PlayerRock_01",
+        "combat3": "Skill_E_PlayerRock_01_HD",
+        "passive1": "UI_Talent_S_PlayerRock_05",
+        "passive2": "UI_Talent_S_PlayerRock_06"
+      },
+      "version": "1.0"
+    }
+  ]
+}

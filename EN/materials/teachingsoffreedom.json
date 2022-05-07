@@ -1,0 +1,24 @@
+{
+  "name": "Teachings of Freedom",
+  "description": "Talent Level-Up material.\nFreedom is the spirit of the land of the wind.\nThe freedom to live is one of such. It is the freedom to live freely and healthily without concerns of one's own safety.",
+  "sortorder": 1851,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Talent Level-Up Material",
+  "dropdomain": "Domain of Mastery: Frosted Altar",
+  "daysofweek": [
+    "Monday",
+    "Thursday",
+    "Sunday"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Freedom.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Item_Teachings_of_Freedom.png",
+    "nameicon": "UI_ItemIcon_104301"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Freedom"
+  },
+  "version": ""
+}

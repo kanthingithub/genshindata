@@ -1,0 +1,19 @@
+{
+  "name": "Grenouille",
+  "description": "Un amphibien commun des environnements humides. Cet animal plein d'énergie sécrète une substance revigorante lorsqu'elle est ingérée par des humains.",
+  "sortorder": 1972,
+  "category": "EXCHANGE",
+  "materialtype": "Matériau",
+  "source": [
+    "Cours d'eau douce"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Frog.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Item_Frog.png",
+    "nameicon": "UI_ItemIcon_100081"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Frog"
+  },
+  "version": ""
+}

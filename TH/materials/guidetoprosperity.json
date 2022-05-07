@@ -1,0 +1,26 @@
+{
+  "name": "Guide to Prosperity",
+  "description": "วัสดุยกระดับพรสวรรค์\nความเจริญรุ่งเรืองคือสิ่งที่ประเทศ แห่งหินคอยตามหา\nความเจริญรุ่งเรืองคือคำมั่นสัญญา ของเมือง Liyue ที่มีให้ต่อเหล่าลูกหลานของมัน เพื่อตอบแทนเหล่าผู้อุทิศตนด้วยทองคำอันสุกสกาวของเมืองแห่งนี้",
+  "sortorder": 1861,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุยกระดับพรสวรรค์",
+  "dropdomain": "ดันเจี้ยนแห่งการพัฒนา: แท่นบูชาแห่งไฟ",
+  "daysofweek": [
+    "วันจันทร์",
+    "วันพฤหัสบดี",
+    "วันอาทิตย์"
+  ],
+  "source": [
+    "ได้รับจากการสรรสร้าง"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Guide_to_Prosperity.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Item_Guide_to_Prosperity.png",
+    "nameicon": "UI_ItemIcon_104311"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Guide_to_Prosperity"
+  },
+  "version": ""
+}

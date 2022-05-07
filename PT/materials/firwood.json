@@ -1,0 +1,22 @@
+{
+  "name": "Madeira de Abeto",
+  "description": "Madeira da árvore conhecida como \"Abeto\". Amplamente utilizada por sua excelente qualidade e grãos atraentes.\nPode ser usada para fabricar Decorações.",
+  "sortorder": 1942,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Material",
+  "source": [
+    "Encontrado na natureza",
+    "Recomendação: Talhado no Vale das Estrelas Cadentes",
+    "Recomendação: Talhado na Colina Silvante"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fir_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Item_Fir_Wood.png",
+    "nameicon": "UI_ItemIcon_101308"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fir_Wood"
+  },
+  "version": ""
+}

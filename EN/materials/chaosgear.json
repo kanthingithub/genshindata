@@ -1,0 +1,21 @@
+{
+  "name": "Chaos Gear",
+  "description": "Comes from a now-inactive ancient Ruin machine.\nThis is the energy source of that biomimetic mechanism.",
+  "sortorder": 1765,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Dropped by Ruin Sentinels",
+    "Stardust Exchange"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Gear.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Chaos_Gear.png",
+    "nameicon": "UI_ItemIcon_112047"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chaos_Gear"
+  },
+  "version": ""
+}

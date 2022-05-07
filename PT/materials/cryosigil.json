@@ -1,0 +1,19 @@
+{
+  "name": "Selo Cryo",
+  "description": "Um selo de reconhecimento e apreciação concedido pelos ventos que favorecem e vigiam Mondstadt. Pode ser trocado por itens raros em certos locais.",
+  "sortorder": 505,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "Selo Elemental",
+  "source": [
+    "Recompensa de Expedição"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_306",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cryo_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cryo_Sigil"
+  },
+  "version": ""
+}

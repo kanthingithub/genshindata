@@ -1,0 +1,19 @@
+{
+  "name": "해초",
+  "description": "얕은 바다에서 자라고 있는 식물. 요리에 특별한 맛을 더해줄 수 있다",
+  "sortorder": 2012,
+  "category": "EXCHANGE",
+  "materialtype": "식자재",
+  "source": [
+    "이나즈마 해역 채집"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Seagrass.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Item_Seagrass.png",
+    "nameicon": "UI_ItemIcon_101210"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Seagrass"
+  },
+  "version": ""
+}

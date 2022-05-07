@@ -1,0 +1,19 @@
+{
+  "name": "Creme",
+  "description": "Um produto feito a partir do leite. Um ingrediente essencial para confeitarias.",
+  "sortorder": 1526,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente",
+  "source": [
+    "Processado"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cream.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Item_Cream.png",
+    "nameicon": "UI_ItemIcon_110002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cream"
+  },
+  "version": ""
+}

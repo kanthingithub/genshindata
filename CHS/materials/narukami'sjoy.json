@@ -1,0 +1,26 @@
+{
+  "name": "鸣神御灵的欢喜",
+  "description": "赋予武器突破之力的材料。\n在鸣神的幕府中设有奉行之名，乃是诸类事务的管理与执行者。在妖物悠长久远的故事中，在过去，深受将军殿下亲近信赖者会佩戴这种曲勾造型的护符；而奉行之名也取自欢喜奉行之意，得到她青睐的人，也会回报以爱与忠义。而从某一时点开始，一切都不再是原本的模样了。",
+  "sortorder": 2212,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "武器突破素材",
+  "dropdomain": "炼武秘境：砂之祭场",
+  "daysofweek": [
+    "周二",
+    "周五",
+    "周日"
+  ],
+  "source": [
+    "合成获得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Narukami's_Joy.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Narukami%27s_Joy.png",
+    "nameicon": "UI_ItemIcon_114030"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Narukami's_Joy"
+  },
+  "version": ""
+}

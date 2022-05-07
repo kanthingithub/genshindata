@@ -1,0 +1,141 @@
+{
+  "name": "Sabueso Acechador Lítico",
+  "specialname": "Bestia de la fisura",
+  "enemytype": "ELITE",
+  "category": "Abismo",
+  "description": "Una bestia de sangre demoniaca capaz de corroer las fronteras del mundo. Fue creada por Oro.\nMuestra cierto comportamiento biológico parecido al de los lobos. Tal vez sientan envidia de ellos, que son sus parientes más cercanos, y sueñen con reemplazarlos algún día.",
+  "investigation": {
+    "name": "Lobos de la fisura",
+    "category": "Élites",
+    "description": "Unos extraños y oscuros monstruos de mal augurio que se mueven en jaurías.\\nSe dice que son capaces de disolver las fronteras del mundo."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Garra oculta",
+      "count": 5.2526
+    },
+    {
+      "name": "Garra afilada oculta",
+      "count": 1.4006
+    },
+    {
+      "name": "Garra fantasmal oculta",
+      "count": 0.3502
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "3"
+    },
+    {
+      "name": "Exiliado",
+      "rarity": "3"
+    },
+    {
+      "name": "Médica Itinerante",
+      "rarity": "3"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "4"
+    },
+    {
+      "name": "Exiliado",
+      "rarity": "4"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Hound_Riftstalker_Rock"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 513.9399908444029,
+      "attack": 81.20874142159664,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 2024.1830612137564,
+      "attack": 216.96889018327784,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 5957.874750514515,
+      "attack": 535.1999089937599,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 11094.789945280412,
+      "attack": 874.1651434627711,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 19920.928208313184,
+      "attack": 1306.9244655380026,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 36704.72439475497,
+      "attack": 2015.4472440918325,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 62012.59746199194,
+      "attack": 2838.1580889605684,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 102564.67427988164,
+      "attack": 3917.9431035507005,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 165456.3191879019,
+      "attack": 5040.848230909556,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 259702.01247135177,
+      "attack": 6090.039402680704,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 388220.12688163295,
+      "attack": 7879.068567919079,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 491370.10539378226,
+      "attack": 8035.511100489413,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 568355.2145917788,
+      "attack": 8193.048953408841,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

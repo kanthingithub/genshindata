@@ -1,0 +1,21 @@
+{
+  "name": "Mineral de refinamiento",
+  "description": "Material de EXP de arma. Otorga 400 pts. de EXP.\nEs un mineral refinado con una infinidad de posibilidades. Puede usarse para fortalecer armas.",
+  "sortorder": 657,
+  "rarity": "1",
+  "category": "WEAPON_EXP_STONE",
+  "materialtype": "Material de fortalecimiento de arma",
+  "source": [
+    "Forjar",
+    "Recompensa de evento aleatorio"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_104011",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Enhancement_Ore.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Item_Enhancement_Ore.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Enhancement_Ore"
+  },
+  "version": ""
+}

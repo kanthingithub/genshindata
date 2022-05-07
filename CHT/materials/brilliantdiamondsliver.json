@@ -1,0 +1,20 @@
+{
+  "name": "璀璨原鑽碎屑",
+  "description": "角色突破素材。\n「歡迎來到世界。」",
+  "sortorder": 1818,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培養素材",
+  "source": [
+    "冒險等階獎勵"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Brilliant_Diamond_Sliver.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Brilliant_Diamond_Sliver.png",
+    "nameicon": "UI_ItemIcon_104101"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Brilliant_Diamond_Sliver"
+  },
+  "version": ""
+}

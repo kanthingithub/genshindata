@@ -1,0 +1,20 @@
+{
+  "name": "Perpetual Heart",
+  "description": "Inti yang menggerakkan Perpetual Mechanical Array.\nBeberapa orang berspekulasi bahwa simbol pada inti ini ditulis dengan kecerdasan dan logika yang bahasanya tidak dapat dilihat dengan mata telanjang. Ada juga yang berspekulasi bahwa mesin Ruin yang memiliki inti besar dan pola rumit ini berinisiatif sendiri untuk meninggalkan wujud biomimetis mereka, demi mengejar kinerja dan fungsi yang lebih kuat.",
+  "sortorder": 1805,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Dijatuhkan oleh Perpetual Mechanical Array Lv. 30+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Perpetual_Heart.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Item_Perpetual_Heart.png",
+    "nameicon": "UI_ItemIcon_113023"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Perpetual_Heart"
+  },
+  "version": ""
+}

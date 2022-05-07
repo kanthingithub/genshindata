@@ -1,0 +1,20 @@
+{
+  "name": "Cola de caballo",
+  "description": "Una planta púrpura que a veces crece entre los carrizos. Suele llegar a ser más alta, más recta y más grande, igual que un aristócrata que mira por encima de la gente pobre.",
+  "sortorder": 1967,
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [
+    "Recolectar en áreas con carrizos y pantanos",
+    "Recolectar en el Pantano Dihua"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Horsetail.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Item_Horsetail.png",
+    "nameicon": "UI_ItemIcon_100032"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Horsetail"
+  },
+  "version": ""
+}

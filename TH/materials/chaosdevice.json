@@ -1,0 +1,22 @@
+{
+  "name": "Chaos Device",
+  "description": "สร้างมาจากโบราณวัตถุที่ไม่ได้ใช้งานแล้ว มีความสวยงามทางศิลปะมากและในอดีตเคยเป็นส่วนหนึ่งของร่างกาย",
+  "sortorder": 1741,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ดรอปจาก Ruin Guard",
+    "ดรอปจาก Ruin Hunter",
+    "แลกเปลี่ยนด้วย Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Device.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Item_Chaos_Device.png",
+    "nameicon": "UI_ItemIcon_112023"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chaos_Device"
+  },
+  "version": ""
+}

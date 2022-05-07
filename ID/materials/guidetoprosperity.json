@@ -1,0 +1,26 @@
+{
+  "name": "Guide to \"Prosperity\"",
+  "description": "Material Penguatan Talenta.\nKemakmuran adalah hal yang dikejar oleh tanah bumi.\nKemakmuran adalah janji Liyue kepada anak-anaknya: Untuk membayar kembali kerja keras mereka dengan emas yang melimpah untuk mencerahkan tanah ini.",
+  "sortorder": 1861,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Talenta",
+  "dropdomain": "Domain of Mastery: Altar Bara Api",
+  "daysofweek": [
+    "Senin",
+    "Kamis",
+    "Minggu"
+  ],
+  "source": [
+    "Didapatkan melalui Craft"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Guide_to_Prosperity.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Item_Guide_to_Prosperity.png",
+    "nameicon": "UI_ItemIcon_104311"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Guide_to_Prosperity"
+  },
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Mermelada",
+  "description": "Un puré hecho de fruta y azúcar. Incluso una pequeña cantidad puede despertar fácilmente las papilas gustativas.",
+  "sortorder": 1531,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente culinario",
+  "source": [
+    "Procesar comida"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Jam.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Item_Jam.png",
+    "nameicon": "UI_ItemIcon_110008"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Jam"
+  },
+  "version": ""
+}

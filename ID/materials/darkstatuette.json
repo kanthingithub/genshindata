@@ -1,0 +1,21 @@
+{
+  "name": "Dark Statuette",
+  "description": "Patung kecil yang dibuat meniru rupa seseorang bermata satu.\nSaat berada dalam genggaman, sepertinya terasa ada sebuah kehangatan yang memancar darinya, bagaikan pundak seorang sahabat. Mungkin benda ini dapat memberikan keberanian untuk terus berjalan maju bagi mereka yang paham akan makna di baliknya.",
+  "sortorder": 1778,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Didapatkan melalui Craft",
+    "Dijatuhkan oleh The Black Serpents Lv. 40+",
+    "Penukaran Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dark_Statuette.png",
+    "nameicon": "UI_ItemIcon_112018"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dark_Statuette"
+  },
+  "version": ""
+}

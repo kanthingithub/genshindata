@@ -1,0 +1,20 @@
+{
+  "name": "Glaze Medaka",
+  "description": "Ikan medaka kecil yang lincah, terkenal karena ekornya yang berbentuk kelopak dan indah.\nSpesies ini memiliki pola perilaku yang tidak dapat dipahami, dan mereka sering didapati meledak-ledak secara tiba-tiba, seakan-akan mereka menanggung semacam rasa sakit yang tidak terlihat. Tapi menariknya, fenomena ini sama sekali tidak pernah terjadi saat mereka sedang sendirian. Beberapa peneliti percaya bahwa keunikan ini muncul dari keinginan alamiah mereka untuk pamer.",
+  "sortorder": 2015,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Ikan",
+  "source": [
+    "Didapatkan dari memancing ikan"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Glaze_Medaka.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Item_Glaze_Medaka.png",
+    "nameicon": "UI_ItemIcon_131001"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Glaze_Medaka"
+  },
+  "version": ""
+}

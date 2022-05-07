@@ -1,0 +1,20 @@
+{
+  "name": "Ashen Heart",
+  "description": "A deformed fragment that contains powerful emotions. You obtained this from defeating Signora, who unleashed her original power.\nEven tears cannot extinguish the flames. Molten-hot agony and rage rush through her veins, oozing from her tear ducts.\nThe First Fatuus found her just before her heart could be destroyed by the eternal blaze. He understood that only deeper hate and obsession could quench the fire that devoured her and make her his ally...",
+  "sortorder": 1809,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Lv. 70+ Signora Challenge Reward"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ashen_Heart.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/29/Item_Ashen_Heart.png",
+    "nameicon": "UI_ItemIcon_113027"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ashen_Heart"
+  },
+  "version": ""
+}

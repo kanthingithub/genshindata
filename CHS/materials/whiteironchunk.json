@@ -1,0 +1,21 @@
+{
+  "name": "白铁块",
+  "description": "白铁的矿石，在拥有相应技能的工匠手中能大放异彩吧。",
+  "sortorder": 1955,
+  "category": "EXCHANGE",
+  "materialtype": "锻造用矿石",
+  "source": [
+    "野外采集",
+    "推荐：望风山地采集",
+    "推荐：奔狼领采集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_White_Iron_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Item_White_Iron_Chunk.png",
+    "nameicon": "UI_ItemIcon_101002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/White_Iron_Chunk"
+  },
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Thịt Xông Khói",
+  "description": "Thịt pha gân được hun khói. Nhiều lớp, béo mà không ngán, rất được yêu thích.",
+  "sortorder": 1533,
+  "category": "EXCHANGE",
+  "materialtype": "Nguyên Liệu Thực Phẩm",
+  "source": [
+    "Nhận khi gia công nấu nướng"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bacon.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/16/Item_Bacon.png",
+    "nameicon": "UI_ItemIcon_110010"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bacon"
+  },
+  "version": ""
+}

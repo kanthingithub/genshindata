@@ -1,0 +1,20 @@
+{
+  "name": "石珀",
+  "description": "純度が極めて高い岩の元素の晶石。よくほかの鉱物と一緒に発見される。「岩の心」とも呼ばれる。",
+  "sortorder": 2044,
+  "category": "EXCHANGE",
+  "materialtype": "璃月地域の特産",
+  "source": [
+    "璃月の崖の下で採集",
+    "推奨：琥牢山で採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cor_Lapis.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Item_Cor_Lapis.png",
+    "nameicon": "UI_ItemIcon_100058"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cor_Lapis"
+  },
+  "version": ""
+}

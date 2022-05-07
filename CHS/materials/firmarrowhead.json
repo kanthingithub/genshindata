@@ -1,0 +1,21 @@
+{
+  "name": "牢固的箭簇",
+  "description": "做工粗糙的箭簇。即使如此，也不容小觑：弩是危险的武器，即使贵为骑士，也可能被从后方来的弩矢击倒。",
+  "sortorder": 1732,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培养素材",
+  "source": [
+    "丘丘射手掉落",
+    "星尘兑换"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Firm_Arrowhead.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_Firm_Arrowhead.png",
+    "nameicon": "UI_ItemIcon_112011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Firm_Arrowhead"
+  },
+  "version": ""
+}

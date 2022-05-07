@@ -1,0 +1,954 @@
+{
+  "name": "Noelle",
+  "fullname": "Noelle",
+  "title": "La Heroína no Reconocida",
+  "description": "La criada de confianza de los Caballeros de Favonius. Sueña con convertirse algún día en una de ellos.",
+  "rarity": "4",
+  "element": "Geo",
+  "weapontype": "Mandoble",
+  "substat": "DEF",
+  "gender": "Femenino",
+  "body": "GIRL",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Caballeros de Favonius",
+  "birthdaymmdd": "3/21",
+  "birthday": "21 de marzo",
+  "constellation": "Parma Cordis",
+  "cv": {
+    "english": "Laura Faye Smith",
+    "chinese": "宴宁",
+    "japanese": "高尾奏音",
+    "korean": "Lee Bo-hee"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Pedacito de topacio prithiva",
+        "count": 1
+      },
+      {
+        "name": "Valbaya",
+        "count": 3
+      },
+      {
+        "name": "Máscara dañada",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de topacio prithiva",
+        "count": 3
+      },
+      {
+        "name": "Pilar de basalto",
+        "count": 2
+      },
+      {
+        "name": "Valbaya",
+        "count": 10
+      },
+      {
+        "name": "Máscara dañada",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de topacio prithiva",
+        "count": 6
+      },
+      {
+        "name": "Pilar de basalto",
+        "count": 4
+      },
+      {
+        "name": "Valbaya",
+        "count": 20
+      },
+      {
+        "name": "Máscara sucia",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Trozo de topacio prithiva",
+        "count": 3
+      },
+      {
+        "name": "Pilar de basalto",
+        "count": 8
+      },
+      {
+        "name": "Valbaya",
+        "count": 30
+      },
+      {
+        "name": "Máscara sucia",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Trozo de topacio prithiva",
+        "count": 6
+      },
+      {
+        "name": "Pilar de basalto",
+        "count": 12
+      },
+      {
+        "name": "Valbaya",
+        "count": 45
+      },
+      {
+        "name": "Máscara amenazante",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Topacio prithiva",
+        "count": 6
+      },
+      {
+        "name": "Pilar de basalto",
+        "count": 20
+      },
+      {
+        "name": "Valbaya",
+        "count": 60
+      },
+      {
+        "name": "Máscara amenazante",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/9/92/Character_Noelle_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Character_Noelle_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Noel.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Noel.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200315/2020031517331523512.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200325/2020032510564718459.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/42120a5c88658419970a1e8f71d2b245.png",
+    "nameicon": "UI_AvatarIcon_Noel",
+    "nameiconcard": "UI_AvatarIcon_Noel_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Noel",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Noel",
+    "namesideicon": "UI_AvatarIcon_Side_Noel"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Noelle"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1012.0880126953125,
+      "attack": 16.02720069885254,
+      "defense": 66.9532470703125,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2600.054110405472,
+      "attack": 41.17387868706055,
+      "defense": 172.00289210674237,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3356.135653374222,
+      "attack": 53.14729883018799,
+      "defense": 222.02039393779705,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5027.092744198453,
+      "attack": 79.60820372964463,
+      "defense": 332.56019042042317,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5564.308564510953,
+      "attack": 88.11563380624375,
+      "defense": 368.0989401152474,
+      "specialized": 0.07500000298023224
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6400.293479202606,
+      "attack": 101.3541050072754,
+      "defense": 423.40233649808215,
+      "specialized": 0.07500000298023224
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7116.581320999481,
+      "attack": 112.6973438378418,
+      "defense": 470.7873386343126,
+      "specialized": 0.15000000596046448
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7952.566235691134,
+      "attack": 125.93581503887344,
+      "defense": 526.0907350171474,
+      "specialized": 0.15000000596046448
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8489.782056003634,
+      "attack": 134.44324606914688,
+      "defense": 561.6294770825771,
+      "specialized": 0.15000000596046448
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9324.754473436798,
+      "attack": 147.6656835887543,
+      "defense": 616.8658931452665,
+      "specialized": 0.15000000596046448
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 9861.970293749298,
+      "attack": 156.17311461902773,
+      "defense": 652.4046504694852,
+      "specialized": 0.22499999403953552
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 10697.95472583978,
+      "attack": 169.41157817769454,
+      "defense": 707.7080149265239,
+      "specialized": 0.22499999403953552
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11235.17054615228,
+      "attack": 177.9190053932707,
+      "defense": 743.2467569919536,
+      "specialized": 0.30000001192092896
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12071.155460843933,
+      "attack": 191.15747659430235,
+      "defense": 798.5501533747884,
+      "specialized": 0.30000001192092896
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Yo te cubro",
+      "effect": "Al atacar estando al mismo tiempo bajo los efectos de **Hora de limpiar** y **Guardiana del corazón**, la probabilidad de restaurar Vida de Guardiana del corazón será del 100%."
+    },
+    "c2": {
+      "name": "Torbellino de la criada",
+      "effect": "Reduce en un 20% el coste de Aguante del Ataque Cargado de Noelle, y aumenta en un 15% el daño infligido con dicho ataque."
+    },
+    "c3": {
+      "name": "Sin un rasguño",
+      "effect": "Aumenta el nivel de habilidad de **Guardiana del corazón** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c4": {
+      "name": "Limpieza obligada",
+      "effect": "Cuando termina la duración de **Guardiana del corazón** o el escudo se rompe debido al daño, inflige un 400% de Daño Geo a los enemigos cercanos."
+    },
+    "c5": {
+      "name": "Experta en limpieza",
+      "effect": "Aumenta el nivel de habilidad de **Hora de limpiar** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c6": {
+      "name": "Debe quedar impoluto",
+      "effect": "**Hora de limpiar** aumenta el ATQ de Noelle en un 50% adicional de su DEF.\nAdemás, mientras dure la habilidad, su duración se extenderá en 1 s por cada enemigo derrotado (máx. 10 s)."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Noel_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Noel_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Noel_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Noel_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Noel_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Noel_04.png",
+      "constellation": "Eff_UI_Talent_Noel"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Noelle",
+    "combat1": {
+      "name": "Ataque Normal: Técnica de espada Favonius - Criada",
+      "info": "**Ataque Normal**\nRealiza hasta 4 tajos de espada consecutivos.\n\n**Ataque Cargado**\nConsume Aguante de manera constante para realizar golpes de espada giratorios contra los enemigos cercanos.\nAl final del Ataque Cargado, realizará un golpe de espada más poderoso.\n\n**Ataque Descendente**\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "attributes": [
+        {
+          "name": "Daño de 1er golpe",
+          "parameters": [
+            "79.12%",
+            "85.56%",
+            "92.00%",
+            "101.20%",
+            "107.64%",
+            "115.00%",
+            "125.12%",
+            "135.24%",
+            "145.36%",
+            "156.40%",
+            "167.44%",
+            "178.48%",
+            "189.52%",
+            "200.56%",
+            "211.60%"
+          ]
+        },
+        {
+          "name": "Daño de 2.º golpe",
+          "parameters": [
+            "73.36%",
+            "79.33%",
+            "85.30%",
+            "93.83%",
+            "99.80%",
+            "106.62%",
+            "116.01%",
+            "125.39%",
+            "134.77%",
+            "145.01%",
+            "155.25%",
+            "165.48%",
+            "175.72%",
+            "185.95%",
+            "196.19%"
+          ]
+        },
+        {
+          "name": "Daño de 3er golpe",
+          "parameters": [
+            "86.26%",
+            "93.28%",
+            "100.30%",
+            "110.33%",
+            "117.35%",
+            "125.37%",
+            "136.41%",
+            "147.44%",
+            "158.47%",
+            "170.51%",
+            "182.55%",
+            "194.58%",
+            "206.62%",
+            "218.65%",
+            "230.69%"
+          ]
+        },
+        {
+          "name": "Daño de 4.º golpe",
+          "parameters": [
+            "113.43%",
+            "122.67%",
+            "131.90%",
+            "145.09%",
+            "154.32%",
+            "164.87%",
+            "179.38%",
+            "193.89%",
+            "208.40%",
+            "224.23%",
+            "240.06%",
+            "255.89%",
+            "271.71%",
+            "287.54%",
+            "303.37%"
+          ]
+        },
+        {
+          "name": "Daño de ATQ Cargado en ciclo",
+          "parameters": [
+            "50.74%",
+            "54.87%",
+            "59.00%",
+            "64.90%",
+            "69.03%",
+            "73.75%",
+            "80.24%",
+            "86.73%",
+            "93.22%",
+            "100.30%",
+            "107.38%",
+            "114.46%",
+            "121.54%",
+            "128.62%",
+            "135.70%"
+          ]
+        },
+        {
+          "name": "Daño final de Ataque Cargado",
+          "parameters": [
+            "90.47%",
+            "97.84%",
+            "105.20%",
+            "115.72%",
+            "123.08%",
+            "131.50%",
+            "143.07%",
+            "154.64%",
+            "166.22%",
+            "178.84%",
+            "191.46%",
+            "204.09%",
+            "216.71%",
+            "229.34%",
+            "241.96%"
+          ]
+        },
+        {
+          "name": "Coste de Aguante de ATQ Cargado",
+          "parameters": [
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s"
+          ]
+        },
+        {
+          "name": "Duración máx.",
+          "parameters": [
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s"
+          ]
+        },
+        {
+          "name": "Daño de Caída",
+          "parameters": [
+            "74.59%",
+            "80.66%",
+            "86.73%",
+            "95.40%",
+            "101.47%",
+            "108.41%",
+            "117.95%",
+            "127.49%",
+            "137.03%",
+            "147.44%",
+            "157.85%",
+            "168.26%",
+            "178.66%",
+            "189.07%",
+            "199.48%"
+          ]
+        },
+        {
+          "name": "Daño de impacto de caída baja/alta",
+          "parameters": [
+            "149.14%/186.29%",
+            "161.28%/201.45%",
+            "173.42%/216.62%",
+            "190.77%/238.28%",
+            "202.91%/253.44%",
+            "216.78%/270.77%",
+            "235.86%/294.60%",
+            "254.93%/318.42%",
+            "274.01%/342.25%",
+            "294.82%/368.25%",
+            "315.63%/394.24%",
+            "336.44%/420.23%",
+            "357.25%/446.23%",
+            "378.06%/472.22%",
+            "398.87%/498.21%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Guardiana del corazón",
+      "info": "Invoca un recubrimiento Geo que inflige Daño Geo a los enemigos cercanos y absorbe daño en proporción a la DEF de Noelle. El escudo tiene los siguientes efectos:\n·Cuando los Ataques Normales y Ataques Cargados de Noelle golpean un objetivo, hay una probabilidad de regenerar Vida para todos los miembros del equipo.\n·Posee un 150% de eficiencia de absorción contra todo el Daño Elemental y el Daño Físico.\n\nLa cantidad de Vida curada es proporcional a la DEF de Noelle.",
+      "description": "Noelle es una fiel criada y, al mismo tiempo, una valiente caballera.",
+      "attributes": [
+        {
+          "name": "Daño de habilidad",
+          "parameters": [
+            "120.00% de DEF",
+            "129.00% de DEF",
+            "138.00% de DEF",
+            "150.00% de DEF",
+            "159.00% de DEF",
+            "168.00% de DEF",
+            "180.00% de DEF",
+            "192.00% de DEF",
+            "204.00% de DEF",
+            "216.00% de DEF",
+            "228.00% de DEF",
+            "240.00% de DEF",
+            "255.00% de DEF",
+            "270.00% de DEF",
+            "285.00% de DEF"
+          ]
+        },
+        {
+          "name": "Absorción",
+          "parameters": [
+            "160.00% de DEF + 770",
+            "172.00% de DEF + 847",
+            "184.00% de DEF + 930",
+            "200.00% de DEF + 1020",
+            "212.00% de DEF + 1116",
+            "224.00% de DEF + 1219",
+            "240.00% de DEF + 1328",
+            "256.00% de DEF + 1443",
+            "272.00% de DEF + 1565",
+            "288.00% de DEF + 1694",
+            "304.00% de DEF + 1828",
+            "320.00% de DEF + 1970",
+            "340.00% de DEF + 2117",
+            "360.00% de DEF + 2271",
+            "380.00% de DEF + 2431"
+          ]
+        },
+        {
+          "name": "Curación",
+          "parameters": [
+            "21.28% de DEF + 103",
+            "22.88% de DEF + 113",
+            "24.47% de DEF + 124",
+            "26.60% de DEF + 136",
+            "28.20% de DEF + 149",
+            "29.79% de DEF + 163",
+            "31.92% de DEF + 177",
+            "34.05% de DEF + 193",
+            "36.18% de DEF + 209",
+            "38.30% de DEF + 226",
+            "40.43% de DEF + 244",
+            "42.56% de DEF + 263",
+            "45.22% de DEF + 282",
+            "47.88% de DEF + 303",
+            "50.54% de DEF + 324"
+          ]
+        },
+        {
+          "name": "Prob. de curación",
+          "parameters": [
+            "50.00%",
+            "51.00%",
+            "52.00%",
+            "53.00%",
+            "54.00%",
+            "55.00%",
+            "56.00%",
+            "57.00%",
+            "58.00%",
+            "59.00%",
+            "59.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%"
+          ]
+        },
+        {
+          "name": "Duración",
+          "parameters": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "24 s",
+            "24 s",
+            "24 s",
+            "24 s",
+            "24 s",
+            "24 s",
+            "24 s",
+            "24 s",
+            "24 s",
+            "24 s",
+            "24 s",
+            "24 s",
+            "24 s",
+            "24 s",
+            "24 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Hora de limpiar",
+      "info": "Al reunir el poder de la roca alrededor de su arma, Noelle golpea a los enemigos que la rodean dentro de una gran AdE, infligiendo Daño Geo.\nDespués, Noelle obtiene los siguientes efectos:\n·Aumenta el alcance de su ataque.\n·Convierte el daño de ATQ en Daño Geo. Este cambio elemental no puede ser sustituido imbuyéndolo de otro elemento.\n·Aumenta el ATQ en proporción a la DEF de Noelle.",
+      "description": "Lo que debe limpiarse a veces no es solo el polvo...",
+      "attributes": [
+        {
+          "name": "Daño de explosión",
+          "parameters": [
+            "67.20%",
+            "72.24%",
+            "77.28%",
+            "84.00%",
+            "89.04%",
+            "94.08%",
+            "100.80%",
+            "107.52%",
+            "114.24%",
+            "120.96%",
+            "127.68%",
+            "134.40%",
+            "142.80%",
+            "151.20%",
+            "159.60%"
+          ]
+        },
+        {
+          "name": "Daño de habilidad",
+          "parameters": [
+            "92.80%",
+            "99.76%",
+            "106.72%",
+            "116.00%",
+            "122.96%",
+            "129.92%",
+            "139.20%",
+            "148.48%",
+            "157.76%",
+            "167.04%",
+            "176.32%",
+            "185.60%",
+            "197.20%",
+            "208.80%",
+            "220.40%"
+          ]
+        },
+        {
+          "name": "Aumento de ATQ",
+          "parameters": [
+            "40.00% de DEF",
+            "43.00% de DEF",
+            "46.00% de DEF",
+            "50.00% de DEF",
+            "53.00% de DEF",
+            "56.00% de DEF",
+            "60.00% de DEF",
+            "64.00% de DEF",
+            "68.00% de DEF",
+            "72.00% de DEF",
+            "76.00% de DEF",
+            "80.00% de DEF",
+            "85.00% de DEF",
+            "90.00% de DEF",
+            "95.00% de DEF"
+          ]
+        },
+        {
+          "name": "Duración",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "Energía Elemental",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "De todo corazón",
+      "info": "Si la Vida de tu personaje en uso es inferior al 30% cuando Noelle está en tu equipo pero no en combate:\n·Dicho personaje en uso recibirá inmediatamente un escudo de una duración de 20 s que absorbe un daño equivalente al 400% de la DEF de Noelle.\n·El escudo tiene un 150% de efectividad de absorción contra todo el Daño Elemental y el Daño Físico.\n·Este efecto solo puede ocurrir una vez cada 60 s."
+    },
+    "passive2": {
+      "name": "Pulcra y eficaz",
+      "info": "Por cada 4 veces consecutivas que Noelle golpee a un enemigo con sus Ataques Normales o Cargados, el TdE de **Guardiana del corazón** se reduce en 1 s.\nComo máximo, cada golpe solo puede ocurrir una vez cada 0.1 s."
+    },
+    "passive3": {
+      "name": "Dedicación de la criada",
+      "info": "Al lograr un “Perfecto” en un plato con efectos de defensa, hay una probabilidad del 12% de obtener el doble."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseñanzas de la resistencia",
+          "count": 3
+        },
+        {
+          "name": "Máscara dañada",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guía de la resistencia",
+          "count": 2
+        },
+        {
+          "name": "Máscara sucia",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guía de la resistencia",
+          "count": 4
+        },
+        {
+          "name": "Máscara sucia",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guía de la resistencia",
+          "count": 6
+        },
+        {
+          "name": "Máscara sucia",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guía de la resistencia",
+          "count": 9
+        },
+        {
+          "name": "Máscara sucia",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofía de la resistencia",
+          "count": 4
+        },
+        {
+          "name": "Máscara amenazante",
+          "count": 4
+        },
+        {
+          "name": "Garra de Stormterror",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofía de la resistencia",
+          "count": 6
+        },
+        {
+          "name": "Máscara amenazante",
+          "count": 6
+        },
+        {
+          "name": "Garra de Stormterror",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofía de la resistencia",
+          "count": 12
+        },
+        {
+          "name": "Máscara amenazante",
+          "count": 9
+        },
+        {
+          "name": "Garra de Stormterror",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofía de la resistencia",
+          "count": 16
+        },
+        {
+          "name": "Máscara amenazante",
+          "count": 12
+        },
+        {
+          "name": "Garra de Stormterror",
+          "count": 2
+        },
+        {
+          "name": "Corona de la sabiduría",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Noel_01",
+      "combat3": "Skill_E_Noel_01_HD",
+      "passive1": "UI_Talent_S_Noel_05",
+      "passive2": "UI_Talent_S_Noel_06",
+      "passive3": "UI_Talent_Cook_Defense"
+    },
+    "version": "1.0"
+  }
+}

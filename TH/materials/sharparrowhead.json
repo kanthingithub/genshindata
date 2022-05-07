@@ -1,0 +1,22 @@
+{
+  "name": "Sharp Arrowhead",
+  "description": "ลูกธนูคม ความแหลมคมของมันสามารถทะลุ เกราะของศัตรูได้อย่างง่ายดายราวกับโยนมันลงไปผ่านผิวน้ำ",
+  "sortorder": 1733,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ได้รับจากการสรรสร้าง",
+    "ดรอปจาก Hilichurl Shooter Lv.40 ขึ้นไป",
+    "แลกเปลี่ยนด้วย Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sharp_Arrowhead.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Item_Sharp_Arrowhead.png",
+    "nameicon": "UI_ItemIcon_112012"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sharp_Arrowhead"
+  },
+  "version": ""
+}

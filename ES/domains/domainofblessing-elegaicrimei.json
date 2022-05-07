@@ -1,0 +1,267 @@
+{
+  "name": "Dominio de la bendición: Helada letal",
+  "region": "Mondstadt",
+  "domainEntrance": "Pico de Vindagnyr",
+  "domainType": "Artefacto",
+  "description": "Este lugar era antes un sitio de culto cercano al cielo, pero el Pilar del Frío Celestial que cayó de las alturas lo enterró en la montaña.\nEl aire frío de su interior creó un entorno singular. Para superar la prueba, debes conquistar este frío.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Cold_1"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Dominio de la bendición: Helada letal I",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Pyro",
+        "Electro",
+        "Geo",
+        "Anemo"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "EXP de Amistad",
+          "count": 15
+        },
+        {
+          "name": "Corazón del Guardián",
+          "rarity": "3"
+        },
+        {
+          "name": "Jugadora",
+          "rarity": "3"
+        },
+        {
+          "name": "Nómada del Invierno",
+          "rarity": "4"
+        },
+        {
+          "name": "Corazón de las Profundidades",
+          "rarity": "4"
+        },
+        {
+          "name": "Corazón del Guardián",
+          "rarity": "4"
+        },
+        {
+          "name": "Jugadora",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Los personajes presentes en el desafío acumulan Frío extremo gradualmente y pierden Vida al alcanzar el límite.",
+        "Durante el desafío, el suelo cambiará de forma intermitente entre los estados de Calidez y Clima glacial.",
+        "Las zonas afectadas por Calidez reducen la acumulación de Frío extremo, y las zonas afectadas por Clima glacial la aceleran."
+      ],
+      "monsterlist": [
+        "Slime Cryo",
+        "Slime Gigante Cryo",
+        "Mitachurl con Escudo Cryo"
+      ]
+    },
+    {
+      "name": "Dominio de la bendición: Helada letal II",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "Pyro",
+        "Electro",
+        "Geo",
+        "Anemo"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "EXP de Amistad",
+          "count": 20
+        },
+        {
+          "name": "Corazón del Guardián",
+          "rarity": "3"
+        },
+        {
+          "name": "Jugadora",
+          "rarity": "3"
+        },
+        {
+          "name": "Nómada del Invierno",
+          "rarity": "4"
+        },
+        {
+          "name": "Corazón de las Profundidades",
+          "rarity": "4"
+        },
+        {
+          "name": "Corazón del Guardián",
+          "rarity": "4"
+        },
+        {
+          "name": "Jugadora",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Los personajes presentes en el desafío acumulan Frío extremo gradualmente y pierden Vida al alcanzar el límite.",
+        "Durante el desafío, el suelo cambiará de forma intermitente entre los estados de Calidez y Clima glacial.",
+        "Las zonas afectadas por Calidez reducen la acumulación de Frío extremo, y las zonas afectadas por Clima glacial la aceleran."
+      ],
+      "monsterlist": [
+        "Slime Cryo",
+        "Slime Gigante Cryo",
+        "Hilichurl Granadero Cryo",
+        "Mitachurl con Escudo Cryo"
+      ]
+    },
+    {
+      "name": "Dominio de la bendición: Helada letal III",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Pyro",
+        "Electro",
+        "Geo",
+        "Anemo"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "EXP de Amistad",
+          "count": 20
+        },
+        {
+          "name": "Corazón del Guardián",
+          "rarity": "3"
+        },
+        {
+          "name": "Jugadora",
+          "rarity": "3"
+        },
+        {
+          "name": "Nómada del Invierno",
+          "rarity": "4"
+        },
+        {
+          "name": "Corazón de las Profundidades",
+          "rarity": "4"
+        },
+        {
+          "name": "Corazón del Guardián",
+          "rarity": "4"
+        },
+        {
+          "name": "Jugadora",
+          "rarity": "4"
+        },
+        {
+          "name": "Nómada del Invierno",
+          "rarity": "5"
+        },
+        {
+          "name": "Corazón de las Profundidades",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Los personajes presentes en el desafío acumulan Frío extremo gradualmente y pierden Vida al alcanzar el límite.",
+        "Durante el desafío, el suelo cambiará de forma intermitente entre los estados de Calidez y Clima glacial.",
+        "Las zonas afectadas por Calidez reducen la acumulación de Frío extremo, y las zonas afectadas por Clima glacial la aceleran."
+      ],
+      "monsterlist": [
+        "Slime Gigante Cryo",
+        "Hilichurl Granadero Cryo",
+        "Mitachurl con Escudo Cryo",
+        "Mago del Abismo Cryo"
+      ]
+    },
+    {
+      "name": "Dominio de la bendición: Helada letal IV",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "Pyro",
+        "Electro",
+        "Geo",
+        "Anemo"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "EXP de Amistad",
+          "count": 20
+        },
+        {
+          "name": "Corazón del Guardián",
+          "rarity": "3"
+        },
+        {
+          "name": "Jugadora",
+          "rarity": "3"
+        },
+        {
+          "name": "Nómada del Invierno",
+          "rarity": "4"
+        },
+        {
+          "name": "Corazón de las Profundidades",
+          "rarity": "4"
+        },
+        {
+          "name": "Corazón del Guardián",
+          "rarity": "4"
+        },
+        {
+          "name": "Jugadora",
+          "rarity": "4"
+        },
+        {
+          "name": "Nómada del Invierno",
+          "rarity": "5"
+        },
+        {
+          "name": "Corazón de las Profundidades",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Los personajes presentes en el desafío acumulan Frío extremo gradualmente y pierden Vida al alcanzar el límite.",
+        "Durante el desafío, el suelo cambiará de forma intermitente entre los estados de Calidez y Clima glacial.",
+        "Las zonas afectadas por Calidez reducen la acumulación de Frío extremo, y las zonas afectadas por Clima glacial la aceleran."
+      ],
+      "monsterlist": [
+        "Lawachurl Brazo Helado",
+        "Mago del Abismo Cryo"
+      ]
+    }
+  ]
+}

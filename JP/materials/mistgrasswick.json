@@ -1,0 +1,21 @@
+{
+  "name": "霧虚ろの灯芯",
+  "description": "珍しい霧虚ろの草を束にしたもの、暗い光を放つ。こういう提灯を持つ人は飛蛍と不幸を招くことになる。",
+  "sortorder": 1746,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "キャラクター育成素材",
+  "source": [
+    "合成で獲得",
+    "ファデュイ·蛍術師（Lv.60以上）でドロップ"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Grass_Wick.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Item_Mist_Grass_Wick.png",
+    "nameicon": "UI_ItemIcon_112028"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Grass_Wick"
+  },
+  "version": ""
+}

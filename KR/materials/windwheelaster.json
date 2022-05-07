@@ -1,0 +1,21 @@
+{
+  "name": "풍차 국화",
+  "description": "바람을 좋아하는 식물. 바람을 섬기고 바람처럼 호쾌하고 자유로운 몬드 사람에게 풍차 국화는 「눈에 보이는 바람」이다",
+  "sortorder": 2039,
+  "category": "EXCHANGE",
+  "materialtype": "몬드 지역 특산물",
+  "source": [
+    "바람이 시작되는 곳의 일곱신상 근처 채집",
+    "야외 나무 밑 채집",
+    "추천: 바람 드래곤의 폐허 채집"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Windwheel_Aster.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Windwheel_Aster.png",
+    "nameicon": "UI_ItemIcon_100024"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Windwheel_Aster"
+  },
+  "version": ""
+}

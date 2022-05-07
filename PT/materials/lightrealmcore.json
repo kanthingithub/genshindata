@@ -1,0 +1,18 @@
+{
+  "name": "Núcleo do Reino da Luz",
+  "description": "Uma pedra estranha descoberta ao explorar Enkanomiya envolta pela escuridão.\nO Reino da Luz deu aos humanos meios adicionais para resistir ao Abismo.",
+  "sortorder": 1218,
+  "rarity": "4",
+  "category": "CONSUME",
+  "materialtype": "Consumível",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_101693",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Light_Realm_Core.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Item_Light_Realm_Core.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Light_Realm_Core"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Wheat",
+  "description": "Golden, sun-kissed tassels. Needs to be ground down to flour for further use.",
+  "sortorder": 1983,
+  "category": "EXCHANGE",
+  "materialtype": "Cooking Ingredient",
+  "source": [
+    "Found in the wild",
+    "Sold at general goods shops"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wheat.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Item_Wheat.png",
+    "nameicon": "UI_ItemIcon_100017"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Wheat"
+  },
+  "version": ""
+}

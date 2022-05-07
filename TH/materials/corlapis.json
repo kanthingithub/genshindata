@@ -1,0 +1,20 @@
+{
+  "name": "Cor Lapis",
+  "description": "ผลึกหายากซึ่งควบแน่นโดยองค์ประกอบของหินที่มีความบริสุทธิ์มาก มักจะเกี่ยวข้องกับแร่ธาตุอื่น ๆ หรือที่รู้จักในชื่อ \"Cor Petrae\"",
+  "sortorder": 2044,
+  "category": "EXCHANGE",
+  "materialtype": "ของพิเศษเฉพาะใน Liyue",
+  "source": [
+    "หาได้ที่ใต้หน้าผาของ Liyue",
+    "คำแนะนำ: หาได้ที่ภูเขา Mt. Hulao"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cor_Lapis.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Item_Cor_Lapis.png",
+    "nameicon": "UI_ItemIcon_100058"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cor_Lapis"
+  },
+  "version": ""
+}

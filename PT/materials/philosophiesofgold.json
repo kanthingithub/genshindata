@@ -1,0 +1,26 @@
+{
+  "name": "Filosofia de Ouro",
+  "description": "Material para aprimorar o nível de Talento.\nO ouro é o Reino das Rochas.\nO ouro é a riqueza de Liyue, mas a verdadeira riqueza de Liyue é o coração de seu povo que brilha como ouro.",
+  "sortorder": 1868,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Talento",
+  "dropdomain": "Domínio da Proficiência: Círculos de Fogo",
+  "daysofweek": [
+    "Quarta-feira",
+    "Sábado",
+    "Domingo"
+  ],
+  "source": [
+    "Obtido na síntese"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Gold.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_Philosophies_of_Gold.png",
+    "nameicon": "UI_ItemIcon_104318"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Gold"
+  },
+  "version": ""
+}

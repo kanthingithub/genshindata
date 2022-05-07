@@ -1,0 +1,20 @@
+{
+  "name": "Eines Streuners Gedanken",
+  "description": "Material für Figuren-EP, enthält 1.000 EP.\nWenn man nicht gerade aus einer der Sieben Städte des Landes kommt, kann man diese Erfahrung gut gebrauchen.",
+  "sortorder": 1290,
+  "rarity": "2",
+  "category": "EXP_FRUIT",
+  "materialtype": "Material für Figuren-EP",
+  "source": [
+    "Abenteuer- und Erkundungsbelohnung"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_104001",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wanderer's_Advice.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Wanderer%27s_Advice.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Wanderer's_Advice"
+  },
+  "version": ""
+}

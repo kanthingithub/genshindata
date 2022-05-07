@@ -1,0 +1,20 @@
+{
+  "name": "Blitzprisma",
+  "description": "Mit diesem elementaren Stoff konzentriert eine Elektro-Hypostase ihre Energie und heilt ihre Verletzungen. Darin enthalten ist reine Elektro-Kraft.\nEin herkömmliches Prisma kann das Farbspektrum des Lichts auseinandernehmen, während ein Blitzprisma fließende Energie in einen Blitzschlag bündeln kann. Die Elektro-Hypostase mag zwar besiegt sein, die Elektro-Kraft in diesem Prisma ist aber noch vollständig vorhanden.",
+  "sortorder": 1784,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Beute von Elektro-Hypostasen ab Stufe 30"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lightning_Prism.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Item_Lightning_Prism.png",
+    "nameicon": "UI_ItemIcon_113002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lightning_Prism"
+  },
+  "version": ""
+}

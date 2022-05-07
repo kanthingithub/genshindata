@@ -1,0 +1,45 @@
+{
+  "name": "Бледный огонь",
+  "rarity": [
+    "4",
+    "5"
+  ],
+  "2pc": "Увеличивает физ. урон на 25%.",
+  "4pc": "Когда элементальный навык попадает по врагам, атака увеличивается на 9% в течение 7 сек. Эффект может складываться до 2 раз и возникнуть не чаще 1 раза за 0,3 сек. На 2 уровне складывания эффект набора из 2 вещей увеличивается на 100%.",
+  "flower": {
+    "name": "Незапятнанный цветок",
+    "relictype": "Цветок жизни",
+    "description": "Жёсткий синий искусственный цветок. Он никогда не поблёкнет, а его лепестки никогда не завянут."
+  },
+  "plume": {
+    "name": "Перо мудрого лекаря",
+    "relictype": "Перо смерти",
+    "description": "Зловещее перо с невероятно острыми краями. Быть может, оно символизирует неестественную безудержность."
+  },
+  "sands": {
+    "name": "Замершее мгновение",
+    "relictype": "Пески времени",
+    "description": "Эти карманные часы не открыть, но они продолжают идти, отмечая тиканьем неумолимое течение времени."
+  },
+  "goblet": {
+    "name": "Превосходящая чаша",
+    "relictype": "Кубок пространства",
+    "description": "Изысканная чаша, вид которой не позволяет установить её возраст."
+  },
+  "circlet": {
+    "name": "Смеющаяся маска",
+    "relictype": "Корона разума",
+    "description": "Эта маска закрывает лицо владельца, не позволяя окружающим видеть его выражение."
+  },
+  "images": {
+    "flower": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15018_4.png",
+    "plume": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15018_2.png",
+    "sands": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15018_5.png",
+    "goblet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15018_1.png",
+    "circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15018_3.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Pale_Flame"
+  },
+  "version": "1.5"
+}

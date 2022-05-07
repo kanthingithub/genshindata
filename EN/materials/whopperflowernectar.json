@@ -1,0 +1,21 @@
+{
+  "name": "Whopperflower Nectar",
+  "description": "Nectar extracted from the stamen of a Whopperflower that contains trace amounts of elemental energy.\nThe taste of the nectar has a hint of Sweet Flower in it.",
+  "sortorder": 1756,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Dropped by whopperflowers",
+    "Stardust Exchange"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Whopperflower_Nectar.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Item_Whopperflower_Nectar.png",
+    "nameicon": "UI_ItemIcon_112038"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Whopperflower_Nectar"
+  },
+  "version": ""
+}

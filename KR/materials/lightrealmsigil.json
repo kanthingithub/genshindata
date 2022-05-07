@@ -1,0 +1,18 @@
+{
+  "name": "광계의 인장",
+  "description": "연하궁 토코요노카미의 인정을 받아 획득한 인장.\n어사 석상에 공양해 보쿠소의 함의 등급을 올릴 수 있다",
+  "sortorder": 1217,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "소모품",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_101692",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Light_Realm_Sigil.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Item_Light_Realm_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Light_Realm_Sigil"
+  },
+  "version": ""
+}

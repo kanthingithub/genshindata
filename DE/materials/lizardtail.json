@@ -1,0 +1,19 @@
+{
+  "name": "Echsenschwanz",
+  "description": "Der leicht gekrümmte Schwanz einer Echse, zu der er einst gehörte. Seine bitteren Bestandteile härten die Haut auf wirksame Weise.",
+  "sortorder": 1974,
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [
+    "Beim Fangen von Echsen zu erhalten"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lizard_Tail.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Lizard_Tail.png",
+    "nameicon": "UI_ItemIcon_100083"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lizard_Tail"
+  },
+  "version": ""
+}

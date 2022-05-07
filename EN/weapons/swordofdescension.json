@@ -1,0 +1,297 @@
+{
+  "name": "Sword of Descension",
+  "description": "A sword of unique craftsmanship. It does not appear to belong to this world.",
+  "weapontype": "Sword",
+  "rarity": "4",
+  "baseatk": 39,
+  "substat": "ATK",
+  "subvalue": "7.7",
+  "effectname": "Descension",
+  "effect": [
+    "Effective only on the following platform: \n\"PlayStation Network\"\nHitting opponents with Normal and Charged Attacks grants a [50%] chance to deal [200%] ATK as DMG in a small AoE. This effect can only occur once every 10s. Additionally, if the Traveler equips the Sword of Descension, their ATK is increased by [66]."
+  ],
+  "r1": [
+    "50%",
+    "200%",
+    "66"
+  ],
+  "r2": [],
+  "r3": [],
+  "r4": [],
+  "r5": [],
+  "weaponmaterialtype": "Boreal Wolf",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 5000
+      },
+      {
+        "name": "Boreal Wolf's Milk Tooth",
+        "count": 3
+      },
+      {
+        "name": "Dead Ley Line Branch",
+        "count": 3
+      },
+      {
+        "name": "Treasure Hoarder Insignia",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 15000
+      },
+      {
+        "name": "Boreal Wolf's Cracked Tooth",
+        "count": 3
+      },
+      {
+        "name": "Dead Ley Line Branch",
+        "count": 12
+      },
+      {
+        "name": "Treasure Hoarder Insignia",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Boreal Wolf's Cracked Tooth",
+        "count": 6
+      },
+      {
+        "name": "Dead Ley Line Leaves",
+        "count": 6
+      },
+      {
+        "name": "Silver Raven Insignia",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Boreal Wolf's Broken Fang",
+        "count": 3
+      },
+      {
+        "name": "Dead Ley Line Leaves",
+        "count": 12
+      },
+      {
+        "name": "Silver Raven Insignia",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 35000
+      },
+      {
+        "name": "Boreal Wolf's Broken Fang",
+        "count": 6
+      },
+      {
+        "name": "Ley Line Sprout",
+        "count": 9
+      },
+      {
+        "name": "Golden Raven Insignia",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Boreal Wolf's Nostalgia",
+        "count": 4
+      },
+      {
+        "name": "Ley Line Sprout",
+        "count": 18
+      },
+      {
+        "name": "Golden Raven Insignia",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Weapon_Sword_of_Descension.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Psalmus.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Psalmus_Awaken.png",
+    "nameicon": "UI_EquipIcon_Sword_Psalmus",
+    "namegacha": "UI_Gacha_EquipIcon_Sword_Psalmus",
+    "nameawakenicon": "UI_EquipIcon_Sword_Psalmus_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sword_of_Descension"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 38.74129867553711,
+      "specialized": 0.07660000026226044
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 50.47991113972057,
+      "specialized": 0.08900919577555655
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 65.04664125210502,
+      "specialized": 0.10440580306036473
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 79.45840816490272,
+      "specialized": 0.11987900479352476
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 93.75394575052633,
+      "specialized": 0.13535219739525317
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 119.6539453690566,
+      "specialized": 0.13535219739525317
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 133.8332582458288,
+      "specialized": 0.1508253991284132
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 147.85760792301426,
+      "specialized": 0.16629860086157322
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 161.80447138208365,
+      "specialized": 0.18177179346330163
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 175.67385785968236,
+      "specialized": 0.19724500432789327
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 201.673859767031,
+      "specialized": 0.19724500432789327
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 215.42703077242368,
+      "specialized": 0.21271819692962168
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 229.10269708640953,
+      "specialized": 0.22819140779421332
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 255.00269861228844,
+      "specialized": 0.22819140779421332
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 268.6009064180944,
+      "specialized": 0.24366460039594173
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 282.1216187691389,
+      "specialized": 0.25913779299767015
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 308.02161266562325,
+      "specialized": 0.25913779299767015
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 321.5035865259324,
+      "specialized": 0.2746110038622618
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 334.9080649314801,
+      "specialized": 0.29000760201563835
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 360.9080649314801,
+      "specialized": 0.29000760201563835
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 374.3125618103186,
+      "specialized": 0.30548079461736677
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 387.67830172513095,
+      "specialized": 0.3209540054819584
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 413.5783108804044,
+      "specialized": 0.3209540054819584
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 426.9053123044814,
+      "specialized": 0.33642721634655004
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 440.19359371111386,
+      "specialized": 0.35190039068541523
+    }
+  },
+  "version": "1.0"
+}

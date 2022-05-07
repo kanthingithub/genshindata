@@ -1,0 +1,20 @@
+{
+  "name": "Тофу",
+  "description": "Приготовленное из бобов блюдо с нежной кремовой текстурой.",
+  "sortorder": 2004,
+  "category": "EXCHANGE",
+  "materialtype": "Кухонный ингредиент",
+  "source": [
+    "Лавки Ли Юэ",
+    "Торговые лавки Инадзумы"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Tofu.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Item_Tofu.png",
+    "nameicon": "UI_ItemIcon_100088"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Tofu"
+  },
+  "version": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Dây Tâm Đèn",
+  "description": "Nguyên liệu chế tạo Đèn Tiêu trong Tết Hải Đăng.\nLà loại tơ len dễ tìm. Sau khi được xử lý, có thể làm thành tim đèn trời, hãy để nó mang theo nguyện vọng lương thiện đi đến nơi xa.",
+  "sortorder": 2288,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Nguyên Liệu Tết Hải Đăng",
+  "source": [
+    "Rơi ra từ ma vật Hilichurl",
+    "Rơi ra từ tinh anh Fatui"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wick_Material.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Item_Wick_Material.png",
+    "nameicon": "UI_ItemIcon_200002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Wick_Material"
+  },
+  "version": ""
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Pedaço de Lazurita Varunada",
+  "description": "Material de Ascensão de Personagem.\n\"Meus ideais são intocados.\"\n\"Eu preciso corrigir você. As pessoas aqui não cometem erros diante dos olhos dos deuses...\"",
+  "sortorder": 1828,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Dropado pelos Oceanids de Nível 60+",
+    "Dropado por Hypostasis Hydro Nv.60+",
+    "Obtido na síntese"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Varunada_Lazurite_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Item_Varunada_Lazurite_Chunk.png",
+    "nameicon": "UI_ItemIcon_104123"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Varunada_Lazurite_Chunk"
+  },
+  "version": ""
+}

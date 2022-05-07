@@ -1,0 +1,18 @@
+{
+  "name": "아코의 사케마스",
+  "description": "「어획」 전용 재련 아이템.\n과거 세이라이에 군림했던 아코 도메키 일당이 즐겨 사용하던 술잔. 바닷물을 타고 낚시꾼의 낚싯바늘에 걸리게 된다…",
+  "sortorder": 2297,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "재련 재료",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ako's_Sake_Vessel.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Item_Ako%27s_Sake_Vessel.png",
+    "nameicon": "UI_ItemIcon_200107"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ako's_Sake_Vessel"
+  },
+  "version": ""
+}

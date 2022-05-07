@@ -1,0 +1,20 @@
+{
+  "name": "Feueropfer",
+  "rarity": [
+    "3",
+    "4"
+  ],
+  "1pc": "Verringert die Dauer der Beeinträchtigung durch zusätzliches Pyro-Attribut um 40 %.",
+  "circlet": {
+    "name": "Feueropferdiadem",
+    "relictype": "Haarreif der Vernunft",
+    "description": "Ein ritueller Kopfschmuck, den Priester in alter Zeit während ihrer Zeremonien trugen. Da er lange Jahre dem Feuer ausgesetzt war, hat er eine erstaunliche Widerstandskraft entwickelt."
+  },
+  "images": {
+    "circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15009_3.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Prayers_for_Illumination"
+  },
+  "version": "1.0"
+}

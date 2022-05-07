@@ -1,0 +1,19 @@
+{
+  "name": "Huevas de cangrejo",
+  "description": "Un manjar procedente de los cangrejos hembras. Un ingrediente raro y preciado que no es del gusto de todos.",
+  "sortorder": 1994,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente culinario",
+  "source": [
+    "Procesar comida"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crab_Roe.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/25/Item_Crab_Roe.png",
+    "nameicon": "UI_ItemIcon_110007"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Crab_Roe"
+  },
+  "version": ""
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Sandbearer Wood",
+  "description": "Kayu dari Pohon Sandbearer. Kayu ini dikenal sangat kebal terhadap angin dan hujan, serta memiliki umur yang panjang.\nDapat digunakan untuk membuat perabotan.",
+  "sortorder": 1950,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Material",
+  "source": [
+    "Ditemukan di alam liar",
+    "Rekomendasi: Ditebang dari Minlin",
+    "Rekomendasi: Ditebang dari Lisha"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sandbearer_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/36/Item_Sandbearer_Wood.png",
+    "nameicon": "UI_ItemIcon_101304"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sandbearer_Wood"
+  },
+  "version": ""
+}

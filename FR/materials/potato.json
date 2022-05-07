@@ -1,0 +1,19 @@
+{
+  "name": "Pomme de terre",
+  "description": "Un légume-racine dont on ne se lasse jamais grâce aux mille et une façons de le cuisiner.",
+  "sortorder": 2000,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrédient",
+  "source": [
+    "Épiceries"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Potato.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Item_Potato.png",
+    "nameicon": "UI_ItemIcon_100080"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Potato"
+  },
+  "version": ""
+}

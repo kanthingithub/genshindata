@@ -1,0 +1,19 @@
+{
+  "name": "熏禽肉",
+  "description": "经过熏制的禽肉。紧实的肉质带来别样的味觉体验。",
+  "sortorder": 1527,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "烹饪加工获得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Smoked_Fowl.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Smoked_Fowl.png",
+    "nameicon": "UI_ItemIcon_110003"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Smoked_Fowl"
+  },
+  "version": ""
+}

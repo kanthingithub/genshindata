@@ -1,0 +1,21 @@
+{
+  "name": "Windwheel Aster",
+  "description": "พืชที่ชอบลม สำหรับผู้ซึ่งมีความเชื่อในสายลมอย่างชาว Mondstadt ที่มีความจริงใจซื่อตรงแล้ว Windwheel Aster ก็เปรียบดั่ง \"ลมที่มองเห็นได้\"",
+  "sortorder": 2039,
+  "category": "EXCHANGE",
+  "materialtype": "ของพิเศษเฉพาะใน Mondstadt",
+  "source": [
+    "รวบรวมได้บริเวณ Statue of The Seven ที่ Windrise",
+    "หาได้ที่ใต้ต้นไม้ในป่า",
+    "คำแนะนำ: หาได้ที่ Stormterror's Lair"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Windwheel_Aster.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Windwheel_Aster.png",
+    "nameicon": "UI_ItemIcon_100024"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Windwheel_Aster"
+  },
+  "version": ""
+}

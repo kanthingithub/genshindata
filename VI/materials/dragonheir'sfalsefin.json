@@ -1,0 +1,20 @@
+{
+  "name": "Vảy Giả Tộc Rồng",
+  "description": "Loại mô sinh học nhận được khi tiêu diệt Rồng Biển Sâu.\nTuy trông như vảy cá, nhưng thực ra lại không có công dụng gì.\nCư dân Vương Quốc Đêm Trắng cũng từng có nghiên cứu chuyên sâu về Rồng Biển Sâu. Điểm đặc biệt nhất của chúng là khả năng lựa chọn đặc điểm mà nó muốn truyền lại cho con cái. Vì căm ghét ánh sáng của loài người nên Rồng Biển Sâu khi trưởng thành sẽ mất đi phần lớn thị lực, đồng thời chúng cũng sẽ tiến hóa thành các loại nguyên tố khác nhau để thích nghi với chiến đấu.",
+  "sortorder": 1813,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Đàn Rồng Biển Sâu cấp 30 trở lên rơi"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_113031",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dragonheir's_False_Fin.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Item_Dragonheir%27s_False_Fin.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dragonheir's_False_Fin"
+  },
+  "version": ""
+}

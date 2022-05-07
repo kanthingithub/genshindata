@@ -1,0 +1,26 @@
+{
+  "name": "Останки богов Гуюнь",
+  "description": "Материал возвышения оружия.\nВ этой реликвии таятся останки древних скорбящих богов. Это их нереализованные идеи и планы по процветанию человечества, которым никогда не суждено воплотиться. Они могут лежать на дне моря или глубоко в недрах скалы, но они никогда не исчезнут с лица этого мира.",
+  "sortorder": 2198,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Возвышение оружия",
+  "dropdomain": "Воля: Алтарь грозовых туч",
+  "daysofweek": [
+    "Понедельник",
+    "Четверг",
+    "Воскресенье"
+  ],
+  "source": [
+    "Алхимия"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Divine_Body_from_Guyun.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e8/Item_Divine_Body_from_Guyun.png",
+    "nameicon": "UI_ItemIcon_114016"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Divine_Body_from_Guyun"
+  },
+  "version": ""
+}

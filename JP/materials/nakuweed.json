@@ -1,0 +1,20 @@
+{
+  "name": "鳴草",
+  "description": "風のない日でも、雷鳴に反応し微かに揺れ動く植物。花びらのように見える構造は、実は葉っぱであり、脆弱な花を守っている。",
+  "sortorder": 2064,
+  "category": "EXCHANGE",
+  "materialtype": "稲妻地域の特産",
+  "source": [
+    "野外で採集",
+    "推奨：たたら砂で採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Naku_Weed.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Item_Naku_Weed.png",
+    "nameicon": "UI_ItemIcon_101205"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Naku_Weed"
+  },
+  "version": ""
+}

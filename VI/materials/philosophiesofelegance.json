@@ -1,0 +1,26 @@
+{
+  "name": "Triết Học Của \"Nhã Nhặn\"",
+  "description": "Nguyên liệu bồi dưỡng thiên phú.\nDung mạo của Lôi quốc là sự nhã nhặn.\nNhã nhặn không tầm thường. Một người nhã nhặn sẽ luôn bước đi một mình. Chỉ bằng cách không khuất phục trước cái ác của cái tầm thường, không bị lay động bởi tình yêu của cái tầm thường, hoặc thoát khỏi sự ngu dốt của cái tầm thường, thì mới có thể phân biệt được giữa tao nhã và tầm thường.",
+  "sortorder": 1874,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Thiên Phú",
+  "dropdomain": "Bí Cảnh Tinh Thông: Vực Sâu Sấm Sét",
+  "daysofweek": [
+    "Thứ 3",
+    "Thứ 6",
+    "Chủ Nhật"
+  ],
+  "source": [
+    "Ghép Nhận"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Elegance.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Item_Philosophies_of_Elegance.png",
+    "nameicon": "UI_ItemIcon_104325"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Elegance"
+  },
+  "version": ""
+}

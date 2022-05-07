@@ -1,0 +1,20 @@
+{
+  "name": "塞西莉亞花",
+  "description": "名子與外型同等美麗的花朵，只生長在清冷而風急的高處，如同浪子一樣真心難以觸碰。",
+  "sortorder": 2038,
+  "category": "EXCHANGE",
+  "materialtype": "蒙德區域特產",
+  "source": [
+    "野外採集",
+    "推薦：摘星崖採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cecilia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Cecilia.png",
+    "nameicon": "UI_ItemIcon_100023"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cecilia"
+  },
+  "version": ""
+}

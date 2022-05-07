@@ -1,0 +1,178 @@
+{
+  "name": "炼武秘境：流沙之葬",
+  "region": "稻妻",
+  "domainEntrance": "砂流之庭",
+  "domainType": "武器突破素材",
+  "description": "在砂金永远流淌散落的祭场中，潜伏着难以抵御岩元素攻击的敌人。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+  "daysOfWeek": [
+    "周三",
+    "周六",
+    "周日"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Rock"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "炼武秘境：流沙之葬 I",
+      "recommendedLevel": 15,
+      "recommendedElements": [
+        "岩元素",
+        "冰元素"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "冒险阅历",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 1125
+        },
+        {
+          "name": "好感经验",
+          "count": 10
+        },
+        {
+          "name": "今昔剧画之恶尉"
+        }
+      ],
+      "disorder": [
+        "队伍中所有角色的护盾强效提升40%。",
+        "角色获取岩元素反应产生的晶片时，会释放冲击波，对附近的敌人造成伤害。"
+      ],
+      "monsterlist": [
+        "水史莱姆",
+        "大型水史莱姆",
+        "火史莱姆",
+        "大型火史莱姆"
+      ]
+    },
+    {
+      "name": "炼武秘境：流沙之葬 II",
+      "recommendedLevel": 36,
+      "recommendedElements": [
+        "岩元素",
+        "冰元素"
+      ],
+      "unlockRank": 21,
+      "rewardPreview": [
+        {
+          "name": "冒险阅历",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 1550
+        },
+        {
+          "name": "好感经验",
+          "count": 15
+        },
+        {
+          "name": "今昔剧画之恶尉"
+        },
+        {
+          "name": "今昔剧画之虎啮"
+        }
+      ],
+      "disorder": [
+        "队伍中所有角色的护盾强效提升40%。",
+        "角色获取岩元素反应产生的晶片时，会释放冲击波，对附近的敌人造成伤害。"
+      ],
+      "monsterlist": [
+        "大型水史莱姆",
+        "大型火史莱姆"
+      ]
+    },
+    {
+      "name": "炼武秘境：流沙之葬 III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "岩元素",
+        "冰元素"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "冒险阅历",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 1850
+        },
+        {
+          "name": "好感经验",
+          "count": 15
+        },
+        {
+          "name": "今昔剧画之恶尉"
+        },
+        {
+          "name": "今昔剧画之虎啮"
+        },
+        {
+          "name": "今昔剧画之一角"
+        }
+      ],
+      "disorder": [
+        "队伍中所有角色的护盾强效提升40%。",
+        "角色获取岩元素反应产生的晶片时，会释放冲击波，对附近的敌人造成伤害。"
+      ],
+      "monsterlist": [
+        "大型水史莱姆",
+        "大型火史莱姆",
+        "水深渊法师",
+        "火深渊法师"
+      ]
+    },
+    {
+      "name": "炼武秘境：流沙之葬 IV",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "岩元素",
+        "冰元素"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "冒险阅历",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 2200
+        },
+        {
+          "name": "好感经验",
+          "count": 20
+        },
+        {
+          "name": "今昔剧画之恶尉"
+        },
+        {
+          "name": "今昔剧画之虎啮"
+        },
+        {
+          "name": "今昔剧画之一角"
+        },
+        {
+          "name": "今昔剧画之鬼人"
+        }
+      ],
+      "disorder": [
+        "队伍中所有角色的护盾强效提升40%。",
+        "角色获取岩元素反应产生的晶片时，会释放冲击波，对附近的敌人造成伤害。"
+      ],
+      "monsterlist": [
+        "雷弹丘丘人",
+        "大型雷史莱姆",
+        "变异雷史莱姆",
+        "雷斧丘丘暴徒"
+      ]
+    }
+  ]
+}

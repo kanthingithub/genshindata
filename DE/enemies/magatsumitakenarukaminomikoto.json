@@ -1,0 +1,183 @@
+{
+  "name": "Magatsu Mitake Narukami no Mikoto",
+  "specialname": "Raiden no Inazuma Tono",
+  "enemytype": "BOSS",
+  "category": "Einprägsame Gegner",
+  "description": "Das ist die Form, die die Marionette, die die Autorität des Shougun Raiden geerbt hat, annimmt, wenn sie sich denjenigen entgegenstellt, die die Ewigkeit bedrohen.\nAls Assistentin von Shougun Raiden bei der Verfolgung der Ewigkeit hat sie nie gezweifelt, nie Angst verspürt, nie weniger als ihr Bestes gegeben und sich nie von müßigen Gedanken stören lassen.\nSie hörte einmal davon, wie Ei eine ähnliche Aufgabe schulterte, als Makoto ebenfalls anwesend war, und dabei viele qualvolle Verluste erlitt.\nAls sich die beiden Schatten noch einmal überschnitten, konnte sie jedoch nur die unzähligen feinen Brüche in dem sehen, was „ihr“ ewiger Wille hätte sein sollen. Da das Schicksal von einem sich wiederholenden Kreislauf bestimmt ist, muss sie ihr Versprechen einlösen und „ihr“ den Krieg erklären.\n\n„Meine Gestalt ist ein Symbol höchster Majestät, die die Macht über das ganze Reich in sich trägt. Ich bin die alles einschließende Verkörperung dessen, was den ‚Shougun Raiden‘ ausmacht.“\n„Natürlich habe ich auch den Schmerz von Eis zahllosen Verlusten und ihren Willen, die Ewigkeit zu erreichen, geerbt.“\n„Entschlossenheit, Mut, Liebe, Hass ... All das wird durch den unaufhörlichen Fluss der Zeit abgebaut und verzerrt.“\n„Nur die Regeln werden sich nie ändern.“",
+  "rewardpreview": [
+    {
+      "name": "Abenteuer-EP",
+      "count": 300
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Freundschafts-EP"
+    },
+    {
+      "name": "Vajrada-Amethyst-Splitter"
+    },
+    {
+      "name": "Vajrada-Amethyst-Bruchstück"
+    },
+    {
+      "name": "Vajrada-Amethyst-Brocken"
+    },
+    {
+      "name": "Vajrada-Amethyst"
+    },
+    {
+      "name": "Traumlösungsmittel",
+      "count": 0.33
+    },
+    {
+      "name": "Mudra des grimmigen Generals"
+    },
+    {
+      "name": "Tränen des unheilvollen Gottes"
+    },
+    {
+      "name": "Sinn der Äonen"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Ausbilder",
+      "rarity": "3"
+    },
+    {
+      "name": "Verbannter",
+      "rarity": "3"
+    },
+    {
+      "name": "Verbeugung des Gladiators",
+      "rarity": "4"
+    },
+    {
+      "name": "Wanderorchester",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Ausbilder",
+      "rarity": "4"
+    },
+    {
+      "name": "Verbannter",
+      "rarity": "4"
+    },
+    {
+      "name": "Verbeugung des Gladiators",
+      "rarity": "5"
+    },
+    {
+      "name": "Wanderorchester",
+      "rarity": "5"
+    },
+    {
+      "name": "Unbearbeiteter Einhänder des Nordens"
+    },
+    {
+      "name": "Unbearbeiteter Bogen des Nordens"
+    },
+    {
+      "name": "Unbearbeiteter Zweihänder des Nordens"
+    },
+    {
+      "name": "Unbearbeiteter Katalysator des Nordens"
+    },
+    {
+      "name": "Unbearbeitete Stangenwaffe des Nordens"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Shougun_Mitakenarukami"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 264.31200766221446,
+      "attack": 40.60445216221706,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 1041.0084802045167,
+      "attack": 108.48444509163892,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 3064.0500151023734,
+      "attack": 267.60001199199905,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 5705.892238915956,
+      "attack": 437.08268672162376,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 10245.049272354052,
+      "attack": 653.4622327690013,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 18876.71628651896,
+      "attack": 919.1582172315684,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 31892.194473129,
+      "attack": 1227.6749565427017,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 52747.54924129648,
+      "attack": 1632.5942986839218,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 85091.82527925633,
+      "attack": 2371.6078888032935,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 133561.04123643134,
+      "attack": 3045.019701340352,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 199656.0745980749,
+      "attack": 3939.5342839595396,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 252704.63745862618,
+      "attack": 4017.7555502447067,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 292296.9811849538,
+      "attack": 4096.5244767044205,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

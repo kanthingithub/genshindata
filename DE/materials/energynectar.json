@@ -1,0 +1,21 @@
+{
+  "name": "Elementarnektar",
+  "description": "Dickflüssiger Honig voll mit Energie.\nVaniloquen täuschen ihre Beute, um sie auf diese Weise fangen zu können. Womöglich bietet dieses Verhalten ihnen die Möglichkeit, eine stärkere und reinere Form anzunehmen.",
+  "sortorder": 1758,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Kann hergestellt werden",
+    "Beute von Vaniloquen ab Stufe 60"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Energy_Nectar.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Energy_Nectar.png",
+    "nameicon": "UI_ItemIcon_112040"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Energy_Nectar"
+  },
+  "version": ""
+}

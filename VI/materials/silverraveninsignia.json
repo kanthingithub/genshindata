@@ -1,0 +1,22 @@
+{
+  "name": "Ấn Quạ Bạc Ẩn",
+  "description": "Huân chương quạ đen được thành viên của Đạo Bảo Đoàn sử dụng để nhận biết lẫn nhau. Đạo Bảo Đoàn không hỏi xuất thân, bất kể là ai chỉ cần có lòng ham tìm bảo vật, dám mạo hiểm, đều có thể trở thành thành viên \"ưu tú\".",
+  "sortorder": 1754,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Ghép Nhận",
+    "Đạo Bảo Đoàn cấp 40 trở lên rơi",
+    "Đổi từ Tinh Trần"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Silver_Raven_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Item_Silver_Raven_Insignia.png",
+    "nameicon": "UI_ItemIcon_112036"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Silver_Raven_Insignia"
+  },
+  "version": ""
+}

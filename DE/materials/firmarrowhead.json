@@ -1,0 +1,21 @@
+{
+  "name": "Stabile Bolzenspitze",
+  "description": "Eine grob gefertigte Bolzenspitze, die jedoch nicht unterschätzt werden sollte: Die Armbrust ist eine tödliche Waffe, die selbst für Ritter eine Gefahr darstellt.",
+  "sortorder": 1732,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Beute von Hilichurl-Schützen",
+    "Mit Sternenstaub kaufen"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Firm_Arrowhead.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_Firm_Arrowhead.png",
+    "nameicon": "UI_ItemIcon_112011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Firm_Arrowhead"
+  },
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Кусок изумруда Нагадус",
+  "description": "Материал возвышения персонажа.\n«В конце концов жизнь раскрыла свои объятья...\nОдарив всех свободой жизни».",
+  "sortorder": 1832,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Алхимия"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Nagadus_Emerald_Chunk.png",
+    "nameicon": "UI_ItemIcon_104133"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Nagadus_Emerald_Chunk"
+  },
+  "version": ""
+}

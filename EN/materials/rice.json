@@ -1,0 +1,20 @@
+{
+  "name": "Rice",
+  "description": "A grain crop commonly found in Teyvat. People of all walks of life enjoy its distinct grainy texture. As the saying goes, \"The same kind of rice can feed one hundred kinds of people.\"",
+  "sortorder": 2007,
+  "category": "EXCHANGE",
+  "materialtype": "Cooking Ingredient",
+  "source": [
+    "Sold at general goods shops in Liyue",
+    "Sold at general goods shops in Inazuma"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Rice.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Item_Rice.png",
+    "nameicon": "UI_ItemIcon_100092"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Rice"
+  },
+  "version": ""
+}

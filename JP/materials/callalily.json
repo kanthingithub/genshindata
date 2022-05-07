@@ -1,0 +1,20 @@
+{
+  "name": "ドドリアン",
+  "description": "水辺に育つ花。花びらを料理すると、爽やかな口当たりで、ほろ苦い。",
+  "sortorder": 2042,
+  "category": "EXCHANGE",
+  "materialtype": "モンド地域の特産",
+  "source": [
+    "湖岸で採集",
+    "推奨：清泉町で採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Calla_Lily.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Item_Calla_Lily.png",
+    "nameicon": "UI_ItemIcon_100056"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Calla_Lily"
+  },
+  "version": ""
+}

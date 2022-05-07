@@ -1,0 +1,22 @@
+{
+  "name": "Black Crystal Horn",
+  "description": "Terompet metalik yang dihiasi dengan kristal hitam, memiliki aura yang tidak mencurigakan. Jarang digunakan, sepertinya barang seremonial para Hilichurl.",
+  "sortorder": 1737,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Didapatkan melalui Craft",
+    "Dijatuhkan oleh Mitachurl Lv. 60",
+    "Dijatuhkan oleh Lawachurl Lv. 60+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Black_Crystal_Horn.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Item_Black_Crystal_Horn.png",
+    "nameicon": "UI_ItemIcon_112016"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Black_Crystal_Horn"
+  },
+  "version": ""
+}

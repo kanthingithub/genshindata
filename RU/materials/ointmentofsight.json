@@ -1,0 +1,18 @@
+{
+  "name": "Масло для Ока",
+  "description": "Особый материал пробуждения Ока клятвы.\nСпециальное масло глубоководных угрей использовалось в прошлом для сохранения священных артефактов Энканомии, чтобы они оставались сверкающими на протяжении веков.",
+  "sortorder": 2299,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Материал пробуждения",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_200109",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ointment_of_Sight.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Item_Ointment_of_Sight.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ointment_of_Sight"
+  },
+  "version": ""
+}

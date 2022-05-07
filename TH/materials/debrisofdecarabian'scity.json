@@ -1,0 +1,26 @@
+{
+  "name": "Debris of Decarabian's City",
+  "description": "วัสดุเลื่อนขั้นอาวุธ\nDecarabian ผู้เป็นเทพปีศาจแห่งลม นั้นพึงพอใจกับเมืองที่เขาสร้างขึ้นเป็นอย่างมาก เขารับการสักการะของเหล่าผู้คนจากบนยอดของหอคอย อย่างไรก็ตามเขาหารู้ไม่ว่าฝูงชนนั้นไม่ได้รักและเคารพเขาเลยแม้แต่น้อย",
+  "sortorder": 2184,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุเลื่อนขั้นอาวุธ",
+  "dropdomain": "ดันเจี้ยนแห่งการต่อสู้: เมืองแห่งประกายน้ำ",
+  "daysofweek": [
+    "วันจันทร์",
+    "วันพฤหัสบดี",
+    "วันอาทิตย์"
+  ],
+  "source": [
+    "ได้รับจากการสรรสร้าง"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Debris_of_Decarabian's_City.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/96/Item_Debris_of_Decarabian%27s_City.png",
+    "nameicon": "UI_ItemIcon_114002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Debris_of_Decarabian's_City"
+  },
+  "version": ""
+}

@@ -1,0 +1,312 @@
+{
+  "name": "磐岩结绿",
+  "description": "由纯净的翠玉精琢细雕而成的仪礼宝剑，挥舞时剑风中似有叹息之声。",
+  "weapontype": "单手剑",
+  "rarity": "5",
+  "baseatk": 44,
+  "substat": "暴击率",
+  "subvalue": "9.6",
+  "effectname": "护国的无垢之心",
+  "effect": [
+    "生命值提升[20%]。此外，基于装备该武器的角色生命值上限的[1.2%]，获得攻击力加成。",
+    "生命值提升[25%]。此外，基于装备该武器的角色生命值上限的[1.5%]，获得攻击力加成。",
+    "生命值提升[30%]。此外，基于装备该武器的角色生命值上限的[1.8%]，获得攻击力加成。",
+    "生命值提升[35%]。此外，基于装备该武器的角色生命值上限的[2.1%]，获得攻击力加成。",
+    "生命值提升[40%]。此外，基于装备该武器的角色生命值上限的[2.4%]，获得攻击力加成。"
+  ],
+  "r1": [
+    "20%",
+    "1.2%"
+  ],
+  "r2": [
+    "25%",
+    "1.5%"
+  ],
+  "r3": [
+    "30%",
+    "1.8%"
+  ],
+  "r4": [
+    "35%",
+    "2.1%"
+  ],
+  "r5": [
+    "40%",
+    "2.4%"
+  ],
+  "weaponmaterialtype": "Mist Veiled Elixir",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "摩拉",
+        "count": 10000
+      },
+      {
+        "name": "雾海云间的铅丹",
+        "count": 5
+      },
+      {
+        "name": "雾虚花粉",
+        "count": 5
+      },
+      {
+        "name": "寻宝鸦印",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "摩拉",
+        "count": 20000
+      },
+      {
+        "name": "雾海云间的汞丹",
+        "count": 5
+      },
+      {
+        "name": "雾虚花粉",
+        "count": 18
+      },
+      {
+        "name": "寻宝鸦印",
+        "count": 12
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "摩拉",
+        "count": 30000
+      },
+      {
+        "name": "雾海云间的汞丹",
+        "count": 9
+      },
+      {
+        "name": "雾虚草囊",
+        "count": 9
+      },
+      {
+        "name": "藏银鸦印",
+        "count": 9
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "摩拉",
+        "count": 45000
+      },
+      {
+        "name": "雾海云间的金丹",
+        "count": 5
+      },
+      {
+        "name": "雾虚草囊",
+        "count": 18
+      },
+      {
+        "name": "藏银鸦印",
+        "count": 14
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "摩拉",
+        "count": 55000
+      },
+      {
+        "name": "雾海云间的金丹",
+        "count": 9
+      },
+      {
+        "name": "雾虚灯芯",
+        "count": 14
+      },
+      {
+        "name": "攫金鸦印",
+        "count": 9
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "摩拉",
+        "count": 65000
+      },
+      {
+        "name": "雾海云间的转还",
+        "count": 6
+      },
+      {
+        "name": "雾虚灯芯",
+        "count": 27
+      },
+      {
+        "name": "攫金鸦印",
+        "count": 18
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Weapon_Primordial_Jade_Cutter.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Morax.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Morax_Awaken.png",
+    "nameicon": "UI_EquipIcon_Sword_Morax",
+    "namegacha": "UI_Gacha_EquipIcon_Sword_Morax",
+    "nameawakenicon": "UI_EquipIcon_Sword_Morax_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Primordial_Jade_Cutter"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 44.33580017089844,
+      "specialized": 0.09600000083446503
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 58.3902502203764,
+      "specialized": 0.11155199529337878
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 75.7698821115282,
+      "specialized": 0.13084800452482703
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 93.01651095720445,
+      "specialized": 0.15024000679910188
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 110.17445877367209,
+      "specialized": 0.16963199762928483
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 141.2744591551418,
+      "specialized": 0.16963199762928483
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 158.3880849553425,
+      "specialized": 0.18902399990355967
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 175.5017001850647,
+      "specialized": 0.20841600217783451
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 192.6596585720108,
+      "specialized": 0.22780799300801746
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 209.81761695895693,
+      "specialized": 0.2472000067263842
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 240.91761734042666,
+      "specialized": 0.2472000067263842
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 258.1199083141182,
+      "specialized": 0.26659199755656715
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 275.4551970480461,
+      "specialized": 0.2859840112749339
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 306.65519781098556,
+      "specialized": 0.2859840112749339
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 323.9905076858704,
+      "specialized": 0.30537600210511684
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 341.4587941800346,
+      "specialized": 0.3247679929352998
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 372.5587926541557,
+      "specialized": 0.3247679929352998
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 390.1157866037247,
+      "specialized": 0.34416000665366653
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 407.80575717257307,
+      "specialized": 0.3634560044410229
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 438.9057632760887,
+      "specialized": 0.3634560044410229
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 456.6844201593849,
+      "specialized": 0.38284799527120583
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 474.551742216172,
+      "specialized": 0.4022400089895726
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 505.65173306089855,
+      "specialized": 0.4022400089895726
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 523.6964066056244,
+      "specialized": 0.4216320227079393
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 541.829766464798,
+      "specialized": 0.44102399064993847
+    }
+  },
+  "version": "1.3"
+}

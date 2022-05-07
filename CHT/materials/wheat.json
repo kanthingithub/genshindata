@@ -1,0 +1,20 @@
+{
+  "name": "小麥",
+  "description": "金燦燦的穗子，讓人充滿希望。要經過磨礪與水火才能成為終極形態。",
+  "sortorder": 1983,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "野外採集",
+    "雜貨店購買"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wheat.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Item_Wheat.png",
+    "nameicon": "UI_ItemIcon_100017"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Wheat"
+  },
+  "version": ""
+}

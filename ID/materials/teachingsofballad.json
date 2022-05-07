@@ -1,0 +1,24 @@
+{
+  "name": "Teachings of \"Ballad\"",
+  "description": "Material Penguatan Talenta.\nPuisi adalah jiwa dari Kerajaan Angin.\nPuisi muncul dari perasaan yang indah. Pada hari yang indah, angin sepoi-sepoi membawa serta puisi yang menyentuh hati orang-orang seperti angin membelai daun.",
+  "sortorder": 1857,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Talenta",
+  "dropdomain": "Domain of Mastery: Kerajaan Mimpi",
+  "daysofweek": [
+    "Rabu",
+    "Sabtu",
+    "Minggu"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Ballad.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Item_Teachings_of_Ballad.png",
+    "nameicon": "UI_ItemIcon_104307"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Ballad"
+  },
+  "version": ""
+}

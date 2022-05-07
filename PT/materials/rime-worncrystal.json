@@ -1,0 +1,18 @@
+{
+  "name": "Cristal de Gelo",
+  "description": "Pedaços de Cristais obtidos do habitat de monstros da Espinha do Dragão.\nPara uma espada que tem sede de vida, melhor alimento é este cristal.",
+  "sortorder": 2292,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "Material da Montanha Nevada",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_200102",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Rime-Worn_Crystal.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Item_Rime-Worn_Crystal.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Rime-Worn_Crystal"
+  },
+  "version": ""
+}

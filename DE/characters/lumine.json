@@ -1,0 +1,929 @@
+{
+  "name": "Lumine",
+  "fullname": "Lumine",
+  "title": "",
+  "description": "Eine Reisende weit entfernt von der Heimat auf der Suche nach den Sieben, um ihren Bruder wiederzufinden.",
+  "rarity": "5",
+  "element": "k. A.",
+  "weapontype": "Einhänder",
+  "substat": "ANG",
+  "gender": "Weiblich",
+  "body": "GIRL",
+  "association": "MAINACTOR",
+  "region": "",
+  "affiliation": "",
+  "birthdaymmdd": "",
+  "birthday": "",
+  "constellation": "Viatrix",
+  "cv": {
+    "english": "Sarah Miller-Crews & Corina Boettger",
+    "chinese": "宴宁&多多poi",
+    "japanese": "悠木碧&古賀葵",
+    "korean": "Lee Sae-ah & Kim Ka-ryoung"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Brillantsplitter",
+        "count": 1
+      },
+      {
+        "name": "Windmühlenaster",
+        "count": 3
+      },
+      {
+        "name": "Zerbrochene Maske",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Brillantbruchstück",
+        "count": 3
+      },
+      {
+        "name": "Windmühlenaster",
+        "count": 10
+      },
+      {
+        "name": "Zerbrochene Maske",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Brillantbruchstück",
+        "count": 6
+      },
+      {
+        "name": "Windmühlenaster",
+        "count": 20
+      },
+      {
+        "name": "Verdreckte Maske",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Brillantbrocken",
+        "count": 3
+      },
+      {
+        "name": "Windmühlenaster",
+        "count": 30
+      },
+      {
+        "name": "Verdreckte Maske",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Brillantbrocken",
+        "count": 6
+      },
+      {
+        "name": "Windmühlenaster",
+        "count": 45
+      },
+      {
+        "name": "Unheilvolle Maske",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Brillant",
+        "count": 6
+      },
+      {
+        "name": "Windmühlenaster",
+        "count": 60
+      },
+      {
+        "name": "Unheilvolle Maske",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Traveler_Female_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Character_Traveler_%28Female%29_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_PlayerGirl.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/f11f153ff86acab65e3610f73b0d1728.png",
+    "nameicon": "UI_AvatarIcon_PlayerGirl",
+    "nameiconcard": "UI_AvatarIcon_PlayerGirl_Card",
+    "namesideicon": "UI_AvatarIcon_Side_PlayerGirl"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lumine"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 911.791015625,
+      "attack": 17.808000564575195,
+      "defense": 57.224998474121094,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2342.391124357935,
+      "attack": 45.74875355229187,
+      "defense": 147.01102140746116,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3023.54566537356,
+      "attack": 59.0525531815033,
+      "defense": 189.76102140746116,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4528.912435651757,
+      "attack": 88.45355827545154,
+      "defense": 284.23948155450853,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5012.890707136132,
+      "attack": 97.90625889038074,
+      "defense": 314.61448155450853,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5766.030280821957,
+      "attack": 112.61567116091919,
+      "defense": 361.8823425187111,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6411.334602111019,
+      "attack": 125.21927070925904,
+      "defense": 402.3823425187111,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7164.474175796844,
+      "attack": 139.9286829797975,
+      "defense": 449.65020348291364,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7648.452325210907,
+      "attack": 149.381384548401,
+      "defense": 480.02520348291364,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 8400.679739191197,
+      "attack": 164.07298161756898,
+      "defense": 527.2358163092613,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8884.658010675572,
+      "attack": 173.52567937147523,
+      "defense": 557.6108163092613,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9637.79714958556,
+      "attack": 188.2350831504973,
+      "defense": 604.8786499864582,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 10121.775421069935,
+      "attack": 197.68778471910082,
+      "defense": 635.2536499864582,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10874.91499475576,
+      "attack": 212.39719698963927,
+      "defense": 682.5215109506607,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellationTraveler": [
+    {
+      "c1": {
+        "name": "Wirbelnder Wind",
+        "effect": "Zieht Gegner und Objekte innerhalb eines Radius von 5 m bei Anwendung von **Windschwert** langsam vor die Figur."
+      },
+      "c2": {
+        "name": "Aufsteigender Wind",
+        "effect": "Erhöht die Aufladerate um 16 %."
+      },
+      "c3": {
+        "name": "Schneidender Wind",
+        "effect": "Erhöht die Stufe der Fähigkeit **Ruhe vor dem Sturm** um 3.\nHöchststufe 15."
+      },
+      "c4": {
+        "name": "Fürsorglicher Wind",
+        "effect": "Verringert den während der Dauer von **Windschwert** erlittenen Schaden um 10 %."
+      },
+      "c5": {
+        "name": "Vortex Stellaris",
+        "effect": "Erhöht die Stufe der Fähigkeit **Windschwert** um 3.\nHöchststufe 15."
+      },
+      "c6": {
+        "name": "Verworrener Wind",
+        "effect": "Verringert den Anemo-WDS von Zielen, denen mit **Ruhe vor dem Sturm** Schaden zugefügt wird, um 20 %.\nVerringert bei Elementarumwandlung den entsprechenden Elementar-WDS auch um 20 %."
+      },
+      "images": {
+        "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_01.png",
+        "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_02.png",
+        "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerWind_02.png",
+        "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_03.png",
+        "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerWind_01.png",
+        "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_04.png",
+        "constellation": "Eff_UI_Talent_PlayerBoy_Wind",
+        "constellation2": "Eff_UI_Talent_PlayerGirl_Wind"
+      },
+      "version": "1.0"
+    },
+    {
+      "c1": {
+        "name": "Frühlingsgewitter bei der Ernte",
+        "effect": "Erhöht die mit **Blitzschattenschwert** zu erschaffende Menge an Amuletten des Überflusses auf 3."
+      },
+      "c2": {
+        "name": "Wucht des Wetters",
+        "effect": "Verringert beim Treffen von Gegnern mit dem grellen Blitzschlag von **Rollender Donner** den Elektro-WDS dieser Gegner 8 s lang um 15 %."
+      },
+      "c3": {
+        "name": "Entfernter Donner",
+        "effect": "Erhöht die Stufe der Fähigkeit **Rollender Donner** um 3.\nHöchststufe 15."
+      },
+      "c4": {
+        "name": "Unberechenbares Unwetter",
+        "effect": "Stellt beim Einfangen von Amuletten des Überflusses von **Blitzschattenschwert** der einfangenden Figur 100 % mehr Elementarenergie wieder her, wenn die Figur weniger als 35 % Elementarenergie hat."
+      },
+      "c5": {
+        "name": "Getöne in der Wildnis",
+        "effect": "Erhöht die Stufe der Fähigkeit **Blitzschattenschwert** um 3.\nHöchststufe 15."
+      },
+      "c6": {
+        "name": "Erschütternde Blitze",
+        "effect": "Erhöht den mit jedem dritten grellen Blitzschlag von **Rollender Donner** verursachten Schaden enorm, verursacht damit 200 % des ursprünglichen Schadens und stellt der aktuellen Figur zusätzlich 1 Punkt Elementarenergie wieder her."
+      },
+      "images": {
+        "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_01.png",
+        "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_02.png",
+        "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerElectric_01.png",
+        "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_03.png",
+        "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerElectric_02.png",
+        "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_04.png",
+        "constellation": "Eff_UI_Talent_PlayerBoy_Electric",
+        "constellation2": "Eff_UI_Talent_PlayerGirl_Electric"
+      },
+      "version": "2.0"
+    },
+    {
+      "c1": {
+        "name": "Hoher Steinwall",
+        "effect": "Erhöht die KT, wenn eine Figur in der Truppe vom Steinwall von **Aufgetürmter Steinwall** umringt ist, um 10 % und erhöht den Unterbrechungs-WDS."
+      },
+      "c2": {
+        "name": "Instabiler Kern",
+        "effect": "Der gefallene Stern von **Sternschnuppenschwert** explodiert, sobald er zerstört wird, und fügt Gegnern in der Umgebung zusätzlichen Geo-Flächenschaden in Höhe des Schadens von Sternschnuppenschwert zu."
+      },
+      "c3": {
+        "name": "Felsen ringsumher",
+        "effect": "Erhöht die Stufe der Fähigkeit **Aufgetürmter Steinwall** um 3.\nHöchststufe 15."
+      },
+      "c4": {
+        "name": "Schroffer Felsen",
+        "effect": "Stellt für jeden von der Druckwelle von **Aufgetürmter Steinwall** getroffenen Gegner 5 Punkte Elementarenergie wieder her.\nInsgesamt können auf diese Weise bis zu 25 Punkte Elementarenergie pro Anwendung wiederhergestellt werden."
+      },
+      "c5": {
+        "name": "Meteoriteneinschlag",
+        "effect": "Erhöht die Stufe der Fähigkeit **Sternschnuppenschwert** um 3.\nHöchststufe 15."
+      },
+      "c6": {
+        "name": "Unvergänglicher Felsbrocken",
+        "effect": "Verlängert die Wirkungsdauer des Steinwalls von **Aufgetürmter Steinwall** um 5 s.\nVerlängert die Wirkungsdauer des gefallenen Sterns von **Sternschnuppenschwert** um 10 s."
+      },
+      "images": {
+        "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_01.png",
+        "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_02.png",
+        "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerRock_02.png",
+        "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_03.png",
+        "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerRock_01.png",
+        "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_04.png",
+        "constellation": "Eff_UI_Talent_PlayerBoy_Rock",
+        "constellation2": "Eff_UI_Talent_PlayerGirl_Rock"
+      },
+      "version": "1.0"
+    }
+  ],
+  "talentTraveler": [
+    {
+      "name": "Reisende (Anemo)",
+      "combat1": {
+        "name": "Standardangriff: Eiserner Wind aus der Fremde",
+        "info": "**Standardangriff**\nFührt bis zu 5 Schwerthiebe hintereinander aus.\n\n**Heftiger Schlag**\nVerbraucht eine gewisse Menge Ausdauer und schwingt das Schwert zweimal schnell nach vorn.\n\n**Angriff aus dem Fall**\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+        "attributes": []
+      },
+      "combat2": {
+        "name": "Windschwert",
+        "info": "Konzentriert die Kraft des Windes auf der Handfläche und erschafft einen Vakuumstrudel, der gegenüberstehenden Gegnern fortlaufend Anemo-Schaden zufügt.\nVerursacht am Ende eine Explosion, die noch größeren und höheren Anemo-Schaden verursacht.\n\n**Gedrückt halten**\nSchaden und Wirkungsbereich vergrößern sich allmählich.\n\n**Elementarumwandlung**\nVerleiht dem Vakuumstrudel beim Treffen auf Hydro-, Pyro-, Kryo- oder Elektro-Effekte während der Wirkungsdauer das jeweilige Element und verursacht dementsprechend Schaden.\nElementarumwandlung nur einmal während der Wirkungsdauer möglich.",
+        "description": "Du hast mit Paimon darüber gesprochen, wie man formlosen Wind in der Hand halten kann.",
+        "attributes": []
+      },
+      "combat3": {
+        "name": "Ruhe vor dem Sturm",
+        "info": "Leitet den Wind und erschafft einen sich nach vorn bewegenden Tornado, der Objekte und Gegner in seiner Bahn mitreißt und fortlaufend Anemo-Schaden verursacht.\n\n**Elementarumwandlung**\nVerleiht dem Tornado beim Treffen auf Hydro-, Pyro-, Kryo- oder Elektro-Effekte während der Wirkungsdauer das jeweilige Element und verursacht dementsprechend zusätzlichen Schaden.\nElementarumwandlung nur einmal während der Wirkungsdauer möglich.",
+        "description": "Du hast mit Paimon den Flügelschlag von Schmetterlingen untersucht.",
+        "attributes": []
+      },
+      "passive1": {
+        "name": "Schlitzender Wind",
+        "info": "Führt beim letzten Schlag des Standardangriffs einen Hieb mit einer Windklinge aus und fügt Gegnern in der Bahn Anemo-Schaden in Höhe von 60 % ANG zu."
+      },
+      "passive2": {
+        "name": "Erneuter Wind",
+        "info": "Stellt nach dem Besiegen von Gegnern mit **Windschwert** 5 s lang 2 % LP pro s wieder her.\n5 s Abklingzeit."
+      },
+      "costs": {
+        "lvl2": [
+          {
+            "name": "Mora",
+            "count": 12500
+          },
+          {
+            "name": "Lehren der „Freiheit“",
+            "count": 3
+          },
+          {
+            "name": "Leitende Schriftrolle",
+            "count": 6
+          }
+        ],
+        "lvl3": [
+          {
+            "name": "Mora",
+            "count": 17500
+          },
+          {
+            "name": "Anleitung zum „Widerstand“",
+            "count": 2
+          },
+          {
+            "name": "Zaubersiegel-Schriftrolle",
+            "count": 3
+          }
+        ],
+        "lvl4": [
+          {
+            "name": "Mora",
+            "count": 25000
+          },
+          {
+            "name": "Anleitung zur „Poesie“",
+            "count": 4
+          },
+          {
+            "name": "Zaubersiegel-Schriftrolle",
+            "count": 4
+          }
+        ],
+        "lvl5": [
+          {
+            "name": "Mora",
+            "count": 30000
+          },
+          {
+            "name": "Anleitung zur „Freiheit“",
+            "count": 6
+          },
+          {
+            "name": "Zaubersiegel-Schriftrolle",
+            "count": 6
+          }
+        ],
+        "lvl6": [
+          {
+            "name": "Mora",
+            "count": 37500
+          },
+          {
+            "name": "Anleitung zum „Widerstand“",
+            "count": 9
+          },
+          {
+            "name": "Zaubersiegel-Schriftrolle",
+            "count": 9
+          }
+        ],
+        "lvl7": [
+          {
+            "name": "Mora",
+            "count": 120000
+          },
+          {
+            "name": "Philosophie der „Poesie“",
+            "count": 4
+          },
+          {
+            "name": "Fluchschriftrolle",
+            "count": 4
+          },
+          {
+            "name": "Atem des Ostwinds",
+            "count": 1
+          }
+        ],
+        "lvl8": [
+          {
+            "name": "Mora",
+            "count": 260000
+          },
+          {
+            "name": "Philosophie der „Freiheit“",
+            "count": 6
+          },
+          {
+            "name": "Fluchschriftrolle",
+            "count": 6
+          },
+          {
+            "name": "Atem des Ostwinds",
+            "count": 1
+          }
+        ],
+        "lvl9": [
+          {
+            "name": "Mora",
+            "count": 450000
+          },
+          {
+            "name": "Philosophie des „Widerstands“",
+            "count": 12
+          },
+          {
+            "name": "Fluchschriftrolle",
+            "count": 9
+          },
+          {
+            "name": "Atem des Ostwinds",
+            "count": 2
+          }
+        ],
+        "lvl10": [
+          {
+            "name": "Mora",
+            "count": 700000
+          },
+          {
+            "name": "Philosophie der „Poesie“",
+            "count": 16
+          },
+          {
+            "name": "Fluchschriftrolle",
+            "count": 12
+          },
+          {
+            "name": "Atem des Ostwinds",
+            "count": 2
+          },
+          {
+            "name": "Krone der Weisheit",
+            "count": 1
+          }
+        ]
+      },
+      "images": {
+        "combat1": "Skill_A_01",
+        "combat2": "Skill_S_PlayerWind_01",
+        "combat3": "Skill_E_PlayerWind_01_HD",
+        "passive1": "UI_Talent_S_PlayerWind_05",
+        "passive2": "UI_Talent_S_PlayerWind_06"
+      },
+      "version": "1.0"
+    },
+    {
+      "name": "Reisende (Elektro)",
+      "combat1": {
+        "name": "Standardangriff: Gewitter aus der Fremde",
+        "info": "**Standardangriff**\nFührt bis zu 5 Schwerthiebe hintereinander aus.\n\n**Heftiger Schlag**\nVerbraucht eine gewisse Menge Ausdauer und schwingt das Schwert zweimal schnell nach vorn.\n\n**Angriff aus dem Fall**\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+        "attributes": []
+      },
+      "combat2": {
+        "name": "Blitzschattenschwert",
+        "info": "Führt drei schnelle Blitzschattenhiebe aus, die Gegnern Elektro-Schaden zufügen und Amulette des Überflusses bei getroffenen Gegnern hinterlassen.\nKann anfänglich bis zu 2 Amulette des Überflusses erschaffen. Entfernt bei Anwendung dieser Fähigkeit alle bereits selbst erschaffenen Amulette des Überflusses.\n\n**Amulette des Überflusses**\nNähert sich eine Figur den Amuletten des Überflusses, werden folgende Effekte ausgelöst:\n· Stellt Elementarenergie wieder her.\n· Erhöht die Aufladerate während der Wirkungsdauer.",
+        "description": "Du hast mit Paimon darüber gesprochen, wie sich Elektrizität ausbreitet.",
+        "attributes": []
+      },
+      "combat3": {
+        "name": "Rollender Donner",
+        "info": "Du beschwörst den Schutz der Blitze an deine Seite, stößt Gegner in der Umgebung zurück und verursachst Elektro-Schaden.\n\n**Blitzgewand**\nBeschwört beim Treffen von Gegnern mit Standardangriffen oder heftigen Schlägen der aktuellen eigenen Figur einen grellen Blitzschlag und fügt Gegnern Elektro-Schaden zu.\nStellt beim Treffen von Gegnern mit grellen Blitzschlägen der jeweiligen Figur Elementarenergie wieder her.\n0,5 s Abklingzeit für grelle Blitzschläge.",
+        "description": "Du hast mit Paimon die Lichter untersucht, die durch die Wolken zischen.",
+        "attributes": []
+      },
+      "passive1": {
+        "name": "Aufleuchten des Donners",
+        "info": "Verkürzt beim Aufnehmen von Amuletten des Überflusses, die durch **Blitzschattenschwert** entstanden sind, durch andere Truppenmitglieder in der Nähe die Abklingzeit von **Blitzschattenschwert** um 1,5 s."
+      },
+      "passive2": {
+        "name": "Widerhallender Donner",
+        "info": "Erhöht den Aufladerateneffekt der Amulette des Überflusses von **Blitzschattenschwert** um 10 % der Aufladerate {F#der}{M#des} Reisenden selbst."
+      },
+      "costs": {
+        "lvl2": [
+          {
+            "name": "Mora",
+            "count": 12500
+          },
+          {
+            "name": "Lehren der „Vergänglichkeit“",
+            "count": 3
+          },
+          {
+            "name": "Alter Handschutz",
+            "count": 6
+          }
+        ],
+        "lvl3": [
+          {
+            "name": "Mora",
+            "count": 17500
+          },
+          {
+            "name": "Anleitung zur „Eleganz“",
+            "count": 2
+          },
+          {
+            "name": "Kageuchi-Handschutz",
+            "count": 3
+          }
+        ],
+        "lvl4": [
+          {
+            "name": "Mora",
+            "count": 25000
+          },
+          {
+            "name": "Anleitung zum „Licht“",
+            "count": 4
+          },
+          {
+            "name": "Kageuchi-Handschutz",
+            "count": 4
+          }
+        ],
+        "lvl5": [
+          {
+            "name": "Mora",
+            "count": 30000
+          },
+          {
+            "name": "Anleitung zur „Vergänglichkeit“",
+            "count": 6
+          },
+          {
+            "name": "Kageuchi-Handschutz",
+            "count": 6
+          }
+        ],
+        "lvl6": [
+          {
+            "name": "Mora",
+            "count": 37500
+          },
+          {
+            "name": "Anleitung zur „Eleganz“",
+            "count": 9
+          },
+          {
+            "name": "Kageuchi-Handschutz",
+            "count": 9
+          }
+        ],
+        "lvl7": [
+          {
+            "name": "Mora",
+            "count": 120000
+          },
+          {
+            "name": "Philosophie des „Lichts“",
+            "count": 4
+          },
+          {
+            "name": "Berühmter Handschutz",
+            "count": 4
+          },
+          {
+            "name": "Horn des Drachenkönigs",
+            "count": 1
+          }
+        ],
+        "lvl8": [
+          {
+            "name": "Mora",
+            "count": 260000
+          },
+          {
+            "name": "Philosophie der „Vergänglichkeit“",
+            "count": 6
+          },
+          {
+            "name": "Berühmter Handschutz",
+            "count": 6
+          },
+          {
+            "name": "Horn des Drachenkönigs",
+            "count": 1
+          }
+        ],
+        "lvl9": [
+          {
+            "name": "Mora",
+            "count": 450000
+          },
+          {
+            "name": "Philosophie der „Eleganz“",
+            "count": 12
+          },
+          {
+            "name": "Berühmter Handschutz",
+            "count": 9
+          },
+          {
+            "name": "Horn des Drachenkönigs",
+            "count": 2
+          }
+        ],
+        "lvl10": [
+          {
+            "name": "Mora",
+            "count": 700000
+          },
+          {
+            "name": "Philosophie des „Lichts“",
+            "count": 16
+          },
+          {
+            "name": "Berühmter Handschutz",
+            "count": 12
+          },
+          {
+            "name": "Horn des Drachenkönigs",
+            "count": 2
+          },
+          {
+            "name": "Krone der Weisheit",
+            "count": 1
+          }
+        ]
+      },
+      "images": {
+        "combat1": "Skill_A_01",
+        "combat2": "Skill_S_PlayerElectric_01",
+        "combat3": "Skill_E_PlayerElectric_01_HD",
+        "passive1": "UI_Talent_S_PlayerElectric_05",
+        "passive2": "UI_Talent_S_PlayerElectric_06"
+      },
+      "version": "2.0"
+    },
+    {
+      "name": "Reisende (Geo)",
+      "combat1": {
+        "name": "Standardangriff: Steinerne Klinge aus der Fremde",
+        "info": "**Standardangriff**\nFührt bis zu 5 Schwerthiebe hintereinander aus.\n\n**Heftiger Schlag**\nVerbraucht eine gewisse Menge Ausdauer und schwingt das Schwert zweimal schnell nach vorn.\n\n**Angriff aus dem Fall**\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+        "attributes": []
+      },
+      "combat2": {
+        "name": "Sternschnuppenschwert",
+        "info": "Ein Brocken bricht aus der Erde heraus, explodiert und verursacht Geo-Flächenschaden.\nDer gefallene Stern gilt als Geo-Objekt, blockiert Angriffe und kann erklommen werden.\n\n**Gedrückt halten**\nWirkungsbereich der Fähigkeit kann angepasst werden.",
+        "description": "Du hast mit Paimon darüber gesprochen, wo Sternschnuppen wohl landen.",
+        "attributes": []
+      },
+      "combat3": {
+        "name": "Aufgetürmter Steinwall",
+        "info": "Aktiviert die Geo-Kräfte tief in der Erde und verursacht eine Schockwelle.\nStößt Gegner in der Umgebung zurück und verursacht Geo-Flächenschaden.\nErschafft danach einen Steinwall am Rand der Druckwelle.\nDer Steinwall gilt als Geo-Objekt und blockiert Angriffe.",
+        "description": "Du hast mit Paimon die Bewegungen der Erdplatten studiert.",
+        "attributes": []
+      },
+      "passive1": {
+        "name": "Zerspringende Felsen",
+        "info": "Verkürzt die Abklingzeit von **Sternschnuppenschwert** um 2 s."
+      },
+      "passive2": {
+        "name": "Rasanter Erdrutsch",
+        "info": "Verursacht beim letzten Schlag des Standardangriffs einen Zusammenbruch und fügt Gegnern im Wirkungsbereich Geo-Schaden in Höhe von 60 % ANG zu."
+      },
+      "costs": {
+        "lvl2": [
+          {
+            "name": "Mora",
+            "count": 12500
+          },
+          {
+            "name": "Lehren des „Wohlstands“",
+            "count": 3
+          },
+          {
+            "name": "Stabile Bolzenspitze",
+            "count": 6
+          }
+        ],
+        "lvl3": [
+          {
+            "name": "Mora",
+            "count": 17500
+          },
+          {
+            "name": "Anleitung zum „Fleiß“",
+            "count": 2
+          },
+          {
+            "name": "Scharfe Bolzenspitze",
+            "count": 3
+          }
+        ],
+        "lvl4": [
+          {
+            "name": "Mora",
+            "count": 25000
+          },
+          {
+            "name": "Anleitung zum „Gold“",
+            "count": 4
+          },
+          {
+            "name": "Scharfe Bolzenspitze",
+            "count": 4
+          }
+        ],
+        "lvl5": [
+          {
+            "name": "Mora",
+            "count": 30000
+          },
+          {
+            "name": "Anleitung zum „Wohlstand“",
+            "count": 6
+          },
+          {
+            "name": "Scharfe Bolzenspitze",
+            "count": 6
+          }
+        ],
+        "lvl6": [
+          {
+            "name": "Mora",
+            "count": 37500
+          },
+          {
+            "name": "Anleitung zum „Fleiß“",
+            "count": 9
+          },
+          {
+            "name": "Scharfe Bolzenspitze",
+            "count": 9
+          }
+        ],
+        "lvl7": [
+          {
+            "name": "Mora",
+            "count": 120000
+          },
+          {
+            "name": "Philosophie des „Golds“",
+            "count": 4
+          },
+          {
+            "name": "Abgenutzte Bolzenspitze",
+            "count": 4
+          },
+          {
+            "name": "Schwanz des Nordwinds",
+            "count": 1
+          }
+        ],
+        "lvl8": [
+          {
+            "name": "Mora",
+            "count": 260000
+          },
+          {
+            "name": "Philosophie des „Wohlstands“",
+            "count": 6
+          },
+          {
+            "name": "Abgenutzte Bolzenspitze",
+            "count": 6
+          },
+          {
+            "name": "Schwanz des Nordwinds",
+            "count": 1
+          }
+        ],
+        "lvl9": [
+          {
+            "name": "Mora",
+            "count": 450000
+          },
+          {
+            "name": "Philosophie des „Fleißes“",
+            "count": 12
+          },
+          {
+            "name": "Abgenutzte Bolzenspitze",
+            "count": 9
+          },
+          {
+            "name": "Schwanz des Nordwinds",
+            "count": 2
+          }
+        ],
+        "lvl10": [
+          {
+            "name": "Mora",
+            "count": 700000
+          },
+          {
+            "name": "Philosophie des „Golds“",
+            "count": 16
+          },
+          {
+            "name": "Abgenutzte Bolzenspitze",
+            "count": 12
+          },
+          {
+            "name": "Schwanz des Nordwinds",
+            "count": 2
+          },
+          {
+            "name": "Krone der Weisheit",
+            "count": 1
+          }
+        ]
+      },
+      "images": {
+        "combat1": "Skill_A_01",
+        "combat2": "Skill_S_PlayerRock_01",
+        "combat3": "Skill_E_PlayerRock_01_HD",
+        "passive1": "UI_Talent_S_PlayerRock_05",
+        "passive2": "UI_Talent_S_PlayerRock_06"
+      },
+      "version": "1.0"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Cauda de Lagarto",
+  "description": "Uma cauda de lagarto que se enrola após ser partida. Muito amarga, mas possui uma propriedade endurecedora eficiente de pele.",
+  "sortorder": 1974,
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [
+    "Coletado ao caçar Lagartos"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lizard_Tail.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Lizard_Tail.png",
+    "nameicon": "UI_ItemIcon_100083"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lizard_Tail"
+  },
+  "version": ""
+}

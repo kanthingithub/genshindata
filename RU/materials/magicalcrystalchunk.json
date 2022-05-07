@@ -1,0 +1,19 @@
+{
+  "name": "Магический кристальный обломок",
+  "description": "Эти обломки кристаллов могут быть переработаны в материалы опыта оружия с помощью Первородной смолы.\nТакие кристаллы из шахт впитали энергию артерий земли и не могут быть обработаны обычными методами.",
+  "sortorder": 1957,
+  "category": "EXCHANGE",
+  "materialtype": "Руда для ковки",
+  "source": [
+    "Дикая природа"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Magical_Crystal_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Item_Magical_Crystal_Chunk.png",
+    "nameicon": "UI_ItemIcon_101004"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Magical_Crystal_Chunk"
+  },
+  "version": ""
+}

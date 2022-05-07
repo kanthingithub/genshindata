@@ -1,0 +1,19 @@
+{
+  "name": "Цельномороженое мясо",
+  "description": "Очень редкое и невероятно вкусное мясо кабана, которого хроники объявили вымершим ещё сотни лет назад. Мясо сохранилось благодаря суровому климату Драконьего хребта, и чревоугодники Тейвата поклоняются ему, словно божеству.",
+  "sortorder": 2009,
+  "category": "EXCHANGE",
+  "materialtype": "Кухонный ингредиент",
+  "source": [
+    "Животные"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chilled_Meat.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/da/Item_Chilled_Meat.png",
+    "nameicon": "UI_ItemIcon_100094"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chilled_Meat"
+  },
+  "version": ""
+}

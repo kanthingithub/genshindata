@@ -1,0 +1,20 @@
+{
+  "name": "Celulosa para linterna",
+  "description": "Un material que se utiliza para hacer linternas celestes durante el Rito de la Linterna.\nLa celulosa es un material muy común que puede transformarse en pantallas de linternas celestes para que puedan flotar llevando hermosos deseos con ellas.",
+  "sortorder": 2287,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Material para el Rito de la Linterna",
+  "source": [
+    "Se obtiene de plantas recolectables"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lantern_Fiber.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Item_Lantern_Fiber.png",
+    "nameicon": "UI_ItemIcon_200001"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lantern_Fiber"
+  },
+  "version": ""
+}

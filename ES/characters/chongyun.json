@@ -1,0 +1,854 @@
+{
+  "name": "Chongyun",
+  "fullname": "Chongyun",
+  "title": "El Hielo Ardiente",
+  "description": "Un joven exorcista procedente de una familia de exorcistas. Hace todo lo que puede para reprimir su propia “positividad congénita”.",
+  "rarity": "4",
+  "element": "Cryo",
+  "weapontype": "Mandoble",
+  "substat": "ATQ",
+  "gender": "Masculino",
+  "body": "BOY",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Exorcistas de Tianheng",
+  "birthdaymmdd": "9/7",
+  "birthday": "7 de septiembre",
+  "constellation": "Nubis Caesor",
+  "cv": {
+    "english": "Beau Bridgland",
+    "chinese": "kinsen",
+    "japanese": "斉藤壮馬",
+    "korean": "Yang Jeong-hwa"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Pedacito de jade shivada",
+        "count": 1
+      },
+      {
+        "name": "Cor lapis",
+        "count": 3
+      },
+      {
+        "name": "Máscara dañada",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de jade shivada",
+        "count": 3
+      },
+      {
+        "name": "Núcleo de escarcha",
+        "count": 2
+      },
+      {
+        "name": "Cor lapis",
+        "count": 10
+      },
+      {
+        "name": "Máscara dañada",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de jade shivada",
+        "count": 6
+      },
+      {
+        "name": "Núcleo de escarcha",
+        "count": 4
+      },
+      {
+        "name": "Cor lapis",
+        "count": 20
+      },
+      {
+        "name": "Máscara sucia",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Trozo de jade shivada",
+        "count": 3
+      },
+      {
+        "name": "Núcleo de escarcha",
+        "count": 8
+      },
+      {
+        "name": "Cor lapis",
+        "count": 30
+      },
+      {
+        "name": "Máscara sucia",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Trozo de jade shivada",
+        "count": 6
+      },
+      {
+        "name": "Núcleo de escarcha",
+        "count": 12
+      },
+      {
+        "name": "Cor lapis",
+        "count": 45
+      },
+      {
+        "name": "Máscara amenazante",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Jade shivada",
+        "count": 6
+      },
+      {
+        "name": "Núcleo de escarcha",
+        "count": 20
+      },
+      {
+        "name": "Cor lapis",
+        "count": 60
+      },
+      {
+        "name": "Máscara amenazante",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Character_Chongyun_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Character_Chongyun_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Chongyun.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Chongyun.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200602/2020060220172055224.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200602/2020060220205013044.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/af335b6e68883e7e40237040aa020cf1.png",
+    "nameicon": "UI_AvatarIcon_Chongyun",
+    "nameiconcard": "UI_AvatarIcon_Chongyun_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Chongyun",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Chongyun",
+    "namesideicon": "UI_AvatarIcon_Side_Chongyun"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chongyun"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 920.908935546875,
+      "attack": 18.698400497436523,
+      "defense": 54.36375045776367,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2365.815060689405,
+      "attack": 48.036190984907535,
+      "defense": 139.66047523706675,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3053.7811861776863,
+      "attack": 62.00518131083527,
+      "defense": 180.2729744741273,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4574.20164028171,
+      "attack": 92.87623650202931,
+      "defense": 270.0275147628545,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5063.019694480929,
+      "attack": 102.80157143244924,
+      "defense": 298.88376552579393,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5823.69067197002,
+      "attack": 118.24645423774109,
+      "defense": 343.78823501725674,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6475.44799618877,
+      "attack": 131.48023414496765,
+      "defense": 382.26323349137783,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7236.1189736778615,
+      "attack": 146.9251169502595,
+      "defense": 427.16770298284064,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7724.9370889122365,
+      "attack": 156.85045188067943,
+      "defense": 456.02395756047736,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 8484.686785088968,
+      "attack": 172.2766287246277,
+      "defense": 500.8740413190699,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8973.504656182718,
+      "attack": 182.20196365504762,
+      "defense": 529.7302882673121,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9734.17519454821,
+      "attack": 197.64683754424732,
+      "defense": 574.6347318361186,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 10222.993309782585,
+      "attack": 207.5721762893645,
+      "defense": 603.4909787843608,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10983.664287271677,
+      "attack": 223.01705909465636,
+      "defense": 648.3954482758236,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Ventisca desatada",
+      "effect": "El último Ataque Normal de la secuencia de Chongyun lanza 3 cuchillas de hielo. Cada cuchilla inflige el 50% del ATQ de Chongyun como Daño Cryo a todos los enemigos que se atraviesen."
+    },
+    "c2": {
+      "name": "Revolución atmosférica",
+      "effect": "El TdE de las Habilidades Elementales y Definitivas lanzadas dentro del área de escarcha creado por **Filo espiritual: Estratos de escarcha Chonghua** se reduce en un 15%."
+    },
+    "c3": {
+      "name": "Cirro-explosión",
+      "effect": "Aumenta el nivel de habilidad de **Filo espiritual: Estrella cortanubes** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c4": {
+      "name": "Cielos congelados",
+      "effect": "Chongyun regenera 1 punto de Energía cada vez que golpea a un enemigo afectado por Cryo.\nEste efecto solo puede ocurrir una vez cada 2 s."
+    },
+    "c5": {
+      "name": "El verdadero camino",
+      "effect": "Aumenta el nivel de habilidad de **Filo espiritual: Estratos de escarcha Chonghua** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c6": {
+      "name": "Ofrenda de los Cuatro Espíritus",
+      "effect": "**Filo espiritual: Estrella cortanubes** inflige un 15% más de daño a los enemigos con un porcentaje de Vida restante más bajo que el de Chongyun.\nEsta habilidad también invocará un filo espiritual adicional."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Chongyun_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Chongyun_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Chongyun_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Chongyun_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Chongyun_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Chongyun_04.png",
+      "constellation": "Eff_UI_Talent_Chongyun"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Chongyun",
+    "combat1": {
+      "name": "Ataque Normal: Desgracia de los demonios",
+      "info": "**Ataque Normal**\nRealiza hasta 4 tajos de espada consecutivos.\n\n**Ataque Cargado**\nConsume Aguante de manera constante para realizar golpes de espada giratorios contra los enemigos cercanos.\nAl final del Ataque Cargado, realizará un golpe de espada más poderoso.\n\n**Ataque Descendente**\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "attributes": [
+        {
+          "name": "Daño de 1er golpe",
+          "parameters": [
+            "70.00%",
+            "75.70%",
+            "81.40%",
+            "89.54%",
+            "95.24%",
+            "101.75%",
+            "110.70%",
+            "119.66%",
+            "128.61%",
+            "138.38%",
+            "148.15%",
+            "157.92%",
+            "167.68%",
+            "177.45%",
+            "187.22%"
+          ]
+        },
+        {
+          "name": "Daño de 2.º golpe",
+          "parameters": [
+            "63.12%",
+            "68.26%",
+            "73.40%",
+            "80.74%",
+            "85.88%",
+            "91.75%",
+            "99.82%",
+            "107.90%",
+            "115.97%",
+            "124.78%",
+            "133.59%",
+            "142.40%",
+            "151.20%",
+            "160.01%",
+            "168.82%"
+          ]
+        },
+        {
+          "name": "Daño de 3er golpe",
+          "parameters": [
+            "80.32%",
+            "86.86%",
+            "93.40%",
+            "102.74%",
+            "109.28%",
+            "116.75%",
+            "127.02%",
+            "137.30%",
+            "147.57%",
+            "158.78%",
+            "169.99%",
+            "181.20%",
+            "192.40%",
+            "203.61%",
+            "214.82%"
+          ]
+        },
+        {
+          "name": "Daño de 4.º golpe",
+          "parameters": [
+            "101.22%",
+            "109.46%",
+            "117.70%",
+            "129.47%",
+            "137.71%",
+            "147.13%",
+            "160.07%",
+            "173.02%",
+            "185.97%",
+            "200.09%",
+            "214.21%",
+            "228.34%",
+            "242.46%",
+            "256.59%",
+            "270.71%"
+          ]
+        },
+        {
+          "name": "Daño de ATQ Cargado en ciclo",
+          "parameters": [
+            "56.29%",
+            "60.87%",
+            "65.45%",
+            "71.99%",
+            "76.57%",
+            "81.81%",
+            "89.01%",
+            "96.21%",
+            "103.41%",
+            "111.26%",
+            "119.12%",
+            "126.97%",
+            "134.82%",
+            "142.68%",
+            "150.53%"
+          ]
+        },
+        {
+          "name": "Daño final de Ataque Cargado",
+          "parameters": [
+            "101.78%",
+            "110.07%",
+            "118.35%",
+            "130.18%",
+            "138.47%",
+            "147.94%",
+            "160.96%",
+            "173.97%",
+            "186.99%",
+            "201.20%",
+            "215.40%",
+            "229.60%",
+            "243.80%",
+            "258.00%",
+            "272.20%"
+          ]
+        },
+        {
+          "name": "Coste de Aguante de ATQ Cargado",
+          "parameters": [
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s",
+            "40 pts./s"
+          ]
+        },
+        {
+          "name": "Duración máx.",
+          "parameters": [
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s"
+          ]
+        },
+        {
+          "name": "Daño de Caída",
+          "parameters": [
+            "74.59%",
+            "80.66%",
+            "86.73%",
+            "95.40%",
+            "101.47%",
+            "108.41%",
+            "117.95%",
+            "127.49%",
+            "137.03%",
+            "147.44%",
+            "157.85%",
+            "168.26%",
+            "178.66%",
+            "189.07%",
+            "199.48%"
+          ]
+        },
+        {
+          "name": "Daño de impacto de caída baja/alta",
+          "parameters": [
+            "149.14%/186.29%",
+            "161.28%/201.45%",
+            "173.42%/216.62%",
+            "190.77%/238.28%",
+            "202.91%/253.44%",
+            "216.78%/270.77%",
+            "235.86%/294.60%",
+            "254.93%/318.42%",
+            "274.01%/342.25%",
+            "294.82%/368.25%",
+            "315.63%/394.24%",
+            "336.44%/420.23%",
+            "357.25%/446.23%",
+            "378.06%/472.22%",
+            "398.87%/498.21%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Filo espiritual: Estratos de escarcha Chonghua",
+      "info": "Chongyun golpea el suelo con su gran espada, causando una explosión Cryo en un AdE circular frente a él que inflige Daño Cryo.\nDespués de un breve periodo de tiempo, el aire frío creado por la explosión Cryo se concentra en un campo de estratos de escarcha, dentro del cual se imbuye del elemento Cryo a los personajes que usan espadas ligeras, mandobles y lanzas.",
+      "description": "“Las joyas linlang resuenan en medio del silencio. Los ríos están quietos y las nubes se llenan de escarcha. Cuando las puertas del altar se abren, el mal es desterrado”.",
+      "attributes": [
+        {
+          "name": "Daño de habilidad",
+          "parameters": [
+            "172.04%",
+            "184.94%",
+            "197.85%",
+            "215.05%",
+            "227.95%",
+            "240.86%",
+            "258.06%",
+            "275.26%",
+            "292.47%",
+            "309.67%",
+            "326.88%",
+            "344.08%",
+            "365.58%",
+            "387.09%",
+            "408.59%"
+          ]
+        },
+        {
+          "name": "Duración del elemento imbuido",
+          "parameters": [
+            "2 s",
+            "2.0999999046325684 s",
+            "2.200000047683716 s",
+            "2.299999952316284 s",
+            "2.4000000953674316 s",
+            "2.5 s",
+            "2.5999999046325684 s",
+            "2.700000047683716 s",
+            "2.799999952316284 s",
+            "2.9000000953674316 s",
+            "3 s",
+            "3 s",
+            "3 s",
+            "3 s",
+            "3 s"
+          ]
+        },
+        {
+          "name": "Duración del campo",
+          "parameters": [
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s"
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Filo espiritual: Estrella cortanubes",
+      "info": "Chongyun crea unos sellos con sus manos para invocar tres filos espirituales gigantes que caen a la tierra uno tras otro, explotando al impactar contra el suelo, infligiendo Daño Cryo en el AdE y lanzando por los aires a sus enemigos.",
+      "description": "“Así como del hielo nace la escarcha, mi hoja trascendente sacude el cielo y la tierra. ¡Atiende a mi llamado y ven aquí!”.",
+      "attributes": [
+        {
+          "name": "Daño de habilidad",
+          "parameters": [
+            "142.40%",
+            "153.08%",
+            "163.76%",
+            "178.00%",
+            "188.68%",
+            "199.36%",
+            "213.60%",
+            "227.84%",
+            "242.08%",
+            "256.32%",
+            "270.56%",
+            "284.80%",
+            "302.60%",
+            "320.40%",
+            "338.20%"
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        },
+        {
+          "name": "Energía Elemental",
+          "parameters": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Respiración inalterable",
+      "info": "Aumenta en un 8% la Vel. de Ataque Normal de los personajes con espadas ligeras, mandobles o lanzas dentro del campo creado por **Filo espiritual: Estratos de escarcha Chonghua**."
+    },
+    "passive2": {
+      "name": "Hoja cazaescarcha",
+      "info": "Cuando el campo creado por **Filo espiritual: Estratos de escarcha Chonghua** desaparece, invoca otro filo espiritual que ataca a los enemigos cercanos, infligiendo el 100% del daño de habilidad de Estratos de escarcha Chonghua como Daño Cryo en el AdE. La RES Cryo de los enemigos golpeados por este filo disminuirá en un 10% durante 8 s."
+    },
+    "passive3": {
+      "name": "Viaje por las nubes",
+      "info": "Reduce en un 25% el tiempo necesario para completar una expedición en Liyue."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseñanzas del esfuerzo",
+          "count": 3
+        },
+        {
+          "name": "Máscara dañada",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guía del esfuerzo",
+          "count": 2
+        },
+        {
+          "name": "Máscara sucia",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guía del esfuerzo",
+          "count": 4
+        },
+        {
+          "name": "Máscara sucia",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guía del esfuerzo",
+          "count": 6
+        },
+        {
+          "name": "Máscara sucia",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guía del esfuerzo",
+          "count": 9
+        },
+        {
+          "name": "Máscara sucia",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofía del esfuerzo",
+          "count": 4
+        },
+        {
+          "name": "Máscara amenazante",
+          "count": 4
+        },
+        {
+          "name": "Suspiro de Stormterror",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofía del esfuerzo",
+          "count": 6
+        },
+        {
+          "name": "Máscara amenazante",
+          "count": 6
+        },
+        {
+          "name": "Suspiro de Stormterror",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofía del esfuerzo",
+          "count": 12
+        },
+        {
+          "name": "Máscara amenazante",
+          "count": 9
+        },
+        {
+          "name": "Suspiro de Stormterror",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofía del esfuerzo",
+          "count": 16
+        },
+        {
+          "name": "Máscara amenazante",
+          "count": 12
+        },
+        {
+          "name": "Suspiro de Stormterror",
+          "count": 2
+        },
+        {
+          "name": "Corona de la sabiduría",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Chongyun_01",
+      "combat3": "Skill_E_Chongyun_01_HD",
+      "passive1": "UI_Talent_S_Chongyun_05",
+      "passive2": "UI_Talent_S_Chongyun_06",
+      "passive3": "UI_Talent_Expedition_Liyue"
+    },
+    "version": "1.0"
+  }
+}

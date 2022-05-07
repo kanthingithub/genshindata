@@ -1,0 +1,20 @@
+{
+  "name": "Northlander Catalyst Billet",
+  "description": "Material Crafting Senjata. Dapat digunakan untuk menempa Catalyst 4★.\nAhli filsafat percaya marmer memiliki potensi untuk diukir menjadi patung yang indah. Begitu juga dengan material senjata ini; ia juga memiliki potensi yang tak terbatas.",
+  "sortorder": 1965,
+  "rarity": "4",
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [
+    "Dijatuhkan oleh Boss"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Northlander_Catalyst_Billet.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3b/Item_Northlander_Catalyst_Billet.png",
+    "nameicon": "UI_ItemIcon_101104"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Northlander_Catalyst_Billet"
+  },
+  "version": ""
+}

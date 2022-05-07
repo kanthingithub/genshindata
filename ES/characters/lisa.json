@@ -1,0 +1,894 @@
+{
+  "name": "Lisa",
+  "fullname": "Lisa",
+  "title": "La Bruja de las Rosas",
+  "description": "La perezosa pero sabia bibliotecaria de los Caballeros de Favonius. En realidad, fue considerada por la Academia de Sumeru como su graduada más sobresaliente en los últimos dos siglos.",
+  "rarity": "4",
+  "element": "Electro",
+  "weapontype": "Catalizador",
+  "substat": "Maestría Elemental",
+  "gender": "Femenino",
+  "body": "LADY",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Caballeros de Favonius",
+  "birthdaymmdd": "6/9",
+  "birthday": "9 de junio",
+  "constellation": "Tempus Fugit",
+  "cv": {
+    "english": "Mara Junot",
+    "chinese": "钟可",
+    "japanese": "田中理恵",
+    "korean": "Park Go-woon"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Pedacito de amatista vajrada",
+        "count": 1
+      },
+      {
+        "name": "Valbaya",
+        "count": 3
+      },
+      {
+        "name": "Condensado de Slime",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de amatista vajrada",
+        "count": 3
+      },
+      {
+        "name": "Prisma del relámpago",
+        "count": 2
+      },
+      {
+        "name": "Valbaya",
+        "count": 10
+      },
+      {
+        "name": "Condensado de Slime",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de amatista vajrada",
+        "count": 6
+      },
+      {
+        "name": "Prisma del relámpago",
+        "count": 4
+      },
+      {
+        "name": "Valbaya",
+        "count": 20
+      },
+      {
+        "name": "Babas de Slime",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Trozo de amatista vajrada",
+        "count": 3
+      },
+      {
+        "name": "Prisma del relámpago",
+        "count": 8
+      },
+      {
+        "name": "Valbaya",
+        "count": 30
+      },
+      {
+        "name": "Babas de Slime",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Trozo de amatista vajrada",
+        "count": 6
+      },
+      {
+        "name": "Prisma del relámpago",
+        "count": 12
+      },
+      {
+        "name": "Valbaya",
+        "count": 45
+      },
+      {
+        "name": "Esencia de Slime",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Amatista vajrada",
+        "count": 6
+      },
+      {
+        "name": "Prisma del relámpago",
+        "count": 20
+      },
+      {
+        "name": "Valbaya",
+        "count": 60
+      },
+      {
+        "name": "Esencia de Slime",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Character_Lisa_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Character_Lisa_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Lisa.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Lisa.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20191009/2019100915122465321.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20191009/2019100915140016827.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/06b5a07d8f98649e5e09c58aa7904752.png",
+    "nameicon": "UI_AvatarIcon_Lisa",
+    "nameiconcard": "UI_AvatarIcon_Lisa_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Lisa",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Lisa",
+    "namesideicon": "UI_AvatarIcon_Side_Lisa"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lisa"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 802.3760986328125,
+      "attack": 19.410720825195312,
+      "defense": 48.069000244140625,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2061.304201978928,
+      "attack": 49.86614191099579,
+      "defense": 123.48926190225029,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2660.720217603928,
+      "attack": 64.36728345915253,
+      "defense": 159.3992617496624,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 3985.4429835102637,
+      "attack": 96.41437935794966,
+      "defense": 238.76117079240794,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4411.343862416514,
+      "attack": 106.71782231296675,
+      "defense": 264.2761701820564,
+      "specialized": 24
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5074.106691293244,
+      "attack": 122.7510818611554,
+      "defense": 303.9811746523628,
+      "specialized": 24
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5641.974489144806,
+      "attack": 136.48900452961243,
+      "defense": 338.0011751101265,
+      "specialized": 48
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6304.737318021536,
+      "attack": 152.52226407780108,
+      "defense": 377.70617958043294,
+      "specialized": 48
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6730.638196927786,
+      "attack": 162.8257079864925,
+      "defense": 403.2211789700814,
+      "specialized": 48
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7392.598325258761,
+      "attack": 178.83954896497744,
+      "defense": 442.8780950030632,
+      "specialized": 48
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7818.499082094699,
+      "attack": 189.14299287366885,
+      "defense": 468.3931020221062,
+      "specialized": 72
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8481.26152836869,
+      "attack": 205.17624316610454,
+      "defense": 508.09808357132715,
+      "specialized": 72
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 8907.16240727494,
+      "attack": 215.47968326009868,
+      "defense": 533.6130829609756,
+      "specialized": 96
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9569.92523615167,
+      "attack": 231.51294280828733,
+      "defense": 573.318087431282,
+      "specialized": 96
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Circuito infinito",
+      "effect": "Al mantener pulsado **Arco violeta**, Lisa recupera 2 pts. de Energía Elemental por cada enemigo golpeado.\nSolo se puede regenerar un máximo de 10 pts. de energía de esta manera."
+    },
+    "c2": {
+      "name": "Campo electromagnético",
+      "effect": "Al mantener pulsado, **Arco violeta** tiene los siguientes efectos:\n·Aumenta en un 25% la DEF.\n·Aumenta la RES a interrupción de Lisa."
+    },
+    "c3": {
+      "name": "Trueno resonante",
+      "effect": "Aumenta el nivel de habilidad de **Rayo de la rosa** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c4": {
+      "name": "Erupción de plasma",
+      "effect": "Aumenta el número de rayos lanzados por **Rayo de la rosa** de 1 a 3."
+    },
+    "c5": {
+      "name": "Electrocución",
+      "effect": "Aumenta el nivel de habilidad de **Arco violeta** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c6": {
+      "name": "Bruja palpitante",
+      "effect": "Al cambiar a Lisa, los enemigos cercanos acumulan 3 cargas de conducción de **Arco violeta**.\nEste efecto puede ocurrir una vez cada 5 s."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Lisa_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Lisa_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Lisa_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Lisa_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Lisa_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Lisa_04.png",
+      "constellation": "Eff_UI_Talent_Lisa"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Lisa",
+    "combat1": {
+      "name": "Ataque Normal: Toque de relámpago",
+      "info": "**Ataque Normal**\nRealiza hasta 4 ataques eléctricos que infligen Daño Electro.\n\n**Ataque Cargado**\nConsume una cierta cantidad de Aguante para infligir Daño Electro en el AdE después de un corto tiempo de lanzamiento.\n\n**Ataque Descendente**\nConcentra el poder Electro y desciende hacia el suelo, dañando a todos los enemigos cercanos e infligiendo Daño Electro en el AdE en el momento del impacto.",
+      "attributes": [
+        {
+          "name": "Daño de 1er golpe",
+          "parameters": [
+            "39.60%",
+            "42.57%",
+            "45.54%",
+            "49.50%",
+            "52.47%",
+            "55.44%",
+            "59.40%",
+            "63.36%",
+            "67.32%",
+            "71.28%",
+            "75.40%",
+            "80.78%",
+            "86.17%",
+            "91.56%",
+            "96.94%"
+          ]
+        },
+        {
+          "name": "Daño de 2.º golpe",
+          "parameters": [
+            "35.92%",
+            "38.61%",
+            "41.31%",
+            "44.90%",
+            "47.59%",
+            "50.29%",
+            "53.88%",
+            "57.47%",
+            "61.06%",
+            "64.66%",
+            "68.39%",
+            "73.28%",
+            "78.16%",
+            "83.05%",
+            "87.93%"
+          ]
+        },
+        {
+          "name": "Daño de 3er golpe",
+          "parameters": [
+            "42.80%",
+            "46.01%",
+            "49.22%",
+            "53.50%",
+            "56.71%",
+            "59.92%",
+            "64.20%",
+            "68.48%",
+            "72.76%",
+            "77.04%",
+            "81.49%",
+            "87.31%",
+            "93.13%",
+            "98.95%",
+            "104.77%"
+          ]
+        },
+        {
+          "name": "Daño de 4.º golpe",
+          "parameters": [
+            "54.96%",
+            "59.08%",
+            "63.20%",
+            "68.70%",
+            "72.82%",
+            "76.94%",
+            "82.44%",
+            "87.94%",
+            "93.43%",
+            "98.93%",
+            "104.64%",
+            "112.12%",
+            "119.59%",
+            "127.07%",
+            "134.54%"
+          ]
+        },
+        {
+          "name": "Daño de ATQ Cargado",
+          "parameters": [
+            "177.12%",
+            "190.40%",
+            "203.69%",
+            "221.40%",
+            "234.68%",
+            "247.97%",
+            "265.68%",
+            "283.39%",
+            "301.10%",
+            "318.82%",
+            "337.24%",
+            "361.32%",
+            "385.41%",
+            "409.50%",
+            "433.59%"
+          ]
+        },
+        {
+          "name": "Coste de Aguante de ATQ Cargado",
+          "parameters": [
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts."
+          ]
+        },
+        {
+          "name": "Daño de Caída",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "Daño de impacto de caída baja/alta",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Arco violeta",
+      "info": "Canaliza el poder del rayo para deshacerse de los asuntos más molestos.\n\n**Pulsar una vez**\nLanza un orbe eléctrico contra sus enemigos. En el momento del impacto, el orbe inflige Daño Electro y afecta a los enemigos situados en una pequeña AdE con una carga de conducción (máx. 3 cargas).\n\n**Mantener pulsado**\nTras un tiempo de canalización, invoca los truenos del cielo, infligiendo una gran cantidad de Daño Electro a los enemigos cercanos.\nInflige grandes cantidades de daño adicional a los enemigos en proporción al número de cargas de conducción que tengan, tras lo que elimina este efecto.",
+      "description": "El color de los rayos es el color preferido de la Bruja de las Rosas.",
+      "attributes": [
+        {
+          "name": "Daño al pulsar una vez",
+          "parameters": [
+            "80.00%",
+            "86.00%",
+            "92.00%",
+            "100.00%",
+            "106.00%",
+            "112.00%",
+            "120.00%",
+            "128.00%",
+            "136.00%",
+            "144.00%",
+            "152.00%",
+            "160.00%",
+            "170.00%",
+            "180.00%",
+            "190.00%"
+          ]
+        },
+        {
+          "name": "TdE al pulsar una vez",
+          "parameters": [
+            "1 s",
+            "1 s",
+            "1 s",
+            "1 s",
+            "1 s",
+            "1 s",
+            "1 s",
+            "1 s",
+            "1 s",
+            "1 s",
+            "1 s",
+            "1 s",
+            "1 s",
+            "1 s",
+            "1 s"
+          ]
+        },
+        {
+          "name": "Daño de conducción al mantener pulsado (0 cargas)",
+          "parameters": [
+            "320.00%",
+            "344.00%",
+            "368.00%",
+            "400.00%",
+            "424.00%",
+            "448.00%",
+            "480.00%",
+            "512.00%",
+            "544.00%",
+            "576.00%",
+            "608.00%",
+            "640.00%",
+            "680.00%",
+            "720.00%",
+            "760.00%"
+          ]
+        },
+        {
+          "name": "Daño de conducción al mantener pulsado (1 carga)",
+          "parameters": [
+            "368.00%",
+            "395.60%",
+            "423.20%",
+            "460.00%",
+            "487.60%",
+            "515.20%",
+            "552.00%",
+            "588.80%",
+            "625.60%",
+            "662.40%",
+            "699.20%",
+            "736.00%",
+            "782.00%",
+            "828.00%",
+            "874.00%"
+          ]
+        },
+        {
+          "name": "Daño de conducción al mantener pulsado (2 cargas)",
+          "parameters": [
+            "424.00%",
+            "455.80%",
+            "487.60%",
+            "530.00%",
+            "561.80%",
+            "593.60%",
+            "636.00%",
+            "678.40%",
+            "720.80%",
+            "763.20%",
+            "805.60%",
+            "848.00%",
+            "901.00%",
+            "954.00%",
+            "1007.00%"
+          ]
+        },
+        {
+          "name": "Daño de conducción al mantener pulsado (3 cargas)",
+          "parameters": [
+            "487.20%",
+            "523.74%",
+            "560.28%",
+            "609.00%",
+            "645.54%",
+            "682.08%",
+            "730.80%",
+            "779.52%",
+            "828.24%",
+            "876.96%",
+            "925.68%",
+            "974.40%",
+            "1035.30%",
+            "1096.20%",
+            "1157.10%"
+          ]
+        },
+        {
+          "name": "TdE de mantener pulsado",
+          "parameters": [
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Rayo de la rosa",
+      "info": "Invoca una rosa devastadora que libera un inmenso poder eléctrico y empuja a los enemigos cercanos, infligiendo Daño Electro.\nDurante su efecto, la rosa devastadora chispea periódicamente relámpagos para atacar a los oponentes cercanos, infligiendo Daño Electro.",
+      "description": "Efectivamente, esta rosa es increíblemente bella, pero sus espinas pueden llegan a ser letales.",
+      "attributes": [
+        {
+          "name": "Daño de descarga",
+          "parameters": [
+            "36.56%",
+            "39.30%",
+            "42.04%",
+            "45.70%",
+            "48.44%",
+            "51.18%",
+            "54.84%",
+            "58.50%",
+            "62.15%",
+            "65.81%",
+            "69.46%",
+            "73.12%",
+            "77.69%",
+            "82.26%",
+            "86.83%"
+          ]
+        },
+        {
+          "name": "Duración",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s"
+          ]
+        },
+        {
+          "name": "Energía Elemental",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Réplica eléctrica",
+      "info": "Al hacer un Ataque Cargado, **Arco violeta** aplica cargas de conducción sobre los enemigos."
+    },
+    "passive2": {
+      "name": "Campo de electricidad estática",
+      "info": "**Rayo de la rosa** reduce la DEF del enemigo en un 15% durante 10 s."
+    },
+    "passive3": {
+      "name": "Conocimientos farmacéuticos",
+      "info": "Al fabricar una poción, hay una probabilidad del 20% de recuperar los materiales usados."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseñanzas de la poesía",
+          "count": 3
+        },
+        {
+          "name": "Condensado de Slime",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guía de la poesía",
+          "count": 2
+        },
+        {
+          "name": "Babas de Slime",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guía de la poesía",
+          "count": 4
+        },
+        {
+          "name": "Babas de Slime",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guía de la poesía",
+          "count": 6
+        },
+        {
+          "name": "Babas de Slime",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guía de la poesía",
+          "count": 9
+        },
+        {
+          "name": "Babas de Slime",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofía de la poesía",
+          "count": 4
+        },
+        {
+          "name": "Esencia de Slime",
+          "count": 4
+        },
+        {
+          "name": "Garra de Stormterror",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofía de la poesía",
+          "count": 6
+        },
+        {
+          "name": "Esencia de Slime",
+          "count": 6
+        },
+        {
+          "name": "Garra de Stormterror",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofía de la poesía",
+          "count": 12
+        },
+        {
+          "name": "Esencia de Slime",
+          "count": 9
+        },
+        {
+          "name": "Garra de Stormterror",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofía de la poesía",
+          "count": 16
+        },
+        {
+          "name": "Esencia de Slime",
+          "count": 12
+        },
+        {
+          "name": "Garra de Stormterror",
+          "count": 2
+        },
+        {
+          "name": "Corona de la sabiduría",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_Catalyst_MD",
+      "combat2": "Skill_S_Lisa_01",
+      "combat3": "Skill_E_Lisa_01_HD",
+      "passive1": "UI_Talent_S_Lisa_05",
+      "passive2": "UI_Talent_S_Lisa_06",
+      "passive3": "UI_Talent_Combine_Potion"
+    },
+    "version": "1.0"
+  }
+}

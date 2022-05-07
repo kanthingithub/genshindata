@@ -1,0 +1,1052 @@
+{
+  "name": "Eula",
+  "fullname": "Eula",
+  "title": "Dance of the Shimmering Wave",
+  "description": "Sang Spindrift Knight, keturunan keluarga bangsawan dan Kapten dari Pasukan Gerilya Knights of Favonius. Alasan kenapa seorang keturunan bangsawan kuno ingin bergabung dengan para Knight masih menjadi misteri di Mondstadt sampai saat ini.",
+  "rarity": "5",
+  "element": "Cryo",
+  "weapontype": "Claymore",
+  "substat": "CRIT DMG",
+  "gender": "Perempuan",
+  "body": "LADY",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Knights of Favonius",
+  "birthdaymmdd": "10/25",
+  "birthday": "25 Oktober",
+  "constellation": "Aphros Delos",
+  "cv": {
+    "english": "Suzie Yeung",
+    "chinese": "子音",
+    "japanese": "佐藤利奈",
+    "korean": "Kim Hyeon-ji"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Shivada Jade Sliver",
+        "count": 1
+      },
+      {
+        "name": "Dandelion Seed",
+        "count": 3
+      },
+      {
+        "name": "Damaged Mask",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Shivada Jade Fragment",
+        "count": 3
+      },
+      {
+        "name": "Crystalline Bloom",
+        "count": 2
+      },
+      {
+        "name": "Dandelion Seed",
+        "count": 10
+      },
+      {
+        "name": "Damaged Mask",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Shivada Jade Fragment",
+        "count": 6
+      },
+      {
+        "name": "Crystalline Bloom",
+        "count": 4
+      },
+      {
+        "name": "Dandelion Seed",
+        "count": 20
+      },
+      {
+        "name": "Stained Mask",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Shivada Jade Chunk",
+        "count": 3
+      },
+      {
+        "name": "Crystalline Bloom",
+        "count": 8
+      },
+      {
+        "name": "Dandelion Seed",
+        "count": 30
+      },
+      {
+        "name": "Stained Mask",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Shivada Jade Chunk",
+        "count": 6
+      },
+      {
+        "name": "Crystalline Bloom",
+        "count": 12
+      },
+      {
+        "name": "Dandelion Seed",
+        "count": 45
+      },
+      {
+        "name": "Ominous Mask",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Shivada Jade Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Crystalline Bloom",
+        "count": 20
+      },
+      {
+        "name": "Dandelion Seed",
+        "count": 60
+      },
+      {
+        "name": "Ominous Mask",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Eula.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210510/2021051011361876265.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210510/2021051011383243523.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/6840f27db9745020aad45853bff79c7c.png",
+    "nameicon": "UI_AvatarIcon_Eula",
+    "nameiconcard": "UI_AvatarIcon_Eula_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Eula",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Eula",
+    "namesideicon": "UI_AvatarIcon_Side_Eula"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Eula"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1029.5855712890625,
+      "attack": 26.62660026550293,
+      "defense": 58.45391082763672,
+      "specialized": 0.5
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2670.7450760040956,
+      "attack": 69.06940378038371,
+      "defense": 151.62945059596495,
+      "specialized": 0.5
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3553.5216262970644,
+      "attack": 91.89763749925578,
+      "defense": 201.74954870997863,
+      "specialized": 0.5
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5317.201770792366,
+      "attack": 137.5090053284348,
+      "defense": 301.8811014139719,
+      "specialized": 0.5
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5944.437793741585,
+      "attack": 153.72906567694554,
+      "defense": 337.4927537882395,
+      "specialized": 0.596000000834465
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6839.14761198865,
+      "attack": 176.86758019037097,
+      "defense": 388.2891998446321,
+      "specialized": 0.596000000834465
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7675.462187183963,
+      "attack": 198.49432732171863,
+      "defense": 435.77139283779616,
+      "specialized": 0.69200000166893
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8579.438094904996,
+      "attack": 221.8724765652023,
+      "defense": 487.0939138343747,
+      "specialized": 0.69200000166893
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9206.67417888937,
+      "attack": 238.09253882106168,
+      "defense": 522.7055776527341,
+      "specialized": 0.69200000166893
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 10118.887156081328,
+      "attack": 261.68371082076646,
+      "defense": 574.4957517883631,
+      "specialized": 0.69200000166893
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10746.122995925078,
+      "attack": 277.90377307662584,
+      "defense": 610.1074003479334,
+      "specialized": 0.7879999876022339
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11668.631573538703,
+      "attack": 301.7612044767784,
+      "defense": 662.4820990978806,
+      "specialized": 0.7879999876022339
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12295.867657523078,
+      "attack": 317.9812667326378,
+      "defense": 698.0937476574509,
+      "specialized": 0.8840000033378601
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 13225.583793659927,
+      "attack": 342.0250962186219,
+      "defense": 750.8776498723164,
+      "specialized": 0.8840000033378601
+    }
+  },
+  "version": "1.5",
+  "constellations": {
+    "c1": {
+      "name": "Tidal Illusion",
+      "effect": "Setiap kali lapisan Grimheart dari **Icetide Vortex** dikonsumsi, Physical DMG Eula akan meningkat 30% selama 6 detik.\nSetiap lapis yang terkonsumsi akan meningkatkan durasi efek ini sebanyak 6 detik, hingga maksimum 18 detik."
+    },
+    "c2": {
+      "name": "Lady of Seafoam",
+      "effect": "Mengurangi CD dari Mode Tahan **Icetide Vortex**, membuatnya sama dengan CD Mode Tekan."
+    },
+    "c3": {
+      "name": "Lawrence Pedigree",
+      "effect": "Meningkatkan 3 level **Glacial Illumination**.\nMaksimum: Lv. 15."
+    },
+    "c4": {
+      "name": "The Obstinacy of One's Inferiors",
+      "effect": "Meningkatkan 25% DMG Lightfall Sword terhadap musuh dengan HP kurang dari 50%."
+    },
+    "c5": {
+      "name": "Chivalric Quality",
+      "effect": "Meningkatkan 3 level **Icetide Vortex**.\nMaksimum: Lv. 15."
+    },
+    "c6": {
+      "name": "Noble Obligation",
+      "effect": "Lightfall Sword yang tercipta dari **Glacial Illumination** langsung memperoleh 5 lapis energi. Saat DMG yang diakibatkan Normal Attack, Elemental Skill, dan Elemental Burst mengakumulasi lapisan energi, Lightfall Sword memiliki 50% kemungkinan untuk memperoleh 1 lapis energi tambahan."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Eula_02.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Eula_01.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Eula_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Eula_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Eula_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Eula_04.png",
+      "constellation": "Eff_UI_Talent_Eula"
+    },
+    "version": "1.5"
+  },
+  "talent": {
+    "name": "Eula",
+    "combat1": {
+      "name": "Normal Attack: Favonius Bladework - Edel",
+      "info": "**Normal Attack**\nMelancarkan hingga 5 tebasan berturut-turut.\n\n**Charged Attack**\nTerus menguras Stamina untuk melancarkan tebasan berkelanjutan secara cepat.\nCharged Attack akan diakhiri dengan sebuah tebasan yang lebih kuat.\n\n**Plunging Attack**\nMenerjang dari udara untuk menghantam tanah, menyerang semua musuh di jalurnya dan mengakibatkan DMG area saat mendarat.",
+      "attributes": [
+        {
+          "name": "DMG Tahap 1",
+          "parameters": [
+            "89.73%",
+            "97.04%",
+            "104.34%",
+            "114.77%",
+            "122.08%",
+            "130.43%",
+            "141.90%",
+            "153.38%",
+            "164.86%",
+            "177.38%",
+            "191.72%",
+            "208.60%",
+            "225.47%",
+            "242.34%",
+            "260.75%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 2",
+          "parameters": [
+            "93.55%",
+            "101.17%",
+            "108.78%",
+            "119.66%",
+            "127.27%",
+            "135.98%",
+            "147.94%",
+            "159.91%",
+            "171.87%",
+            "184.93%",
+            "199.88%",
+            "217.47%",
+            "235.06%",
+            "252.65%",
+            "271.84%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 3",
+          "parameters": [
+            "56.80%+56.80%",
+            "61.42%+61.42%",
+            "66.04%+66.04%",
+            "72.65%+72.65%",
+            "77.27%+77.27%",
+            "82.56%+82.56%",
+            "89.82%+89.82%",
+            "97.09%+97.09%",
+            "104.35%+104.35%",
+            "112.28%+112.28%",
+            "121.36%+121.36%",
+            "132.04%+132.04%",
+            "142.72%+142.72%",
+            "153.40%+153.40%",
+            "165.05%+165.05%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 4",
+          "parameters": [
+            "112.64%",
+            "121.81%",
+            "130.98%",
+            "144.08%",
+            "153.25%",
+            "163.72%",
+            "178.13%",
+            "192.54%",
+            "206.95%",
+            "222.67%",
+            "240.68%",
+            "261.86%",
+            "283.03%",
+            "304.21%",
+            "327.32%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 5",
+          "parameters": [
+            "71.83%+71.83%",
+            "77.68%+77.68%",
+            "83.53%+83.53%",
+            "91.88%+91.88%",
+            "97.73%+97.73%",
+            "104.41%+104.41%",
+            "113.60%+113.60%",
+            "122.79%+122.79%",
+            "131.97%+131.97%",
+            "142.00%+142.00%",
+            "153.48%+153.48%",
+            "166.99%+166.99%",
+            "180.49%+180.49%",
+            "194.00%+194.00%",
+            "208.74%+208.74%"
+          ]
+        },
+        {
+          "name": "DMG Berputar Charged Attack",
+          "parameters": [
+            "68.80%",
+            "74.40%",
+            "80.00%",
+            "88.00%",
+            "93.60%",
+            "100.00%",
+            "108.80%",
+            "117.60%",
+            "126.40%",
+            "136.00%",
+            "147.00%",
+            "159.94%",
+            "172.87%",
+            "185.81%",
+            "199.92%"
+          ]
+        },
+        {
+          "name": "DMG Akhir Charged Attack",
+          "parameters": [
+            "124.40%",
+            "134.52%",
+            "144.65%",
+            "159.12%",
+            "169.24%",
+            "180.81%",
+            "196.72%",
+            "212.64%",
+            "228.55%",
+            "245.90%",
+            "265.79%",
+            "289.18%",
+            "312.57%",
+            "335.96%",
+            "361.48%"
+          ]
+        },
+        {
+          "name": "Konsumsi Stamina Charged Attack",
+          "parameters": [
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk"
+          ]
+        },
+        {
+          "name": "Durasi Maksimum",
+          "parameters": [
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik"
+          ]
+        },
+        {
+          "name": "DMG Selama Plunging",
+          "parameters": [
+            "74.59%",
+            "80.66%",
+            "86.73%",
+            "95.40%",
+            "101.47%",
+            "108.41%",
+            "117.95%",
+            "127.49%",
+            "137.03%",
+            "147.44%",
+            "159.37%",
+            "173.39%",
+            "187.41%",
+            "201.44%",
+            "216.74%"
+          ]
+        },
+        {
+          "name": "DMG Plunging Attack Ketinggian Rendah/Tinggi",
+          "parameters": [
+            "149.14%/186.29%",
+            "161.28%/201.45%",
+            "173.42%/216.62%",
+            "190.77%/238.28%",
+            "202.91%/253.44%",
+            "216.78%/270.77%",
+            "235.86%/294.60%",
+            "254.93%/318.42%",
+            "274.01%/342.25%",
+            "294.82%/368.25%",
+            "318.67%/398.03%",
+            "346.71%/433.06%",
+            "374.75%/468.08%",
+            "402.79%/503.11%",
+            "433.38%/541.32%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Icetide Vortex",
+      "info": "Es yang tajam, pedang yang lincah.\n\n**Tekan**\nMenebas dengan cepat dan mengakibatkan Cryo DMG.\nSaat mengenai musuh, Eula akan mendapatkan satu lapis Grimheart yang bisa ditumpuk hingga 2 lapis. Lapisan ini hanya bisa ditumpuk setiap 0,3 detik.\n\n**Grimheart**\nMeningkatkan DEF dan ketahanan Eula terhadap interupsi.\n\n**Tahan**\nDengan mengonsumsi semua lapisan Grimheart yang ada, Eula menebas pedangnya ke arah depan dan mengakibatkan Cryo DMG area pada musuh di hadapannya.\nJika Eula mengonsumsi lapisan Grimheart, musuh di sekitar akan mengalami penurunan Physical RES dan Cryo RES.\nSetiap lapis Grimheart akan berubah menjadi Icewhirl Brand yang mengakibatkan Cryo DMG pada musuh di sekitar.",
+      "description": "\"Ombak-ombak pun bergulung, menelan mahkota para bangsawan. Setelah itu, setiap tetesan di antara gulungan ombak es akan memantulkan mahkota emas, dan setiap tetesan busa ombak akan memancarkan cahayanya.\"",
+      "attributes": [
+        {
+          "name": "DMG Tekan",
+          "parameters": [
+            "146.40%",
+            "157.38%",
+            "168.36%",
+            "183.00%",
+            "193.98%",
+            "204.96%",
+            "219.60%",
+            "234.24%",
+            "248.88%",
+            "263.52%",
+            "278.16%",
+            "292.80%",
+            "311.10%",
+            "329.40%",
+            "347.70%"
+          ]
+        },
+        {
+          "name": "DMG Tahan",
+          "parameters": [
+            "245.60%",
+            "264.02%",
+            "282.44%",
+            "307.00%",
+            "325.42%",
+            "343.84%",
+            "368.40%",
+            "392.96%",
+            "417.52%",
+            "442.08%",
+            "466.64%",
+            "491.20%",
+            "521.90%",
+            "552.60%",
+            "583.30%"
+          ]
+        },
+        {
+          "name": "DMG Icewhirl Brand",
+          "parameters": [
+            "96.00%",
+            "103.20%",
+            "110.40%",
+            "120.00%",
+            "127.20%",
+            "134.40%",
+            "144.00%",
+            "153.60%",
+            "163.20%",
+            "172.80%",
+            "182.40%",
+            "192.00%",
+            "204.00%",
+            "216.00%",
+            "228.00%"
+          ]
+        },
+        {
+          "name": "Bonus DEF",
+          "parameters": [
+            "30.00%/lapis",
+            "30.00%/lapis",
+            "30.00%/lapis",
+            "30.00%/lapis",
+            "30.00%/lapis",
+            "30.00%/lapis",
+            "30.00%/lapis",
+            "30.00%/lapis",
+            "30.00%/lapis",
+            "30.00%/lapis",
+            "30.00%/lapis",
+            "30.00%/lapis",
+            "30.00%/lapis",
+            "30.00%/lapis",
+            "30.00%/lapis"
+          ]
+        },
+        {
+          "name": "Durasi Grimheart",
+          "parameters": [
+            "18 detik",
+            "18 detik",
+            "18 detik",
+            "18 detik",
+            "18 detik",
+            "18 detik",
+            "18 detik",
+            "18 detik",
+            "18 detik",
+            "18 detik",
+            "18 detik",
+            "18 detik",
+            "18 detik",
+            "18 detik",
+            "18 detik"
+          ]
+        },
+        {
+          "name": "Pengurangan Physical RES",
+          "parameters": [
+            "16.00%",
+            "17.00%",
+            "18.00%",
+            "19.00%",
+            "20.00%",
+            "21.00%",
+            "22.00%",
+            "23.00%",
+            "24.00%",
+            "25.00%",
+            "25.00%",
+            "25.00%",
+            "25.00%",
+            "25.00%",
+            "25.00%"
+          ]
+        },
+        {
+          "name": "Pengurangan Cryo RES",
+          "parameters": [
+            "16.00%",
+            "17.00%",
+            "18.00%",
+            "19.00%",
+            "20.00%",
+            "21.00%",
+            "22.00%",
+            "23.00%",
+            "24.00%",
+            "25.00%",
+            "25.00%",
+            "25.00%",
+            "25.00%",
+            "25.00%",
+            "25.00%"
+          ]
+        },
+        {
+          "name": "Durasi Pengurangan RES",
+          "parameters": [
+            "7dtk",
+            "7dtk",
+            "7dtk",
+            "7dtk",
+            "7dtk",
+            "7dtk",
+            "7dtk",
+            "7dtk",
+            "7dtk",
+            "7dtk",
+            "7dtk",
+            "7dtk",
+            "7dtk",
+            "7dtk",
+            "7dtk"
+          ]
+        },
+        {
+          "name": "Cooldown (Mode Tekan)",
+          "parameters": [
+            "4 detik",
+            "4 detik",
+            "4 detik",
+            "4 detik",
+            "4 detik",
+            "4 detik",
+            "4 detik",
+            "4 detik",
+            "4 detik",
+            "4 detik",
+            "4 detik",
+            "4 detik",
+            "4 detik",
+            "4 detik",
+            "4 detik"
+          ]
+        },
+        {
+          "name": "Cooldown (Mode Tahan)",
+          "parameters": [
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Glacial Illumination",
+      "info": "Eula mengayunkan pedang besarnya dan mengakibatkan Cryo DMG terhadap musuh di sekitar, serta menciptakan Lightfall Sword yang mengikutinya selama hingga 7 detik.\nSelama aktif, Lightfall Sword akan meningkatkan ketahanan Eula terhadap interupsi. Saat Normal Attack, Elemental Skill, dan Elemental Burst Eula mengakibatkan DMG terhadap musuh, energi Lightfall Sword akan terisi. 1 lapisan energi hanya dapat terisi setiap 0,1 detik.\nSetelah durasinya berakhir, Lightfall Sword akan meledak hebat dan mengakibatkan Physical DMG terhadap musuh di sekitarnya.\nDMG ini akan meningkat sesuai dengan jumlah lapisan energi yang berhasil dikumpulkan Lightfall Sword.\nLightfall Sword akan langsung meledak saat Eula meninggalkan medan pertempuran.",
+      "description": "Mudah sekali bagi seseorang untuk tenggelam dalam arus ombak. Meski begitu, Eula lebih tertantang untuk membekukan arus yang datang.",
+      "attributes": [
+        {
+          "name": "DMG Skill",
+          "parameters": [
+            "245.60%",
+            "264.02%",
+            "282.44%",
+            "307.00%",
+            "325.42%",
+            "343.84%",
+            "368.40%",
+            "392.96%",
+            "417.52%",
+            "442.08%",
+            "466.64%",
+            "491.20%",
+            "521.90%",
+            "552.60%",
+            "583.30%"
+          ]
+        },
+        {
+          "name": "DMG Dasar Lightfall Sword",
+          "parameters": [
+            "367.05%",
+            "396.92%",
+            "426.80%",
+            "469.48%",
+            "499.36%",
+            "533.50%",
+            "580.45%",
+            "627.40%",
+            "674.34%",
+            "725.56%",
+            "784.25%",
+            "853.26%",
+            "922.27%",
+            "991.29%",
+            "1066.57%"
+          ]
+        },
+        {
+          "name": "Peningkatan DMG/Lapis",
+          "parameters": [
+            "74.99%",
+            "81.10%",
+            "87.20%",
+            "95.92%",
+            "102.02%",
+            "109.00%",
+            "118.59%",
+            "128.18%",
+            "137.78%",
+            "148.24%",
+            "160.23%",
+            "174.33%",
+            "188.43%",
+            "202.53%",
+            "217.91%"
+          ]
+        },
+        {
+          "name": "Lapisan Maks.",
+          "parameters": [
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30"
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "parameters": [
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik"
+          ]
+        },
+        {
+          "name": "Konsumsi Energy",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Roiling Rime",
+      "info": "Jika 2 lapis Grimheart dikonsumsi saat menggunakan Mode Tahan dari **Icetide Vortex**, sebuah Shattered Lightfall Sword akan terbentuk dan langsung meledak, mengakibatkan Physical DMG sebesar 50% dari DMG dasar Lightfall Sword yang terbentuk dari skill **Glacial Illumination**."
+    },
+    "passive2": {
+      "name": "Wellspring of War-Lust",
+      "info": "Menggunakan **Glacial Illumination** akan langsung menyelesaikan CD **Icetide Vortex** dan memberikan Eula satu lapis Grimheart."
+    },
+    "passive3": {
+      "name": "Aristocratic Introspection",
+      "info": "Saat membuat Material Talenta Karakter, Eula memiliki 10% kemungkinan untuk mendapatkan hasil 2 kali lipat."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of \"Resistance\"",
+          "count": 3
+        },
+        {
+          "name": "Damaged Mask",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to \"Resistance\"",
+          "count": 2
+        },
+        {
+          "name": "Stained Mask",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to \"Resistance\"",
+          "count": 4
+        },
+        {
+          "name": "Stained Mask",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to \"Resistance\"",
+          "count": 6
+        },
+        {
+          "name": "Stained Mask",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to \"Resistance\"",
+          "count": 9
+        },
+        {
+          "name": "Stained Mask",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of \"Resistance\"",
+          "count": 4
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 4
+        },
+        {
+          "name": "Dragon Lord's Crown",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of \"Resistance\"",
+          "count": 6
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 6
+        },
+        {
+          "name": "Dragon Lord's Crown",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of \"Resistance\"",
+          "count": 12
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 9
+        },
+        {
+          "name": "Dragon Lord's Crown",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of \"Resistance\"",
+          "count": 16
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 12
+        },
+        {
+          "name": "Dragon Lord's Crown",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Eula_01",
+      "combat3": "Skill_E_Eula_01_HD",
+      "passive1": "UI_Talent_S_Eula_05",
+      "passive2": "UI_Talent_S_Eula_06",
+      "passive3": "UI_Talent_Eula_Combine"
+    },
+    "version": "1.5"
+  }
+}

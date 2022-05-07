@@ -1,0 +1,307 @@
+{
+  "name": "Blackcliff Pole",
+  "description": "อาวุธนี้ทำมาจากหิน blackstone และ aerosiderite ทั้งยังมีประกายสีแดงก่ำบนความระยิบระยับของมัน",
+  "weapontype": "หอก",
+  "rarity": "4",
+  "baseatk": 42,
+  "substat": "ความแรงคริ",
+  "subvalue": "12",
+  "effectname": "Press the Advantage",
+  "effect": [
+    "หลังจากกำจัดศัตรูได้ พลังโจมตีจะเพิ่มขึ้น [12%] เป็นเวลา 30 วินาที โดยเอฟเฟกต์นี้จะซ้อนทับกันได้มากสุด 3 ชั้น ซึ่งแต่ละชั้นจะมีระยะเวลาของตัวเอง",
+    "หลังจากกำจัดศัตรูได้ พลังโจมตีจะเพิ่มขึ้น [15%] เป็นเวลา 30 วินาที โดยเอฟเฟกต์นี้จะซ้อนทับกันได้มากสุด 3 ชั้น ซึ่งแต่ละชั้นจะมีระยะเวลาของตัวเอง",
+    "หลังจากกำจัดศัตรูได้ พลังโจมตีจะเพิ่มขึ้น [18%] เป็นเวลา 30 วินาที โดยเอฟเฟกต์นี้จะซ้อนทับกันได้มากสุด 3 ชั้น ซึ่งแต่ละชั้นจะมีระยะเวลาของตัวเอง",
+    "หลังจากกำจัดศัตรูได้ พลังโจมตีจะเพิ่มขึ้น [21%] เป็นเวลา 30 วินาที โดยเอฟเฟกต์นี้จะซ้อนทับกันได้มากสุด 3 ชั้น ซึ่งแต่ละชั้นจะมีระยะเวลาของตัวเอง",
+    "หลังจากกำจัดศัตรูได้ พลังโจมตีจะเพิ่มขึ้น [24%] เป็นเวลา 30 วินาที โดยเอฟเฟกต์นี้จะซ้อนทับกันได้มากสุด 3 ชั้น ซึ่งแต่ละชั้นจะมีระยะเวลาของตัวเอง"
+  ],
+  "r1": [
+    "12%"
+  ],
+  "r2": [
+    "15%"
+  ],
+  "r3": [
+    "18%"
+  ],
+  "r4": [
+    "21%"
+  ],
+  "r5": [
+    "24%"
+  ],
+  "weaponmaterialtype": "Mist Veiled Elixir",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 5000
+      },
+      {
+        "name": "Mist Veiled Lead Elixir",
+        "count": 3
+      },
+      {
+        "name": "Mist Flower Pollen",
+        "count": 3
+      },
+      {
+        "name": "Recruit's Insignia",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 15000
+      },
+      {
+        "name": "Mist Veiled Mercury Elixir",
+        "count": 3
+      },
+      {
+        "name": "Mist Flower Pollen",
+        "count": 12
+      },
+      {
+        "name": "Recruit's Insignia",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Mist Veiled Mercury Elixir",
+        "count": 6
+      },
+      {
+        "name": "Mist Grass",
+        "count": 6
+      },
+      {
+        "name": "Sergeant's Insignia",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Mist Veiled Gold Elixir",
+        "count": 3
+      },
+      {
+        "name": "Mist Grass",
+        "count": 12
+      },
+      {
+        "name": "Sergeant's Insignia",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 35000
+      },
+      {
+        "name": "Mist Veiled Gold Elixir",
+        "count": 6
+      },
+      {
+        "name": "Mist Grass Lamp",
+        "count": 9
+      },
+      {
+        "name": "Officer's Insignia",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Mist Veiled Primo Elixir",
+        "count": 4
+      },
+      {
+        "name": "Mist Grass Lamp",
+        "count": 18
+      },
+      {
+        "name": "Officer's Insignia",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Weapon_Blackcliff_Pole.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Blackrock.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Blackrock_Awaken.png",
+    "nameicon": "UI_EquipIcon_Pole_Blackrock",
+    "namegacha": "UI_Gacha_EquipIcon_Pole_Blackrock",
+    "nameawakenicon": "UI_EquipIcon_Pole_Blackrock_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Blackcliff_Pole"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 42.4010009765625,
+      "specialized": 0.11999999731779099
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 56.39333311848168,
+      "specialized": 0.13943998978793637
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 73.9049459961243,
+      "specialized": 0.16356000057846298
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 91.41655381917371,
+      "specialized": 0.18780000266879782
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 108.92817175140954,
+      "specialized": 0.21203999045401822
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 134.8281713699398,
+      "specialized": 0.21203999045401822
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 152.33978930217563,
+      "specialized": 0.23627999254435306
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 169.80899919744115,
+      "specialized": 0.2605199946346879
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 187.32060702049057,
+      "specialized": 0.2847599824199083
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 204.83221484354,
+      "specialized": 0.30899999881535756
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 230.83221675088862,
+      "specialized": 0.30899999881535756
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 248.34383468312444,
+      "specialized": 0.33323998660057796
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 265.85545261536026,
+      "specialized": 0.3574800029960272
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 291.75545414123917,
+      "specialized": 0.3574800029960272
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 309.267072073475,
+      "specialized": 0.38171999078124763
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 326.7786900057108,
+      "specialized": 0.40595997856646804
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 352.6786839021952,
+      "specialized": 0.40595997856646804
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 370.1478836882743,
+      "specialized": 0.4301999949619173
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 387.6595016205101,
+      "specialized": 0.4543199914473295
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 413.6595016205101,
+      "specialized": 0.4543199914473295
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 431.17111955274595,
+      "specialized": 0.4785599792325499
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 448.68271726660896,
+      "specialized": 0.5027999956279992
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 474.5827264218824,
+      "specialized": 0.5027999956279992
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 492.0943443541182,
+      "specialized": 0.5270400120234484
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 509.60596228635404,
+      "specialized": 0.55127997119844
+    }
+  },
+  "version": "1.0"
+}

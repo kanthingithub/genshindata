@@ -1,0 +1,21 @@
+{
+  "name": "Vayuda Turquoise Sliver",
+  "description": "Character Ascension Material.",
+  "sortorder": 1838,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Dropped by Anemo Hypostases",
+    "Purchase from the Souvenir Shop"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vayuda_Turquoise_Sliver.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Item_Vayuda_Turquoise_Sliver.png",
+    "nameicon": "UI_ItemIcon_104151"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Vayuda_Turquoise_Sliver"
+  },
+  "version": ""
+}

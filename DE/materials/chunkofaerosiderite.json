@@ -1,0 +1,26 @@
+{
+  "name": "Brocken pechschwarzer Aerosiderit",
+  "description": "Material mit der Kraft, Waffen aufsteigen zu lassen.\nWährend des Untergangs von Khaenri’ah hat ein großer Frevler unzählige Monster geschaffen. In ihnen fließt schwarzes Blut, nicht von dieser Welt. Sie bedrohten das Leben im Lande und wollten alles zerstören. Ihre Lebenskraft ist das Geschenk einer anderen Welt. Auch Durin, der Drache, der Mondstadt angegriffen hat, gehört dazu.",
+  "sortorder": 2206,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zum Aufstieg von Waffen",
+  "dropdomain": "Sphäre der Kriegskunst: Prüfungsplatz des alten Donners",
+  "daysofweek": [
+    "Mittwoch",
+    "Samstag",
+    "Sonntag"
+  ],
+  "source": [
+    "Kann hergestellt werden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chunk_of_Aerosiderite.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Item_Chunk_of_Aerosiderite.png",
+    "nameicon": "UI_ItemIcon_114024"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chunk_of_Aerosiderite"
+  },
+  "version": ""
+}

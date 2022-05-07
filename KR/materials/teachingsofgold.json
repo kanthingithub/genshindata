@@ -1,0 +1,24 @@
+{
+  "name": "「황금」의 가르침",
+  "description": "특성 육성 소재.\n바위의 나라의 상징은 황금이다.\n황금은 리월 대지 깊은 곳에 흐르는 피이자 리월의 심장을 뛰게하는 근원이며 리월을 지탱하는 뼈대이다",
+  "sortorder": 1866,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "특성 육성 소재",
+  "dropdomain": "숙달 비경: 불사른 고리",
+  "daysofweek": [
+    "수요일",
+    "토요일",
+    "일요일"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Gold.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Item_Teachings_of_Gold.png",
+    "nameicon": "UI_ItemIcon_104316"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Gold"
+  },
+  "version": ""
+}

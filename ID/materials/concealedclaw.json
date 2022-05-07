@@ -1,0 +1,21 @@
+{
+  "name": "Concealed Claw",
+  "description": "Jaringan tubuh yang tersisa dari salah satu Riftwolves.\nMenurut logika, benda-benda yang begitu asing untuk dunia ini, seharusnya sudah tidak ada setelah makhluk abnormal ini diusir dari daratan.",
+  "sortorder": 1774,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Dijatuhkan oleh Riftwolves",
+    "Penukaran Stardust"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_112056",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Concealed_Claw.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Concealed_Claw.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Concealed_Claw"
+  },
+  "version": ""
+}

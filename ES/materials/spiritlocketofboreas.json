@@ -1,0 +1,20 @@
+{
+  "name": "Alma de Boreas",
+  "description": "Restos de poder recogidos del espíritu del gran Rey Lobo del Norte.\nBoreas fue el responsable de que, antiguamente, en estas tierras soplara el helado viento del norte y hubiera grandes ventiscas. Sin embargo, al final de su vida, comprendió que ese viento solo podía extinguir la vida, no nutrirla. Por ello, permitió que su propio poder fluyera por esta tierra, protegiéndola a ella y también a sus habitantes.",
+  "sortorder": 1790,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Recompensa del reto del Lobo del Norte (Niv. 70+)"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Spirit_Locket_of_Boreas.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Item_Spirit_Locket_of_Boreas.png",
+    "nameicon": "UI_ItemIcon_113008"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Spirit_Locket_of_Boreas"
+  },
+  "version": ""
+}

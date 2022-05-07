@@ -1,0 +1,874 @@
+{
+  "name": "Mona",
+  "fullname": "Mona",
+  "title": "Abbildung der Sterne im Wasser",
+  "description": "Eine geheimnisvolle Astrologin, die sich selbst als „Große Astrologin Mona“ bezeichnet. Doch nicht nur ihr Name macht einiges her. Ihre Stärke und ihr Wissen sind beeindruckend.",
+  "rarity": "5",
+  "element": "Hydro",
+  "weapontype": "Katalysator",
+  "substat": "Aufladerate",
+  "gender": "Weiblich",
+  "body": "GIRL",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Mondstadt",
+  "birthdaymmdd": "8/31",
+  "birthday": "31. August",
+  "constellation": "Astrolabos",
+  "cv": {
+    "english": "Felecia Angelle",
+    "chinese": "陈婷婷",
+    "japanese": "小原好美",
+    "korean": "Woo Jeong-shin"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Varunada-Lasurit-Splitter",
+        "count": 1
+      },
+      {
+        "name": "Philanemo-Pilz",
+        "count": 3
+      },
+      {
+        "name": "Vaniloqua-Nektar",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Varunada-Lasurit-Bruchstück",
+        "count": 3
+      },
+      {
+        "name": "Reinigendes Herz",
+        "count": 2
+      },
+      {
+        "name": "Philanemo-Pilz",
+        "count": 10
+      },
+      {
+        "name": "Vaniloqua-Nektar",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Varunada-Lasurit-Bruchstück",
+        "count": 6
+      },
+      {
+        "name": "Reinigendes Herz",
+        "count": 4
+      },
+      {
+        "name": "Philanemo-Pilz",
+        "count": 20
+      },
+      {
+        "name": "Leuchtender Nektar",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Varunada-Lasurit-Brocken",
+        "count": 3
+      },
+      {
+        "name": "Reinigendes Herz",
+        "count": 8
+      },
+      {
+        "name": "Philanemo-Pilz",
+        "count": 30
+      },
+      {
+        "name": "Leuchtender Nektar",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Varunada-Lasurit-Brocken",
+        "count": 6
+      },
+      {
+        "name": "Reinigendes Herz",
+        "count": 12
+      },
+      {
+        "name": "Philanemo-Pilz",
+        "count": 45
+      },
+      {
+        "name": "Elementarnektar",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Varunada-Lasurit",
+        "count": 6
+      },
+      {
+        "name": "Reinigendes Herz",
+        "count": 20
+      },
+      {
+        "name": "Philanemo-Pilz",
+        "count": 60
+      },
+      {
+        "name": "Elementarnektar",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Character_Mona_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Character_Mona_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Mona.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817270842074.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817353421694.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/1fa7a20fb3b391132e1132ab2a44e146.png",
+    "nameicon": "UI_AvatarIcon_Mona",
+    "nameiconcard": "UI_AvatarIcon_Mona_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Mona",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Mona",
+    "namesideicon": "UI_AvatarIcon_Side_Mona"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mona"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 810.322021484375,
+      "attack": 22.3439998626709,
+      "defense": 50.855499267578125,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2101.9754056454985,
+      "attack": 57.96033790251158,
+      "defense": 131.9191702410535,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2796.7532376767485,
+      "attack": 77.11689880033873,
+      "defense": 175.52416978328984,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4184.8349083920475,
+      "attack": 115.3921718862457,
+      "defense": 262.63964303562534,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4678.4928673764225,
+      "attack": 129.00341036585996,
+      "defense": 293.6221450192679,
+      "specialized": 0.07999999821186066
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5382.662670043879,
+      "attack": 148.42034530892943,
+      "defense": 337.81557174881164,
+      "specialized": 0.07999999821186066
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6040.873241332942,
+      "attack": 166.5686645533142,
+      "defense": 379.1255693074054,
+      "specialized": 0.1599999964237213
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6752.335800001631,
+      "attack": 186.18669157431032,
+      "defense": 423.77668660643394,
+      "specialized": 0.1599999964237213
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7245.993636915693,
+      "attack": 199.7979319612732,
+      "defense": 454.7591924047738,
+      "specialized": 0.1599999964237213
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7963.9390746873105,
+      "attack": 219.59471933425903,
+      "defense": 499.8171727097797,
+      "specialized": 0.1599999964237213
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8457.597033671685,
+      "attack": 233.20596353591918,
+      "defense": 530.799670878725,
+      "specialized": 0.23999999463558197
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9183.645490734489,
+      "attack": 253.22618536721802,
+      "defense": 576.366193566515,
+      "specialized": 0.23999999463558197
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 9677.303449718864,
+      "attack": 266.83742193948365,
+      "defense": 607.3486917354603,
+      "specialized": 0.3199999928474426
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10409.024522594642,
+      "attack": 287.0140617423858,
+      "defense": 653.2712256159284,
+      "specialized": 0.3199999928474426
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Prophezeiung des Untergangs",
+      "effect": "Verstärkt den Effekt von Hydro-Elementarreaktionen, wenn eine eigene Figur in der Truppe Gegner im Zustand Omen trifft, 8 s lang:\n· Erhöht den mit der Reaktion Unter Strom verursachten Schaden um 15 %, den mit der Reaktion Verdampfen verursachten Schaden um 15 % und den mit der Reaktion Hydro-Verwirbelung verursachten Schaden um 15 %.\n· Verlängert die Wirkungsdauer von Gefroren um 15 %."
+    },
+    "c2": {
+      "name": "Sternenkette",
+      "effect": "Löst bei Treffern mit Standardangriffen mit einer Wahrscheinlichkeit von 20 % automatisch einen heftigen Schlag aus.\n5 s Abklingzeit."
+    },
+    "c3": {
+      "name": "Im ewigen Umlauf",
+      "effect": "Erhöht die Stufe der Fähigkeit **Vorbestimmte Laufbahn** um 3.\nHöchststufe 15."
+    },
+    "c4": {
+      "name": "Prophezeiung der Ausrottung",
+      "effect": "Erhöht die KT bei Angriffen aller Truppenmitglieder auf Gegner im Zustand Omen um 15 %."
+    },
+    "c5": {
+      "name": "Verspottung des Schicksals",
+      "effect": "Erhöht die Stufe der Fähigkeit **Trugbilder im Wasser** um 3.\nHöchststufe 15."
+    },
+    "c6": {
+      "name": "Rhetorik des Unglücks",
+      "effect": "Erhöht den Schaden des nächsten heftigen Schlags für jede Sekunde, die sich Mona im Zustand **Irreführende Strömung** bewegt, um 60 %.\nAuf diese Weise kann der Schaden heftiger Schläge um bis zu 180 % erhöht werden und hält bis zu 8 s lang."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Mona_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Mona_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_04.png",
+      "constellation": "Eff_UI_Talent_Mona"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Mona",
+    "combat1": {
+      "name": "Standardangriff: Unumgängliches Schicksal",
+      "info": "**Standardangriff**\nFührt bis zu 4 Spritzwasser-Angriffe aus und verursacht Hydro-Schaden.\n\n**Heftiger Schlag**\nVerbraucht eine gewisse Menge Ausdauer und verursacht nach kurzer Aufladezeit Hydro-Flächenschaden.\n\n**Angriff aus dem Fall**\nKonzentriert die Kraft des Wassers, schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Hydro-Flächenschaden.",
+      "attributes": [
+        {
+          "name": "SCH Phase 1",
+          "parameters": [
+            "37.60%",
+            "40.42%",
+            "43.24%",
+            "47.00%",
+            "49.82%",
+            "52.64%",
+            "56.40%",
+            "60.16%",
+            "63.92%",
+            "67.68%",
+            "71.44%",
+            "75.20%",
+            "79.90%",
+            "84.60%",
+            "89.30%"
+          ]
+        },
+        {
+          "name": "SCH Phase 2",
+          "parameters": [
+            "36.00%",
+            "38.70%",
+            "41.40%",
+            "45.00%",
+            "47.70%",
+            "50.40%",
+            "54.00%",
+            "57.60%",
+            "61.20%",
+            "64.80%",
+            "68.40%",
+            "72.00%",
+            "76.50%",
+            "81.00%",
+            "85.50%"
+          ]
+        },
+        {
+          "name": "SCH Phase 3",
+          "parameters": [
+            "44.80%",
+            "48.16%",
+            "51.52%",
+            "56.00%",
+            "59.36%",
+            "62.72%",
+            "67.20%",
+            "71.68%",
+            "76.16%",
+            "80.64%",
+            "85.12%",
+            "89.60%",
+            "95.20%",
+            "100.80%",
+            "106.40%"
+          ]
+        },
+        {
+          "name": "SCH Phase 4",
+          "parameters": [
+            "56.16%",
+            "60.37%",
+            "64.58%",
+            "70.20%",
+            "74.41%",
+            "78.62%",
+            "84.24%",
+            "89.86%",
+            "95.47%",
+            "101.09%",
+            "106.70%",
+            "112.32%",
+            "119.34%",
+            "126.36%",
+            "133.38%"
+          ]
+        },
+        {
+          "name": "SCH heftiger Schläge",
+          "parameters": [
+            "149.72%",
+            "160.95%",
+            "172.18%",
+            "187.15%",
+            "198.38%",
+            "209.61%",
+            "224.58%",
+            "239.55%",
+            "254.52%",
+            "269.50%",
+            "285.07%",
+            "305.43%",
+            "325.79%",
+            "346.15%",
+            "366.51%"
+          ]
+        },
+        {
+          "name": "Ausdauerverbrauch heftiger Schläge",
+          "parameters": [
+            "50 Punkte",
+            "50 Punkte",
+            "50 Punkte",
+            "50 Punkte",
+            "50 Punkte",
+            "50 Punkte",
+            "50 Punkte",
+            "50 Punkte",
+            "50 Punkte",
+            "50 Punkte",
+            "50 Punkte",
+            "50 Punkte",
+            "50 Punkte",
+            "50 Punkte",
+            "50 Punkte"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen aus niedriger/großer Höhe",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Trugbilder im Wasser",
+      "info": "Erschafft aus vielen Wassertropfen ein Trugbild des Schicksals.\n\n**Trugbild**\nMerkmale:\n· Verspottet Gegner in der Umgebung fortlaufend und zieht ihre Angriffe auf sich.\n· Fügt Gegnern in der Nähe fortlaufend Hydro-Schaden zu.\n· Birst nach Ablauf der Wirkungsdauer und verursacht Hydro-Flächenschaden.\n\n**Gedrückt halten**\nNutzt die Kraft des fließenden Wassers, um schnell zurückzuweichen und ein Trugbild zu erschaffen.\n\nZu einem Zeitpunkt kann nur ein Trugbild existieren, das mit Trugbilder im Wasser erschaffen wurde.",
+      "description": "Große Gelehrte der Astrologie versuchen seit jeher, ein Trugbild von sich zu schaffen, um Übel von sich selbst abzuwenden. Mona muss wohl die erste sein, die das Schicksal tatsächlich auf diese Weise austrickst.",
+      "attributes": [
+        {
+          "name": "Fortlaufender SCH",
+          "parameters": [
+            "32.00%",
+            "34.40%",
+            "36.80%",
+            "40.00%",
+            "42.40%",
+            "44.80%",
+            "48.00%",
+            "51.20%",
+            "54.40%",
+            "57.60%",
+            "60.80%",
+            "64.00%",
+            "68.00%",
+            "72.00%",
+            "76.00%"
+          ]
+        },
+        {
+          "name": "Explosions-SCH",
+          "parameters": [
+            "132.80%",
+            "142.76%",
+            "152.72%",
+            "166.00%",
+            "175.96%",
+            "185.92%",
+            "199.20%",
+            "212.48%",
+            "225.76%",
+            "239.04%",
+            "252.32%",
+            "265.60%",
+            "282.20%",
+            "298.80%",
+            "315.40%"
+          ]
+        },
+        {
+          "name": "Abklingzeit",
+          "parameters": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        }
+      ]
+    },
+    "combatsp": {
+      "name": "Irreführende Strömung",
+      "info": "**Ersetzt Rennen**\nVerbraucht Ausdauer und bewegt sich so schnell wie ein reißender Strom.\n\nMona kann sich während der Wirkungsdauer von Irreführende Strömung mit hoher Geschwindigkeit auf der Wasseroberfläche fortbewegen.\nFügt Gegnern in der Umgebung beim Erscheinen am Ende von Irreführende Strömung den Zustand Nass zu.",
+      "description": "Obwohl ihr Meister dazu nicht in der Lage ist, hat Mona diese Fähigkeit erlernt. Schließlich kümmert ihr Meister sich nicht um Dinge, die nichts mit Göttlichen Augen der Hydro-Kraft zu tun haben.",
+      "attributes": [
+        {
+          "name": "Ausdauerverbrauch bei Anwendung",
+          "parameters": [
+            "10 Punkte"
+          ]
+        },
+        {
+          "name": "Fortlaufender Ausdauerverbrauch",
+          "parameters": [
+            "15 Punkte pro s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Vorbestimmte Laufbahn",
+      "info": "Ruft hohe Wellen herbei, reflektiert damit den Sternenhimmel und fügt Gegnern mit hoher Reichweite den Zustand Blasenschatten zu.\n\n**Blasenschatten**\nUmschließt Gegner in sternförmigen Blasen und fügt ihnen den Zustand Nass zu. Hält schwächere Gegner in den Blasenschatten gefangen, sodass sie sich nicht bewegen können.\nEffekte, wenn Gegner in Blasenschatten Schaden erleiden:\n· Fügt Gegnern den Zustand Omen zu, der den diesmal erlittenen Schaden erhöht.\n· Entfernt den Effekt der Blasenschatten und verursacht zusätzlichen Hydro-Schaden.\n\n**Omen**\nErhöht den während der Wirkungsdauer erlittenen Schaden.",
+      "description": "Nachdem die Götter einen Blick auf das himmlische Licht erhascht hatten, war das Schicksal als solches geboren.",
+      "attributes": [
+        {
+          "name": "Dauer der Blasenschatten",
+          "parameters": [
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s"
+          ]
+        },
+        {
+          "name": "SCH bei Explosion der Blasenschatten",
+          "parameters": [
+            "442.40%",
+            "475.58%",
+            "508.76%",
+            "553.00%",
+            "586.18%",
+            "619.36%",
+            "663.60%",
+            "707.84%",
+            "752.08%",
+            "796.32%",
+            "840.56%",
+            "884.80%",
+            "940.10%",
+            "995.40%",
+            "1050.70%"
+          ]
+        },
+        {
+          "name": "SCH-Bonus",
+          "parameters": [
+            "42.00%",
+            "44.00%",
+            "46.00%",
+            "48.00%",
+            "50.00%",
+            "52.00%",
+            "54.00%",
+            "56.00%",
+            "58.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%"
+          ]
+        },
+        {
+          "name": "Dauer des Omens",
+          "parameters": [
+            "4 s",
+            "4 s",
+            "4 s",
+            "4.5 s",
+            "4.5 s",
+            "4.5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s"
+          ]
+        },
+        {
+          "name": "Abklingzeit",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "Elementarenergie",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "„Die Alte kriegt mich nicht!“",
+      "info": "Erschafft bei Anwesenheit von Gegnern in der Nähe 2 s nach Anwendung von **Irreführende Strömung** ein Trugbild.\nAuf diese Weise erschaffene Trugbilder halten 2 s und verursachen bei ihrer Explosion 50 % des Schadens von **Trugbilder im Wasser**."
+    },
+    "passive2": {
+      "name": "„Lass das Schicksal entscheiden!“",
+      "info": "Erhöht Monas Hydro-Schaden zusätzlich um 20 % ihrer Aufladerate."
+    },
+    "passive3": {
+      "name": "Grundsätze der Astrologie",
+      "info": "Gibt beim Zusammensetzen von Material zum Aufstieg von Waffen mit einer Wahrscheinlichkeit von 25 % einen Teil der Materialien zurück."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Lehren des „Widerstands“",
+          "count": 3
+        },
+        {
+          "name": "Vaniloqua-Nektar",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Anleitung zum „Widerstand“",
+          "count": 2
+        },
+        {
+          "name": "Leuchtender Nektar",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Anleitung zum „Widerstand“",
+          "count": 4
+        },
+        {
+          "name": "Leuchtender Nektar",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Anleitung zum „Widerstand“",
+          "count": 6
+        },
+        {
+          "name": "Leuchtender Nektar",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Anleitung zum „Widerstand“",
+          "count": 9
+        },
+        {
+          "name": "Leuchtender Nektar",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie des „Widerstands“",
+          "count": 4
+        },
+        {
+          "name": "Elementarnektar",
+          "count": 4
+        },
+        {
+          "name": "Ring des Nordwinds",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie des „Widerstands“",
+          "count": 6
+        },
+        {
+          "name": "Elementarnektar",
+          "count": 6
+        },
+        {
+          "name": "Ring des Nordwinds",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie des „Widerstands“",
+          "count": 12
+        },
+        {
+          "name": "Elementarnektar",
+          "count": 9
+        },
+        {
+          "name": "Ring des Nordwinds",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie des „Widerstands“",
+          "count": 16
+        },
+        {
+          "name": "Elementarnektar",
+          "count": 12
+        },
+        {
+          "name": "Ring des Nordwinds",
+          "count": 2
+        },
+        {
+          "name": "Krone der Weisheit",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_Catalyst_MD",
+      "combat2": "Skill_S_Mona_01",
+      "combatsp": "Skill_S_Mona_02",
+      "combat3": "Skill_E_Mona_01_HD",
+      "passive1": "UI_Talent_S_Mona_05",
+      "passive2": "UI_Talent_S_Mona_06",
+      "passive3": "UI_Talent_Combine_Weapon"
+    },
+    "version": "1.0"
+  }
+}

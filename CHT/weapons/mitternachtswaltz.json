@@ -1,0 +1,311 @@
+{
+  "name": "幽夜華爾滋",
+  "description": "有著如同罪與幻想之夜一般顏色的弓。",
+  "weapontype": "弓",
+  "rarity": "4",
+  "baseatk": 42,
+  "substat": "物理傷害加成",
+  "subvalue": "11.3",
+  "effectname": "極夜二重奏",
+  "effect": [
+    "普通攻擊命中敵人後的5秒內，元素戰技造成的傷害提升[20%]；元素戰技命中敵人後的5秒內，普通攻擊造成的傷害提升[20%]。",
+    "普通攻擊命中敵人後的5秒內，元素戰技造成的傷害提升[25%]；元素戰技命中敵人後的5秒內，普通攻擊造成的傷害提升[25%]。",
+    "普通攻擊命中敵人後的5秒內，元素戰技造成的傷害提升[30%]；元素戰技命中敵人後的5秒內，普通攻擊造成的傷害提升[30%]。",
+    "普通攻擊命中敵人後的5秒內，元素戰技造成的傷害提升[35%]；元素戰技命中敵人後的5秒內，普通攻擊造成的傷害提升[35%]。",
+    "普通攻擊命中敵人後的5秒內，元素戰技造成的傷害提升[40%]；元素戰技命中敵人後的5秒內，普通攻擊造成的傷害提升[40%]。"
+  ],
+  "r1": [
+    "20%",
+    "20%"
+  ],
+  "r2": [
+    "25%",
+    "25%"
+  ],
+  "r3": [
+    "30%",
+    "30%"
+  ],
+  "r4": [
+    "35%",
+    "35%"
+  ],
+  "r5": [
+    "40%",
+    "40%"
+  ],
+  "weaponmaterialtype": "",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "摩拉",
+        "count": 5000
+      },
+      {
+        "name": "高塔孤王的破瓦",
+        "count": 3
+      },
+      {
+        "name": "沉重號角",
+        "count": 3
+      },
+      {
+        "name": "尋寶鴉印",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "摩拉",
+        "count": 15000
+      },
+      {
+        "name": "高塔孤王的殘垣",
+        "count": 3
+      },
+      {
+        "name": "沉重號角",
+        "count": 12
+      },
+      {
+        "name": "尋寶鴉印",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "摩拉",
+        "count": 20000
+      },
+      {
+        "name": "高塔孤王的殘垣",
+        "count": 6
+      },
+      {
+        "name": "黑銅號角",
+        "count": 6
+      },
+      {
+        "name": "藏銀鴉印",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "摩拉",
+        "count": 30000
+      },
+      {
+        "name": "高塔孤王的斷片",
+        "count": 3
+      },
+      {
+        "name": "黑銅號角",
+        "count": 12
+      },
+      {
+        "name": "藏銀鴉印",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "摩拉",
+        "count": 35000
+      },
+      {
+        "name": "高塔孤王的斷片",
+        "count": 6
+      },
+      {
+        "name": "黑晶號角",
+        "count": 9
+      },
+      {
+        "name": "攫金鴉印",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "摩拉",
+        "count": 45000
+      },
+      {
+        "name": "高塔孤王的碎夢",
+        "count": 4
+      },
+      {
+        "name": "黑晶號角",
+        "count": 18
+      },
+      {
+        "name": "攫金鴉印",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Nachtblind.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Nachtblind_Awaken.png",
+    "nameicon": "UI_EquipIcon_Bow_Nachtblind",
+    "namegacha": "UI_Gacha_EquipIcon_Bow_Nachtblind",
+    "nameawakenicon": "UI_EquipIcon_Bow_Nachtblind_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mitternachts_Waltz"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 42.4010009765625,
+      "specialized": 0.11259999871253967
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 56.39333311848168,
+      "specialized": 0.13084119184618004
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 73.9049459961243,
+      "specialized": 0.15347380221838947
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 91.41655381917371,
+      "specialized": 0.1762190044281482
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 108.92817175140954,
+      "specialized": 0.19896419321494108
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 134.8281713699398,
+      "specialized": 0.19896419321494108
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 152.33978930217563,
+      "specialized": 0.2217093954246998
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 169.80899919744115,
+      "specialized": 0.24445459763445854
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 187.32060702049057,
+      "specialized": 0.2671997864212514
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 204.83221484354,
+      "specialized": 0.289945002053976
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 230.83221675088862,
+      "specialized": 0.289945002053976
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 248.34383468312444,
+      "specialized": 0.3126901908407689
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 265.85545261536026,
+      "specialized": 0.33543540647349346
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 291.75545414123917,
+      "specialized": 0.33543540647349346
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 309.267072073475,
+      "specialized": 0.35818059526028634
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 326.7786900057108,
+      "specialized": 0.3809257840470792
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 352.6786839021952,
+      "specialized": 0.3809257840470792
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 370.1478836882743,
+      "specialized": 0.4036709996798038
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 387.6595016205101,
+      "specialized": 0.4263035966290474
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 413.6595016205101,
+      "specialized": 0.4263035966290474
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 431.17111955274595,
+      "specialized": 0.44904878541584026
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 448.68271726660896,
+      "specialized": 0.47179400104856484
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 474.5827264218824,
+      "specialized": 0.47179400104856484
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 492.0943443541182,
+      "specialized": 0.4945392166812894
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 509.60596228635404,
+      "specialized": 0.5172843786221506
+    }
+  },
+  "version": "1.6"
+}

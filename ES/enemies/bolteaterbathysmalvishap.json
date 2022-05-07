@@ -1,0 +1,175 @@
+{
+  "name": "Dragarto de las Profundidades - Engulletruenos",
+  "specialname": "Bestia de las profundidades marinas",
+  "enemytype": "BOSS",
+  "category": "Bestias exóticas",
+  "description": "Un Dragarto que vive en el fondo del mar. Debido a cierta adaptación social, manifiesta una forma alineada con el elemento Electro.\nCuando desapareció el poder de los Siete Soberanos, comenzó a nacer una nueva generación de ellos. Pero ahora los Dragartos de las Profundidades han perdido su pureza debido a la evolución. Por tanto, el Dragón de Agua no nacerá de ellos. Según la profecía, el nuevo Dragón de Agua descenderá en la forma de un humano.",
+  "rewardpreview": [
+    {
+      "name": "EXP de Aventura",
+      "count": 200
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "EXP de Amistad"
+    },
+    {
+      "name": "Pedacito de jade shivada"
+    },
+    {
+      "name": "Fragmento de jade shivada"
+    },
+    {
+      "name": "Trozo de jade shivada"
+    },
+    {
+      "name": "Jade shivada"
+    },
+    {
+      "name": "Pedacito de amatista vajrada"
+    },
+    {
+      "name": "Fragmento de amatista vajrada"
+    },
+    {
+      "name": "Trozo de amatista vajrada"
+    },
+    {
+      "name": "Amatista vajrada"
+    },
+    {
+      "name": "Pseudoaleta de dragón de las profundidades",
+      "count": 2.5556
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Exiliado",
+      "rarity": "3"
+    },
+    {
+      "name": "Ritual de la Primavera",
+      "rarity": "3"
+    },
+    {
+      "name": "Afortunado",
+      "rarity": "3"
+    },
+    {
+      "name": "Final del Gladiador",
+      "rarity": "4"
+    },
+    {
+      "name": "Orquesta del Errante",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Exiliado",
+      "rarity": "4"
+    },
+    {
+      "name": "Ritual de la Primavera",
+      "rarity": "4"
+    },
+    {
+      "name": "Final del Gladiador",
+      "rarity": "5"
+    },
+    {
+      "name": "Orquesta del Errante",
+      "rarity": "5"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Drake_Deepsea_Electric"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 881.0399843046907,
+      "attack": 126.88865269049074,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 3470.028104937868,
+      "attack": 339.0138754666823,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 10213.499572310597,
+      "attack": 836.2498197051391,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 19019.639906194992,
+      "attack": 1365.8829744341056,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 34150.1626428226,
+      "attack": 2042.0693843711633,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 62922.38467672281,
+      "attack": 3149.136175426116,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 106307.30993484333,
+      "attack": 4434.621811969759,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 175825.15590836853,
+      "attack": 6121.785820403544,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 283639.40432211757,
+      "attack": 7876.325001969002,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 445203.44995088875,
+      "attack": 9515.686133175914,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 665520.2175113708,
+      "attack": 12311.044076510821,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 842348.7521036267,
+      "attack": 12555.48552251578,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 974323.225014478,
+      "attack": 12801.63840648823,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

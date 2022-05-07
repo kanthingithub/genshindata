@@ -1,0 +1,18 @@
+{
+  "name": "Pescado ahumado",
+  "description": "",
+  "sortorder": 1535,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente culinario",
+  "source": [
+    "Procesar comida"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Smoked_Fish.png",
+    "nameicon": "UI_ItemIcon_110012"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Smoked_Fish"
+  },
+  "version": ""
+}

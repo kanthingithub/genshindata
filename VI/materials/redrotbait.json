@@ -1,0 +1,20 @@
+{
+  "name": "Mồi Thịt Đỏ",
+  "description": "Mồi câu được làm từ Hoa Lan Máu và hỗn hợp thịt giã nhuyễn, vị tanh độc đáo khuếch tán cực nhanh trong nước, thu hút được các loại cá hung hãn. Nhưng cần phải cẩn thận, tránh thu hút những kẻ xấu phiền phức khác.\n\nLoại cá thích hợp: Cá Thân Gai",
+  "sortorder": 1515,
+  "rarity": "2",
+  "category": "FISH_BAIT",
+  "materialtype": "Mồi Câu",
+  "source": [
+    "Ghép Nhận"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_111024",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Redrot_Bait.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Item_Redrot_Bait.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Redrot_Bait"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Dämonengewand – Fragment",
+  "description": "Das Waffenbruchstück, das du nach dem Sieg über den Grafen mit der Kraft des Teuflischen Auges errungen hast.\nBefleckt mit einer tiefgründigen Farbe, die nicht von dieser Welt zu stammen scheint, muss es zweifellos aus dem Land der endlosen Dunkelheit stammen, welches der Junge mit seinen eigenen Augen gesehen hatte.\nVielleicht hat es nichts mit der Macht des Teuflischen Auges zu tun, aber wie man so sagt, spiegelt die Waffe ihren Benutzer wider ...",
+  "sortorder": 1796,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Belohnung für die Herausforderung des Grafen ab Stufe 70"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shard_of_a_Foul_Legacy.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Item_Shard_of_a_Foul_Legacy.png",
+    "nameicon": "UI_ItemIcon_113014"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shard_of_a_Foul_Legacy"
+  },
+  "version": ""
+}

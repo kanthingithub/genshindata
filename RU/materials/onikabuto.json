@@ -1,0 +1,21 @@
+{
+  "name": "Оникабуто",
+  "description": "Необычный жук, который водится в богатых элементом Электро областях. Хоть и панцирь оникабуто напоминает злобного демона, сам жук миролюбив и медлителен.",
+  "sortorder": 2060,
+  "category": "EXCHANGE",
+  "materialtype": "Диковина Инадзумы",
+  "source": [
+    "Дикая природа",
+    "Остров Наруками",
+    "Татарасуна"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Onikabuto.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Onikabuto.png",
+    "nameicon": "UI_ItemIcon_101201"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Onikabuto"
+  },
+  "version": ""
+}

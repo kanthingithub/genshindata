@@ -1,0 +1,874 @@
+{
+  "name": "Mona",
+  "fullname": "Mona",
+  "title": "Reflexão Astral",
+  "description": "Uma jovem astróloga misteriosa que proclama a si mesma como a \"Grande Astróloga Mona\" e que possui as habilidades para o título. Uma pessoa erudita, mas orgulhosa.",
+  "rarity": "5",
+  "element": "Hydro",
+  "weapontype": "Catalisador",
+  "substat": "Recarga de Energia",
+  "gender": "Feminino",
+  "body": "GIRL",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Mondstadt",
+  "birthdaymmdd": "8/31",
+  "birthday": "31 de agosto",
+  "constellation": "Astrolabos",
+  "cv": {
+    "english": "Felecia Angelle",
+    "chinese": "陈婷婷",
+    "japanese": "小原好美",
+    "korean": "Woo Jeong-shin"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Lasca de Lazurita Varunada",
+        "count": 1
+      },
+      {
+        "name": "Cogumelo Philanemo",
+        "count": 3
+      },
+      {
+        "name": "Néctar da Flor Gigante",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de Lazurita Varunada",
+        "count": 3
+      },
+      {
+        "name": "Coração Purificador",
+        "count": 2
+      },
+      {
+        "name": "Cogumelo Philanemo",
+        "count": 10
+      },
+      {
+        "name": "Néctar da Flor Gigante",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de Lazurita Varunada",
+        "count": 6
+      },
+      {
+        "name": "Coração Purificador",
+        "count": 4
+      },
+      {
+        "name": "Cogumelo Philanemo",
+        "count": 20
+      },
+      {
+        "name": "Néctar Brilhante",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Pedaço de Lazurita Varunada",
+        "count": 3
+      },
+      {
+        "name": "Coração Purificador",
+        "count": 8
+      },
+      {
+        "name": "Cogumelo Philanemo",
+        "count": 30
+      },
+      {
+        "name": "Néctar Brilhante",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Pedaço de Lazurita Varunada",
+        "count": 6
+      },
+      {
+        "name": "Coração Purificador",
+        "count": 12
+      },
+      {
+        "name": "Cogumelo Philanemo",
+        "count": 45
+      },
+      {
+        "name": "Néctar Elemental",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Gema de Lazurita Varunada",
+        "count": 6
+      },
+      {
+        "name": "Coração Purificador",
+        "count": 20
+      },
+      {
+        "name": "Cogumelo Philanemo",
+        "count": 60
+      },
+      {
+        "name": "Néctar Elemental",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Character_Mona_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Character_Mona_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Mona.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817270842074.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817353421694.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/1fa7a20fb3b391132e1132ab2a44e146.png",
+    "nameicon": "UI_AvatarIcon_Mona",
+    "nameiconcard": "UI_AvatarIcon_Mona_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Mona",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Mona",
+    "namesideicon": "UI_AvatarIcon_Side_Mona"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mona"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 810.322021484375,
+      "attack": 22.3439998626709,
+      "defense": 50.855499267578125,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2101.9754056454985,
+      "attack": 57.96033790251158,
+      "defense": 131.9191702410535,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2796.7532376767485,
+      "attack": 77.11689880033873,
+      "defense": 175.52416978328984,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4184.8349083920475,
+      "attack": 115.3921718862457,
+      "defense": 262.63964303562534,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4678.4928673764225,
+      "attack": 129.00341036585996,
+      "defense": 293.6221450192679,
+      "specialized": 0.07999999821186066
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5382.662670043879,
+      "attack": 148.42034530892943,
+      "defense": 337.81557174881164,
+      "specialized": 0.07999999821186066
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6040.873241332942,
+      "attack": 166.5686645533142,
+      "defense": 379.1255693074054,
+      "specialized": 0.1599999964237213
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6752.335800001631,
+      "attack": 186.18669157431032,
+      "defense": 423.77668660643394,
+      "specialized": 0.1599999964237213
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7245.993636915693,
+      "attack": 199.7979319612732,
+      "defense": 454.7591924047738,
+      "specialized": 0.1599999964237213
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7963.9390746873105,
+      "attack": 219.59471933425903,
+      "defense": 499.8171727097797,
+      "specialized": 0.1599999964237213
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8457.597033671685,
+      "attack": 233.20596353591918,
+      "defense": 530.799670878725,
+      "specialized": 0.23999999463558197
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9183.645490734489,
+      "attack": 253.22618536721802,
+      "defense": 576.366193566515,
+      "specialized": 0.23999999463558197
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 9677.303449718864,
+      "attack": 266.83742193948365,
+      "defense": 607.3486917354603,
+      "specialized": 0.3199999928474426
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10409.024522594642,
+      "attack": 287.0140617423858,
+      "defense": 653.2712256159284,
+      "specialized": 0.3199999928474426
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Profecia da Submersão",
+      "effect": "Os efeitos de Reações Elementais relacionadas a Hydro agora são aprimorados por 8 segundos depois que o seu próprio personagem de equipe atingir um inimigo afetado por um Presságio:\n Dano Eletricamente Carregado é aumentado em 15%.\n Dano de Vaporizar é aumentado em 15%.\n Dano de Redemoinho é aumentado em 15%.\nA duração em que os inimigos ficam Congelados é aumentada em 15%."
+    },
+    "c2": {
+      "name": "Corrente Lunar",
+      "effect": "Quando um Ataque Normal acerta, existem 20% de chance que ele será automaticamente seguido de um Ataque Carregado.\nEsse efeito pode ocorrer apenas uma vez a cada 5 segundos."
+    },
+    "c3": {
+      "name": "Revolução Incessante",
+      "effect": "Aumenta o nível da **Órbita Divina** em 3.\nO nível máximo de elevação é 15."
+    },
+    "c4": {
+      "name": "Profecia do Fim",
+      "effect": "Quando todos os personagens na equipe atacarem um inimigo afetado pelo status do Presságio, sua Taxa Crítica é aumentada em 15%."
+    },
+    "c5": {
+      "name": "Zombaria da Fortuna",
+      "effect": "Aumenta o nível da **Água Ilusória** em 3.\nO nível máximo de elevação é 15."
+    },
+    "c6": {
+      "name": "Retórica da Calamidade",
+      "effect": "Ao entrar em **Vicissitude**, Mona ganha um aumento de 60% de Dano em seu próximo Ataque Carregado por segundo.\nUm máximo de 180% de Dano adicional pode ser atingido desta maneira, e este efeito dura por não mais que 8 segundos."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Mona_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Mona_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_04.png",
+      "constellation": "Eff_UI_Talent_Mona"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Mona",
+    "combat1": {
+      "name": "Ataque Normal: Destino Desencapado",
+      "info": "**Ataque Normal**\nRealiza até 4 ataques com esguichos de água que infligem Dano Hydro.\n\n**Ataque Carregado**\nConsome uma certa quantidade de Stamina para infligir Dano Hydro em uma AdE após um curto período de canalização.\n\n**Ataque Imersivo**\nReunindo o poder do Hydro, Mona mergulha em direção ao chão em pleno ar, infligindo dano a todos os inimigos em seu caminho. Inflige Dano Hydro em uma AdE durante o impacto com o chão.",
+      "attributes": [
+        {
+          "name": "Dano do 1° Golpe",
+          "parameters": [
+            "37.60%",
+            "40.42%",
+            "43.24%",
+            "47.00%",
+            "49.82%",
+            "52.64%",
+            "56.40%",
+            "60.16%",
+            "63.92%",
+            "67.68%",
+            "71.44%",
+            "75.20%",
+            "79.90%",
+            "84.60%",
+            "89.30%"
+          ]
+        },
+        {
+          "name": "Dano do 2° Golpe",
+          "parameters": [
+            "36.00%",
+            "38.70%",
+            "41.40%",
+            "45.00%",
+            "47.70%",
+            "50.40%",
+            "54.00%",
+            "57.60%",
+            "61.20%",
+            "64.80%",
+            "68.40%",
+            "72.00%",
+            "76.50%",
+            "81.00%",
+            "85.50%"
+          ]
+        },
+        {
+          "name": "Dano do 3° Golpe",
+          "parameters": [
+            "44.80%",
+            "48.16%",
+            "51.52%",
+            "56.00%",
+            "59.36%",
+            "62.72%",
+            "67.20%",
+            "71.68%",
+            "76.16%",
+            "80.64%",
+            "85.12%",
+            "89.60%",
+            "95.20%",
+            "100.80%",
+            "106.40%"
+          ]
+        },
+        {
+          "name": "Dano do 4° Golpe",
+          "parameters": [
+            "56.16%",
+            "60.37%",
+            "64.58%",
+            "70.20%",
+            "74.41%",
+            "78.62%",
+            "84.24%",
+            "89.86%",
+            "95.47%",
+            "101.09%",
+            "106.70%",
+            "112.32%",
+            "119.34%",
+            "126.36%",
+            "133.38%"
+          ]
+        },
+        {
+          "name": "Dano de Ataque Carregado",
+          "parameters": [
+            "149.72%",
+            "160.95%",
+            "172.18%",
+            "187.15%",
+            "198.38%",
+            "209.61%",
+            "224.58%",
+            "239.55%",
+            "254.52%",
+            "269.50%",
+            "285.07%",
+            "305.43%",
+            "325.79%",
+            "346.15%",
+            "366.51%"
+          ]
+        },
+        {
+          "name": "Consumo de Stamina de Ataque Carregado",
+          "parameters": [
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50"
+          ]
+        },
+        {
+          "name": "Dano Durante a Queda",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "Dano de Queda de Baixa/Alta Altitude",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Água Ilusória",
+      "info": "Cria um Fantasma ilusório do destino a partir de trombas d'águas fundidas.\n\nO **Fantasma** tem as seguintes propriedades especiais:\nContinuamente provoca inimigos próximos, atraindo seus golpes.\n Continuamente inflige Dano Hydro nos inimigos próximos.\n Quando sua duração expira, o Fantasma explode, infligindo Dano Hydro em uma AdE.\n\n**Manter pressionado**\nUtiliza a corrente da água para movimentar-se rapidamente para trás antes de conjurar o Fantasma.\n\nApenas um Fantasma criado pelo Espelho do Reflexo do Apocalipse pode existir a qualquer momento.",
+      "description": "Astrólogos qualificados sempre sonharam em usar uma cópia de si mesmos para se prevenirem do destino cruel iminente, mas Mona deve ser a primeira a fazer tamanho escárnio de todos em Teyvat.",
+      "attributes": [
+        {
+          "name": "Dano de Contínuo",
+          "parameters": [
+            "32.00%",
+            "34.40%",
+            "36.80%",
+            "40.00%",
+            "42.40%",
+            "44.80%",
+            "48.00%",
+            "51.20%",
+            "54.40%",
+            "57.60%",
+            "60.80%",
+            "64.00%",
+            "68.00%",
+            "72.00%",
+            "76.00%"
+          ]
+        },
+        {
+          "name": "Dano de Explosão",
+          "parameters": [
+            "132.80%",
+            "142.76%",
+            "152.72%",
+            "166.00%",
+            "175.96%",
+            "185.92%",
+            "199.20%",
+            "212.48%",
+            "225.76%",
+            "239.04%",
+            "252.32%",
+            "265.60%",
+            "282.20%",
+            "298.80%",
+            "315.40%"
+          ]
+        },
+        {
+          "name": "Tempo de Recarga",
+          "parameters": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        }
+      ]
+    },
+    "combatsp": {
+      "name": "Vicissitude",
+      "info": "**Arrancada Alternativa**\nMona se envolve dentro do fluxo da água, consumindo Stamina para se mover rapidamente.\nQuando sob o efeito de Vicissitude, Mona pode se movimentar em alta velocidade sobre a água.\nAplica o estado de Molhado para inimigos próximos quando ela ressurge.",
+      "description": "Isso é algo que a Mona pode fazer, mas seu professor não pode. Bem, não é como se seu professor fosse seguir qualquer coisa relacionada às Visões Hydro de qualquer forma...",
+      "attributes": [
+        {
+          "name": "Ativar Consumo de Stamina",
+          "parameters": [
+            "10 pontos"
+          ]
+        },
+        {
+          "name": "Consumo de Stamina",
+          "parameters": [
+            "15/s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Órbita Divina",
+      "info": "Mona evoca as ondas cintilantes e cria um reflexo do céu estrelado, aplicando o status de Bolha Ilusória aos oponentes em uma grande AdE\n\n**Bolha Ilusória**\nPrende inimigos em um bolso do destino e também deixa eles Molhados. Torna oponentes mais fracos imóveis.\nQuando um oponente afetado pela Bolha Ilusória recebe Dano, os seguintes efeitos são aplicados:\nAplica um Presságio no oponente, que causa Dano Bônus, também aumentando o Dano do ataque que o ocasiona.\n Remove a Bolha Ilusória, causando Dano Elemental Hydro no processo.\n\n**Presságio**\nAo longo da duração, aumenta o Dano recebido pelos inimigos.",
+      "description": "No momento em que os deuses traçaram pela primeira vez as luzes no céu com seus olhos, o \"destino\" nasceu.",
+      "attributes": [
+        {
+          "name": "Duração da Sombra de Bolha",
+          "parameters": [
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s"
+          ]
+        },
+        {
+          "name": "Dano de Explosão da Bolha Ilusória",
+          "parameters": [
+            "442.40%",
+            "475.58%",
+            "508.76%",
+            "553.00%",
+            "586.18%",
+            "619.36%",
+            "663.60%",
+            "707.84%",
+            "752.08%",
+            "796.32%",
+            "840.56%",
+            "884.80%",
+            "940.10%",
+            "995.40%",
+            "1050.70%"
+          ]
+        },
+        {
+          "name": "Dano Adicional",
+          "parameters": [
+            "42.00%",
+            "44.00%",
+            "46.00%",
+            "48.00%",
+            "50.00%",
+            "52.00%",
+            "54.00%",
+            "56.00%",
+            "58.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%"
+          ]
+        },
+        {
+          "name": "Duração do Presságio",
+          "parameters": [
+            "4s",
+            "4s",
+            "4s",
+            "4.5s",
+            "4.5s",
+            "4.5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s"
+          ]
+        },
+        {
+          "name": "Tempo de Recarga",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "Energia Elemental",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "\"Aquela bruxa velha veio atrás de mim!\"",
+      "info": "Depois dela usar **Vicissitude** por 2 segundos, se existir algum inimigo próximo, Mona irá automaticamente criar um Fantasma.\nUm Fantasma criado dessa maneira dura por 2 segundos, e o Dano da sua explosão é igual a 50% da **Água Ilusória**."
+    },
+    "passive2": {
+      "name": "\"Deixe nas mãos do destino!\"",
+      "info": "Aumenta o Bônus de Dano Hydro de Mona em certo grau, equivalente a 20% da sua Taxa de Recarga de Energia."
+    },
+    "passive3": {
+      "name": "Princípio da Astrologia",
+      "info": "Quando Mona cria Materiais de Avanço de Armas, ela tem 25% de chance de recuperar parte do material usado para criação."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Ensinamentos de Resistência",
+          "count": 3
+        },
+        {
+          "name": "Néctar da Flor Gigante",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guia de Resistência",
+          "count": 2
+        },
+        {
+          "name": "Néctar Brilhante",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guia de Resistência",
+          "count": 4
+        },
+        {
+          "name": "Néctar Brilhante",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guia de Resistência",
+          "count": 6
+        },
+        {
+          "name": "Néctar Brilhante",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guia de Resistência",
+          "count": 9
+        },
+        {
+          "name": "Néctar Brilhante",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofia de Resistência",
+          "count": 4
+        },
+        {
+          "name": "Néctar Elemental",
+          "count": 4
+        },
+        {
+          "name": "Cálice do Vento Norte",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofia de Resistência",
+          "count": 6
+        },
+        {
+          "name": "Néctar Elemental",
+          "count": 6
+        },
+        {
+          "name": "Cálice do Vento Norte",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofia de Resistência",
+          "count": 12
+        },
+        {
+          "name": "Néctar Elemental",
+          "count": 9
+        },
+        {
+          "name": "Cálice do Vento Norte",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofia de Resistência",
+          "count": 16
+        },
+        {
+          "name": "Néctar Elemental",
+          "count": 12
+        },
+        {
+          "name": "Cálice do Vento Norte",
+          "count": 2
+        },
+        {
+          "name": "Coroa da Sabedoria",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_Catalyst_MD",
+      "combat2": "Skill_S_Mona_01",
+      "combatsp": "Skill_S_Mona_02",
+      "combat3": "Skill_E_Mona_01_HD",
+      "passive1": "UI_Talent_S_Mona_05",
+      "passive2": "UI_Talent_S_Mona_06",
+      "passive3": "UI_Talent_Combine_Weapon"
+    },
+    "version": "1.0"
+  }
+}

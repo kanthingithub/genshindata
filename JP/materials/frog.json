@@ -1,0 +1,19 @@
+{
+  "name": "カエル",
+  "description": "一般的なカエル類。ジメジメした環境に生息する。いつも活力に満ちており、体からは活力をみなぎらせる物質を分泌している。",
+  "sortorder": 1972,
+  "category": "EXCHANGE",
+  "materialtype": "素材",
+  "source": [
+    "淡水域で採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Frog.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Item_Frog.png",
+    "nameicon": "UI_ItemIcon_100081"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Frog"
+  },
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "풀의 인장",
+  "description": "몬드성 인근의 특수한 기념 화폐. 도시 상점에서 희귀한 아이템을 교환할 수 있다",
+  "sortorder": 502,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "칠국의 인장",
+  "source": [
+    "탐사 보상"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_303",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dendro_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dendro_Sigil"
+  },
+  "version": ""
+}

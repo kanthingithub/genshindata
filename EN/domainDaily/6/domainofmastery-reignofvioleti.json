@@ -1,0 +1,171 @@
+{
+  "name": "Domain of Mastery: Reign of Violet",
+  "region": "Inazuma",
+  "domainEntrance": "Violet Court",
+  "domainType": "Talent Level-Up Material",
+  "description": "Monsters have stormed this altar where violet sakura bloom eternal.\nYou shall earn Talent level-up materials, if — and only if — you can pass the trial.",
+  "daysOfWeek": [
+    "Monday",
+    "Thursday",
+    "Sunday"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Thunder_Dq"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domain of Mastery: Reign of Violet I",
+      "recommendedLevel": 38,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1575
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 15
+        },
+        {
+          "name": "Teachings of Transience"
+        }
+      ],
+      "disorder": [
+        "All characters in the party gain a 25% Electro DMG Bonus.",
+        "Inside the challenge is Electro Crystalfruit, and Nascent Electro Pearls will emerge at intervals. After obtaining Nascent Electro Pearls, a character's Normal Attack, Charged Attack, Plunging Attack, Elemental Skill and Elemental Burst will unleash Falling Thunder upon hitting enemies, dealing Electro DMG."
+      ],
+      "monsterlist": [
+        "Hilichurl",
+        "Electro Hilichurl Grenadier",
+        "Electro Hilichurl Shooter",
+        "Crackling Axe Mitachurl"
+      ]
+    },
+    {
+      "name": "Domain of Mastery: Reign of Violet II",
+      "recommendedLevel": 54,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 28,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1800
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 15
+        },
+        {
+          "name": "Teachings of Transience"
+        },
+        {
+          "name": "Guide to Transience"
+        }
+      ],
+      "disorder": [
+        "All characters in the party gain a 25% Electro DMG Bonus.",
+        "Inside the challenge is Electro Crystalfruit, and Nascent Electro Pearls will emerge at intervals. After obtaining Nascent Electro Pearls, a character's Normal Attack, Charged Attack, Plunging Attack, Elemental Skill and Elemental Burst will unleash Falling Thunder upon hitting enemies, dealing Electro DMG."
+      ],
+      "monsterlist": [
+        "Nobushi: Jintouban",
+        "Nobushi: Hitsukeban",
+        "Nobushi: Kikouban",
+        "Treasure Hoarders: Pyro Potioneer",
+        "Treasure Hoarders: Electro Potioneer"
+      ]
+    },
+    {
+      "name": "Domain of Mastery: Reign of Violet III",
+      "recommendedLevel": 71,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 36,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2050
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 20
+        },
+        {
+          "name": "Teachings of Transience"
+        },
+        {
+          "name": "Guide to Transience"
+        }
+      ],
+      "disorder": [
+        "All characters in the party gain a 25% Electro DMG Bonus.",
+        "Inside the challenge is Electro Crystalfruit, and Nascent Electro Pearls will emerge at intervals. After obtaining Nascent Electro Pearls, a character's Normal Attack, Charged Attack, Plunging Attack, Elemental Skill and Elemental Burst will unleash Falling Thunder upon hitting enemies, dealing Electro DMG."
+      ],
+      "monsterlist": [
+        "Nobushi: Hitsukeban",
+        "Nobushi: Kikouban",
+        "Treasure Hoarders: Pyro Potioneer",
+        "Treasure Hoarders: Electro Potioneer",
+        "Kairagi: Fiery Might"
+      ]
+    },
+    {
+      "name": "Domain of Mastery: Reign of Violet IV",
+      "recommendedLevel": 88,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2375
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 20
+        },
+        {
+          "name": "Teachings of Transience"
+        },
+        {
+          "name": "Guide to Transience"
+        },
+        {
+          "name": "Philosophies of Transience"
+        }
+      ],
+      "disorder": [
+        "All characters in the party gain a 25% Electro DMG Bonus.",
+        "Inside the challenge is Electro Crystalfruit, and Nascent Electro Pearls will emerge at intervals. After obtaining Nascent Electro Pearls, a character's Normal Attack, Charged Attack, Plunging Attack, Elemental Skill and Elemental Burst will unleash Falling Thunder upon hitting enemies, dealing Electro DMG."
+      ],
+      "monsterlist": [
+        "Treasure Hoarders: Cryo Potioneer",
+        "Kairagi: Dancing Thunder",
+        "Kairagi: Fiery Might"
+      ]
+    }
+  ]
+}

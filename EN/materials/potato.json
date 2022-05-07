@@ -1,0 +1,19 @@
+{
+  "name": "Potato",
+  "description": "A chunky vegetable. A gift from the earth that you never tire of with its multitude of cooking methods.",
+  "sortorder": 2000,
+  "category": "EXCHANGE",
+  "materialtype": "Cooking Ingredient",
+  "source": [
+    "Sold at general goods shops"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Potato.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Item_Potato.png",
+    "nameicon": "UI_ItemIcon_100080"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Potato"
+  },
+  "version": ""
+}

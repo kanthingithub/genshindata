@@ -1,0 +1,20 @@
+{
+  "name": "Móng Vuốt Đông Phong",
+  "description": "Vật nhọn từ trên người chủ Đông Phong thành Mondstadt.\nVì từng xé nát Ma Long Durin bị nhiễm kịch độc. Nhưng nhờ bạn thanh tẩy và trị liệu nên chất độc đã được ổn định.",
+  "sortorder": 1786,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Thưởng khiêu chiến Phong Ma Long cấp 70 trở lên"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dvalin's_Claw.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Item_Dvalin%27s_Claw.png",
+    "nameicon": "UI_ItemIcon_113004"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dvalin's_Claw"
+  },
+  "version": ""
+}

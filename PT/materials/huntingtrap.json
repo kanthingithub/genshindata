@@ -1,0 +1,17 @@
+{
+  "name": "Armadilha de Caça",
+  "description": "Usado para prender animais de um certo tamanho. Se você prestar atenção na natureza para colecioná-los, poderá fazer um como este. Coloque um no chão e depois esconda-o com cuidado.",
+  "sortorder": 99,
+  "category": "CONSUME",
+  "materialtype": "Consumível",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_100225",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Hunting_Trap.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Hunting_Trap.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Hunting_Trap"
+  },
+  "version": ""
+}

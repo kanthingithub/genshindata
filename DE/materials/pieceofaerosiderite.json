@@ -1,0 +1,26 @@
+{
+  "name": "Stückchen pechschwarzer Aerosiderit",
+  "description": "Material mit der Kraft, Waffen aufsteigen zu lassen.\nIn Liyue gibt es schon seit jeher Legenden über Meeresungeheuer, da andere Ufer nicht zu den bekannten Regionen Teyvats gehören. Wer weiß schon, welches Chaos dort herrscht, wo die Archonten nicht für Ordnung sorgen? Etwas, das die Kraft von Rex Lapis schwärzt, kann nicht von Teyvat sein.",
+  "sortorder": 2204,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zum Aufstieg von Waffen",
+  "dropdomain": "Sphäre der Kriegskunst: Prüfungsplatz des alten Donners",
+  "daysofweek": [
+    "Mittwoch",
+    "Samstag",
+    "Sonntag"
+  ],
+  "source": [
+    "Kann hergestellt werden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Piece_of_Aerosiderite.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Item_Piece_of_Aerosiderite.png",
+    "nameicon": "UI_ItemIcon_114022"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Piece_of_Aerosiderite"
+  },
+  "version": ""
+}

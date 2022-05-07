@@ -1,0 +1,834 @@
+{
+  "name": "Fischl",
+  "fullname": "Fischl",
+  "title": "Prinzessin der Verurteilung!",
+  "description": "Ein merkwürdiges Mädchen, das sich selbst als die „Prinzessin der Verurteilung“ bezeichnet und vom Nachtraben Oz begleitet wird.",
+  "rarity": "4",
+  "element": "Elektro",
+  "weapontype": "Bogen",
+  "substat": "ANG",
+  "gender": "Weiblich",
+  "body": "GIRL",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Abenteurergilde",
+  "birthdaymmdd": "5/27",
+  "birthday": "27. Mai",
+  "constellation": "Corvus",
+  "cv": {
+    "english": "Brittany Cox & Ben Pronsky",
+    "chinese": "Mace & 赵悦程",
+    "japanese": "内田真礼&増谷康紀",
+    "korean": "Park Go-woon & Lee Hyeon"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vajrada-Amethyst-Splitter",
+        "count": 1
+      },
+      {
+        "name": "Lampenkraut",
+        "count": 3
+      },
+      {
+        "name": "Stabile Bolzenspitze",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Vajrada-Amethyst-Bruchstück",
+        "count": 3
+      },
+      {
+        "name": "Blitzprisma",
+        "count": 2
+      },
+      {
+        "name": "Lampenkraut",
+        "count": 10
+      },
+      {
+        "name": "Stabile Bolzenspitze",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Vajrada-Amethyst-Bruchstück",
+        "count": 6
+      },
+      {
+        "name": "Blitzprisma",
+        "count": 4
+      },
+      {
+        "name": "Lampenkraut",
+        "count": 20
+      },
+      {
+        "name": "Scharfe Bolzenspitze",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Vajrada-Amethyst-Brocken",
+        "count": 3
+      },
+      {
+        "name": "Blitzprisma",
+        "count": 8
+      },
+      {
+        "name": "Lampenkraut",
+        "count": 30
+      },
+      {
+        "name": "Scharfe Bolzenspitze",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Vajrada-Amethyst-Brocken",
+        "count": 6
+      },
+      {
+        "name": "Blitzprisma",
+        "count": 12
+      },
+      {
+        "name": "Lampenkraut",
+        "count": 45
+      },
+      {
+        "name": "Abgenutzte Bolzenspitze",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Vajrada-Amethyst",
+        "count": 6
+      },
+      {
+        "name": "Blitzprisma",
+        "count": 20
+      },
+      {
+        "name": "Lampenkraut",
+        "count": 60
+      },
+      {
+        "name": "Abgenutzte Bolzenspitze",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Character_Fischl_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/Character_Fischl_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Fischl.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200402/2020040211240853891.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200402/2020040211242065763.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/0bb4e376b31993e6fdab02786bc6a20a.png",
+    "nameicon": "UI_AvatarIcon_Fischl",
+    "nameiconcard": "UI_AvatarIcon_Fischl_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Fischl",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Fischl",
+    "namesideicon": "UI_AvatarIcon_Side_Fischl"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fischl"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 770.46337890625,
+      "attack": 20.47920036315918,
+      "defense": 49.78575134277344,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 1979.320424818783,
+      "attack": 52.61106585013886,
+      "defense": 127.89959548446132,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2554.896047377377,
+      "attack": 67.91043566215058,
+      "defense": 165.09209655257655,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 3826.930919893319,
+      "attack": 101.72159104783623,
+      "defense": 247.28836128915282,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4235.8925287800375,
+      "attack": 112.59219651658623,
+      "defense": 273.7146117469165,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 4872.2954443453345,
+      "attack": 129.5080203913849,
+      "defense": 314.83765299143124,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5417.577548837522,
+      "attack": 144.0021610163849,
+      "defense": 350.0726536017828,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6053.980464402819,
+      "attack": 160.91798489118355,
+      "defense": 391.19569484629756,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6462.942134324694,
+      "attack": 171.78859035993355,
+      "defense": 417.62194148936396,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7098.574274968123,
+      "attack": 188.6839267534424,
+      "defense": 458.6951768512736,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7507.535944889998,
+      "attack": 199.5545322221924,
+      "defense": 485.1214311237345,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8143.938493069727,
+      "attack": 216.47034633174735,
+      "defense": 526.2444486285531,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 8552.899918850977,
+      "attack": 227.34095180049735,
+      "defense": 552.670702901014,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9189.302834416274,
+      "attack": 244.256775675296,
+      "defense": 593.7937441455288,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Blick aus der Finsternis",
+      "effect": "Oz wacht mithilfe der Krähenaugen über Fischl, selbst wenn er nicht anwesend ist. Oz greift über seine Krähenaugen an, wenn Fischl Gegner mit ihrem Standardangriff angreift, und verursacht Schaden in Höhe von 22 % ANG."
+    },
+    "c2": {
+      "name": "Federn der Vollstreckung",
+      "effect": "Verursacht bei Anwendung von **Schutz der Dunkelheit** zusätzlich Schaden in Höhe von 200 % ANG und vergrößert den Wirkungsbereich um 50 %."
+    },
+    "c3": {
+      "name": "Tiefschwarze Flügel",
+      "effect": "Erhöht die Stufe der Fähigkeit **Schutz der Dunkelheit** um 3.\nHöchststufe 15."
+    },
+    "c4": {
+      "name": "Fantastereien der Prinzessin",
+      "effect": "Fügt allen Gegnern in der Umgebung bei Anwendung von **Mitternachtstraum** Elektro-Schaden in Höhe von 222 % ANG zu.\nStellt Fischl nach Ablauf der Dauer des Effekts 20 % LP wieder her."
+    },
+    "c5": {
+      "name": "Offenbarung der Nacht",
+      "effect": "Erhöht die Stufe der Fähigkeit **Mitternachtstraum** um 3.\nHöchststufe 15."
+    },
+    "c6": {
+      "name": "Vogel der ewigen Nacht",
+      "effect": "Verlängert die Dauer des Vorhandenseins von Oz um 2 s, greift gemeinsam mit der aktuellen eigenen Figur an und verursacht Elektro-Schaden in Höhe von 30 % von Fischls ANG."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Fischl_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Fischl_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Fischl_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Fischl_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Fischl_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Fischl_04.png",
+      "constellation": "Eff_UI_Talent_Fischl"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Fischl",
+    "combat1": {
+      "name": "Standardangriff: Pfeil der Vergebung",
+      "info": "**Standardangriff**\nFührt bis zu 5 Pfeilschüsse hintereinander aus.\n\n**Heftiger Schlag**\nFührt einen **gezielten Schuss** mit höherem Schaden und höherer Genauigkeit aus.\nRuft während des Zielens die Blitzgeister aus dem Immernachtreich herbei, die dem Befehl der Prinzessin folgen und ihre Kraft auf der Pfeilspitze konzentrieren, die voll aufgeladen mit dem Blitz der Rachsucht hohen Elektro-Schaden verursacht.\n\n**Angriff aus dem Fall**\nSchießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden.",
+      "attributes": [
+        {
+          "name": "SCH Phase 1",
+          "parameters": [
+            "44.12%",
+            "47.71%",
+            "51.30%",
+            "56.43%",
+            "60.02%",
+            "64.13%",
+            "69.77%",
+            "75.41%",
+            "81.05%",
+            "87.21%",
+            "93.37%",
+            "99.52%",
+            "105.68%",
+            "111.83%",
+            "117.99%"
+          ]
+        },
+        {
+          "name": "SCH Phase 2",
+          "parameters": [
+            "46.78%",
+            "50.59%",
+            "54.40%",
+            "59.84%",
+            "63.65%",
+            "68.00%",
+            "73.98%",
+            "79.97%",
+            "85.95%",
+            "92.48%",
+            "99.01%",
+            "105.54%",
+            "112.06%",
+            "118.59%",
+            "125.12%"
+          ]
+        },
+        {
+          "name": "SCH Phase 3",
+          "parameters": [
+            "58.14%",
+            "62.87%",
+            "67.60%",
+            "74.36%",
+            "79.09%",
+            "84.50%",
+            "91.94%",
+            "99.37%",
+            "106.81%",
+            "114.92%",
+            "123.03%",
+            "131.14%",
+            "139.26%",
+            "147.37%",
+            "155.48%"
+          ]
+        },
+        {
+          "name": "SCH Phase 4",
+          "parameters": [
+            "57.71%",
+            "62.40%",
+            "67.10%",
+            "73.81%",
+            "78.51%",
+            "83.88%",
+            "91.26%",
+            "98.64%",
+            "106.02%",
+            "114.07%",
+            "122.12%",
+            "130.17%",
+            "138.23%",
+            "146.28%",
+            "154.33%"
+          ]
+        },
+        {
+          "name": "SCH Phase 5",
+          "parameters": [
+            "72.07%",
+            "77.93%",
+            "83.80%",
+            "92.18%",
+            "98.05%",
+            "104.75%",
+            "113.97%",
+            "123.19%",
+            "132.40%",
+            "142.46%",
+            "152.52%",
+            "162.57%",
+            "172.63%",
+            "182.68%",
+            "192.74%"
+          ]
+        },
+        {
+          "name": "Gezielte Schüsse",
+          "parameters": [
+            "43.86%",
+            "47.43%",
+            "51.00%",
+            "56.10%",
+            "59.67%",
+            "63.75%",
+            "69.36%",
+            "74.97%",
+            "80.58%",
+            "86.70%",
+            "92.82%",
+            "98.94%",
+            "105.06%",
+            "111.18%",
+            "117.30%"
+          ]
+        },
+        {
+          "name": "Voll aufgeladene gezielte Schüsse",
+          "parameters": [
+            "124.00%",
+            "133.30%",
+            "142.60%",
+            "155.00%",
+            "164.30%",
+            "173.60%",
+            "186.00%",
+            "198.40%",
+            "210.80%",
+            "223.20%",
+            "235.60%",
+            "248.00%",
+            "263.50%",
+            "279.00%",
+            "294.50%"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen aus niedriger/großer Höhe",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Schutz der Dunkelheit",
+      "info": "Beschwört Oz, den Raben aus Schatten und Blitzen, in diese Welt, der Gegnern mit geringer Reichweite Elektro-Schaden zufügt.\nSchießt bei Anwesenheit von Oz Blitzgeschosse ab, die Gegner in der Nähe angreifen.\n\nGedrückt halten, um das Ziel der Fähigkeit zu bestimmen.\nBei Anwesenheit von Oz erneut drücken, um Oz zurückzuholen.",
+      "description": "„Ihr seid nicht würdig, meine überragenden Kräfte in Aktion zu sehen ... Oz, bring ihnen den Blitz der Rachsucht, der die ewige Nacht aufreißt!“\n- „Die Nacht der Prinzessin Fischl – Band 4: Lebe wohl, Frau Welt“",
+      "attributes": [
+        {
+          "name": "Angriffs-SCH von Oz",
+          "parameters": [
+            "88.80%",
+            "95.46%",
+            "102.12%",
+            "111.00%",
+            "117.66%",
+            "124.32%",
+            "133.20%",
+            "142.08%",
+            "150.96%",
+            "159.84%",
+            "168.72%",
+            "177.60%",
+            "188.70%",
+            "199.80%",
+            "210.90%"
+          ]
+        },
+        {
+          "name": "Beschwörungs-SCH",
+          "parameters": [
+            "115.44%",
+            "124.10%",
+            "132.76%",
+            "144.30%",
+            "152.96%",
+            "161.62%",
+            "173.16%",
+            "184.70%",
+            "196.25%",
+            "207.79%",
+            "219.34%",
+            "230.88%",
+            "245.31%",
+            "259.74%",
+            "274.17%"
+          ]
+        },
+        {
+          "name": "Vorhandensein von Oz",
+          "parameters": [
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s"
+          ]
+        },
+        {
+          "name": "Abklingzeit",
+          "parameters": [
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Mitternachtstraum",
+      "info": "Beschwört Oz, der seine tiefschwarzen Flügel ausbreitet, um Fischl zu beschützen.\nEffekte während der Wirkungsdauer:\n· Bewegt sich in Form von Oz mit hoher Geschwindigkeit.\n· Trifft Gegner in der Nähe mit einem Blitz und verursacht Elektro-Schaden. Jeder Gegner kann nur einmal Schaden von einem Blitz erleiden.\n· Oz verbleibt nach dem Ende der Wirkungsdauer und greift die Gegner der Prinzessin an. Setzt die Aufenthaltsdauer von Oz zurück, wenn er schon auf dem Feld ist.",
+      "description": "Unter den Horden der Bestien, die dem verfluchten Blut der Verurteilung folgten, befand sich nur einer, der ihre wahre Größe tatsächlich verstehen konnte, nämlich der Nachtrabenprinz, der Zeuge der Vernichtung tausender Welten war. So breitete er seine dunklen Flügel aus und schlang sie um die Prinzessin. Er schwor, sie auf ewig zu beschützen.\n- „Die Nacht der Prinzessin Fischl – Band 1: Zersetzung am Ende der Zeit“",
+      "attributes": [
+        {
+          "name": "Blitz-SCH",
+          "parameters": [
+            "208.00%",
+            "223.60%",
+            "239.20%",
+            "260.00%",
+            "275.60%",
+            "291.20%",
+            "312.00%",
+            "332.80%",
+            "353.60%",
+            "374.40%",
+            "395.20%",
+            "416.00%",
+            "442.00%",
+            "468.00%",
+            "494.00%"
+          ]
+        },
+        {
+          "name": "Abklingzeit",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "Elementarenergie",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Sterneverschlinger",
+      "info": "Wenn Fischl Oz mit einem voll aufgeladenen gezielten Schuss trifft, schickt Oz den Blitz des heiligen Urteils zu den Gegnern in der Nähe und verursacht damit Elektro-Flächenschaden in Höhe von 152,7 % des gezielten Schusses."
+    },
+    "passive2": {
+      "name": "Schatten der Verurteilung",
+      "info": "Schickt bei Anwesenheit von Oz und, wenn der Angriff der aktuellen eigenen Figur eine Elektro-Reaktion verursacht, den Blitz des heiligen Urteils auf den betroffenen Gegner und verursacht Elektro-Schaden in Höhe von 80 % von Fischls ANG."
+    },
+    "passive3": {
+      "name": "Mein Hausgarten",
+      "info": "Verkürzt die bei Erkundungen innerhalb des Einflussbereichs von Mondstadt verbrauchte Zeit um 25 %."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Lehren der „Poesie“",
+          "count": 3
+        },
+        {
+          "name": "Stabile Bolzenspitze",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Anleitung zur „Poesie“",
+          "count": 2
+        },
+        {
+          "name": "Scharfe Bolzenspitze",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Anleitung zur „Poesie“",
+          "count": 4
+        },
+        {
+          "name": "Scharfe Bolzenspitze",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Anleitung zur „Poesie“",
+          "count": 6
+        },
+        {
+          "name": "Scharfe Bolzenspitze",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Anleitung zur „Poesie“",
+          "count": 9
+        },
+        {
+          "name": "Scharfe Bolzenspitze",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie der „Poesie“",
+          "count": 4
+        },
+        {
+          "name": "Abgenutzte Bolzenspitze",
+          "count": 4
+        },
+        {
+          "name": "Seele des Nordwinds",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie der „Poesie“",
+          "count": 6
+        },
+        {
+          "name": "Abgenutzte Bolzenspitze",
+          "count": 6
+        },
+        {
+          "name": "Seele des Nordwinds",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie der „Poesie“",
+          "count": 12
+        },
+        {
+          "name": "Abgenutzte Bolzenspitze",
+          "count": 9
+        },
+        {
+          "name": "Seele des Nordwinds",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie der „Poesie“",
+          "count": 16
+        },
+        {
+          "name": "Abgenutzte Bolzenspitze",
+          "count": 12
+        },
+        {
+          "name": "Seele des Nordwinds",
+          "count": 2
+        },
+        {
+          "name": "Krone der Weisheit",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_02",
+      "combat2": "Skill_S_Fischl_01",
+      "combat3": "Skill_E_Fischl_01_HD",
+      "passive1": "UI_Talent_S_Fischl_05",
+      "passive2": "UI_Talent_S_Fischl_06",
+      "passive3": "UI_Talent_Expedition_Mengde"
+    },
+    "version": "1.0"
+  }
+}

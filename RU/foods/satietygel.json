@@ -1,0 +1,28 @@
+{
+  "name": "Сытный студень",
+  "rarity": "1",
+  "foodtype": "SPECIALTY",
+  "foodfilter": "Восстанавливающее блюдо",
+  "foodcategory": "Recovery_HpAdd",
+  "effect": "Восстанавливает 16% HP + 1350 HP.",
+  "description": "Фирменное блюдо Элой. Идеальная техника нарезки, правильная форма и освежающая прохлада. Элой, похоже, беспокоилась, что вам не понравится этот необычный на вид десерт. Но когда она увидела, что вы съели его за один присест, она почувствовала облегчение...",
+  "basedish": "Мятное желе",
+  "character": "Элой",
+  "ingredients": [
+    {
+      "name": "Мята",
+      "count": 1
+    },
+    {
+      "name": "Сахар",
+      "count": 1
+    }
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_108339"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Satiety_Gel"
+  },
+  "version": "2.1"
+}

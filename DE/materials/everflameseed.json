@@ -1,0 +1,20 @@
+{
+  "name": "Fluxfeuersamen",
+  "description": "Der Samen, der Fluxfeuerbäume zum Brennen bringt. Er versprüht gleißende Pyro-Energie, als wollte er alles verbrennen, was auf dieser Erde grünt.\nIn nicht ruhen wollender Energie tief in der Erde steckt unendliche Sehnsucht. Doch wonach sehnt sich das ewige Feuer? Dürstet es danach, alles mit seinen unstillbaren Flammen zu reinigen?",
+  "sortorder": 1793,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Beute von Fluxfeuerbäumen ab Stufe 30"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Everflame_Seed.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Item_Everflame_Seed.png",
+    "nameicon": "UI_ItemIcon_113011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Everflame_Seed"
+  },
+  "version": ""
+}

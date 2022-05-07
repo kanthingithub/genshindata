@@ -1,0 +1,19 @@
+{
+  "name": "Táo",
+  "description": "Trái cây giòn ngọt, ăn sống hay ủ rượu đều rất ngon.",
+  "sortorder": 1403,
+  "category": "NOTICE_ADD_HP",
+  "materialtype": "Thực Phẩm",
+  "source": [
+    "Thu Thập Bên Ngoài"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Apple.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Apple.png",
+    "nameicon": "UI_ItemIcon_100001"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Apple"
+  },
+  "version": ""
+}

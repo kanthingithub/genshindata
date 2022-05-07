@@ -1,0 +1,26 @@
+{
+  "name": "Bloco de Aerosiderite",
+  "description": "Material de Ascensão de Armas.\nQuando Khaenri'ah foi destruído, um grande criminoso criou monstros intermináveis com grande quantidade de sangue obscuro percorrendo suas veias. Eles invadiram a terra, destruindo tudo em seus caminhos. Suas vidas eram mutações, causadas por poderes sobrenaturais. Para ser exato, o dragão serpentino preto Durin que atacou Mondstadt era uma mutação.",
+  "sortorder": 2206,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Ascensão de Armas",
+  "dropdomain": "Domínio da Forja: Campo de Julgamento dos Trovões",
+  "daysofweek": [
+    "Quarta-feira",
+    "Sábado",
+    "Domingo"
+  ],
+  "source": [
+    "Obtido na síntese"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chunk_of_Aerosiderite.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Item_Chunk_of_Aerosiderite.png",
+    "nameicon": "UI_ItemIcon_114024"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chunk_of_Aerosiderite"
+  },
+  "version": ""
+}

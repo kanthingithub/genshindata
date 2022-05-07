@@ -1,0 +1,22 @@
+{
+  "name": "Dispositivo del caos",
+  "description": "Este dispositivo, procedente de unas reliquias antiguas que ya no están activas, se utilizaba para sujetar una parte de la estructura de su cuerpo. Esta refinada pieza de ingeniería tiene cierto valor estético.",
+  "sortorder": 1741,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Obtenido de Guardianes de las Ruinas",
+    "Obtenido de Cazadores de las Ruinas",
+    "Canjear Polvo estelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Device.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Item_Chaos_Device.png",
+    "nameicon": "UI_ItemIcon_112023"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chaos_Device"
+  },
+  "version": ""
+}

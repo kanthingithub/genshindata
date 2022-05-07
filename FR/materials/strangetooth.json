@@ -1,0 +1,17 @@
+{
+  "name": "Dent étrange",
+  "description": "Une étrange dent recueillie aux Monts Dosdragon. Peut-être que quelqu'un en sait plus à son sujet...",
+  "sortorder": 418,
+  "category": "EXCHANGE",
+  "materialtype": "Matériau",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Strange_Tooth.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Item_Strange_Tooth.png",
+    "nameicon": "UI_ItemIcon_100618"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Strange_Tooth"
+  },
+  "version": ""
+}

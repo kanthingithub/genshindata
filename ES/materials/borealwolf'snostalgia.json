@@ -1,0 +1,26 @@
+{
+  "name": "Nostalgia del lobo boreal",
+  "description": "Material de ascensión de arma.\nEl Rey de los Lobos, que aborrecía a los humanos, pensó que no podía concebir una vida feliz para ellos y optó por desaparecer. Nunca se convirtió en el Rey de los Vientos. No obstante, siempre se mostró afable hacia las personas desamparadas.",
+  "sortorder": 2190,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de ascensión de arma",
+  "dropdomain": "Dominio de la forja: Valle sumergido",
+  "daysofweek": [
+    "Martes",
+    "Viernes",
+    "Domingo"
+  ],
+  "source": [
+    "Sintetizar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Boreal_Wolf's_Nostalgia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Item_Boreal_Wolf%27s_Nostalgia.png",
+    "nameicon": "UI_ItemIcon_114008"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Boreal_Wolf's_Nostalgia"
+  },
+  "version": ""
+}

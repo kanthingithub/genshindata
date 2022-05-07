@@ -1,0 +1,68 @@
+{
+  "name": "Domínio da Bênção: Dança de Metal",
+  "region": "Mondstadt",
+  "domainEntrance": "Vale das Lembranças",
+  "domainType": "Artefatos",
+  "description": "O antigo altar abençoado está cheio de monstros que temem força pura.\nVocê poderá obter Artefatos valiosos apenas se você passar no teste.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domínio da Bênção: Dança de Metal III",
+      "recommendedLevel": 69,
+      "recommendedElements": [],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 20
+        },
+        {
+          "name": "Pequeno Milagre",
+          "rarity": "3"
+        },
+        {
+          "name": "O Doutor Viajante",
+          "rarity": "3"
+        },
+        {
+          "name": "Sombra Verde",
+          "rarity": "4"
+        },
+        {
+          "name": "Donzela Amada",
+          "rarity": "4"
+        },
+        {
+          "name": "Pequeno Milagre",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "O Dano Físico de todos os membros da equipe é aumentado em 75%."
+      ],
+      "monsterlist": [
+        "Fatui - Agente Pyro",
+        "Fatui - Feiticeira Cicin Electro",
+        "Ladrões de Tesouro - Escolta",
+        "Ladrões de Tesouro - Mestre das Poções Pyro",
+        "Ladrões de Tesouro - Mestre das Poções Electro",
+        "Ladrões de Tesouro - Capanga",
+        "Ladrões de Tesouro - Saqueador das Tumbas",
+        "Ladrões de Tesouro - Pugilista",
+        "Ladrões de Tesouro - Esmagador"
+      ]
+    }
+  ]
+}

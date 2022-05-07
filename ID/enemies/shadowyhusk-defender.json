@@ -1,0 +1,92 @@
+{
+  "name": "Shadowy Husk: Defender",
+  "specialname": "Shadowy Husk: Defender",
+  "enemytype": "ELITE",
+  "category": "Abyss",
+  "description": "Prajurit yang hitam pekat. Pernah menjadi prajurit gagah perkasa yang mengabdi kepada suatu peradaban kuno, kini tak ubahnya cangkang semu yang berisi sisa-sisa ingatan akan pertempuran.\nSegala sesuatunya akan pudar pada waktunya, dan inilah yang tersisa dari Black Serpent Knight yang terus menerus digerus oleh dosa, kutukan, dan waktu.",
+  "rewardpreview": [],
+  "images": {
+    "nameicon": "UI_MonsterIcon_ForlornVessel_Strong_Chargebow_Ice"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 293.67999476823024,
+      "attack": 126.8889072261627,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 1156.6760349792894,
+      "attack": 339.0138754666823,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 3404.4998574368656,
+      "attack": 836.2499993773781,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 6339.879968731664,
+      "attack": 1365.8833337785836,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 11383.387547607534,
+      "attack": 2042.0693843711633,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 20974.12822557427,
+      "attack": 2872.369297990139,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 35435.76997828111,
+      "attack": 3836.484064414588,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 58608.38530278951,
+      "attack": 5101.856950958434,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 94546.46810737252,
+      "attack": 7411.274314869748,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 148401.14998362958,
+      "attack": 9515.686133175914,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 221840.07250379026,
+      "attack": 12311.044076510821,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 280782.9173678756,
+      "attack": 12555.48552251578,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 324774.4083381593,
+      "attack": 12801.63840648823,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

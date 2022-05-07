@@ -1,0 +1,20 @@
+{
+  "name": "Lurchperle",
+  "description": "Eine funkelnde Perle, die von einem Lurch ausgespuckt wurde. Sie hat faszinierende Effekte als Arznei.\nLurche nehmen mineralische und elementare Partikel auf, die sich in Form von leicht magischen Perlen verfestigen. In brenzligen Situationen spucken sie diese Perlen aus, um Fressfeinde zu verwirren und ihr Leben zu retten.",
+  "sortorder": 1976,
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [
+    "In der freien Natur zu finden",
+    "Empfohlen: Im Dihua-Moor zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Loach_Pearl.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Item_Loach_Pearl.png",
+    "nameicon": "UI_ItemIcon_100090"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Loach_Pearl"
+  },
+  "version": ""
+}

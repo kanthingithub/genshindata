@@ -1,0 +1,22 @@
+{
+  "name": "Agnidus Agate Sliver",
+  "description": "วัสดุเลื่อนขั้นตัวละคร",
+  "sortorder": 1822,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ดรอปจาก Pyro Regisvine",
+    "ดรอปจาก Pyro Hypostasis",
+    "แลกได้ที่ร้านขายของที่ระลึก"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Agnidus_Agate_Sliver.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Item_Agnidus_Agate_Sliver.png",
+    "nameicon": "UI_ItemIcon_104111"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Agnidus_Agate_Sliver"
+  },
+  "version": ""
+}

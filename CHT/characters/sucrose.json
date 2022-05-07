@@ -1,0 +1,814 @@
+{
+  "name": "砂糖",
+  "fullname": "砂糖",
+  "title": "無害甜度",
+  "description": "對萬物充滿好奇的煉金術士，「生物煉金」學派的研究者。",
+  "rarity": "4",
+  "element": "風",
+  "weapontype": "法器",
+  "substat": "風元素傷害加成",
+  "gender": "女",
+  "body": "GIRL",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "西風騎士團",
+  "birthdaymmdd": "11/26",
+  "birthday": "11月26日",
+  "constellation": "燒瓶座",
+  "cv": {
+    "english": "Valeria Rodriguez",
+    "chinese": "小敢",
+    "japanese": "藤田茜",
+    "korean": "金荷英"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "摩拉",
+        "count": 20000
+      },
+      {
+        "name": "自在松石碎屑",
+        "count": 1
+      },
+      {
+        "name": "風車菊",
+        "count": 3
+      },
+      {
+        "name": "騙騙花蜜",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "摩拉",
+        "count": 40000
+      },
+      {
+        "name": "自在松石斷片",
+        "count": 3
+      },
+      {
+        "name": "颶風之種",
+        "count": 2
+      },
+      {
+        "name": "風車菊",
+        "count": 10
+      },
+      {
+        "name": "騙騙花蜜",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "摩拉",
+        "count": 60000
+      },
+      {
+        "name": "自在松石斷片",
+        "count": 6
+      },
+      {
+        "name": "颶風之種",
+        "count": 4
+      },
+      {
+        "name": "風車菊",
+        "count": 20
+      },
+      {
+        "name": "微光花蜜",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "摩拉",
+        "count": 80000
+      },
+      {
+        "name": "自在松石塊",
+        "count": 3
+      },
+      {
+        "name": "颶風之種",
+        "count": 8
+      },
+      {
+        "name": "風車菊",
+        "count": 30
+      },
+      {
+        "name": "微光花蜜",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "摩拉",
+        "count": 100000
+      },
+      {
+        "name": "自在松石塊",
+        "count": 6
+      },
+      {
+        "name": "颶風之種",
+        "count": 12
+      },
+      {
+        "name": "風車菊",
+        "count": 45
+      },
+      {
+        "name": "原素花蜜",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "摩拉",
+        "count": 120000
+      },
+      {
+        "name": "自在松石",
+        "count": 6
+      },
+      {
+        "name": "颶風之種",
+        "count": 20
+      },
+      {
+        "name": "風車菊",
+        "count": 60
+      },
+      {
+        "name": "原素花蜜",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Character_Sucrose_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Character_Sucrose_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Sucrose.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200723/2020072319115159476.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200723/2020072319142329434.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/4ffb3198b59f3ae36df71d4b938447af.png",
+    "nameicon": "UI_AvatarIcon_Sucrose",
+    "nameiconcard": "UI_AvatarIcon_Sucrose_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Sucrose",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Sucrose",
+    "namesideicon": "UI_AvatarIcon_Side_Sucrose"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sucrose"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 775.0223388671875,
+      "attack": 14.246399879455566,
+      "defense": 58.941749572753906,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 1991.032392984518,
+      "attack": 36.599001371839904,
+      "defense": 151.42135498967218,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2570.013777261862,
+      "attack": 47.242041075209045,
+      "defense": 195.4538562103753,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 3849.575491690717,
+      "attack": 70.76284420565798,
+      "defense": 292.7666720512534,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4260.95696141728,
+      "attack": 78.32500469760134,
+      "defense": 324.0529193046714,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 4901.12557888421,
+      "attack": 90.09253404139099,
+      "defense": 372.73881704308224,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5449.634306911554,
+      "attack": 100.17541406153259,
+      "defense": 414.4538210103674,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6089.802924378484,
+      "attack": 111.94294340532224,
+      "defense": 463.13971874877825,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6501.1843941050465,
+      "attack": 119.50510198991697,
+      "defense": 494.42597363159075,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7140.577675846696,
+      "attack": 131.25837917318268,
+      "defense": 543.0529057868662,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7551.959145573259,
+      "attack": 138.82053966512603,
+      "defense": 574.3391454108896,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8192.12739348074,
+      "attack": 150.58806221570285,
+      "defense": 623.0250150436841,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 8603.508985277615,
+      "attack": 158.1502227076462,
+      "defense": 654.3112699264966,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9243.677602744545,
+      "attack": 169.91775205143585,
+      "defense": 702.9971676649075,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "堆疊真空域",
+      "effect": "**風靈作成·陸參零捌**的可使用次數增加一次。"
+    },
+    "c2": {
+      "name": "不羈型貝特",
+      "effect": "**禁·風靈作成·柒伍同構貳型**的技能持續時間延長2秒。"
+    },
+    "c3": {
+      "name": "零失誤少女",
+      "effect": "**風靈作成·陸參零捌**的技能等級提高3級。\n至多提升至15級。"
+    },
+    "c4": {
+      "name": "煉金的偏執",
+      "effect": "砂糖的普通攻擊或者重擊累計命中敵人7次，**風靈作成·陸參零捌**的冷卻時間就會隨機減少1-7秒。\n每0.1秒至多計數一次。"
+    },
+    "c5": {
+      "name": "認真普通瓶",
+      "effect": "**禁·風靈作成·柒伍同構貳型**的技能等級提高3級。\n至多提升至15級。"
+    },
+    "c6": {
+      "name": "混元熵增論",
+      "effect": "**禁·風靈作成·柒伍同構貳型**如果發生了元素轉化，則使隊伍中所有角色在技能持續時間內獲得20%的對應元素傷害加成。"
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sucrose_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sucrose_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Sucrose_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sucrose_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Sucrose_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sucrose_04.png",
+      "constellation": "Eff_UI_Talent_Sucrose"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "砂糖",
+    "combat1": {
+      "name": "普通攻擊·簡式風靈作成",
+      "info": "**普通攻擊**\n進行至多四段的風靈攻擊，造成風元素傷害。\n\n**重擊**\n消耗一定體力，短暫詠唱後，造成風元素範圍傷害。\n\n**下落攻擊**\n凝聚風靈的力量，從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成風元素範圍傷害。",
+      "attributes": [
+        {
+          "name": "一段傷害",
+          "parameters": [
+            "33.46%",
+            "35.97%",
+            "38.48%",
+            "41.83%",
+            "44.34%",
+            "46.85%",
+            "50.20%",
+            "53.54%",
+            "56.89%",
+            "60.24%",
+            "63.58%",
+            "66.93%",
+            "71.11%",
+            "75.29%",
+            "79.48%"
+          ]
+        },
+        {
+          "name": "二段傷害",
+          "parameters": [
+            "30.62%",
+            "32.91%",
+            "35.21%",
+            "38.27%",
+            "40.57%",
+            "42.86%",
+            "45.92%",
+            "48.99%",
+            "52.05%",
+            "55.11%",
+            "58.17%",
+            "61.23%",
+            "65.06%",
+            "68.89%",
+            "72.71%"
+          ]
+        },
+        {
+          "name": "三段傷害",
+          "parameters": [
+            "38.45%",
+            "41.33%",
+            "44.22%",
+            "48.06%",
+            "50.94%",
+            "53.83%",
+            "57.67%",
+            "61.52%",
+            "65.36%",
+            "69.21%",
+            "73.05%",
+            "76.90%",
+            "81.70%",
+            "86.51%",
+            "91.31%"
+          ]
+        },
+        {
+          "name": "四段傷害",
+          "parameters": [
+            "47.92%",
+            "51.51%",
+            "55.11%",
+            "59.90%",
+            "63.49%",
+            "67.08%",
+            "71.88%",
+            "76.67%",
+            "81.46%",
+            "86.25%",
+            "91.04%",
+            "95.84%",
+            "101.82%",
+            "107.81%",
+            "113.80%"
+          ]
+        },
+        {
+          "name": "重擊傷害",
+          "parameters": [
+            "120.16%",
+            "129.17%",
+            "138.18%",
+            "150.20%",
+            "159.21%",
+            "168.22%",
+            "180.24%",
+            "192.26%",
+            "204.27%",
+            "216.29%",
+            "228.30%",
+            "240.32%",
+            "255.34%",
+            "270.36%",
+            "285.38%"
+          ]
+        },
+        {
+          "name": "重擊體力消耗",
+          "parameters": [
+            "50點",
+            "50點",
+            "50點",
+            "50點",
+            "50點",
+            "50點",
+            "50點",
+            "50點",
+            "50點",
+            "50點",
+            "50點",
+            "50點",
+            "50點",
+            "50點",
+            "50點"
+          ]
+        },
+        {
+          "name": "下墜期間傷害",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "低空/高空墜地衝擊傷害",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "風靈作成·陸參零捌",
+      "info": "召喚出小型風靈，將敵人與物體牽引至風靈所在位置，擊飛範圍內的敵人，並造成風元素傷害。",
+      "description": "說來很不好意思，雖然術式裡誕生的元素生命迅速就消散了，但是在冒險裡真的很好用。失敗的實驗也會誕生實用技術。",
+      "attributes": [
+        {
+          "name": "技能傷害",
+          "parameters": [
+            "211.20%",
+            "227.04%",
+            "242.88%",
+            "264.00%",
+            "279.84%",
+            "295.68%",
+            "316.80%",
+            "337.92%",
+            "359.04%",
+            "380.16%",
+            "401.28%",
+            "422.40%",
+            "448.80%",
+            "475.20%",
+            "501.60%"
+          ]
+        },
+        {
+          "name": "冷卻時間",
+          "parameters": [
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒",
+            "15秒"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "禁·風靈作成·柒伍同構貳型",
+      "info": "砂糖拋出不穩定的燒瓶，生成大型風靈。\n存在期間，大型風靈會持續牽引附近的敵人與物體，擊飛附近的敵人，並造成風元素傷害。\n\n**元素轉化**\n若風靈在技能持續期間接觸了水元素/火元素/冰元素/雷元素，則會獲得對應元素屬性，額外造成該元素的附加傷害。\n元素轉化在技能持續期間僅會發生一次。",
+      "description": "砂糖也曾經想給每一個不穩態無相之風取名字。但是其世系迅速超過了兔兔伯爵的八百九十三世。",
+      "attributes": [
+        {
+          "name": "持續傷害",
+          "parameters": [
+            "148.00%",
+            "159.10%",
+            "170.20%",
+            "185.00%",
+            "196.10%",
+            "207.20%",
+            "222.00%",
+            "236.80%",
+            "251.60%",
+            "266.40%",
+            "281.20%",
+            "296.00%",
+            "314.50%",
+            "333.00%",
+            "351.50%"
+          ]
+        },
+        {
+          "name": "附加元素傷害",
+          "parameters": [
+            "44.00%",
+            "47.30%",
+            "50.60%",
+            "55.00%",
+            "58.30%",
+            "61.60%",
+            "66.00%",
+            "70.40%",
+            "74.80%",
+            "79.20%",
+            "83.60%",
+            "88.00%",
+            "93.50%",
+            "99.00%",
+            "104.50%"
+          ]
+        },
+        {
+          "name": "持續時間",
+          "parameters": [
+            "6秒",
+            "6秒",
+            "6秒",
+            "6秒",
+            "6秒",
+            "6秒",
+            "6秒",
+            "6秒",
+            "6秒",
+            "6秒",
+            "6秒",
+            "6秒",
+            "6秒",
+            "6秒",
+            "6秒"
+          ]
+        },
+        {
+          "name": "冷卻時間",
+          "parameters": [
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒",
+            "20秒"
+          ]
+        },
+        {
+          "name": "元素能量",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "觸媒置換術",
+      "info": "砂糖觸發擴散反應時，使隊伍中所有對應元素類型的（不包括砂糖自身）角色元素精通提升50，持續8秒。"
+    },
+    "passive2": {
+      "name": "小小的慧風",
+      "info": "**風靈作成·陸參零捌**或**禁·風靈作成·柒伍同構貳型**命中敵人時，基於砂糖元素精通的20%，為隊伍中所有角色（不包括砂糖自身）提供元素精通加成，持續8秒。"
+    },
+    "passive3": {
+      "name": "不穩定發現",
+      "info": "合成角色與武器培養素材時，有10%的機率獲得兩倍產出。"
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "摩拉",
+          "count": 12500
+        },
+        {
+          "name": "「自由」的教導",
+          "count": 3
+        },
+        {
+          "name": "騙騙花蜜",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "摩拉",
+          "count": 17500
+        },
+        {
+          "name": "「自由」的指引",
+          "count": 2
+        },
+        {
+          "name": "微光花蜜",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "摩拉",
+          "count": 25000
+        },
+        {
+          "name": "「自由」的指引",
+          "count": 4
+        },
+        {
+          "name": "微光花蜜",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "摩拉",
+          "count": 30000
+        },
+        {
+          "name": "「自由」的指引",
+          "count": 6
+        },
+        {
+          "name": "微光花蜜",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "摩拉",
+          "count": 37500
+        },
+        {
+          "name": "「自由」的指引",
+          "count": 9
+        },
+        {
+          "name": "微光花蜜",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "摩拉",
+          "count": 120000
+        },
+        {
+          "name": "「自由」的哲學",
+          "count": 4
+        },
+        {
+          "name": "原素花蜜",
+          "count": 4
+        },
+        {
+          "name": "北風的魂匣",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "摩拉",
+          "count": 260000
+        },
+        {
+          "name": "「自由」的哲學",
+          "count": 6
+        },
+        {
+          "name": "原素花蜜",
+          "count": 6
+        },
+        {
+          "name": "北風的魂匣",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "摩拉",
+          "count": 450000
+        },
+        {
+          "name": "「自由」的哲學",
+          "count": 12
+        },
+        {
+          "name": "原素花蜜",
+          "count": 9
+        },
+        {
+          "name": "北風的魂匣",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "摩拉",
+          "count": 700000
+        },
+        {
+          "name": "「自由」的哲學",
+          "count": 16
+        },
+        {
+          "name": "原素花蜜",
+          "count": 12
+        },
+        {
+          "name": "北風的魂匣",
+          "count": 2
+        },
+        {
+          "name": "智識之冕",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_Catalyst_MD",
+      "combat2": "Skill_S_Sucrose_01",
+      "combat3": "Skill_E_Sucrose_01_HD",
+      "passive1": "UI_Talent_S_Sucrose_05",
+      "passive2": "UI_Talent_S_Sucrose_06",
+      "passive3": "UI_Talent_Combine_Material"
+    },
+    "version": "1.0"
+  }
+}

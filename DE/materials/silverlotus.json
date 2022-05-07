@@ -1,0 +1,18 @@
+{
+  "name": "Himmelsanemone",
+  "description": "Eine sehr wertvolle Pflanze, die an steilen Hängen wächst und nachts hell leuchtet.",
+  "sortorder": 1985,
+  "category": "EXCHANGE",
+  "materialtype": "Zutat",
+  "source": [
+    "In der freien Natur zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Silver_Lotus.png",
+    "nameicon": "UI_ItemIcon_100019"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Silver_Lotus"
+  },
+  "version": ""
+}

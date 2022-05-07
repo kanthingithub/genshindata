@@ -1,0 +1,26 @@
+{
+  "name": "Guide de l'Éphémère",
+  "description": "Matériau d'amélioration d'aptitude.\nL'éphémère est ce dont rêve la Nation du Tonnerre.\nNous autres, mortels, trouvons les plus grandes joies dans les rêves éphémères, car la vie passe tel un éclair. Poursuivez vos rêves éthérés si vous le souhaitez et profitez du silence inattendu de la nuit à la lueur des lampes.",
+  "sortorder": 1870,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration d'aptitude",
+  "dropdomain": "Donjon de la maîtrise : Règne violet",
+  "daysofweek": [
+    "Lundi",
+    "Jeudi",
+    "Dimanche"
+  ],
+  "source": [
+    "Synthèse"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Guide_to_Transience.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Item_Guide_to_Transience.png",
+    "nameicon": "UI_ItemIcon_104321"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Guide_to_Transience"
+  },
+  "version": ""
+}

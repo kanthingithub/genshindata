@@ -1,0 +1,20 @@
+{
+  "name": "Коготь Двалина",
+  "description": "Коготь Дракона востока.\nКак когда-то он разрывал плоть теневого дракона «Дурина», так и содержал в себе его злобный яд. Однако благодаря вашему очищению и исцелению он больше не токсичен.",
+  "sortorder": 1786,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Ужас Бури Ур. 70+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dvalin's_Claw.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Item_Dvalin%27s_Claw.png",
+    "nameicon": "UI_ItemIcon_113004"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dvalin's_Claw"
+  },
+  "version": ""
+}

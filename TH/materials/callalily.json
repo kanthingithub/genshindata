@@ -1,0 +1,20 @@
+{
+  "name": "Calla Lily",
+  "description": "ดอกที่จะขึ้นบริเวณริมน้ำ เมื่อนำมาทำอาหารจะมีความกรอบ, หวานนิดๆและอมขมหน่อยๆ",
+  "sortorder": 2042,
+  "category": "EXCHANGE",
+  "materialtype": "ของพิเศษเฉพาะใน Mondstadt",
+  "source": [
+    "หาได้ที่บริเวณริมทะเลสาบ",
+    "คำแนะนำ: หาได้ที่ Springvale"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Calla_Lily.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Item_Calla_Lily.png",
+    "nameicon": "UI_ItemIcon_100056"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Calla_Lily"
+  },
+  "version": ""
+}

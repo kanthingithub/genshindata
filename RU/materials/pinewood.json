@@ -1,0 +1,21 @@
+{
+  "name": "Сосна",
+  "description": "Древесина, полученная из сосны. Её цвет и узор ничем не примечательны, но неприхотливая природа сама по себе элегантна. Отличается особой прочностью. В умелых руках изделия из сосны устойчивы к паразитам и гниению.\nСлужит для изготовления декора.",
+  "sortorder": 1951,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Материал",
+  "source": [
+    "Дикая природа",
+    "Драконий хребет"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Pine_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Item_Pine_Wood.png",
+    "nameicon": "UI_ItemIcon_101303"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Pine_Wood"
+  },
+  "version": ""
+}

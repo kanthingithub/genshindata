@@ -1,0 +1,252 @@
+{
+  "name": "Dominio de la bendición: Escarcha",
+  "region": "Liyue",
+  "domainEntrance": "Palacio oculto de la fórmula Zhou",
+  "domainType": "Artefacto",
+  "description": "El Monolito de líneas ley dentro de este antiguo Altar de líneas ley es codiciado por monstruos que lo rodean.\nUtiliza el poder Cryo para proteger el Monolito de líneas ley de los monstruos, y obtén artefactos de gran valor.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_1"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Dominio de la bendición: Escarcha I",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Cryo"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "EXP de Amistad",
+          "count": 15
+        },
+        {
+          "name": "Corazón del Guardián",
+          "rarity": "3"
+        },
+        {
+          "name": "Artista Marcial",
+          "rarity": "3"
+        },
+        {
+          "name": "Bruja Carmesí en Llamas",
+          "rarity": "4"
+        },
+        {
+          "name": "Virtuoso Corredor de Lava",
+          "rarity": "4"
+        },
+        {
+          "name": "Corazón del Guardián",
+          "rarity": "4"
+        },
+        {
+          "name": "Artista Marcial",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "La duración del efecto de Congelación aumenta considerablemente.",
+        "Al activar la reacción de Superconductor, ocurrirá una explosión de energía que inflige daño a los enemigos cercanos."
+      ],
+      "monsterlist": [
+        "Slime Gigante Electro",
+        "Slime Mutante Electro",
+        "Slime Hydro",
+        "Slime Gigante Hydro"
+      ]
+    },
+    {
+      "name": "Dominio de la bendición: Escarcha II",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "Cryo"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "EXP de Amistad",
+          "count": 20
+        },
+        {
+          "name": "Corazón del Guardián",
+          "rarity": "3"
+        },
+        {
+          "name": "Artista Marcial",
+          "rarity": "3"
+        },
+        {
+          "name": "Bruja Carmesí en Llamas",
+          "rarity": "4"
+        },
+        {
+          "name": "Virtuoso Corredor de Lava",
+          "rarity": "4"
+        },
+        {
+          "name": "Corazón del Guardián",
+          "rarity": "4"
+        },
+        {
+          "name": "Artista Marcial",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Al activar la reacción de Derretido, ocurrirá una explosión de energía que inflige daño a los enemigos cercanos.",
+        "Al activar la reacción de Sobrecarga, serás golpeado por una explosión que infligirá Daño a tu personaje."
+      ],
+      "monsterlist": [
+        "Slime Gigante Pyro",
+        "Mitachurl con Hacha de Fuego",
+        "Mago del Abismo Pyro"
+      ]
+    },
+    {
+      "name": "Dominio de la bendición: Escarcha III",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Cryo"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "EXP de Amistad",
+          "count": 20
+        },
+        {
+          "name": "Corazón del Guardián",
+          "rarity": "3"
+        },
+        {
+          "name": "Artista Marcial",
+          "rarity": "3"
+        },
+        {
+          "name": "Bruja Carmesí en Llamas",
+          "rarity": "4"
+        },
+        {
+          "name": "Virtuoso Corredor de Lava",
+          "rarity": "4"
+        },
+        {
+          "name": "Corazón del Guardián",
+          "rarity": "4"
+        },
+        {
+          "name": "Artista Marcial",
+          "rarity": "4"
+        },
+        {
+          "name": "Bruja Carmesí en Llamas",
+          "rarity": "5"
+        },
+        {
+          "name": "Virtuoso Corredor de Lava",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Al activar la reacción de Superconductor, ocurrirá una explosión de energía que inflige daño a los enemigos cercanos.",
+        "Al activar la reacción de Sobrecarga, serás golpeado por una explosión que infligirá Daño a tu personaje."
+      ],
+      "monsterlist": [
+        "Slime Gigante Electro",
+        "Slime Mutante Electro",
+        "Hilichurl Guerrero",
+        "Soldado Fatui - Maga de Cicin Electro"
+      ]
+    },
+    {
+      "name": "Dominio de la bendición: Escarcha IV",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "Cryo"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "EXP de Amistad",
+          "count": 20
+        },
+        {
+          "name": "Corazón del Guardián",
+          "rarity": "3"
+        },
+        {
+          "name": "Artista Marcial",
+          "rarity": "3"
+        },
+        {
+          "name": "Bruja Carmesí en Llamas",
+          "rarity": "4"
+        },
+        {
+          "name": "Virtuoso Corredor de Lava",
+          "rarity": "4"
+        },
+        {
+          "name": "Corazón del Guardián",
+          "rarity": "4"
+        },
+        {
+          "name": "Artista Marcial",
+          "rarity": "4"
+        },
+        {
+          "name": "Bruja Carmesí en Llamas",
+          "rarity": "5"
+        },
+        {
+          "name": "Virtuoso Corredor de Lava",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Al activar la reacción de Derretido, ocurrirá una explosión de energía que inflige daño a los enemigos cercanos.",
+        "Al activar la reacción de Sobrecarga, serás golpeado por una explosión que infligirá Daño a tu personaje."
+      ],
+      "monsterlist": [
+        "Slime Gigante Pyro",
+        "Mitachurl con Hacha de Fuego",
+        "Mago del Abismo Pyro"
+      ]
+    }
+  ]
+}

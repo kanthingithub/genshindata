@@ -1,0 +1,180 @@
+{
+  "name": "Formação Mecânica Perpétua",
+  "specialname": "Ressonância Perpétua SI/Ald",
+  "enemytype": "BOSS",
+  "category": "Autômatos",
+  "description": "Uma máquina estranha e alienígena.\nDizem que é uma máquina de guerra deixada para trás por uma nação que já foi destruída. Composto de várias partes diferentes, ele pode se adaptar ao ambiente de combate e empregar uma variedade de ataques.\nEsta máquina, composta de formas cúbicas, é em algum nível muito parecida com os Hypostasis Elementais.",
+  "investigation": {
+    "name": "Formação Mecânica Perpétua",
+    "category": "Chefe",
+    "description": "Uma máquina alienígena estranha.\\nDizem que é uma máquina de guerra deixada para trás por uma nação que já foi destruída. Composta de várias partes diferentes, ela pode se adaptar ao seu ambiente de combate e empregar uma variedade de ataques.\\nEsta máquina, composta de formas cúbicas, é em algum nível muito parecido com os Hypostases Elementais."
+  },
+  "rewardpreview": [
+    {
+      "name": "EXP de Aventura",
+      "count": 200
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "EXP de Amizade"
+    },
+    {
+      "name": "Lasca de Jade Shivada"
+    },
+    {
+      "name": "Fragmento de Jade Shivada"
+    },
+    {
+      "name": "Pedaço de Jade Shivada"
+    },
+    {
+      "name": "Gema de Jade Shivada"
+    },
+    {
+      "name": "Lasca de Topázio Prithiva"
+    },
+    {
+      "name": "Fragmento de Topázio Prithiva"
+    },
+    {
+      "name": "Pedaço de Topázio Prithiva"
+    },
+    {
+      "name": "Gema de Topázio Prithiva"
+    },
+    {
+      "name": "Coração do Mecanismo Contínuo",
+      "count": 2.5556
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "O Exilado",
+      "rarity": "3"
+    },
+    {
+      "name": "Orações para a Primavera",
+      "rarity": "3"
+    },
+    {
+      "name": "O Sortudo",
+      "rarity": "3"
+    },
+    {
+      "name": "Último Juramento do Gladiador",
+      "rarity": "4"
+    },
+    {
+      "name": "Trupe Itinerante",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "O Exilado",
+      "rarity": "4"
+    },
+    {
+      "name": "Orações para a Primavera",
+      "rarity": "4"
+    },
+    {
+      "name": "Último Juramento do Gladiador",
+      "rarity": "5"
+    },
+    {
+      "name": "Trupe Itinerante",
+      "rarity": "5"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Apparatus_Perpetual"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 1174.719979072921,
+      "attack": 152.2663863116577,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 4626.704139917158,
+      "attack": 406.8166587971864,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 13617.999429747462,
+      "attack": 1003.4998039648926,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 25359.519874926656,
+      "attack": 1639.0596025083796,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 45533.550190430135,
+      "attack": 2450.4833108624443,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 83896.51290229708,
+      "attack": 3778.963487027271,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 141743.07991312444,
+      "attack": 5321.546282113646,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 234433.54121115804,
+      "attack": 7346.143133227946,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 378185.8724294901,
+      "attack": 9451.590193737298,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 593604.5999345183,
+      "attack": 11418.823591017863,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 887360.290015161,
+      "attack": 14773.25319093978,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 1123131.6694715023,
+      "attack": 15066.582932085032,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 1299097.6333526373,
+      "attack": 15361.966398832854,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

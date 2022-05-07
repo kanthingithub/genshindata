@@ -1,0 +1,19 @@
+{
+  "name": "杏仁",
+  "description": "有着奇特香味的种子。能给食物带来全然不同的清新风味。",
+  "sortorder": 2005,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "璃月杂货店购买"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Almond.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Item_Almond.png",
+    "nameicon": "UI_ItemIcon_100089"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Almond"
+  },
+  "version": ""
+}

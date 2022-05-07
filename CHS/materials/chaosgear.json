@@ -1,0 +1,21 @@
+{
+  "name": "混沌机关",
+  "description": "来自不再活动的古代遗迹机关。\n似乎是拟生机关的动力来源。",
+  "sortorder": 1765,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培养素材",
+  "source": [
+    "遗迹机兵掉落",
+    "星尘兑换"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Gear.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Chaos_Gear.png",
+    "nameicon": "UI_ItemIcon_112047"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chaos_Gear"
+  },
+  "version": ""
+}

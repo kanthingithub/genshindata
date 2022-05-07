@@ -1,0 +1,26 @@
+{
+  "name": "Milchzahn des borealischen Wolfs",
+  "description": "Material mit der Kraft, Waffen aufsteigen zu lassen.\nDie Wölfe sind seine Leibgarde. Jeden einzelnen davon segnet er, selbst die Kleinsten unter ihnen.\nDie Götter haben einst die Verantwortung für all ihre Schützlinge getragen. So führte Andrius die Wölfe nicht nur an, sondern nahm auch ausgesetzte Kinder und Streuner auf, ein sehr ungewöhnliches Verhalten.",
+  "sortorder": 2187,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zum Aufstieg von Waffen",
+  "dropdomain": "Sphäre der Kriegskunst: Überflutetes Tal",
+  "daysofweek": [
+    "Dienstag",
+    "Freitag",
+    "Sonntag"
+  ],
+  "source": [
+    "Beim Andenkenhändler von Mondstadt zu erhalten"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Boreal_Wolf's_Milk_Tooth.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Boreal_Wolf%27s_Milk_Tooth.png",
+    "nameicon": "UI_ItemIcon_114005"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Boreal_Wolf's_Milk_Tooth"
+  },
+  "version": ""
+}

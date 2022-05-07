@@ -1,0 +1,21 @@
+{
+  "name": "牢固な矢先",
+  "description": "粗末な矢先。それでもその威力はなめてはいけない。弓弩は危険な武器である。たとえ騎士のような人でも後ろからの矢に撃たれる可能性があるから。",
+  "sortorder": 1732,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "キャラクター育成素材",
+  "source": [
+    "ヒルチャール·射手でドロップ",
+    "スターダスト交換"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Firm_Arrowhead.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_Firm_Arrowhead.png",
+    "nameicon": "UI_ItemIcon_112011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Firm_Arrowhead"
+  },
+  "version": ""
+}

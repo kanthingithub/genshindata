@@ -1,0 +1,22 @@
+{
+  "name": "雾虚草囊",
+  "description": "保存完好的雾虚草。有的人会利用飞萤对雾虚草的喜好，来控制它们。",
+  "sortorder": 1745,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培养素材",
+  "source": [
+    "合成获得",
+    "40级以上愚人众·萤术士掉落",
+    "星尘兑换"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Grass.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Item_Mist_Grass.png",
+    "nameicon": "UI_ItemIcon_112027"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Grass"
+  },
+  "version": ""
+}

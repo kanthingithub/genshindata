@@ -1,0 +1,24 @@
+{
+  "name": "Ensinamentos de Resistência",
+  "description": "Material para aprimorar o nível de Talento.\nA resistência é a espinha dorsal do Reino do Vento.\nA história de Mondstadt é uma das resistências. As pessoas se levantaram para impedir que conflitos passados fossem esquecidos, como brotos rompendo o solo, como o vento eterno corroendo as paredes de pedra.",
+  "sortorder": 1854,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Talento",
+  "dropdomain": "Domínio da Proficiência: Abismo Congelante",
+  "daysofweek": [
+    "Terça-feira",
+    "Sexta-feira",
+    "Domingo"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Resistance.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Teachings_of_Resistance.png",
+    "nameicon": "UI_ItemIcon_104304"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Resistance"
+  },
+  "version": ""
+}

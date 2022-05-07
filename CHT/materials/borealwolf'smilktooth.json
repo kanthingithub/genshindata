@@ -1,0 +1,26 @@
+{
+  "name": "凜風奔狼的始齔",
+  "description": "賦予武器突破之力的素材。\n群狼是受牠祝福的近衛軍，就算是小狼的乳牙也有相當的潛力。\n曾經的眾神皆背負愛人的責任。因此引導群狼，卻只收養棄嬰、接納流浪者的「安德留斯」十分異類。",
+  "sortorder": 2187,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "武器突破素材",
+  "dropdomain": "煉武秘境：深沒之谷",
+  "daysofweek": [
+    "週二",
+    "週五",
+    "週日"
+  ],
+  "source": [
+    "蒙德紀念品商店兌換"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Boreal_Wolf's_Milk_Tooth.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Boreal_Wolf%27s_Milk_Tooth.png",
+    "nameicon": "UI_ItemIcon_114005"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Boreal_Wolf's_Milk_Tooth"
+  },
+  "version": ""
+}

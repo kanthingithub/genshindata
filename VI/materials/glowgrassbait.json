@@ -1,0 +1,20 @@
+{
+  "name": "Mồi Óng Ánh",
+  "description": "Một loại mồi nhử đặc biệt làm từ mỏ ma tinh và rong biển, sẽ tỏa sáng ở nơi thiếu ánh sáng, đối với những loài cá khao khát ánh sáng, nó có một sức hút lạ thường.\nNếu dùng hết có thể nhận lại ở chỗ Kujirai Momiji.\n\nLoại cá thích hợp: tất cả các loại cá",
+  "sortorder": 1518,
+  "rarity": "2",
+  "category": "FISH_BAIT",
+  "materialtype": "Mồi Câu",
+  "source": [
+    "Hoàn thành nhiệm vụ Kujirai Momiji để nhận"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_111027",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Glowgrass_Bait.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Item_Glowgrass_Bait.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Glowgrass_Bait"
+  },
+  "version": ""
+}

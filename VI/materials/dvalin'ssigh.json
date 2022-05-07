@@ -1,0 +1,20 @@
+{
+  "name": "Hơi Thở Đông Phong",
+  "description": "Khi chủ Đông Phong thành Mondstadt gọi gió đến đã tập hợp chút sức mạnh.\nThân thể của nó trong suốt tuyệt đẹp, gió và lốc xoáy đều để nó sai khiến. Chỉ cần cưỡi lên gió, gió là bạn, là tiếng hát và tự do.\nKẻ địch của gió chính là kẻ địch của nó.",
+  "sortorder": 1787,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Thưởng khiêu chiến Phong Ma Long cấp 70 trở lên"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dvalin's_Sigh.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Dvalin%27s_Sigh.png",
+    "nameicon": "UI_ItemIcon_113005"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dvalin's_Sigh"
+  },
+  "version": ""
+}

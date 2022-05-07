@@ -1,0 +1,24 @@
+{
+  "name": "Ensinamentos da Luz Celeste",
+  "description": "Material de Elevação de Talento.\nA luz é o anseio da terra do trovão.\nO governante que afirma saber de tudo tem o objetivo eterno de chegar à glória celestial. Mas essa visão não pode ser compartilhada, o que leva as pessoas a desejá-la com mais intensidade, como mariposas sendo atraídas para uma chama.",
+  "sortorder": 1875,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Talento",
+  "dropdomain": "Domínio da Proficiência: Cidade Abandonada ao Kudzu",
+  "daysofweek": [
+    "Quarta-feira",
+    "Sábado",
+    "Domingo"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Light.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Item_Teachings_of_Light.png",
+    "nameicon": "UI_ItemIcon_104326"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Light"
+  },
+  "version": ""
+}

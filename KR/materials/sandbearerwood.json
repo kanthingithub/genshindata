@@ -1,0 +1,22 @@
+{
+  "name": "각사나무",
+  "description": "「각사나무」에서 얻어낸 목재. 비바람에도 끄떡없고 백 년이 지나도 썩지 않는 뛰어난 품질의 목재라고 한다.\n장식 제작용으로 사용할 수 있다",
+  "sortorder": 1950,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "소재",
+  "source": [
+    "야외 채집",
+    "추천: 민림 채집",
+    "추천: 리사교 채집"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sandbearer_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/36/Item_Sandbearer_Wood.png",
+    "nameicon": "UI_ItemIcon_101304"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sandbearer_Wood"
+  },
+  "version": ""
+}

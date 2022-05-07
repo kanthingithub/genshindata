@@ -1,0 +1,20 @@
+{
+  "name": "Poeira Estrelar Abandonada",
+  "description": "Moeda usada para comprar recursos raros na Loja de Troca.\nExcedente de Poeira Estrelar. Talvez possa criar novos destinos quando em grande quantidade.",
+  "sortorder": 497,
+  "rarity": "4",
+  "category": "CONSUME",
+  "materialtype": "Cupom de Troca Comum",
+  "source": [
+    "Orar"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_222",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Masterless_Stardust.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7c/Item_Masterless_Stardust.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Masterless_Stardust"
+  },
+  "version": ""
+}

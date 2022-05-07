@@ -1,0 +1,19 @@
+{
+  "name": "Sausage",
+  "description": "ไส้กรอกที่ทำจากเนื้อบดที่ยัดไว้ในไส้ สะดวกในการเก็บรักษาเนื้อต่าง ๆ ไม่ว่าใครที่ชอบเนื้อ ก็มีมันเป็นของโปรดกันทั้งนั้น",
+  "sortorder": 1534,
+  "category": "EXCHANGE",
+  "materialtype": "วัตถุดิบประกอบอาหาร",
+  "source": [
+    "ได้จากการทำอาหาร"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sausage.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/ba/Item_Sausage.png",
+    "nameicon": "UI_ItemIcon_110011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sausage"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Tusk of Monoceros Caeli",
+  "description": "งาของวาฬที่ได้รับหลังจากเอาชนะ Childe ผู้ที่ได้ปลดปล่อยพลังแห่งเนตรมาร\nตำนานกล่าวว่ารูปร่างของกลุ่มดาวเป็นตัวสะท้อนให้เห็นถึงนิสัยเฉพาะตัวของคน ซึ่งดาวแห่งวาฬอันสุกสกาวอยู่บนท้องฟ้ายามค่ำคืนนั้น ได้สะท้อนให้เห็นถึงความโอหังที่ต้องการทำลายและกลืนกินทุกสิ่ง...\nแต่เขายอมรับตัวเองในเรื่องนี้ และเรียกวาฬมาโจมตีคุณ",
+  "sortorder": 1795,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "รางวัลการท้าทาย Childe Lv. 70 ขึ้นไป"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Tusk_of_Monoceros_Caeli.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Item_Tusk_of_Monoceros_Caeli.png",
+    "nameicon": "UI_ItemIcon_113013"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Tusk_of_Monoceros_Caeli"
+  },
+  "version": ""
+}

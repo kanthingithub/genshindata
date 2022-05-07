@@ -1,0 +1,20 @@
+{
+  "name": "Zuckerblumen-Medaka",
+  "description": "Ein lebhafter, energiegeladener Fisch, der für seine blütenförmige Schwanzflosse berühmt ist.\nVielleicht liegt es daran, dass dieser Fisch eine Naschkatze ist, aber jede Gräte in seinem Körper scheint als Antenne zu dienen, um nach süßen Leckereien zu suchen. Dieser absoluten Naschsucht folgend, schwimmen sie durch jeden Bach und Fluss in Teyvat auf der Suche nach leckeren Süßigkeiten. Sie werden niemals einen Bissen zurückweisen und schon gar nicht, weil ein Haken daran hängt. Sie beißen sicher an, solange du einen Köder hast.\nGut geeignet für Anfänger.",
+  "sortorder": 2016,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Fisch",
+  "source": [
+    "Beim Angeln zu erhalten"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sweet-Flower_Medaka.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/21/Item_Sweet-Flower_Medaka.png",
+    "nameicon": "UI_ItemIcon_131002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sweet-Flower_Medaka"
+  },
+  "version": ""
+}

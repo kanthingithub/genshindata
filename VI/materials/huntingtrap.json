@@ -1,0 +1,17 @@
+{
+  "name": "Bẫy Săn Bắt",
+  "description": "Dùng để bẫy một số dã thú. Nếu để ý thì bên ngoài vẫn còn bẫy giống như vậy. Bố trí che giấu kỹ càng trên mặt đất.",
+  "sortorder": 99,
+  "category": "CONSUME",
+  "materialtype": "Vật Phẩm Tiêu Hao",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_100225",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Hunting_Trap.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Hunting_Trap.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Hunting_Trap"
+  },
+  "version": ""
+}

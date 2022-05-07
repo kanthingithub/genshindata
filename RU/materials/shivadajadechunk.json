@@ -1,0 +1,22 @@
+{
+  "name": "Кусок нефрита Шивада",
+  "description": "Материал возвышения персонажа.\n«...Простите...»\n«Что заставил вас взять все обиды мира на себя».",
+  "sortorder": 1844,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Крио папоротники Ур. 60+",
+    "Крио гипостазисы Ур. 60+",
+    "Алхимия"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shivada_Jade_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Item_Shivada_Jade_Chunk.png",
+    "nameicon": "UI_ItemIcon_104163"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shivada_Jade_Chunk"
+  },
+  "version": ""
+}

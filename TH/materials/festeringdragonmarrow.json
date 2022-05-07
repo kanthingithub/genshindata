@@ -1,0 +1,18 @@
+{
+  "name": "Festering Dragon Marrow",
+  "description": "วัสดุสำหรับขัดเกลาอาวุธสำหรับ Festering Desire\nสารที่ได้จากการชำระล้างพิษของ Durin ที่กระจายอยู่ในกระแสพลังของ Dragonspine ดูเหมือนว่าสารนี้จะสามารถเพิ่มพลังของ \"ดาบกระหายเลือด\" ได้อีกด้วย",
+  "sortorder": 2293,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุสำหรับขัดเกลา",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Festering_Dragon_Marrow.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Item_Festering_Dragon_Marrow.png",
+    "nameicon": "UI_ItemIcon_200103"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Festering_Dragon_Marrow"
+  },
+  "version": ""
+}

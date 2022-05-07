@@ -1,0 +1,20 @@
+{
+  "name": "Chân Ý Vạn Kiếp",
+  "description": "Trang sức được mang về từ Tịnh Thổ sau khi mọi chuyện đã lắng xuống.\nNhất niệm vạn kiếp tận, sẽ luôn có những suy nghĩ có thể vượt qua thời gian.\nMuôn vạn kiếp nạn, liệu ý nghĩ thực sự của Makoto đã được truyền đạt thành công hay chưa.",
+  "sortorder": 1816,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Thưởng khiêu chiến Thủ Vệ Vĩnh Hằng cấp 70 trở lên"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_113034",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_The_Meaning_of_Aeons.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Item_The_Meaning_of_Aeons.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/The_Meaning_of_Aeons"
+  },
+  "version": ""
+}

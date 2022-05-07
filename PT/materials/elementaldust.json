@@ -1,0 +1,16 @@
+{
+  "name": "Poeira Elemental",
+  "description": "Fragmentos dispersos do Cristal do Oráculo. Mostra tesouros ocultos por perto.",
+  "sortorder": 1580,
+  "category": "CONSUME",
+  "materialtype": "Item de Aventura",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_107002",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Elemental_Dust.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Elemental_Dust"
+  },
+  "version": ""
+}

@@ -1,0 +1,16 @@
+{
+  "name": "キノコンの胞子",
+  "description": "キノコンが残した胞子。微かな光を放っている。くしゃみ一つで跡形もなく吹き飛ばされそうだ。",
+  "sortorder": 1780,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "キャラクター育成素材",
+  "source": [
+    "キノコンでドロップ"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_112059",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fungal_Spores.png"
+  },
+  "version": "2.6"
+}

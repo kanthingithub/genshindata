@@ -1,0 +1,19 @@
+{
+  "name": "Starconch",
+  "description": "Kerang kosong yang dibawa ke pantai oleh ombak pasang. Dekatkan ke telinga, dan kamu akan mendengar suara lautan.",
+  "sortorder": 2053,
+  "category": "EXCHANGE",
+  "materialtype": "Produk khas Liyue",
+  "source": [
+    "Ditemukan di pantai Liyue"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Starconch.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Starconch.png",
+    "nameicon": "UI_ItemIcon_100033"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Starconch"
+  },
+  "version": ""
+}

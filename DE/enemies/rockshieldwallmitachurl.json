@@ -1,0 +1,153 @@
+{
+  "name": "Mitachurl mit Steinschild",
+  "specialname": "Dada Kundala",
+  "enemytype": "ELITE",
+  "category": "Hilichurl-Stämme",
+  "description": "Ein brutaler Hilichurl mit einem Schild aus festem Gestein.\nFür einen Hilichurl ist es das Wichtigste, Fleisch zu essen und sich zu prügeln, um stärker zu werden.\nWenn man es als Hilichurl schafft, zu einem Mitachurl zu werden, wird man noch mehr Fleisch in sich hineinstopfen und sich noch mehr prügeln, um die Kraft zu haben, einen schweren, nahezu unzerstörbaren Steinschild zu tragen.",
+  "investigation": {
+    "name": "Mitachurl",
+    "category": "Elite",
+    "description": "Ein aus vielen Anwerbern erwählter Krieger aus einem Hilichurl-Stamm.\\nFür einen Hilichurl ist es das Wichtigste, Fleisch zu essen und sich zu prügeln, um stärker zu werden. Wenn man es als Hilichurl schafft, zu einem Mitachurl zu werden, wird man noch mehr Fleisch in sich hineinstopfen und sich noch mehr prügeln."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Schweres Horn",
+      "count": 1.5758
+    },
+    {
+      "name": "Kupferhorn",
+      "count": 0.4202
+    },
+    {
+      "name": "Schwarzes Kristallhorn",
+      "count": 0.1051
+    },
+    {
+      "name": "Zerbrochene Maske",
+      "count": 0.5253
+    },
+    {
+      "name": "Verdreckte Maske",
+      "count": 0.1401
+    },
+    {
+      "name": "Unheilvolle Maske",
+      "count": 0.035
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Ausbilder",
+      "rarity": "3"
+    },
+    {
+      "name": "Verbannter",
+      "rarity": "3"
+    },
+    {
+      "name": "Wanderarzt",
+      "rarity": "3"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Ausbilder",
+      "rarity": "4"
+    },
+    {
+      "name": "Verbannter",
+      "rarity": "4"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Brute_None_01"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 218.7509794542566,
+      "attack": 60.906552212361476,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 859.8121607497742,
+      "attack": 162.72665734099883,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 2655.600003847154,
+      "attack": 401.39990634691276,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 4418.400979883387,
+      "attack": 655.6238161127621,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 8084.548390447162,
+      "attack": 980.1932871321915,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 14989.452767774463,
+      "attack": 1511.5853374239596,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 25143.764439336956,
+      "attack": 2128.6184320330067,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 39155.91791216936,
+      "attack": 2938.457141733408,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 55697.182621506974,
+      "attack": 3780.6359339640476,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 73062.26003226824,
+      "attack": 4567.52926300207,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 110295.36462029815,
+      "attack": 5909.301052030816,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 160506.94116508216,
+      "attack": 6026.632944034442,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 215958.9501701519,
+      "attack": 6144.786326247908,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Dendro Sigil",
+  "description": "A token of recognition and appreciation that can be found around Mondstadt. Can be exchanged for rare items in the shop.",
+  "sortorder": 502,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "City States Sigil",
+  "source": [
+    "Exploration Reward"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_303",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dendro_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dendro_Sigil"
+  },
+  "version": ""
+}

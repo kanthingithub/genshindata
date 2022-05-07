@@ -1,0 +1,954 @@
+{
+  "name": "Noelle",
+  "fullname": "Noelle",
+  "title": "Chivalric Blossom",
+  "description": "Seorang pelayan yang bekerja di Knights of Favonius, memiliki impian untuk menjadi seorang Knight suatu hari kelak.",
+  "rarity": "4",
+  "element": "Geo",
+  "weapontype": "Claymore",
+  "substat": "DEF",
+  "gender": "Perempuan",
+  "body": "GIRL",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Knights of Favonius",
+  "birthdaymmdd": "3/21",
+  "birthday": "21 Maret",
+  "constellation": "Parma Cordis",
+  "cv": {
+    "english": "Laura Faye Smith",
+    "chinese": "宴宁",
+    "japanese": "高尾奏音",
+    "korean": "Lee Bo-hee"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Prithiva Topaz Silver",
+        "count": 1
+      },
+      {
+        "name": "Valberry",
+        "count": 3
+      },
+      {
+        "name": "Damaged Mask",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Prithiva Topaz Fragment",
+        "count": 3
+      },
+      {
+        "name": "Basalt Pillar",
+        "count": 2
+      },
+      {
+        "name": "Valberry",
+        "count": 10
+      },
+      {
+        "name": "Damaged Mask",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Prithiva Topaz Fragment",
+        "count": 6
+      },
+      {
+        "name": "Basalt Pillar",
+        "count": 4
+      },
+      {
+        "name": "Valberry",
+        "count": 20
+      },
+      {
+        "name": "Stained Mask",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Prithiva Topaz Chunk",
+        "count": 3
+      },
+      {
+        "name": "Basalt Pillar",
+        "count": 8
+      },
+      {
+        "name": "Valberry",
+        "count": 30
+      },
+      {
+        "name": "Stained Mask",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Prithiva Topaz Chunk",
+        "count": 6
+      },
+      {
+        "name": "Basalt Pillar",
+        "count": 12
+      },
+      {
+        "name": "Valberry",
+        "count": 45
+      },
+      {
+        "name": "Ominous Mask",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Prithiva Topaz Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Basalt Pillar",
+        "count": 20
+      },
+      {
+        "name": "Valberry",
+        "count": 60
+      },
+      {
+        "name": "Ominous Mask",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/9/92/Character_Noelle_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Character_Noelle_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Noel.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Noel.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200315/2020031517331523512.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200325/2020032510564718459.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/42120a5c88658419970a1e8f71d2b245.png",
+    "nameicon": "UI_AvatarIcon_Noel",
+    "nameiconcard": "UI_AvatarIcon_Noel_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Noel",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Noel",
+    "namesideicon": "UI_AvatarIcon_Side_Noel"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Noelle"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1012.0880126953125,
+      "attack": 16.02720069885254,
+      "defense": 66.9532470703125,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2600.054110405472,
+      "attack": 41.17387868706055,
+      "defense": 172.00289210674237,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3356.135653374222,
+      "attack": 53.14729883018799,
+      "defense": 222.02039393779705,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5027.092744198453,
+      "attack": 79.60820372964463,
+      "defense": 332.56019042042317,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5564.308564510953,
+      "attack": 88.11563380624375,
+      "defense": 368.0989401152474,
+      "specialized": 0.07500000298023224
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6400.293479202606,
+      "attack": 101.3541050072754,
+      "defense": 423.40233649808215,
+      "specialized": 0.07500000298023224
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7116.581320999481,
+      "attack": 112.6973438378418,
+      "defense": 470.7873386343126,
+      "specialized": 0.15000000596046448
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7952.566235691134,
+      "attack": 125.93581503887344,
+      "defense": 526.0907350171474,
+      "specialized": 0.15000000596046448
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8489.782056003634,
+      "attack": 134.44324606914688,
+      "defense": 561.6294770825771,
+      "specialized": 0.15000000596046448
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9324.754473436798,
+      "attack": 147.6656835887543,
+      "defense": 616.8658931452665,
+      "specialized": 0.15000000596046448
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 9861.970293749298,
+      "attack": 156.17311461902773,
+      "defense": 652.4046504694852,
+      "specialized": 0.22499999403953552
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 10697.95472583978,
+      "attack": 169.41157817769454,
+      "defense": 707.7080149265239,
+      "specialized": 0.22499999403953552
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11235.17054615228,
+      "attack": 177.9190053932707,
+      "defense": 743.2467569919536,
+      "specialized": 0.30000001192092896
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12071.155460843933,
+      "attack": 191.15747659430235,
+      "defense": 798.5501533747884,
+      "specialized": 0.30000001192092896
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "I Got Your Back",
+      "effect": "Saat **Sweeping Time** dan **Breastplate** aktif bersamaan, serangan memiliki 100% persentase untuk memicu efek pemulihan."
+    },
+    "c2": {
+      "name": "Combat Maid",
+      "effect": "Mengurangi 20% konsumsi stamina Charged Attack dan meningkatkan 15% DMG Charged Attack Noelle."
+    },
+    "c3": {
+      "name": "Invulnerable Maid",
+      "effect": "Meningkatkan 3 level **Breastplate**.\nMaksimum: Lv. 15."
+    },
+    "c4": {
+      "name": "To Be Cleaned",
+      "effect": "**Breastplate** mengakibatkan Geo DMG sebesar 400% ATK ke musuh di sekitar saat hancur atau saat durasi selesai."
+    },
+    "c5": {
+      "name": "Favonius Sweeper Master",
+      "effect": "Meningkatkan 3 level **Sweeping Time**.\nMaksimum: Lv. 15."
+    },
+    "c6": {
+      "name": "Must Be Spotless",
+      "effect": "**Sweeping Time** meningkatkan ATK Noelle dengan tambahan 50% dari DEF Noelle.\nDurasi skill meningkat 1 detik setiap mengalahkan musuh saat skill masih aktif, hingga 10 detik."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Noel_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Noel_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Noel_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Noel_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Noel_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Noel_04.png",
+      "constellation": "Eff_UI_Talent_Noel"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Noelle",
+    "combat1": {
+      "name": "Normal Attack: Favonius Bladework - Maid",
+      "info": "**Normal Attack** Melancarkan hingga 4 tebasan berturut-turut.\n\n**Charged Attack**\nTerus menguras Stamina untuk melancarkan serangan berputar yang mengakibatkan DMG ke musuh di sekitar.\nDiakhiri dengan sebuah tebasan yang kuat.\n\n**Plunging Attack**\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "attributes": [
+        {
+          "name": "DMG Tahap 1",
+          "parameters": [
+            "79.12%",
+            "85.56%",
+            "92.00%",
+            "101.20%",
+            "107.64%",
+            "115.00%",
+            "125.12%",
+            "135.24%",
+            "145.36%",
+            "156.40%",
+            "167.44%",
+            "178.48%",
+            "189.52%",
+            "200.56%",
+            "211.60%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 2",
+          "parameters": [
+            "73.36%",
+            "79.33%",
+            "85.30%",
+            "93.83%",
+            "99.80%",
+            "106.62%",
+            "116.01%",
+            "125.39%",
+            "134.77%",
+            "145.01%",
+            "155.25%",
+            "165.48%",
+            "175.72%",
+            "185.95%",
+            "196.19%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 3",
+          "parameters": [
+            "86.26%",
+            "93.28%",
+            "100.30%",
+            "110.33%",
+            "117.35%",
+            "125.37%",
+            "136.41%",
+            "147.44%",
+            "158.47%",
+            "170.51%",
+            "182.55%",
+            "194.58%",
+            "206.62%",
+            "218.65%",
+            "230.69%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 4",
+          "parameters": [
+            "113.43%",
+            "122.67%",
+            "131.90%",
+            "145.09%",
+            "154.32%",
+            "164.87%",
+            "179.38%",
+            "193.89%",
+            "208.40%",
+            "224.23%",
+            "240.06%",
+            "255.89%",
+            "271.71%",
+            "287.54%",
+            "303.37%"
+          ]
+        },
+        {
+          "name": "DMG Berputar Charged Attack",
+          "parameters": [
+            "50.74%",
+            "54.87%",
+            "59.00%",
+            "64.90%",
+            "69.03%",
+            "73.75%",
+            "80.24%",
+            "86.73%",
+            "93.22%",
+            "100.30%",
+            "107.38%",
+            "114.46%",
+            "121.54%",
+            "128.62%",
+            "135.70%"
+          ]
+        },
+        {
+          "name": "DMG Akhir Charged Attack",
+          "parameters": [
+            "90.47%",
+            "97.84%",
+            "105.20%",
+            "115.72%",
+            "123.08%",
+            "131.50%",
+            "143.07%",
+            "154.64%",
+            "166.22%",
+            "178.84%",
+            "191.46%",
+            "204.09%",
+            "216.71%",
+            "229.34%",
+            "241.96%"
+          ]
+        },
+        {
+          "name": "Konsumsi Stamina Charged Attack",
+          "parameters": [
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk"
+          ]
+        },
+        {
+          "name": "Durasi Maksimum",
+          "parameters": [
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik"
+          ]
+        },
+        {
+          "name": "DMG Selama Plunging",
+          "parameters": [
+            "74.59%",
+            "80.66%",
+            "86.73%",
+            "95.40%",
+            "101.47%",
+            "108.41%",
+            "117.95%",
+            "127.49%",
+            "137.03%",
+            "147.44%",
+            "157.85%",
+            "168.26%",
+            "178.66%",
+            "189.07%",
+            "199.48%"
+          ]
+        },
+        {
+          "name": "DMG Plunging Attack Min./Maks.",
+          "parameters": [
+            "149.14%/186.29%",
+            "161.28%/201.45%",
+            "173.42%/216.62%",
+            "190.77%/238.28%",
+            "202.91%/253.44%",
+            "216.78%/270.77%",
+            "235.86%/294.60%",
+            "254.93%/318.42%",
+            "274.01%/342.25%",
+            "294.82%/368.25%",
+            "315.63%/394.24%",
+            "336.44%/420.23%",
+            "357.25%/446.23%",
+            "378.06%/472.22%",
+            "398.87%/498.21%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Breastplate",
+      "info": "Menciptakan zirah batu yang mengakibatkan Geo DMG pada musuh di sekitar dan membentuk perisai. DMG yang ditahan perisai berdasarkan DEF Noelle.\nPerisainya memiliki ciri-ciri berikut:\n·Saat Normal dan Charged Attack Noelle mengenai target, berkemungkinan memulihkan HP untuk semua karakter.\n·Memiliki 150% Efisiensi Penahanan DMG terhadap semua Elemental dan Physical DMG.\n\nJumlah HP yang dipulihkan meningkat berdasarkan DEF Noelle.",
+      "description": "Noelle adalah seorang pelayan yang sangat sigap, dan juga seorang Knight yang sangat gagah.",
+      "attributes": [
+        {
+          "name": "DMG Skill",
+          "parameters": [
+            "120.00% DEF",
+            "129.00% DEF",
+            "138.00% DEF",
+            "150.00% DEF",
+            "159.00% DEF",
+            "168.00% DEF",
+            "180.00% DEF",
+            "192.00% DEF",
+            "204.00% DEF",
+            "216.00% DEF",
+            "228.00% DEF",
+            "240.00% DEF",
+            "255.00% DEF",
+            "270.00% DEF",
+            "285.00% DEF"
+          ]
+        },
+        {
+          "name": "Penahanan DMG",
+          "parameters": [
+            "160.00% DEF+770",
+            "172.00% DEF+847",
+            "184.00% DEF+930",
+            "200.00% DEF+1020",
+            "212.00% DEF+1116",
+            "224.00% DEF+1219",
+            "240.00% DEF+1328",
+            "256.00% DEF+1443",
+            "272.00% DEF+1565",
+            "288.00% DEF+1694",
+            "304.00% DEF+1828",
+            "320.00% DEF+1970",
+            "340.00% DEF+2117",
+            "360.00% DEF+2271",
+            "380.00% DEF+2431"
+          ]
+        },
+        {
+          "name": "Pemulihan HP",
+          "parameters": [
+            "21.28% DEF + 103",
+            "22.88% DEF + 113",
+            "24.47% DEF + 124",
+            "26.60% DEF + 136",
+            "28.20% DEF + 149",
+            "29.79% DEF + 163",
+            "31.92% DEF + 177",
+            "34.05% DEF + 193",
+            "36.18% DEF + 209",
+            "38.30% DEF + 226",
+            "40.43% DEF + 244",
+            "42.56% DEF + 263",
+            "45.22% DEF + 282",
+            "47.88% DEF + 303",
+            "50.54% DEF + 324"
+          ]
+        },
+        {
+          "name": "Persentase Pemulihan Terpicu",
+          "parameters": [
+            "50.00%",
+            "51.00%",
+            "52.00%",
+            "53.00%",
+            "54.00%",
+            "55.00%",
+            "56.00%",
+            "57.00%",
+            "58.00%",
+            "59.00%",
+            "59.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%"
+          ]
+        },
+        {
+          "name": "Durasi",
+          "parameters": [
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik"
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "parameters": [
+            "24 detik",
+            "24 detik",
+            "24 detik",
+            "24 detik",
+            "24 detik",
+            "24 detik",
+            "24 detik",
+            "24 detik",
+            "24 detik",
+            "24 detik",
+            "24 detik",
+            "24 detik",
+            "24 detik",
+            "24 detik",
+            "24 detik"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Sweeping Time",
+      "info": "Mengumpulkan kekuatan Geo di sekitar senjatanya, Noelle menghantam musuh di sekitarnya dengan serangan dalam area besar, mengakibatkan Geo DMG.\nSetelahnya, Noelle mendapatkan efek berikut:\n·Serangan area yang lebih besar.\n·Mengonversi serangan menjadi Geo DMG, konversi ini tidak bisa ditimpa oleh Elemental Infusion lainnya.\n·Peningkatan ATK yang meningkat berdasarkan DEF dia.",
+      "description": "Terkadang, bukan hanya debu yang harus dibersihkan...",
+      "attributes": [
+        {
+          "name": "DMG Elemental Burst",
+          "parameters": [
+            "67.20%",
+            "72.24%",
+            "77.28%",
+            "84.00%",
+            "89.04%",
+            "94.08%",
+            "100.80%",
+            "107.52%",
+            "114.24%",
+            "120.96%",
+            "127.68%",
+            "134.40%",
+            "142.80%",
+            "151.20%",
+            "159.60%"
+          ]
+        },
+        {
+          "name": "DMG Skill",
+          "parameters": [
+            "92.80%",
+            "99.76%",
+            "106.72%",
+            "116.00%",
+            "122.96%",
+            "129.92%",
+            "139.20%",
+            "148.48%",
+            "157.76%",
+            "167.04%",
+            "176.32%",
+            "185.60%",
+            "197.20%",
+            "208.80%",
+            "220.40%"
+          ]
+        },
+        {
+          "name": "Peningkatan ATK",
+          "parameters": [
+            "40.00% DEF",
+            "43.00% DEF",
+            "46.00% DEF",
+            "50.00% DEF",
+            "53.00% DEF",
+            "56.00% DEF",
+            "60.00% DEF",
+            "64.00% DEF",
+            "68.00% DEF",
+            "72.00% DEF",
+            "76.00% DEF",
+            "80.00% DEF",
+            "85.00% DEF",
+            "90.00% DEF",
+            "95.00% DEF"
+          ]
+        },
+        {
+          "name": "Durasi",
+          "parameters": [
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik"
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "parameters": [
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik"
+          ]
+        },
+        {
+          "name": "Konsumsi Energy",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Devotion",
+      "info": "Saat Noelle berada dalam party, tetapi tidak sedang bertarung, skill ini akan terpicu secara otomatis ketika HP karakter yang sedang digunakan kurang dari 30%:\nKarakter tersebut akan mendapatkan perisai yang dapat menahan DMG sebesar 400% dari DEF Noelle selama 20 detik.\nPerisai ini memiliki bonus 150% efektivitas Penahanan DMG untuk semua Elemental dan Physical DMG.\nEfek ini dapat terpicu setiap 60 detik."
+    },
+    "passive2": {
+      "name": "Nice and Clean",
+      "info": "Saat Normal Attack atau Charged Attack Noelle mengenai musuh 4 kali, CD skill **Breastplate** akan berkurang 1 detik.\nSerangan Noelle dapat dihitung sebagai 1 kali setiap 0,1 detik."
+    },
+    "passive3": {
+      "name": "Maid's Knighthood",
+      "info": "Saat masakan jenis pertahanan dimasak dengan sempurna, terdapat 12% kemungkinan mendapatkan hasil 2 kali lipat."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of \"Resistance\"",
+          "count": 3
+        },
+        {
+          "name": "Damaged Mask",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to \"Resistance\"",
+          "count": 2
+        },
+        {
+          "name": "Stained Mask",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to \"Resistance\"",
+          "count": 4
+        },
+        {
+          "name": "Stained Mask",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to \"Resistance\"",
+          "count": 6
+        },
+        {
+          "name": "Stained Mask",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to \"Resistance\"",
+          "count": 9
+        },
+        {
+          "name": "Stained Mask",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of \"Resistance\"",
+          "count": 4
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 4
+        },
+        {
+          "name": "Dvalin's Claw",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of \"Resistance\"",
+          "count": 6
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 6
+        },
+        {
+          "name": "Dvalin's Claw",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of \"Resistance\"",
+          "count": 12
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 9
+        },
+        {
+          "name": "Dvalin's Claw",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of \"Resistance\"",
+          "count": 16
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 12
+        },
+        {
+          "name": "Dvalin's Claw",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Noel_01",
+      "combat3": "Skill_E_Noel_01_HD",
+      "passive1": "UI_Talent_S_Noel_05",
+      "passive2": "UI_Talent_S_Noel_06",
+      "passive3": "UI_Talent_Cook_Defense"
+    },
+    "version": "1.0"
+  }
+}

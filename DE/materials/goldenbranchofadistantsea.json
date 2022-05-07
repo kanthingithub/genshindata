@@ -1,0 +1,26 @@
+{
+  "name": "Goldzweig eines fernen Meeres",
+  "description": "Waffenaufstiegsmaterial.\nDie Bedeutung, die sich hinter dem Namen „Watatsumi“ verbirgt, ist einfach die unerfüllte Hoffnung, die das verlassene Volk, das in der Tiefsee lebte, an den Schlangengott, der sie führte, knüpfte.\nUnd weil der Schlangengott nun Menschen hatte, die ihn anbeteten, blieb er in der Welt, aus der er längst hätte fliehen sollen, brach die Korallenäste ab, die seinen Körper schmückten, betrat Land, wo er es nicht hätte tun sollen, und sah sich einem Feind gegenüber, dem er niemals gewachsen sein konnte – bis schließlich seine göttliche Form zusammen mit den Bergen zerbrach, sein Blut sich in Plasma verwandelte und sein Wille und seine Macht zu einem Gift wurden, das niemals ausgelöscht werden konnte.",
+  "sortorder": 2210,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zum Aufstieg von Waffen",
+  "dropdomain": "Sphäre der Kriegskunst: Spuren aus der Tiefe",
+  "daysofweek": [
+    "Montag",
+    "Donnerstag",
+    "Sonntag"
+  ],
+  "source": [
+    "Kann hergestellt werden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Golden_Branch_of_a_Distant_Sea.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Item_Golden_Branch_of_a_Distant_Sea.png",
+    "nameicon": "UI_ItemIcon_114028"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Golden_Branch_of_a_Distant_Sea"
+  },
+  "version": ""
+}

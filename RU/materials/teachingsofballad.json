@@ -1,0 +1,24 @@
+{
+  "name": "Учения о «Поэзии»",
+  "description": "Материал повышения таланта.\nПоэзия - это душа царства ветров.\nПоэзия - это проявление прекрасных чувств. Приятным летним днём ветер несёт слова песен и стихов, которые касаются людских сердец, как ветер, ласкающий листья деревьев.",
+  "sortorder": 1857,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Повышение талантов",
+  "dropdomain": "Мастерство: Царство снов",
+  "daysofweek": [
+    "Среда",
+    "Суббота",
+    "Воскресенье"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Ballad.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Item_Teachings_of_Ballad.png",
+    "nameicon": "UI_ItemIcon_104307"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Ballad"
+  },
+  "version": ""
+}

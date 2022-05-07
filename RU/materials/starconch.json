@@ -1,0 +1,19 @@
+{
+  "name": "Звёздная ракушка",
+  "description": "Пустая ракушка, которую принесло на берег с приливом. Приложите её к уху - и вы услышите зов тоскующего моря.",
+  "sortorder": 2053,
+  "category": "EXCHANGE",
+  "materialtype": "Диковина Ли Юэ",
+  "source": [
+    "На побережьях Ли Юэ"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Starconch.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Starconch.png",
+    "nameicon": "UI_ItemIcon_100033"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Starconch"
+  },
+  "version": ""
+}

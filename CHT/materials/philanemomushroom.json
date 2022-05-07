@@ -1,0 +1,19 @@
+{
+  "name": "慕風蘑菇",
+  "description": "沐浴著和煦的風而生長的菌類，與風一樣生生不息，滋養生命。",
+  "sortorder": 2040,
+  "category": "EXCHANGE",
+  "materialtype": "蒙德區域特產",
+  "source": [
+    "屋簷下採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philanemo_Mushroom.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Philanemo_Mushroom.png",
+    "nameicon": "UI_ItemIcon_100025"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philanemo_Mushroom"
+  },
+  "version": ""
+}

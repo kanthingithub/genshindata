@@ -1,0 +1,20 @@
+{
+  "name": "Шаман льда",
+  "rarity": [
+    "3",
+    "4"
+  ],
+  "1pc": "Уменьшает длительность полученного Крио эффекта на 40%.",
+  "circlet": {
+    "name": "Тиара холода",
+    "relictype": "Корона разума",
+    "description": "Ритуальный головной убор того, кому в древние времена доверяли церемонию жертвоприношения. Он обладает высоким сопротивлением к холоду благодаря годам пронзающего обледенения."
+  },
+  "images": {
+    "circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15013_3.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Prayers_to_Springtime"
+  },
+  "version": "1.0"
+}

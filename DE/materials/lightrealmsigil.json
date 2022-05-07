@@ -1,0 +1,18 @@
+{
+  "name": "Siegel der Lichtwelt",
+  "description": "Ein Zeichen, das die Anerkennung von Tokoyo Ookami von Enkanomiya symbolisiert.\nEs kann der Statue der Boten geopfert werden, wodurch die Stufe des Bokuso-Kastens erhöht wird.",
+  "sortorder": 1217,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "Verbrauchsgegenstand",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_101692",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Light_Realm_Sigil.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Item_Light_Realm_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Light_Realm_Sigil"
+  },
+  "version": ""
+}

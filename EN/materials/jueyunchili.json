@@ -1,0 +1,20 @@
+{
+  "name": "Jueyun Chili",
+  "description": "A spicy plant native to Liyue. Merely smelling it makes one hot and thirsty.",
+  "sortorder": 2048,
+  "category": "EXCHANGE",
+  "materialtype": "Local Specialty (Liyue)",
+  "source": [
+    "Found in the wild",
+    "Recommendation: Found in Qingce Village"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Jueyun_Chili.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/13/Item_Jueyun_Chili.png",
+    "nameicon": "UI_ItemIcon_100027"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Jueyun_Chili"
+  },
+  "version": ""
+}

@@ -1,0 +1,871 @@
+{
+  "name": "Gorou",
+  "fullname": "Gorou",
+  "title": "Hundekrieger",
+  "description": "Der große General der Streitkräfte von Watatsumi, dessen Untergebene ihm voll und ganz vertrauen.",
+  "rarity": "4",
+  "element": "Geo",
+  "weapontype": "Bogen",
+  "substat": "Geo-SCH-Bonus",
+  "gender": "Männlich",
+  "body": "BOY",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "Watatsumi",
+  "birthdaymmdd": "5/18",
+  "birthday": "18. Mai",
+  "constellation": "Canis Bellatoris",
+  "cv": {
+    "english": "Cory Yee",
+    "chinese": "杨昕燃",
+    "japanese": "畠中祐",
+    "korean": "Lee Sae-byeok"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Prithiva-Topas-Splitter",
+        "count": 1
+      },
+      {
+        "name": "Sango-Perle",
+        "count": 3
+      },
+      {
+        "name": "Geisterhülle",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Prithiva-Topas-Bruchstück",
+        "count": 3
+      },
+      {
+        "name": "Ewiges Herz",
+        "count": 2
+      },
+      {
+        "name": "Sango-Perle",
+        "count": 10
+      },
+      {
+        "name": "Geisterhülle",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Prithiva-Topas-Bruchstück",
+        "count": 6
+      },
+      {
+        "name": "Ewiges Herz",
+        "count": 4
+      },
+      {
+        "name": "Sango-Perle",
+        "count": 20
+      },
+      {
+        "name": "Gespensterherz",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Prithiva-Topas-Brocken",
+        "count": 3
+      },
+      {
+        "name": "Ewiges Herz",
+        "count": 8
+      },
+      {
+        "name": "Sango-Perle",
+        "count": 30
+      },
+      {
+        "name": "Gespensterherz",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Prithiva-Topas-Brocken",
+        "count": 6
+      },
+      {
+        "name": "Ewiges Herz",
+        "count": 12
+      },
+      {
+        "name": "Sango-Perle",
+        "count": 45
+      },
+      {
+        "name": "Gespensterkern",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Prithiva-Topas",
+        "count": 6
+      },
+      {
+        "name": "Ewiges Herz",
+        "count": 20
+      },
+      {
+        "name": "Sango-Perle",
+        "count": 60
+      },
+      {
+        "name": "Gespensterkern",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_AvatarIcon_Gorou",
+    "nameiconcard": "UI_AvatarIcon_Gorou_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Gorou",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Gorou",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Gorou.png",
+    "namesideicon": "UI_AvatarIcon_Side_Gorou",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Gorou.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211203/2021120311003437183.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211203/2021120311003943402.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Gorou"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 802.3760986328125,
+      "attack": 15.31488037109375,
+      "defense": 54.36375045776367,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2061.304201978928,
+      "attack": 39.34392776097229,
+      "defense": 139.66047523706675,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2660.720217603928,
+      "attack": 50.78519572819641,
+      "defense": 180.2729744741273,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 3985.4429835102637,
+      "attack": 76.07005992004997,
+      "defense": 270.0275147628545,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4411.343862416514,
+      "attack": 84.19938101837761,
+      "defense": 298.88376552579393,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5074.106691293244,
+      "attack": 96.84947547651245,
+      "defense": 343.78823501725674,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5641.974489144806,
+      "attack": 107.68857154584839,
+      "defense": 382.26323349137783,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6304.737318021536,
+      "attack": 120.33866600398323,
+      "defense": 427.16770298284064,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6730.638196927786,
+      "attack": 128.46798996333382,
+      "defense": 456.02395756047736,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7392.598325258761,
+      "attack": 141.10276334840455,
+      "defense": 500.8740413190699,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7818.499082094699,
+      "attack": 149.2320854004065,
+      "defense": 529.7302882673121,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8481.26152836869,
+      "attack": 161.88217255583731,
+      "defense": 574.6347318361186,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 8907.16240727494,
+      "attack": 170.01149460783927,
+      "defense": 603.4909787843608,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9569.92523615167,
+      "attack": 182.6615890659741,
+      "defense": 648.3954482758236,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "2.3",
+  "constellations": {
+    "c1": {
+      "name": "Laufender Hund – Schnell wie der Wind",
+      "effect": "Verkürzt, wenn aktuelle Figuren (außer Gorou selbst) im Wirkungsbereich von Gorous **Generalbanner** oder **Würde des Generals** Gegnern Geo-Schaden zufügen, die Abklingzeit von Gorous **Inuzuka-Allzweckaufstellung** um 2 s.\n10 s Abklingzeit."
+    },
+    "c2": {
+      "name": "Sitzender Hund – Verlässlich wie eine Uhr",
+      "effect": "Verlängert die Wirkungsdauer von Gorous **Würde des Generals** beim Erhalten von durch Kristallisationsreaktionen entstehenden Splittern durch aktuelle Figuren in der Nähe während der Wirkungsdauer von Würde des Generals um 1 s.\n0,1 s Abklingzeit, verlängert die Wirkungsdauer auf diese Weise um bis zu 3 s."
+    },
+    "c3": {
+      "name": "Bellender Hund – Fauchend wie Feuer",
+      "effect": "Erhöht die Stufe der Fähigkeit **Inuzuka-Allzweckaufstellung** um 3.\nHöchststufe 15."
+    },
+    "c4": {
+      "name": "Schleckender Hund – Warm wie Wasser",
+      "effect": "Stellt, wenn die Effekte „Unbeirrbarkeit“ oder „Trümmer“ für **Würde des Generals** aktiv sind, allen aktuellen Figuren im Wirkungsbereich alle 1,5 s LP in Höhe von 50 % von Gorous VTD wieder her."
+    },
+    "c5": {
+      "name": "Aufspringender Hund – Aufgebracht wie Donner",
+      "effect": "Erhöht die Stufe der Fähigkeit **Juuga – Vorwärts zum Sieg** um 3.\nHöchststufe 15."
+    },
+    "c6": {
+      "name": "Mutiger Hund – Treu wie Berg",
+      "effect": "Erhöht bei Anwendung von **Inuzuka-Allzweckaufstellung** oder **Juuga – Vorwärts zum Sieg** den KSCH des Geo-Schadens aller Truppenmitglieder in der Nähe gemäß der Stufe des Wirkungsbereichs zur Zeit der Anwendung 12 s lang:\n· „Zähigkeit“: 10 % Bonus\n· „Unbeirrbarkeit“: 20 % Bonus\n· „Trümmer“: 40 % Bonus\n\nDieser Effekt ist nicht stapelbar und richtet sich nach dem zuletzt in Kraft getretenen Effekt."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Gorou_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Gorou_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Gorou_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Gorou_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Gorou_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Gorou_04.png",
+      "constellation": "Eff_UI_Talent_Gorou"
+    },
+    "version": "2.3"
+  },
+  "talent": {
+    "name": "Gorou",
+    "combat1": {
+      "name": "Standardangriff: Gefletschte Zähne",
+      "info": "**Standardangriff**\nFührt bis zu 4 Pfeilschüsse hintereinander aus.\n\n**Heftiger Schlag**\nFührt einen **gezielten Schuss** mit höherem Schaden und höherer Genauigkeit aus.\nKonzentriert die Steinkristalle während des Zielens an der Pfeilspitze, die voll aufgeladen Geo-Schaden verursacht.\n\n**Angriff aus dem Fall**\nSchießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden.",
+      "attributes": [
+        {
+          "name": "SCH Phase 1",
+          "parameters": [
+            "37.75%",
+            "40.83%",
+            "43.90%",
+            "48.29%",
+            "51.36%",
+            "54.87%",
+            "59.70%",
+            "64.53%",
+            "69.36%",
+            "74.63%",
+            "79.90%",
+            "85.17%",
+            "90.43%",
+            "95.70%",
+            "100.97%"
+          ]
+        },
+        {
+          "name": "SCH Phase 2",
+          "parameters": [
+            "37.15%",
+            "40.18%",
+            "43.20%",
+            "47.52%",
+            "50.54%",
+            "54.00%",
+            "58.75%",
+            "63.50%",
+            "68.26%",
+            "73.44%",
+            "78.62%",
+            "83.81%",
+            "88.99%",
+            "94.18%",
+            "99.36%"
+          ]
+        },
+        {
+          "name": "SCH Phase 3",
+          "parameters": [
+            "49.45%",
+            "53.47%",
+            "57.50%",
+            "63.25%",
+            "67.27%",
+            "71.88%",
+            "78.20%",
+            "84.53%",
+            "90.85%",
+            "97.75%",
+            "104.65%",
+            "111.55%",
+            "118.45%",
+            "125.35%",
+            "132.25%"
+          ]
+        },
+        {
+          "name": "SCH Phase 4",
+          "parameters": [
+            "59.00%",
+            "63.80%",
+            "68.60%",
+            "75.46%",
+            "80.26%",
+            "85.75%",
+            "93.30%",
+            "100.84%",
+            "108.39%",
+            "116.62%",
+            "124.85%",
+            "133.08%",
+            "141.32%",
+            "149.55%",
+            "157.78%"
+          ]
+        },
+        {
+          "name": "Gezielte Schüsse",
+          "parameters": [
+            "43.86%",
+            "47.43%",
+            "51.00%",
+            "56.10%",
+            "59.67%",
+            "63.75%",
+            "69.36%",
+            "74.97%",
+            "80.58%",
+            "86.70%",
+            "92.82%",
+            "98.94%",
+            "105.06%",
+            "111.18%",
+            "117.30%"
+          ]
+        },
+        {
+          "name": "Voll aufgeladene gezielte Schüsse",
+          "parameters": [
+            "124.00%",
+            "133.30%",
+            "142.60%",
+            "155.00%",
+            "164.30%",
+            "173.60%",
+            "186.00%",
+            "198.40%",
+            "210.80%",
+            "223.20%",
+            "235.60%",
+            "248.00%",
+            "263.50%",
+            "279.00%",
+            "294.50%"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen aus niedriger/großer Höhe",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Inuzuka-Allzweckaufstellung",
+      "info": "Verursacht Geo-Flächenschaden und stellt ein Generalbanner auf.\n\n**Generalbanner**\nVerleiht den aktuellen Figuren im Wirkungsbereich gemäß der Anzahl an Figuren in der Truppe mit dem Geo-Element zum Zeitpunkt der Anwendung folgende Effekte:\n· 1 Figur: „Zähigkeit“, erhöht die VTD.\n· 2 Figuren: „Unbeirrbarkeit“, verleiht den obigen Effekt und erhöht den Unterbrechungs-WDS.\n· 3 Figuren: „Trümmer“, verleiht die obigen Effekte und erhöht den Geo-Schaden.\n\nZu einem Zeitpunkt kann nur ein von Gorou selbst erschaffenes Generalbanner existieren. Figuren können nur die Boni eines einzigen Generalbanners erhalten. Der Effekt innerhalb des Wirkungsbereichs bleibt für Figuren bis 2 s nach dem Verlassen des Wirkungsbereichs bestehen.\n\n**Gedrückt halten**\nWirkungsbereich der Fähigkeit kann angepasst werden.",
+      "description": "„Wir müssen nur diese Formation einnehmen und wir werden in Sicherheit sein!“ Als General und Truppenführer ist das Letzte, was Gorou will, dass diejenigen verletzt werden, die ihm folgen.",
+      "attributes": [
+        {
+          "name": "Fähigkeits-SCH",
+          "parameters": [
+            "107.20%",
+            "115.24%",
+            "123.28%",
+            "134.00%",
+            "142.04%",
+            "150.08%",
+            "160.80%",
+            "171.52%",
+            "182.24%",
+            "192.96%",
+            "203.68%",
+            "214.40%",
+            "227.80%",
+            "241.20%",
+            "254.60%"
+          ]
+        },
+        {
+          "name": "VTD-Bonus",
+          "parameters": [
+            "206",
+            "222",
+            "237",
+            "258",
+            "273",
+            "289",
+            "309",
+            "330",
+            "350",
+            "371",
+            "392",
+            "412",
+            "438",
+            "464",
+            "490"
+          ]
+        },
+        {
+          "name": "Geo-SCH-Bonus",
+          "parameters": [
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%"
+          ]
+        },
+        {
+          "name": "Dauer",
+          "parameters": [
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s"
+          ]
+        },
+        {
+          "name": "Abklingzeit",
+          "parameters": [
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Juuga – Vorwärts zum Sieg",
+      "info": "Gorou zeigt seine Macht als General, verursacht Geo-Flächenschaden und erstellt ein Feld der „Würde des Generals“, um seine Kameraden zu ermuntern.\n\n**Würde des Generals**\nMerkmale:\n· Das Feld verleiht aktuellen Figuren im Wirkungsbereich gemäß der Anzahl an Figuren in der Truppe mit dem Geo-Element die gleichen Effekte wie das Generalbanner der Elementarfähigkeit „Inuzuka-Allzweckaufstellung“ und folgt den Bewegungen der aktuellen Figur.\n· Erschafft alle 1,5 s einen Kristallzusammenbruch, der einem Gegner im Wirkungsbereich Geo-Flächenschaden zufügt.\n· Zieht alle 1,5 s 1 durch Kristallisationsreaktionen entstehenden Splitter im Wirkungsbereich zur Position der aktuellen Figur.\n\nZerstört, wenn ein von Gorou selbst erschaffenes Generalbanner bei der Anwendung dieser Fähigkeit vorhanden ist, dieses Generalbanner. Erschafft kein Generalbanner, wenn Gorou selbst während der Wirkungsdauer von Würde des Generals seine Elementarfähigkeit „Inuzuka-Allzweckaufstellung“ anwendet.\nDer Effekt von Würde des Generals, den Gorou selbst geschaffen hat, erlischt, wenn Gorou ohnmächtig wird.",
+      "description": "„Das Terrain ist uns zum Vorteil!“ Gorou kann das Terrain des Schlachtfelds ein wenig verändern, um den Sieg zu erlangen. Diese einzigartige Technik hat ihn schon durch viele Kämpfe gegen mächtige Feinde gebracht.",
+      "attributes": [
+        {
+          "name": "Fähigkeits-SCH",
+          "parameters": [
+            "98.22% VTD",
+            "105.58% VTD",
+            "112.95% VTD",
+            "122.77% VTD",
+            "130.14% VTD",
+            "137.50% VTD",
+            "147.32% VTD",
+            "157.15% VTD",
+            "166.97% VTD",
+            "176.79% VTD",
+            "186.61% VTD",
+            "196.43% VTD",
+            "208.71% VTD",
+            "220.99% VTD",
+            "233.26% VTD"
+          ]
+        },
+        {
+          "name": "Kristallzusammenbruch-SCH",
+          "parameters": [
+            "61.30% VTD",
+            "65.90% VTD",
+            "70.49% VTD",
+            "76.63% VTD",
+            "81.22% VTD",
+            "85.82% VTD",
+            "91.95% VTD",
+            "98.08% VTD",
+            "104.21% VTD",
+            "110.34% VTD",
+            "116.47% VTD",
+            "122.60% VTD",
+            "130.26% VTD",
+            "137.93% VTD",
+            "145.59% VTD"
+          ]
+        },
+        {
+          "name": "Dauer",
+          "parameters": [
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s"
+          ]
+        },
+        {
+          "name": "Abklingzeit",
+          "parameters": [
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s"
+          ]
+        },
+        {
+          "name": "Elementarenergie",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Bei Wind und Regen",
+      "info": "Erhöht bei Anwendung von **Juuga – Vorwärts zum Sieg** die VTD aller Truppenmitglieder in der Nähe 12 s lang um 25 %."
+    },
+    "passive2": {
+      "name": "Unvergessene Dankbarkeit",
+      "info": "Erhöht den mit folgenden Angriffen von Gorou verursachten Schaden basierend auf seiner VTD:\n· Erhöht den Schaden der Fähigkeit **Inuzuka-Allzweckaufstellung** um 156 % der VTD.\n· Erhöht den Schaden der Fähigkeit **Juuga – Vorwärts zum Sieg** sowie den Schaden von Kristallzusammenbruch um 15,6 % der VTD."
+    },
+    "passive3": {
+      "name": "Gespür für Geglitzer",
+      "info": "Zeigt alle **Besonderheiten Inazumas** in der Nähe auf der Minikarte an."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Lehren des „Lichts“",
+          "count": 3
+        },
+        {
+          "name": "Geisterhülle",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Anleitung zum „Licht“",
+          "count": 2
+        },
+        {
+          "name": "Gespensterherz",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Anleitung zum „Licht“",
+          "count": 4
+        },
+        {
+          "name": "Gespensterherz",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Anleitung zum „Licht“",
+          "count": 6
+        },
+        {
+          "name": "Gespensterherz",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Anleitung zum „Licht“",
+          "count": 9
+        },
+        {
+          "name": "Gespensterherz",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie des „Lichts“",
+          "count": 4
+        },
+        {
+          "name": "Gespensterkern",
+          "count": 4
+        },
+        {
+          "name": "Moment der Kernschmelze",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie des „Lichts“",
+          "count": 6
+        },
+        {
+          "name": "Gespensterkern",
+          "count": 6
+        },
+        {
+          "name": "Moment der Kernschmelze",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie des „Lichts“",
+          "count": 12
+        },
+        {
+          "name": "Gespensterkern",
+          "count": 9
+        },
+        {
+          "name": "Moment der Kernschmelze",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie des „Lichts“",
+          "count": 16
+        },
+        {
+          "name": "Gespensterkern",
+          "count": 12
+        },
+        {
+          "name": "Moment der Kernschmelze",
+          "count": 2
+        },
+        {
+          "name": "Krone der Weisheit",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_02",
+      "combat2": "Skill_S_Gorou_01",
+      "combat3": "Skill_E_Gorou_01_HD",
+      "passive1": "UI_Talent_S_Gorou_05",
+      "passive2": "UI_Talent_S_Gorou_06",
+      "passive3": "UI_Talent_S_Gorou_07"
+    },
+    "version": "2.3"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Philosophie des „Widerstands“",
+  "description": "Material zum Verbessern von Talenten.\nWiderstand ist Stütze des Reiches des Windes.\nDie Geschichte von Mondstadt ist die des Widerstands. Der Widerstand Mondstadts wird in Liedern besungen werden. Der Wind wird ihn so bis in ferne Gegenden tragen.",
+  "sortorder": 1856,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Talenten",
+  "dropdomain": "Sphäre des Verständnisses: Abgrund voller Eis",
+  "daysofweek": [
+    "Dienstag",
+    "Freitag",
+    "Sonntag"
+  ],
+  "source": [
+    "Kann hergestellt werden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Resistance.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Philosophies_of_Resistance.png",
+    "nameicon": "UI_ItemIcon_104306"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Resistance"
+  },
+  "version": ""
+}

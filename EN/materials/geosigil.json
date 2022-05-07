@@ -1,0 +1,20 @@
+{
+  "name": "Geo Sigil",
+  "description": "An insignia that shows the recognition of the cliffs of Liyue.\nCan be exchanged for special items in Liyue.",
+  "sortorder": 506,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "City States Sigil",
+  "source": [
+    "Liyue Exploration Reward"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_307",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Geo_Sigil.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Item_Geo_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Geo_Sigil"
+  },
+  "version": ""
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Philosophies of \"Ballad\"",
+  "description": "Material Penguatan Talenta.\nPuisi adalah jiwa dari Kerajaan Angin.\nPuisi muncul dari keinginan untuk menyebar kata-kata. Meski tidak ada yang abadi, meski semua akan berubah, puisi angin masih akan menyebar ke langit, daratan, dan lautan di seluruh penjuru dunia.",
+  "sortorder": 1859,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Talenta",
+  "dropdomain": "Domain of Mastery: Kerajaan Mimpi",
+  "daysofweek": [
+    "Rabu",
+    "Sabtu",
+    "Minggu"
+  ],
+  "source": [
+    "Didapatkan melalui Craft"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Ballad.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Item_Philosophies_of_Ballad.png",
+    "nameicon": "UI_ItemIcon_104309"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Ballad"
+  },
+  "version": ""
+}

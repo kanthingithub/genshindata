@@ -1,0 +1,20 @@
+{
+  "name": "Naku-Kraut",
+  "description": "Selbst an windstillen Tagen zittert diese Pflanze leicht inmitten von Donnerschlägen. Der Teil der Pflanze, der den Blütenblättern ähnelt, sind in Wirklichkeit Verlängerungen der Blätter, die die zerbrechliche Blüte schützen sollen.",
+  "sortorder": 2064,
+  "category": "EXCHANGE",
+  "materialtype": "Regionale Besonderheit von Inazuma",
+  "source": [
+    "In der freien Natur zu finden",
+    "Empfohlen: In Tatarasuna zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Naku_Weed.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Item_Naku_Weed.png",
+    "nameicon": "UI_ItemIcon_101205"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Naku_Weed"
+  },
+  "version": ""
+}

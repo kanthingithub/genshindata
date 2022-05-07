@@ -1,0 +1,852 @@
+{
+  "name": "Kujou Sara",
+  "fullname": "Kujou Sara",
+  "title": "Krähenfeder-Kaburaya",
+  "description": "Eine Generalin der „Tenryou-Verwaltung“, kühn, entschlossen und geschickt im Kampf.",
+  "rarity": "4",
+  "element": "Elektro",
+  "weapontype": "Bogen",
+  "substat": "ANG",
+  "gender": "Weiblich",
+  "body": "LADY",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "Tenryou-Verwaltung",
+  "birthdaymmdd": "7/14",
+  "birthday": "14. Juli",
+  "constellation": "Flabellum",
+  "cv": {
+    "english": "Jeannie Tirado",
+    "chinese": "杨梦露",
+    "japanese": "瀬戸麻沙美",
+    "korean": "Moon Ji-young"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vajrada-Amethyst-Splitter",
+        "count": 1
+      },
+      {
+        "name": "Dendrobium",
+        "count": 3
+      },
+      {
+        "name": "Zerbrochene Maske",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Vajrada-Amethyst-Bruchstück",
+        "count": 3
+      },
+      {
+        "name": "Sturmperlen",
+        "count": 2
+      },
+      {
+        "name": "Dendrobium",
+        "count": 10
+      },
+      {
+        "name": "Zerbrochene Maske",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Vajrada-Amethyst-Bruchstück",
+        "count": 6
+      },
+      {
+        "name": "Sturmperlen",
+        "count": 4
+      },
+      {
+        "name": "Dendrobium",
+        "count": 20
+      },
+      {
+        "name": "Verdreckte Maske",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Vajrada-Amethyst-Brocken",
+        "count": 3
+      },
+      {
+        "name": "Sturmperlen",
+        "count": 8
+      },
+      {
+        "name": "Dendrobium",
+        "count": 30
+      },
+      {
+        "name": "Verdreckte Maske",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Vajrada-Amethyst-Brocken",
+        "count": 6
+      },
+      {
+        "name": "Sturmperlen",
+        "count": 12
+      },
+      {
+        "name": "Dendrobium",
+        "count": 45
+      },
+      {
+        "name": "Unheilvolle Maske",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Vajrada-Amethyst",
+        "count": 6
+      },
+      {
+        "name": "Sturmperlen",
+        "count": 20
+      },
+      {
+        "name": "Dendrobium",
+        "count": 60
+      },
+      {
+        "name": "Unheilvolle Maske",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210818/2021081815224386395.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210818/2021081815224926366.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sara.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Sara.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/5ea7bdaf660c0da94ff445221daf483c.png",
+    "nameicon": "UI_AvatarIcon_Sara",
+    "nameiconcard": "UI_AvatarIcon_Sara_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Sara",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Sara",
+    "namesideicon": "UI_AvatarIcon_Side_Sara"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Kujou_Sara"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 802.3760986328125,
+      "attack": 16.383359909057617,
+      "defense": 52.64699935913086,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2061.304201978928,
+      "attack": 42.088851700115356,
+      "defense": 135.25014165485572,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2660.720217603928,
+      "attack": 54.32834793119446,
+      "defense": 174.5801434859104,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 3985.4429835102637,
+      "attack": 81.37727160993654,
+      "defense": 261.50032808080687,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4411.343862416514,
+      "attack": 90.07375522199709,
+      "defense": 289.4453277756311,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5074.106691293244,
+      "attack": 103.60641400674194,
+      "defense": 332.9317604928856,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5641.974489144806,
+      "attack": 115.20172612527222,
+      "defense": 370.19176262911606,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6304.737318021536,
+      "attack": 128.73438491001707,
+      "defense": 413.67819534637056,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6730.638196927786,
+      "attack": 137.43086852207762,
+      "defense": 441.62318741180025,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7392.598325258761,
+      "attack": 150.94713732217224,
+      "defense": 485.056951841465,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7818.499082094699,
+      "attack": 159.64362093423279,
+      "defense": 513.0019591656837,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8481.26152836869,
+      "attack": 173.17627190678286,
+      "defense": 556.4883667788927,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 8907.16240727494,
+      "attack": 181.8727555188434,
+      "defense": 584.4333588443224,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9569.92523615167,
+      "attack": 195.40541430358826,
+      "defense": 627.9197915615769,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "2.1",
+  "constellations": {
+    "c1": {
+      "name": "Krähenauge",
+      "effect": "Verkürzt beim Verleihen von ANG-Boni für Figuren oder Treffen von Gegnern durch Tengu Juurai die Abklingzeit von **Tengu-Sturmbeschwörung** um 1 s.\n3 s Abklingzeit."
+    },
+    "c2": {
+      "name": "Schwarze Flügel",
+      "effect": "Hinterlässt beim Auslösen von **Tengu-Sturmbeschwörung** eine schwächere Krähenfeder an Kujou Saras ursprünglicher Stelle, die Schaden in Höhe von 30 % des eigentlichen Schadens verursacht."
+    },
+    "c3": {
+      "name": "Innerer Dämon",
+      "effect": "Erhöht die Stufe der Fähigkeit **Unterwerfung – Koukou Sendou** um 3.\nHöchststufe 15."
+    },
+    "c4": {
+      "name": "Schlüssiger Beweis",
+      "effect": "Erschafft beim Angriff mit **Unterwerfung – Koukou Sendou** 6 Juurai – Blitzbündel."
+    },
+    "c5": {
+      "name": "Beschwörungsgesang",
+      "effect": "Erhöht die Stufe der Fähigkeit **Tengu-Sturmbeschwörung** um 3.\nHöchststufe 15."
+    },
+    "c6": {
+      "name": "Sünde des Stolzes",
+      "effect": "Erhöht den Kritischen Schaden von Elektro-SCH der Figuren mit dem ANG-Bonus von Tengu Juurai um 60 %."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sara_05.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sara_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Sara_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sara_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Sara_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sara_04.png",
+      "constellation": "Eff_UI_Talent_Sara"
+    },
+    "version": "2.1"
+  },
+  "talent": {
+    "name": "Kujou Sara",
+    "combat1": {
+      "name": "Standardangriff: Tengu-Schießkunst",
+      "info": "**Standardangriff**\nFührt bis zu 5 Pfeilschüsse hintereinander aus.\n\n**Heftiger Schlag**\nFührt einen **gezielten Schuss** mit höherem Schaden und höherer Genauigkeit aus.\nKonzentriert die Kraft der Blitze während des Zielens an der Pfeilspitze, die voll aufgeladen beim Treffen von Gegnern Elektro-Schaden verursacht.\nJeder voll aufgeladene Pfeil hinterlässt im Zustand „Krähenfederhaube“ beim Treffen von Gegnern eine „Krähenfeder“.\n\n**Angriff aus dem Fall**\nSchießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden.",
+      "attributes": [
+        {
+          "name": "SCH Phase 1",
+          "parameters": [
+            "36.89%",
+            "39.90%",
+            "42.90%",
+            "47.19%",
+            "50.19%",
+            "53.62%",
+            "58.34%",
+            "63.06%",
+            "67.78%",
+            "72.93%",
+            "78.08%",
+            "83.23%",
+            "88.37%",
+            "93.52%",
+            "98.67%"
+          ]
+        },
+        {
+          "name": "SCH Phase 2",
+          "parameters": [
+            "38.70%",
+            "41.85%",
+            "45.00%",
+            "49.50%",
+            "52.65%",
+            "56.25%",
+            "61.20%",
+            "66.15%",
+            "71.10%",
+            "76.50%",
+            "81.90%",
+            "87.30%",
+            "92.70%",
+            "98.10%",
+            "103.50%"
+          ]
+        },
+        {
+          "name": "SCH Phase 3",
+          "parameters": [
+            "48.50%",
+            "52.45%",
+            "56.40%",
+            "62.04%",
+            "65.99%",
+            "70.50%",
+            "76.70%",
+            "82.91%",
+            "89.11%",
+            "95.88%",
+            "102.65%",
+            "109.42%",
+            "116.18%",
+            "122.95%",
+            "129.72%"
+          ]
+        },
+        {
+          "name": "SCH PHase 4",
+          "parameters": [
+            "50.40%",
+            "54.50%",
+            "58.60%",
+            "64.46%",
+            "68.56%",
+            "73.25%",
+            "79.70%",
+            "86.14%",
+            "92.59%",
+            "99.62%",
+            "106.65%",
+            "113.68%",
+            "120.72%",
+            "127.75%",
+            "134.78%"
+          ]
+        },
+        {
+          "name": "SCH Phase 5",
+          "parameters": [
+            "58.05%",
+            "62.77%",
+            "67.50%",
+            "74.25%",
+            "78.97%",
+            "84.38%",
+            "91.80%",
+            "99.23%",
+            "106.65%",
+            "114.75%",
+            "122.85%",
+            "130.95%",
+            "139.05%",
+            "147.15%",
+            "155.25%"
+          ]
+        },
+        {
+          "name": "Gezielte Schüsse",
+          "parameters": [
+            "43.86%",
+            "47.43%",
+            "51.00%",
+            "56.10%",
+            "59.67%",
+            "63.75%",
+            "69.36%",
+            "74.97%",
+            "80.58%",
+            "86.70%",
+            "92.82%",
+            "98.94%",
+            "105.06%",
+            "111.18%",
+            "117.30%"
+          ]
+        },
+        {
+          "name": "Voll aufgeladene gezielte Schüsse",
+          "parameters": [
+            "124.00%",
+            "133.30%",
+            "142.60%",
+            "155.00%",
+            "164.30%",
+            "173.60%",
+            "186.00%",
+            "198.40%",
+            "210.80%",
+            "223.20%",
+            "235.60%",
+            "248.00%",
+            "263.50%",
+            "279.00%",
+            "294.50%"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen aus niedriger/großer Höhe",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Tengu-Sturmbeschwörung",
+      "info": "Zieht sich geschwind mit der Schnelligkeit eines Tengu zurück und beschwört den Schutz der Krähenfedern.\nErhält eine 18 s anhaltende „Krähenfederhaube“. Sobald Kujou Sara einen voll aufgeladenen Pfeil abschießt, verbraucht sie die Krähenfederhaube und hinterlässt an der Stelle des Treffers des Pfeils eine Krähenfeder.\nKrähenfedern lösen nach kurzer Zeit Tengu Juurai – Hinterhalt aus, fügen allen Gegnern im Wirkungsbereich Elektro-Schaden zu und erhöhen den Angriff aktueller Figuren im Wirkungsbereich basierend auf Kujou Saras Basis-ANG.\n\nDie ANG-Boni verschiedener Tengu Juurai sind nicht stapelbar und Effekt sowie Wirkungsdauer hängen vom zuletzt in Kraft getretenen Tengu Juurai ab.",
+      "description": "Den Tengu hat es nie an außergewöhnlichen Talenten gefehlt, die Göttliche Augen mit Elektro-Kraft erhielten. Es ist nur so, dass sie der Göttin der Blitze oft Lobgesänge darbieten, während sie die Elektro-Kraft nutzen. Die Gesänge gehen in etwa so:\n„O Große Narukami, zeige deine Macht! Gewähre deinen Jüngern die Kraft der Blitze! Sowaka!",
+      "attributes": [
+        {
+          "name": "SCH von Tengu Juurai – Hinterhalt",
+          "parameters": [
+            "125.76%",
+            "135.19%",
+            "144.62%",
+            "157.20%",
+            "166.63%",
+            "176.06%",
+            "188.64%",
+            "201.22%",
+            "213.79%",
+            "226.37%",
+            "238.94%",
+            "251.52%",
+            "267.24%",
+            "282.96%",
+            "298.68%"
+          ]
+        },
+        {
+          "name": "ANG-Bonus-Rate",
+          "parameters": [
+            "42.96%",
+            "46.18%",
+            "49.40%",
+            "53.70%",
+            "56.92%",
+            "60.14%",
+            "64.44%",
+            "68.74%",
+            "73.03%",
+            "77.33%",
+            "81.62%",
+            "85.92%",
+            "91.29%",
+            "96.66%",
+            "102.03%"
+          ]
+        },
+        {
+          "name": "ANG-Bonus-Dauer",
+          "parameters": [
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s"
+          ]
+        },
+        {
+          "name": "Abklingzeit",
+          "parameters": [
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Unterwerfung – Koukou Sendou",
+      "info": "Beschwört an der Stelle des Ziels einen Tengu Juurai – Titanenbrecher und verursacht Elektro-Flächenschaden. Der Tengu Juurai – Titanenbrecher spaltet sich danach in 4 aufeinanderfolgende Tengu Juurai – Blitzbündel auf und verursacht Elektro-Flächenschaden.\nTengu Juurai – Titanenbrecher sowie Tengu Juurai – Blitzbündel verleihen aktuellen Figuren im Wirkungsbereich den gleichen ANG-Bonus wie die Elementarfähigkeit Tengu-Sturmbeschwörung.\n\nDie ANG-Boni verschiedener Tengu Juurai sind nicht stapelbar und Effekt sowie Wirkungsdauer hängen vom zuletzt in Kraft getretenen Tengu Juurai ab.",
+      "description": "Sara kehrte sich von ihrem Volk, den Tengu, ab und verlor auch ihr Vertrauen in die Tenryou-Verwaltung. Nachdem sie aber Klarheit gefunden hatte, erkannte sie erneut ihr eigenes Blitzleuchten.",
+      "attributes": [
+        {
+          "name": "SCH von Tengu Juurai – Titanenbrecher",
+          "parameters": [
+            "409.60%",
+            "440.32%",
+            "471.04%",
+            "512.00%",
+            "542.72%",
+            "573.44%",
+            "614.40%",
+            "655.36%",
+            "696.32%",
+            "737.28%",
+            "778.24%",
+            "819.20%",
+            "870.40%",
+            "921.60%",
+            "972.80%"
+          ]
+        },
+        {
+          "name": "SCH von Tengu Juurai – Blitzbündel",
+          "parameters": [
+            "34.12%",
+            "36.68%",
+            "39.24%",
+            "42.65%",
+            "45.21%",
+            "47.77%",
+            "51.18%",
+            "54.59%",
+            "58.00%",
+            "61.42%",
+            "64.83%",
+            "68.24%",
+            "72.50%",
+            "76.77%",
+            "81.04%"
+          ]
+        },
+        {
+          "name": "Abklingzeit",
+          "parameters": [
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s"
+          ]
+        },
+        {
+          "name": "Elementarenergie",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Besonnenheit",
+      "info": "Verringert die Aufladezeit für gezielte Schüsse im Zustand „Krähenfederhaube“ von **Tengu-Sturmbeschwörung** um 60 %."
+    },
+    "passive2": {
+      "name": "Anstand",
+      "info": "Stellt beim Treffen von Gegnern mit Tengu Juurai – Hinterhalt allen Truppenmitgliedern 1,2 Punkte Elementarenergie für je 100 % von Kujou Saras Aufladerate wieder her. 3 s Abklingzeit."
+    },
+    "passive3": {
+      "name": "Landvermessung",
+      "info": "Verkürzt die bei Erkundungen innerhalb des Einflussbereichs von Inazuma verbrauchte Zeit um 25 %."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Lehren der „Eleganz“",
+          "count": 3
+        },
+        {
+          "name": "Zerbrochene Maske",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Anleitung zur „Eleganz“",
+          "count": 2
+        },
+        {
+          "name": "Verdreckte Maske",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Anleitung zur „Eleganz“",
+          "count": 4
+        },
+        {
+          "name": "Verdreckte Maske",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Anleitung zur „Eleganz“",
+          "count": 6
+        },
+        {
+          "name": "Verdreckte Maske",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Anleitung zur „Eleganz“",
+          "count": 9
+        },
+        {
+          "name": "Verdreckte Maske",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie der „Eleganz“",
+          "count": 4
+        },
+        {
+          "name": "Unheilvolle Maske",
+          "count": 4
+        },
+        {
+          "name": "Ascheherz",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie der „Eleganz“",
+          "count": 6
+        },
+        {
+          "name": "Unheilvolle Maske",
+          "count": 6
+        },
+        {
+          "name": "Ascheherz",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie der „Eleganz“",
+          "count": 12
+        },
+        {
+          "name": "Unheilvolle Maske",
+          "count": 9
+        },
+        {
+          "name": "Ascheherz",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie der „Eleganz“",
+          "count": 16
+        },
+        {
+          "name": "Unheilvolle Maske",
+          "count": 12
+        },
+        {
+          "name": "Ascheherz",
+          "count": 2
+        },
+        {
+          "name": "Krone der Weisheit",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_02",
+      "combat2": "Skill_S_Sara_01",
+      "combat3": "Skill_E_Sara_01_HD",
+      "passive1": "UI_Talent_S_Sara_01",
+      "passive2": "UI_Talent_S_Sara_06",
+      "passive3": "UI_Talent_S_Sara_07"
+    },
+    "version": "2.1"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Radis",
+  "description": "Un légume riche en fibres et en nutriments. Facile à cultiver et à récolter.",
+  "sortorder": 1980,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrédient",
+  "source": [
+    "Dans la nature"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Radish.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Item_Radish.png",
+    "nameicon": "UI_ItemIcon_100014"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Radish"
+  },
+  "version": ""
+}

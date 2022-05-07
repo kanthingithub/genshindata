@@ -1,0 +1,20 @@
+{
+  "name": "Ветвь кровавой яшмы",
+  "description": "Костяные ветви, питаемые силой лорда драконов, мерцают дивными цветами.\nВ руслах родников текла и сливалась с морозным светом луны ненависть, порождая кристаллические ветви...\nХоть их и обрубили в бою, питаемые драконьей кровью ветви и листья шелестят так, будто никогда не обретут покой.",
+  "sortorder": 1800,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Аждаха Ур. 70+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bloodjade_Branch.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Item_Bloodjade_Branch.png",
+    "nameicon": "UI_ItemIcon_113018"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bloodjade_Branch"
+  },
+  "version": ""
+}

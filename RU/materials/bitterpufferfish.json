@@ -1,0 +1,20 @@
+{
+  "name": "Горький иглобрюх",
+  "description": "Редкий вид иглобрюха. Как следует из названия, они производят чрезвычайно едкий феромон. По сравнению с обычными иглобрюхами, они стреляют реже и слабее, однако из-за чрезвычайно едкого и горького вещества их выстрелы не менее опасны. Можно увидеть, как в процессе ухаживаний самцы и самки обстреливают друг друга этими феромонами. Возможно, передача горечи жизни - это их своеобразное проявление любви.",
+  "sortorder": 2033,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Рыба",
+  "source": [
+    "Рыбалка"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bitter_Pufferfish.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Bitter_Pufferfish.png",
+    "nameicon": "UI_ItemIcon_131020"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bitter_Pufferfish"
+  },
+  "version": ""
+}

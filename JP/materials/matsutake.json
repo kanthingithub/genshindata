@@ -1,0 +1,19 @@
+{
+  "name": "松茸",
+  "description": "マツの木と一緒に育つ珍しいキノコ類。ほのかに優雅な香りを放ち、自らの位置を知らせている。",
+  "sortorder": 1991,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "野外で採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Matsutake.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Item_Matsutake.png",
+    "nameicon": "UI_ItemIcon_100063"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Matsutake"
+  },
+  "version": ""
+}

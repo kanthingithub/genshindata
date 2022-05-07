@@ -1,0 +1,17 @@
+{
+  "name": "奇異的「牙齒」",
+  "description": "從雪山上拾得的「牙齒」。也許有人會知道關於它的一些資訊…",
+  "sortorder": 418,
+  "category": "EXCHANGE",
+  "materialtype": "素材",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Strange_Tooth.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Item_Strange_Tooth.png",
+    "nameicon": "UI_ItemIcon_100618"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Strange_Tooth"
+  },
+  "version": ""
+}

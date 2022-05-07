@@ -1,0 +1,22 @@
+{
+  "name": "Mist Grass",
+  "description": "Mist Grass yang terpelihara dengan baik. Beberapa orang akan menggunakan makanan favorit Cicin ini untuk mengontrolnya.",
+  "sortorder": 1745,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Didapatkan melalui Craft",
+    "Dijatuhkan oleh Fatui Cicin Mage Lv. 40+",
+    "Penukaran Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Grass.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Item_Mist_Grass.png",
+    "nameicon": "UI_ItemIcon_112027"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Grass"
+  },
+  "version": ""
+}

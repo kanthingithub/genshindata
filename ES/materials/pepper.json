@@ -1,0 +1,19 @@
+{
+  "name": "Pimienta",
+  "description": "Un condimento ligeramente picante. Disminuye la pesadez de la grasa y potencia el sabor de los alimentos. Perfecto para combinar con la carne.",
+  "sortorder": 1997,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente culinario",
+  "source": [
+    "Comprado en tiendas"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Pepper.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Item_Pepper.png",
+    "nameicon": "UI_ItemIcon_100077"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Pepper"
+  },
+  "version": ""
+}

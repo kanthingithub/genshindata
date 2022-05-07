@@ -1,0 +1,26 @@
+{
+  "name": "Ramo Perolado de um Mar Distante",
+  "description": "Material de Ascensão de Armas.\nEsse coral não pode ser encontrado em canto nenhum de Teyvat, mas foi um presente que a grande serpente obteve ela quando rompeu através do Mar Sombrio. Para essa serpente abissal, estar cheia de corais significava ser poderosa, e seu poder desvaneceria caso tais corais se perdessem. Noutras palavras, tais corais contêm poder muito além da norma.",
+  "sortorder": 2208,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Ascensão de Armas",
+  "dropdomain": "Domínio da Forja: Grãos das Profundezas",
+  "daysofweek": [
+    "Segunda-feira",
+    "Quinta-feira",
+    "Domingo"
+  ],
+  "source": [
+    "Obtido na síntese"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Jeweled_Branch_of_a_Distant_Sea.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Item_Jeweled_Branch_of_a_Distant_Sea.png",
+    "nameicon": "UI_ItemIcon_114026"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Jeweled_Branch_of_a_Distant_Sea"
+  },
+  "version": ""
+}

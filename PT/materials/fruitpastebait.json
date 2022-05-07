@@ -1,0 +1,20 @@
+{
+  "name": "Isca de Frutas",
+  "description": "Uma isca comumente vista feita ao amassar, fermentar e modelar Fruto do Pôr do Sol e Trigo juntos. Ao atingir a água se desintegra rapidamente e passa a atrair fortemente os peixes pequenos. Devido a facilidade de ser feita, seu preço barato e eficácia excelente, é também jocosamente referida como \"Tesouro do Pescador\".\n\nApropriada para a espécie de peixe: Medaka.",
+  "sortorder": 1514,
+  "rarity": "2",
+  "category": "FISH_BAIT",
+  "materialtype": "Isca",
+  "source": [
+    "Obtido na síntese"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_111023",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fruit_Paste_Bait.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Item_Fruit_Paste_Bait.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fruit_Paste_Bait"
+  },
+  "version": ""
+}

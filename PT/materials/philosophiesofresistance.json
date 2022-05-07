@@ -1,0 +1,26 @@
+{
+  "name": "Filosofia de Resistência",
+  "description": "Material de elevação de Talento.\nA resistência é a espinha dorsal do Reino do Vento.\nA história de Mondstadt é uma das resistências. As pessoas se levantaram para permitir que a futura poesia de Mondstadt fosse livremente como o vento e se espalhasse por toda a terra.",
+  "sortorder": 1856,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Talento",
+  "dropdomain": "Domínio da Proficiência: Abismo Congelante",
+  "daysofweek": [
+    "Terça-feira",
+    "Sexta-feira",
+    "Domingo"
+  ],
+  "source": [
+    "Obtido na síntese"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Resistance.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Philosophies_of_Resistance.png",
+    "nameicon": "UI_ItemIcon_104306"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Resistance"
+  },
+  "version": ""
+}

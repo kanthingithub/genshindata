@@ -1,0 +1,20 @@
+{
+  "name": "Coração do Mecanismo Contínuo",
+  "description": "O núcleo que energiza os movimentos autônomos da Formação Mecânica Perpétua.\nAlguns teorizam que os símbolos nesse núcleos possuem conhecimento e lógica em uma língua que os olhos não são capazes de perceber. Alguns vão um passo além e acreditam que essas máquinas das Ruínas decidiram autonomamente renegar uma forma biomimética para perseguir a força através de seus núcleos gigantes e inscrições complexas.",
+  "sortorder": 1805,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Dropado pela Formação Mecânica Perpétua Nv.30+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Perpetual_Heart.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Item_Perpetual_Heart.png",
+    "nameicon": "UI_ItemIcon_113023"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Perpetual_Heart"
+  },
+  "version": ""
+}

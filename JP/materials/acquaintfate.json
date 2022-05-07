@@ -1,0 +1,18 @@
+{
+  "name": "出会いの縁",
+  "description": "星空を照らす希望の種。\nどんなに離れても、縁石の導きで、運命の二人は星空の下で巡り会える。",
+  "sortorder": 499,
+  "rarity": "5",
+  "category": "CONSUME",
+  "materialtype": "祈願アイテム",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_224",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Acquaint_Fate.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Item_Acquaint_Fate.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Acquaint_Fate"
+  },
+  "version": ""
+}

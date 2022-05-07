@@ -1,0 +1,22 @@
+{
+  "name": "Sừng Hắc Tinh",
+  "description": "Sừng kim loại ẩn giấu sự xui xẻo, được trang trí bằng pha lê đen bí ẩn. Dường như chưa từng dùng đến, nghe đồn là vật phẩm trong những nghi thức quan trọng của người Hilichurl.",
+  "sortorder": 1737,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Ghép Nhận",
+    "Bạo đồ Hilichurl cấp 60 trở lên rơi",
+    "Vua Hilichurl cấp 60 trở lên rơi"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Black_Crystal_Horn.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Item_Black_Crystal_Horn.png",
+    "nameicon": "UI_ItemIcon_112016"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Black_Crystal_Horn"
+  },
+  "version": ""
+}

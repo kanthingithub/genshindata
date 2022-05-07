@@ -1,0 +1,18 @@
+{
+  "name": "훈제 생선",
+  "description": "",
+  "sortorder": 1535,
+  "category": "EXCHANGE",
+  "materialtype": "식자재",
+  "source": [
+    "요리 가공 획득"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Smoked_Fish.png",
+    "nameicon": "UI_ItemIcon_110012"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Smoked_Fish"
+  },
+  "version": ""
+}

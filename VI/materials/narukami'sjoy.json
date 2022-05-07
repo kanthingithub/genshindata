@@ -1,0 +1,26 @@
+{
+  "name": "Sở Thích Của Narukami",
+  "description": "Nguyên liệu có sức mạnh đột phá vũ khí.\nHiệp hội của thời Narukami là những người quản lý và thực thi các công việc khác nhau. Trong những câu chuyện về yêu ma cổ xưa kia, những người thân cận được tướng quân tin cậy thì mới đeo loại bùa hình móc câu này, và những người được ưu ái cũng sẽ đền đáp lại bằng tình yêu và lòng trung thành. Và từ một thời điểm nào đó, mọi thứ không còn như ban đầu nữa.",
+  "sortorder": 2212,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Đột Phá Vũ Khí",
+  "dropdomain": "Bí Cảnh Luyện Võ: Tế Đàn Cát",
+  "daysofweek": [
+    "Thứ 3",
+    "Thứ 6",
+    "Chủ Nhật"
+  ],
+  "source": [
+    "Ghép Nhận"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Narukami's_Joy.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Narukami%27s_Joy.png",
+    "nameicon": "UI_ItemIcon_114030"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Narukami's_Joy"
+  },
+  "version": ""
+}

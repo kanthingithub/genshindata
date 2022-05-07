@@ -1,0 +1,19 @@
+{
+  "name": "Cà Chua",
+  "description": "Thực vật có vỏ màu đỏ tươi. Chua ngọt nhiều nước, người ta từ xưa vẫn tranh luận nó là trái cây hay rau củ.",
+  "sortorder": 1999,
+  "category": "EXCHANGE",
+  "materialtype": "Nguyên Liệu Thực Phẩm",
+  "source": [
+    "Mua trong Tiệm Tạp Hóa"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Tomato.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Tomato.png",
+    "nameicon": "UI_ItemIcon_100079"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Tomato"
+  },
+  "version": ""
+}

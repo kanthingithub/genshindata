@@ -1,0 +1,153 @@
+{
+  "name": "Vua Giáp Băng Hilichurl",
+  "specialname": "Vua Hilichurl khắc trên băng",
+  "enemytype": "ELITE",
+  "category": "Bộ Tộc Hilichurl",
+  "description": "\"Vương giả\" thần bí bước đi trong sương tuyết.\nHilichurl to lớn được đồng bào gọi là \"Lawa\". Cơ thể được rèn luyện đến cực điểm, dường như có thể dung hòa với môi trường bao trùm bởi nguyên tố Băng, uy nghi và trầm mặc như sông băng phía Bắc.",
+  "investigation": {
+    "name": "Vua Hilichurl",
+    "category": "Tinh Anh",
+    "description": "Bạo Đồ Hilichurl trong cơ thể tích luỹ lượng lớn nguyên tố phát sinh biến dị sẽ càng to lớn, càng cường tráng, càng hung hãn.\\nTrong văn hóa của Hilichurl không có thần cũng không có trật tự. Chỉ cần khỏe mạnh, đánh nhau hăng máu, đều có thể trở thành vua của chúng."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Sừng Nặng",
+      "count": 5.2526
+    },
+    {
+      "name": "Sừng Đồng Đen",
+      "count": 1.4006
+    },
+    {
+      "name": "Sừng Hắc Tinh",
+      "count": 0.3502
+    },
+    {
+      "name": "Mặt Nạ Vỡ",
+      "count": 0.5253
+    },
+    {
+      "name": "Mặt Nạ Bẩn",
+      "count": 0.1401
+    },
+    {
+      "name": "Mặt Nạ Xui Xẻo",
+      "count": 0.035
+    },
+    {
+      "name": "Cuồng Chiến",
+      "rarity": "3"
+    },
+    {
+      "name": "Giáo Quan",
+      "rarity": "3"
+    },
+    {
+      "name": "Kẻ Lưu Đày",
+      "rarity": "3"
+    },
+    {
+      "name": "Thầy Thuốc",
+      "rarity": "3"
+    },
+    {
+      "name": "Cuồng Chiến",
+      "rarity": "4"
+    },
+    {
+      "name": "Giáo Quan",
+      "rarity": "4"
+    },
+    {
+      "name": "Kẻ Lưu Đày",
+      "rarity": "4"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Brute_Ice_01"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 656.2529383627698,
+      "attack": 152.2663863116577,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 2579.4364822493226,
+      "attack": 406.8166587971864,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 7966.800011541462,
+      "attack": 1003.4998039648926,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 13255.20293965016,
+      "attack": 1639.0596025083796,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 24253.645171341486,
+      "attack": 2450.4833108624443,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 44968.35830332339,
+      "attack": 3778.963487027271,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 75431.29331801087,
+      "attack": 5321.546282113646,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 117467.75373650808,
+      "attack": 7346.143133227946,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 167091.54786452092,
+      "attack": 9451.590193737298,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 219186.78009680472,
+      "attack": 11418.823591017863,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 330886.09386089444,
+      "attack": 14773.25319093978,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 481520.82349524647,
+      "attack": 15066.582932085032,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 647876.8505104557,
+      "attack": 15361.966398832854,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Bitterer Kugelfisch",
+  "description": "Eine seltene Kugelfisch-Variante. Wie der Name schon sagt, verbreitet diese Kreatur Bitterkeit, wo immer sie sich in der Unterwasserwelt aufhält. Seine Wasserkanonen-Geschosse sind langsamer und kleiner als die seiner gewöhnlichen Artgenossen, aber die Kraft solcher Angriffe wird durch die unglaublich bitteren Pheromone im Inneren nicht gemindert. Während ihrer Balzphase kann ein Beobachter Zeuge des kuriosen Anblicks werden, wie sich Männchen und Weibchen dieser Spezies mit diesen Wasserkanonen gegenseitig beschießen. Vielleicht ist die Weitergabe der Bitterkeit des Lebens auch eine Manifestation der Liebe.",
+  "sortorder": 2033,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Fisch",
+  "source": [
+    "Beim Angeln zu erhalten"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bitter_Pufferfish.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Bitter_Pufferfish.png",
+    "nameicon": "UI_ItemIcon_131020"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bitter_Pufferfish"
+  },
+  "version": ""
+}

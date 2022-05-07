@@ -1,0 +1,18 @@
+{
+  "name": "Gema Essencial",
+  "description": "Uma gema cristalina primordial que vai além da compreensão mundana. Seu brilho está cheio de esperanças e sonhos do universo em que esteve.",
+  "sortorder": 494,
+  "rarity": "5",
+  "category": "ADSORBATE",
+  "materialtype": "Moeda Especial",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Primogem.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png",
+    "nameicon": "UI_ItemIcon_201"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Primogem"
+  },
+  "version": ""
+}

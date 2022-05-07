@@ -1,0 +1,22 @@
+{
+  "name": "最胜紫晶",
+  "description": "角色突破素材。\n「此身即是尘世最为殊胜尊贵之身。\n「应持天下之大权。\n「此身曾许诺予臣民一梦，既是千世万代不变不移的『永恒』。」",
+  "sortorder": 1837,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培养素材",
+  "source": [
+    "75级以上无相之雷掉落",
+    "75级以上雷音权现掉落",
+    "合成获得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vajrada_Amethyst_Gemstone.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Item_Vajrada_Amethyst_Gemstone.png",
+    "nameicon": "UI_ItemIcon_104144"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Vajrada_Amethyst_Gemstone"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Заготовка копья северянина",
+  "description": "Материал для ковки оружия. Может быть использован для создания древкового оружия 4★.\nФилософы говорят, что любой кусок мрамора потенциально является прекрасной статуей. У этих заготовок тоже безграничный потенциал.",
+  "sortorder": 1966,
+  "rarity": "4",
+  "category": "EXCHANGE",
+  "materialtype": "Материал",
+  "source": [
+    "Боссы"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Northlander_Polearm_Billet.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Northlander_Polearm_Billet.png",
+    "nameicon": "UI_ItemIcon_101105"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Northlander_Polearm_Billet"
+  },
+  "version": ""
+}

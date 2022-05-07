@@ -1,0 +1,26 @@
+{
+  "name": "Philosophie des „Wohlstands“",
+  "description": "Material zum Verbessern von Talenten.\nWohlstand ist das Ziel des Reiches des Gesteins.\nDer Wohlstand ist Liyues Vergangenheit, Gegenwart und Zukunft, unerreichbar für alle anderen. Allein Liyue und seine Kinder können sich an ihm erfreuen.",
+  "sortorder": 1862,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Talenten",
+  "dropdomain": "Sphäre des Verständnisses: Altar der Flammen",
+  "daysofweek": [
+    "Montag",
+    "Donnerstag",
+    "Sonntag"
+  ],
+  "source": [
+    "Kann hergestellt werden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Prosperity.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/Item_Philosophies_of_Prosperity.png",
+    "nameicon": "UI_ItemIcon_104312"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Prosperity"
+  },
+  "version": ""
+}

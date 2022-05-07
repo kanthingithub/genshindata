@@ -1,0 +1,24 @@
+{
+  "name": "Teachings of Gold",
+  "description": "วัสดุยกระดับพรสวรรค์\nทองคำคือสัญลักษณ์ของประเทศ แห่งหิน\nทองคำเปรียบดังเลือดที่ไหลเวียนอยู่ลึกใต้ผืนดินลงไปของ Liyue คือกล้ามเนื้อที่คอยกระตุ้นหัวใจของ Liyue เป็นกระดูกที่คอยทำให้ Liyue ยืนขึ้นได้อย่างภาคภูมิ",
+  "sortorder": 1866,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุยกระดับพรสวรรค์",
+  "dropdomain": "ดันเจี้ยนแห่งการพัฒนา: วงแหวนแห่งเพลิง",
+  "daysofweek": [
+    "วันพุธ",
+    "วันเสาร์",
+    "วันอาทิตย์"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Gold.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Item_Teachings_of_Gold.png",
+    "nameicon": "UI_ItemIcon_104316"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Gold"
+  },
+  "version": ""
+}

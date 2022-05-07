@@ -1,0 +1,22 @@
+{
+  "name": "Ongle dissimulé",
+  "description": "Du tissu de chair provenant du corps d'un canidé de faille.\nAussi étonnantes qu'elles soient, ces créatures d'Alfisol ne sont rien comparées à Durin, l'Humus.",
+  "sortorder": 1775,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Synthèse",
+    "Butin de Loup de faille (Niv.40+)",
+    "Échange Astrions"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_112057",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Concealed_Unguis.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Item_Concealed_Unguis.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Concealed_Unguis"
+  },
+  "version": ""
+}

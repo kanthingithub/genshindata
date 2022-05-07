@@ -1,0 +1,36 @@
+{
+  "name": "« Le passé de Mondstadt »",
+  "rarity": "3",
+  "foodtype": "SPECIALTY",
+  "foodfilter": "Attaque",
+  "foodcategory": "Atk_CritRate",
+  "effect": "Augmente le taux CRIT et les DGT CRIT de tous les personnages de l'équipe de 20 % pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+  "description": "Spécialité culinaire de Diluc. Un délice aussi bien pour les yeux que pour l'estomac. Qui aurait cru que Diluc était un cordon bleu ?",
+  "basedish": "Empil'tout",
+  "character": "Diluc",
+  "ingredients": [
+    {
+      "name": "Viande crue",
+      "count": 3
+    },
+    {
+      "name": "Pomme de terre",
+      "count": 3
+    },
+    {
+      "name": "Herbe à lampe",
+      "count": 1
+    },
+    {
+      "name": "Fromage",
+      "count": 1
+    }
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_108058"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/\"Once_Upon_a_Time_in_Mondstadt\""
+  },
+  "version": "1.0"
+}

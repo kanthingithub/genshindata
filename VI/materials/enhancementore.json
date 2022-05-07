@@ -1,0 +1,21 @@
+{
+  "name": "Tạp Khoáng Tinh Đúc",
+  "description": "Nguyên liệu EXP vũ khí, có chứa 400 điểm EXP.\nẨn chứa khoáng thạch tinh luyện với khả năng vô hạn, có thể dùng để cường hóa vũ khí.",
+  "sortorder": 657,
+  "rarity": "1",
+  "category": "WEAPON_EXP_STONE",
+  "materialtype": "Nguyên Liệu Cường Hóa Vũ Khí",
+  "source": [
+    "Rèn Nhận Được",
+    "Thù Lao Giải Quyết Công Việc"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_104011",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Enhancement_Ore.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Item_Enhancement_Ore.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Enhancement_Ore"
+  },
+  "version": ""
+}

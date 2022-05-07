@@ -1,0 +1,19 @@
+{
+  "name": "Lizard Tail",
+  "description": "หางที่ขดตัวลงช้าๆ หลังจากหลุดออกจากตัวกิ้งก่า มีรสขมมาก แต่มีสรรพคุณในการ เสริมความแข็งให้แก่ผิวหนัง",
+  "sortorder": 1974,
+  "category": "EXCHANGE",
+  "materialtype": "วัสดุ",
+  "source": [
+    "หาได้จากการจับกิ้งก่า"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lizard_Tail.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Lizard_Tail.png",
+    "nameicon": "UI_ItemIcon_100083"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lizard_Tail"
+  },
+  "version": ""
+}

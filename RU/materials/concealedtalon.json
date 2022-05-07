@@ -1,0 +1,21 @@
+{
+  "name": "Скрытый дьявольский коготь",
+  "description": "Острый коготь, принадлежавший одному из волков Разрыва.\nВсе чудеса этого мира меркнут перед величайшим шедевром - меловым слоем.",
+  "sortorder": 1776,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Алхимия",
+    "Волки Разрыва Ур. 60+"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_112058",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Concealed_Talon.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Item_Concealed_Talon.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Concealed_Talon"
+  },
+  "version": ""
+}

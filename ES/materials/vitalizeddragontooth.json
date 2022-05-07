@@ -1,0 +1,17 @@
+{
+  "name": "Colmillo de dragón imbuido de fuerza vital",
+  "description": "Un diente de dragón que ha absorbido fuerza vital. Su brillo y textura tienen un aspecto inquietante.",
+  "sortorder": 419,
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vitalized_Dragontooth.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8c/Item_Vitalized_Dragontooth.png",
+    "nameicon": "UI_ItemIcon_100619"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Vitalized_Dragontooth"
+  },
+  "version": ""
+}

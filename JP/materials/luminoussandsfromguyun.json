@@ -1,0 +1,26 @@
+{
+  "name": "孤雲寒林の光砂",
+  "description": "武器に突破の力を付与する材料。\n孤雲閣にそびえ立つ岩柱はかつてモラクスが敵を降伏させるために降下した岩の槍である。時間が経つに連れ、魔神の体が岩柱に染み込み、聖性を持つようになった。たまに岩柱から憎しみや不吉な気配が含まれた砕片が剥がれて落ちる。",
+  "sortorder": 2195,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "武器突破素材",
+  "dropdomain": "煉武秘境：雷雲祭壇",
+  "daysofweek": [
+    "月曜",
+    "木曜",
+    "日曜"
+  ],
+  "source": [
+    "璃月記念品ショップ交換"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Luminous_Sands_from_Guyun.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Luminous_Sands_from_Guyun.png",
+    "nameicon": "UI_ItemIcon_114013"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Luminous_Sands_from_Guyun"
+  },
+  "version": ""
+}

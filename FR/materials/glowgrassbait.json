@@ -1,0 +1,20 @@
+{
+  "name": "Herbe fluorescente",
+  "description": "Un appât spécial fabriqué à partir de minerai de cristal magique et d'herbes marines qui brille dans le noir et attire ceux qui aspirent à la lumière.\nVous pouvez en obtenir auprès de Kujirai Momiji.\n\nAdapté pour toutes les espèces de poissons.",
+  "sortorder": 1518,
+  "rarity": "2",
+  "category": "FISH_BAIT",
+  "materialtype": "Appât de pêche",
+  "source": [
+    "Quête de Kujirai Momiji"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_111027",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Glowgrass_Bait.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Item_Glowgrass_Bait.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Glowgrass_Bait"
+  },
+  "version": ""
+}

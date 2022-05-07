@@ -1,0 +1,21 @@
+{
+  "name": "Weathered Arrowhead",
+  "description": "Ujung anak panah yang penuh dengan noda darah, dan telah kehilangan ketajamannya dan fungsinya sebagai senjata.\nTetapi di dalamnya terkandung kebanggaan seorang pemburu, kini berfungsi sebagai jimat dan medali.",
+  "sortorder": 1734,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Didapatkan melalui Craft",
+    "Dijatuhkan oleh Hilichurl Shooter Lv. 60+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Weathered_Arrowhead.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Item_Weathered_Arrowhead.png",
+    "nameicon": "UI_ItemIcon_112013"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Weathered_Arrowhead"
+  },
+  "version": ""
+}

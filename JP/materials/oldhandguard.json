@@ -1,0 +1,21 @@
+{
+  "name": "古びた鍔",
+  "description": "稲妻の刀についている防具。多くの戦いを経験している。\n剣術の達人にとって、鍔は相手の刃から手を守ってくれる物。新人にとっては、誤って手が柄から刀身へと滑らないよう守ってくれる物だ。",
+  "sortorder": 1762,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "キャラクター育成素材",
+  "source": [
+    "野伏衆でドロップ",
+    "スターダスト交換"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Old_Handguard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Item_Old_Handguard.png",
+    "nameicon": "UI_ItemIcon_112044"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Old_Handguard"
+  },
+  "version": ""
+}

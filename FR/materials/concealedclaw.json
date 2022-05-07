@@ -1,0 +1,21 @@
+{
+  "name": "Griffe dissimulée",
+  "description": "Le tissu résiduel provenant du corps d'un canidé de faille.\nEn toute logique, cet objet qui n'appartient guère à ce monde n'aurait pas dû subsister après l'anéantissement de ces créatures anormales.",
+  "sortorder": 1774,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Butin de Loup de faille",
+    "Échange Astrions"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_112056",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Concealed_Claw.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Concealed_Claw.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Concealed_Claw"
+  },
+  "version": ""
+}

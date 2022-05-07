@@ -1,0 +1,175 @@
+{
+  "name": "炼武秘境：水光之城",
+  "region": "蒙德",
+  "domainEntrance": "塞西莉亚苗圃",
+  "domainType": "武器突破素材",
+  "description": "这座潮湿的古代祭祀场中，聚积了大量的水元素之力。\n其中浓厚的潮气会令技能冷却时间延长。\n若能通过其中的试炼，或许能获得强化装备的物质。",
+  "daysOfWeek": [
+    "周一",
+    "周四",
+    "周日"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Water"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "炼武秘境：水光之城 I",
+      "recommendedLevel": 15,
+      "recommendedElements": [
+        "冰元素",
+        "火元素",
+        "雷元素"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "冒险阅历",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 1125
+        },
+        {
+          "name": "好感经验",
+          "count": 10
+        },
+        {
+          "name": "高塔孤王的破瓦"
+        }
+      ],
+      "disorder": [
+        "周期性为角色施加「迟滞之水」：在附着的水元素消除之前，技能冷却时间大幅延长。"
+      ],
+      "monsterlist": [
+        "水史莱姆",
+        "大型水史莱姆"
+      ]
+    },
+    {
+      "name": "炼武秘境：水光之城 II",
+      "recommendedLevel": 36,
+      "recommendedElements": [
+        "冰元素",
+        "火元素",
+        "雷元素"
+      ],
+      "unlockRank": 21,
+      "rewardPreview": [
+        {
+          "name": "冒险阅历",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 1550
+        },
+        {
+          "name": "好感经验",
+          "count": 15
+        },
+        {
+          "name": "高塔孤王的破瓦"
+        },
+        {
+          "name": "高塔孤王的残垣"
+        }
+      ],
+      "disorder": [
+        "周期性为角色施加「迟滞之水」：在附着的水元素消除之前，技能冷却时间大幅延长。"
+      ],
+      "monsterlist": [
+        "水史莱姆",
+        "大型水史莱姆",
+        "木盾丘丘人"
+      ]
+    },
+    {
+      "name": "炼武秘境：水光之城 III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "冰元素",
+        "火元素",
+        "雷元素"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "冒险阅历",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 1850
+        },
+        {
+          "name": "好感经验",
+          "count": 15
+        },
+        {
+          "name": "高塔孤王的破瓦"
+        },
+        {
+          "name": "高塔孤王的残垣"
+        },
+        {
+          "name": "高塔孤王的断片"
+        }
+      ],
+      "disorder": [
+        "周期性为角色施加「迟滞之水」：在附着的水元素消除之前，技能冷却时间大幅延长。"
+      ],
+      "monsterlist": [
+        "水史莱姆",
+        "大型水史莱姆",
+        "水丘丘萨满",
+        "水深渊法师"
+      ]
+    },
+    {
+      "name": "炼武秘境：水光之城 IV",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "冰元素",
+        "火元素",
+        "雷元素"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "冒险阅历",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 2200
+        },
+        {
+          "name": "好感经验",
+          "count": 20
+        },
+        {
+          "name": "高塔孤王的破瓦"
+        },
+        {
+          "name": "高塔孤王的残垣"
+        },
+        {
+          "name": "高塔孤王的断片"
+        },
+        {
+          "name": "高塔孤王的碎梦"
+        }
+      ],
+      "disorder": [
+        "周期性为角色施加「迟滞之水」：在附着的水元素消除之前，技能冷却时间大幅延长。"
+      ],
+      "monsterlist": [
+        "大型水史莱姆",
+        "水深渊法师"
+      ]
+    }
+  ]
+}

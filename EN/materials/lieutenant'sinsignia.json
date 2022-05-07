@@ -1,0 +1,23 @@
+{
+  "name": "Lieutenant's Insignia",
+  "description": "An insignia to identify officers. The Fatui possess a colossal army, so there must be something extraordinary about the ones who achieved this rank within the group.",
+  "sortorder": 1752,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Crafted",
+    "Dropped by Lv. 60+ Fatui Skirmishers",
+    "Dropped uncommonly by Lv. 60+ Fatui Agents",
+    "Dropped uncommonly by Lv. 60+ Fatui Cicin Mages"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lieutenant's_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Item_Lieutenant%27s_Insignia.png",
+    "nameicon": "UI_ItemIcon_112034"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lieutenant's_Insignia"
+  },
+  "version": ""
+}

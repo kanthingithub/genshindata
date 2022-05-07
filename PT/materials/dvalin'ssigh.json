@@ -1,0 +1,20 @@
+{
+  "name": "Suspiro do Vento Oriental",
+  "description": "Energia coletada dos ventos fortes assoprados pelo Senhor do Vento Oriental de Mondstadt.\nSeu formato é bonito e transparente, e tanto o vento quanto o furacão estão dispostos a aumentar sua efetividade. Enquanto o vento estiver ao seu lado, ele estará a seu favor.\nE seus inimigos são os inimigos de mil ventos de diferentes nomes.",
+  "sortorder": 1787,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Recompensa do Desafio de Stormterror Nv.70+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dvalin's_Sigh.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Dvalin%27s_Sigh.png",
+    "nameicon": "UI_ItemIcon_113005"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dvalin's_Sigh"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Pétalos de cerezo",
+  "description": "Pétalos que caen apaciblemente del Cerezo Sagrado del Gran Santuario Narukami, el cual custodia la región de Inazuma.",
+  "sortorder": 2061,
+  "category": "EXCHANGE",
+  "materialtype": "Objeto típico de Inazuma",
+  "source": [
+    "Recolectar en la naturaleza",
+    "Recolectar en la Isla Narukami"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sakura_Bloom.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Sakura_Bloom.png",
+    "nameicon": "UI_ItemIcon_101202"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sakura_Bloom"
+  },
+  "version": ""
+}

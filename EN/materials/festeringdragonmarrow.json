@@ -1,0 +1,18 @@
+{
+  "name": "Festering Dragon Marrow",
+  "description": "Specialized refinement material for Festering Desire.\nThis is the product of purifying Durin's vile venom, which has seeped into and spread throughout Dragonspine's ley lines. By using it on a bloodthirsty sword with a strong affinity for such materials, you can increase that sword's power.",
+  "sortorder": 2293,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Refinement Material",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Festering_Dragon_Marrow.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Item_Festering_Dragon_Marrow.png",
+    "nameicon": "UI_ItemIcon_200103"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Festering_Dragon_Marrow"
+  },
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Закатник",
+  "description": "Фрукт-пухляш, оранжевый как закатное солнце. Встречается в изобилии по всему Тейвату. Сытный фрукт с необычным вкусом.",
+  "sortorder": 1404,
+  "category": "NOTICE_ADD_HP",
+  "materialtype": "Еда",
+  "source": [
+    "Дикая природа"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sunsettia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Item_Sunsettia.png",
+    "nameicon": "UI_ItemIcon_100002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sunsettia"
+  },
+  "version": ""
+}

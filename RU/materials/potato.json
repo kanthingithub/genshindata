@@ -1,0 +1,19 @@
+{
+  "name": "Картофель",
+  "description": "Корнеплод. Дар природы. У картофеля столько рецептов приготовления, что от него невозможно устать.",
+  "sortorder": 2000,
+  "category": "EXCHANGE",
+  "materialtype": "Кухонный ингредиент",
+  "source": [
+    "Торговые лавки"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Potato.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Item_Potato.png",
+    "nameicon": "UI_ItemIcon_100080"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Potato"
+  },
+  "version": ""
+}

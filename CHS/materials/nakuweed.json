@@ -1,0 +1,20 @@
+{
+  "name": "鸣草",
+  "description": "即使在无风的日子里，亦会随雷鸣之声隐隐振动的植物。看起来像是花瓣的结构其实是叶片的延伸，保护着脆弱的花朵。",
+  "sortorder": 2064,
+  "category": "EXCHANGE",
+  "materialtype": "稻妻区域特产",
+  "source": [
+    "野外采集",
+    "推荐：踏鞴砂采集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Naku_Weed.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Item_Naku_Weed.png",
+    "nameicon": "UI_ItemIcon_101205"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Naku_Weed"
+  },
+  "version": ""
+}

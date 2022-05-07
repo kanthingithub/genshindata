@@ -1,0 +1,20 @@
+{
+  "name": "Волокно для фонарей",
+  "description": "Используется для изготовления небесных фонарей во время Праздника морских фонарей.\nПосле особенной обработки из этого самого обыкновенного материала можно сделать покрытие для фонаря, которое позволит ему лететь далеко-далеко и нести с собой прекрасные мечты людей.",
+  "sortorder": 2287,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Материал Праздника морских фонарей",
+  "source": [
+    "Растения"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lantern_Fiber.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Item_Lantern_Fiber.png",
+    "nameicon": "UI_ItemIcon_200001"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lantern_Fiber"
+  },
+  "version": ""
+}

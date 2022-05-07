@@ -1,0 +1,92 @@
+{
+  "name": "Mãng Xà Di Tích",
+  "specialname": "Khai Quật - SI/Glp",
+  "enemytype": "BOSS",
+  "category": "Cơ Quan Tự Động",
+  "description": "Bộ máy tự hành dị dạng cổ xưa.\nTương truyền đây là cỗ máy hạng nặng của vương quốc bị diệt vong, kết cấu bánh răng ở \"phần đầu\" có thể xới tung những tầng đá cứng. Nếu là như vậy thật thì lợi dụng sức mạnh này chắc sẽ mở được thông lộ cho một đội quân di chuyển chăng.",
+  "rewardpreview": [],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Nithhoggr_None"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 1174.719979072921,
+      "attack": 152.26669175447023,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 4626.704139917158,
+      "attack": 406.8166587971864,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 13617.999429747462,
+      "attack": 1003.5000195715838,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 25359.519874926656,
+      "attack": 1639.060033721762,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 45533.550190430135,
+      "attack": 2450.4833108624443,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 83896.51290229708,
+      "attack": 3446.8432273793733,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 141743.07991312444,
+      "attack": 4603.780970514228,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 234433.54121115804,
+      "attack": 6122.228465112159,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 378185.8724294901,
+      "attack": 8893.529357918655,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 593604.5999345183,
+      "attack": 11418.823591017863,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 887360.290015161,
+      "attack": 14773.25319093978,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 1123131.6694715023,
+      "attack": 15066.582932085032,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 1299097.6333526373,
+      "attack": 15361.966398832854,
+      "defense": 1100
+    }
+  ],
+  "version": "2.6"
+}

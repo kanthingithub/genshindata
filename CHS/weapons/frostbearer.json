@@ -1,0 +1,317 @@
+{
+  "name": "忍冬之果",
+  "description": "具有某种冰冷意志的奇特果实，散发着微弱的苦涩气息。",
+  "weapontype": "法器",
+  "rarity": "4",
+  "baseatk": 42,
+  "substat": "攻击力",
+  "subvalue": "9",
+  "effectname": "霜葬",
+  "effect": [
+    "普通攻击与重击命中敌人时，有[60%]概率在敌人上方生成恒冰晶核并坠落，造成[80%]攻击力的范围伤害。若敌人处于冰元素影响下，则造成[200%]攻击力的伤害。该效果每10秒至多触发一次。",
+    "普通攻击与重击命中敌人时，有[70%]概率在敌人上方生成恒冰晶核并坠落，造成[95%]攻击力的范围伤害。若敌人处于冰元素影响下，则造成[240%]攻击力的伤害。该效果每10秒至多触发一次。",
+    "普通攻击与重击命中敌人时，有[80%]概率在敌人上方生成恒冰晶核并坠落，造成[110%]攻击力的范围伤害。若敌人处于冰元素影响下，则造成[280%]攻击力的伤害。该效果每10秒至多触发一次。",
+    "普通攻击与重击命中敌人时，有[90%]概率在敌人上方生成恒冰晶核并坠落，造成[125%]攻击力的范围伤害。若敌人处于冰元素影响下，则造成[320%]攻击力的伤害。该效果每10秒至多触发一次。",
+    "普通攻击与重击命中敌人时，有[100%]概率在敌人上方生成恒冰晶核并坠落，造成[140%]攻击力的范围伤害。若敌人处于冰元素影响下，则造成[360%]攻击力的伤害。该效果每10秒至多触发一次。"
+  ],
+  "r1": [
+    "60%",
+    "80%",
+    "200%"
+  ],
+  "r2": [
+    "70%",
+    "95%",
+    "240%"
+  ],
+  "r3": [
+    "80%",
+    "110%",
+    "280%"
+  ],
+  "r4": [
+    "90%",
+    "125%",
+    "320%"
+  ],
+  "r5": [
+    "100%",
+    "140%",
+    "360%"
+  ],
+  "weaponmaterialtype": "Dandelion Gladiator",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "摩拉",
+        "count": 5000
+      },
+      {
+        "name": "狮牙斗士的枷锁",
+        "count": 3
+      },
+      {
+        "name": "混沌装置",
+        "count": 3
+      },
+      {
+        "name": "骗骗花蜜",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "摩拉",
+        "count": 15000
+      },
+      {
+        "name": "狮牙斗士的铁链",
+        "count": 3
+      },
+      {
+        "name": "混沌装置",
+        "count": 12
+      },
+      {
+        "name": "骗骗花蜜",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "摩拉",
+        "count": 20000
+      },
+      {
+        "name": "狮牙斗士的铁链",
+        "count": 6
+      },
+      {
+        "name": "混沌回路",
+        "count": 6
+      },
+      {
+        "name": "微光花蜜",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "摩拉",
+        "count": 30000
+      },
+      {
+        "name": "狮牙斗士的镣铐",
+        "count": 3
+      },
+      {
+        "name": "混沌回路",
+        "count": 12
+      },
+      {
+        "name": "微光花蜜",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "摩拉",
+        "count": 35000
+      },
+      {
+        "name": "狮牙斗士的镣铐",
+        "count": 6
+      },
+      {
+        "name": "混沌炉心",
+        "count": 9
+      },
+      {
+        "name": "原素花蜜",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "摩拉",
+        "count": 45000
+      },
+      {
+        "name": "狮牙斗士的理想",
+        "count": 4
+      },
+      {
+        "name": "混沌炉心",
+        "count": 18
+      },
+      {
+        "name": "原素花蜜",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Weapon_Frostbearer.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Everfrost.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Everfrost_Awaken.png",
+    "nameicon": "UI_EquipIcon_Catalyst_Everfrost",
+    "namegacha": "UI_Gacha_EquipIcon_Catalyst_Everfrost",
+    "nameawakenicon": "UI_EquipIcon_Catalyst_Everfrost_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Frostbearer"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 42.4010009765625,
+      "specialized": 0.09000000357627869
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 56.39333311848168,
+      "specialized": 0.10457999883413294
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 73.9049459961243,
+      "specialized": 0.12267000805020345
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 91.41655381917371,
+      "specialized": 0.14085001074671766
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 108.92817175140954,
+      "specialized": 0.15903000271439538
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 134.8281713699398,
+      "specialized": 0.15903000271439538
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 152.33978930217563,
+      "specialized": 0.1772100054109096
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 169.80899919744115,
+      "specialized": 0.1953900081074238
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 187.32060702049057,
+      "specialized": 0.21357000007510152
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 204.83221484354,
+      "specialized": 0.2317500135004522
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 230.83221675088862,
+      "specialized": 0.2317500135004522
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 248.34383468312444,
+      "specialized": 0.24993000546812993
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 265.85545261536026,
+      "specialized": 0.26811001889348063
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 291.75545414123917,
+      "specialized": 0.26811001889348063
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 309.267072073475,
+      "specialized": 0.28629001086115835
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 326.7786900057108,
+      "specialized": 0.3044700028288361
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 352.6786839021952,
+      "specialized": 0.3044700028288361
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 370.1478836882743,
+      "specialized": 0.32265001625418677
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 387.6595016205101,
+      "specialized": 0.3407400147414208
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 413.6595016205101,
+      "specialized": 0.3407400147414208
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 431.17111955274595,
+      "specialized": 0.3589200067090985
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 448.68271726660896,
+      "specialized": 0.3771000201344492
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 474.5827264218824,
+      "specialized": 0.3771000201344492
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 492.0943443541182,
+      "specialized": 0.3952800335597999
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 509.60596228635404,
+      "specialized": 0.41346000406980465
+    }
+  },
+  "version": "1.2"
+}

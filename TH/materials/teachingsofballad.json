@@ -1,0 +1,24 @@
+{
+  "name": "Teachings of Ballad",
+  "description": "วัสดุยกระดับพรสวรรค์\nบทกวีนั้นคือจิตวิญญาณของ ประเทศแห่งสายลม\nบทกวีคือการแสดงออกของ ความรู้สึกที่สวยงาม ในวันที่สวยงามสายลมจะนำบทกวี ที่สัมผัสกับหัวใจของผู้คนราวกับ สายลมที่โบยบิน",
+  "sortorder": 1857,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุยกระดับพรสวรรค์",
+  "dropdomain": "ดันเจี้ยนแห่งการพัฒนา: ดินแดนนิทรา",
+  "daysofweek": [
+    "วันพุธ",
+    "วันเสาร์",
+    "วันอาทิตย์"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Ballad.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Item_Teachings_of_Ballad.png",
+    "nameicon": "UI_ItemIcon_104307"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Ballad"
+  },
+  "version": ""
+}

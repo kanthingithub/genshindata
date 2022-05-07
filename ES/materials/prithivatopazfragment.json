@@ -1,0 +1,23 @@
+{
+  "name": "Fragmento de topacio prithiva",
+  "description": "Material de ascensión de personaje.\n“La moneda que circula por este mundo es mi sangre y mi cuerpo”.",
+  "sortorder": 1847,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Obtenido de Hipostasis Geo (Niv. 40+)",
+    "Obtenido del Rey Acechador Dorado (Niv. 40+)",
+    "Obtenido de Serpientes de las Ruinas (Niv. 40+)",
+    "Sintetizar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Prithiva_Topaz_Fragment.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Prithiva_Topaz_Fragment.png",
+    "nameicon": "UI_ItemIcon_104172"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Prithiva_Topaz_Fragment"
+  },
+  "version": ""
+}

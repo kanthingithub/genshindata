@@ -1,0 +1,21 @@
+{
+  "name": "Néctar de Megaflora",
+  "description": "Néctar extraído del pistilo de una Megaflora. Contiene pequeñas cantidades de algunos elementos.\nEl sabor del néctar recuerda un poco al de la flor dulce.",
+  "sortorder": 1756,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Obtenido de Megafloras",
+    "Canjear Polvo estelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Whopperflower_Nectar.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Item_Whopperflower_Nectar.png",
+    "nameicon": "UI_ItemIcon_112038"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Whopperflower_Nectar"
+  },
+  "version": ""
+}

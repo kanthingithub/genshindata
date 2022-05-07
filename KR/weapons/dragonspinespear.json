@@ -1,0 +1,317 @@
+{
+  "name": "용의 척추",
+  "description": "드래곤의 이빨로 만든 장창. 기이한 따뜻함이 느껴진다",
+  "weapontype": "장병기",
+  "rarity": "4",
+  "baseatk": 41,
+  "substat": "물리 피해 보너스",
+  "subvalue": "15",
+  "effectname": "서리의 매장",
+  "effect": [
+    "일반 공격과 강공격이 적에게 명중 시 [60%]의 확률로 적의 위쪽에 영원의 얼음 결정을 생성한 후 떨궈서 공격력 [80%]의 범위 피해를 준다. 적이 만약 얼음 원소의 영향을 받으면 공격력 [200%]의 피해를 준다. 해당 효과는 10초마다 1회 발동한다",
+    "일반 공격과 강공격이 적에게 명중 시 [70%]의 확률로 적의 위쪽에 영원의 얼음 결정을 생성한 후 떨궈서 공격력 [95%]의 범위 피해를 준다. 적이 만약 얼음 원소의 영향을 받으면 공격력 [240%]의 피해를 준다. 해당 효과는 10초마다 1회 발동한다",
+    "일반 공격과 강공격이 적에게 명중 시 [80%]의 확률로 적의 위쪽에 영원의 얼음 결정을 생성한 후 떨궈서 공격력 [110%]의 범위 피해를 준다. 적이 만약 얼음 원소의 영향을 받으면 공격력 [280%]의 피해를 준다. 해당 효과는 10초마다 1회 발동한다",
+    "일반 공격과 강공격이 적에게 명중 시 [90%]의 확률로 적의 위쪽에 영원의 얼음 결정을 생성한 후 떨궈서 공격력 [125%]의 범위 피해를 준다. 적이 만약 얼음 원소의 영향을 받으면 공격력 [320%]의 피해를 준다. 해당 효과는 10초마다 1회 발동한다",
+    "일반 공격과 강공격이 적에게 명중 시 [100%]의 확률로 적의 위쪽에 영원의 얼음 결정을 생성한 후 떨궈서 공격력 [140%]의 범위 피해를 준다. 적이 만약 얼음 원소의 영향을 받으면 공격력 [360%]의 피해를 준다. 해당 효과는 10초마다 1회 발동한다"
+  ],
+  "r1": [
+    "60%",
+    "80%",
+    "200%"
+  ],
+  "r2": [
+    "70%",
+    "95%",
+    "240%"
+  ],
+  "r3": [
+    "80%",
+    "110%",
+    "280%"
+  ],
+  "r4": [
+    "90%",
+    "125%",
+    "320%"
+  ],
+  "r5": [
+    "100%",
+    "140%",
+    "360%"
+  ],
+  "weaponmaterialtype": "Boreal Wolf",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "모라",
+        "count": 5000
+      },
+      {
+        "name": "칼바람 울프의 젖니",
+        "count": 3
+      },
+      {
+        "name": "안개꽃 가루",
+        "count": 3
+      },
+      {
+        "name": "신병의 휘장",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "모라",
+        "count": 15000
+      },
+      {
+        "name": "칼바람 울프의 이빨",
+        "count": 3
+      },
+      {
+        "name": "안개꽃 가루",
+        "count": 12
+      },
+      {
+        "name": "신병의 휘장",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "모라",
+        "count": 20000
+      },
+      {
+        "name": "칼바람 울프의 이빨",
+        "count": 6
+      },
+      {
+        "name": "안개풀 주머니",
+        "count": 6
+      },
+      {
+        "name": "사관의 휘장",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "모라",
+        "count": 30000
+      },
+      {
+        "name": "칼바람 울프의 부서진 이빨",
+        "count": 3
+      },
+      {
+        "name": "안개풀 주머니",
+        "count": 12
+      },
+      {
+        "name": "사관의 휘장",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "모라",
+        "count": 35000
+      },
+      {
+        "name": "칼바람 울프의 부서진 이빨",
+        "count": 6
+      },
+      {
+        "name": "안개 등심",
+        "count": 9
+      },
+      {
+        "name": "위관의 휘장",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "모라",
+        "count": 45000
+      },
+      {
+        "name": "칼바람 울프의 그리운 고향",
+        "count": 4
+      },
+      {
+        "name": "안개 등심",
+        "count": 18
+      },
+      {
+        "name": "위관의 휘장",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Weapon_Dragonspine_Spear.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Everfrost.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Everfrost_Awaken.png",
+    "nameicon": "UI_EquipIcon_Pole_Everfrost",
+    "namegacha": "UI_Gacha_EquipIcon_Pole_Everfrost",
+    "nameawakenicon": "UI_EquipIcon_Pole_Everfrost_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dragonspine_Spear"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 41.067100524902344,
+      "specialized": 0.15013299882411957
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 53.63363305053463,
+      "specialized": 0.17445453575659187
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 69.07486476696522,
+      "specialized": 0.20463128269486042
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 84.26969215700228,
+      "specialized": 0.23495815175042623
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 99.25918424023803,
+      "specialized": 0.2652850029087439
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 125.1591838587683,
+      "specialized": 0.2652850029087439
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 139.98440965479494,
+      "specialized": 0.2956118719643097
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 154.68642349646507,
+      "specialized": 0.3259387410198755
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 169.22418084208584,
+      "specialized": 0.3562655921781932
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 183.6798001485222,
+      "specialized": 0.38659247913100714
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 209.67980205587082,
+      "specialized": 0.38659247913100714
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 224.05328332312274,
+      "specialized": 0.4169193302893248
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 238.34463634235,
+      "specialized": 0.44724621724213875
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 264.2446378682289,
+      "specialized": 0.44724621724213875
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 278.45386263943146,
+      "specialized": 0.47757306840045644
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 292.6220037043022,
+      "specialized": 0.5078999195587741
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 318.52199760078656,
+      "specialized": 0.5078999195587741
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 332.6080104176326,
+      "specialized": 0.538226806511588
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 346.6529591104663,
+      "specialized": 0.5684035355526085
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 372.6529591104663,
+      "specialized": 0.5684035355526085
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 386.6568436792877,
+      "specialized": 0.5987303867109262
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 400.6607282481091,
+      "specialized": 0.6290572736637401
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 426.5607374033825,
+      "specialized": 0.6290572736637401
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 440.4824741418597,
+      "specialized": 0.659384160616554
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 454.3631663386441,
+      "specialized": 0.6897109759803755
+    }
+  },
+  "version": "1.2"
+}

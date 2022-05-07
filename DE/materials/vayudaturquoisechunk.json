@@ -1,0 +1,21 @@
+{
+  "name": "Vayuda-Türkis-Brocken",
+  "description": "Material für den Figurenaufstieg.\n„Die Windrichtung kann sich jederzeit ändern.“\n„Eines Tages wird uns der Wind in eine noch bessere Zukunft tragen.“",
+  "sortorder": 1840,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Beute von Anemo-Hypostasen ab Stufe 60",
+    "Kann hergestellt werden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vayuda_Turquoise_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Vayuda_Turquoise_Chunk.png",
+    "nameicon": "UI_ItemIcon_104153"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Vayuda_Turquoise_Chunk"
+  },
+  "version": ""
+}

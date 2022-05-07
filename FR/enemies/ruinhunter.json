@@ -1,0 +1,141 @@
+{
+  "name": "Chasseur des ruines",
+  "specialname": "Fo-74931",
+  "enemytype": "ELITE",
+  "category": "Automates",
+  "description": "Une gigantesque machine de combat à la forme hors du commun.\nOn raconte que ces machines sont les vestiges d'un royaume aujourd'hui oublié de tous. Il semblerait que ses créateurs aient choisi d'abandonner l'apparence humaine au profit de l'efficacité au combat. Ces engins sont aussi dangereux de près que de loin.\nSi les armes abandonnées par une ancienne civilisation sont capables d'une telle puissance, on est en droit de se poser la question suivante : à quoi pouvait donc ressembler cette civilisation à son apogée ?",
+  "investigation": {
+    "name": "Chasseur des ruines",
+    "category": "Élite",
+    "description": "Une gigantesque machine de combat à la forme hors du commun.\\nOn raconte que ces machines sont les vestiges d'un royaume aujourd'hui oublié de tous. Il semblerait que ses créateurs aient choisi d'abandonner l'apparence humaine au profit de l'efficacité au combat. Ces engins sont aussi dangereux de près que de loin.\\nSi les armes abandonnées par une ancienne civilisation sont capables d'une telle puissance, on est en droit de se poser la question suivante : à quoi pouvait donc ressembler cette civilisation à son apogée ?"
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Dispositif du chaos",
+      "count": 2.6263
+    },
+    {
+      "name": "Circuit du chaos",
+      "count": 0.7003
+    },
+    {
+      "name": "Noyau du chaos",
+      "count": 0.1751
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instructeur",
+      "rarity": "3"
+    },
+    {
+      "name": "Exilé",
+      "rarity": "3"
+    },
+    {
+      "name": "Médecin itinérant",
+      "rarity": "3"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructeur",
+      "rarity": "4"
+    },
+    {
+      "name": "Exilé",
+      "rarity": "4"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Formathr_None"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 437.5019589085132,
+      "attack": 177.64411222515264,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 1719.6243214995484,
+      "attack": 474.6194215347714,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 5311.200007694308,
+      "attack": 1170.7497374278319,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 8836.801959766774,
+      "attack": 1912.2361476140213,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 16169.096780894324,
+      "attack": 2858.8971133111045,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 29978.905535548925,
+      "attack": 4408.790607338597,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 50287.52887867391,
+      "attack": 6208.470482882694,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 78311.83582433872,
+      "attack": 8570.500074193114,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 111394.36524301395,
+      "attack": 11026.854907069355,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 146124.52006453648,
+      "attack": 13321.960470842896,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 220590.7292405963,
+      "attack": 17235.461557551753,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 321013.8823301643,
+      "attack": 17577.679578989046,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 431917.9003403038,
+      "attack": 17922.293613560032,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

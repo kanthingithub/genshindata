@@ -1,0 +1,20 @@
+{
+  "name": "Mudra da Shogun Maléfica",
+  "description": "Uma parte do corpo de uma marionete obtida no Plano da Eutimia. O gesto aqui simboliza o conceito de \"um vê e um faz\".\nMesmo tendo \"ela\" se tornado a Deusa do Desastre, ainda pode utilizar tais gestos transcendentais, e sua espada pode brilhar assim como seus olhos podem ver.\nAinda assim, os incontáveis desastres se prolongaram por muito tempo, e a carcaça da feroz general teve que abraçar uma nova primavera.",
+  "sortorder": 1814,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Recompensa do Desafio da Guardiã da Eternidade (Nível 70+)"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_113032",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mudra_of_the_Malefic_General.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Item_Mudra_of_the_Malefic_General.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mudra_of_the_Malefic_General"
+  },
+  "version": ""
+}

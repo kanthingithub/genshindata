@@ -1,0 +1,21 @@
+{
+  "name": "Шелковица",
+  "description": "Цветы алого цвета. Во время цветения напоминают радужные облака Ли Юэ. Из них можно сделать шёлковую ткань.",
+  "sortorder": 2050,
+  "category": "EXCHANGE",
+  "materialtype": "Диковина Ли Юэ",
+  "source": [
+    "У террасы Юйцзин в Ли Юэ",
+    "У постоялого двора «Ваншу»",
+    "Гавань Ли Юэ"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Silk_Flower.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Item_Silk_Flower.png",
+    "nameicon": "UI_ItemIcon_100029"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Silk_Flower"
+  },
+  "version": ""
+}

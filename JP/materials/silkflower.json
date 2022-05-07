@@ -1,0 +1,21 @@
+{
+  "name": "霓裳花",
+  "description": "璃月で霓雲のように咲く赤い花。水のように滑らかな織物の原料である。",
+  "sortorder": 2050,
+  "category": "EXCHANGE",
+  "materialtype": "璃月地域の特産",
+  "source": [
+    "璃月港の玉京台付近で採集",
+    "望舒旅館付近で採集",
+    "推奨：璃月港で採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Silk_Flower.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Item_Silk_Flower.png",
+    "nameicon": "UI_ItemIcon_100029"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Silk_Flower"
+  },
+  "version": ""
+}

@@ -1,0 +1,950 @@
+{
+  "name": "Kamisato Ayato",
+  "fullname": "Kamisato Ayato",
+  "title": "Pilar da Fortaleza",
+  "description": "O jovem promissor e chefe atual da Comissão Yashiro, é culto e educado, e sempre tem uma forma de fazer as coisas.",
+  "rarity": "5",
+  "element": "Hydro",
+  "weapontype": "Espada",
+  "substat": "Dano Crítico",
+  "gender": "Masculino",
+  "body": "MALE",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "Comissão Yashiro",
+  "birthdaymmdd": "3/26",
+  "birthday": "26 de março",
+  "constellation": "Cypressus Custos",
+  "cv": {
+    "english": "Chris Hackney",
+    "chinese": "赵路",
+    "japanese": "石田彰",
+    "korean": "张民赫"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Lasca de Lazurita Varunada",
+        "count": 1
+      },
+      {
+        "name": "Pétalas da Flor de Sakura",
+        "count": 3
+      },
+      {
+        "name": "Protetor de Mão Velho",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de Lazurita Varunada",
+        "count": 3
+      },
+      {
+        "name": "Orvalho da Repudiação",
+        "count": 2
+      },
+      {
+        "name": "Pétalas da Flor de Sakura",
+        "count": 10
+      },
+      {
+        "name": "Protetor de Mão Velho",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de Lazurita Varunada",
+        "count": 6
+      },
+      {
+        "name": "Orvalho da Repudiação",
+        "count": 4
+      },
+      {
+        "name": "Pétalas da Flor de Sakura",
+        "count": 20
+      },
+      {
+        "name": "Protetor de Mão Kageuchi",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Pedaço de Lazurita Varunada",
+        "count": 3
+      },
+      {
+        "name": "Orvalho da Repudiação",
+        "count": 8
+      },
+      {
+        "name": "Pétalas da Flor de Sakura",
+        "count": 30
+      },
+      {
+        "name": "Protetor de Mão Kageuchi",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Pedaço de Lazurita Varunada",
+        "count": 6
+      },
+      {
+        "name": "Orvalho da Repudiação",
+        "count": 12
+      },
+      {
+        "name": "Pétalas da Flor de Sakura",
+        "count": 45
+      },
+      {
+        "name": "Protetor de Mão Famoso",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Gema de Lazurita Varunada",
+        "count": 6
+      },
+      {
+        "name": "Orvalho da Repudiação",
+        "count": 20
+      },
+      {
+        "name": "Pétalas da Flor de Sakura",
+        "count": 60
+      },
+      {
+        "name": "Protetor de Mão Famoso",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_AvatarIcon_Ayato",
+    "nameiconcard": "UI_AvatarIcon_Ayato_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Ayato",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Ayato",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png",
+    "namesideicon": "UI_AvatarIcon_Side_Ayato",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ayato.png",
+    "cover1": "https://webstatic-sea.hoyoverse.com/upload/contentweb/2022/03/22/ccfce868ab7a930170b38b51347043a6_3309809781103300675.png",
+    "cover2": "https://webstatic-sea.hoyoverse.com/upload/contentweb/2022/03/22/96591f9444dd31afa795df741b890d48_4501703369399728.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Kamisato_Ayato"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1067.7183837890625,
+      "attack": 23.274999618530273,
+      "defense": 59.83000183105469,
+      "specialized": 0.5
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2769.6615954839217,
+      "attack": 60.37535136332508,
+      "defense": 155.19903079793949,
+      "specialized": 0.5
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3685.133580347203,
+      "attack": 80.33010142436024,
+      "defense": 206.49903003500003,
+      "specialized": 0.5
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5514.135234909714,
+      "attack": 120.2001771471023,
+      "defense": 308.98782670921355,
+      "specialized": 0.5
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 6164.602214890183,
+      "attack": 134.37855239124292,
+      "defense": 345.437827472153,
+      "specialized": 0.596000000834465
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 7092.449445599632,
+      "attack": 154.60452608308788,
+      "defense": 397.43009655277274,
+      "specialized": 0.596000000834465
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7959.738752240257,
+      "attack": 173.50902513704295,
+      "defense": 446.03010265628836,
+      "specialized": 0.69200000166893
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8897.195261044777,
+      "attack": 193.94446974124912,
+      "defense": 498.56083125465375,
+      "specialized": 0.69200000166893
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9547.662057919777,
+      "attack": 208.122848800087,
+      "defense": 535.0108282028959,
+      "specialized": 0.69200000166893
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 10493.660712950805,
+      "attack": 228.744502102375,
+      "defense": 588.0202191827775,
+      "specialized": 0.69200000166893
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 11144.12775396643,
+      "attack": 242.92287734651563,
+      "defense": 624.4702161310197,
+      "specialized": 0.7879999876022339
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 12100.803328088892,
+      "attack": 263.7772748738289,
+      "defense": 678.0778922940444,
+      "specialized": 0.7879999876022339
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12751.270124963892,
+      "attack": 277.955642488575,
+      "defense": 714.5278892422866,
+      "specialized": 0.8840000033378601
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 13715.420204316499,
+      "attack": 298.97297540130603,
+      "defense": 768.55440212143,
+      "specialized": 0.8840000033378601
+    }
+  },
+  "version": "2.6",
+  "constellations": {
+    "c1": {
+      "name": "Reflexo Gracioso",
+      "effect": "**Espada Aquática** infligirá 40% a mais de Dano em inimigos com Vida igual ou inferior a 50%."
+    },
+    "c2": {
+      "name": "Fonte do Mundo",
+      "effect": "O número máximo de acúmulos de **Onda Brilhante** é aumentado para 5. Quando Kamisato Ayato possuir pelo menos 3 acúmulos de Ondas Brilhantes, sua Vida Máxima será aumentada em 50%."
+    },
+    "c3": {
+      "name": "Admiração das Flores",
+      "effect": "Aumenta o nível de **Arte Kamisato: Beleza Refletida** em 3.\nO nível máximo de elevação é 15."
+    },
+    "c4": {
+      "name": "Fluxo Ininterrupto",
+      "effect": "Ao usar **Arte Kamisato: Jardim Aquático**, os personagens próximos da equipe terão um aumento da Vel. de ATQ do Ataque Normal de 15% por 15s."
+    },
+    "c5": {
+      "name": "Orvalho de Mil Gotas",
+      "effect": "Aumenta o nível **Arte Kamisato: Jardim Aquático** em 3.\nO nível máximo de elevação é 15."
+    },
+    "c6": {
+      "name": "Origem Ilimitada",
+      "effect": "Depois de usar **Arte Kamisato: Beleza Refletida**, o próximo ataque de Espada Aquática de Kamisato Ayato que atingir um inimigo desencadeará dois ataques de Espadas Aquáticas adicionais, cada um infligindo Dano equivalente a 450% do Dano do Ataque de Kamisato Ayato.\nEstes dois ataques da Espada Aquática não receberão bônus de Onda Brilhante."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ayato_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ayato_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Ayato_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ayato_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Ayato_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ayato_04.png",
+      "constellation": "Eff_UI_Talent_Ayato"
+    },
+    "version": "2.6"
+  },
+  "talent": {
+    "name": "Kamisato Ayato",
+    "combat1": {
+      "name": "Ataque Normal: Arte Kamisato - Giro",
+      "info": "**Ataque Normal**\nRealiza até 5 golpes de espada.\n\n**Ataque Carregado**\nConsome uma certa quantidade de Stamina para avançar para frente realizando Iaido.\n\n**Ataque Imersivo**\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE no impacto.",
+      "attributes": [
+        {
+          "name": "Dano do 1° Golpe",
+          "parameters": [
+            "44.96%",
+            "48.62%",
+            "52.28%",
+            "57.51%",
+            "61.17%",
+            "65.35%",
+            "71.10%",
+            "76.85%",
+            "82.60%",
+            "88.88%",
+            "95.15%",
+            "101.43%",
+            "107.70%",
+            "113.97%",
+            "120.25%"
+          ]
+        },
+        {
+          "name": "Dano do 2° Golpe",
+          "parameters": [
+            "47.16%",
+            "51.00%",
+            "54.83%",
+            "60.32%",
+            "64.16%",
+            "68.54%",
+            "74.57%",
+            "80.61%",
+            "86.64%",
+            "93.22%",
+            "99.80%",
+            "106.38%",
+            "112.96%",
+            "119.54%",
+            "126.12%"
+          ]
+        },
+        {
+          "name": "Dano do 3° Golpe",
+          "parameters": [
+            "58.61%",
+            "63.38%",
+            "68.15%",
+            "74.97%",
+            "79.74%",
+            "85.19%",
+            "92.69%",
+            "100.19%",
+            "107.68%",
+            "115.86%",
+            "124.04%",
+            "132.22%",
+            "140.40%",
+            "148.58%",
+            "156.75%"
+          ]
+        },
+        {
+          "name": "Dano do 4° Golpe",
+          "parameters": [
+            "29.45% x2",
+            "31.85% x2",
+            "34.24% x2",
+            "37.67% x2",
+            "40.06% x2",
+            "42.80% x2",
+            "46.57% x2",
+            "50.34% x2",
+            "54.10% x2",
+            "58.21% x2",
+            "62.32% x2",
+            "66.43% x2",
+            "70.54% x2",
+            "74.65% x2",
+            "78.76% x2"
+          ]
+        },
+        {
+          "name": "Dano do 5° Golpe",
+          "parameters": [
+            "75.60%",
+            "81.76%",
+            "87.91%",
+            "96.70%",
+            "102.86%",
+            "109.89%",
+            "119.56%",
+            "129.23%",
+            "138.90%",
+            "149.45%",
+            "160.00%",
+            "170.55%",
+            "181.10%",
+            "191.65%",
+            "202.20%"
+          ]
+        },
+        {
+          "name": "Dano de Ataque Carregado",
+          "parameters": [
+            "129.53%",
+            "140.07%",
+            "150.62%",
+            "165.68%",
+            "176.22%",
+            "188.27%",
+            "204.84%",
+            "221.41%",
+            "237.97%",
+            "256.05%",
+            "274.12%",
+            "292.19%",
+            "310.27%",
+            "328.34%",
+            "346.42%"
+          ]
+        },
+        {
+          "name": "Consumo de Stamina de Ataque Carregado",
+          "parameters": [
+            "20 pontos",
+            "20 pontos",
+            "20 pontos",
+            "20 pontos",
+            "20 pontos",
+            "20 pontos",
+            "20 pontos",
+            "20 pontos",
+            "20 pontos",
+            "20 pontos",
+            "20 pontos",
+            "20 pontos",
+            "20 pontos",
+            "20 pontos",
+            "20 pontos"
+          ]
+        },
+        {
+          "name": "Dano Durante a Queda",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "Dano de Queda de Baixa/Alta Altitude",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Arte Kamisato: Beleza Refletida",
+      "info": "Kamisato Ayato troca de posição e entra no estado \"Reflexão Torrencial\".\nApós esta troca, ele deixará uma Ilusão de Água na sua localização original. Após sua formação, a Ilusão de Água explodirá se os oponentes estiverem próximos ou quando sua duração terminar, infligindo Dano Hydro em AdE.\n\n**Reflexão Torrencial**\nNesse estado, Kamisato Ayato usa sua Espada Aquática para realizar ataques rápidos, fazendo com que o Dano de seus Ataques Normais seja convertido em Dano Hydro em AdE que não pode ser substituído pelo encantamento de outros elementos.\nAlém disso, também possui as seguintes propriedades:\n· Quando os ataques da Espada Aquática atingem um inimigo, darão a Ayato o efeito de Ondas Brilhantes, aumentando o Dano infligido pela Espada Aquática baseado na Vida Máxima atual de Ayato. O número máximo inicial de acúmulos de Ondas Brilhantes é 4, e é possível obter um acúmulo através da Espada Aquática a cada 0.1s. Esse efeito desaparecerá quando a Reflexão Torrencial acabar.\n· Aumenta a Resistência Contra Interrupção de Kamisato Ayato.\n· Se torna incapaz de usar Ataques Carregados ou Imersivos.\nA Reflexão Torrencial será eliminada quando Ayato sair do campo de batalha. Usar Arte Kamisato: Beleza Refletida novamente enquanto ainda estiver no estado Reflexão Torrencial encerrará tal estado.",
+      "description": "Me pergunto quando você teve a ilusão que estava ganhando?\nAyato é assim tanto na proeza marcial quanto na intriga política, mas para preservar a dignidade de seus colegas deas outras duas Comissões, ele não diz tais coisas a eles. Dessa forma, somente Thoma, Itto e Ayaka ouviram isso.",
+      "attributes": [
+        {
+          "name": "Dano do 1° Golpe da Espada Aquática",
+          "parameters": [
+            "52.89%",
+            "57.20%",
+            "61.50%",
+            "67.65%",
+            "71.96%",
+            "76.88%",
+            "83.64%",
+            "90.40%",
+            "97.17%",
+            "104.55%",
+            "111.93%",
+            "119.31%",
+            "126.69%",
+            "134.07%",
+            "141.45%"
+          ]
+        },
+        {
+          "name": "Dano do 2° Golpe da Espada Aquática",
+          "parameters": [
+            "58.91%",
+            "63.70%",
+            "68.50%",
+            "75.35%",
+            "80.15%",
+            "85.62%",
+            "93.16%",
+            "100.70%",
+            "108.23%",
+            "116.45%",
+            "124.67%",
+            "132.89%",
+            "141.11%",
+            "149.33%",
+            "157.55%"
+          ]
+        },
+        {
+          "name": "Dano do 3° Golpe da Espada Aquática",
+          "parameters": [
+            "64.93%",
+            "70.21%",
+            "75.50%",
+            "83.05%",
+            "88.34%",
+            "94.38%",
+            "102.68%",
+            "110.99%",
+            "119.29%",
+            "128.35%",
+            "137.41%",
+            "146.47%",
+            "155.53%",
+            "164.59%",
+            "173.65%"
+          ]
+        },
+        {
+          "name": "Duração da Reflexão Torrencial",
+          "parameters": [
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s"
+          ]
+        },
+        {
+          "name": "Aumento de Dano de Ondas Brilhantes",
+          "parameters": [
+            "0.56% da Vida Máxima/Acúmulo",
+            "0.61% da Vida Máxima/Acúmulo",
+            "0.65% da Vida Máxima/Acúmulo",
+            "0.72% da Vida Máxima/Acúmulo",
+            "0.76% da Vida Máxima/Acúmulo",
+            "0.82% da Vida Máxima/Acúmulo",
+            "0.89% da Vida Máxima/Acúmulo",
+            "0.96% da Vida Máxima/Acúmulo",
+            "1.03% da Vida Máxima/Acúmulo",
+            "1.11% da Vida Máxima/Acúmulo",
+            "1.19% da Vida Máxima/Acúmulo",
+            "1.27% da Vida Máxima/Acúmulo",
+            "1.34% da Vida Máxima/Acúmulo",
+            "1.42% da Vida Máxima/Acúmulo",
+            "1.50% da Vida Máxima/Acúmulo"
+          ]
+        },
+        {
+          "name": "Dano da Ilusão de Água",
+          "parameters": [
+            "101.48%",
+            "109.74%",
+            "118.00%",
+            "129.80%",
+            "138.06%",
+            "147.50%",
+            "160.48%",
+            "173.46%",
+            "186.44%",
+            "200.60%",
+            "214.76%",
+            "228.92%",
+            "243.08%",
+            "257.24%",
+            "271.40%"
+          ]
+        },
+        {
+          "name": "Duração da Ilusão de Água",
+          "parameters": [
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s"
+          ]
+        },
+        {
+          "name": "Tempo de Recarga",
+          "parameters": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Arte Kamisato: Jardim Aquático",
+      "info": "Revela um jardim puro que extingue toda a cacofonia.\nEnquanto esse espaço existir, Lâminas de Flores de Água constantemente cairão e atacarão os inimigos em sua AdE, infligindo Dano Hydro e aumentando o dano do Ataque Normal dos personagens dentro da AdE.\n\n\"Eu vejo, posso ver ondas de batimento de seu coração nesse reino de águas paradas\".",
+      "attributes": [
+        {
+          "name": "Dano da Lâmina de Flores de Água",
+          "parameters": [
+            "66.46%",
+            "71.44%",
+            "76.42%",
+            "83.07%",
+            "88.05%",
+            "93.04%",
+            "99.68%",
+            "106.33%",
+            "112.98%",
+            "119.62%",
+            "126.27%",
+            "132.91%",
+            "141.22%",
+            "149.53%",
+            "157.83%"
+          ]
+        },
+        {
+          "name": "Aumento de Dano do Ataque Normal",
+          "parameters": [
+            "11.00%",
+            "12.00%",
+            "13.00%",
+            "14.00%",
+            "15.00%",
+            "16.00%",
+            "17.00%",
+            "18.00%",
+            "19.00%",
+            "20.00%",
+            "20.00%",
+            "20.00%",
+            "20.00%",
+            "20.00%",
+            "20.00%"
+          ]
+        },
+        {
+          "name": "Duração",
+          "parameters": [
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s"
+          ]
+        },
+        {
+          "name": "Recarga",
+          "parameters": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "name": "Energia Elemental",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Arte Kamisato: Corrente entre Montanhas",
+      "info": "**Arte Kamisato: Beleza Refletida** possui as seguintes propriedades:\n· Depois de ser lançada, Kamisato Ayato obtém 2 acúmulos de Ondas Brilhantes;\n· Depois de sua Ilusão de Água explodir, Kamisato Ayato obterá um efeito de Ondas Brilhantes igual ao máximo de número de acúmulos possíveis."
+    },
+    "passive2": {
+      "name": "Arte Kamisato: Completação da Lua Nascente",
+      "info": "Quando Kamisato Ayato está na equipe, mas não ativo no campo de batalha, se sua Energia Elemental for menor que 40 pontos, ele regenerará 2 pontos de Energia Elemental para si mesmo por segundo."
+    },
+    "passive3": {
+      "name": "Arte Kamisato: Cozinha Diária",
+      "info": "Quando uma Comida Perfeita é feita, tem uma chance de 18% de receber uma Comida Estranha de mesmo tipo."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Ensinamentos de Cultura",
+          "count": 3
+        },
+        {
+          "name": "Protetor de Mão Velho",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guia da Cultura",
+          "count": 2
+        },
+        {
+          "name": "Protetor de Mão Kageuchi",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guia da Cultura",
+          "count": 4
+        },
+        {
+          "name": "Protetor de Mão Kageuchi",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guia da Cultura",
+          "count": 6
+        },
+        {
+          "name": "Protetor de Mão Kageuchi",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guia da Cultura",
+          "count": 9
+        },
+        {
+          "name": "Protetor de Mão Kageuchi",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofia da Cultura",
+          "count": 4
+        },
+        {
+          "name": "Protetor de Mão Famoso",
+          "count": 4
+        },
+        {
+          "name": "Mudra da Shogun Maléfica",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofia da Cultura",
+          "count": 6
+        },
+        {
+          "name": "Protetor de Mão Famoso",
+          "count": 6
+        },
+        {
+          "name": "Mudra da Shogun Maléfica",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofia da Cultura",
+          "count": 12
+        },
+        {
+          "name": "Protetor de Mão Famoso",
+          "count": 9
+        },
+        {
+          "name": "Mudra da Shogun Maléfica",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofia da Cultura",
+          "count": 16
+        },
+        {
+          "name": "Protetor de Mão Famoso",
+          "count": 12
+        },
+        {
+          "name": "Mudra da Shogun Maléfica",
+          "count": 2
+        },
+        {
+          "name": "Coroa da Sabedoria",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_01",
+      "combat2": "Skill_S_Ayato_01",
+      "combat3": "Skill_E_Ayato_01_HD",
+      "passive1": "UI_Talent_S_Ayato_05",
+      "passive2": "UI_Talent_S_Ayato_06",
+      "passive3": "UI_Talent_S_Ayato_07"
+    },
+    "version": "2.6"
+  }
+}

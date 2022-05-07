@@ -1,0 +1,22 @@
+{
+  "name": "Seal Scroll",
+  "description": "คัมภีร์โบราณที่ประกอบไปด้วยภาพวาด ที่ยากจะเข้าใจ ลองเลียนแบบท่าทาง ของสัตว์ประหลาดบางตัวดูสิ แล้วจะได้พบกับปาฏิหาริย์แห่ง เวทมนตร์",
+  "sortorder": 1730,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ได้รับจากการสรรสร้าง",
+    "ดรอปจาก Samachurl Lv.40 ขึ้นไป",
+    "แลกเปลี่ยนด้วย Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sealed_Scroll.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Sealed_Scroll.png",
+    "nameicon": "UI_ItemIcon_112009"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sealed_Scroll"
+  },
+  "version": ""
+}

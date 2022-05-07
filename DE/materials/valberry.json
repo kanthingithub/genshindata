@@ -1,0 +1,20 @@
+{
+  "name": "Valbeere",
+  "description": "Eine pralle und durchsichtige Beere, die im Mund einen frischen, süßen Geschmack entfaltet. Die Wächter, die früher nach dem Sturm Ausschau hielten, fanden Trost in der Süße der Valbeere sowie der Hoffnung auf Ruhe in der Stadt.",
+  "sortorder": 2037,
+  "category": "EXCHANGE",
+  "materialtype": "Regionale Besonderheit aus Mondstadt",
+  "source": [
+    "In der freien Natur zu finden",
+    "Empfohlen: Auf den Windblickbergen zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Valberry.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/ed/Item_Valberry.png",
+    "nameicon": "UI_ItemIcon_100022"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Valberry"
+  },
+  "version": ""
+}

@@ -1,0 +1,17 @@
+{
+  "name": "EXP BP",
+  "description": "บันทึกการเดินทางคือการบันทึกประสบการณ์ทั้งหมดในการเดินทางอันแสนยาวนาน ซึ่งบันทึกเหล่านี้จะถูกนำมาเป็นข้อมูลในการเขียนบทกวี",
+  "sortorder": 2256,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "EXP BP",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_116001",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_BEP.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/BEP"
+  },
+  "version": ""
+}

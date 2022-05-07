@@ -1,0 +1,18 @@
+{
+  "name": "Pierre de la fatalité",
+  "description": "Une graine du destin qui relie les rêves.\nLa lueur de la pierre de la fatalité peut faire s'entrelacer les sorts qui ne devraient pas se croiser. C'est grâce à cette lueur que les étoiles peuvent former l'image de votre cœur.",
+  "sortorder": 498,
+  "rarity": "5",
+  "category": "CONSUME",
+  "materialtype": "Objet de vœux exclusif",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_223",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Intertwined_Fate.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Item_Intertwined_Fate.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Intertwined_Fate"
+  },
+  "version": ""
+}

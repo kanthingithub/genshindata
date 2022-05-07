@@ -1,0 +1,19 @@
+{
+  "name": "Onion",
+  "description": "Sayuran berbentuk bulat. Saat dipotong, dia akan membalas dendam dengan membuatmu menangis, tidak peduli seberapa besar pun keberanianmu.",
+  "sortorder": 1996,
+  "category": "EXCHANGE",
+  "materialtype": "Bahan Masak",
+  "source": [
+    "Dijual di toko barang kebutuhan"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Onion.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Item_Onion.png",
+    "nameicon": "UI_ItemIcon_100076"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Onion"
+  },
+  "version": ""
+}

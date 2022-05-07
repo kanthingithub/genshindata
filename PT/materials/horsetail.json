@@ -1,0 +1,20 @@
+{
+  "name": "Rabo de Cavalo",
+  "description": "Uma planta roxa que às vezes cresce em meio ao capim, mas cresce mais alta, mais reta e mais gorda, como um aristocrata entre os pobres.",
+  "sortorder": 1967,
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [
+    "Encontrado em pântanos e áreas úmidas",
+    "Recomendação: Encontrado no Pântano de Dihua"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Horsetail.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Item_Horsetail.png",
+    "nameicon": "UI_ItemIcon_100032"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Horsetail"
+  },
+  "version": ""
+}

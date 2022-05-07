@@ -1,0 +1,153 @@
+{
+  "name": "Rock Shieldwall Mitachurl",
+  "specialname": "Dada Kundala",
+  "enemytype": "ELITE",
+  "category": "Suku Hilichurl",
+  "description": "Hilichurl kekar yang menggunakan perisai batu.\nBagi seekor Hilichurl, dua hal yang paling penting adalah makan banyak daging dan bertarung karena keduanya membuat mereka semakin kuat.\nSemua Hilichurl muda bermimpi untuk bisa menjadi Mitachurl yang besar dan kuat, agar mereka bisa makan lebih banyak daging, bertarung lebih banyak, dan memakai perisai batu yang (hampir) tak bisa dihancurkan.",
+  "investigation": {
+    "name": "Mitachurl",
+    "category": "Elite",
+    "description": "Petarung terkuat dari suku Hilichurl.\\nBertarung dan menyantap daging adalah dua hal terpenting bagi Hilichurl, karena kedua hal itulah yang membuat mereka semakin kuat. Menjadi Mitachurl yang kuat dan besar adalah impian setiap Hilichurl muda, agar mereka dapat menyantap lebih banyak daging, dan bertarung lebih lama."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Heavy Horn",
+      "count": 1.5758
+    },
+    {
+      "name": "Black Bronze Horn",
+      "count": 0.4202
+    },
+    {
+      "name": "Black Crystal Horn",
+      "count": 0.1051
+    },
+    {
+      "name": "Damaged Mask",
+      "count": 0.5253
+    },
+    {
+      "name": "Stained Mask",
+      "count": 0.1401
+    },
+    {
+      "name": "Ominous Mask",
+      "count": 0.035
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "3"
+    },
+    {
+      "name": "The Exile",
+      "rarity": "3"
+    },
+    {
+      "name": "Traveling Doctor",
+      "rarity": "3"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "4"
+    },
+    {
+      "name": "The Exile",
+      "rarity": "4"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Brute_None_01"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 218.7509794542566,
+      "attack": 60.906552212361476,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 859.8121607497742,
+      "attack": 162.72665734099883,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 2655.600003847154,
+      "attack": 401.39990634691276,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 4418.400979883387,
+      "attack": 655.6238161127621,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 8084.548390447162,
+      "attack": 980.1932871321915,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 14989.452767774463,
+      "attack": 1511.5853374239596,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 25143.764439336956,
+      "attack": 2128.6184320330067,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 39155.91791216936,
+      "attack": 2938.457141733408,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 55697.182621506974,
+      "attack": 3780.6359339640476,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 73062.26003226824,
+      "attack": 4567.52926300207,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 110295.36462029815,
+      "attack": 5909.301052030816,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 160506.94116508216,
+      "attack": 6026.632944034442,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 215958.9501701519,
+      "attack": 6144.786326247908,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

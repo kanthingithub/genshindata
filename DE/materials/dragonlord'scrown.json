@@ -1,0 +1,20 @@
+{
+  "name": "Horn des Drachenkönigs",
+  "description": "Hörner, die aus gehärteter, über tausend Jahre kristallisierter Jade erschaffen wurden, sind die natürliche Krone des Drachenkönigs.\nDurchdrungen von Geist und aus dem Fels gehauen, wurde er aus dem Herzen des Berges geboren, um dem Land inmitten von Monolithen die Kraft der Erde zu zeigen, und seine langen goldenen Hörner sind das Zeichen seines alten Streits mit einem alten König.\nEine Zeit lang war dieses Horn zerbrochen und verlor seinen Glanz, aber jetzt schimmert es kalt und golden, wenn es in deiner Handfläche liegt.",
+  "sortorder": 1799,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Belohnung für die Herausforderung Azhdahas ab Stufe 70"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dragon_Lord's_Crown.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Item_Dragon_Lord%27s_Crown.png",
+    "nameicon": "UI_ItemIcon_113017"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dragon_Lord's_Crown"
+  },
+  "version": ""
+}

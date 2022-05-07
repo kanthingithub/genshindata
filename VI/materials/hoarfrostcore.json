@@ -1,0 +1,20 @@
+{
+  "name": "Hạt Nhân Cực Hàn",
+  "description": "Hạt nhân lộ ra sau khi Cây Cấp Đông bị đánh bại, chứa đầy nguyên tố Băng thuần khiết.\nNăng lượng và nỗi nhớ tuôn trào nơi sâu thẳm của đại địa cuối cùng cũng phun trào. Ngay cả cái giá lạnh âm thầm như nỗi nhớ cũng hòa vào dòng sinh mệnh trên mặt đất, khiến những thực vật dây leo vốn không nên có tập tính săn bắt, cũng trở nên to lớn và hung hãn.",
+  "sortorder": 1792,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Cây Cấp Đông cấp 30 trở lên rơi"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Hoarfrost_Core.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Item_Hoarfrost_Core.png",
+    "nameicon": "UI_ItemIcon_113010"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Hoarfrost_Core"
+  },
+  "version": ""
+}

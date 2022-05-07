@@ -1,0 +1,854 @@
+{
+  "name": "Xiao",
+  "fullname": "Xiao",
+  "title": "El Guardián Yaksha",
+  "description": "Un Yaksha y Adeptus que protege Liyue. También llamado el “Gran Cazador de Demonios” o “Guardián Yaksha”.",
+  "rarity": "5",
+  "element": "Anemo",
+  "weapontype": "Lanza",
+  "substat": "Prob. CRIT",
+  "gender": "Masculino",
+  "body": "BOY",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Adeptus de Liyue",
+  "birthdaymmdd": "4/17",
+  "birthday": "17 de abril",
+  "constellation": "Alatus Nemeseos",
+  "cv": {
+    "english": "Laila Berzins",
+    "chinese": "kinsen",
+    "japanese": "松岡禎丞",
+    "korean": "Shim Kyu-hyeok"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Pedacito de turquesa vayuda",
+        "count": 1
+      },
+      {
+        "name": "Flor chingxin",
+        "count": 3
+      },
+      {
+        "name": "Condensado de Slime",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de turquesa vayuda",
+        "count": 3
+      },
+      {
+        "name": "Jade inmaduro",
+        "count": 2
+      },
+      {
+        "name": "Flor chingxin",
+        "count": 10
+      },
+      {
+        "name": "Condensado de Slime",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de turquesa vayuda",
+        "count": 6
+      },
+      {
+        "name": "Jade inmaduro",
+        "count": 4
+      },
+      {
+        "name": "Flor chingxin",
+        "count": 20
+      },
+      {
+        "name": "Babas de Slime",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Trozo de turquesa vayuda",
+        "count": 3
+      },
+      {
+        "name": "Jade inmaduro",
+        "count": 8
+      },
+      {
+        "name": "Flor chingxin",
+        "count": 30
+      },
+      {
+        "name": "Babas de Slime",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Trozo de turquesa vayuda",
+        "count": 6
+      },
+      {
+        "name": "Jade inmaduro",
+        "count": 12
+      },
+      {
+        "name": "Flor chingxin",
+        "count": 45
+      },
+      {
+        "name": "Esencia de Slime",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Turquesa vayuda",
+        "count": 6
+      },
+      {
+        "name": "Jade inmaduro",
+        "count": 20
+      },
+      {
+        "name": "Flor chingxin",
+        "count": 60
+      },
+      {
+        "name": "Esencia de Slime",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Character_Xiao_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/1/1e/Character_Xiao_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xiao.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210122/2021012215393946486.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210122/2021012210173258296.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/59cb768b56ebc0143d6d2e37385c934c.png",
+    "nameicon": "UI_AvatarIcon_Xiao",
+    "nameiconcard": "UI_AvatarIcon_Xiao_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Xiao",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Xiao",
+    "namesideicon": "UI_AvatarIcon_Side_Xiao"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Xiao"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 991.4528198242188,
+      "attack": 27.185199737548828,
+      "defense": 62.223201751708984,
+      "specialized": 0.05000000074505806
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2571.828714849471,
+      "attack": 70.5184108673393,
+      "defense": 161.40699163404406,
+      "specialized": 0.05000000074505806
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3421.9098305721272,
+      "attack": 93.82555884707563,
+      "defense": 214.7589928242296,
+      "specialized": 0.05000000074505806
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5120.268569553446,
+      "attack": 140.39380760489803,
+      "defense": 321.3473411040286,
+      "specialized": 0.05000000074505806
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5724.273635471414,
+      "attack": 156.95414848624569,
+      "defense": 359.2553420500735,
+      "specialized": 0.09800000116229057
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6585.846094295644,
+      "attack": 180.57808591743924,
+      "defense": 413.3273017613192,
+      "specialized": 0.09800000116229057
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7391.186182186269,
+      "attack": 202.65854169746854,
+      "defense": 463.8713004795809,
+      "specialized": 0.1460000015795231
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8261.681542412669,
+      "attack": 226.5271411559479,
+      "defense": 518.5032580879088,
+      "specialized": 0.1460000015795231
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8865.686425225169,
+      "attack": 243.08748203729556,
+      "defense": 556.411262848651,
+      "specialized": 0.1460000015795231
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9744.113778655214,
+      "attack": 267.1735732565994,
+      "defense": 611.5410293325349,
+      "specialized": 0.1460000015795231
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10348.118905608339,
+      "attack": 283.73391413794707,
+      "defense": 649.449018834488,
+      "specialized": 0.193999994546175
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11236.460541400622,
+      "attack": 308.09185061391145,
+      "defense": 705.201001907315,
+      "specialized": 0.193999994546175
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11840.465424213122,
+      "attack": 324.65219912465363,
+      "defense": 743.1090066680572,
+      "specialized": 0.2420000024139881
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12735.747672248981,
+      "attack": 349.2004441320678,
+      "defense": 799.2965799245794,
+      "specialized": 0.2420000024139881
+    }
+  },
+  "version": "1.3",
+  "constellations": {
+    "c1": {
+      "name": "Desintegración: Destructor de mundos",
+      "effect": "Aumenta las cargas de **Ciclón de viento lemniscático** en 1."
+    },
+    "c2": {
+      "name": "Aniquilación: Flor de Kaleidos",
+      "effect": "Cuando Xiao está en tu equipo pero no en combate, su Recarga de Energía aumenta en un 25%."
+    },
+    "c3": {
+      "name": "Conquista del mal: Deidad de la ira",
+      "effect": "Aumenta el nivel de habilidad de **Ciclón de viento lemniscático** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c4": {
+      "name": "Trascendencia: Fin del sufrimiento",
+      "effect": "Cuando la Vida de Xiao cae por debajo del 50%, obtiene un 100% de Bono de DEF."
+    },
+    "c5": {
+      "name": "Evolución: Origen de la ignorancia",
+      "effect": "Aumenta el nivel de habilidad de **Azote de todos los males** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c6": {
+      "name": "Conquista del mal: Guardián Yaksha",
+      "effect": "Mientras Xiao está bajo los efectos de **Azote de todos los males**, golpear a 2 o más enemigos con Ataque Descendente otorga a **Ciclón de viento lemniscático** 1 carga adicional y elimina su TdE durante 1 s."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xiao_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xiao_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Xiao_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xiao_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Xiao_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xiao_04.png",
+      "constellation": "Eff_UI_Talent_Xiao"
+    },
+    "version": "1.3"
+  },
+  "talent": {
+    "name": "Xiao",
+    "combat1": {
+      "name": "Ataque Normal: Impulso de torbellino",
+      "info": "**Ataque Normal**\nRealiza hasta 6 ataques rápidos con lanza.\n\n**Ataque Cargado**\nConsume una cierta cantidad de Aguante para atacar alzando su lanza.\n\n**Ataque Descendente**\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.\nXiao no recibirá daño al caer con un Ataque Descendente.",
+      "attributes": [
+        {
+          "name": "Daño de 1er golpe",
+          "parameters": [
+            "27.54%+27.54%",
+            "29.42%+29.42%",
+            "31.30%+31.30%",
+            "33.80%+33.80%",
+            "35.68%+35.68%",
+            "37.87%+37.87%",
+            "40.69%+40.69%",
+            "43.51%+43.51%",
+            "46.32%+46.32%",
+            "49.14%+49.14%",
+            "51.96%+51.96%",
+            "54.77%+54.77%",
+            "57.59%+57.59%",
+            "60.41%+60.41%",
+            "63.23%+63.23%"
+          ]
+        },
+        {
+          "name": "Daño de 2.º golpe",
+          "parameters": [
+            "56.94%",
+            "60.82%",
+            "64.70%",
+            "69.88%",
+            "73.76%",
+            "78.29%",
+            "84.11%",
+            "89.93%",
+            "95.76%",
+            "101.58%",
+            "107.40%",
+            "113.22%",
+            "119.05%",
+            "124.87%",
+            "130.69%"
+          ]
+        },
+        {
+          "name": "Daño de 3er golpe",
+          "parameters": [
+            "68.55%",
+            "73.23%",
+            "77.90%",
+            "84.13%",
+            "88.81%",
+            "94.26%",
+            "101.27%",
+            "108.28%",
+            "115.29%",
+            "122.30%",
+            "129.31%",
+            "136.33%",
+            "143.34%",
+            "150.35%",
+            "157.36%"
+          ]
+        },
+        {
+          "name": "Daño de 4.º golpe",
+          "parameters": [
+            "37.66%+37.66%",
+            "40.23%+40.23%",
+            "42.80%+42.80%",
+            "46.22%+46.22%",
+            "48.79%+48.79%",
+            "51.79%+51.79%",
+            "55.64%+55.64%",
+            "59.49%+59.49%",
+            "63.34%+63.34%",
+            "67.20%+67.20%",
+            "71.05%+71.05%",
+            "74.90%+74.90%",
+            "78.75%+78.75%",
+            "82.60%+82.60%",
+            "86.46%+86.46%"
+          ]
+        },
+        {
+          "name": "Daño de 5.º golpe",
+          "parameters": [
+            "71.54%",
+            "76.42%",
+            "81.30%",
+            "87.80%",
+            "92.68%",
+            "98.37%",
+            "105.69%",
+            "113.01%",
+            "120.32%",
+            "127.64%",
+            "134.96%",
+            "142.27%",
+            "149.59%",
+            "156.91%",
+            "164.23%"
+          ]
+        },
+        {
+          "name": "Daño de 6.º golpe",
+          "parameters": [
+            "95.83%",
+            "102.37%",
+            "108.90%",
+            "117.61%",
+            "124.15%",
+            "131.77%",
+            "141.57%",
+            "151.37%",
+            "161.17%",
+            "170.97%",
+            "180.77%",
+            "190.58%",
+            "200.38%",
+            "210.18%",
+            "219.98%"
+          ]
+        },
+        {
+          "name": "Daño de ATQ Cargado",
+          "parameters": [
+            "121.09%",
+            "129.34%",
+            "137.60%",
+            "148.61%",
+            "156.86%",
+            "166.50%",
+            "178.88%",
+            "191.26%",
+            "203.65%",
+            "216.03%",
+            "228.42%",
+            "240.80%",
+            "253.18%",
+            "265.57%",
+            "277.95%"
+          ]
+        },
+        {
+          "name": "Coste de Aguante de ATQ Cargado",
+          "parameters": [
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts."
+          ]
+        },
+        {
+          "name": "Daño de Caída",
+          "parameters": [
+            "81.83%",
+            "88.49%",
+            "95.16%",
+            "104.67%",
+            "111.33%",
+            "118.94%",
+            "129.41%",
+            "139.88%",
+            "150.35%",
+            "161.76%",
+            "173.18%",
+            "184.60%",
+            "196.02%",
+            "207.44%",
+            "218.86%"
+          ]
+        },
+        {
+          "name": "Daño de impacto de caída baja/alta",
+          "parameters": [
+            "163.63%/204.39%",
+            "176.95%/221.02%",
+            "190.27%/237.66%",
+            "209.30%/261.42%",
+            "222.62%/278.06%",
+            "237.84%/297.07%",
+            "258.77%/323.21%",
+            "279.70%/349.36%",
+            "300.63%/375.50%",
+            "323.46%/404.02%",
+            "346.29%/432.54%",
+            "369.12%/461.06%",
+            "391.96%/489.57%",
+            "414.79%/518.09%",
+            "437.62%/546.61%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Ciclón de viento lemniscático",
+      "info": "Xiao se lanza hacia adelante e inflige Daño Anemo a todos los enemigos que se crucen en su camino.\nPuede activarse en el aire y empieza con un total de 2 cargas.",
+      "description": "Cuentan las leyendas de otra tierra que el mundo será aplastado por dos grandes ruedas de viento. El dominio con la lanza de Xiao le permite destrozar a sus enemigos igual que las legendarias ruedas de viento.",
+      "attributes": [
+        {
+          "name": "Daño de habilidad",
+          "parameters": [
+            "252.80%",
+            "271.76%",
+            "290.72%",
+            "316.00%",
+            "334.96%",
+            "353.92%",
+            "379.20%",
+            "404.48%",
+            "429.76%",
+            "455.04%",
+            "480.32%",
+            "505.60%",
+            "537.20%",
+            "568.80%",
+            "600.40%"
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Azote de todos los males",
+      "info": "Xiao se pone la máscara de Yaksha que aterrorizó tanto a los demonios como a los arcontes hace miles de años.\n\n**Máscara de Yaksha**\n·Mejora la capacidad de salto de Xiao.\n·Mientras dura la habilidad, aumenta el alcance y el daño de los ataques de Xiao.\n·Convierte su daño de ataque en Daño Anemo. Este cambio elemental no puede sustituirse imbuyéndose de otro elemento.\nEstar en esta forma consume la Vida de Xiao de manera continua.",
+      "description": "Xiao se pone una máscara y adopta la forma del Guardián Yaksha para aterrorizar a todos los males y eliminar a los monstruos y espíritus del mundo. Sin embargo, un gran poder conlleva un gran dolor. Algunos lo llaman el “Azote de todos los males”.",
+      "attributes": [
+        {
+          "name": "Aumento de daño de ATQ Normal/Cargado/Descendente",
+          "parameters": [
+            "58.45%",
+            "61.95%",
+            "65.45%",
+            "70.00%",
+            "73.50%",
+            "77.00%",
+            "81.55%",
+            "86.10%",
+            "90.65%",
+            "95.20%",
+            "99.75%",
+            "104.30%",
+            "108.85%",
+            "113.40%",
+            "117.95%"
+          ]
+        },
+        {
+          "name": "Pérdida de Vida",
+          "parameters": [
+            "3.00% de Vida actual/s",
+            "3.00% de Vida actual/s",
+            "3.00% de Vida actual/s",
+            "2.50% de Vida actual/s",
+            "2.50% de Vida actual/s",
+            "2.50% de Vida actual/s",
+            "2.00% de Vida actual/s",
+            "2.00% de Vida actual/s",
+            "2.00% de Vida actual/s",
+            "2.00% de Vida actual/s",
+            "2.00% de Vida actual/s",
+            "2.00% de Vida actual/s",
+            "2.00% de Vida actual/s",
+            "2.00% de Vida actual/s",
+            "2.00% de Vida actual/s"
+          ]
+        },
+        {
+          "name": "Duración",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s"
+          ]
+        },
+        {
+          "name": "Energía Elemental",
+          "parameters": [
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Conquista del mal: Domademonios",
+      "info": "Al estar bajo los efectos de **Azote de todos los males**, el daño infligido por Xiao se incrementa en un 5%. Después, su daño continúa aumentando en un 5% cada 3 s hasta el fin de la habilidad.\nSolo se puede alcanzar un 25% de bono de daño máximo."
+    },
+    "passive2": {
+      "name": "Desintegración: Caída celestial",
+      "info": "Usar **Ciclón de viento lemniscático** aumenta en un 15% el daño infligido por los siguientes Ciclones de viento lemniscático durante 7 s.\nEste efecto puede acumularse un máximo de 3 veces y, cada vez que se obtenga una nueva carga, la duración de este efecto se reiniciará."
+    },
+    "passive3": {
+      "name": "Trascendencia: Desafío a la gravedad",
+      "info": "Disminuye en un 20% el Coste de Aguante al escalar de todos los miembros de tu equipo.\nNo se puede acumular con otros talentos pasivos que tengan los mismos efectos."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseñanzas de la prosperidad",
+          "count": 3
+        },
+        {
+          "name": "Condensado de Slime",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guía de la prosperidad",
+          "count": 2
+        },
+        {
+          "name": "Babas de Slime",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guía de la prosperidad",
+          "count": 4
+        },
+        {
+          "name": "Babas de Slime",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guía de la prosperidad",
+          "count": 6
+        },
+        {
+          "name": "Babas de Slime",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guía de la prosperidad",
+          "count": 9
+        },
+        {
+          "name": "Babas de Slime",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofía de la prosperidad",
+          "count": 4
+        },
+        {
+          "name": "Esencia de Slime",
+          "count": 4
+        },
+        {
+          "name": "Sombra del guerrero",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofía de la prosperidad",
+          "count": 6
+        },
+        {
+          "name": "Esencia de Slime",
+          "count": 6
+        },
+        {
+          "name": "Sombra del guerrero",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofía de la prosperidad",
+          "count": 12
+        },
+        {
+          "name": "Esencia de Slime",
+          "count": 9
+        },
+        {
+          "name": "Sombra del guerrero",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofía de la prosperidad",
+          "count": 16
+        },
+        {
+          "name": "Esencia de Slime",
+          "count": 12
+        },
+        {
+          "name": "Sombra del guerrero",
+          "count": 2
+        },
+        {
+          "name": "Corona de la sabiduría",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_03",
+      "combat2": "Skill_S_Xiao_01",
+      "combat3": "Skill_E_Xiao_01_HD",
+      "passive1": "UI_Talent_S_Xiao_05",
+      "passive2": "UI_Talent_S_Xiao_06",
+      "passive3": "UI_Talent_Explosion_Climb"
+    },
+    "version": "1.3"
+  }
+}

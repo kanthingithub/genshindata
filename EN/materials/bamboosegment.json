@@ -1,0 +1,21 @@
+{
+  "name": "Bamboo Segment",
+  "description": "Segments of bamboo that are light and far stronger than their humble appearance might suggest. It lets off a light fragrance.\nCan be used to create furnishings.",
+  "sortorder": 1949,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Material",
+  "source": [
+    "Found in the wild",
+    "Recommendation: Cut from Bishui Plain"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bamboo_Segment.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Bamboo_Segment.png",
+    "nameicon": "UI_ItemIcon_101305"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bamboo_Segment"
+  },
+  "version": ""
+}

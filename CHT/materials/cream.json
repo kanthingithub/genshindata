@@ -1,0 +1,19 @@
+{
+  "name": "鮮奶油",
+  "description": "將牛奶快速攪拌後提製的乳製品。是製作美味糕點時必備的材料之一。",
+  "sortorder": 1526,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "烹飪加工獲得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cream.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Item_Cream.png",
+    "nameicon": "UI_ItemIcon_110002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cream"
+  },
+  "version": ""
+}

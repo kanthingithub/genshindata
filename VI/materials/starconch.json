@@ -1,0 +1,19 @@
+{
+  "name": "Ốc Sao",
+  "description": "Ốc dạt vào bờ theo những cơn thủy triều. Đặt vào gần tai có thể nghe được tiếng gọi của biển.",
+  "sortorder": 2053,
+  "category": "EXCHANGE",
+  "materialtype": "Đặc Sản Khu Vực Liyue",
+  "source": [
+    "Thu thập ở bãi biển Liyue"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Starconch.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Starconch.png",
+    "nameicon": "UI_ItemIcon_100033"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Starconch"
+  },
+  "version": ""
+}

@@ -1,0 +1,17 @@
+{
+  "name": "紅色染料",
+  "description": "紅色的染料。製作擺設時應該能派上用場。",
+  "sortorder": 1940,
+  "category": "EXCHANGE",
+  "materialtype": "素材",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Red_Dye.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Item_Red_Dye.png",
+    "nameicon": "UI_ItemIcon_101402"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Red_Dye"
+  },
+  "version": ""
+}

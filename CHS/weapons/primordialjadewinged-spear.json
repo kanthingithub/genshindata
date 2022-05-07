@@ -1,0 +1,312 @@
+{
+  "name": "和璞鸢",
+  "description": "魔神翡玉化作的长枪，拥有刺杀远古海兽的沉重与锋利。",
+  "weapontype": "长柄武器",
+  "rarity": "5",
+  "baseatk": 48,
+  "substat": "暴击率",
+  "subvalue": "4.8",
+  "effectname": "昭理的鸢之枪",
+  "effect": [
+    "命中敌人时自身攻击力提高[3.2%]，持续6秒，最高可以叠加7层。该效果每0.3秒最多触发一次。满层状态时伤害提升[12%]。",
+    "命中敌人时自身攻击力提高[3.9%]，持续6秒，最高可以叠加7层。该效果每0.3秒最多触发一次。满层状态时伤害提升[15%]。",
+    "命中敌人时自身攻击力提高[4.6%]，持续6秒，最高可以叠加7层。该效果每0.3秒最多触发一次。满层状态时伤害提升[18%]。",
+    "命中敌人时自身攻击力提高[5.3%]，持续6秒，最高可以叠加7层。该效果每0.3秒最多触发一次。满层状态时伤害提升[21%]。",
+    "命中敌人时自身攻击力提高[6%]，持续6秒，最高可以叠加7层。该效果每0.3秒最多触发一次。满层状态时伤害提升[24%]。"
+  ],
+  "r1": [
+    "3.2%",
+    "12%"
+  ],
+  "r2": [
+    "3.9%",
+    "15%"
+  ],
+  "r3": [
+    "4.6%",
+    "18%"
+  ],
+  "r4": [
+    "5.3%",
+    "21%"
+  ],
+  "r5": [
+    "6%",
+    "24%"
+  ],
+  "weaponmaterialtype": "Guyun",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "摩拉",
+        "count": 10000
+      },
+      {
+        "name": "孤云寒林的光砂",
+        "count": 5
+      },
+      {
+        "name": "猎兵祭刀",
+        "count": 5
+      },
+      {
+        "name": "新兵的徽记",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "摩拉",
+        "count": 20000
+      },
+      {
+        "name": "孤云寒林的辉岩",
+        "count": 5
+      },
+      {
+        "name": "猎兵祭刀",
+        "count": 18
+      },
+      {
+        "name": "新兵的徽记",
+        "count": 12
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "摩拉",
+        "count": 30000
+      },
+      {
+        "name": "孤云寒林的辉岩",
+        "count": 9
+      },
+      {
+        "name": "特工祭刀",
+        "count": 9
+      },
+      {
+        "name": "士官的徽记",
+        "count": 9
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "摩拉",
+        "count": 45000
+      },
+      {
+        "name": "孤云寒林的圣骸",
+        "count": 5
+      },
+      {
+        "name": "特工祭刀",
+        "count": 18
+      },
+      {
+        "name": "士官的徽记",
+        "count": 14
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "摩拉",
+        "count": 55000
+      },
+      {
+        "name": "孤云寒林的圣骸",
+        "count": 9
+      },
+      {
+        "name": "督察长祭刀",
+        "count": 14
+      },
+      {
+        "name": "尉官的徽记",
+        "count": 9
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "摩拉",
+        "count": 65000
+      },
+      {
+        "name": "孤云寒林的神体",
+        "count": 6
+      },
+      {
+        "name": "督察长祭刀",
+        "count": 27
+      },
+      {
+        "name": "尉官的徽记",
+        "count": 18
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/80/Weapon_Primordial_Jade_Winged-Spear.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Morax.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Morax_Awaken.png",
+    "nameicon": "UI_EquipIcon_Pole_Morax",
+    "namegacha": "UI_Gacha_EquipIcon_Pole_Morax",
+    "nameawakenicon": "UI_EquipIcon_Pole_Morax_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Primordial_Jade_Winged-Spear"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 47.5369987487793,
+      "specialized": 0.04800000041723251
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 65.03061573904415,
+      "specialized": 0.05577599764668939
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 87.32546729086016,
+      "specialized": 0.06542400226241352
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 110.14322193011867,
+      "specialized": 0.07512000339955094
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 133.2937397767564,
+      "specialized": 0.08481599881464241
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 164.39374015822614,
+      "specialized": 0.08481599881464241
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 187.97209398570067,
+      "specialized": 0.09451199995177983
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 211.88320535370258,
+      "specialized": 0.10420800108891726
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 236.07952937522532,
+      "specialized": 0.11390399650400873
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 260.56110005138,
+      "specialized": 0.1236000033631921
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 291.6611004328497,
+      "specialized": 0.1236000033631921
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 316.4278724288215,
+      "specialized": 0.13329599877828358
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 341.43233485871497,
+      "specialized": 0.14299200563746695
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 372.6323356216544,
+      "specialized": 0.14299200563746695
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 397.9220220387724,
+      "specialized": 0.15268800105255842
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 423.4018426691018,
+      "specialized": 0.1623839964676499
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 454.5018411432229,
+      "specialized": 0.1623839964676499
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 480.26690842818425,
+      "specialized": 0.17208000332683326
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 506.2220872589496,
+      "specialized": 0.18172800222051144
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 537.3220933624652,
+      "specialized": 0.18172800222051144
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 563.4674517412568,
+      "specialized": 0.19142399763560292
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 589.85050055397,
+      "specialized": 0.2011200044947863
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 620.9504913986966,
+      "specialized": 0.2011200044947863
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 647.5236744246213,
+      "specialized": 0.21081601135396966
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 674.3345478844676,
+      "specialized": 0.22051199532496923
+    }
+  },
+  "version": "1.0"
+}

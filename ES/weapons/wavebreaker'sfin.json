@@ -1,0 +1,311 @@
+{
+  "name": "Aleta Cortaolas",
+  "description": "Una naginata fabricada a partir de un brillante material de las profundidades del océano. En el pasado, perteneció a la raza de los tengu.",
+  "weapontype": "Lanza",
+  "rarity": "4",
+  "baseatk": 45,
+  "substat": "ATQ",
+  "subvalue": "3",
+  "effectname": "Dominaolas de Watatsumi",
+  "effect": [
+    "El daño infligido por la Habilidad Definitiva del portador de esta arma aumenta en un [0.12%] por cada punto de la Energía Elemental máxima total de todos los miembros del equipo. El daño puede aumentar hasta un [40%] de esta forma.",
+    "El daño infligido por la Habilidad Definitiva del portador de esta arma aumenta en un [0.15%] por cada punto de la Energía Elemental máxima total de todos los miembros del equipo. El daño puede aumentar hasta un [50%] de esta forma.",
+    "El daño infligido por la Habilidad Definitiva del portador de esta arma aumenta en un [0.18%] por cada punto de la Energía Elemental máxima total de todos los miembros del equipo. El daño puede aumentar hasta un [60%] de esta forma.",
+    "El daño infligido por la Habilidad Definitiva del portador de esta arma aumenta en un [0.21%] por cada punto de la Energía Elemental máxima total de todos los miembros del equipo. El daño puede aumentar hasta un [70%] de esta forma.",
+    "El daño infligido por la Habilidad Definitiva del portador de esta arma aumenta en un [0.24%] por cada punto de la Energía Elemental máxima total de todos los miembros del equipo. El daño puede aumentar hasta un [80%] de esta forma."
+  ],
+  "r1": [
+    "0.12%",
+    "40%"
+  ],
+  "r2": [
+    "0.15%",
+    "50%"
+  ],
+  "r3": [
+    "0.18%",
+    "60%"
+  ],
+  "r4": [
+    "0.21%",
+    "70%"
+  ],
+  "r5": [
+    "0.24%",
+    "80%"
+  ],
+  "weaponmaterialtype": "",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 5000
+      },
+      {
+        "name": "Máscara del teniente maligno",
+        "count": 3
+      },
+      {
+        "name": "Garra oculta",
+        "count": 3
+      },
+      {
+        "name": "Guardamano viejo",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 15000
+      },
+      {
+        "name": "Máscara del mordisco de tigre",
+        "count": 3
+      },
+      {
+        "name": "Garra oculta",
+        "count": 12
+      },
+      {
+        "name": "Guardamano viejo",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Máscara del mordisco de tigre",
+        "count": 6
+      },
+      {
+        "name": "Garra afilada oculta",
+        "count": 6
+      },
+      {
+        "name": "Guardamano gemelo",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Máscara del cuerno",
+        "count": 3
+      },
+      {
+        "name": "Garra afilada oculta",
+        "count": 12
+      },
+      {
+        "name": "Guardamano gemelo",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 35000
+      },
+      {
+        "name": "Máscara del cuerno",
+        "count": 6
+      },
+      {
+        "name": "Garra fantasmal oculta",
+        "count": 9
+      },
+      {
+        "name": "Guardamano célebre",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Máscara fantasmagórica",
+        "count": 4
+      },
+      {
+        "name": "Garra fantasmal oculta",
+        "count": 18
+      },
+      {
+        "name": "Guardamano célebre",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_EquipIcon_Pole_Maria",
+    "namegacha": "UI_Gacha_EquipIcon_Pole_Maria",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Maria.png",
+    "nameawakenicon": "UI_EquipIcon_Pole_Maria_Awaken",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Maria_Awaken.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Wavebreaker's_Fin"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 45.06869888305664,
+      "specialized": 0.029999999329447746
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 61.924390159257655,
+      "specialized": 0.03485999744698409
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 83.55736648274205,
+      "specialized": 0.040890000144615746
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 105.68610017019364,
+      "specialized": 0.046950000667199454
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 128.22044961172196,
+      "specialized": 0.053009997613504556
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 154.12044923025223,
+      "specialized": 0.053009997613504556
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 176.9702781885744,
+      "specialized": 0.059069998136088264
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 200.13558666369045,
+      "specialized": 0.06512999865867197
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 223.5262545361402,
+      "specialized": 0.07118999560497707
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 247.14223882506303,
+      "specialized": 0.07724999970383939
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 273.14224073241166,
+      "specialized": 0.07724999970383939
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 296.89344280877776,
+      "specialized": 0.08330999665014449
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 320.8699935372624,
+      "specialized": 0.0893700007490068
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 346.7699950631413,
+      "specialized": 0.0893700007490068
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 370.8366766563013,
+      "specialized": 0.09542999769531191
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 395.0385760369045,
+      "specialized": 0.10148999464161701
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 420.93856993338886,
+      "specialized": 0.10148999464161701
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 445.275665611005,
+      "specialized": 0.10754999874047932
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 469.65782672095884,
+      "specialized": 0.11357999786183237
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 495.65782672095884,
+      "specialized": 0.11357999786183237
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 520.1751841279256,
+      "specialized": 0.11963999480813747
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 544.7376284576603,
+      "specialized": 0.1256999989069998
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 570.6376376129338,
+      "specialized": 0.1256999989069998
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 595.2902128073438,
+      "specialized": 0.1317600030058621
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 620.0329618472897,
+      "specialized": 0.13781999279961
+    }
+  },
+  "version": "2.2"
+}

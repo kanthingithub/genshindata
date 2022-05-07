@@ -1,0 +1,20 @@
+{
+  "name": "Valberry",
+  "description": "Buah yang bulat dan bening, aromanya harum dan rasanya sangat manis. Konon di zaman dahulu, para pengamat badai sering kali mendapatkan ketenangan dari rasa manis buah ini, sambil berharap akan keamanan kota.",
+  "sortorder": 2037,
+  "category": "EXCHANGE",
+  "materialtype": "Produk khas Mondstadt",
+  "source": [
+    "Ditemukan di alam liar",
+    "Rekomendasi: Ditemukan di Stormbearer Mountains"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Valberry.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/ed/Item_Valberry.png",
+    "nameicon": "UI_ItemIcon_100022"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Valberry"
+  },
+  "version": ""
+}

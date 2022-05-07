@@ -1,0 +1,874 @@
+{
+  "name": "Keqing",
+  "fullname": "Keqing",
+  "title": "Driving Thunder",
+  "description": "Yuheng dari Liyue Qixing, dia punya banyak hal yang ingin dikatakan mengenai Rex Lapis yang memerintah Liyue- dan pada kenyataannya, para Dewa mengagumi orang-orang sepertinya.",
+  "rarity": "5",
+  "element": "Electro",
+  "weapontype": "Sword",
+  "substat": "CRIT DMG",
+  "gender": "Perempuan",
+  "body": "GIRL",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Liyue Qixing",
+  "birthdaymmdd": "11/20",
+  "birthday": "20 November",
+  "constellation": "Trulla Cementarii",
+  "cv": {
+    "english": "Kayli Mills",
+    "chinese": "谢莹",
+    "japanese": "喜多村英梨",
+    "korean": "Lee Bo-hee"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vajrada Amethyst Sliver",
+        "count": 1
+      },
+      {
+        "name": "Cor Lapis",
+        "count": 3
+      },
+      {
+        "name": "Whopperflower Nectar",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "count": 3
+      },
+      {
+        "name": "Lightning Prism",
+        "count": 2
+      },
+      {
+        "name": "Cor Lapis",
+        "count": 10
+      },
+      {
+        "name": "Whopperflower Nectar",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "count": 6
+      },
+      {
+        "name": "Lightning Prism",
+        "count": 4
+      },
+      {
+        "name": "Cor Lapis",
+        "count": 20
+      },
+      {
+        "name": "Shimmering Nectar",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "count": 3
+      },
+      {
+        "name": "Lightning Prism",
+        "count": 8
+      },
+      {
+        "name": "Cor Lapis",
+        "count": 30
+      },
+      {
+        "name": "Shimmering Nectar",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "count": 6
+      },
+      {
+        "name": "Lightning Prism",
+        "count": 12
+      },
+      {
+        "name": "Cor Lapis",
+        "count": 45
+      },
+      {
+        "name": "Energy Nectar",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Vajrada Amethyst Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Lightning Prism",
+        "count": 20
+      },
+      {
+        "name": "Cor Lapis",
+        "count": 60
+      },
+      {
+        "name": "Energy Nectar",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Character_Keqing_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Character_Keqing_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Keqing.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Keqing.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817192486254.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817205925817.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/40d97fbb1ae120a4d97573aef702d0a3.png",
+    "nameicon": "UI_AvatarIcon_Keqing",
+    "nameiconcard": "UI_AvatarIcon_Keqing_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Keqing",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Keqing",
+    "namesideicon": "UI_AvatarIcon_Side_Keqing"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Keqing"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1020.0524291992188,
+      "attack": 25.136999130249023,
+      "defense": 62.223201751708984,
+      "specialized": 0.5
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2646.0161044593406,
+      "attack": 65.20537828495208,
+      "defense": 161.40699163404406,
+      "specialized": 0.5
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3520.6188266273093,
+      "attack": 86.75650857975188,
+      "defense": 214.7589928242296,
+      "specialized": 0.5
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5267.968698159035,
+      "attack": 129.8161895761641,
+      "defense": 321.3473411040286,
+      "specialized": 0.5
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5889.396859780129,
+      "attack": 145.12883262731157,
+      "defense": 359.2553420500735,
+      "specialized": 0.596000000834465
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6775.822377951146,
+      "attack": 166.9728838167075,
+      "defense": 413.3273017613192,
+      "specialized": 0.596000000834465
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7604.393300802709,
+      "attack": 187.38974630450048,
+      "defense": 463.8713004795809,
+      "specialized": 0.69200000166893
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8499.999111841724,
+      "attack": 209.46002607512673,
+      "defense": 518.5032580879088,
+      "specialized": 0.69200000166893
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9121.427334497974,
+      "attack": 224.77266721892556,
+      "defense": 556.411262848651,
+      "specialized": 0.69200000166893
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 10025.193946307321,
+      "attack": 247.0440523798179,
+      "defense": 611.5410293325349,
+      "specialized": 0.69200000166893
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10646.622413104196,
+      "attack": 262.356697338314,
+      "defense": 649.449018834488,
+      "specialized": 0.7879999876022339
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11560.589296278107,
+      "attack": 284.8794462576561,
+      "defense": 705.201001907315,
+      "specialized": 0.7879999876022339
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12182.017518934357,
+      "attack": 300.1920912161522,
+      "defense": 743.1090066680572,
+      "specialized": 0.8840000033378601
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 13103.125224382035,
+      "attack": 322.890810348541,
+      "defense": 799.2965799245794,
+      "specialized": 0.8840000033378601
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Thundering Might",
+      "effect": "Saat Lightning Stiletto masih ada, dan **Stellar Restoration** diluncurkan kembali, akan menyebabkan 50% dari ATK Keqing menjadi Electro DMG area pada titik awal dan titik akhir Blink."
+    },
+    "c2": {
+      "name": "Keen Extraction",
+      "effect": "Saat Normal dan Charged Attack Keqing mengenai musuh yang terkena efek Electro, memiliki 50% persentase untuk menghasilkan Elemental Particle.\nEfek ini terpicu setiap 5 detik"
+    },
+    "c3": {
+      "name": "Foreseen Reformation",
+      "effect": "Meningkatkan 3 level **Starward Sword**.\nMaksimum: Lv. 15."
+    },
+    "c4": {
+      "name": "Attunement",
+      "effect": "ATK Keqing meningkat 25% setelah Keqing memicu Reaksi Elemental yang berhubungan dengan elemen Electro selama 10 detik."
+    },
+    "c5": {
+      "name": "Beckoning Stars",
+      "effect": "Meningkatkan 3 level **Stellar Restoration**.\nMaksimum: Lv. 15."
+    },
+    "c6": {
+      "name": "Tenacious Star",
+      "effect": "Saat memulai Normal Attack, Charged Attack, Elemental Skill atau Elemental Burst, Keqing mendapatkan 6% Electro DMG Bonus selama 8 detik.\nEfek yang terpicu oleh Normal Attack, Charged Attack, Elemental Skill dan Elemental Burst aktif secara independen."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Keqing_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Keqing_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Keqing_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Keqing_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Keqing_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Keqing_04.png",
+      "constellation": "Eff_UI_Talent_Keqing"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Keqing",
+    "combat1": {
+      "name": "Normal Attack: Yunlai Swordsmanship",
+      "info": "**Normal Attack**\nMelancarkan hingga 5 serangan berturut-turut.\n\n**Charged Attack**\nMengonsumsi sejumlah Stamina untuk melancarkan dua tebasan pedang.\n\n**Plunging Attack**\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "attributes": [
+        {
+          "name": "DMG Tahap 1",
+          "parameters": [
+            "41.02%",
+            "44.36%",
+            "47.70%",
+            "52.47%",
+            "55.81%",
+            "59.62%",
+            "64.87%",
+            "70.12%",
+            "75.37%",
+            "81.09%",
+            "86.81%",
+            "92.54%",
+            "98.26%",
+            "103.99%",
+            "109.71%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 2",
+          "parameters": [
+            "41.02%",
+            "44.36%",
+            "47.70%",
+            "52.47%",
+            "55.81%",
+            "59.62%",
+            "64.87%",
+            "70.12%",
+            "75.37%",
+            "81.09%",
+            "86.81%",
+            "92.54%",
+            "98.26%",
+            "103.99%",
+            "109.71%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 3",
+          "parameters": [
+            "54.44%",
+            "58.87%",
+            "63.30%",
+            "69.63%",
+            "74.06%",
+            "79.12%",
+            "86.09%",
+            "93.05%",
+            "100.01%",
+            "107.61%",
+            "115.21%",
+            "122.80%",
+            "130.40%",
+            "137.99%",
+            "145.59%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 4",
+          "parameters": [
+            "31.48%+34.40%",
+            "34.04%+37.20%",
+            "36.60%+40.00%",
+            "40.26%+44.00%",
+            "42.82%+46.80%",
+            "45.75%+50.00%",
+            "49.78%+54.40%",
+            "53.80%+58.80%",
+            "57.83%+63.20%",
+            "62.22%+68.00%",
+            "66.61%+72.80%",
+            "71.00%+77.60%",
+            "75.40%+82.40%",
+            "79.79%+87.20%",
+            "84.18%+92.00%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 5",
+          "parameters": [
+            "66.99%",
+            "72.45%",
+            "77.90%",
+            "85.69%",
+            "91.14%",
+            "97.37%",
+            "105.94%",
+            "114.51%",
+            "123.08%",
+            "132.43%",
+            "141.78%",
+            "151.13%",
+            "160.47%",
+            "169.82%",
+            "179.17%"
+          ]
+        },
+        {
+          "name": "DMG Charged Attack",
+          "parameters": [
+            "76.80%+86.00%",
+            "83.05%+93.00%",
+            "89.30%+100.00%",
+            "98.23%+110.00%",
+            "104.48%+117.00%",
+            "111.63%+125.00%",
+            "121.45%+136.00%",
+            "131.27%+147.00%",
+            "141.09%+158.00%",
+            "151.81%+170.00%",
+            "162.53%+182.00%",
+            "173.24%+194.00%",
+            "183.96%+206.00%",
+            "194.67%+218.00%",
+            "205.39%+230.00%"
+          ]
+        },
+        {
+          "name": "Konsumsi Stamina Charged Attack",
+          "parameters": [
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25"
+          ]
+        },
+        {
+          "name": "DMG Selama Plunging",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "DMG Plunging Attack Min./Maks.",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Stellar Restoration",
+      "info": "Dengan cepat menggunakan Lightning Stiletto untuk menghabisi musuh bagaikan kilat.\nSaat Stiletto mengenai musuh, mengakibatkan Electro DMG kepada musuh dalam area yang kecil, dan menaruh Stiletto Mark di tempat.\n\n**Tahan**\nTahan untuk menyesuaikan arah ke mana Stiletto akan dilemparkan.\nStiletto yang dilemparkan oleh tipe serangan yang ditahan dapat ditangguhkan di udara, memungkinkan Keqing untuk melompat ke arah stiletto saat menggunakan Stellar Restoration untuk kedua kalinya.\n\n**Lightning Stiletto**\n·Jika Keqing menggunakan Stellar Restoration kembali atau menggunakan Charged Attack saat durasinya masih berlangsung, maka akan menghapus Stiletto Mark dan menghasilkan efek berbeda:\n·Jika dia menggunakan Stellar Restoration kembali, dia akan berpindah dengan cepat ke lokasi yang ditandai dan mengeluarkan satu serangan tebasan yang mengakibatkan Electro DMG area. Saat berpindah menuju Stiletto yang dilemparkan dari serangan tahan, Keqing dapat mengabaikan hambatan yang ada.\n·Jika Keqing menggunakan Charged Attack, dia akan memicu beberapa tebasan petir di lokasi yang ditandai, mengakibatkan Electro DMG area.",
+      "description": "\"Manusia itu bagaikan ngengat, mengejar api tiada henti yang sering kali disebut sebagai Dewa atau Adeptus. Tapi api yang kumiliki di sini adalah milikku sendiri.\"",
+      "attributes": [
+        {
+          "name": "DMG Lightning Stiletto",
+          "parameters": [
+            "50.40%",
+            "54.18%",
+            "57.96%",
+            "63.00%",
+            "66.78%",
+            "70.56%",
+            "75.60%",
+            "80.64%",
+            "85.68%",
+            "90.72%",
+            "95.76%",
+            "100.80%",
+            "107.10%",
+            "113.40%",
+            "119.70%"
+          ]
+        },
+        {
+          "name": "DMG Tebasan",
+          "parameters": [
+            "168.00%",
+            "180.60%",
+            "193.20%",
+            "210.00%",
+            "222.60%",
+            "235.20%",
+            "252.00%",
+            "268.80%",
+            "285.60%",
+            "302.40%",
+            "319.20%",
+            "336.00%",
+            "357.00%",
+            "378.00%",
+            "399.00%"
+          ]
+        },
+        {
+          "name": "DMG Thunderclap Slash",
+          "parameters": [
+            "84.00%*2",
+            "90.30%*2",
+            "96.60%*2",
+            "105.00%*2",
+            "111.30%*2",
+            "117.60%*2",
+            "126.00%*2",
+            "134.40%*2",
+            "142.80%*2",
+            "151.20%*2",
+            "159.60%*2",
+            "168.00%*2",
+            "178.50%*2",
+            "189.00%*2",
+            "199.50%*2"
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "parameters": [
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Starward Sword",
+      "info": "Keqing melepaskan kekuatan petir, menghasilkan Electro DMG pada area sekitar.\nLalu dia akan menyatu dengan bayangan pedangnya, menyerang dengan serangkaian pukulan petir kepada musuh di sekitarnya secara bersamaan yang menghasilkan beberapa Electro DMG. Serangan terakhir menghasilkan Electro DMG area yang luar biasa.",
+      "description": "Teknik tercepat dalam ilmu pedang adalah harus cukup cepat sampai dapat memotong bintang-bintang",
+      "attributes": [
+        {
+          "name": "DMG Skill",
+          "parameters": [
+            "88.00%",
+            "94.60%",
+            "101.20%",
+            "110.00%",
+            "116.60%",
+            "123.20%",
+            "132.00%",
+            "140.80%",
+            "149.60%",
+            "158.40%",
+            "167.20%",
+            "176.00%",
+            "187.00%",
+            "198.00%",
+            "209.00%"
+          ]
+        },
+        {
+          "name": "DMG Tebasan Berkelanjutan",
+          "parameters": [
+            "24.00%*8",
+            "25.80%*8",
+            "27.60%*8",
+            "30.00%*8",
+            "31.80%*8",
+            "33.60%*8",
+            "36.00%*8",
+            "38.40%*8",
+            "40.80%*8",
+            "43.20%*8",
+            "45.60%*8",
+            "48.00%*8",
+            "51.00%*8",
+            "54.00%*8",
+            "57.00%*8"
+          ]
+        },
+        {
+          "name": "DMG Serangan Terakhir",
+          "parameters": [
+            "188.80%",
+            "202.96%",
+            "217.12%",
+            "236.00%",
+            "250.16%",
+            "264.32%",
+            "283.20%",
+            "302.08%",
+            "320.96%",
+            "339.84%",
+            "358.72%",
+            "377.60%",
+            "401.20%",
+            "424.80%",
+            "448.40%"
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "parameters": [
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik"
+          ]
+        },
+        {
+          "name": "Konsumsi Energy",
+          "parameters": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Thundering Penance",
+      "info": "Setelah melancarkan **Stellar Restoration** untuk kedua kalinya saat Lightning Stiletto masih aktif, Keqing akan mendapatkan Electro Infusion selama 5 detik."
+    },
+    "passive2": {
+      "name": "Aristocratic Dignity",
+      "info": "Meningkatkan 15% CRIT Rate dan Energy Recharge Keqing selama 8 detik ketika menggunakan skill **Starward Sword**."
+    },
+    "passive3": {
+      "name": "Land's Overseer",
+      "info": "Ketika dikirim untuk melakukan ekspedisi di Liyue, waktu yang dibutuhkan berkurang 25%."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of \"Prosperity\"",
+          "count": 3
+        },
+        {
+          "name": "Whopperflower Nectar",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to \"Prosperity\"",
+          "count": 2
+        },
+        {
+          "name": "Shimmering Nectar",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to \"Prosperity\"",
+          "count": 4
+        },
+        {
+          "name": "Shimmering Nectar",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to \"Prosperity\"",
+          "count": 6
+        },
+        {
+          "name": "Shimmering Nectar",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to \"Prosperity\"",
+          "count": 9
+        },
+        {
+          "name": "Shimmering Nectar",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of \"Prosperity\"",
+          "count": 4
+        },
+        {
+          "name": "Energy Nectar",
+          "count": 4
+        },
+        {
+          "name": "Ring of Boreas",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of \"Prosperity\"",
+          "count": 6
+        },
+        {
+          "name": "Energy Nectar",
+          "count": 6
+        },
+        {
+          "name": "Ring of Boreas",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of \"Prosperity\"",
+          "count": 12
+        },
+        {
+          "name": "Energy Nectar",
+          "count": 9
+        },
+        {
+          "name": "Ring of Boreas",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of \"Prosperity\"",
+          "count": 16
+        },
+        {
+          "name": "Energy Nectar",
+          "count": 12
+        },
+        {
+          "name": "Ring of Boreas",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_01",
+      "combat2": "Skill_S_Keqing_01",
+      "combat3": "Skill_E_Keqing_01_HD",
+      "passive1": "UI_Talent_S_Keqing_05",
+      "passive2": "UI_Talent_S_Keqing_06",
+      "passive3": "UI_Talent_Expedition_Liyue"
+    },
+    "version": "1.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Reis",
+  "description": "Körner einer in Teyvat häufig aufzufindenden Getreideart. Die verschiedensten Menschen wissen diese sättigenden, weißen Körner zu schätzen. Daher sagt man auch, „Reis nährt alle Menschen.“",
+  "sortorder": 2007,
+  "category": "EXCHANGE",
+  "materialtype": "Zutat",
+  "source": [
+    "Im Gemischtwarenladen von Liyue zu erstehen",
+    "In Gemischtwarenläden in Inazuma zu erstehen"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Rice.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Item_Rice.png",
+    "nameicon": "UI_ItemIcon_100092"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Rice"
+  },
+  "version": ""
+}

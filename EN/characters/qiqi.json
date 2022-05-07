@@ -1,0 +1,914 @@
+{
+  "name": "Qiqi",
+  "fullname": "Qiqi",
+  "title": "Icy Resurrection",
+  "description": "An apprentice and herb gatherer at Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.",
+  "rarity": "5",
+  "element": "Cryo",
+  "weapontype": "Sword",
+  "substat": "Healing Bonus",
+  "gender": "Female",
+  "body": "LOLI",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Bubu Pharmacy",
+  "birthdaymmdd": "3/3",
+  "birthday": "March 3",
+  "constellation": "Pristina Nola",
+  "cv": {
+    "english": "Christie Cate",
+    "chinese": "宴宁",
+    "japanese": "田村ゆかり",
+    "korean": "Lee Seul"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Shivada Jade Sliver",
+        "count": 1
+      },
+      {
+        "name": "Violetgrass",
+        "count": 3
+      },
+      {
+        "name": "Divining Scroll",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Shivada Jade Fragment",
+        "count": 3
+      },
+      {
+        "name": "Hoarfrost Core",
+        "count": 2
+      },
+      {
+        "name": "Violetgrass",
+        "count": 10
+      },
+      {
+        "name": "Divining Scroll",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Shivada Jade Fragment",
+        "count": 6
+      },
+      {
+        "name": "Hoarfrost Core",
+        "count": 4
+      },
+      {
+        "name": "Violetgrass",
+        "count": 20
+      },
+      {
+        "name": "Sealed Scroll",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Shivada Jade Chunk",
+        "count": 3
+      },
+      {
+        "name": "Hoarfrost Core",
+        "count": 8
+      },
+      {
+        "name": "Violetgrass",
+        "count": 30
+      },
+      {
+        "name": "Sealed Scroll",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Shivada Jade Chunk",
+        "count": 6
+      },
+      {
+        "name": "Hoarfrost Core",
+        "count": 12
+      },
+      {
+        "name": "Violetgrass",
+        "count": 45
+      },
+      {
+        "name": "Forbidden Curse Scroll",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Shivada Jade Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Hoarfrost Core",
+        "count": 20
+      },
+      {
+        "name": "Violetgrass",
+        "count": 60
+      },
+      {
+        "name": "Forbidden Curse Scroll",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Character_Qiqi_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Character_Qiqi_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Qiqi.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817145380161.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817153781489.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/d696551575bc6c117462563fc92eae6c.png",
+    "nameicon": "UI_AvatarIcon_Qiqi",
+    "nameiconcard": "UI_AvatarIcon_Qiqi_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Qiqi",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Qiqi",
+    "namesideicon": "UI_AvatarIcon_Side_Qiqi"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Qiqi"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 962.8532104492188,
+      "attack": 22.3439998626709,
+      "defense": 71.7959976196289,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2497.6413252396014,
+      "attack": 57.96033790251158,
+      "defense": 186.23882508313727,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3323.2008955521014,
+      "attack": 77.11689880033873,
+      "defense": 247.7988264564283,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4972.5685019830125,
+      "attack": 115.3921718862457,
+      "defense": 370.78537462399254,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5559.1502890923875,
+      "attack": 129.00341036585996,
+      "defense": 414.52537630245934,
+      "specialized": 0.055399999022483826
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6395.86968856983,
+      "attack": 148.42034530892943,
+      "defense": 476.9160952212369,
+      "specialized": 0.055399999022483826
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7177.978819429205,
+      "attack": 166.5686645533142,
+      "defense": 535.2360872866666,
+      "specialized": 0.11079999804496765
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8023.363728842989,
+      "attack": 186.18669157431032,
+      "defense": 598.272957585541,
+      "specialized": 0.11079999804496765
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8609.945515952364,
+      "attack": 199.7979319612732,
+      "defense": 642.0129630787051,
+      "specialized": 0.11079999804496765
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9463.033611003106,
+      "attack": 219.59471933425903,
+      "defense": 705.6242281987761,
+      "specialized": 0.11079999804496765
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10049.61539811248,
+      "attack": 233.20596353591918,
+      "defense": 749.3642336919402,
+      "specialized": 0.16619999706745148
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 10912.331786523137,
+      "attack": 253.22618536721802,
+      "defense": 813.6934409860078,
+      "specialized": 0.16619999706745148
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11498.913573632512,
+      "attack": 266.83742193948365,
+      "defense": 857.4334312203828,
+      "specialized": 0.2214999943971634
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12368.370364256552,
+      "attack": 287.0140617423858,
+      "defense": 922.2652425417473,
+      "specialized": 0.2214999943971634
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Ascetics of Frost",
+      "effect": "When the Herald of Frost hits an opponent marked by a Fortune-Preserving Talisman, Qiqi regenerates 2 Energy."
+    },
+    "c2": {
+      "name": "Frozen to the Bone",
+      "effect": "Qiqi's Normal and Charge Attack DMG against opponents affected by Cryo is increased by 15%."
+    },
+    "c3": {
+      "name": "Ascendant Praise",
+      "effect": "Increases the Level of **Adeptus Art: Preserver of Fortune** by 3.\nMaximum upgrade level is 15."
+    },
+    "c4": {
+      "name": "Divine Suppression",
+      "effect": "Targets marked by the Fortune-Preserving Talisman have their ATK decreased by 20%."
+    },
+    "c5": {
+      "name": "Crimson Lotus Bloom",
+      "effect": "Increases the Level of **Adeptus Art: Herald of Frost** by 3.\nMaximum upgrade level is 15."
+    },
+    "c6": {
+      "name": "Rite of Resurrection",
+      "effect": "Using **Adeptus Art: Preserver of Fortune** revives all fallen party members nearby and regenerates 50% of their HP.\nThis effect can only occur once every 15 mins."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Qiqi_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Qiqi_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Qiqi_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Qiqi_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Qiqi_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Qiqi_04.png",
+      "constellation": "Eff_UI_Talent_Qiqi"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Qiqi",
+    "combat1": {
+      "name": "Normal Attack: Ancient Sword Art",
+      "info": "**Normal Attack**\nPerform up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "attributes": [
+        {
+          "name": "1-Hit DMG",
+          "parameters": [
+            "37.75%",
+            "40.83%",
+            "43.90%",
+            "48.29%",
+            "51.36%",
+            "54.87%",
+            "59.70%",
+            "64.53%",
+            "69.36%",
+            "74.63%",
+            "79.90%",
+            "85.17%",
+            "90.43%",
+            "95.70%",
+            "100.97%"
+          ]
+        },
+        {
+          "name": "2-Hit DMG",
+          "parameters": [
+            "38.87%",
+            "42.04%",
+            "45.20%",
+            "49.72%",
+            "52.88%",
+            "56.50%",
+            "61.47%",
+            "66.44%",
+            "71.42%",
+            "76.84%",
+            "82.26%",
+            "87.69%",
+            "93.11%",
+            "98.54%",
+            "103.96%"
+          ]
+        },
+        {
+          "name": "3-Hit DMG",
+          "parameters": [
+            "24.17%+24.17%",
+            "26.13%+26.13%",
+            "28.10%+28.10%",
+            "30.91%+30.91%",
+            "32.88%+32.88%",
+            "35.12%+35.12%",
+            "38.22%+38.22%",
+            "41.31%+41.31%",
+            "44.40%+44.40%",
+            "47.77%+47.77%",
+            "51.14%+51.14%",
+            "54.51%+54.51%",
+            "57.89%+57.89%",
+            "61.26%+61.26%",
+            "64.63%+64.63%"
+          ]
+        },
+        {
+          "name": "4-Hit DMG",
+          "parameters": [
+            "24.68%+24.68%",
+            "26.69%+26.69%",
+            "28.70%+28.70%",
+            "31.57%+31.57%",
+            "33.58%+33.58%",
+            "35.87%+35.87%",
+            "39.03%+39.03%",
+            "42.19%+42.19%",
+            "45.35%+45.35%",
+            "48.79%+48.79%",
+            "52.23%+52.23%",
+            "55.68%+55.68%",
+            "59.12%+59.12%",
+            "62.57%+62.57%",
+            "66.01%+66.01%"
+          ]
+        },
+        {
+          "name": "5-Hit DMG",
+          "parameters": [
+            "63.04%",
+            "68.17%",
+            "73.30%",
+            "80.63%",
+            "85.76%",
+            "91.62%",
+            "99.69%",
+            "107.75%",
+            "115.81%",
+            "124.61%",
+            "133.41%",
+            "142.20%",
+            "151.00%",
+            "159.79%",
+            "168.59%"
+          ]
+        },
+        {
+          "name": "Charged Attack DMG",
+          "parameters": [
+            "64.33%+64.33%",
+            "69.56%+69.56%",
+            "74.80%+74.80%",
+            "82.28%+82.28%",
+            "87.52%+87.52%",
+            "93.50%+93.50%",
+            "101.73%+101.73%",
+            "109.96%+109.96%",
+            "118.18%+118.18%",
+            "127.16%+127.16%",
+            "136.14%+136.14%",
+            "145.11%+145.11%",
+            "154.09%+154.09%",
+            "163.06%+163.06%",
+            "172.04%+172.04%"
+          ]
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "parameters": [
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "name": "Plunge DMG",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "Low/High Plunge DMG",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Adeptus Art: Herald of Frost",
+      "info": "Using the Icevein Talisman, Qiqi brings forth the Herald of Frost, dealing Cryo DMG to surrounding opponents.\n\n**Herald of Frost**\n·On hit, Qiqi's Normal and Charged Attacks regenerate HP for your own party members and nearby teammates. Healing scales based on Qiqi's ATK.\n·Periodically regenerates your active character's HP.\n·Follows the character around, dealing Cryo DMG to opponents in their path.",
+      "description": "I use this to prevent warming and rot... of Dr. Bai's precious ingredients. Yes.",
+      "attributes": [
+        {
+          "name": "Skill DMG",
+          "parameters": [
+            "96.00%",
+            "103.20%",
+            "110.40%",
+            "120.00%",
+            "127.20%",
+            "134.40%",
+            "144.00%",
+            "153.60%",
+            "163.20%",
+            "172.80%",
+            "182.40%",
+            "192.00%",
+            "204.00%",
+            "216.00%",
+            "228.00%"
+          ]
+        },
+        {
+          "name": "Regeneration on Hit",
+          "parameters": [
+            "10.56% ATK+67",
+            "11.35% ATK+74",
+            "12.14% ATK+81",
+            "13.20% ATK+89",
+            "13.99% ATK+98",
+            "14.78% ATK+107",
+            "15.84% ATK+116",
+            "16.90% ATK+126",
+            "17.95% ATK+137",
+            "19.01% ATK+148",
+            "20.06% ATK+160",
+            "21.12% ATK+172",
+            "22.44% ATK+185",
+            "23.76% ATK+199",
+            "25.08% ATK+213"
+          ]
+        },
+        {
+          "name": "Continuous Regeneration",
+          "parameters": [
+            "69.60% ATK+451",
+            "74.82% ATK+496",
+            "80.04% ATK+544",
+            "87.00% ATK+597",
+            "92.22% ATK+653",
+            "97.44% ATK+713",
+            "104.40% ATK+777",
+            "111.36% ATK+845",
+            "118.32% ATK+916",
+            "125.28% ATK+991",
+            "132.24% ATK+1070",
+            "139.20% ATK+1153",
+            "147.90% ATK+1239",
+            "156.60% ATK+1329",
+            "165.30% ATK+1423"
+          ]
+        },
+        {
+          "name": "Herald of Frost DMG",
+          "parameters": [
+            "36.00%",
+            "38.70%",
+            "41.40%",
+            "45.00%",
+            "47.70%",
+            "50.40%",
+            "54.00%",
+            "57.60%",
+            "61.20%",
+            "64.80%",
+            "68.40%",
+            "72.00%",
+            "76.50%",
+            "81.00%",
+            "85.50%"
+          ]
+        },
+        {
+          "name": "Duration",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Adeptus Art: Preserver of Fortune",
+      "info": "Qiqi releases the adeptus power sealed within her body, marking nearby opponents with a Fortune-Preserving Talisman that deals Cryo DMG.\n\n**Fortune-Preserving Talisman**\nWhen opponents affected by this Talisman take DMG, the character that dealt this DMG regenerates HP.",
+      "description": "\"I am the Fortune Preserver, the Maiden of Resurrection.\"\n— Qiqi does not remember these words.",
+      "attributes": [
+        {
+          "name": "Skill DMG",
+          "parameters": [
+            "284.80%",
+            "306.16%",
+            "327.52%",
+            "356.00%",
+            "377.36%",
+            "398.72%",
+            "427.20%",
+            "455.68%",
+            "484.16%",
+            "512.64%",
+            "541.12%",
+            "569.60%",
+            "605.20%",
+            "640.80%",
+            "676.40%"
+          ]
+        },
+        {
+          "name": "Healing",
+          "parameters": [
+            "90.00% ATK+577",
+            "96.75% ATK+635",
+            "103.50% ATK+698",
+            "112.50% ATK+765",
+            "119.25% ATK+837",
+            "126.00% ATK+914",
+            "135.00% ATK+996",
+            "144.00% ATK+1083",
+            "153.00% ATK+1174",
+            "162.00% ATK+1270",
+            "171.00% ATK+1371",
+            "180.00% ATK+1477",
+            "191.25% ATK+1588",
+            "202.50% ATK+1703",
+            "213.75% ATK+1824"
+          ]
+        },
+        {
+          "name": "Duration",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "name": "Energy Cost",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Life-Prolonging Methods",
+      "info": "When a character under the effects of **Adeptus Art: Herald of Frost** triggers an Elemental Reaction, their Incoming Healing Bonus is increased by 20% for 8s."
+    },
+    "passive2": {
+      "name": "A Glimpse Into Arcanum",
+      "info": "When Qiqi hits opponents with her Normal and Charged Attacks, she has a 50% chance to apply a Fortune-Preserving Talisman to them for 6s. This effect can only occur once every 30s."
+    },
+    "passive3": {
+      "name": "Former Life Memories",
+      "info": "Displays the location of nearby **resources unique to Liyue** on the mini-map."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of Prosperity",
+          "count": 3
+        },
+        {
+          "name": "Divining Scroll",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to Prosperity",
+          "count": 2
+        },
+        {
+          "name": "Sealed Scroll",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to Prosperity",
+          "count": 4
+        },
+        {
+          "name": "Sealed Scroll",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to Prosperity",
+          "count": 6
+        },
+        {
+          "name": "Sealed Scroll",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to Prosperity",
+          "count": 9
+        },
+        {
+          "name": "Sealed Scroll",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of Prosperity",
+          "count": 4
+        },
+        {
+          "name": "Forbidden Curse Scroll",
+          "count": 4
+        },
+        {
+          "name": "Tail of Boreas",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of Prosperity",
+          "count": 6
+        },
+        {
+          "name": "Forbidden Curse Scroll",
+          "count": 6
+        },
+        {
+          "name": "Tail of Boreas",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of Prosperity",
+          "count": 12
+        },
+        {
+          "name": "Forbidden Curse Scroll",
+          "count": 9
+        },
+        {
+          "name": "Tail of Boreas",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of Prosperity",
+          "count": 16
+        },
+        {
+          "name": "Forbidden Curse Scroll",
+          "count": 12
+        },
+        {
+          "name": "Tail of Boreas",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_01",
+      "combat2": "Skill_S_Qiqi_01",
+      "combat3": "Skill_E_Qiqi_01_HD",
+      "passive1": "UI_Talent_S_Qiqi_05",
+      "passive2": "UI_Talent_S_Qiqi_06",
+      "passive3": "UI_Talent_Collect_Local_Liyue"
+    },
+    "version": "1.0"
+  }
+}

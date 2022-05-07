@@ -1,0 +1,20 @@
+{
+  "name": "가짜 벌레 미끼",
+  "description": "응축액을 주재료로 제작한 가짜 벌레 미끼. 물속의 암류에 따라 꿈틀거린다. 호기심 많은 물고기들이 흔히 관심을 보이곤 한다. 낚시 전문가들은 간혹 과일 섞는 방법으로 향을 더욱 풍부하게 하는데, 물고기에게는 정말 거부할 수 없는 치명적인 유혹이다.\n\n적용 어종: 나비고기류",
+  "sortorder": 1516,
+  "rarity": "2",
+  "category": "FISH_BAIT",
+  "materialtype": "낚시용 미끼",
+  "source": [
+    "합성 획득"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_111025",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_False_Worm_Bait.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Item_False_Worm_Bait.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/False_Worm_Bait"
+  },
+  "version": ""
+}

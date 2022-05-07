@@ -1,0 +1,21 @@
+{
+  "name": "Insignia de cuervo de bronce",
+  "description": "Una insignia que representa con orgullo la posición del portador como miembro de los Ladrones de Tesoros. La búsqueda de tesoros no tiene límites. Pero... ¿ser un ladrón es algo de lo que uno pueda sentirse orgulloso?",
+  "sortorder": 1753,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Obtenido de Ladrones de Tesoros",
+    "Canjear Polvo estelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Treasure_Hoarder_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Item_Treasure_Hoarder_Insignia.png",
+    "nameicon": "UI_ItemIcon_112035"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Treasure_Hoarder_Insignia"
+  },
+  "version": ""
+}

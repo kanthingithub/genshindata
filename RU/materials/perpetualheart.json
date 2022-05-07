@@ -1,0 +1,20 @@
+{
+  "name": "Сердце бесконечного механизма",
+  "description": "Ядро, которое служит источником энергии для автономных движений бесконечного механического массива.\nОдни полагают, что символы на этих ядрах несут знания и логику на языке, невидимом для глаза. Другие пошли дальше, заключив, что эти уникальные механизмы руин из-за огромного размера ядер и сложных начертаний на них в погоне за мощью и функциональностью приняли произвольное решение отбросить биомиметическую форму.",
+  "sortorder": 1805,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Бесконечные механические массивы Ур. 30+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Perpetual_Heart.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Item_Perpetual_Heart.png",
+    "nameicon": "UI_ItemIcon_113023"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Perpetual_Heart"
+  },
+  "version": ""
+}

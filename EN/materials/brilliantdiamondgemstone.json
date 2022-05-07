@@ -1,0 +1,20 @@
+{
+  "name": "Brilliant Diamond Gemstone",
+  "description": "Character Ascension material.\n\"Welcome to this world.\"",
+  "sortorder": 1821,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Adventure Rank Reward"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Brilliant_Diamond_Gemstone.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Brilliant_Diamond_Gemstone.png",
+    "nameicon": "UI_ItemIcon_104104"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Brilliant_Diamond_Gemstone"
+  },
+  "version": ""
+}

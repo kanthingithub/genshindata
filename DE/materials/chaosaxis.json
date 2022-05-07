@@ -1,0 +1,22 @@
+{
+  "name": "Chaos-Achse",
+  "description": "Es stammt aus einer alten Ruinenvorrichtung, die jetzt nicht mehr aktiv ist. Selbst die großartigen Techniken und die unbekannte Macht dieses Geräts müssen verpuffen, sollte die Maschine, die sie enthielt, jemals ihre strukturelle Integrität verlieren.",
+  "sortorder": 1766,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Kann hergestellt werden",
+    "Beute von Ruinensoldaten ab Stufe 40",
+    "Mit Sternenstaub kaufen"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Axis.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Item_Chaos_Axis.png",
+    "nameicon": "UI_ItemIcon_112048"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chaos_Axis"
+  },
+  "version": ""
+}

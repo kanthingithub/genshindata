@@ -1,0 +1,153 @@
+{
+  "name": "Fatui – Kryo-Cicin-Zauberin",
+  "specialname": "Fatua Anna",
+  "enemytype": "ELITE",
+  "category": "Fatui",
+  "description": "Ein Fatuimagier, der Kryo-Cicine im Kampf einsetzt. Ihr Ursprung und ihr tatsächliches Aussehen sind ein Geheimnis.\nObwohl sie über kein Göttliches Auge verfügen, können diese Magier die Elemente kontrollieren. Nicht nur kontrollieren sie mit Nebelgras die Kryo-Cicine, sie beherrschen auch die Kraft des Frosts. Wer sie scheinbar ziellos durch die Gegend wandern sieht, muss sich fragen, was diese Wesen antreibt.",
+  "investigation": {
+    "name": "Fatui – Cicin-Zauberin",
+    "category": "Elite",
+    "description": "Eine junge Zauberin der Fatui, die fliegende Cicine für den Kampf kontrolliert.\\nSie verzaubert die Cicine wie der Duft von Nebelgras und liebt es, Tricks mit ihren Gegnern zu spielen.\\nMan fragt sich, was wohl das Ziel ihrer langen Wanderschaft im Nirgendwo ist."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Nebelgraspollen",
+      "count": 5.2526
+    },
+    {
+      "name": "Nebelgrassäckchen",
+      "count": 1.4006
+    },
+    {
+      "name": "Nebelgrasdocht",
+      "count": 0.3502
+    },
+    {
+      "name": "Abzeichen für neue Rekruten",
+      "count": 0.5253
+    },
+    {
+      "name": "Abzeichen für Unteroffiziere",
+      "count": 0.1401
+    },
+    {
+      "name": "Abzeichen für Offiziere",
+      "count": 0.035
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Ausbilder",
+      "rarity": "3"
+    },
+    {
+      "name": "Verbannter",
+      "rarity": "3"
+    },
+    {
+      "name": "Wanderarzt",
+      "rarity": "3"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Ausbilder",
+      "rarity": "4"
+    },
+    {
+      "name": "Verbannter",
+      "rarity": "4"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Fatuus_Mage_Ice_01"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 364.5849657570943,
+      "attack": 101.5109267769958,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 1433.0202679162903,
+      "attack": 271.2111127290973,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 4426.000006411923,
+      "attack": 668.9998862421999,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 7364.001633138978,
+      "attack": 1092.7064293284639,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 13474.247317411937,
+      "attack": 1633.6555819225032,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 24982.421279624104,
+      "attack": 2519.3090551147907,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 41906.27406556159,
+      "attack": 3547.6976112007105,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 65259.86318694893,
+      "attack": 4897.428879438376,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 92828.63770251162,
+      "attack": 6301.060288636945,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 121770.43338711374,
+      "attack": 7612.5492533508805,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 183825.6077004969,
+      "attack": 9848.835709898849,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 267511.56860847026,
+      "attack": 10044.388875611767,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 359931.5836169198,
+      "attack": 10241.311191761051,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

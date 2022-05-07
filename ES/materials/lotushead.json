@@ -1,0 +1,19 @@
+{
+  "name": "Cabeza de loto",
+  "description": "Una planta acuática originaria de Liyue que crece y florece en parejas. Una de ellas es aromática, mientras que la otra es amarga. Se dice que es una buena hierba medicinal.",
+  "sortorder": 1987,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente culinario",
+  "source": [
+    "Recolectar cerca de lagos y bancos de ríos"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lotus_Head.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Item_Lotus_Head.png",
+    "nameicon": "UI_ItemIcon_100026"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lotus_Head"
+  },
+  "version": ""
+}

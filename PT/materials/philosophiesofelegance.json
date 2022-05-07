@@ -1,0 +1,26 @@
+{
+  "name": "Filosofia da Cultura",
+  "description": "Material de Elevação de Talento.\nA elegância define a nação do trovão.\nA elegância abomina a vulgaridade e os elegantes andam sempre sozinhos. Resistir aos males comuns, ser indiferente aos amores comuns, nunca se refugiar na ignorância comum — é assim que se observa o abismo entre o elegante e o desdenhoso.",
+  "sortorder": 1874,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Talento",
+  "dropdomain": "Domínio da Proficiência: Vale dos Raios",
+  "daysofweek": [
+    "Terça-feira",
+    "Sexta-feira",
+    "Domingo"
+  ],
+  "source": [
+    "Obtido na síntese"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Elegance.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Item_Philosophies_of_Elegance.png",
+    "nameicon": "UI_ItemIcon_104325"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Elegance"
+  },
+  "version": ""
+}

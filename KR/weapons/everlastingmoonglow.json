@@ -1,0 +1,311 @@
+{
+  "name": "불멸의 달빛",
+  "description": "깊은 바다에서 온 옥의 고리. 먼 지난날과 다름없이 달처럼 맑은 광택을 낸다",
+  "weapontype": "법구",
+  "rarity": "5",
+  "baseatk": 46,
+  "substat": "HP",
+  "subvalue": "10.8",
+  "effectname": "백야의 밝은 달",
+  "effect": [
+    "치유 보너스가 [10%] 증가하고, 일반 공격으로 가하는 피해가 해당 장비를 장착한 캐릭터 HP 최대치의 [1%]만큼 증가한다. 원소폭발 발동 후 12초 내에 일반 공격으로 적을 명중하면 원소 에너지를 0.6pt 회복하고, 해당 방식으로 0.1초마다 원소 에너지를 최대 1회 회복할 수 있다",
+    "치유 보너스가 [12.5%] 증가하고, 일반 공격으로 가하는 피해가 해당 장비를 장착한 캐릭터 HP 최대치의 [1.5%]만큼 증가한다. 원소폭발 발동 후 12초 내에 일반 공격으로 적을 명중하면 원소 에너지를 0.6pt 회복하고, 해당 방식으로 0.1초마다 원소 에너지를 최대 1회 회복할 수 있다",
+    "치유 보너스가 [15%] 증가하고, 일반 공격으로 가하는 피해가 해당 장비를 장착한 캐릭터 HP 최대치의 [2%]만큼 증가한다. 원소폭발 발동 후 12초 내에 일반 공격으로 적을 명중하면 원소 에너지를 0.6pt 회복하고, 해당 방식으로 0.1초마다 원소 에너지를 최대 1회 회복할 수 있다",
+    "치유 보너스가 [17.5%] 증가하고, 일반 공격으로 가하는 피해가 해당 장비를 장착한 캐릭터 HP 최대치의 [2.5%]만큼 증가한다. 원소폭발 발동 후 12초 내에 일반 공격으로 적을 명중하면 원소 에너지를 0.6pt 회복하고, 해당 방식으로 0.1초마다 원소 에너지를 최대 1회 회복할 수 있다",
+    "치유 보너스가 [20%] 증가하고, 일반 공격으로 가하는 피해가 해당 장비를 장착한 캐릭터 HP 최대치의 [3%]만큼 증가한다. 원소폭발 발동 후 12초 내에 일반 공격으로 적을 명중하면 원소 에너지를 0.6pt 회복하고, 해당 방식으로 0.1초마다 원소 에너지를 최대 1회 회복할 수 있다"
+  ],
+  "r1": [
+    "10%",
+    "1%"
+  ],
+  "r2": [
+    "12.5%",
+    "1.5%"
+  ],
+  "r3": [
+    "15%",
+    "2%"
+  ],
+  "r4": [
+    "17.5%",
+    "2.5%"
+  ],
+  "r5": [
+    "20%",
+    "3%"
+  ],
+  "weaponmaterialtype": "",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "모라",
+        "count": 10000
+      },
+      {
+        "name": "먼바다의 산호 가지",
+        "count": 5
+      },
+      {
+        "name": "어두운 프리즘",
+        "count": 5
+      },
+      {
+        "name": "떠도는 정령 코어 껍데기",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "모라",
+        "count": 20000
+      },
+      {
+        "name": "먼바다의 옥빛 가지",
+        "count": 5
+      },
+      {
+        "name": "어두운 프리즘",
+        "count": 18
+      },
+      {
+        "name": "떠도는 정령 코어 껍데기",
+        "count": 12
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "모라",
+        "count": 30000
+      },
+      {
+        "name": "먼바다의 옥빛 가지",
+        "count": 9
+      },
+      {
+        "name": "수정 프리즘",
+        "count": 9
+      },
+      {
+        "name": "떠도는 정령 코어",
+        "count": 9
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "모라",
+        "count": 45000
+      },
+      {
+        "name": "먼바다의 마노 가지",
+        "count": 5
+      },
+      {
+        "name": "수정 프리즘",
+        "count": 18
+      },
+      {
+        "name": "떠도는 정령 코어",
+        "count": 14
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "모라",
+        "count": 55000
+      },
+      {
+        "name": "먼바다의 마노 가지",
+        "count": 9
+      },
+      {
+        "name": "편광 프리즘",
+        "count": 14
+      },
+      {
+        "name": "떠도는 정령 결정화 코어",
+        "count": 9
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "모라",
+        "count": 65000
+      },
+      {
+        "name": "먼바다의 금빛 가지",
+        "count": 6
+      },
+      {
+        "name": "편광 프리즘",
+        "count": 27
+      },
+      {
+        "name": "떠도는 정령 결정화 코어",
+        "count": 18
+      }
+    ]
+  },
+  "images": {
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Kaleido.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Kaleido_Awaken.png",
+    "nameicon": "UI_EquipIcon_Catalyst_Kaleido",
+    "namegacha": "UI_Gacha_EquipIcon_Catalyst_Kaleido",
+    "nameawakenicon": "UI_EquipIcon_Catalyst_Kaleido_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Everlasting_Moonglow"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 45.9364013671875,
+      "specialized": 0.1080000028014183
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 61.692589533209684,
+      "specialized": 0.12549599686944468
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 81.53711133154866,
+      "specialized": 0.14720400762921582
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 101.56538184575038,
+      "specialized": 0.16902001056402938
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 121.73146800388349,
+      "specialized": 0.19083600062423933
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 152.83146838535322,
+      "specialized": 0.19083600062423933
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 173.18128683121176,
+      "specialized": 0.2126520035590529
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 193.66892639704747,
+      "specialized": 0.23446800649386645
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 214.34030920270015,
+      "specialized": 0.2562839965540764
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 235.19542429607827,
+      "specialized": 0.2781000123634936
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 266.295424677548,
+      "specialized": 0.2781000123634936
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 287.2883718429948,
+      "specialized": 0.29991600242370353
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 308.4191182242357,
+      "specialized": 0.3217320182331207
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 339.61911898717517,
+      "specialized": 0.3217320182331207
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 360.97953072807286,
+      "specialized": 0.34354800829333065
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 382.43183051701635,
+      "specialized": 0.3653639983535406
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 413.53182899113744,
+      "specialized": 0.3653639983535406
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 435.16788297198946,
+      "specialized": 0.3871800141629578
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 456.9876692405669,
+      "specialized": 0.4088880120481253
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 488.0876753440825,
+      "specialized": 0.4088880120481253
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 510.0912158045685,
+      "specialized": 0.43070400210833526
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 532.2325773850316,
+      "specialized": 0.4525200179177524
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 563.3325682297582,
+      "specialized": 0.4525200179177524
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 585.6117071218323,
+      "specialized": 0.4743360337271696
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 608.074622109998,
+      "specialized": 0.49615199803817234
+    }
+  },
+  "version": "2.1"
+}

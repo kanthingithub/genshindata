@@ -1,0 +1,227 @@
+{
+  "name": "Géosaure antique",
+  "specialname": "Géosaure qui régnait avec le Roi",
+  "enemytype": "BOSS",
+  "category": "Bêtes mystiques",
+  "description": "Un Géosaure immense, aussi âgé que puissant, et capable de s'adapter aux mutations élémentaires de l'environnement.\nD'après la croyance populaire, le seigneur des Géosaures et les Géosaures antiques auraient été emprisonnés sous terre suite à la catastrophe ayant détruit la Vallée Tianqiu. Entrés dans un état d'hibernation, ils n'attendent que l'occasion de se réveiller...",
+  "investigation": {
+    "name": "Géosaure antique",
+    "category": "Boss",
+    "description": "Un Géosaure immense, aussi âgé que puissant, et capable de s'adapter aux mutations élémentaires de l'environnement.\\nD'après la croyance populaire, les Élémentosaures se seraient enfouis sous terre suite à la catastrophe ayant détruit la Vallée Tianqiu, et n'attendent que l'occasion d'en ressortir..."
+  },
+  "rewardpreview": [
+    {
+      "name": "EXP d'aventure",
+      "count": 200
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "EXP d'affinité"
+    },
+    {
+      "name": "Éclat de topaze prithiva"
+    },
+    {
+      "name": "Fragment de topaze prithiva"
+    },
+    {
+      "name": "Morceau de topaze prithiva"
+    },
+    {
+      "name": "Pierre de topaze prithiva"
+    },
+    {
+      "name": "Éclat d'améthyste vajrada"
+    },
+    {
+      "name": "Fragment d'améthyste vajrada"
+    },
+    {
+      "name": "Morceau d'améthyste vajrada"
+    },
+    {
+      "name": "Pierre d'améthyste vajrada"
+    },
+    {
+      "name": "Éclat de jade shivada"
+    },
+    {
+      "name": "Fragment de jade shivada"
+    },
+    {
+      "name": "Morceau de jade shivada"
+    },
+    {
+      "name": "Pierre de jade shivada"
+    },
+    {
+      "name": "Éclat d'agate agnidus"
+    },
+    {
+      "name": "Fragment d'agate agnidus"
+    },
+    {
+      "name": "Morceau d'agate agnidus"
+    },
+    {
+      "name": "Pierre d'agate agnidus"
+    },
+    {
+      "name": "Éclat de lazurite varunada"
+    },
+    {
+      "name": "Fragment de lazurite varunada"
+    },
+    {
+      "name": "Morceau de lazurite varunada"
+    },
+    {
+      "name": "Pierre de lazurite varunada"
+    },
+    {
+      "name": "Jade juvénile"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instructeur",
+      "rarity": "3"
+    },
+    {
+      "name": "Exilé",
+      "rarity": "3"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructeur",
+      "rarity": "4"
+    },
+    {
+      "name": "Exilé",
+      "rarity": "4"
+    },
+    {
+      "name": "Sacrifieur Électro",
+      "rarity": "4"
+    },
+    {
+      "name": "Sacrifieur Cryo",
+      "rarity": "4"
+    },
+    {
+      "name": "Sacrifieur Pyro",
+      "rarity": "4"
+    },
+    {
+      "name": "Sacrifieur Hydro",
+      "rarity": "4"
+    },
+    {
+      "name": "Rideau du Gladiateur",
+      "rarity": "4"
+    },
+    {
+      "name": "Bande vagabonde",
+      "rarity": "4"
+    },
+    {
+      "name": "Rideau du Gladiateur",
+      "rarity": "5"
+    },
+    {
+      "name": "Bande vagabonde",
+      "rarity": "5"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Drake_Primo_Rock"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 2187.509794542566,
+      "attack": 101.5109267769958,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 8598.121607497742,
+      "attack": 271.2111127290973,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 26556.00003847154,
+      "attack": 668.9998862421999,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 44184.00979883387,
+      "attack": 1092.7064293284639,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 80845.48390447162,
+      "attack": 1633.6555819225032,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 149894.52767774463,
+      "attack": 2519.3090551147907,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 251437.64439336956,
+      "attack": 3547.6976112007105,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 391559.1791216936,
+      "attack": 4897.428879438376,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 556971.8262150697,
+      "attack": 6301.060288636945,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 730622.6003226824,
+      "attack": 7612.5492533508805,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 1102953.6462029815,
+      "attack": 9848.835709898849,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 1605069.4116508216,
+      "attack": 10044.388875611767,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 2159589.501701519,
+      "attack": 10241.311191761051,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

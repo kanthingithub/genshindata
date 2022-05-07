@@ -1,0 +1,32 @@
+{
+  "name": "Kratztoffelpuffer",
+  "rarity": "3",
+  "foodtype": "SPECIALTY",
+  "foodfilter": "Gericht zur LP-Wiederherstellung",
+  "foodcategory": "Recovery_HpAdd",
+  "effect": "Stellt der gewählten Figur 40 % LP sowie zusätzlich 2350 LP wieder her.",
+  "description": "Razors Spezialzubereitung. Mit viel Sorgfalt zu Wolfspfoten geformte, süß duftende Kartoffelpuffer. Man schmeckt seine Mühe dabei heraus, Speisen für Menschen zuzubereiten.",
+  "basedish": "Kartoffelpuffer nach Mondstadt-Art",
+  "character": "Razor",
+  "ingredients": [
+    {
+      "name": "Kiefernzapfen",
+      "count": 2
+    },
+    {
+      "name": "Kartoffel",
+      "count": 1
+    },
+    {
+      "name": "Konfitüre",
+      "count": 1
+    }
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_108048"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Puppy-Paw_Hash_Brown"
+  },
+  "version": "1.0"
+}

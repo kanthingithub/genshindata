@@ -1,0 +1,2079 @@
+{
+  "name": "Leer",
+  "fullname": "Leer",
+  "title": "",
+  "description": "Ein Reisender weit entfernt von der Heimat auf der Suche nach den Sieben, um seine Schwester wiederzufinden.",
+  "rarity": "5",
+  "element": "k. A.",
+  "weapontype": "Einhänder",
+  "substat": "ANG",
+  "gender": "Männlich",
+  "body": "BOY",
+  "association": "MAINACTOR",
+  "region": "",
+  "affiliation": "",
+  "birthdaymmdd": "",
+  "birthday": "",
+  "constellation": "Viator",
+  "cv": {
+    "english": "Zach Aguilar & Corina Boettger",
+    "chinese": "鹿喑&多多poi",
+    "japanese": "堀江瞬&古賀葵",
+    "korean": "Lee Kyeong-tae & Kim Ka-ryoung"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Brillantsplitter",
+        "count": 1
+      },
+      {
+        "name": "Windmühlenaster",
+        "count": 3
+      },
+      {
+        "name": "Zerbrochene Maske",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Brillantbruchstück",
+        "count": 3
+      },
+      {
+        "name": "Windmühlenaster",
+        "count": 10
+      },
+      {
+        "name": "Zerbrochene Maske",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Brillantbruchstück",
+        "count": 6
+      },
+      {
+        "name": "Windmühlenaster",
+        "count": 20
+      },
+      {
+        "name": "Verdreckte Maske",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Brillantbrocken",
+        "count": 3
+      },
+      {
+        "name": "Windmühlenaster",
+        "count": 30
+      },
+      {
+        "name": "Verdreckte Maske",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Brillantbrocken",
+        "count": 6
+      },
+      {
+        "name": "Windmühlenaster",
+        "count": 45
+      },
+      {
+        "name": "Unheilvolle Maske",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Brillant",
+        "count": 6
+      },
+      {
+        "name": "Windmühlenaster",
+        "count": 60
+      },
+      {
+        "name": "Unheilvolle Maske",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Character_Traveler_Thumb.png",
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Traveler_Male_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Character_Traveler_%28Male%29_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_PlayerBoy.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/762377aee992cb1dfd4e0e0a7911096d.png",
+    "nameicon": "UI_AvatarIcon_PlayerBoy",
+    "nameiconcard": "UI_AvatarIcon_PlayerBoy_Card",
+    "namesideicon": "UI_AvatarIcon_Side_PlayerBoy"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Aether"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 911.791015625,
+      "attack": 17.808000564575195,
+      "defense": 57.224998474121094,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2342.391124357935,
+      "attack": 45.74875355229187,
+      "defense": 147.01102140746116,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3023.54566537356,
+      "attack": 59.0525531815033,
+      "defense": 189.76102140746116,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4528.912435651757,
+      "attack": 88.45355827545154,
+      "defense": 284.23948155450853,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5012.890707136132,
+      "attack": 97.90625889038074,
+      "defense": 314.61448155450853,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5766.030280821957,
+      "attack": 112.61567116091919,
+      "defense": 361.8823425187111,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6411.334602111019,
+      "attack": 125.21927070925904,
+      "defense": 402.3823425187111,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7164.474175796844,
+      "attack": 139.9286829797975,
+      "defense": 449.65020348291364,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7648.452325210907,
+      "attack": 149.381384548401,
+      "defense": 480.02520348291364,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 8400.679739191197,
+      "attack": 164.07298161756898,
+      "defense": 527.2358163092613,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8884.658010675572,
+      "attack": 173.52567937147523,
+      "defense": 557.6108163092613,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9637.79714958556,
+      "attack": 188.2350831504973,
+      "defense": 604.8786499864582,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 10121.775421069935,
+      "attack": 197.68778471910082,
+      "defense": 635.2536499864582,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10874.91499475576,
+      "attack": 212.39719698963927,
+      "defense": 682.5215109506607,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellationTraveler": [
+    {
+      "c1": {
+        "name": "Wirbelnder Wind",
+        "effect": "Zieht Gegner und Objekte innerhalb eines Radius von 5 m bei Anwendung von **Windschwert** langsam vor die Figur."
+      },
+      "c2": {
+        "name": "Aufsteigender Wind",
+        "effect": "Erhöht die Aufladerate um 16 %."
+      },
+      "c3": {
+        "name": "Schneidender Wind",
+        "effect": "Erhöht die Stufe der Fähigkeit **Ruhe vor dem Sturm** um 3.\nHöchststufe 15."
+      },
+      "c4": {
+        "name": "Fürsorglicher Wind",
+        "effect": "Verringert den während der Dauer von **Windschwert** erlittenen Schaden um 10 %."
+      },
+      "c5": {
+        "name": "Vortex Stellaris",
+        "effect": "Erhöht die Stufe der Fähigkeit **Windschwert** um 3.\nHöchststufe 15."
+      },
+      "c6": {
+        "name": "Verworrener Wind",
+        "effect": "Verringert den Anemo-WDS von Zielen, denen mit **Ruhe vor dem Sturm** Schaden zugefügt wird, um 20 %.\nVerringert bei Elementarumwandlung den entsprechenden Elementar-WDS auch um 20 %."
+      },
+      "images": {
+        "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_01.png",
+        "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_02.png",
+        "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerWind_02.png",
+        "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_03.png",
+        "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerWind_01.png",
+        "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_04.png",
+        "constellation": "Eff_UI_Talent_PlayerBoy_Wind",
+        "constellation2": "Eff_UI_Talent_PlayerGirl_Wind"
+      },
+      "version": "1.0"
+    },
+    {
+      "c1": {
+        "name": "Frühlingsgewitter bei der Ernte",
+        "effect": "Erhöht die mit **Blitzschattenschwert** zu erschaffende Menge an Amuletten des Überflusses auf 3."
+      },
+      "c2": {
+        "name": "Wucht des Wetters",
+        "effect": "Verringert beim Treffen von Gegnern mit dem grellen Blitzschlag von **Rollender Donner** den Elektro-WDS dieser Gegner 8 s lang um 15 %."
+      },
+      "c3": {
+        "name": "Entfernter Donner",
+        "effect": "Erhöht die Stufe der Fähigkeit **Rollender Donner** um 3.\nHöchststufe 15."
+      },
+      "c4": {
+        "name": "Unberechenbares Unwetter",
+        "effect": "Stellt beim Einfangen von Amuletten des Überflusses von **Blitzschattenschwert** der einfangenden Figur 100 % mehr Elementarenergie wieder her, wenn die Figur weniger als 35 % Elementarenergie hat."
+      },
+      "c5": {
+        "name": "Getöne in der Wildnis",
+        "effect": "Erhöht die Stufe der Fähigkeit **Blitzschattenschwert** um 3.\nHöchststufe 15."
+      },
+      "c6": {
+        "name": "Erschütternde Blitze",
+        "effect": "Erhöht den mit jedem dritten grellen Blitzschlag von **Rollender Donner** verursachten Schaden enorm, verursacht damit 200 % des ursprünglichen Schadens und stellt der aktuellen Figur zusätzlich 1 Punkt Elementarenergie wieder her."
+      },
+      "images": {
+        "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_01.png",
+        "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_02.png",
+        "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerElectric_01.png",
+        "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_03.png",
+        "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerElectric_02.png",
+        "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_04.png",
+        "constellation": "Eff_UI_Talent_PlayerBoy_Electric",
+        "constellation2": "Eff_UI_Talent_PlayerGirl_Electric"
+      },
+      "version": "2.0"
+    },
+    {
+      "c1": {
+        "name": "Hoher Steinwall",
+        "effect": "Erhöht die KT, wenn eine Figur in der Truppe vom Steinwall von **Aufgetürmter Steinwall** umringt ist, um 10 % und erhöht den Unterbrechungs-WDS."
+      },
+      "c2": {
+        "name": "Instabiler Kern",
+        "effect": "Der gefallene Stern von **Sternschnuppenschwert** explodiert, sobald er zerstört wird, und fügt Gegnern in der Umgebung zusätzlichen Geo-Flächenschaden in Höhe des Schadens von Sternschnuppenschwert zu."
+      },
+      "c3": {
+        "name": "Felsen ringsumher",
+        "effect": "Erhöht die Stufe der Fähigkeit **Aufgetürmter Steinwall** um 3.\nHöchststufe 15."
+      },
+      "c4": {
+        "name": "Schroffer Felsen",
+        "effect": "Stellt für jeden von der Druckwelle von **Aufgetürmter Steinwall** getroffenen Gegner 5 Punkte Elementarenergie wieder her.\nInsgesamt können auf diese Weise bis zu 25 Punkte Elementarenergie pro Anwendung wiederhergestellt werden."
+      },
+      "c5": {
+        "name": "Meteoriteneinschlag",
+        "effect": "Erhöht die Stufe der Fähigkeit **Sternschnuppenschwert** um 3.\nHöchststufe 15."
+      },
+      "c6": {
+        "name": "Unvergänglicher Felsbrocken",
+        "effect": "Verlängert die Wirkungsdauer des Steinwalls von **Aufgetürmter Steinwall** um 5 s.\nVerlängert die Wirkungsdauer des gefallenen Sterns von **Sternschnuppenschwert** um 10 s."
+      },
+      "images": {
+        "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_01.png",
+        "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_02.png",
+        "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerRock_02.png",
+        "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_03.png",
+        "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerRock_01.png",
+        "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_04.png",
+        "constellation": "Eff_UI_Talent_PlayerBoy_Rock",
+        "constellation2": "Eff_UI_Talent_PlayerGirl_Rock"
+      },
+      "version": "1.0"
+    }
+  ],
+  "talentTraveler": [
+    {
+      "name": "Reisende (Anemo)",
+      "combat1": {
+        "name": "Standardangriff: Eiserner Wind aus der Fremde",
+        "info": "**Standardangriff**\nFührt bis zu 5 Schwerthiebe hintereinander aus.\n\n**Heftiger Schlag**\nVerbraucht eine gewisse Menge Ausdauer und schwingt das Schwert zweimal schnell nach vorn.\n\n**Angriff aus dem Fall**\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+        "attributes": [
+          {
+            "name": "SCH Phase 1",
+            "parameters": [
+              "44.46%",
+              "48.08%",
+              "51.70%",
+              "56.87%",
+              "60.49%",
+              "64.63%",
+              "70.31%",
+              "76.00%",
+              "81.69%",
+              "87.89%",
+              "94.09%",
+              "100.30%",
+              "106.50%",
+              "112.71%",
+              "118.91%"
+            ]
+          },
+          {
+            "name": "SCH Phase 2",
+            "parameters": [
+              "43.43%",
+              "46.97%",
+              "50.50%",
+              "55.55%",
+              "59.08%",
+              "63.13%",
+              "68.68%",
+              "74.23%",
+              "79.79%",
+              "85.85%",
+              "91.91%",
+              "97.97%",
+              "104.03%",
+              "110.09%",
+              "116.15%"
+            ]
+          },
+          {
+            "name": "SCH Phase 3",
+            "parameters": [
+              "52.98%",
+              "57.29%",
+              "61.60%",
+              "67.76%",
+              "72.07%",
+              "77.00%",
+              "83.78%",
+              "90.55%",
+              "97.33%",
+              "104.72%",
+              "112.11%",
+              "119.50%",
+              "126.90%",
+              "134.29%",
+              "141.68%"
+            ]
+          },
+          {
+            "name": "SCH Phase 4",
+            "parameters": [
+              "58.31%",
+              "63.05%",
+              "67.80%",
+              "74.58%",
+              "79.33%",
+              "84.75%",
+              "92.21%",
+              "99.67%",
+              "107.12%",
+              "115.26%",
+              "123.40%",
+              "131.53%",
+              "139.67%",
+              "147.80%",
+              "155.94%"
+            ]
+          },
+          {
+            "name": "SCH Phase 5",
+            "parameters": [
+              "70.78%",
+              "76.54%",
+              "82.30%",
+              "90.53%",
+              "96.29%",
+              "102.87%",
+              "111.93%",
+              "120.98%",
+              "130.03%",
+              "139.91%",
+              "149.79%",
+              "159.66%",
+              "169.54%",
+              "179.41%",
+              "189.29%"
+            ]
+          },
+          {
+            "name": "SCH heftiger Schläge",
+            "parameters": [
+              "55.90% + 72.24%",
+              "60.45% + 78.12%",
+              "65.00% + 84.00%",
+              "71.50% + 92.40%",
+              "76.05% + 98.28%",
+              "81.25% + 105.00%",
+              "88.40% + 114.24%",
+              "95.55% + 123.48%",
+              "102.70% + 132.72%",
+              "110.50% + 142.80%",
+              "118.30% + 152.88%",
+              "126.10% + 162.96%",
+              "133.90% + 173.04%",
+              "141.70% + 183.12%",
+              "149.50% + 193.20%"
+            ]
+          },
+          {
+            "name": "Ausdauerverbrauch heftiger Schläge",
+            "parameters": [
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte"
+            ]
+          },
+          {
+            "name": "SCH beim Fallen",
+            "parameters": [
+              "63.93%",
+              "69.14%",
+              "74.34%",
+              "81.77%",
+              "86.98%",
+              "92.93%",
+              "101.10%",
+              "109.28%",
+              "117.46%",
+              "126.38%",
+              "135.30%",
+              "144.22%",
+              "153.14%",
+              "162.06%",
+              "170.98%"
+            ]
+          },
+          {
+            "name": "SCH beim Fallen aus niedriger/großer Höhe",
+            "parameters": [
+              "127.84%/159.68%",
+              "138.24%/172.67%",
+              "148.65%/185.67%",
+              "163.51%/204.24%",
+              "173.92%/217.23%",
+              "185.81%/232.09%",
+              "202.16%/252.51%",
+              "218.51%/272.93%",
+              "234.86%/293.36%",
+              "252.70%/315.64%",
+              "270.54%/337.92%",
+              "288.38%/360.20%",
+              "306.22%/382.48%",
+              "324.05%/404.76%",
+              "341.89%/427.04%"
+            ]
+          }
+        ]
+      },
+      "combat2": {
+        "name": "Windschwert",
+        "info": "Konzentriert die Kraft des Windes auf der Handfläche und erschafft einen Vakuumstrudel, der gegenüberstehenden Gegnern fortlaufend Anemo-Schaden zufügt.\nVerursacht am Ende eine Explosion, die noch größeren und höheren Anemo-Schaden verursacht.\n\n**Gedrückt halten**\nSchaden und Wirkungsbereich vergrößern sich allmählich.\n\n**Elementarumwandlung**\nVerleiht dem Vakuumstrudel beim Treffen auf Hydro-, Pyro-, Kryo- oder Elektro-Effekte während der Wirkungsdauer das jeweilige Element und verursacht dementsprechend Schaden.\nElementarumwandlung nur einmal während der Wirkungsdauer möglich.",
+        "description": "Du hast mit Paimon darüber gesprochen, wie man formlosen Wind in der Hand halten kann.",
+        "attributes": [
+          {
+            "name": "Anfangs-SCH bei Anwendung",
+            "parameters": [
+              "12.00%",
+              "12.90%",
+              "13.80%",
+              "15.00%",
+              "15.90%",
+              "16.80%",
+              "18.00%",
+              "19.20%",
+              "20.40%",
+              "21.60%",
+              "22.80%",
+              "24.00%",
+              "25.50%",
+              "27.00%",
+              "28.50%"
+            ]
+          },
+          {
+            "name": "Max. SCH bei Anwendung",
+            "parameters": [
+              "16.80%",
+              "18.06%",
+              "19.32%",
+              "21.00%",
+              "22.26%",
+              "23.52%",
+              "25.20%",
+              "26.88%",
+              "28.56%",
+              "30.24%",
+              "31.92%",
+              "33.60%",
+              "35.70%",
+              "37.80%",
+              "39.90%"
+            ]
+          },
+          {
+            "name": "Anfangs-SCH bei Gedrückthalten",
+            "parameters": [
+              "176.00%",
+              "189.20%",
+              "202.40%",
+              "220.00%",
+              "233.20%",
+              "246.40%",
+              "264.00%",
+              "281.60%",
+              "299.20%",
+              "316.80%",
+              "334.40%",
+              "352.00%",
+              "374.00%",
+              "396.00%",
+              "418.00%"
+            ]
+          },
+          {
+            "name": "Max. SCH bei Gedrückthalten",
+            "parameters": [
+              "192.00%",
+              "206.40%",
+              "220.80%",
+              "240.00%",
+              "254.40%",
+              "268.80%",
+              "288.00%",
+              "307.20%",
+              "326.40%",
+              "345.60%",
+              "364.80%",
+              "384.00%",
+              "408.00%",
+              "432.00%",
+              "456.00%"
+            ]
+          },
+          {
+            "name": "Basisabklingzeit",
+            "parameters": [
+              "5 s",
+              "5 s",
+              "5 s",
+              "5 s",
+              "5 s",
+              "5 s",
+              "5 s",
+              "5 s",
+              "5 s",
+              "5 s",
+              "5 s",
+              "5 s",
+              "5 s",
+              "5 s",
+              "5 s"
+            ]
+          },
+          {
+            "name": "Abklingzeit bei vollem Aufladen",
+            "parameters": [
+              "8 s",
+              "8 s",
+              "8 s",
+              "8 s",
+              "8 s",
+              "8 s",
+              "8 s",
+              "8 s",
+              "8 s",
+              "8 s",
+              "8 s",
+              "8 s",
+              "8 s",
+              "8 s",
+              "8 s"
+            ]
+          }
+        ]
+      },
+      "combat3": {
+        "name": "Ruhe vor dem Sturm",
+        "info": "Leitet den Wind und erschafft einen sich nach vorn bewegenden Tornado, der Objekte und Gegner in seiner Bahn mitreißt und fortlaufend Anemo-Schaden verursacht.\n\n**Elementarumwandlung**\nVerleiht dem Tornado beim Treffen auf Hydro-, Pyro-, Kryo- oder Elektro-Effekte während der Wirkungsdauer das jeweilige Element und verursacht dementsprechend zusätzlichen Schaden.\nElementarumwandlung nur einmal während der Wirkungsdauer möglich.",
+        "description": "Du hast mit Paimon den Flügelschlag von Schmetterlingen untersucht.",
+        "attributes": [
+          {
+            "name": "Tornado-SCH",
+            "parameters": [
+              "80.80%",
+              "86.86%",
+              "92.92%",
+              "101.00%",
+              "107.06%",
+              "113.12%",
+              "121.20%",
+              "129.28%",
+              "137.36%",
+              "145.44%",
+              "153.52%",
+              "161.60%",
+              "171.70%",
+              "181.80%",
+              "191.90%"
+            ]
+          },
+          {
+            "name": "Zusätzlicher Elementar-SCH",
+            "parameters": [
+              "24.80%",
+              "26.66%",
+              "28.52%",
+              "31.00%",
+              "32.86%",
+              "34.72%",
+              "37.20%",
+              "39.68%",
+              "42.16%",
+              "44.64%",
+              "47.12%",
+              "49.60%",
+              "52.70%",
+              "55.80%",
+              "58.90%"
+            ]
+          },
+          {
+            "name": "Dauer",
+            "parameters": [
+              "6 s",
+              "6 s",
+              "6 s",
+              "6 s",
+              "6 s",
+              "6 s",
+              "6 s",
+              "6 s",
+              "6 s",
+              "6 s",
+              "6 s",
+              "6 s",
+              "6 s",
+              "6 s",
+              "6 s"
+            ]
+          },
+          {
+            "name": "Abklingzeit",
+            "parameters": [
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s"
+            ]
+          },
+          {
+            "name": "Elementarenergie",
+            "parameters": [
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60"
+            ]
+          }
+        ]
+      },
+      "passive1": {
+        "name": "Schlitzender Wind",
+        "info": "Führt beim letzten Schlag des Standardangriffs einen Hieb mit einer Windklinge aus und fügt Gegnern in der Bahn Anemo-Schaden in Höhe von 60 % ANG zu."
+      },
+      "passive2": {
+        "name": "Erneuter Wind",
+        "info": "Stellt nach dem Besiegen von Gegnern mit **Windschwert** 5 s lang 2 % LP pro s wieder her.\n5 s Abklingzeit."
+      },
+      "costs": {
+        "lvl2": [
+          {
+            "name": "Mora",
+            "count": 12500
+          },
+          {
+            "name": "Lehren der „Freiheit“",
+            "count": 3
+          },
+          {
+            "name": "Leitende Schriftrolle",
+            "count": 6
+          }
+        ],
+        "lvl3": [
+          {
+            "name": "Mora",
+            "count": 17500
+          },
+          {
+            "name": "Anleitung zum „Widerstand“",
+            "count": 2
+          },
+          {
+            "name": "Zaubersiegel-Schriftrolle",
+            "count": 3
+          }
+        ],
+        "lvl4": [
+          {
+            "name": "Mora",
+            "count": 25000
+          },
+          {
+            "name": "Anleitung zur „Poesie“",
+            "count": 4
+          },
+          {
+            "name": "Zaubersiegel-Schriftrolle",
+            "count": 4
+          }
+        ],
+        "lvl5": [
+          {
+            "name": "Mora",
+            "count": 30000
+          },
+          {
+            "name": "Anleitung zur „Freiheit“",
+            "count": 6
+          },
+          {
+            "name": "Zaubersiegel-Schriftrolle",
+            "count": 6
+          }
+        ],
+        "lvl6": [
+          {
+            "name": "Mora",
+            "count": 37500
+          },
+          {
+            "name": "Anleitung zum „Widerstand“",
+            "count": 9
+          },
+          {
+            "name": "Zaubersiegel-Schriftrolle",
+            "count": 9
+          }
+        ],
+        "lvl7": [
+          {
+            "name": "Mora",
+            "count": 120000
+          },
+          {
+            "name": "Philosophie der „Poesie“",
+            "count": 4
+          },
+          {
+            "name": "Fluchschriftrolle",
+            "count": 4
+          },
+          {
+            "name": "Atem des Ostwinds",
+            "count": 1
+          }
+        ],
+        "lvl8": [
+          {
+            "name": "Mora",
+            "count": 260000
+          },
+          {
+            "name": "Philosophie der „Freiheit“",
+            "count": 6
+          },
+          {
+            "name": "Fluchschriftrolle",
+            "count": 6
+          },
+          {
+            "name": "Atem des Ostwinds",
+            "count": 1
+          }
+        ],
+        "lvl9": [
+          {
+            "name": "Mora",
+            "count": 450000
+          },
+          {
+            "name": "Philosophie des „Widerstands“",
+            "count": 12
+          },
+          {
+            "name": "Fluchschriftrolle",
+            "count": 9
+          },
+          {
+            "name": "Atem des Ostwinds",
+            "count": 2
+          }
+        ],
+        "lvl10": [
+          {
+            "name": "Mora",
+            "count": 700000
+          },
+          {
+            "name": "Philosophie der „Poesie“",
+            "count": 16
+          },
+          {
+            "name": "Fluchschriftrolle",
+            "count": 12
+          },
+          {
+            "name": "Atem des Ostwinds",
+            "count": 2
+          },
+          {
+            "name": "Krone der Weisheit",
+            "count": 1
+          }
+        ]
+      },
+      "images": {
+        "combat1": "Skill_A_01",
+        "combat2": "Skill_S_PlayerWind_01",
+        "combat3": "Skill_E_PlayerWind_01_HD",
+        "passive1": "UI_Talent_S_PlayerWind_05",
+        "passive2": "UI_Talent_S_PlayerWind_06"
+      },
+      "version": "1.0"
+    },
+    {
+      "name": "Reisende (Elektro)",
+      "combat1": {
+        "name": "Standardangriff: Gewitter aus der Fremde",
+        "info": "**Standardangriff**\nFührt bis zu 5 Schwerthiebe hintereinander aus.\n\n**Heftiger Schlag**\nVerbraucht eine gewisse Menge Ausdauer und schwingt das Schwert zweimal schnell nach vorn.\n\n**Angriff aus dem Fall**\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+        "attributes": [
+          {
+            "name": "SCH Phase 1",
+            "parameters": [
+              "44.46%",
+              "48.08%",
+              "51.70%",
+              "56.87%",
+              "60.49%",
+              "64.63%",
+              "70.31%",
+              "76.00%",
+              "81.69%",
+              "87.89%",
+              "94.09%",
+              "100.30%",
+              "106.50%",
+              "112.71%",
+              "118.91%"
+            ]
+          },
+          {
+            "name": "SCH Phase 2",
+            "parameters": [
+              "43.43%",
+              "46.97%",
+              "50.50%",
+              "55.55%",
+              "59.08%",
+              "63.13%",
+              "68.68%",
+              "74.23%",
+              "79.79%",
+              "85.85%",
+              "91.91%",
+              "97.97%",
+              "104.03%",
+              "110.09%",
+              "116.15%"
+            ]
+          },
+          {
+            "name": "SCH Phase 3",
+            "parameters": [
+              "52.98%",
+              "57.29%",
+              "61.60%",
+              "67.76%",
+              "72.07%",
+              "77.00%",
+              "83.78%",
+              "90.55%",
+              "97.33%",
+              "104.72%",
+              "112.11%",
+              "119.50%",
+              "126.90%",
+              "134.29%",
+              "141.68%"
+            ]
+          },
+          {
+            "name": "SCH Phase 4",
+            "parameters": [
+              "58.31%",
+              "63.05%",
+              "67.80%",
+              "74.58%",
+              "79.33%",
+              "84.75%",
+              "92.21%",
+              "99.67%",
+              "107.12%",
+              "115.26%",
+              "123.40%",
+              "131.53%",
+              "139.67%",
+              "147.80%",
+              "155.94%"
+            ]
+          },
+          {
+            "name": "SCH Phase 5",
+            "parameters": [
+              "70.78%",
+              "76.54%",
+              "82.30%",
+              "90.53%",
+              "96.29%",
+              "102.87%",
+              "111.93%",
+              "120.98%",
+              "130.03%",
+              "139.91%",
+              "149.79%",
+              "159.66%",
+              "169.54%",
+              "179.41%",
+              "189.29%"
+            ]
+          },
+          {
+            "name": "SCH heftiger Schläge",
+            "parameters": [
+              "55.90% + 72.24%",
+              "60.45% + 78.12%",
+              "65.00% + 84.00%",
+              "71.50% + 92.40%",
+              "76.05% + 98.28%",
+              "81.25% + 105.00%",
+              "88.40% + 114.24%",
+              "95.55% + 123.48%",
+              "102.70% + 132.72%",
+              "110.50% + 142.80%",
+              "118.30% + 152.88%",
+              "126.10% + 162.96%",
+              "133.90% + 173.04%",
+              "141.70% + 183.12%",
+              "149.50% + 193.20%"
+            ]
+          },
+          {
+            "name": "Ausdauerverbrauch heftiger Schläge",
+            "parameters": [
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte"
+            ]
+          },
+          {
+            "name": "SCH beim Fallen",
+            "parameters": [
+              "63.93%",
+              "69.14%",
+              "74.34%",
+              "81.77%",
+              "86.98%",
+              "92.93%",
+              "101.10%",
+              "109.28%",
+              "117.46%",
+              "126.38%",
+              "135.30%",
+              "144.22%",
+              "153.14%",
+              "162.06%",
+              "170.98%"
+            ]
+          },
+          {
+            "name": "SCH beim Fallen aus niedriger/großer Höhe",
+            "parameters": [
+              "127.84%/159.68%",
+              "138.24%/172.67%",
+              "148.65%/185.67%",
+              "163.51%/204.24%",
+              "173.92%/217.23%",
+              "185.81%/232.09%",
+              "202.16%/252.51%",
+              "218.51%/272.93%",
+              "234.86%/293.36%",
+              "252.70%/315.64%",
+              "270.54%/337.92%",
+              "288.38%/360.20%",
+              "306.22%/382.48%",
+              "324.05%/404.76%",
+              "341.89%/427.04%"
+            ]
+          }
+        ]
+      },
+      "combat2": {
+        "name": "Blitzschattenschwert",
+        "info": "Führt drei schnelle Blitzschattenhiebe aus, die Gegnern Elektro-Schaden zufügen und Amulette des Überflusses bei getroffenen Gegnern hinterlassen.\nKann anfänglich bis zu 2 Amulette des Überflusses erschaffen. Entfernt bei Anwendung dieser Fähigkeit alle bereits selbst erschaffenen Amulette des Überflusses.\n\n**Amulette des Überflusses**\nNähert sich eine Figur den Amuletten des Überflusses, werden folgende Effekte ausgelöst:\n· Stellt Elementarenergie wieder her.\n· Erhöht die Aufladerate während der Wirkungsdauer.",
+        "description": "Du hast mit Paimon darüber gesprochen, wie sich Elektrizität ausbreitet.",
+        "attributes": [
+          {
+            "name": "Fähigkeits-SCH",
+            "parameters": [
+              "78.66%",
+              "84.56%",
+              "90.46%",
+              "98.33%",
+              "104.23%",
+              "110.13%",
+              "118.00%",
+              "125.86%",
+              "133.73%",
+              "141.60%",
+              "149.46%",
+              "157.33%",
+              "167.16%",
+              "176.99%",
+              "186.83%"
+            ]
+          },
+          {
+            "name": "Elementarenergie-Wiederherstellung",
+            "parameters": [
+              "3 pro Amulett",
+              "3 pro Amulett",
+              "3 pro Amulett",
+              "3.5 pro Amulett",
+              "3.5 pro Amulett",
+              "3.5 pro Amulett",
+              "4 pro Amulett",
+              "4 pro Amulett",
+              "4 pro Amulett",
+              "4 pro Amulett",
+              "4 pro Amulett",
+              "4 pro Amulett",
+              "4 pro Amulett",
+              "4 pro Amulett",
+              "4 pro Amulett"
+            ]
+          },
+          {
+            "name": "Aufladeratenbonus",
+            "parameters": [
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%",
+              "20.00%"
+            ]
+          },
+          {
+            "name": "Dauer",
+            "parameters": [
+              "6 s",
+              "6 s",
+              "6 s",
+              "6 s",
+              "6 s",
+              "6 s",
+              "6 s",
+              "6 s",
+              "6 s",
+              "6 s",
+              "6 s",
+              "6 s",
+              "6 s",
+              "6 s",
+              "6 s"
+            ]
+          },
+          {
+            "name": "Vorhandensein von Amuletten des Überflusses",
+            "parameters": [
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s"
+            ]
+          },
+          {
+            "name": "Abklingzeit",
+            "parameters": [
+              "13.5 s",
+              "13.5 s",
+              "13.5 s",
+              "13.5 s",
+              "13.5 s",
+              "13.5 s",
+              "13.5 s",
+              "13.5 s",
+              "13.5 s",
+              "13.5 s",
+              "13.5 s",
+              "13.5 s",
+              "13.5 s",
+              "13.5 s",
+              "13.5 s"
+            ]
+          }
+        ]
+      },
+      "combat3": {
+        "name": "Rollender Donner",
+        "info": "Du beschwörst den Schutz der Blitze an deine Seite, stößt Gegner in der Umgebung zurück und verursachst Elektro-Schaden.\n\n**Blitzgewand**\nBeschwört beim Treffen von Gegnern mit Standardangriffen oder heftigen Schlägen der aktuellen eigenen Figur einen grellen Blitzschlag und fügt Gegnern Elektro-Schaden zu.\nStellt beim Treffen von Gegnern mit grellen Blitzschlägen der jeweiligen Figur Elementarenergie wieder her.\n0,5 s Abklingzeit für grelle Blitzschläge.",
+        "description": "Du hast mit Paimon die Lichter untersucht, die durch die Wolken zischen.",
+        "attributes": [
+          {
+            "name": "Fähigkeits-SCH",
+            "parameters": [
+              "114.40%",
+              "122.98%",
+              "131.56%",
+              "143.00%",
+              "151.58%",
+              "160.16%",
+              "171.60%",
+              "183.04%",
+              "194.48%",
+              "205.92%",
+              "217.36%",
+              "228.80%",
+              "243.10%",
+              "257.40%",
+              "271.70%"
+            ]
+          },
+          {
+            "name": "SCH greller Blitzschläge",
+            "parameters": [
+              "32.80%",
+              "35.26%",
+              "37.72%",
+              "41.00%",
+              "43.46%",
+              "45.92%",
+              "49.20%",
+              "52.48%",
+              "55.76%",
+              "59.04%",
+              "62.32%",
+              "65.60%",
+              "69.70%",
+              "73.80%",
+              "77.90%"
+            ]
+          },
+          {
+            "name": "Elementarenergie-Wiederherstellung",
+            "parameters": [
+              "0.800000011920929",
+              "0.800000011920929",
+              "0.800000011920929",
+              "0.8999999761581421",
+              "0.8999999761581421",
+              "0.8999999761581421",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1"
+            ]
+          },
+          {
+            "name": "Dauer",
+            "parameters": [
+              "12 s",
+              "12 s",
+              "12 s",
+              "12 s",
+              "12 s",
+              "12 s",
+              "12 s",
+              "12 s",
+              "12 s",
+              "12 s",
+              "12 s",
+              "12 s",
+              "12 s",
+              "12 s",
+              "12 s"
+            ]
+          },
+          {
+            "name": "Abklingzeit",
+            "parameters": [
+              "20 s",
+              "20 s",
+              "20 s",
+              "20 s",
+              "20 s",
+              "20 s",
+              "20 s",
+              "20 s",
+              "20 s",
+              "20 s",
+              "20 s",
+              "20 s",
+              "20 s",
+              "20 s",
+              "20 s"
+            ]
+          },
+          {
+            "name": "Elementarenergie",
+            "parameters": [
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80",
+              "80"
+            ]
+          }
+        ]
+      },
+      "passive1": {
+        "name": "Aufleuchten des Donners",
+        "info": "Verkürzt beim Aufnehmen von Amuletten des Überflusses, die durch **Blitzschattenschwert** entstanden sind, durch andere Truppenmitglieder in der Nähe die Abklingzeit von **Blitzschattenschwert** um 1,5 s."
+      },
+      "passive2": {
+        "name": "Widerhallender Donner",
+        "info": "Erhöht den Aufladerateneffekt der Amulette des Überflusses von **Blitzschattenschwert** um 10 % der Aufladerate {F#der}{M#des} Reisenden selbst."
+      },
+      "costs": {
+        "lvl2": [
+          {
+            "name": "Mora",
+            "count": 12500
+          },
+          {
+            "name": "Lehren der „Vergänglichkeit“",
+            "count": 3
+          },
+          {
+            "name": "Alter Handschutz",
+            "count": 6
+          }
+        ],
+        "lvl3": [
+          {
+            "name": "Mora",
+            "count": 17500
+          },
+          {
+            "name": "Anleitung zur „Eleganz“",
+            "count": 2
+          },
+          {
+            "name": "Kageuchi-Handschutz",
+            "count": 3
+          }
+        ],
+        "lvl4": [
+          {
+            "name": "Mora",
+            "count": 25000
+          },
+          {
+            "name": "Anleitung zum „Licht“",
+            "count": 4
+          },
+          {
+            "name": "Kageuchi-Handschutz",
+            "count": 4
+          }
+        ],
+        "lvl5": [
+          {
+            "name": "Mora",
+            "count": 30000
+          },
+          {
+            "name": "Anleitung zur „Vergänglichkeit“",
+            "count": 6
+          },
+          {
+            "name": "Kageuchi-Handschutz",
+            "count": 6
+          }
+        ],
+        "lvl6": [
+          {
+            "name": "Mora",
+            "count": 37500
+          },
+          {
+            "name": "Anleitung zur „Eleganz“",
+            "count": 9
+          },
+          {
+            "name": "Kageuchi-Handschutz",
+            "count": 9
+          }
+        ],
+        "lvl7": [
+          {
+            "name": "Mora",
+            "count": 120000
+          },
+          {
+            "name": "Philosophie des „Lichts“",
+            "count": 4
+          },
+          {
+            "name": "Berühmter Handschutz",
+            "count": 4
+          },
+          {
+            "name": "Horn des Drachenkönigs",
+            "count": 1
+          }
+        ],
+        "lvl8": [
+          {
+            "name": "Mora",
+            "count": 260000
+          },
+          {
+            "name": "Philosophie der „Vergänglichkeit“",
+            "count": 6
+          },
+          {
+            "name": "Berühmter Handschutz",
+            "count": 6
+          },
+          {
+            "name": "Horn des Drachenkönigs",
+            "count": 1
+          }
+        ],
+        "lvl9": [
+          {
+            "name": "Mora",
+            "count": 450000
+          },
+          {
+            "name": "Philosophie der „Eleganz“",
+            "count": 12
+          },
+          {
+            "name": "Berühmter Handschutz",
+            "count": 9
+          },
+          {
+            "name": "Horn des Drachenkönigs",
+            "count": 2
+          }
+        ],
+        "lvl10": [
+          {
+            "name": "Mora",
+            "count": 700000
+          },
+          {
+            "name": "Philosophie des „Lichts“",
+            "count": 16
+          },
+          {
+            "name": "Berühmter Handschutz",
+            "count": 12
+          },
+          {
+            "name": "Horn des Drachenkönigs",
+            "count": 2
+          },
+          {
+            "name": "Krone der Weisheit",
+            "count": 1
+          }
+        ]
+      },
+      "images": {
+        "combat1": "Skill_A_01",
+        "combat2": "Skill_S_PlayerElectric_01",
+        "combat3": "Skill_E_PlayerElectric_01_HD",
+        "passive1": "UI_Talent_S_PlayerElectric_05",
+        "passive2": "UI_Talent_S_PlayerElectric_06"
+      },
+      "version": "2.0"
+    },
+    {
+      "name": "Reisende (Geo)",
+      "combat1": {
+        "name": "Standardangriff: Steinerne Klinge aus der Fremde",
+        "info": "**Standardangriff**\nFührt bis zu 5 Schwerthiebe hintereinander aus.\n\n**Heftiger Schlag**\nVerbraucht eine gewisse Menge Ausdauer und schwingt das Schwert zweimal schnell nach vorn.\n\n**Angriff aus dem Fall**\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+        "attributes": [
+          {
+            "name": "SCH Phase 1",
+            "parameters": [
+              "44.46%",
+              "48.08%",
+              "51.70%",
+              "56.87%",
+              "60.49%",
+              "64.63%",
+              "70.31%",
+              "76.00%",
+              "81.69%",
+              "87.89%",
+              "94.09%",
+              "100.30%",
+              "106.50%",
+              "112.71%",
+              "118.91%"
+            ]
+          },
+          {
+            "name": "SCH Phase 2",
+            "parameters": [
+              "43.43%",
+              "46.97%",
+              "50.50%",
+              "55.55%",
+              "59.08%",
+              "63.13%",
+              "68.68%",
+              "74.23%",
+              "79.79%",
+              "85.85%",
+              "91.91%",
+              "97.97%",
+              "104.03%",
+              "110.09%",
+              "116.15%"
+            ]
+          },
+          {
+            "name": "SCH Phase 3",
+            "parameters": [
+              "52.98%",
+              "57.29%",
+              "61.60%",
+              "67.76%",
+              "72.07%",
+              "77.00%",
+              "83.78%",
+              "90.55%",
+              "97.33%",
+              "104.72%",
+              "112.11%",
+              "119.50%",
+              "126.90%",
+              "134.29%",
+              "141.68%"
+            ]
+          },
+          {
+            "name": "SCH Phase 4",
+            "parameters": [
+              "58.31%",
+              "63.05%",
+              "67.80%",
+              "74.58%",
+              "79.33%",
+              "84.75%",
+              "92.21%",
+              "99.67%",
+              "107.12%",
+              "115.26%",
+              "123.40%",
+              "131.53%",
+              "139.67%",
+              "147.80%",
+              "155.94%"
+            ]
+          },
+          {
+            "name": "SCH Phase 5",
+            "parameters": [
+              "70.78%",
+              "76.54%",
+              "82.30%",
+              "90.53%",
+              "96.29%",
+              "102.87%",
+              "111.93%",
+              "120.98%",
+              "130.03%",
+              "139.91%",
+              "149.79%",
+              "159.66%",
+              "169.54%",
+              "179.41%",
+              "189.29%"
+            ]
+          },
+          {
+            "name": "SCH heftiger Schläge",
+            "parameters": [
+              "55.90% + 72.24%",
+              "60.45% + 78.12%",
+              "65.00% + 84.00%",
+              "71.50% + 92.40%",
+              "76.05% + 98.28%",
+              "81.25% + 105.00%",
+              "88.40% + 114.24%",
+              "95.55% + 123.48%",
+              "102.70% + 132.72%",
+              "110.50% + 142.80%",
+              "118.30% + 152.88%",
+              "126.10% + 162.96%",
+              "133.90% + 173.04%",
+              "141.70% + 183.12%",
+              "149.50% + 193.20%"
+            ]
+          },
+          {
+            "name": "Ausdauerverbrauch heftiger Schläge",
+            "parameters": [
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte",
+              "20 Punkte"
+            ]
+          },
+          {
+            "name": "SCH beim Fallen",
+            "parameters": [
+              "63.93%",
+              "69.14%",
+              "74.34%",
+              "81.77%",
+              "86.98%",
+              "92.93%",
+              "101.10%",
+              "109.28%",
+              "117.46%",
+              "126.38%",
+              "135.30%",
+              "144.22%",
+              "153.14%",
+              "162.06%",
+              "170.98%"
+            ]
+          },
+          {
+            "name": "SCH beim Fallen aus niedriger/großer Höhe",
+            "parameters": [
+              "127.84%/159.68%",
+              "138.24%/172.67%",
+              "148.65%/185.67%",
+              "163.51%/204.24%",
+              "173.92%/217.23%",
+              "185.81%/232.09%",
+              "202.16%/252.51%",
+              "218.51%/272.93%",
+              "234.86%/293.36%",
+              "252.70%/315.64%",
+              "270.54%/337.92%",
+              "288.38%/360.20%",
+              "306.22%/382.48%",
+              "324.05%/404.76%",
+              "341.89%/427.04%"
+            ]
+          }
+        ]
+      },
+      "combat2": {
+        "name": "Sternschnuppenschwert",
+        "info": "Ein Brocken bricht aus der Erde heraus, explodiert und verursacht Geo-Flächenschaden.\nDer gefallene Stern gilt als Geo-Objekt, blockiert Angriffe und kann erklommen werden.\n\n**Gedrückt halten**\nWirkungsbereich der Fähigkeit kann angepasst werden.",
+        "description": "Du hast mit Paimon darüber gesprochen, wo Sternschnuppen wohl landen.",
+        "attributes": [
+          {
+            "name": "Fähigkeits-SCH",
+            "parameters": [
+              "248.00%",
+              "266.60%",
+              "285.20%",
+              "310.00%",
+              "328.60%",
+              "347.20%",
+              "372.00%",
+              "396.80%",
+              "421.60%",
+              "446.40%",
+              "471.20%",
+              "496.00%",
+              "527.00%",
+              "558.00%",
+              "589.00%"
+            ]
+          },
+          {
+            "name": "Wirkungsdauer des gefallenen Sterns",
+            "parameters": [
+              "30 s",
+              "30 s",
+              "30 s",
+              "30 s",
+              "30 s",
+              "30 s",
+              "30 s",
+              "30 s",
+              "30 s",
+              "30 s",
+              "30 s",
+              "30 s",
+              "30 s",
+              "30 s",
+              "30 s"
+            ]
+          },
+          {
+            "name": "Abklingzeit",
+            "parameters": [
+              "8 s",
+              "8 s",
+              "8 s",
+              "8 s",
+              "8 s",
+              "8 s",
+              "8 s",
+              "8 s",
+              "8 s",
+              "8 s",
+              "8 s",
+              "8 s",
+              "8 s",
+              "8 s",
+              "8 s"
+            ]
+          }
+        ]
+      },
+      "combat3": {
+        "name": "Aufgetürmter Steinwall",
+        "info": "Aktiviert die Geo-Kräfte tief in der Erde und verursacht eine Schockwelle.\nStößt Gegner in der Umgebung zurück und verursacht Geo-Flächenschaden.\nErschafft danach einen Steinwall am Rand der Druckwelle.\nDer Steinwall gilt als Geo-Objekt und blockiert Angriffe.",
+        "description": "Du hast mit Paimon die Bewegungen der Erdplatten studiert.",
+        "attributes": [
+          {
+            "name": "SCH pro Druckwelle",
+            "parameters": [
+              "148.00%",
+              "159.10%",
+              "170.20%",
+              "185.00%",
+              "196.10%",
+              "207.20%",
+              "222.00%",
+              "236.80%",
+              "251.60%",
+              "266.40%",
+              "281.20%",
+              "296.00%",
+              "314.50%",
+              "333.00%",
+              "351.50%"
+            ]
+          },
+          {
+            "name": "Wirkungsdauer des Steinwalls",
+            "parameters": [
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s"
+            ]
+          },
+          {
+            "name": "Abklingzeit",
+            "parameters": [
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s",
+              "15 s"
+            ]
+          },
+          {
+            "name": "Elementarenergie",
+            "parameters": [
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60"
+            ]
+          }
+        ]
+      },
+      "passive1": {
+        "name": "Zerspringende Felsen",
+        "info": "Verkürzt die Abklingzeit von **Sternschnuppenschwert** um 2 s."
+      },
+      "passive2": {
+        "name": "Rasanter Erdrutsch",
+        "info": "Verursacht beim letzten Schlag des Standardangriffs einen Zusammenbruch und fügt Gegnern im Wirkungsbereich Geo-Schaden in Höhe von 60 % ANG zu."
+      },
+      "costs": {
+        "lvl2": [
+          {
+            "name": "Mora",
+            "count": 12500
+          },
+          {
+            "name": "Lehren des „Wohlstands“",
+            "count": 3
+          },
+          {
+            "name": "Stabile Bolzenspitze",
+            "count": 6
+          }
+        ],
+        "lvl3": [
+          {
+            "name": "Mora",
+            "count": 17500
+          },
+          {
+            "name": "Anleitung zum „Fleiß“",
+            "count": 2
+          },
+          {
+            "name": "Scharfe Bolzenspitze",
+            "count": 3
+          }
+        ],
+        "lvl4": [
+          {
+            "name": "Mora",
+            "count": 25000
+          },
+          {
+            "name": "Anleitung zum „Gold“",
+            "count": 4
+          },
+          {
+            "name": "Scharfe Bolzenspitze",
+            "count": 4
+          }
+        ],
+        "lvl5": [
+          {
+            "name": "Mora",
+            "count": 30000
+          },
+          {
+            "name": "Anleitung zum „Wohlstand“",
+            "count": 6
+          },
+          {
+            "name": "Scharfe Bolzenspitze",
+            "count": 6
+          }
+        ],
+        "lvl6": [
+          {
+            "name": "Mora",
+            "count": 37500
+          },
+          {
+            "name": "Anleitung zum „Fleiß“",
+            "count": 9
+          },
+          {
+            "name": "Scharfe Bolzenspitze",
+            "count": 9
+          }
+        ],
+        "lvl7": [
+          {
+            "name": "Mora",
+            "count": 120000
+          },
+          {
+            "name": "Philosophie des „Golds“",
+            "count": 4
+          },
+          {
+            "name": "Abgenutzte Bolzenspitze",
+            "count": 4
+          },
+          {
+            "name": "Schwanz des Nordwinds",
+            "count": 1
+          }
+        ],
+        "lvl8": [
+          {
+            "name": "Mora",
+            "count": 260000
+          },
+          {
+            "name": "Philosophie des „Wohlstands“",
+            "count": 6
+          },
+          {
+            "name": "Abgenutzte Bolzenspitze",
+            "count": 6
+          },
+          {
+            "name": "Schwanz des Nordwinds",
+            "count": 1
+          }
+        ],
+        "lvl9": [
+          {
+            "name": "Mora",
+            "count": 450000
+          },
+          {
+            "name": "Philosophie des „Fleißes“",
+            "count": 12
+          },
+          {
+            "name": "Abgenutzte Bolzenspitze",
+            "count": 9
+          },
+          {
+            "name": "Schwanz des Nordwinds",
+            "count": 2
+          }
+        ],
+        "lvl10": [
+          {
+            "name": "Mora",
+            "count": 700000
+          },
+          {
+            "name": "Philosophie des „Golds“",
+            "count": 16
+          },
+          {
+            "name": "Abgenutzte Bolzenspitze",
+            "count": 12
+          },
+          {
+            "name": "Schwanz des Nordwinds",
+            "count": 2
+          },
+          {
+            "name": "Krone der Weisheit",
+            "count": 1
+          }
+        ]
+      },
+      "images": {
+        "combat1": "Skill_A_01",
+        "combat2": "Skill_S_PlayerRock_01",
+        "combat3": "Skill_E_PlayerRock_01_HD",
+        "passive1": "UI_Talent_S_PlayerRock_05",
+        "passive2": "UI_Talent_S_PlayerRock_06"
+      },
+      "version": "1.0"
+    }
+  ]
+}

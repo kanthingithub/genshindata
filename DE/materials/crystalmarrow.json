@@ -1,0 +1,20 @@
+{
+  "name": "Kristallmark",
+  "description": "Ein Kristall, der einen Splitter mit der Kraft der Tatarigami enthält. Wenn du dieses Material beim Schmelzen hinzufügst, wird die Stärke und Zähigkeit von Metallen stark erhöht.",
+  "sortorder": 2062,
+  "category": "EXCHANGE",
+  "materialtype": "Regionale Besonderheit von Inazuma",
+  "source": [
+    "In der freien Natur zu finden",
+    "Empfohlen: Auf Yashiori zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crystal_Marrow.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Crystal_Marrow.png",
+    "nameicon": "UI_ItemIcon_101203"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Crystal_Marrow"
+  },
+  "version": ""
+}

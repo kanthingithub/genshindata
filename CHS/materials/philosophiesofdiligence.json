@@ -1,0 +1,26 @@
+{
+  "name": "「勤劳」的哲学",
+  "description": "天赋培养素材。\n岩之国土的根基是勤劳。\n勤劳即为相信自己，即为相信通过汗水、智慧与力量，在诸神的土地上，人人都可以拥有自己的一席之地。",
+  "sortorder": 1865,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "天赋培养素材",
+  "dropdomain": "精通秘境：深炎之底",
+  "daysofweek": [
+    "周二",
+    "周五",
+    "周日"
+  ],
+  "source": [
+    "合成获得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Diligence.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Item_Philosophies_of_Diligence.png",
+    "nameicon": "UI_ItemIcon_104315"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Diligence"
+  },
+  "version": ""
+}

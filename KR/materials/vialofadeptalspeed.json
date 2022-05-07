@@ -1,0 +1,18 @@
+{
+  "name": "선력 가속병",
+  "description": "선력이 봉인된 작은 병. 사용 시, 즉각 장식을 제작할 수 있다",
+  "sortorder": 1586,
+  "rarity": "4",
+  "category": "CONSUME",
+  "materialtype": "소모품",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_107013",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vial_of_Adeptal_Speed.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Item_Vial_of_Adeptal_Speed.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Vial_of_Adeptal_Speed"
+  },
+  "version": ""
+}

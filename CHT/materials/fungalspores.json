@@ -1,0 +1,16 @@
+{
+  "name": "蕈獸孢子",
+  "description": "蕈獸留下的零星孢子粉末，閃爍著點點微光。彷彿只需一個噴嚏，便會被吹散得無影無蹤。",
+  "sortorder": 1780,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培養素材",
+  "source": [
+    "蕈獸掉落"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_112059",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fungal_Spores.png"
+  },
+  "version": "2.6"
+}

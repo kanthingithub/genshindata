@@ -1,0 +1,20 @@
+{
+  "name": "Дивдинский скат",
+  "description": "Загадочные скаты, которых раньше считали фантастическими существами. О них говорится лишь в нескольких древних свитках острова Ватацуми. Только теперь, когда открылась морская бездна, миру явился их истинный облик.\nГоворят, что цвет тела этих необычных существ меняется с возрастом. Обычно в молодости они имеют светло-золотистые тела цвета искрящегося солнца. В древних свитках говорится, что им было дано имя «Дивда», что означает «хвост невинности».",
+  "sortorder": 2034,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Рыба",
+  "source": [
+    "Рыбалка"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_131021",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Divda_Ray.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Item_Divda_Ray.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Divda_Ray"
+  },
+  "version": ""
+}

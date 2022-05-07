@@ -1,0 +1,21 @@
+{
+  "name": "浮游干核",
+  "description": "能让飘浮灵浮游的能量核，其中含有些微的元素。\n大部分的能量似乎已经逸散了。",
+  "sortorder": 1771,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培养素材",
+  "source": [
+    "飘浮灵掉落",
+    "星尘兑换"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Spectral_Husk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Item_Spectral_Husk.png",
+    "nameicon": "UI_ItemIcon_112053"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Spectral_Husk"
+  },
+  "version": ""
+}

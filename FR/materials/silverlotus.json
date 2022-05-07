@@ -1,0 +1,18 @@
+{
+  "name": "Lotus d'argent",
+  "description": "Une plante rare qui pousse près des falaises raides. Elle brille d'une magnifique lumière dans la nuit.",
+  "sortorder": 1985,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrédient",
+  "source": [
+    "Dans la nature"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Silver_Lotus.png",
+    "nameicon": "UI_ItemIcon_100019"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Silver_Lotus"
+  },
+  "version": ""
+}

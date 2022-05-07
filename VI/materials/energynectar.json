@@ -1,0 +1,21 @@
+{
+  "name": "Mật Hoa Nguyên Tố",
+  "description": "Mật ong chứa năng lượng.\nHoa Lừa Dối đánh lừa con mồi để bắt và ăn để tiến hóa thành một dạng lớn mạnh hơn, thuần túy hơn...",
+  "sortorder": 1758,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Ghép Nhận",
+    "Hoa Lừa Dối cấp 60 trở lên rơi"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Energy_Nectar.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Energy_Nectar.png",
+    "nameicon": "UI_ItemIcon_112040"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Energy_Nectar"
+  },
+  "version": ""
+}

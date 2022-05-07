@@ -1,0 +1,21 @@
+{
+  "name": "Ветви артерий земли",
+  "description": "Хрупкие ветви из глубин земли. Даже спустя годы, из-под пятнистой поверхности видно, что их сила ещё не полностью утеряна.",
+  "sortorder": 1738,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Маги Бездны",
+    "Покупается за Звёздную пыль"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dead_Ley_Line_Branch.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Item_Dead_Ley_Line_Branch.png",
+    "nameicon": "UI_ItemIcon_112020"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dead_Ley_Line_Branch"
+  },
+  "version": ""
+}

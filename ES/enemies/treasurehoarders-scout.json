@@ -1,0 +1,113 @@
+{
+  "name": "Ladrón de Tesoros - Centinela",
+  "specialname": "Cazafortunas",
+  "enemytype": "COMMON",
+  "category": "Humanos",
+  "description": "Un miembro de un grupo poco organizado que ha llegado a todos los rincones del continente, incluso a dominios desconocidos.\nCon frecuencia se encarga de vigilar. Normalmente, la senda criminal se suele elegir debido a la pobreza o a la falta de formación, como la única forma de enriquecerse. No obstante, a juzgar por su equipamiento, los miembros de esta organización no han conseguido hacerse ricos ni robando...",
+  "investigation": {
+    "name": "Ladrón de Tesoros",
+    "category": "Normal",
+    "description": "Una organización informal de ladrones cuyas huellas llegan a todos los rincones del continente, incluso a los dominios desconocidos.\\nAunque su objetivo principal es reunir tesoros, en ocasiones también se deshacen de la gente que atestigua sus robos.\\nSe dice que su fundador, Reed Miller, definió a los Ladrones de Tesoros como “una organización para ayudarse mutuamente”..."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Insignia de cuervo de bronce",
+      "count": 1.2606
+    },
+    {
+      "name": "Insignia de cuervo plateada",
+      "count": 0.3362
+    },
+    {
+      "name": "Insignia de cuervo dorada",
+      "count": 0.084
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Thoarder_Male_Rogue_01"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 87.50039587705396,
+      "attack": 30.453276106180738,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 343.92488039690215,
+      "attack": 81.36332867049941,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 1062.240051255736,
+      "attack": 200.69995317345638,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 1767.3604746725468,
+      "attack": 327.81190805638107,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 3233.819507533917,
+      "attack": 490.09664356609574,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 5995.781387735158,
+      "attack": 755.7926687119798,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 10057.506246464327,
+      "attack": 1064.3092160165033,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 15662.367897926131,
+      "attack": 1469.228570866704,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 22278.874091338832,
+      "attack": 1890.3179669820238,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 29224.90538074402,
+      "attack": 2283.764631501035,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 44118.14791301638,
+      "attack": 2954.650526015408,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 64202.77947096713,
+      "attack": 3013.316472017221,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 86383.58411114104,
+      "attack": 3072.393163123954,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

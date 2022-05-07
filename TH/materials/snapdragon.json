@@ -1,0 +1,19 @@
+{
+  "name": "Snapdragon",
+  "description": "สามารถนำไปทำเป็นอาหารได้ ใช้เป็นเครื่องปรุงรสให้กับอาหารได้อย่างดี",
+  "sortorder": 1981,
+  "category": "EXCHANGE",
+  "materialtype": "วัตถุดิบประกอบอาหาร",
+  "source": [
+    "หาได้ที่บริเวณริมทะเลสาบและริมแม่น้ำ"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Snapdragon.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Item_Snapdragon.png",
+    "nameicon": "UI_ItemIcon_100015"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Snapdragon"
+  },
+  "version": ""
+}

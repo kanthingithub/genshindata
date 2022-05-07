@@ -1,0 +1,21 @@
+{
+  "name": "Spectral Husk",
+  "description": "Inti energi yang membuat Specter dapat melayang. Mengandung sejumlah kecil energi elemental.\nBanyak energinya sudah tersebar keluar.",
+  "sortorder": 1771,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Dijatuhkan oleh Specter",
+    "Penukaran Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Spectral_Husk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Item_Spectral_Husk.png",
+    "nameicon": "UI_ItemIcon_112053"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Spectral_Husk"
+  },
+  "version": ""
+}

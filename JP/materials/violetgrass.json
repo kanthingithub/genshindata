@@ -1,0 +1,19 @@
+{
+  "name": "琉璃袋",
+  "description": "生命力旺盛な花。地面に向ける咲き方は自らの香りを守るためらしい。",
+  "sortorder": 2054,
+  "category": "EXCHANGE",
+  "materialtype": "璃月地域の特産",
+  "source": [
+    "璃月の崖で採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Violetgrass.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Violetgrass.png",
+    "nameicon": "UI_ItemIcon_100034"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Violetgrass"
+  },
+  "version": ""
+}

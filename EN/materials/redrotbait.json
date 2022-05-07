@@ -1,0 +1,20 @@
+{
+  "name": "Redrot Bait",
+  "description": "Fish bait made from mixing Dendrobium and mashed meat. The unique rank sweetness of this bait spreads very quickly in the water, attracting fierce aquatic predators. Use with caution, however! Put too much of this bait down and you might hook in nastier customers than you bargained for!\n\nSuitable for catching Sticklebacks, Bettas, Venomspine Fish, Akai Maou, and Snowstriders.",
+  "sortorder": 1515,
+  "rarity": "2",
+  "category": "FISH_BAIT",
+  "materialtype": "Bait",
+  "source": [
+    "Crafted"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_111024",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Redrot_Bait.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Item_Redrot_Bait.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Redrot_Bait"
+  },
+  "version": ""
+}

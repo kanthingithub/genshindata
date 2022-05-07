@@ -1,0 +1,26 @@
+{
+  "name": "獅牙鬥士的鐐銬",
+  "description": "賦予武器突破之力的素材。\n溫妮莎並不是被鐐銬或者鎖鏈困住的，她想要掙脫枷鎖和鐐銬的話，隨時都能擊碎蒙德融造的普通金屬。畢竟這裡既沒有優秀的礦石，也沒有故鄉的神火。\n鎖住她的，是守護族人的責任。",
+  "sortorder": 2193,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "武器突破素材",
+  "dropdomain": "煉武秘境：渴水的廢都",
+  "daysofweek": [
+    "週三",
+    "週六",
+    "週日"
+  ],
+  "source": [
+    "合成獲得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shackles_of_the_Dandelion_Gladiator.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Item_Shackles_of_the_Dandelion_Gladiator.png",
+    "nameicon": "UI_ItemIcon_114011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shackles_of_the_Dandelion_Gladiator"
+  },
+  "version": ""
+}

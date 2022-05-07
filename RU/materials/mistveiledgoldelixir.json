@@ -1,0 +1,26 @@
+{
+  "name": "Золотая пилюля Заоблачного моря",
+  "description": "Материал возвышения оружия.\nНа самом деле зелья - это пилюли, сделанные из металлических сплавов. Их производят Адепты для того, чтобы дать оружию трансцендентальные силы. Но в мире эти пилюли встретить очень тяжело из-за гордости людей, практикующих боевые искусства, которые ценят пути войны выше, чем пути Адептов.",
+  "sortorder": 2201,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Возвышение оружия",
+  "dropdomain": "Воля: Рокочущие руины",
+  "daysofweek": [
+    "Вторник",
+    "Пятница",
+    "Воскресенье"
+  ],
+  "source": [
+    "Алхимия"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Veiled_Gold_Elixir.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Mist_Veiled_Gold_Elixir.png",
+    "nameicon": "UI_ItemIcon_114019"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Veiled_Gold_Elixir"
+  },
+  "version": ""
+}

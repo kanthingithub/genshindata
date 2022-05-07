@@ -1,0 +1,19 @@
+{
+  "name": "Éclat de cristal magique",
+  "description": "Ces éclats peuvent être raffinés en EXP d'arme avec de la Résine originelle.\nLe travail de ces cristaux, formés sous l'influence des lignes énergétiques, requiert un grand savoir-faire.",
+  "sortorder": 1957,
+  "category": "EXCHANGE",
+  "materialtype": "Minerai de forge",
+  "source": [
+    "Dans la nature"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Magical_Crystal_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Item_Magical_Crystal_Chunk.png",
+    "nameicon": "UI_ItemIcon_101004"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Magical_Crystal_Chunk"
+  },
+  "version": ""
+}

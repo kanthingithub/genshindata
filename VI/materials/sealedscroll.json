@@ -1,0 +1,22 @@
+{
+  "name": "Bản Vẽ Phong Ấn",
+  "description": "Chương sách cổ với những hình vẽ mơ hồ. Mô phỏng theo hình ảnh trong đó, một số ma vật có thể tái hiện chút kỳ tích ma pháp.",
+  "sortorder": 1730,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Ghép Nhận",
+    "Phù thủy Hilichurl cấp 40 trở lên rơi",
+    "Đổi từ Tinh Trần"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sealed_Scroll.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Sealed_Scroll.png",
+    "nameicon": "UI_ItemIcon_112009"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sealed_Scroll"
+  },
+  "version": ""
+}

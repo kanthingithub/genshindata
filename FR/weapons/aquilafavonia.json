@@ -1,0 +1,317 @@
+{
+  "name": "Épée du faucon",
+  "description": "L'âme de l'Ordre de Favonius. Même après des millénaires, elle continue d'appeler le vent de la justice pour venir à bout du mal – tout comme la dernière héroïne à qui elle appartenait.",
+  "weapontype": "Épée à une main",
+  "rarity": "5",
+  "baseatk": 48,
+  "substat": "Bonus de DGT physiques",
+  "subvalue": "9",
+  "effectname": "Résistance du Faucon de l'Ouest",
+  "effect": [
+    "Augmente l'ATQ de [20 %]. Lorsque le joueur subit des DGT, l'âme du Faucon de l'Ouest se réveille brandissant l'étendard de la résistance, qui restaure [100 %] de l'ATQ sous forme de PV, et inflige des DGT équivalant à [200 %] de l'ATQ aux ennemis à proximité. Cet effet peut être déclenché 1 fois toutes les 15 s.",
+    "Augmente l'ATQ de [25 %]. Lorsque le joueur subit des DGT, l'âme du Faucon de l'Ouest se réveille brandissant l'étendard de la résistance, qui restaure [115 %] de l'ATQ sous forme de PV, et inflige des DGT équivalant à [230 %] de l'ATQ aux ennemis à proximité. Cet effet peut être déclenché 1 fois toutes les 15 s.",
+    "Augmente l'ATQ de [30 %]. Lorsque le joueur subit des DGT, l'âme du Faucon de l'Ouest se réveille brandissant l'étendard de la résistance, qui restaure [130 %] de l'ATQ sous forme de PV, et inflige des DGT équivalant à [260 %] de l'ATQ aux ennemis à proximité. Cet effet peut être déclenché 1 fois toutes les 15 s.",
+    "Augmente l'ATQ de [35 %]. Lorsque le joueur subit des DGT, l'âme du Faucon de l'Ouest se réveille brandissant l'étendard de la résistance, qui restaure [145 %] de l'ATQ sous forme de PV, et inflige des DGT équivalant à [290 %] de l'ATQ aux ennemis à proximité. Cet effet peut être déclenché 1 fois toutes les 15 s.",
+    "Augmente l'ATQ de [40 %]. Lorsque le joueur subit des DGT, l'âme du Faucon de l'Ouest se réveille brandissant l'étendard de la résistance, qui restaure [160 %] de l'ATQ sous forme de PV, et inflige des DGT équivalant à [320 %] de l'ATQ aux ennemis à proximité. Cet effet peut être déclenché 1 fois toutes les 15 s."
+  ],
+  "r1": [
+    "20 %",
+    "100 %",
+    "200 %"
+  ],
+  "r2": [
+    "25 %",
+    "115 %",
+    "230 %"
+  ],
+  "r3": [
+    "30 %",
+    "130 %",
+    "260 %"
+  ],
+  "r4": [
+    "35 %",
+    "145 %",
+    "290 %"
+  ],
+  "r5": [
+    "40 %",
+    "160 %",
+    "320 %"
+  ],
+  "weaponmaterialtype": "Decarabian",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 10000
+      },
+      {
+        "name": "Tuile cassée de Décabarian",
+        "count": 5
+      },
+      {
+        "name": "Corne lourde",
+        "count": 5
+      },
+      {
+        "name": "Pointe de flèche robuste",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Mur abattu de Décabarian",
+        "count": 5
+      },
+      {
+        "name": "Corne lourde",
+        "count": 18
+      },
+      {
+        "name": "Pointe de flèche robuste",
+        "count": 12
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Mur abattu de Décabarian",
+        "count": 9
+      },
+      {
+        "name": "Corne en bronze noir",
+        "count": 9
+      },
+      {
+        "name": "Pointe de flèche aiguisée",
+        "count": 9
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Fragment dispersé de Décabarian",
+        "count": 5
+      },
+      {
+        "name": "Corne en bronze noir",
+        "count": 18
+      },
+      {
+        "name": "Pointe de flèche aiguisée",
+        "count": 14
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 55000
+      },
+      {
+        "name": "Fragment dispersé de Décabarian",
+        "count": 9
+      },
+      {
+        "name": "Corne à cristal noir",
+        "count": 14
+      },
+      {
+        "name": "Pointe de flèche usée",
+        "count": 9
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 65000
+      },
+      {
+        "name": "Rêve brisé de Décabarian",
+        "count": 6
+      },
+      {
+        "name": "Corne à cristal noir",
+        "count": 27
+      },
+      {
+        "name": "Pointe de flèche usée",
+        "count": 18
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Weapon_Aquila_Favonia.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Falcon.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Falcon_Awaken.png",
+    "nameicon": "UI_EquipIcon_Sword_Falcon",
+    "namegacha": "UI_Gacha_EquipIcon_Sword_Falcon",
+    "nameawakenicon": "UI_EquipIcon_Sword_Falcon_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Aquila_Favonia"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 47.5369987487793,
+      "specialized": 0.09000000357627869
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 65.03061573904415,
+      "specialized": 0.10457999883413294
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 87.32546729086016,
+      "specialized": 0.12267000805020345
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 110.14322193011867,
+      "specialized": 0.14085001074671766
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 133.2937397767564,
+      "specialized": 0.15903000271439538
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 164.39374015822614,
+      "specialized": 0.15903000271439538
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 187.97209398570067,
+      "specialized": 0.1772100054109096
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 211.88320535370258,
+      "specialized": 0.1953900081074238
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 236.07952937522532,
+      "specialized": 0.21357000007510152
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 260.56110005138,
+      "specialized": 0.2317500135004522
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 291.6611004328497,
+      "specialized": 0.2317500135004522
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 316.4278724288215,
+      "specialized": 0.24993000546812993
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 341.43233485871497,
+      "specialized": 0.26811001889348063
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 372.6323356216544,
+      "specialized": 0.26811001889348063
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 397.9220220387724,
+      "specialized": 0.28629001086115835
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 423.4018426691018,
+      "specialized": 0.3044700028288361
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 454.5018411432229,
+      "specialized": 0.3044700028288361
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 480.26690842818425,
+      "specialized": 0.32265001625418677
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 506.2220872589496,
+      "specialized": 0.3407400147414208
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 537.3220933624652,
+      "specialized": 0.3407400147414208
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 563.4674517412568,
+      "specialized": 0.3589200067090985
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 589.85050055397,
+      "specialized": 0.3771000201344492
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 620.9504913986966,
+      "specialized": 0.3771000201344492
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 647.5236744246213,
+      "specialized": 0.3952800335597999
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 674.3345478844676,
+      "specialized": 0.41346000406980465
+    }
+  },
+  "version": "1.0"
+}

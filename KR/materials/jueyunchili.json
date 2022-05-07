@@ -1,0 +1,20 @@
+{
+  "name": "절운고추",
+  "description": "리월 지역의 특산물인 매운 식물. 냄새만 맡아도 온몸에서 열이 나고 갈증이 난다",
+  "sortorder": 2048,
+  "category": "EXCHANGE",
+  "materialtype": "리월 지역 특산물",
+  "source": [
+    "야외 채집",
+    "추천: 경책 산장 채집"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Jueyun_Chili.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/13/Item_Jueyun_Chili.png",
+    "nameicon": "UI_ItemIcon_100027"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Jueyun_Chili"
+  },
+  "version": ""
+}

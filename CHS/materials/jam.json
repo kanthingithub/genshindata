@@ -1,0 +1,19 @@
+{
+  "name": "果酱",
+  "description": "由水果和糖熬制而成的凝胶物质。只要少许就能轻易唤醒疲惫的味蕾。",
+  "sortorder": 1531,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "烹饪加工获得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Jam.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Item_Jam.png",
+    "nameicon": "UI_ItemIcon_110008"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Jam"
+  },
+  "version": ""
+}

@@ -1,0 +1,833 @@
+{
+  "name": "Barbara",
+  "fullname": "Barbara",
+  "title": "Ídolo Radiante",
+  "description": "Todos os habitantes de Mondstadt adoram a Barbara. Contudo, ela viu a palavra \"ídolo\" pela primeira vez em uma revista.",
+  "rarity": "4",
+  "element": "Hydro",
+  "weapontype": "Catalisador",
+  "substat": "Vida",
+  "gender": "Feminino",
+  "body": "GIRL",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Igreja Favonius",
+  "birthdaymmdd": "7/5",
+  "birthday": "5 de julho",
+  "constellation": "Cratera",
+  "cv": {
+    "english": "Laura Stahl",
+    "chinese": "宋媛媛",
+    "japanese": "鬼頭明里",
+    "korean": "Yoon Ah-young"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Lasca de Lazurita Varunada",
+        "count": 1
+      },
+      {
+        "name": "Cogumelo Philanemo",
+        "count": 3
+      },
+      {
+        "name": "Pergaminho Guia",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de Lazurita Varunada",
+        "count": 3
+      },
+      {
+        "name": "Coração Purificador",
+        "count": 2
+      },
+      {
+        "name": "Cogumelo Philanemo",
+        "count": 10
+      },
+      {
+        "name": "Pergaminho Guia",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de Lazurita Varunada",
+        "count": 6
+      },
+      {
+        "name": "Coração Purificador",
+        "count": 4
+      },
+      {
+        "name": "Cogumelo Philanemo",
+        "count": 20
+      },
+      {
+        "name": "Pergaminho do Encantamento",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Pedaço de Lazurita Varunada",
+        "count": 3
+      },
+      {
+        "name": "Coração Purificador",
+        "count": 8
+      },
+      {
+        "name": "Cogumelo Philanemo",
+        "count": 30
+      },
+      {
+        "name": "Pergaminho do Encantamento",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Pedaço de Lazurita Varunada",
+        "count": 6
+      },
+      {
+        "name": "Coração Purificador",
+        "count": 12
+      },
+      {
+        "name": "Cogumelo Philanemo",
+        "count": 45
+      },
+      {
+        "name": "Pergaminho da Maldição",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Gema de Lazurita Varunada",
+        "count": 6
+      },
+      {
+        "name": "Coração Purificador",
+        "count": 20
+      },
+      {
+        "name": "Cogumelo Philanemo",
+        "count": 60
+      },
+      {
+        "name": "Pergaminho da Maldição",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Character_Barbara_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Character_Barbara_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Barbara.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200609/2020060915101631868.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200609/2020060915102571828.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityweb/upload/2adac6e4e0195c39d90696955f9a7902.png",
+    "nameicon": "UI_AvatarIcon_Barbara",
+    "nameiconcard": "UI_AvatarIcon_Barbara_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Barbara",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Barbara",
+    "namesideicon": "UI_AvatarIcon_Side_Barbara"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Barbara"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 820.6118774414062,
+      "attack": 13.355999946594238,
+      "defense": 56.080501556396484,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2108.1519178425515,
+      "attack": 34.31156393922424,
+      "defense": 144.07080881927777,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2721.1910413777077,
+      "attack": 44.28941389955139,
+      "defense": 185.96580927704144,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4076.021074166667,
+      "attack": 66.34016693275453,
+      "defense": 278.55470525959936,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4511.601457467448,
+      "attack": 73.42969215553285,
+      "defense": 308.3222032759568,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5189.427043535659,
+      "attack": 84.46175096456909,
+      "defense": 354.6447095416279,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5770.200969316909,
+      "attack": 93.91445062582397,
+      "defense": 394.33471198303414,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6448.02655538512,
+      "attack": 104.94650943486022,
+      "defense": 440.65721824870525,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6883.606999721058,
+      "attack": 112.03603465763854,
+      "defense": 470.4247124503654,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7560.611642090924,
+      "attack": 123.05473206612396,
+      "defense": 516.6911155378857,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7996.191964356549,
+      "attack": 130.14425538155365,
+      "defense": 546.4586173689404,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8674.017159126524,
+      "attack": 141.17630782195283,
+      "defense": 592.7810968933445,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 9109.597725532774,
+      "attack": 148.26583495207979,
+      "defense": 622.5485987243992,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9787.423311600985,
+      "attack": 159.29789376111603,
+      "defense": 668.8711049900703,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Balada Alegre",
+      "effect": "Barbara regenera 1 de Energia a cada 10s."
+    },
+    "c2": {
+      "name": "Explosão de Vitalidade",
+      "effect": "Diminui a Recarga do **Que Comece o Espetáculo ♪** em 15%.\nDurante esta habilidade, o seu próprio personagem atual ganha 15% de Dano Hydro adicional."
+    },
+    "c3": {
+      "name": "Estrela de Amanhã",
+      "effect": "Aumenta o nível do **Milagre Brilhante ♪** em 3.\nO nível máximo de elevação é 15."
+    },
+    "c4": {
+      "name": "A Atenção é o Meu Poder",
+      "effect": "Sempre que os Ataques Carregados da Barbara acertarem um inimigo ela regenera 1 de Energia.\nÉ possível regenerar um máximo de 5 de Energia desta maneira por vez."
+    },
+    "c5": {
+      "name": "Vínculo de Inocência",
+      "effect": "Aumenta o nível do **Que Comece o Espetáculo♪** em 3.\nO nível máximo de elevação é 15."
+    },
+    "c6": {
+      "name": "Dedicando Tudo para Você",
+      "effect": "Quando a Barbara não estiver no campo de batalha e o próprio personagem da equipe for abatido:\nRevive automaticamente este personagem.\nRegenera totalmente a Vida deste personagem até 100%.\nEste efeito pode ser ativado uma vez a cada 15 mins."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Barbara_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Barbara_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Barbara_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Barbara_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Barbara_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Barbara_04.png",
+      "constellation": "Eff_UI_Talent_Barbara"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Barbara",
+    "combat1": {
+      "name": "Ataque Normal: Suspiro da Água",
+      "info": "**Ataque Normal**\nRealiza até 4 ataques com esguichos de água que infligem Dano Hydro.\n\n**Ataque Carregado**\nConsome uma certa quantidade de Stamina para infligir Dano Hydro em uma AdE após um curto período de canalização.\n\n**Ataque Imersivo**\nReunindo o poder do Hydro, Barbara mergulha em direção ao chão em pleno ar, infligindo dano a todos os inimigos em seu caminho. Inflige Dano Hydro em uma AdE durante o impacto com o chão.",
+      "attributes": [
+        {
+          "name": "Dano do 1° Golpe",
+          "parameters": [
+            "37.84%",
+            "40.68%",
+            "43.52%",
+            "47.30%",
+            "50.14%",
+            "52.98%",
+            "56.76%",
+            "60.54%",
+            "64.33%",
+            "68.11%",
+            "72.05%",
+            "77.19%",
+            "82.34%",
+            "87.49%",
+            "92.63%"
+          ]
+        },
+        {
+          "name": "Dano do 2° Golpe",
+          "parameters": [
+            "35.52%",
+            "38.18%",
+            "40.85%",
+            "44.40%",
+            "47.06%",
+            "49.73%",
+            "53.28%",
+            "56.83%",
+            "60.38%",
+            "63.94%",
+            "67.63%",
+            "72.46%",
+            "77.29%",
+            "82.12%",
+            "86.95%"
+          ]
+        },
+        {
+          "name": "Dano do 3° Golpe",
+          "parameters": [
+            "41.04%",
+            "44.12%",
+            "47.20%",
+            "51.30%",
+            "54.38%",
+            "57.46%",
+            "61.56%",
+            "65.66%",
+            "69.77%",
+            "73.87%",
+            "78.14%",
+            "83.72%",
+            "89.30%",
+            "94.88%",
+            "100.47%"
+          ]
+        },
+        {
+          "name": "Dano do 4° Golpe",
+          "parameters": [
+            "55.20%",
+            "59.34%",
+            "63.48%",
+            "69.00%",
+            "73.14%",
+            "77.28%",
+            "82.80%",
+            "88.32%",
+            "93.84%",
+            "99.36%",
+            "105.10%",
+            "112.61%",
+            "120.12%",
+            "127.62%",
+            "135.13%"
+          ]
+        },
+        {
+          "name": "Dano de Ataque Carregado",
+          "parameters": [
+            "166.24%",
+            "178.71%",
+            "191.18%",
+            "207.80%",
+            "220.27%",
+            "232.74%",
+            "249.36%",
+            "265.98%",
+            "282.61%",
+            "299.23%",
+            "316.52%",
+            "339.13%",
+            "361.74%",
+            "384.35%",
+            "406.96%"
+          ]
+        },
+        {
+          "name": "Consumo de Stamina de Ataque Carregado",
+          "parameters": [
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50"
+          ]
+        },
+        {
+          "name": "Dano Durante a Queda",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "Dano de Queda de Baixa/Alta Altitude",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Que Comece o Espetáculo ♪",
+      "info": "Invoca gotículas de água que se assemelham a notas musicais que formam um Círculo Melódico, causando Dano Hydro aos oponentes próximos e aplicando o estado Molhado a eles.\n\n**Círculo Melódico**\nAo acertar, os ataques normais da Barbara curam seus próprios membros de equipe e personagens aliados próximos em uma certa quantidade de Vida, que é escalonado com a Vida Máxima de Barbara.\nAcertar o Ataque Carregado de Barbara gera 4 vezes a quantidade de cura.\nPeriodicamente regenera a Vida do seu próprio personagem ativo.\nAplica o estado Molhado ao personagem e aos oponentes que entram em contato com eles.\nA música da Barbara é a magia que cura seus companheiros.",
+      "attributes": [
+        {
+          "name": "Regeneração de Vida por Acerto",
+          "parameters": [
+            "0.75% da Vida Máxima +72",
+            "0.81% da Vida Máxima +79",
+            "0.86% da Vida Máxima +87",
+            "0.94% da Vida Máxima +96",
+            "0.99% da Vida Máxima +105",
+            "1.05% da Vida Máxima +114",
+            "1.13% da Vida Máxima +125",
+            "1.20% da Vida Máxima +135",
+            "1.27% da Vida Máxima +147",
+            "1.35% da Vida Máxima +159",
+            "1.43% da Vida Máxima +172",
+            "1.50% da Vida Máxima +185",
+            "1.59% da Vida Máxima +199",
+            "1.69% da Vida Máxima +213",
+            "1.78% da Vida Máxima +228"
+          ]
+        },
+        {
+          "name": "Regeneração Contínua",
+          "parameters": [
+            "4.00% da Vida Máxima +385",
+            "4.30% da Vida Máxima +424",
+            "4.60% da Vida Máxima +465",
+            "5.00% da Vida Máxima +510",
+            "5.30% da Vida Máxima +559",
+            "5.60% da Vida Máxima +610",
+            "6.00% da Vida Máxima +664",
+            "6.40% da Vida Máxima +722",
+            "6.80% da Vida Máxima +783",
+            "7.20% da Vida Máxima +847",
+            "7.60% da Vida Máxima +915",
+            "8.00% da Vida Máxima +986",
+            "8.50% da Vida Máxima +1059",
+            "9.00% da Vida Máxima +1136",
+            "9.50% da Vida Máxima +1217"
+          ]
+        },
+        {
+          "name": "Dano de Gotas d'Água",
+          "parameters": [
+            "58.40%",
+            "62.78%",
+            "67.16%",
+            "73.00%",
+            "77.38%",
+            "81.76%",
+            "87.60%",
+            "93.44%",
+            "99.28%",
+            "105.12%",
+            "110.96%",
+            "116.80%",
+            "124.10%",
+            "131.40%",
+            "138.70%"
+          ]
+        },
+        {
+          "name": "Duração",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "Tempo de Recarga",
+          "parameters": [
+            "32s",
+            "32s",
+            "32s",
+            "32s",
+            "32s",
+            "32s",
+            "32s",
+            "32s",
+            "32s",
+            "32s",
+            "32s",
+            "32s",
+            "32s",
+            "32s",
+            "32s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Milagre Brilhante ♪",
+      "info": "Cura todas as forças aliadas e seu próprio personagem em uma grande quantidade de Vida que aumenta com a Vida Máxima de Barbara.",
+      "description": "O desejo de Barbara de curar fortalece sua vontade de lutar e cantar.",
+      "attributes": [
+        {
+          "name": "Regeneração",
+          "parameters": [
+            "17.60% da Vida Máxima +1694",
+            "18.92% da Vida Máxima +1864",
+            "20.24% da Vida Máxima +2047",
+            "22.00% da Vida Máxima +2245",
+            "23.32% da Vida Máxima +2457",
+            "24.64% da Vida Máxima +2683",
+            "26.40% da Vida Máxima +2923",
+            "28.16% da Vida Máxima +3177",
+            "29.92% da Vida Máxima +3445",
+            "31.68% da Vida Máxima +3728",
+            "33.44% da Vida Máxima +4024",
+            "35.20% da Vida Máxima +4335",
+            "37.40% da Vida Máxima +4660",
+            "39.60% da Vida Máxima +4999",
+            "41.80% da Vida Máxima +5352"
+          ]
+        },
+        {
+          "name": "Tempo de Recarga",
+          "parameters": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "name": "Energia Elemental",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Temporada Gloriosa",
+      "info": "O Consumo de Stamina dos personagens dentro do loop da melodia de **Que Comece o Espetáculo ♪** é reduzido em 12%."
+    },
+    "passive2": {
+      "name": "Encore",
+      "info": "Quando seu próprio personagem ganha um Orbe/Partícula Elemental, a duração do Loop da Melodia do **Que Comece o Espetáculo ♪** é estendido em 1s.\nA extensão máxima é de 5s."
+    },
+    "passive3": {
+      "name": "Com Todo o Meu Coração♪",
+      "info": "Quando uma Culinária Perfeita é feita em uma comida com efeito de recuperação, tem uma chance de 12% de receber o dobro de produção."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Ensinamentos de \"Liberdade\"",
+          "count": 3
+        },
+        {
+          "name": "Pergaminho Guia",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guia da Liberdade",
+          "count": 2
+        },
+        {
+          "name": "Pergaminho do Encantamento",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guia da Liberdade",
+          "count": 4
+        },
+        {
+          "name": "Pergaminho do Encantamento",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guia da Liberdade",
+          "count": 6
+        },
+        {
+          "name": "Pergaminho do Encantamento",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guia da Liberdade",
+          "count": 9
+        },
+        {
+          "name": "Pergaminho do Encantamento",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofia da Liberdade",
+          "count": 4
+        },
+        {
+          "name": "Pergaminho da Maldição",
+          "count": 4
+        },
+        {
+          "name": "Cálice do Vento Norte",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofia da Liberdade",
+          "count": 6
+        },
+        {
+          "name": "Pergaminho da Maldição",
+          "count": 6
+        },
+        {
+          "name": "Cálice do Vento Norte",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofia da Liberdade",
+          "count": 12
+        },
+        {
+          "name": "Pergaminho da Maldição",
+          "count": 9
+        },
+        {
+          "name": "Cálice do Vento Norte",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofia da Liberdade",
+          "count": 16
+        },
+        {
+          "name": "Pergaminho da Maldição",
+          "count": 12
+        },
+        {
+          "name": "Cálice do Vento Norte",
+          "count": 2
+        },
+        {
+          "name": "Coroa da Sabedoria",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_Catalyst_MD",
+      "combat2": "Skill_S_Barbara_01",
+      "combat3": "Skill_E_Barbara_01_HD",
+      "passive1": "UI_Talent_S_Barbara_05",
+      "passive2": "UI_Talent_S_Barbara_06",
+      "passive3": "UI_Talent_Cook_Heal"
+    },
+    "version": "1.0"
+  }
+}

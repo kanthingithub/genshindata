@@ -1,0 +1,19 @@
+{
+  "name": "Tomato",
+  "description": "พืชที่มีเปลือกนอกเป็นสีแดง สีสันสดใส ฉ่ำน้ำและมีรสเปรี้ยวปนหวาน เกี่ยวกับที่ว่ามันเป็นผักหรือผลไม้นั้น ยังเป็นเรื่องที่เถียงกันจนถึงเดี๋ยวนี้",
+  "sortorder": 1999,
+  "category": "EXCHANGE",
+  "materialtype": "วัตถุดิบประกอบอาหาร",
+  "source": [
+    "ซื้อจากร้านขายของชำ"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Tomato.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Tomato.png",
+    "nameicon": "UI_ItemIcon_100079"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Tomato"
+  },
+  "version": ""
+}

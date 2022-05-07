@@ -1,0 +1,21 @@
+{
+  "name": "ไม้สน",
+  "description": "ไม้ที่ได้จาก \"ต้นสน\" สีและลายไม้ไม่สว่างจนแสบตา แต่ขึ้นชื่อเรื่องความสง่างาม เป็นไม้เนื้อแข็ง จึงมีเพียงแค่ช่างไม้ที่มีฝีมือเท่านั้นที่จะสามารถแปรรูปมันได้ นอกจากนั้นยังสามารถทนต่อแมลงและการกัดกร่อนได้อีกด้วย\nสามารถใช้สร้างเฟอร์นิเจอร์ได้",
+  "sortorder": 1951,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "วัสดุ",
+  "source": [
+    "พบได้ในโลกกว้าง",
+    "แนะนำ: ตัดบริเวณ Dragonspine"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Pine_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Item_Pine_Wood.png",
+    "nameicon": "UI_ItemIcon_101303"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Pine_Wood"
+  },
+  "version": ""
+}

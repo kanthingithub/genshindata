@@ -1,0 +1,311 @@
+{
+  "name": "카구라의 진의",
+  "description": "카구라의 춤을 출 때 사용하는 신의 방울, 궁사의 축복을 받았다. 신성한 벚나무의 향기가 느껴진다",
+  "weapontype": "법구",
+  "rarity": "5",
+  "baseatk": 46,
+  "substat": "치명타 피해",
+  "subvalue": "14.4",
+  "effectname": "신성한 벚나무의 카미아소비 카구라의 춤",
+  "effect": [
+    "원소전투 스킬 발동 시, 「카구라의 춤」의 효과를 받아 해당 무기를 장착한 캐릭터의 원소전투 스킬의 피해가 [12%] 증가한다. 지속 시간: 16초. 최대 중첩수: 3회. 3스택 중첩 시 모든 원소 피해 보너스를 [12%] 획득한다",
+    "원소전투 스킬 발동 시, 「카구라의 춤」의 효과를 받아 해당 무기를 장착한 캐릭터의 원소전투 스킬의 피해가 [15%] 증가한다. 지속 시간: 16초. 최대 중첩수: 3회. 3스택 중첩 시 모든 원소 피해 보너스를 [15%] 획득한다",
+    "원소전투 스킬 발동 시, 「카구라의 춤」의 효과를 받아 해당 무기를 장착한 캐릭터의 원소전투 스킬의 피해가 [18%] 증가한다. 지속 시간: 16초. 최대 중첩수: 3회. 3스택 중첩 시 모든 원소 피해 보너스를 [18%] 획득한다",
+    "원소전투 스킬 발동 시, 「카구라의 춤」의 효과를 받아 해당 무기를 장착한 캐릭터의 원소전투 스킬의 피해가 [21%] 증가한다. 지속 시간: 16초. 최대 중첩수: 3회. 3스택 중첩 시 모든 원소 피해 보너스를 [21%] 획득한다",
+    "원소전투 스킬 발동 시, 「카구라의 춤」의 효과를 받아 해당 무기를 장착한 캐릭터의 원소전투 스킬의 피해가 [24%] 증가한다. 지속 시간: 16초. 최대 중첩수: 3회. 3스택 중첩 시 모든 원소 피해 보너스를 [24%] 획득한다"
+  ],
+  "r1": [
+    "12%",
+    "12%"
+  ],
+  "r2": [
+    "15%",
+    "15%"
+  ],
+  "r3": [
+    "18%",
+    "18%"
+  ],
+  "r4": [
+    "21%",
+    "21%"
+  ],
+  "r5": [
+    "24%",
+    "24%"
+  ],
+  "weaponmaterialtype": "",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "모라",
+        "count": 10000
+      },
+      {
+        "name": "금석극화의 가면",
+        "count": 5
+      },
+      {
+        "name": "맹수 발톱",
+        "count": 5
+      },
+      {
+        "name": "떠도는 정령 코어 껍데기",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "모라",
+        "count": 20000
+      },
+      {
+        "name": "금석극화의 호교(虎噛)",
+        "count": 5
+      },
+      {
+        "name": "맹수 발톱",
+        "count": 18
+      },
+      {
+        "name": "떠도는 정령 코어 껍데기",
+        "count": 12
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "모라",
+        "count": 30000
+      },
+      {
+        "name": "금석극화의 호교(虎噛)",
+        "count": 9
+      },
+      {
+        "name": "맹수의 날카로운 발톱",
+        "count": 9
+      },
+      {
+        "name": "떠도는 정령 코어",
+        "count": 9
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "모라",
+        "count": 45000
+      },
+      {
+        "name": "금석극화의 일각",
+        "count": 5
+      },
+      {
+        "name": "맹수의 날카로운 발톱",
+        "count": 18
+      },
+      {
+        "name": "떠도는 정령 코어",
+        "count": 14
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "모라",
+        "count": 55000
+      },
+      {
+        "name": "금석극화의 일각",
+        "count": 9
+      },
+      {
+        "name": "맹수의 귀신 발톱",
+        "count": 14
+      },
+      {
+        "name": "떠도는 정령 결정화 코어",
+        "count": 9
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "모라",
+        "count": 65000
+      },
+      {
+        "name": "금석극화의 귀인(鬼人)",
+        "count": 6
+      },
+      {
+        "name": "맹수의 귀신 발톱",
+        "count": 27
+      },
+      {
+        "name": "떠도는 정령 결정화 코어",
+        "count": 18
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_EquipIcon_Catalyst_Narukami",
+    "namegacha": "UI_Gacha_EquipIcon_Catalyst_Narukami",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Narukami.png",
+    "nameawakenicon": "UI_EquipIcon_Catalyst_Narukami_Awaken",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Narukami_Awaken.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Kagura's_Verity"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 45.9364013671875,
+      "specialized": 0.14399999380111694
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 61.692589533209684,
+      "specialized": 0.16732798428249396
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 81.53711133154866,
+      "specialized": 0.19627199663209893
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 101.56538184575038,
+      "specialized": 0.22535999853849376
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 121.73146800388349,
+      "specialized": 0.2544479832787516
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 152.83146838535322,
+      "specialized": 0.2544479832787516
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 173.18128683121176,
+      "specialized": 0.28353598518514644
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 193.66892639704747,
+      "specialized": 0.31262398709154127
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 214.34030920270015,
+      "specialized": 0.34171197183179913
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 235.19542429607827,
+      "specialized": 0.3707999909043309
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 266.295424677548,
+      "specialized": 0.3707999909043309
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 287.2883718429948,
+      "specialized": 0.3998879756445888
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 308.4191182242357,
+      "specialized": 0.42897599471712056
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 339.61911898717517,
+      "specialized": 0.42897599471712056
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 360.97953072807286,
+      "specialized": 0.4580639794573784
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 382.43183051701635,
+      "specialized": 0.4871519641976363
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 413.53182899113744,
+      "specialized": 0.4871519641976363
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 435.16788297198946,
+      "specialized": 0.5162399832701681
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 456.9876692405669,
+      "specialized": 0.5451839784536361
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 488.0876753440825,
+      "specialized": 0.5451839784536361
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 510.0912158045685,
+      "specialized": 0.574271963193894
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 532.2325773850316,
+      "specialized": 0.6033599822664257
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 563.3325682297582,
+      "specialized": 0.6033599822664257
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 585.6117071218323,
+      "specialized": 0.6324480013389575
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 608.074622109998,
+      "specialized": 0.6615359517469415
+    }
+  },
+  "version": "2.5"
+}

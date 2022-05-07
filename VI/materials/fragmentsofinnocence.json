@@ -1,0 +1,18 @@
+{
+  "name": "Trích Đoạn Cổ Tích",
+  "description": "Đạo cụ tinh luyện của \"Tuyển tập các câu chuyện về Dodoco\".\nCác trích đoạn tung bay khắp nơi trong gió, mỗi một trang đều viết về các câu chuyện tuổi thơ, mà kích thước hoàn toàn phù hợp với \"Tuyển tập các câu chuyện về Dodoco\". Trái tim tuổi thơ và tình yêu thuần khiết dạt dào, cũng giống như chuyến mạo hiểm bất tận trong sách, những câu chuyện cổ tích sẽ mãi bay cao theo bước chân của tác giả.",
+  "sortorder": 2295,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Tinh Luyện",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragments_of_Innocence.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Item_Fragments_of_Innocence.png",
+    "nameicon": "UI_ItemIcon_200105"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/\"Fragments_of_Innocence\""
+  },
+  "version": ""
+}

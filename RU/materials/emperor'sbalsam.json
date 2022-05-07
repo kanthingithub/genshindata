@@ -1,0 +1,18 @@
+{
+  "name": "Императорский бальзам",
+  "description": "Материал пробуждения Благодатного владыки вод.\nСвоего рода ароматическая эссенция, которая как бы конденсирует ауру живых существ в воде. Нанесите его на Благодатного владыку вод, и этот двуручный меч уникальной формы можно будет закалить и сделать сильнее.",
+  "sortorder": 2296,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Материал пробуждения",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Emperor's_Balsam.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Item_Emperor%27s_Balsam.png",
+    "nameicon": "UI_ItemIcon_200106"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Emperor's_Balsam"
+  },
+  "version": ""
+}

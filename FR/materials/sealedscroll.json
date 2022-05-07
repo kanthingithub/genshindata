@@ -1,0 +1,22 @@
+{
+  "name": "Parchemin sigillé",
+  "description": "Un ancien parchemin aux dessins étranges. En reproduisant les gestes des personnages, il est possible de recréer une certaine magie miraculeuse.",
+  "sortorder": 1730,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Synthèse",
+    "Butin de Brutoshaman (Niv.40+)",
+    "Échange Astrions"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sealed_Scroll.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Sealed_Scroll.png",
+    "nameicon": "UI_ItemIcon_112009"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sealed_Scroll"
+  },
+  "version": ""
+}

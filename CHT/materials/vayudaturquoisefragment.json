@@ -1,0 +1,21 @@
+{
+  "name": "自在松石斷片",
+  "description": "角色突破素材。\n「但風向是會轉變的。」",
+  "sortorder": 1839,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培養素材",
+  "source": [
+    "40級以上無相之風掉落",
+    "合成獲得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vayuda_Turquoise_Fragment.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Vayuda_Turquoise_Fragment.png",
+    "nameicon": "UI_ItemIcon_104152"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Vayuda_Turquoise_Fragment"
+  },
+  "version": ""
+}

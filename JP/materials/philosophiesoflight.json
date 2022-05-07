@@ -1,0 +1,26 @@
+{
+  "name": "「天光」の哲学",
+  "description": "天賦育成素材。\n雷の国が求めるのは天光である。\nたとえ永遠に地下に住みついていても、人は天光へ祈る。人は常に超越を望んでおり、それを止めることはできない。閉鎖された静寂の永遠も壮麗だが、その本質は死と同然だ。",
+  "sortorder": 1877,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "天賦育成素材",
+  "dropdomain": "熟知秘境：真葛の廃都",
+  "daysofweek": [
+    "水曜",
+    "土曜",
+    "日曜"
+  ],
+  "source": [
+    "合成で獲得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Light.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Item_Philosophies_of_Light.png",
+    "nameicon": "UI_ItemIcon_104328"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Light"
+  },
+  "version": ""
+}

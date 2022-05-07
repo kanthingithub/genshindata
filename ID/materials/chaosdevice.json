@@ -1,0 +1,22 @@
+{
+  "name": "Chaos Device",
+  "description": "Bagian dari mesin kuno yang sudah tidak lagi bekerja, bagian ini terlihat menopang seluruh bagian mesin. Bentuknya yang indah terlihat memiliki unsur artistik.",
+  "sortorder": 1741,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Dijatuhkan oleh Ruin Guard",
+    "Dijatuhkan oleh Ruin Hunter",
+    "Penukaran Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Device.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Item_Chaos_Device.png",
+    "nameicon": "UI_ItemIcon_112023"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chaos_Device"
+  },
+  "version": ""
+}

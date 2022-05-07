@@ -1,0 +1,23 @@
+{
+  "name": "Шеврон рядового",
+  "description": "Знак, определяющий рекрута. Интересно, у кого хватило мозгов стать частью военной машины Фатуи.",
+  "sortorder": 1750,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Застрельщики Фатуи",
+    "Некоторые агенты Фатуи",
+    "Некоторые маги цицинов Фатуи",
+    "Покупается за Звёздную пыль"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Recruit's_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Item_Recruit%27s_Insignia.png",
+    "nameicon": "UI_ItemIcon_112032"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Recruit's_Insignia"
+  },
+  "version": ""
+}

@@ -1,0 +1,166 @@
+{
+  "name": "Domain Mastery: Belenggu Jurang Es",
+  "region": "Mondstadt",
+  "domainEntrance": "Forsaken Rift",
+  "domainType": "Material Penguatan Talenta",
+  "description": "Energi Cryo yang sangat kuat mengalir melalui altar kuno yang telah membeku ini.\nDingin yang sampai merasuk ke tulang membuat tempat ini sulit dilalui.\nDengan melalui ujian ini, kamu berhak memperoleh Material penguatan Talenta, apabila kamu berhasil melewati ujiannya.",
+  "daysOfWeek": [
+    "Selasa",
+    "Jumat",
+    "Minggu"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Ice"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domain Mastery: Belenggu Jurang Es I",
+      "recommendedLevel": 38,
+      "recommendedElements": [
+        "Electro",
+        "Pyro"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1575
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Teachings of \"Resistance\""
+        }
+      ],
+      "disorder": [
+        "Setiap beberapa saat, karakter yang bertarung akan terkena Condensed Ice, yang menyebabkan konsumsi Stamina karakter jauh lebih besar sampai efek elemen Cryo terhilangkan."
+      ],
+      "monsterlist": [
+        "Cryo Slime",
+        "Large Cryo Slime",
+        "Cryo Abyss Mage"
+      ]
+    },
+    {
+      "name": "Domain Mastery: Belenggu Jurang Es II",
+      "recommendedLevel": 54,
+      "recommendedElements": [
+        "Electro",
+        "Pyro"
+      ],
+      "unlockRank": 28,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1800
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Teachings of \"Resistance\""
+        },
+        {
+          "name": "Guide to \"Resistance\""
+        }
+      ],
+      "disorder": [
+        "Setiap beberapa saat, karakter yang bertarung akan terkena Condensed Ice, yang menyebabkan konsumsi Stamina karakter jauh lebih besar sampai efek elemen Cryo terhilangkan."
+      ],
+      "monsterlist": [
+        "Cryo Slime",
+        "Large Cryo Slime",
+        "Hilichurl Fighter",
+        "Cryo Abyss Mage"
+      ]
+    },
+    {
+      "name": "Domain Mastery: Belenggu Jurang Es III",
+      "recommendedLevel": 71,
+      "recommendedElements": [
+        "Electro",
+        "Pyro"
+      ],
+      "unlockRank": 36,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2050
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Teachings of \"Resistance\""
+        },
+        {
+          "name": "Guide to \"Resistance\""
+        }
+      ],
+      "disorder": [
+        "Setiap beberapa saat, karakter yang bertarung akan terkena Condensed Ice, yang menyebabkan konsumsi Stamina karakter jauh lebih besar sampai efek elemen Cryo terhilangkan. Pilar es akan terjatuh secara acak dan mengakibatkan Cryo DMG."
+      ],
+      "monsterlist": [
+        "Cryo Slime",
+        "Large Cryo Slime",
+        "Cryo Abyss Mage"
+      ]
+    },
+    {
+      "name": "Domain Mastery: Belenggu Jurang Es IV",
+      "recommendedLevel": 88,
+      "recommendedElements": [
+        "Electro",
+        "Pyro"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2375
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Teachings of \"Resistance\""
+        },
+        {
+          "name": "Guide to \"Resistance\""
+        },
+        {
+          "name": "Philosophies of \"Resistance\""
+        }
+      ],
+      "disorder": [
+        "Setiap beberapa saat, karakter yang bertarung akan terkena Condensed Ice, yang menyebabkan konsumsi Stamina karakter jauh lebih besar sampai efek elemen Cryo terhilangkan. Pilar es akan terjatuh secara acak dan mengakibatkan Cryo DMG."
+      ],
+      "monsterlist": [
+        "Large Cryo Slime",
+        "Cryo Abyss Mage"
+      ]
+    }
+  ]
+}

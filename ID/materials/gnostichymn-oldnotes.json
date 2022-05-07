@@ -1,0 +1,17 @@
+{
+  "name": "Gnostic Hymn - Old Notes",
+  "description": "Catatan perjalanan awal seorang pengembara yang mencatat semua pengalamannya di berbagai negeri. Tapi kenapa catatan ini ada? Apa kamu pernah ke sini sebelumnya?\n\nGunakan item ini untuk membuka Gnostic Hymn untuk satu periode.",
+  "sortorder": 608,
+  "rarity": "5",
+  "category": "CONSUME",
+  "materialtype": "Material Aktivasi Fitur",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_1201",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Gnostic_Hymn_-_Old_Notes.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Gnostic_Hymn_-_Old_Notes"
+  },
+  "version": ""
+}

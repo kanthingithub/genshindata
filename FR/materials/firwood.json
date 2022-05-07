@@ -1,0 +1,22 @@
+{
+  "name": "Bois d'épicéa",
+  "description": "Bois obtenu à partir d'épicéa. Largement utilisé en raison de sa qualité et de son grain.\nPeut être utilisé pour fabriquer des décorations.",
+  "sortorder": 1942,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Matériau",
+  "source": [
+    "Dans la nature",
+    "Zone conseillée : Vallée Tombétoile",
+    "Zone conseillée : Colline sifflante"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fir_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Item_Fir_Wood.png",
+    "nameicon": "UI_ItemIcon_101308"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fir_Wood"
+  },
+  "version": ""
+}

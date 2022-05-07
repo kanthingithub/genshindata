@@ -1,0 +1,20 @@
+{
+  "name": "Fruit Paste Bait",
+  "description": "Umpan yang sangat umum. Terbuat dari tumbukan Sunsettia dan Wheat yang difermentasi lalu dibentuk bulat. Umpan ini dapat langsung membentuk kabut saat masuk ke air, dan sangat menarik perhatian ikan-ikan kecil. Karena cara pembuatannya mudah, harganya yang murah, dan hasilnya yang efektif, umpan ini punya julukan lucu \"harta berharga para pemancing\".\n\nCocok digunakan untuk ikan jenis Medaka, Dawncatcher, dan Crystalfish.",
+  "sortorder": 1514,
+  "rarity": "2",
+  "category": "FISH_BAIT",
+  "materialtype": "Umpan Ikan",
+  "source": [
+    "Didapatkan melalui Craft"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_111023",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fruit_Paste_Bait.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Item_Fruit_Paste_Bait.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fruit_Paste_Bait"
+  },
+  "version": ""
+}

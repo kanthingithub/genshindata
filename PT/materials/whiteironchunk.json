@@ -1,0 +1,21 @@
+{
+  "name": "Pedaço de Ferro Branco",
+  "description": "Pode ser transformado em algo incrível em mãos habilidosas.",
+  "sortorder": 1955,
+  "category": "EXCHANGE",
+  "materialtype": "Minério de Forjamento",
+  "source": [
+    "Encontrado na natureza",
+    "Recomendação: Encontrado nas Montanhas do Precursor do Vento",
+    "Recomendação: Encontrado no Reino dos Lobos"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_White_Iron_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Item_White_Iron_Chunk.png",
+    "nameicon": "UI_ItemIcon_101002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/White_Iron_Chunk"
+  },
+  "version": ""
+}

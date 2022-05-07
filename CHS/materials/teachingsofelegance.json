@@ -1,0 +1,24 @@
+{
+  "name": "「风雅」的教导",
+  "description": "天赋培养素材。\n雷之国土的姿容是风雅。\n风雅是不谄媚。风雅之人永远是高贵的。正似只愿高飞与雷暴争鸣的海鹰；迎合鄙俗则恰如将花冠倒插泥淖，仅让尊严染上了污渍。",
+  "sortorder": 1872,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "天赋培养素材",
+  "dropdomain": "精通秘境：初雷幽谷",
+  "daysofweek": [
+    "周二",
+    "周五",
+    "周日"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Elegance.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Item_Teachings_of_Elegance.png",
+    "nameicon": "UI_ItemIcon_104323"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Elegance"
+  },
+  "version": ""
+}

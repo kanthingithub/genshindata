@@ -1,0 +1,19 @@
+{
+  "name": "白蘿蔔",
+  "description": "纖維分明的草本植物。易於種植與收穫的作物，富含纖維與營養。",
+  "sortorder": 1980,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "野外採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Radish.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Item_Radish.png",
+    "nameicon": "UI_ItemIcon_100014"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Radish"
+  },
+  "version": ""
+}

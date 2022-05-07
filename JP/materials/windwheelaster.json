@@ -1,0 +1,21 @@
+{
+  "name": "風車アスター",
+  "description": "風が好きな植物。風を崇拝するモンドの人々にとって、風車アスターは「見える風」である。",
+  "sortorder": 2039,
+  "category": "EXCHANGE",
+  "materialtype": "モンド地域の特産",
+  "source": [
+    "風立ちの地の七天神像付近で採集",
+    "野外の木の下で採集",
+    "推奨：風龍廃墟で採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Windwheel_Aster.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Windwheel_Aster.png",
+    "nameicon": "UI_ItemIcon_100024"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Windwheel_Aster"
+  },
+  "version": ""
+}

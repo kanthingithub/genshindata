@@ -1,0 +1,20 @@
+{
+  "name": "水晶塊",
+  "description": "未經削切的晶體。在專門處理後，才能真正展現價值吧。",
+  "sortorder": 1956,
+  "category": "EXCHANGE",
+  "materialtype": "鍛造用礦石",
+  "source": [
+    "野外採集",
+    "推薦：風龍廢墟採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crystal_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/Item_Crystal_Chunk.png",
+    "nameicon": "UI_ItemIcon_101003"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Crystal_Chunk"
+  },
+  "version": ""
+}

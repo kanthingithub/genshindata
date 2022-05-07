@@ -1,0 +1,20 @@
+{
+  "name": "Jueyun Chili",
+  "description": "Tumbuhan pedas dari Liyue. Hanya menciumnya saja akan membuatmu kepedasan dan haus.",
+  "sortorder": 2048,
+  "category": "EXCHANGE",
+  "materialtype": "Produk khas Liyue",
+  "source": [
+    "Ditemukan di alam liar",
+    "Rekomendasi: Ditemukan di Qingce Village"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Jueyun_Chili.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/13/Item_Jueyun_Chili.png",
+    "nameicon": "UI_ItemIcon_100027"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Jueyun_Chili"
+  },
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Philanemo-Pilz",
+  "description": "Ein Pilz, der in Gebieten mit warmem Wind gedeiht. Er ist beständig wie der Wind und strotzt nur so vor Lebenskraft.",
+  "sortorder": 2040,
+  "category": "EXCHANGE",
+  "materialtype": "Regionale Besonderheit aus Mondstadt",
+  "source": [
+    "Unter der Traufe von Häusern zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philanemo_Mushroom.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Philanemo_Mushroom.png",
+    "nameicon": "UI_ItemIcon_100025"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philanemo_Mushroom"
+  },
+  "version": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Mineral de refinamiento fino",
+  "description": "Material de EXP de arma. Otorga 2000 pts. de EXP.\nDe alguna forma, las armas pueden absorber este mineral especial para ser más poderosas.",
+  "sortorder": 658,
+  "rarity": "2",
+  "category": "WEAPON_EXP_STONE",
+  "materialtype": "Material de fortalecimiento de arma",
+  "source": [
+    "Forjar",
+    "Recompensa de evento aleatorio"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_104012",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fine_Enhancement_Ore.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fine_Enhancement_Ore"
+  },
+  "version": ""
+}

@@ -1,0 +1,911 @@
+{
+  "name": "Arataki Itto",
+  "fullname": "Arataki Itto",
+  "title": "Héros de Hanamizaka",
+  "description": "Le premier et plus grand chef du gang Arataki, célèbre dans tout Hanamizaka, à la Cité d'Inazuma... Hein, quoi ? Jamais entendu parler d'eux ? Sérieux ?",
+  "rarity": "5",
+  "element": "Géo",
+  "weapontype": "Épée à deux mains",
+  "substat": "Taux CRIT",
+  "gender": "Homme",
+  "body": "MALE",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "Gang Arataki",
+  "birthdaymmdd": "6/1",
+  "birthday": "1 juin",
+  "constellation": "Taurus Iracundus",
+  "cv": {
+    "english": "Max Mittelman",
+    "chinese": "刘照坤",
+    "japanese": "西川貴教",
+    "korean": "Song Jun-seok"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Éclat de topaze prithiva",
+        "count": 1
+      },
+      {
+        "name": "Scarabuto",
+        "count": 3
+      },
+      {
+        "name": "Bave de Blob",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragment de topaze prithiva",
+        "count": 3
+      },
+      {
+        "name": "Régalia de faille",
+        "count": 2
+      },
+      {
+        "name": "Scarabuto",
+        "count": 10
+      },
+      {
+        "name": "Bave de Blob",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragment de topaze prithiva",
+        "count": 6
+      },
+      {
+        "name": "Régalia de faille",
+        "count": 4
+      },
+      {
+        "name": "Scarabuto",
+        "count": 20
+      },
+      {
+        "name": "Mucus de Blob",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Morceau de topaze prithiva",
+        "count": 3
+      },
+      {
+        "name": "Régalia de faille",
+        "count": 8
+      },
+      {
+        "name": "Scarabuto",
+        "count": 30
+      },
+      {
+        "name": "Mucus de Blob",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Morceau de topaze prithiva",
+        "count": 6
+      },
+      {
+        "name": "Régalia de faille",
+        "count": 12
+      },
+      {
+        "name": "Scarabuto",
+        "count": 45
+      },
+      {
+        "name": "Essence de Blob",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Pierre de topaze prithiva",
+        "count": 6
+      },
+      {
+        "name": "Régalia de faille",
+        "count": 20
+      },
+      {
+        "name": "Scarabuto",
+        "count": 60
+      },
+      {
+        "name": "Essence de Blob",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_AvatarIcon_Itto",
+    "nameiconcard": "UI_AvatarIcon_Itto_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Itto",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Itto",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Itto.png",
+    "namesideicon": "UI_AvatarIcon_Side_Itto",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Itto.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211203/2021120311564937286.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211203/2021120311564391237.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Arataki_Itto"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1000.9860229492188,
+      "attack": 17.68899917602539,
+      "defense": 74.66783905029297,
+      "specialized": 0.05000000074505806
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2596.5578447194275,
+      "attack": 45.88526565078155,
+      "defense": 193.6883820445928,
+      "specialized": 0.05000000074505806
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3454.81284960224,
+      "attack": 61.050875964197076,
+      "defense": 257.71078194693655,
+      "specialized": 0.05000000074505806
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5169.501966100361,
+      "attack": 91.35213259864031,
+      "defense": 385.616794655034,
+      "specialized": 0.05000000074505806
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5779.314710240986,
+      "attack": 102.12769774604021,
+      "defense": 431.10639579028793,
+      "specialized": 0.09800000116229057
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6649.171522180812,
+      "attack": 117.49943728774633,
+      "defense": 495.9927447918053,
+      "specialized": 0.09800000116229057
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7462.255140344874,
+      "attack": 131.8668555769309,
+      "defense": 556.6455386760827,
+      "specialized": 0.1460000015795231
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8341.120650842146,
+      "attack": 147.39779300722512,
+      "defense": 622.2038851266334,
+      "specialized": 0.1460000015795231
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8950.93339498277,
+      "attack": 158.17335910829934,
+      "defense": 667.6934938912818,
+      "specialized": 0.1460000015795231
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9837.807167872583,
+      "attack": 173.84581514486308,
+      "defense": 733.8492109680847,
+      "specialized": 0.1460000015795231
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10447.619912013208,
+      "attack": 184.6213812459373,
+      "defense": 779.3388197327331,
+      "specialized": 0.193999994546175
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11344.5032969327,
+      "attack": 200.4707228881798,
+      "defense": 846.2411966857508,
+      "specialized": 0.193999994546175
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11954.31628521395,
+      "attack": 211.24628898925403,
+      "defense": 891.7307901916101,
+      "specialized": 0.2420000024139881
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12858.207019053749,
+      "attack": 227.2194615206754,
+      "defense": 959.1558753436984,
+      "specialized": 0.2420000024139881
+    }
+  },
+  "version": "2.3",
+  "constellations": {
+    "c1": {
+      "name": "Du calme et on écoute !",
+      "effect": "Après avoir utilisé **Roi oni maléfique : Avènement d'Itto**, Arataki Itto gagne 2 cumuls de Mégaforce superlative. Après 1 s, Itto gagne 1 cumul de Mégaforce superlative toutes les 0,5 s pendant 1,5 s."
+    },
+    "c2": {
+      "name": "Baston générale !",
+      "effect": "Après avoir utilisé **Roi oni maléfique : Avènement d'Itto**, chaque personnage de l'équipe de type Géo permet de diminuer le TdR de cette aptitude de 1,5 s et de restaurer l'énergie élémentaire d'Arataki Itto de 6 pts.\nLe TdR peut être diminué d'un maximum de 4,5 s et l'énergie élémentaire peut être restaurée d'un maximum de 18 pts de cette manière."
+    },
+    "c3": {
+      "name": "Le taureau par les cornes !",
+      "effect": "Niveau d'aptitude **Zetsugi anti-démon : Catapultage d'akaushi** +3.\nNiveau max : 15"
+    },
+    "c4": {
+      "name": "Au pain sec et à l'eau !",
+      "effect": "Lorsque l'état de Roi oni courroucé accordé par **Roi oni maléfique : Avènement d'Itto** prend fin, la DÉF et l'ATQ de tous les personnages de l'équipe à proximité augmentent de 20 % pendant 10 s."
+    },
+    "c5": {
+      "name": "Une décennie de renommée à Hanamizaka",
+      "effect": "Niveau d'aptitude **Roi oni maléfique : Avènement d'Itto** +3.\nNiveau max : 15"
+    },
+    "c6": {
+      "name": "Arataki Itto, présent !",
+      "effect": "Les DGT CRIT des attaques chargées d'Arataki Itto augmentent de 70 %. De plus, lorsqu'il utilise une série de kesa giri d'Arataki, il a 50 % de chances de ne pas consommer de Mégaforce superlative."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Itto_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Itto_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_04.png",
+      "constellation": "Eff_UI_Talent_Itto"
+    },
+    "version": "2.3"
+  },
+  "talent": {
+    "name": "Arataki Itto",
+    "combat1": {
+      "name": "Attaque normale : Légende de la baston",
+      "info": "**Attaque normale**\nEnchaîne jusqu'à 4 coups d'épée.\nLorsque son 2e et 4e coup touchent un ennemi, Itto gagne respectivement 1 et 2 cumuls de Mégaforce superlative.\nItto peut détenir un maximum de 5 cumuls de Mégaforce superlative, et chaque fois que cet effet se déclenche, la durée des cumuls en sa possession est réinitialisée.\n\nDe plus, l'enchaînement d'attaques normales d'Itto ne sera pas réinitialisé pendant une courte période après Zetsugi anti-démon : Catapultage d'akaushi ou l'initiation d'un sprint.\n\n**Attaque chargée**\nLorsque vous maintenez appuyé pour lancer une attaque chargée tout en possédant des cumuls de Mégaforce superlative, vous pouvez effectuer des kesa giri d'Arataki sans consommer d'endurance. Chaque kesa giri consommera à la place un cumul de Mégaforce superlative. Lorsque le dernier cumul de Mégaforce est consommé, Itto libère une attaque finale très puissante.\nSi aucun cumul de Mégaforce superlative n'est disponible, Itto consommera de l'endurance pour effectuer une simple entaille de Saichimonji.\n\n**Attaque plongeante**\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT de zone à l'impact.",
+      "attributes": [
+        {
+          "name": "DGT 1er coup",
+          "parameters": [
+            "79.23%",
+            "85.68%",
+            "92.13%",
+            "101.34%",
+            "107.79%",
+            "115.16%",
+            "125.30%",
+            "135.43%",
+            "145.57%",
+            "156.62%",
+            "169.29%",
+            "184.19%",
+            "199.08%",
+            "213.98%",
+            "230.23%"
+          ]
+        },
+        {
+          "name": "DGT 2e coup",
+          "parameters": [
+            "76.37%",
+            "82.58%",
+            "88.80%",
+            "97.68%",
+            "103.90%",
+            "111.00%",
+            "120.77%",
+            "130.54%",
+            "140.30%",
+            "150.96%",
+            "163.17%",
+            "177.53%",
+            "191.89%",
+            "206.25%",
+            "221.91%"
+          ]
+        },
+        {
+          "name": "DGT 3e coup",
+          "parameters": [
+            "91.64%",
+            "99.10%",
+            "106.56%",
+            "117.22%",
+            "124.68%",
+            "133.20%",
+            "144.92%",
+            "156.64%",
+            "168.36%",
+            "181.15%",
+            "195.80%",
+            "213.03%",
+            "230.27%",
+            "247.50%",
+            "266.29%"
+          ]
+        },
+        {
+          "name": "DGT 4e coup",
+          "parameters": [
+            "117.22%",
+            "126.77%",
+            "136.31%",
+            "149.94%",
+            "159.48%",
+            "170.39%",
+            "185.38%",
+            "200.37%",
+            "215.37%",
+            "231.72%",
+            "250.47%",
+            "272.51%",
+            "294.55%",
+            "316.59%",
+            "340.63%"
+          ]
+        },
+        {
+          "name": "DGT kesa giri d'Arataki",
+          "parameters": [
+            "91.16%",
+            "98.58%",
+            "106.00%",
+            "116.60%",
+            "124.02%",
+            "132.50%",
+            "144.16%",
+            "155.82%",
+            "167.48%",
+            "180.20%",
+            "194.77%",
+            "211.92%",
+            "229.06%",
+            "246.20%",
+            "264.89%"
+          ]
+        },
+        {
+          "name": "DGT kesa giri final d'Arataki",
+          "parameters": [
+            "190.92%",
+            "206.46%",
+            "222.00%",
+            "244.20%",
+            "259.74%",
+            "277.50%",
+            "301.92%",
+            "326.34%",
+            "350.76%",
+            "377.40%",
+            "407.92%",
+            "443.82%",
+            "479.72%",
+            "515.62%",
+            "554.78%"
+          ]
+        },
+        {
+          "name": "Durée Mégaforce superlative",
+          "parameters": [
+            "60 s",
+            "60 s",
+            "60 s",
+            "60 s",
+            "60 s",
+            "60 s",
+            "60 s",
+            "60 s",
+            "60 s",
+            "60 s",
+            "60 s",
+            "60 s",
+            "60 s",
+            "60 s",
+            "60 s"
+          ]
+        },
+        {
+          "name": "DGT entaille de Saichimonji",
+          "parameters": [
+            "90.47%",
+            "97.84%",
+            "105.20%",
+            "115.72%",
+            "123.08%",
+            "131.50%",
+            "143.07%",
+            "154.64%",
+            "166.22%",
+            "178.84%",
+            "193.31%",
+            "210.32%",
+            "227.33%",
+            "244.34%",
+            "262.89%"
+          ]
+        },
+        {
+          "name": "Coût d'endurance entaille de Saichimonji",
+          "parameters": [
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts"
+          ]
+        },
+        {
+          "name": "DGT durant la chute",
+          "parameters": [
+            "81.83%",
+            "88.49%",
+            "95.16%",
+            "104.67%",
+            "111.33%",
+            "118.94%",
+            "129.41%",
+            "139.88%",
+            "150.35%",
+            "161.76%",
+            "173.18%",
+            "184.60%",
+            "196.02%",
+            "207.44%",
+            "218.86%"
+          ]
+        },
+        {
+          "name": "DGT chute basse/élevée",
+          "parameters": [
+            "163.63%/204.39%",
+            "176.95%/221.02%",
+            "190.27%/237.66%",
+            "209.30%/261.42%",
+            "222.62%/278.06%",
+            "237.84%/297.07%",
+            "258.77%/323.21%",
+            "279.70%/349.36%",
+            "300.63%/375.50%",
+            "323.46%/404.02%",
+            "346.29%/432.54%",
+            "369.12%/461.06%",
+            "391.96%/489.57%",
+            "414.79%/518.09%",
+            "437.62%/546.61%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Zetsugi anti-démon : Catapultage d'akaushi",
+      "info": "Projette Ushi, le jeune taureau akaushi et membre auxiliaire du gang Arataki, pour infliger des DGT Géo ! Lorsqu'Ushi touche un ennemi, il accorde à Arataki Itto 1 cumul de Mégaforce superlative.\n\nUshi reste ensuite sur le terrain et apporte son aide des façons suivantes :\n· Il nargue les ennemis proches et attire leur attention.\n· Il hérite d'un pourcentage des PV max d'Arataki Itto.\n· Lorsqu'il subit des DGT, il accorde à Arataki Itto 1 cumul de Mégaforce superlative. Un cumul peut être obtenu une fois toutes les 2 s de cette manière.\n· Si ses PV sont épuisés ou si la durée arrive à terme, il s'enfuit tout en accordant à Arataki Itto 1 cumul de Mégaforce superlative.\n\n**Appui long**\nAjuste la direction du jet.\n\nUshi est considéré comme une construction Géo, et Arataki Itto ne peut générer qu'un seul Ushi à la fois.",
+      "description": "Le nom de cette technique est dérivé d'« Onibudo », un roman écrit par Junkichi. Cependant, l'appeler « Zetsugi anti-oni » constituerait probablement une violation de droits d'auteur... Sans parler du fait qu'Itto lui-même est un Oni...",
+      "attributes": [
+        {
+          "name": "DGT compétence",
+          "parameters": [
+            "307.20%",
+            "330.24%",
+            "353.28%",
+            "384.00%",
+            "407.04%",
+            "430.08%",
+            "460.80%",
+            "491.52%",
+            "522.24%",
+            "552.96%",
+            "583.68%",
+            "614.40%",
+            "652.80%",
+            "691.20%",
+            "729.60%"
+          ]
+        },
+        {
+          "name": "PV hérités",
+          "parameters": [
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%"
+          ]
+        },
+        {
+          "name": "Durée",
+          "parameters": [
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Roi oni maléfique : Avènement d'Itto",
+      "info": "Il est temps de montrer la puissance du gang Arataki ! Itto laisse émerger son Roi oni courroucé intérieur pendant un certain temps, utilisant son kanabo de Roi oni au combat.\nLes caractéristiques suivantes s'appliquent :\n· Les attaques normales, chargées et plongeantes sont imprégnées de DGT Géo ne pouvant pas être enchantés.\n· La VIT d'attaque des attaques normales d'Itto augmente, et son ATQ sera augmentée en fonction de sa DÉF.\n· Lorsque le 1er ou 3e coup de son attaque normale touche un ennemi, Arataki Itto obtient 1 cumul de Mégaforce superlative.\n· Les RÉS élémentaires et physique d'Arataki Itto diminuent de 20 %.\n\nLes effets du Roi oni courroucé prennent fin lorsqu'Arataki Itto quitte le champ de bataille.",
+      "description": "C'est la meilleure super technique ultime d'Itto... Enfin, d'après lui... Il est inutile pour Arataki Itto d'imiter qui que ce soit d'autre pour devenir plus fort, car il est sans conteste l'Oni le plus fort et le plus terrible de tout le pays. En gros, Itto ne prend exemple que sur lui-même !\nShouta trouve que c'est super cool.",
+      "attributes": [
+        {
+          "name": "Bonus ATQ",
+          "parameters": [
+            "57.60% DÉF",
+            "61.92% DÉF",
+            "66.24% DÉF",
+            "72.00% DÉF",
+            "76.32% DÉF",
+            "80.64% DÉF",
+            "86.40% DÉF",
+            "92.16% DÉF",
+            "97.92% DÉF",
+            "103.68% DÉF",
+            "109.44% DÉF",
+            "115.20% DÉF",
+            "122.40% DÉF",
+            "129.60% DÉF",
+            "136.80% DÉF"
+          ]
+        },
+        {
+          "name": "Bonus VIT d'attaque",
+          "parameters": [
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%"
+          ]
+        },
+        {
+          "name": "Durée",
+          "parameters": [
+            "11 s",
+            "11 s",
+            "11 s",
+            "11 s",
+            "11 s",
+            "11 s",
+            "11 s",
+            "11 s",
+            "11 s",
+            "11 s",
+            "11 s",
+            "11 s",
+            "11 s",
+            "11 s",
+            "11 s"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s"
+          ]
+        },
+        {
+          "name": "Énergie élémentaire",
+          "parameters": [
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Arataki au top",
+      "info": "Lorsqu'Arataki Itto effectue une série de kesa giri d'Arataki, il obtient les effets suivants :\n· Chaque frappe augmente la VIT d'attaque de la prochaine de 10 %. La VIT d'attaque peut être augmentée de 30 % max de cette manière.\n· Sa RÉS à l'interruption augmente.\n\nCes effets prennent fin lorsqu'Arataki Itto arrête d'utiliser cette série d'attaques."
+    },
+    "passive2": {
+      "name": "Lignée de l'Oni cramoisi",
+      "info": "Les DGT infligés par les kesa giri d'Arataki augmentent d'une valeur équivalant à 35 % de la DÉF d'Arataki Itto."
+    },
+    "passive3": {
+      "name": "Castor au rapport",
+      "info": "Lorsqu'un personnage de l'équipe utilise des attaques pour obtenir du bois d'un arbre, il a 25 % de chances d'obtenir un morceau de bois supplémentaire."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseignement de l'élégance",
+          "count": 3
+        },
+        {
+          "name": "Bave de Blob",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide de l'Élégance",
+          "count": 2
+        },
+        {
+          "name": "Mucus de Blob",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide de l'Élégance",
+          "count": 4
+        },
+        {
+          "name": "Mucus de Blob",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide de l'Élégance",
+          "count": 6
+        },
+        {
+          "name": "Mucus de Blob",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide de l'Élégance",
+          "count": 9
+        },
+        {
+          "name": "Mucus de Blob",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie de l'élégance",
+          "count": 4
+        },
+        {
+          "name": "Essence de Blob",
+          "count": 4
+        },
+        {
+          "name": "Cœur de cendre",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie de l'élégance",
+          "count": 6
+        },
+        {
+          "name": "Essence de Blob",
+          "count": 6
+        },
+        {
+          "name": "Cœur de cendre",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie de l'élégance",
+          "count": 12
+        },
+        {
+          "name": "Essence de Blob",
+          "count": 9
+        },
+        {
+          "name": "Cœur de cendre",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie de l'élégance",
+          "count": 16
+        },
+        {
+          "name": "Essence de Blob",
+          "count": 12
+        },
+        {
+          "name": "Cœur de cendre",
+          "count": 2
+        },
+        {
+          "name": "Couronne de la sagesse",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Itto_01",
+      "combat3": "Skill_E_Itto_01_HD",
+      "passive1": "UI_Talent_S_Itto_05",
+      "passive2": "UI_Talent_S_Itto_06",
+      "passive3": "UI_Talent_S_Itto_07"
+    },
+    "version": "2.3"
+  }
+}

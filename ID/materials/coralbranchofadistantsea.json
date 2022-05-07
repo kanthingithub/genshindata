@@ -1,0 +1,24 @@
+{
+  "name": "Coral Branch of a Distant Sea",
+  "description": "Material Ascension Senjata.\nDi rantai kepulauan Inazuma, Pulau Watatsumi adalah yang terjauh dari Pulau Narukami. Dan Watatsumi dalam bahasa kuno pulau berarti \"dewa lautan\". Menurut legenda, saat Serpent pertama muncul di jurang yang selalu diselimuti kegelapan malam, tubuh Serpent tersebut memancarkan cahaya dan ditutupi oleh cabang koral berwarna-warni.",
+  "sortorder": 2207,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Ascension Senjata",
+  "dropdomain": "Domain of Forgery: Desiran Pasir",
+  "daysofweek": [
+    "Senin",
+    "Kamis",
+    "Minggu"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Coral_Branch_of_a_Distant_Sea.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Item_Coral_Branch_of_a_Distant_Sea.png",
+    "nameicon": "UI_ItemIcon_114025"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Coral_Branch_of_a_Distant_Sea"
+  },
+  "version": ""
+}

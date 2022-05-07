@@ -1,0 +1,21 @@
+{
+  "name": "Concealed Claw",
+  "description": "ชิ้นส่วนร่างกายที่หลงเหลืออยู่จากร่างของ Riftwolf\nโดยทั่วไปแล้ว วัตถุที่เป็นสิ่งแปลกปลอมเหล่านี้ไม่ควรหลงเหลืออยู่ในโลกใบนี้ หลังจากสิ่งมีชีวิตที่ผิดปกติได้ถูกกำจัดไป",
+  "sortorder": 1774,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ดรอปจาก Riftwolf",
+    "แลกเปลี่ยนด้วย Stardust"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_112056",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Concealed_Claw.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Concealed_Claw.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Concealed_Claw"
+  },
+  "version": ""
+}

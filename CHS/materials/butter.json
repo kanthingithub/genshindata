@@ -1,0 +1,19 @@
+{
+  "name": "黄油",
+  "description": "从牛奶中分离提制的乳脂肪。适当添加，能让哪怕平凡的原料，也散发出甜蜜浓厚的香气。",
+  "sortorder": 1528,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "烹饪加工获得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Butter.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/78/Item_Butter.png",
+    "nameicon": "UI_ItemIcon_110004"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Butter"
+  },
+  "version": ""
+}

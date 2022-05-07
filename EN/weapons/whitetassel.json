@@ -1,0 +1,307 @@
+{
+  "name": "White Tassel",
+  "description": "A standard-issue weapon of the Millelith soldiers. It has a sturdy shaft and sharp spearhead. It's a reliable weapon.",
+  "weapontype": "Polearm",
+  "rarity": "3",
+  "baseatk": 39,
+  "substat": "CRIT Rate",
+  "subvalue": "5.1",
+  "effectname": "Sharp",
+  "effect": [
+    "Increases Normal Attack DMG by [24%].",
+    "Increases Normal Attack DMG by [30%].",
+    "Increases Normal Attack DMG by [36%].",
+    "Increases Normal Attack DMG by [42%].",
+    "Increases Normal Attack DMG by [48%]."
+  ],
+  "r1": [
+    "24%"
+  ],
+  "r2": [
+    "30%"
+  ],
+  "r3": [
+    "36%"
+  ],
+  "r4": [
+    "42%"
+  ],
+  "r5": [
+    "48%"
+  ],
+  "weaponmaterialtype": "Guyun",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 5000
+      },
+      {
+        "name": "Luminous Sands from Guyun",
+        "count": 2
+      },
+      {
+        "name": "Hunter's Sacrificial Knife",
+        "count": 2
+      },
+      {
+        "name": "Recruit's Insignia",
+        "count": 1
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 10000
+      },
+      {
+        "name": "Lustrous Stone from Guyun",
+        "count": 2
+      },
+      {
+        "name": "Hunter's Sacrificial Knife",
+        "count": 8
+      },
+      {
+        "name": "Recruit's Insignia",
+        "count": 5
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 15000
+      },
+      {
+        "name": "Lustrous Stone from Guyun",
+        "count": 4
+      },
+      {
+        "name": "Agent's Sacrificial Knife",
+        "count": 4
+      },
+      {
+        "name": "Sergeant's Insignia",
+        "count": 4
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Relic from Guyun",
+        "count": 2
+      },
+      {
+        "name": "Agent's Sacrificial Knife",
+        "count": 8
+      },
+      {
+        "name": "Sergeant's Insignia",
+        "count": 6
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 25000
+      },
+      {
+        "name": "Relic from Guyun",
+        "count": 4
+      },
+      {
+        "name": "Inspector's Sacrificial Knife",
+        "count": 6
+      },
+      {
+        "name": "Lieutenant's Insignia",
+        "count": 4
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Divine Body from Guyun",
+        "count": 3
+      },
+      {
+        "name": "Inspector's Sacrificial Knife",
+        "count": 12
+      },
+      {
+        "name": "Lieutenant's Insignia",
+        "count": 8
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Weapon_White_Tassel.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Ruby.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Ruby_Awaken.png",
+    "nameicon": "UI_EquipIcon_Pole_Ruby",
+    "namegacha": "UI_Gacha_EquipIcon_Pole_Ruby",
+    "nameawakenicon": "UI_EquipIcon_Pole_Ruby_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/White_Tassel"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 38.74129867553711,
+      "specialized": 0.050999999046325684
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 50.47991113972057,
+      "specialized": 0.05926199587631231
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 65.04664125210502,
+      "specialized": 0.06951300049972531
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 79.45840816490272,
+      "specialized": 0.07981500142574305
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 93.75394575052633,
+      "specialized": 0.09011699627208714
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 113.25394575052633,
+      "specialized": 0.09011699627208714
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 127.43325862729853,
+      "specialized": 0.10041899719810488
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 141.45760830448398,
+      "specialized": 0.11072099812412262
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 155.40447176355337,
+      "specialized": 0.1210229929704667
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 169.27385824115208,
+      "specialized": 0.1313249999761581
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 188.673859767031,
+      "specialized": 0.1313249999761581
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 202.42703077242368,
+      "specialized": 0.14162699482250218
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 216.10269708640953,
+      "specialized": 0.15192900182819358
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 235.60269708640953,
+      "specialized": 0.15192900182819358
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 249.20090489221548,
+      "specialized": 0.16223099667453766
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 262.72161724325997,
+      "specialized": 0.17253299152088175
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 282.1216187691389,
+      "specialized": 0.17253299152088175
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 295.60359262944803,
+      "specialized": 0.18283499852657314
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 309.00807103499574,
+      "specialized": 0.1930859970703125
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 328.50807103499574,
+      "specialized": 0.1930859970703125
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 341.9125679138342,
+      "specialized": 0.20338799191665657
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 355.2783078286466,
+      "specialized": 0.21368999892234797
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 374.67830172513095,
+      "specialized": 0.21368999892234797
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 388.005303149208,
+      "specialized": 0.22399200592803936
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 401.2935845558404,
+      "specialized": 0.23429398861503614
+    }
+  },
+  "version": "1.0"
+}

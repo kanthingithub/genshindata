@@ -1,0 +1,227 @@
+{
+  "name": "Dragarto Primordial",
+  "specialname": "Dragão Geo Que Uma Vez Sacudiu Montanhas Com Seu Rei",
+  "enemytype": "BOSS",
+  "category": "Monstros diversos",
+  "description": "Após tantos anos, os incrivelmente poderosos Dragartos Geo já se acostumam com as mudanças em seu ambiente elemental.\nDizem que após a grande \"calamidade dracônica\" que causou a ruína do Vale Tianqiu, o soberano dos Dragartos Geo e Dragartos Antigos foi aprisionado nas profundezas da terra e cavou até lugares profundos e invisíveis, aguardando a oportunidade de se reerguer...",
+  "investigation": {
+    "name": "Dragarto Primordial",
+    "category": "Chefe",
+    "description": "Após tantos anos, os gigantes Dragartos Geo já se acostumaram com as transformações anormais do ambiente.\\nDizem os moradores que após o Stormterror que destruiu o Vale Tianqiu, os Dragartos Geo e Dragartos Geo Antigos juntamente se afundaram na terra, aguardando uma oportunidade de renascimento."
+  },
+  "rewardpreview": [
+    {
+      "name": "EXP de Aventura",
+      "count": 200
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "EXP de Amizade"
+    },
+    {
+      "name": "Lasca de Topázio Prithiva"
+    },
+    {
+      "name": "Fragmento de Topázio Prithiva"
+    },
+    {
+      "name": "Pedaço de Topázio Prithiva"
+    },
+    {
+      "name": "Gema de Topázio Prithiva"
+    },
+    {
+      "name": "Lasca de Ametista Vajrada"
+    },
+    {
+      "name": "Fragmento de Ametista Vajrada"
+    },
+    {
+      "name": "Pedaço de Ametista Vajrada"
+    },
+    {
+      "name": "Gema de Ametista Vajrada"
+    },
+    {
+      "name": "Lasca de Jade Shivada"
+    },
+    {
+      "name": "Fragmento de Jade Shivada"
+    },
+    {
+      "name": "Pedaço de Jade Shivada"
+    },
+    {
+      "name": "Gema de Jade Shivada"
+    },
+    {
+      "name": "Lasca de Ágata Agnidus"
+    },
+    {
+      "name": "Fragmento de Ágata Agnidus"
+    },
+    {
+      "name": "Pedaço de Ágata Agnidus"
+    },
+    {
+      "name": "Gema de Ágata Agnidus"
+    },
+    {
+      "name": "Lasca de Lazurita Varunada"
+    },
+    {
+      "name": "Fragmento de Lazurita Varunada"
+    },
+    {
+      "name": "Pedaço de Lazurita Varunada"
+    },
+    {
+      "name": "Gema de Lazurita Varunada"
+    },
+    {
+      "name": "Jade Juvenil"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instrutor",
+      "rarity": "3"
+    },
+    {
+      "name": "O Exilado",
+      "rarity": "3"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instrutor",
+      "rarity": "4"
+    },
+    {
+      "name": "O Exilado",
+      "rarity": "4"
+    },
+    {
+      "name": "Xamã do Ritual Electro",
+      "rarity": "4"
+    },
+    {
+      "name": "Orações para a Primavera",
+      "rarity": "4"
+    },
+    {
+      "name": "Xamã do Ritual Pyro",
+      "rarity": "4"
+    },
+    {
+      "name": "Orações para o Destino",
+      "rarity": "4"
+    },
+    {
+      "name": "Último Juramento do Gladiador",
+      "rarity": "4"
+    },
+    {
+      "name": "Trupe Itinerante",
+      "rarity": "4"
+    },
+    {
+      "name": "Último Juramento do Gladiador",
+      "rarity": "5"
+    },
+    {
+      "name": "Trupe Itinerante",
+      "rarity": "5"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Drake_Primo_Rock"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 2187.509794542566,
+      "attack": 101.5109267769958,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 8598.121607497742,
+      "attack": 271.2111127290973,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 26556.00003847154,
+      "attack": 668.9998862421999,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 44184.00979883387,
+      "attack": 1092.7064293284639,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 80845.48390447162,
+      "attack": 1633.6555819225032,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 149894.52767774463,
+      "attack": 2519.3090551147907,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 251437.64439336956,
+      "attack": 3547.6976112007105,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 391559.1791216936,
+      "attack": 4897.428879438376,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 556971.8262150697,
+      "attack": 6301.060288636945,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 730622.6003226824,
+      "attack": 7612.5492533508805,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 1102953.6462029815,
+      "attack": 9848.835709898849,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 1605069.4116508216,
+      "attack": 10044.388875611767,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 2159589.501701519,
+      "attack": 10241.311191761051,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

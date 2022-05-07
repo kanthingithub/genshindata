@@ -1,0 +1,26 @@
+{
+  "name": "Máscara Suja",
+  "description": "Totalmente coberta de sujeira, liberando um cheiro sutil de ossos.\nContudo, ainda assim, o Hilichurl a usa em seu rosto.",
+  "sortorder": 1727,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Obtido na síntese",
+    "Dropado por Hilichurls Nv.40+",
+    "Dropado por alguns Hilichurls Arqueiros Nv.40+",
+    "Dropado por alguns Samachurls Nv.40+",
+    "Dropado por alguns Mitachurls Nv.40+",
+    "Dropado por alguns Lawachurls Nv.40+",
+    "Resgate de Poeira Estrelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Stained_Mask.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Stained_Mask.png",
+    "nameicon": "UI_ItemIcon_112006"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Stained_Mask"
+  },
+  "version": ""
+}

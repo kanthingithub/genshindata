@@ -1,0 +1,24 @@
+{
+  "name": "Teachings of Elegance",
+  "description": "Material Penguatan Talenta.\n\"Elegance\" adalah wujud bangsa petir.\nKeanggunan bukanlah sanjungan. Seseorang yang anggun akan selalu mulia. Mereka seperti elang laut yang haus untuk terbang tinggi dan menghadapi badai yang mengamuk. Hal-hal yang vulgar bukanlah sesuatu yang ingin dikejarnya, sama seperti tidak ada juga orang yang akan menaruh sebuah mahkota bunga ke dalam lumpur dan menodai martabatnya sendiri.",
+  "sortorder": 1872,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Talenta",
+  "dropdomain": "Domain of Mastery: Lembah Petir",
+  "daysofweek": [
+    "Selasa",
+    "Jumat",
+    "Minggu"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Elegance.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Item_Teachings_of_Elegance.png",
+    "nameicon": "UI_ItemIcon_104323"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Elegance"
+  },
+  "version": ""
+}

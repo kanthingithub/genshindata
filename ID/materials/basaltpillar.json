@@ -1,0 +1,20 @@
+{
+  "name": "Basalt Pillar",
+  "description": "Sebuah pilar batu yang dibentuk dari kubus pelindung Geo Hypostasis. Memiliki konsentrasi energi Geo yang padat.\nElemen Geo adalah elemen dengan massa paling berat. Mungkin alasan Geo Hypostasis membuat pilar baru dari kubus yang melindunginya adalah untuk menjadi lebih dekat dengan langit, bukan untuk melawan musuh.",
+  "sortorder": 1791,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Dijatuhkan oleh Geo Hypostasis Lv. 30+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Basalt_Pillar.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Basalt_Pillar.png",
+    "nameicon": "UI_ItemIcon_113009"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Basalt_Pillar"
+  },
+  "version": ""
+}

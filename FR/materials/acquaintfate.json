@@ -1,0 +1,18 @@
+{
+  "name": "Pierre de la destinée",
+  "description": "Une graine d'espoir qui illumine le ciel étoilé.\nPeu importe la distance qui les sépare l'un de l'autre, ceux qui sont destinés à se rencontrer seront guidés par la lueur de la pierre de la fatalité et se retrouveront enfin sous le ciel étoilé.",
+  "sortorder": 499,
+  "rarity": "5",
+  "category": "CONSUME",
+  "materialtype": "Objet de vœux",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_224",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Acquaint_Fate.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Item_Acquaint_Fate.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Acquaint_Fate"
+  },
+  "version": ""
+}

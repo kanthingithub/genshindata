@@ -1,0 +1,18 @@
+{
+  "name": "「绘绮之枕印」",
+  "description": "饰有彩画的绘马，由品质上佳的梦见木精雕细刻而成，描绘着明丽的稻妻风光。\n借由「外景之能」，方可将彩画上的风雅景致呈现在「尘歌壶」之中…",
+  "sortorder": 2615,
+  "rarity": "4",
+  "category": "CONSUME",
+  "materialtype": "消耗品",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_222001",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Silken_Print.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Item_Silken_Print.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Silken_Print"
+  },
+  "version": ""
+}

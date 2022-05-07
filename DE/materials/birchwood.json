@@ -1,0 +1,21 @@
+{
+  "name": "Birkenholz",
+  "description": "Holz, das aus Birken gewonnen wird. Es ist leicht zu bearbeiten und ergibt glatte Schnitte. Möbel aus diesem Holz sind sowohl schön als auch langlebig.\nKann zum Herstellen von Dekoration verwendet werden.",
+  "sortorder": 1953,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Material",
+  "source": [
+    "In der freien Natur zu finden",
+    "Empfohlen: Auf dem Klagewind-Plateau zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Birch_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Item_Birch_Wood.png",
+    "nameicon": "UI_ItemIcon_101301"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Birch_Wood"
+  },
+  "version": ""
+}

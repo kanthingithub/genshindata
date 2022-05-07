@@ -1,0 +1,911 @@
+{
+  "name": "Yun Jin",
+  "fullname": "Yun Jin",
+  "title": "Nova de scène",
+  "description": "Une talentueuse chanteuse d'opéra et une dramaturge très célèbre à Liyue. Son style unique, doux et élégant, lui ressemble beaucoup.",
+  "rarity": "4",
+  "element": "Géo",
+  "weapontype": "Arme d'hast",
+  "substat": "Recharge d'énergie",
+  "gender": "Femme",
+  "body": "GIRL",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Troupe d'opéra Yun-Han",
+  "birthdaymmdd": "5/21",
+  "birthday": "21 mai",
+  "constellation": "Opera Grandis",
+  "cv": {
+    "english": "Judy Alice Lee & Yang Yang",
+    "chinese": "贺文潇 & 杨扬",
+    "japanese": "小岩井ことり & Yang Yang",
+    "korean": "Sah Moon-young & Yang Yang"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Éclat de topaze prithiva",
+        "count": 1
+      },
+      {
+        "name": "Lys verni",
+        "count": 3
+      },
+      {
+        "name": "Masque endommagé",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragment de topaze prithiva",
+        "count": 3
+      },
+      {
+        "name": "Régalia de faille",
+        "count": 2
+      },
+      {
+        "name": "Lys verni",
+        "count": 10
+      },
+      {
+        "name": "Masque endommagé",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragment de topaze prithiva",
+        "count": 6
+      },
+      {
+        "name": "Régalia de faille",
+        "count": 4
+      },
+      {
+        "name": "Lys verni",
+        "count": 20
+      },
+      {
+        "name": "Masque sale",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Morceau de topaze prithiva",
+        "count": 3
+      },
+      {
+        "name": "Régalia de faille",
+        "count": 8
+      },
+      {
+        "name": "Lys verni",
+        "count": 30
+      },
+      {
+        "name": "Masque sale",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Morceau de topaze prithiva",
+        "count": 6
+      },
+      {
+        "name": "Régalia de faille",
+        "count": 12
+      },
+      {
+        "name": "Lys verni",
+        "count": 45
+      },
+      {
+        "name": "Masque sinistre",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Pierre de topaze prithiva",
+        "count": 6
+      },
+      {
+        "name": "Régalia de faille",
+        "count": 20
+      },
+      {
+        "name": "Lys verni",
+        "count": 60
+      },
+      {
+        "name": "Masque sinistre",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_AvatarIcon_Yunjin",
+    "nameiconcard": "UI_AvatarIcon_Yunjin_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Yunjin",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Yunjin",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yunjin.png",
+    "namesideicon": "UI_AvatarIcon_Side_Yunjin",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Yunjin.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211226/2021122614194093504.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211226/2021122614194555292.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Yun_Jin"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 893.55517578125,
+      "attack": 16.02720069885254,
+      "defense": 61.574100494384766,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2295.543251694995,
+      "attack": 41.17387868706055,
+      "defense": 158.1838645224043,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2963.07474583562,
+      "attack": 53.14729883018799,
+      "defense": 204.1828650717207,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4438.334148462163,
+      "attack": 79.60820372964463,
+      "defense": 305.8416917168597,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4912.632854516851,
+      "attack": 88.11563380624375,
+      "defense": 338.52519391412534,
+      "specialized": 0.06669999659061432
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5650.7096205961425,
+      "attack": 101.3541050072754,
+      "defense": 389.3854140761341,
+      "specialized": 0.06669999659061432
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6283.1078139555175,
+      "attack": 112.6973438378418,
+      "defense": 432.9634093764271,
+      "specialized": 0.13330000638961792
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7021.184580034809,
+      "attack": 125.93581503887344,
+      "defense": 483.82362953843585,
+      "specialized": 0.13330000638961792
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7495.483286089497,
+      "attack": 134.44324606914688,
+      "defense": 516.5071317357015,
+      "specialized": 0.13330000638961792
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 8232.666135676904,
+      "attack": 147.6656835887543,
+      "defense": 567.3057528992413,
+      "specialized": 0.13330000638961792
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8706.964719661279,
+      "attack": 156.17311461902773,
+      "defense": 599.9892550965069,
+      "specialized": 0.20000000298023224
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9445.04105966026,
+      "attack": 169.41157817769454,
+      "defense": 650.8494458976966,
+      "specialized": 0.20000000298023224
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 9919.33988778526,
+      "attack": 177.9190053932707,
+      "defense": 683.5329480949622,
+      "specialized": 0.26669999957084656
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10657.416653864551,
+      "attack": 191.15747659430235,
+      "defense": 734.393168256971,
+      "specialized": 0.26669999957084656
+    }
+  },
+  "version": "2.4",
+  "constellations": {
+    "c1": {
+      "name": "Galop vaudevillesque",
+      "effect": "Réduit le TdR d'**Épanouissement ouvert** de 18 %."
+    },
+    "c2": {
+      "name": "Myriade d'accessoires",
+      "effect": "Après avoir utilisé **Bannière de rupture des falaises**, les DGT des attaques normales de tous les personnages de l'équipe à proximité augmentent de 15 % pendant 12 s."
+    },
+    "c3": {
+      "name": "Drapeau maritime",
+      "effect": "Niveau d'aptitude **Bannière de rupture des falaises** +3.\nNiveau max : 15"
+    },
+    "c4": {
+      "name": "Le tranchant d'une fleur",
+      "effect": "Lorsque Yun Jin déclenche une réaction de Cristallisation, sa DÉF augmente de 20 % pendant 12 s."
+    },
+    "c5": {
+      "name": "Célébrité à travers les terres",
+      "effect": "Niveau d'aptitude **Épanouissement ouvert** +3.\nNiveau max : 15"
+    },
+    "c6": {
+      "name": "Harmonie esthétique",
+      "effect": "Lorsqu'un personnage est affecté par une **formation de bannière de nuagerie**, la VIT d'attaque de ses attaques normales augmente de 12 %."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yunjin_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yunjin_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Yunjin_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yunjin_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Yunjin_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yunjin_04.png",
+      "constellation": "Eff_UI_Talent_Yunjin"
+    },
+    "version": "2.4"
+  },
+  "talent": {
+    "name": "Yun Jin",
+    "combat1": {
+      "name": "Attaque normale : Caresse des nuages",
+      "info": "**Attaque normale**\nEnchaîne jusqu'à 5 coups de lance.\n\n**Attaque chargée**\nConsomme de l'endurance pour charger en ligne droite et infliger des DGT aux ennemis sur la route.\n\n**Attaque plongeante**\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT de zone à l'impact.",
+      "attributes": [
+        {
+          "name": "DGT 1er coup",
+          "parameters": [
+            "40.51%",
+            "43.80%",
+            "47.10%",
+            "51.81%",
+            "55.11%",
+            "58.88%",
+            "64.06%",
+            "69.24%",
+            "74.42%",
+            "80.07%",
+            "85.72%",
+            "91.37%",
+            "97.03%",
+            "102.68%",
+            "108.33%"
+          ]
+        },
+        {
+          "name": "DGT 2e coup",
+          "parameters": [
+            "40.25%",
+            "43.52%",
+            "46.80%",
+            "51.48%",
+            "54.76%",
+            "58.50%",
+            "63.65%",
+            "68.80%",
+            "73.94%",
+            "79.56%",
+            "85.18%",
+            "90.79%",
+            "96.41%",
+            "102.02%",
+            "107.64%"
+          ]
+        },
+        {
+          "name": "DGT 3e coup",
+          "parameters": [
+            "22.96%+27.52%",
+            "24.83%+29.76%",
+            "26.70%+32.00%",
+            "29.37%+35.20%",
+            "31.24%+37.44%",
+            "33.38%+40.00%",
+            "36.31%+43.52%",
+            "39.25%+47.04%",
+            "42.19%+50.56%",
+            "45.39%+54.40%",
+            "48.59%+58.24%",
+            "51.80%+62.08%",
+            "55.00%+65.92%",
+            "58.21%+69.76%",
+            "61.41%+73.60%"
+          ]
+        },
+        {
+          "name": "DGT 4e coup",
+          "parameters": [
+            "23.99%+28.81%",
+            "25.95%+31.15%",
+            "27.90%+33.50%",
+            "30.69%+36.85%",
+            "32.64%+39.20%",
+            "34.87%+41.87%",
+            "37.94%+45.56%",
+            "41.01%+49.24%",
+            "44.08%+52.93%",
+            "47.43%+56.95%",
+            "50.78%+60.97%",
+            "54.13%+64.99%",
+            "57.47%+69.01%",
+            "60.82%+73.03%",
+            "64.17%+77.05%"
+          ]
+        },
+        {
+          "name": "DGT 5e coup",
+          "parameters": [
+            "67.34%",
+            "72.82%",
+            "78.30%",
+            "86.13%",
+            "91.61%",
+            "97.87%",
+            "106.49%",
+            "115.10%",
+            "123.71%",
+            "133.11%",
+            "142.51%",
+            "151.90%",
+            "161.30%",
+            "170.69%",
+            "180.09%"
+          ]
+        },
+        {
+          "name": "DGT attaque chargée",
+          "parameters": [
+            "121.69%",
+            "131.60%",
+            "141.50%",
+            "155.65%",
+            "165.56%",
+            "176.87%",
+            "192.44%",
+            "208.00%",
+            "223.57%",
+            "240.55%",
+            "260.01%",
+            "282.89%",
+            "305.77%",
+            "328.65%",
+            "353.61%"
+          ]
+        },
+        {
+          "name": "Coût d'endurance attaque chargée",
+          "parameters": [
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts"
+          ]
+        },
+        {
+          "name": "DGT durant la chute",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "DGT chute basse/élevée",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Épanouissement ouvert",
+      "info": "Bien que maître Yun ne fasse que jouer la comédie lors de ses combats sur scène, ses talents avec une lance sont bien réels.\n\n**Appui simple**\nBrandit sa lance pour caresser les nuages, infligeant des DGT Géo.\n\n**Appui long**\nAdopte la posture de l'épanouissement ouvert pour se charger, formant ainsi un bouclier. L'absorption de DGT du bouclier est fonction des PV max de Yun Jin, et il est efficace à 150 % contre les DGT élémentaires et physiques. Le bouclier dure jusqu'à ce qu'elle finisse de libérer sa compétence élémentaire.\nLorsque vous relâchez la compétence, que la durée prend fin ou que le bouclier est détruit, Yun Jin libère l'énergie stockée sous forme d'attaque, infligeant des DGT Géo.\nEn fonction du temps passé à charger, une attaque de 1e ou 2e charge sera déclenchée.",
+      "description": "Pour un unique moment glorieux sur scène, une décennie de préparation en coulisse...",
+      "attributes": [
+        {
+          "name": "DGT appui simple",
+          "parameters": [
+            "149.12% DÉF",
+            "160.30% DÉF",
+            "171.49% DÉF",
+            "186.40% DÉF",
+            "197.58% DÉF",
+            "208.77% DÉF",
+            "223.68% DÉF",
+            "238.59% DÉF",
+            "253.50% DÉF",
+            "268.42% DÉF",
+            "283.33% DÉF",
+            "298.24% DÉF",
+            "316.88% DÉF",
+            "335.52% DÉF",
+            "354.16% DÉF"
+          ]
+        },
+        {
+          "name": "DGT 1e charge",
+          "parameters": [
+            "260.96% DÉF",
+            "280.53% DÉF",
+            "300.10% DÉF",
+            "326.20% DÉF",
+            "345.77% DÉF",
+            "365.34% DÉF",
+            "391.44% DÉF",
+            "417.54% DÉF",
+            "443.63% DÉF",
+            "469.73% DÉF",
+            "495.82% DÉF",
+            "521.92% DÉF",
+            "554.54% DÉF",
+            "587.16% DÉF",
+            "619.78% DÉF"
+          ]
+        },
+        {
+          "name": "DGT 2e charge",
+          "parameters": [
+            "372.80% DÉF",
+            "400.76% DÉF",
+            "428.72% DÉF",
+            "466.00% DÉF",
+            "493.96% DÉF",
+            "521.92% DÉF",
+            "559.20% DÉF",
+            "596.48% DÉF",
+            "633.76% DÉF",
+            "671.04% DÉF",
+            "708.32% DÉF",
+            "745.60% DÉF",
+            "792.20% DÉF",
+            "838.80% DÉF",
+            "885.40% DÉF"
+          ]
+        },
+        {
+          "name": "PV du bouclier",
+          "parameters": [
+            "12.00% PV max + 1155 PV",
+            "12.90% PV max + 1271 PV",
+            "13.80% PV max + 1396 PV",
+            "15.00% PV max + 1531 PV",
+            "15.90% PV max + 1675 PV",
+            "16.80% PV max + 1830 PV",
+            "18.00% PV max + 1993 PV",
+            "19.20% PV max + 2167 PV",
+            "20.40% PV max + 2350 PV",
+            "21.60% PV max + 2542 PV",
+            "22.80% PV max + 2744 PV",
+            "24.00% PV max + 2956 PV",
+            "25.50% PV max + 3178 PV",
+            "27.00% PV max + 3409 PV",
+            "28.50% PV max + 3650 PV"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Bannière de rupture des falaises",
+      "info": "Inflige des DGT Géo de zone et accorde une formation de bannière de nuagerie à tous les personnages de l'équipe à proximité.\n\n**Formation de bannière de nuagerie**\nLorsque le personnage inflige des DGT d'attaque normale à un ennemi, les DGT infligés augmentent en fonction de la DÉF actuelle de Yun Jin.\n\nLes effets de la formation de bannière de nuagerie disparaissent à la fin de sa durée ou après avoir activé un certain nombre de cumuls.\nLorsqu'une attaque normale touche plusieurs ennemis en même temps, les cumuls sont consommés selon le nombre d'ennemis touchés. Les cumuls de formation de bannière de nuagerie sont calculés indépendamment pour tous les personnages de l'équipe.",
+      "description": "« Alors que les tambours résonnent et que les épées et les hallebardes s'entrechoquent, la doyenne se transforme en un puissant général. »\n« Tandis que les instruments sur scène vibrent à l'unisson, voyons comment elle vainc ces démons ! »",
+      "attributes": [
+        {
+          "name": "DGT compétence",
+          "parameters": [
+            "244.00%",
+            "262.30%",
+            "280.60%",
+            "305.00%",
+            "323.30%",
+            "341.60%",
+            "366.00%",
+            "390.40%",
+            "414.80%",
+            "439.20%",
+            "463.60%",
+            "488.00%",
+            "518.50%",
+            "549.00%",
+            "579.50%"
+          ]
+        },
+        {
+          "name": "Augmentation de DGT",
+          "parameters": [
+            "32.16% DÉF",
+            "34.57% DÉF",
+            "36.98% DÉF",
+            "40.20% DÉF",
+            "42.61% DÉF",
+            "45.02% DÉF",
+            "48.24% DÉF",
+            "51.46% DÉF",
+            "54.67% DÉF",
+            "57.89% DÉF",
+            "61.10% DÉF",
+            "64.32% DÉF",
+            "68.34% DÉF",
+            "72.36% DÉF",
+            "76.38% DÉF"
+          ]
+        },
+        {
+          "name": "Durée",
+          "parameters": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        },
+        {
+          "name": "Cumuls",
+          "parameters": [
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "Énergie élémentaire",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Fidèle à soi-même",
+      "info": "Lorsque Yun Jin utilise **Épanouissement ouvert** au moment exact où elle est attaquée, elle déclenche sa 2e charge."
+    },
+    "passive2": {
+      "name": "Rejet des conventions",
+      "info": "Lorsque l'équipe comprend des personnages de 1/2/3/4 types élémentaires, le bonus de DGT d'attaque normale accordé par une **formation de bannière de nuagerie** augmente davantage d'une valeur équivalant à 2,5 %/5 %/7,5 %/11,5 % de la DÉF de Yun Jin."
+    },
+    "passive3": {
+      "name": "Nutrition optimisée",
+      "info": "12 % de chances d'obtenir un plat supplémentaire lorsque vous cuisinez un plat parfait qui a des effets sur l'exploration."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseignement de la Diligence",
+          "count": 3
+        },
+        {
+          "name": "Masque endommagé",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide de la Diligence",
+          "count": 2
+        },
+        {
+          "name": "Masque sale",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide de la Diligence",
+          "count": 4
+        },
+        {
+          "name": "Masque sale",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide de la Diligence",
+          "count": 6
+        },
+        {
+          "name": "Masque sale",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide de la Diligence",
+          "count": 9
+        },
+        {
+          "name": "Masque sale",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie de la Diligence",
+          "count": 4
+        },
+        {
+          "name": "Masque sinistre",
+          "count": 4
+        },
+        {
+          "name": "Cœur de cendre",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie de la Diligence",
+          "count": 6
+        },
+        {
+          "name": "Masque sinistre",
+          "count": 6
+        },
+        {
+          "name": "Cœur de cendre",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie de la Diligence",
+          "count": 12
+        },
+        {
+          "name": "Masque sinistre",
+          "count": 9
+        },
+        {
+          "name": "Cœur de cendre",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie de la Diligence",
+          "count": 16
+        },
+        {
+          "name": "Masque sinistre",
+          "count": 12
+        },
+        {
+          "name": "Cœur de cendre",
+          "count": 2
+        },
+        {
+          "name": "Couronne de la sagesse",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_03",
+      "combat2": "Skill_S_Yunjin_01",
+      "combat3": "Skill_E_Yunjin_01_HD",
+      "passive1": "UI_Talent_S_Yunjin_05",
+      "passive2": "UI_Talent_S_Yunjin_06",
+      "passive3": "UI_Talent_S_Yunjin_07"
+    },
+    "version": "2.4"
+  }
+}

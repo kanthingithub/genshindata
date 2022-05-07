@@ -1,0 +1,21 @@
+{
+  "name": "Garde-main ancien",
+  "description": "Un garde-main qui a connu de nombreuses batailles et qui autrefois était monté sur une lame inazumienne.\nPour les épéistes expérimentés, la tsuba permet de bloquer la lame de l'adversaire. Pour les débutants, elle permet de protéger sa propre main.",
+  "sortorder": 1762,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Butin de Nobushi",
+    "Échange Astrions"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Old_Handguard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Item_Old_Handguard.png",
+    "nameicon": "UI_ItemIcon_112044"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Old_Handguard"
+  },
+  "version": ""
+}

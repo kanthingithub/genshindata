@@ -1,0 +1,19 @@
+{
+  "name": "Crystal Core",
+  "description": "แกนกลางของคริสตัลผีเสื้อ ใช้เป็นเครื่องมือเพื่อดูดซับพลังงานธาตุที่ลอยอยู่ในอากาศ",
+  "sortorder": 1975,
+  "category": "EXCHANGE",
+  "materialtype": "วัสดุ",
+  "source": [
+    "หาได้จากการจับ Crystalfly"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crystal_Core.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Item_Crystal_Core.png",
+    "nameicon": "UI_ItemIcon_100085"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Crystal_Core"
+  },
+  "version": ""
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Träumchen",
+  "rarity": "2",
+  "foodtype": "SPECIALTY",
+  "foodfilter": "Gericht für Angriff",
+  "foodcategory": "Atk_Add",
+  "effect": "Erhöht den ANG aller Truppenmitglieder 300 s lang um 114 Punkte. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+  "description": "Xiaos Spezialzubereitung. Sein Traum ist ganz einfach. Er will weiterhin träumen.",
+  "basedish": "Mandeltofu",
+  "character": "Xiao",
+  "ingredients": [
+    {
+      "name": "Milch",
+      "count": 3
+    },
+    {
+      "name": "Zucker",
+      "count": 1
+    },
+    {
+      "name": "Mandeln",
+      "count": 1
+    }
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_108137"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/\"Sweet_Dream\""
+  },
+  "version": "1.3"
+}

@@ -1,0 +1,195 @@
+{
+  "name": "Signora",
+  "specialname": "Signora",
+  "enemytype": "BOSS",
+  "category": "Enemigos memorables",
+  "description": "Signora, la octava de Los Once de los Fatui.\nComparada con otros Fatui que también usan el poder de sus Engaños, Signora usa el suyo para controlar las llamas que todo lo engullen. Más que un arma de combate, es un objeto utilizado para detener criminales.\nSon las ascuas que, tras acumularse a lo largo de los años y romper el sello helado del Engaño, dibujaron un retorcido aspecto en su rostro.\n\nCuando el rojo carmesí se reflejó en sus pupilas como un amanecer, desplegó sus ardientes alas para volar hacia el alba.\n\n“Eso no es el amanecer, querida Rosalyne. Es el mar de llamas que lo incendia todo”, le dijo una voz que se escuchaba venir de un haz de luz.\n\nPero nada de eso importaba, pues en su interior sabía que las llamas la habían consumido hace mucho tiempo.",
+  "rewardpreview": [
+    {
+      "name": "EXP de Aventura",
+      "count": 300
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "EXP de Amistad"
+    },
+    {
+      "name": "Pedacito de jade shivada"
+    },
+    {
+      "name": "Fragmento de jade shivada"
+    },
+    {
+      "name": "Trozo de jade shivada"
+    },
+    {
+      "name": "Jade shivada"
+    },
+    {
+      "name": "Pedacito de ágata agnidus"
+    },
+    {
+      "name": "Fragmento de ágata agnidus"
+    },
+    {
+      "name": "Trozo de ágata agnidus"
+    },
+    {
+      "name": "Ágata agnidus"
+    },
+    {
+      "name": "Solvente de sueños",
+      "count": 0.33
+    },
+    {
+      "name": "Momento del derretimiento"
+    },
+    {
+      "name": "Mariposa del fuego infernal"
+    },
+    {
+      "name": "Corazón de las cenizas"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "3"
+    },
+    {
+      "name": "Exiliado",
+      "rarity": "3"
+    },
+    {
+      "name": "Final del Gladiador",
+      "rarity": "4"
+    },
+    {
+      "name": "Orquesta del Errante",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "4"
+    },
+    {
+      "name": "Exiliado",
+      "rarity": "4"
+    },
+    {
+      "name": "Final del Gladiador",
+      "rarity": "5"
+    },
+    {
+      "name": "Orquesta del Errante",
+      "rarity": "5"
+    },
+    {
+      "name": "Prototipo de espada del Norte"
+    },
+    {
+      "name": "Prototipo de arco del Norte"
+    },
+    {
+      "name": "Prototipo de mandoble del Norte"
+    },
+    {
+      "name": "Prototipo de catalizador del Norte"
+    },
+    {
+      "name": "Prototipo de lanza del Norte"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_LaSignora"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 513.9399908444029,
+      "attack": 76.13319315582885,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 2024.1830612137564,
+      "attack": 203.4083293985932,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 5957.874750514515,
+      "attack": 501.7499019824463,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 11094.789945280412,
+      "attack": 819.5298012541898,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 19920.928208313184,
+      "attack": 1225.2416554312222,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 36704.72439475497,
+      "attack": 1889.4817435136356,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 62012.59746199194,
+      "attack": 2660.773141056823,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 102564.67427988164,
+      "attack": 3673.071566613973,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 165456.3191879019,
+      "attack": 4725.795096868649,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 259702.01247135177,
+      "attack": 5709.411795508931,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 388220.12688163295,
+      "attack": 7386.62659546989,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 491370.10539378226,
+      "attack": 7533.291466042516,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 568355.2145917788,
+      "attack": 7680.983199416427,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

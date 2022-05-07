@@ -1,0 +1,22 @@
+{
+  "name": "Varunada Lazurite Sliver",
+  "description": "Character Ascension Material.",
+  "sortorder": 1826,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Dropped by Oceanids",
+    "Dropped by Hydro Hypostases",
+    "Purchase from the Souvenir Shop"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Varunada_Lazurite_Sliver.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Item_Varunada_Lazurite_Sliver.png",
+    "nameicon": "UI_ItemIcon_104121"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Varunada_Lazurite_Sliver"
+  },
+  "version": ""
+}

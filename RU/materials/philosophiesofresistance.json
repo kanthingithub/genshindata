@@ -1,0 +1,26 @@
+{
+  "name": "Философия о «Борьбе»",
+  "description": "Материал повышения таланта.\nСопротивление - это основа царства ветров.\nИстория Мондштадта - это история сопротивления. Люди восстали, чтобы поэзия и песни будущего Мондштадта летели по ветру свободы и распространились по всей земле.",
+  "sortorder": 1856,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Повышение талантов",
+  "dropdomain": "Мастерство: Ледяная бездна",
+  "daysofweek": [
+    "Вторник",
+    "Пятница",
+    "Воскресенье"
+  ],
+  "source": [
+    "Алхимия"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Resistance.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Philosophies_of_Resistance.png",
+    "nameicon": "UI_ItemIcon_104306"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Resistance"
+  },
+  "version": ""
+}

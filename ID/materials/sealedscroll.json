@@ -1,0 +1,22 @@
+{
+  "name": "Sealed Scroll",
+  "description": "Gulungan tua yang kurang mendetil dan jelas. Dengan mengikuti gambar-gambar di dalamnya, beberapa makhluk ajaib dapat menciptakan ulang sebagian kecil dari sihirnya.",
+  "sortorder": 1730,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Didapatkan melalui Craft",
+    "Dijatuhkan oleh Samachurl Lv. 40+",
+    "Penukaran Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sealed_Scroll.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Sealed_Scroll.png",
+    "nameicon": "UI_ItemIcon_112009"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sealed_Scroll"
+  },
+  "version": ""
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Körnchen pechschwarzer Aerosiderit",
+  "description": "Material mit der Kraft, Waffen aufsteigen zu lassen.\nVor langer Zeit ist ein pechschwarzer Meteorit über dem Wolkenmeer von Liyue aus dem Himmel gefallen, angeblich um Monster und Dämonen zu besiegen. Aufgrund des unreinen Blutes, mit dem dieses Metall befleckt ist, übersteigt es die Kräfte von Rex Lapis.",
+  "sortorder": 2203,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zum Aufstieg von Waffen",
+  "dropdomain": "Sphäre der Kriegskunst: Prüfungsplatz des alten Donners",
+  "daysofweek": [
+    "Mittwoch",
+    "Samstag",
+    "Sonntag"
+  ],
+  "source": [
+    "Beim Andenkenhändler von Liyue zu erhalten"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Grain_of_Aerosiderite.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Item_Grain_of_Aerosiderite.png",
+    "nameicon": "UI_ItemIcon_114021"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Grain_of_Aerosiderite"
+  },
+  "version": ""
+}

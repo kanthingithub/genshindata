@@ -1,0 +1,17 @@
+{
+  "name": "BEP",
+  "description": "Your travel diary contains all that you have experienced in your long journey. These experiences shall someday become the stuff of song.",
+  "sortorder": 2256,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "BEP",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_116001",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_BEP.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/BEP"
+  },
+  "version": ""
+}

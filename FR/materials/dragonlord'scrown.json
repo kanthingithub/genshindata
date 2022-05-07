@@ -1,0 +1,20 @@
+{
+  "name": "Couronne du roi dragon",
+  "description": "Ces cornes créées à partir de jade durci et cristallisé pendant des milliers d'années forment la couronne du roi dragon.\nInfusé par les esprits et sculpté dans la roche, il est né au cœur de la montagne pour montrer la force de la terre face aux étendues de monolithes, et ses longues cornes dorées sont la marque de sa lutte contre un roi du passé.\nCette corne avait, pendant un temps, été brisée et avait perdu de son éclat, mais désormais, elle brille d'une lueur froide et dorée, pendant que vous la tenez dans la paume de votre main.",
+  "sortorder": 1799,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Défi d'Azhdaha (Niv.70+)"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dragon_Lord's_Crown.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Item_Dragon_Lord%27s_Crown.png",
+    "nameicon": "UI_ItemIcon_113017"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dragon_Lord's_Crown"
+  },
+  "version": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Lampenkraut",
+  "description": "Eine nachts leuchtende Wildblume, die den Geschmack von Gerichten angenehm intensiviert.",
+  "sortorder": 2041,
+  "category": "EXCHANGE",
+  "materialtype": "Regionale Besonderheit aus Mondstadt",
+  "source": [
+    "Nachts in der freien Natur zu finden",
+    "Empfohlen: In Wolfenlauf zu finden",
+    "Empfohlen: Im Flüsterwald zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Small_Lamp_Grass.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Small_Lamp_Grass.png",
+    "nameicon": "UI_ItemIcon_100055"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Small_Lamp_Grass"
+  },
+  "version": ""
+}

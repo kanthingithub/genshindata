@@ -1,0 +1,306 @@
+{
+  "name": "Cinnabar Spindle",
+  "description": "Pedang yang terbentuk dari material yang bukan berasal dari dunia ini. Energi di dalam pedang ini bahkan dapat menangkis racun mematikan yang dapat melukai seekor naga.",
+  "weapontype": "Sword",
+  "rarity": "4",
+  "baseatk": 41,
+  "substat": "DEF",
+  "subvalue": "15",
+  "effectname": "Spotless Heart",
+  "effect": [
+    "Meningkatkan DMG Elemental Skill sebesar [40%] DEF. Efek ini dapat terpicu setiap 1,5 detik dan akan langsung hilang dalam waktu 0,1 detik setelah Elemental Skill mengakibatkan DMG.",
+    "Meningkatkan DMG Elemental Skill sebesar [50%] DEF. Efek ini dapat terpicu setiap 1,5 detik dan akan langsung hilang dalam waktu 0,1 detik setelah Elemental Skill mengakibatkan DMG.",
+    "Meningkatkan DMG Elemental Skill sebesar [60%] DEF. Efek ini dapat terpicu setiap 1,5 detik dan akan langsung hilang dalam waktu 0,1 detik setelah Elemental Skill mengakibatkan DMG.",
+    "Meningkatkan DMG Elemental Skill sebesar [70%] DEF. Efek ini dapat terpicu setiap 1,5 detik dan akan langsung hilang dalam waktu 0,1 detik setelah Elemental Skill mengakibatkan DMG.",
+    "Meningkatkan DMG Elemental Skill sebesar [80%] DEF. Efek ini dapat terpicu setiap 1,5 detik dan akan langsung hilang dalam waktu 0,1 detik setelah Elemental Skill mengakibatkan DMG."
+  ],
+  "r1": [
+    "40%"
+  ],
+  "r2": [
+    "50%"
+  ],
+  "r3": [
+    "60%"
+  ],
+  "r4": [
+    "70%"
+  ],
+  "r5": [
+    "80%"
+  ],
+  "weaponmaterialtype": "",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 5000
+      },
+      {
+        "name": "Tile of Decarabian's Tower",
+        "count": 3
+      },
+      {
+        "name": "Chaos Device",
+        "count": 3
+      },
+      {
+        "name": "Damaged Mask",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 15000
+      },
+      {
+        "name": "Debris of Decarabian's City",
+        "count": 3
+      },
+      {
+        "name": "Chaos Device",
+        "count": 12
+      },
+      {
+        "name": "Damaged Mask",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Debris of Decarabian's City",
+        "count": 6
+      },
+      {
+        "name": "Chaos Circuit",
+        "count": 6
+      },
+      {
+        "name": "Stained Mask",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Fragment of Decarabian's Epic",
+        "count": 3
+      },
+      {
+        "name": "Chaos Circuit",
+        "count": 12
+      },
+      {
+        "name": "Stained Mask",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 35000
+      },
+      {
+        "name": "Fragment of Decarabian's Epic",
+        "count": 6
+      },
+      {
+        "name": "Chaos Core",
+        "count": 9
+      },
+      {
+        "name": "Ominous Mask",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Scattered Piece of Decarabian's Dream",
+        "count": 4
+      },
+      {
+        "name": "Chaos Core",
+        "count": 18
+      },
+      {
+        "name": "Ominous Mask",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_EquipIcon_Sword_Opus",
+    "namegacha": "UI_Gacha_EquipIcon_Sword_Opus",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Opus.png",
+    "nameawakenicon": "UI_EquipIcon_Sword_Opus_Awaken",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Opus_Awaken.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cinnabar_Spindle"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 41.067100524902344,
+      "specialized": 0.15013299882411957
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 53.63363305053463,
+      "specialized": 0.17445453575659187
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 69.07486476696522,
+      "specialized": 0.20463128269486042
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 84.26969215700228,
+      "specialized": 0.23495815175042623
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 99.25918424023803,
+      "specialized": 0.2652850029087439
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 125.1591838587683,
+      "specialized": 0.2652850029087439
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 139.98440965479494,
+      "specialized": 0.2956118719643097
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 154.68642349646507,
+      "specialized": 0.3259387410198755
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 169.22418084208584,
+      "specialized": 0.3562655921781932
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 183.6798001485222,
+      "specialized": 0.38659247913100714
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 209.67980205587082,
+      "specialized": 0.38659247913100714
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 224.05328332312274,
+      "specialized": 0.4169193302893248
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 238.34463634235,
+      "specialized": 0.44724621724213875
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 264.2446378682289,
+      "specialized": 0.44724621724213875
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 278.45386263943146,
+      "specialized": 0.47757306840045644
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 292.6220037043022,
+      "specialized": 0.5078999195587741
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 318.52199760078656,
+      "specialized": 0.5078999195587741
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 332.6080104176326,
+      "specialized": 0.538226806511588
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 346.6529591104663,
+      "specialized": 0.5684035355526085
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 372.6529591104663,
+      "specialized": 0.5684035355526085
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 386.6568436792877,
+      "specialized": 0.5987303867109262
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 400.6607282481091,
+      "specialized": 0.6290572736637401
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 426.5607374033825,
+      "specialized": 0.6290572736637401
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 440.4824741418597,
+      "specialized": 0.659384160616554
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 454.3631663386441,
+      "specialized": 0.6897109759803755
+    }
+  },
+  "version": "2.3"
+}

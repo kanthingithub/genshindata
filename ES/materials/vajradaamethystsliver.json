@@ -1,0 +1,22 @@
+{
+  "name": "Pedacito de amatista vajrada",
+  "description": "Material de ascensión de personaje",
+  "sortorder": 1834,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Obtenido de Hipostasis Electro",
+    "Obtenido de Manifestación del Trueno",
+    "Canjear en la tienda de recuerdos"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vajrada_Amethyst_Sliver.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Item_Vajrada_Amethyst_Sliver.png",
+    "nameicon": "UI_ItemIcon_104141"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Vajrada_Amethyst_Sliver"
+  },
+  "version": ""
+}

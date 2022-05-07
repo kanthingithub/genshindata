@@ -1,0 +1,17 @@
+{
+  "name": "赤色の染料",
+  "description": "接触したものを赤色に染める染料。調度品を製作する時に使えるかもしれない。",
+  "sortorder": 1940,
+  "category": "EXCHANGE",
+  "materialtype": "素材",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Red_Dye.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Item_Red_Dye.png",
+    "nameicon": "UI_ItemIcon_101402"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Red_Dye"
+  },
+  "version": ""
+}

@@ -1,0 +1,17 @@
+{
+  "name": "藍色染料",
+  "description": "藍色的染料。製作擺設時應該能派上用場。",
+  "sortorder": 1935,
+  "category": "EXCHANGE",
+  "materialtype": "素材",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Blue_Dye.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/62/Item_Blue_Dye.png",
+    "nameicon": "UI_ItemIcon_101404"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Blue_Dye"
+  },
+  "version": ""
+}

@@ -1,0 +1,18 @@
+{
+  "name": "纠缠之缘",
+  "description": "连结梦想的命运之种。\n缘石辉光能让本无交集的命运交错，让彼此的梦想相连，正如这种光辉将群星连成心之所向的图形。",
+  "sortorder": 498,
+  "rarity": "5",
+  "category": "CONSUME",
+  "materialtype": "限定祈愿道具",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_223",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Intertwined_Fate.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Item_Intertwined_Fate.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Intertwined_Fate"
+  },
+  "version": ""
+}

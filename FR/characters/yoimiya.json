@@ -1,0 +1,872 @@
+{
+  "name": "Yoimiya",
+  "fullname": "Yoimiya",
+  "title": "Flamme gambadante",
+  "description": "Propriétaire des « Feux de Naganohara ». Connue sous le nom de « Reine du festival d'été », elle excelle dans son art de créer des feux d'artifice qui symbolisent les espoirs et les rêves des gens.",
+  "rarity": "5",
+  "element": "Pyro",
+  "weapontype": "Arc",
+  "substat": "Taux CRIT",
+  "gender": "Femme",
+  "body": "GIRL",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "Feux de Naganohara",
+  "birthdaymmdd": "6/21",
+  "birthday": "21 juin",
+  "constellation": "Carassius Auratus",
+  "cv": {
+    "english": "Jenny Yokobori",
+    "chinese": "金娜",
+    "japanese": "植田佳奈",
+    "korean": "Park Shin-hee"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Éclat d'agate agnidus",
+        "count": 1
+      },
+      {
+        "name": "Herbe à sanglots",
+        "count": 3
+      },
+      {
+        "name": "Parchemin divinatoire",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragment d'agate agnidus",
+        "count": 3
+      },
+      {
+        "name": "Perle brûlante",
+        "count": 2
+      },
+      {
+        "name": "Herbe à sanglots",
+        "count": 10
+      },
+      {
+        "name": "Parchemin divinatoire",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragment d'agate agnidus",
+        "count": 6
+      },
+      {
+        "name": "Perle brûlante",
+        "count": 4
+      },
+      {
+        "name": "Herbe à sanglots",
+        "count": 20
+      },
+      {
+        "name": "Parchemin sigillé",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Morceau d'agate agnidus",
+        "count": 3
+      },
+      {
+        "name": "Perle brûlante",
+        "count": 8
+      },
+      {
+        "name": "Herbe à sanglots",
+        "count": 30
+      },
+      {
+        "name": "Parchemin sigillé",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Morceau d'agate agnidus",
+        "count": 6
+      },
+      {
+        "name": "Perle brûlante",
+        "count": 12
+      },
+      {
+        "name": "Herbe à sanglots",
+        "count": 45
+      },
+      {
+        "name": "Parchemin maudit",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Pierre d'agate agnidus",
+        "count": 6
+      },
+      {
+        "name": "Perle brûlante",
+        "count": 20
+      },
+      {
+        "name": "Herbe à sanglots",
+        "count": 60
+      },
+      {
+        "name": "Parchemin maudit",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Yoimiya.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210803/2021080311565873098.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210730/2021073011353339905.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/7c15028cb304de316e2cdb584bc33ff3.png",
+    "nameicon": "UI_AvatarIcon_Yoimiya",
+    "nameiconcard": "UI_AvatarIcon_Yoimiya_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Yoimiya",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Yoimiya",
+    "namesideicon": "UI_AvatarIcon_Side_Yoimiya"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Yoimiya"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 791.255615234375,
+      "attack": 25.136999130249023,
+      "defense": 47.86399841308594,
+      "specialized": 0.05000000074505806
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2052.5171459055855,
+      "attack": 65.20537828495208,
+      "defense": 124.15921672209151,
+      "specialized": 0.05000000074505806
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2730.9472606516792,
+      "attack": 86.75650857975188,
+      "defense": 165.19921763761886,
+      "specialized": 0.05000000074505806
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4086.3681763333734,
+      "attack": 129.8161895761641,
+      "defense": 247.19024974932836,
+      "specialized": 0.05000000074505806
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4568.410595766967,
+      "attack": 145.12883262731157,
+      "defense": 276.3502457820432,
+      "specialized": 0.09800000116229057
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5256.011692203232,
+      "attack": 166.9728838167075,
+      "defense": 317.9440583945616,
+      "specialized": 0.09800000116229057
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5898.735080875107,
+      "attack": 187.38974630450048,
+      "defense": 356.8240632773741,
+      "specialized": 0.1460000015795231
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6593.457339002052,
+      "attack": 209.46002607512673,
+      "defense": 398.8486434766237,
+      "specialized": 0.1460000015795231
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7075.49969740049,
+      "attack": 224.77266721892556,
+      "defense": 428.00864713873307,
+      "specialized": 0.1460000015795231
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7776.552296252572,
+      "attack": 247.0440523798179,
+      "defense": 470.4161572187804,
+      "specialized": 0.1460000015795231
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8258.594776721322,
+      "attack": 262.356697338314,
+      "defense": 499.57614562210074,
+      "specialized": 0.193999994546175
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8967.559735529707,
+      "attack": 284.8794462576561,
+      "defense": 542.4622838181458,
+      "specialized": 0.193999994546175
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 9449.602215998457,
+      "attack": 300.1920912161522,
+      "defense": 571.6222874802552,
+      "specialized": 0.2420000024139881
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10164.106317266356,
+      "attack": 322.890810348541,
+      "defense": 614.8434950278315,
+      "specialized": 0.2420000024139881
+    }
+  },
+  "version": "2.0",
+  "constellations": {
+    "c1": {
+      "name": "Agate Ryuukin",
+      "effect": "Prolonge la durée de la Flamme Ryuukin générée par **Saxifrage Ryuukin** de 4 s.\nDe plus, lorsqu'un ennemi affecté par Flamme Ryuukin est vaincu pendant la durée de l'effet, l'ATQ de Yoimiya augmente de 20 % pendant 20 s."
+    },
+    "c2": {
+      "name": "Procession de feux de joie",
+      "effect": "Lorsque les DGT Pyro infligés par Yoimiya résultent en un coup CRIT, cette dernière obtient pendant 6 s un bonus de DGT Pyro de 25 %.\nCet effet s'applique également lorsque Yoimiya fait partie de l'équipe mais n'est pas déployée."
+    },
+    "c3": {
+      "name": "Flammes ingénieuses",
+      "effect": "Niveau d'aptitude **Danse du feu « Niwabi »** +3.\nNiveau max : 15"
+    },
+    "c4": {
+      "name": "Pro de la pyrotechnie",
+      "effect": "Réduit le TdR de **Danse du feu « Niwabi »** de 1,2 s lorsque Flamme Ryuukin de Yoimiya déclenche une explosion."
+    },
+    "c5": {
+      "name": "Nuit d'un festival d'été",
+      "effect": "Niveau d'aptitude **Saxifrage Ryuukin** +3.\nNiveau max : 15"
+    },
+    "c6": {
+      "name": "Pluie de météores de Naganohara",
+      "effect": "Tant que **Danse du feu « Niwabi »** est active, les attaques normales de Yoimiya ont 50 % de chances de libérer une flèche enflammée supplémentaire qui inflige 60 % des DGT d'origine. Ces DGT sont considérés comme des DGT d'attaque normale."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yoimiya_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yoimiya_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Yoimiya_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yoimiya_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Yoimiya_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yoimiya_04.png",
+      "constellation": "Eff_UI_Talent_Yoimiya"
+    },
+    "version": "2.0"
+  },
+  "talent": {
+    "name": "Yoimiya",
+    "combat1": {
+      "name": "Attaque normale : Flambée pyrotechnique",
+      "info": "**Attaque normale**\nEnchaîne jusqu'à 5 tirs consécutifs.\n\n**Attaque chargée**\nEffectue un **tir visé** plus précis et infligeant davantage de DGT.\nEn visant, des flammes viennent se concentrer sur le carreau de la flèche avant d'être tirées lors de l'attaque. L'effet varie selon le nombre de charges :\n· 1 charge : Tire une flèche enflammée qui inflige des DGT Pyro.\n· 2 charges : Génère jusqu'à 3 flèches chercheuses en fonction du temps de charge, qui sont libérées lors du tir visé. Les flèches suivent les ennemis proches, et infligent lorsqu'elles touchent des DGT Pyro.\n\n**Attaque plongeante**\nTire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact.",
+      "attributes": [
+        {
+          "name": "DGT 1er coup",
+          "parameters": [
+            "35.64% ×2",
+            "38.07% ×2",
+            "40.50% ×2",
+            "43.74% ×2",
+            "46.17% ×2",
+            "49.00% ×2",
+            "52.65% ×2",
+            "56.30% ×2",
+            "59.94% ×2",
+            "63.59% ×2",
+            "67.23% ×2",
+            "70.88% ×2",
+            "74.52% ×2",
+            "78.17% ×2",
+            "81.81% ×2"
+          ]
+        },
+        {
+          "name": "DGT 2e coup",
+          "parameters": [
+            "68.38%",
+            "73.04%",
+            "77.70%",
+            "83.92%",
+            "88.58%",
+            "94.02%",
+            "101.01%",
+            "108.00%",
+            "115.00%",
+            "121.99%",
+            "128.98%",
+            "135.98%",
+            "142.97%",
+            "149.96%",
+            "156.95%"
+          ]
+        },
+        {
+          "name": "DGT 3e coup",
+          "parameters": [
+            "88.89%",
+            "94.95%",
+            "101.01%",
+            "109.09%",
+            "115.15%",
+            "122.22%",
+            "131.31%",
+            "140.40%",
+            "149.49%",
+            "158.59%",
+            "167.68%",
+            "176.77%",
+            "185.86%",
+            "194.95%",
+            "204.04%"
+          ]
+        },
+        {
+          "name": "DGT 4e coup",
+          "parameters": [
+            "46.42% ×2",
+            "49.58% ×2",
+            "52.75% ×2",
+            "56.97% ×2",
+            "60.14% ×2",
+            "63.83% ×2",
+            "68.58% ×2",
+            "73.32% ×2",
+            "78.07% ×2",
+            "82.82% ×2",
+            "87.56% ×2",
+            "92.31% ×2",
+            "97.06% ×2",
+            "101.81% ×2",
+            "106.55% ×2"
+          ]
+        },
+        {
+          "name": "DGT 5e coup",
+          "parameters": [
+            "105.86%",
+            "113.08%",
+            "120.30%",
+            "129.92%",
+            "137.14%",
+            "145.56%",
+            "156.39%",
+            "167.22%",
+            "178.04%",
+            "188.87%",
+            "199.70%",
+            "210.52%",
+            "221.35%",
+            "232.18%",
+            "243.01%"
+          ]
+        },
+        {
+          "name": "DGT tir visé",
+          "parameters": [
+            "43.86%",
+            "47.43%",
+            "51.00%",
+            "56.10%",
+            "59.67%",
+            "63.75%",
+            "69.36%",
+            "74.97%",
+            "80.58%",
+            "86.70%",
+            "92.82%",
+            "98.94%",
+            "105.06%",
+            "111.18%",
+            "117.30%"
+          ]
+        },
+        {
+          "name": "DGT tir visé (pleine charge)",
+          "parameters": [
+            "124.00%",
+            "133.30%",
+            "142.60%",
+            "155.00%",
+            "164.30%",
+            "173.60%",
+            "186.00%",
+            "198.40%",
+            "210.80%",
+            "223.20%",
+            "235.60%",
+            "248.00%",
+            "263.50%",
+            "279.00%",
+            "294.50%"
+          ]
+        },
+        {
+          "name": "DGT flèche chercheuse",
+          "parameters": [
+            "16.40%",
+            "17.63%",
+            "18.86%",
+            "20.50%",
+            "21.73%",
+            "22.96%",
+            "24.60%",
+            "26.24%",
+            "27.88%",
+            "29.52%",
+            "31.16%",
+            "32.80%",
+            "34.85%",
+            "36.90%",
+            "38.95%"
+          ]
+        },
+        {
+          "name": "DGT durant la chute",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "DGT chute basse/élevée",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Danse du feu « Niwabi »",
+      "info": "Yoimiya brandit un cierge magique, s'entourant d'un champ de salpêtres.\n\n**Niwabi Enshou**\nPendant la durée de cette aptitude, les flèches tirées lors de l'attaque normale de Yoimiya sont des flèches enflammées, infligeant davantage de DGT, et dont les DGT sont convertis en DGT Pyro. Pendant cette période, le second niveau de charge de son attaque normale Flambée pyrotechnique ne génère pas de flèches chercheuses.\n\nL'effet s'arrête lorsque Yoimiya quitte le champ de bataille.",
+      "description": "Le « Niwabi » est une sorte de feux d'artifice à base d'encens inventé par Yoimiya, qui ne requiert aucune formation ou préparation préalable, ce qui le rend particulièrement populaire. Après plusieurs incidents, la Commission administrative a interdit l'usage du « Niwabi » dans l'enceinte de la ville, mais il arrive encore que de discrètes étincelles illuminent la nuit. Vues des hauteurs, on dirait de petites étoiles filantes.",
+      "attributes": [
+        {
+          "name": "DGT flèche enflammée",
+          "parameters": [
+            "137.91% DGT d'attaque",
+            "140.18% DGT d'attaque",
+            "142.45% DGT d'attaque",
+            "145.40% DGT d'attaque",
+            "147.67% DGT d'attaque",
+            "149.94% DGT d'attaque",
+            "152.89% DGT d'attaque",
+            "155.84% DGT d'attaque",
+            "158.79% DGT d'attaque",
+            "161.74% DGT d'attaque",
+            "164.70% DGT d'attaque",
+            "167.65% DGT d'attaque",
+            "170.60% DGT d'attaque",
+            "173.55% DGT d'attaque",
+            "176.50% DGT d'attaque"
+          ]
+        },
+        {
+          "name": "Durée",
+          "parameters": [
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Saxifrage Ryuukin",
+      "info": "Yoimiya s'élance dans les airs avec sa création originale, le « Saxifrage Ryuukin » et tire des roquettes flamboyantes pleines de surprises, qui infligent des DGT Pyro de zone, et marquent un ennemi d'une « Flamme Ryuukin ».\n\n**Flamme Ryuukin**\nLes attaques normales, chargées et plongeantes, les compétences élémentaires et les déchaînements élémentaires de tous les personnages de l'équipe (hormis Yoimiya) génèrent une explosion lorsqu'elles touchent un ennemi marqué d'une Flamme Ryuukin, infligeant des DGT Pyro de zone.\nLorsqu'un ennemi marqué d'une Flamme Ryuukin est vaincu avant la fin de l'effet, ce dernier est transféré à un ennemi proche qui hérite de la durée restante.\n\nIl est possible de générer ainsi une explosion toutes les 2 s max. Quand Yoimiya est vaincue, l'effet des Flammes Ryuukin générées par ses compétences prend fin.",
+      "description": "Les feux d'artifice sont les étoiles créées par l'homme, comètes destinées aux cieux. Et même si elle n'est qu'éphémère, la lumière qu'ils génèrent peut demeurer longtemps dans le cœur des hommes.",
+      "attributes": [
+        {
+          "name": "DGT compétence",
+          "parameters": [
+            "127.20%",
+            "136.74%",
+            "146.28%",
+            "159.00%",
+            "168.54%",
+            "178.08%",
+            "190.80%",
+            "203.52%",
+            "216.24%",
+            "228.96%",
+            "241.68%",
+            "254.40%",
+            "270.30%",
+            "286.20%",
+            "302.10%"
+          ]
+        },
+        {
+          "name": "DGT explosion de la Flamme Ryuukin",
+          "parameters": [
+            "122.00%",
+            "131.15%",
+            "140.30%",
+            "152.50%",
+            "161.65%",
+            "170.80%",
+            "183.00%",
+            "195.20%",
+            "207.40%",
+            "219.60%",
+            "231.80%",
+            "244.00%",
+            "259.25%",
+            "274.50%",
+            "289.75%"
+          ]
+        },
+        {
+          "name": "Durée",
+          "parameters": [
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "Énergie élémentaire",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Tour de passe-passe",
+      "info": "Tant que **Danse du feu « Niwabi »** est active, les attaques normales de Yoimiya augmentent son bonus de DGT Pyro de 2 %. Cet effet dure 3 s et peut être cumulé 10 fois maximum."
+    },
+    "passive2": {
+      "name": "Aube d'une nuit d'été",
+      "info": "Lorsque Yoimiya libère **Saxifrage Ryuukin**, l'ATQ de tous les autres personnages de l'équipe (hormis Yoimiya) augmente de 10 % pendant 15 s. De plus, chaque cumul de l'aptitude passive « Tour de passe-passe » que Yoimiya possède lorsqu'elle exécute **Saxifrage d'or** augmente ce bonus d'ATQ de 1 %."
+    },
+    "passive3": {
+      "name": "Rentabilisation maximum",
+      "info": "Lors de la fabrication de décorations, d'aménagements ou de décorations de paysage, une partie des matériaux est récupérée."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseignement de l'éphémère",
+          "count": 3
+        },
+        {
+          "name": "Parchemin divinatoire",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide de l'Éphémère",
+          "count": 2
+        },
+        {
+          "name": "Parchemin sigillé",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide de l'Éphémère",
+          "count": 4
+        },
+        {
+          "name": "Parchemin sigillé",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide de l'Éphémère",
+          "count": 6
+        },
+        {
+          "name": "Parchemin sigillé",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide de l'Éphémère",
+          "count": 9
+        },
+        {
+          "name": "Parchemin sigillé",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie de l'éphémère",
+          "count": 4
+        },
+        {
+          "name": "Parchemin maudit",
+          "count": 4
+        },
+        {
+          "name": "Couronne du roi dragon",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie de l'éphémère",
+          "count": 6
+        },
+        {
+          "name": "Parchemin maudit",
+          "count": 6
+        },
+        {
+          "name": "Couronne du roi dragon",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie de l'éphémère",
+          "count": 12
+        },
+        {
+          "name": "Parchemin maudit",
+          "count": 9
+        },
+        {
+          "name": "Couronne du roi dragon",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie de l'éphémère",
+          "count": 16
+        },
+        {
+          "name": "Parchemin maudit",
+          "count": 12
+        },
+        {
+          "name": "Couronne du roi dragon",
+          "count": 2
+        },
+        {
+          "name": "Couronne de la sagesse",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_02",
+      "combat2": "Skill_S_Yoimiya_01",
+      "combat3": "Skill_E_Yoimiya_01_HD",
+      "passive1": "UI_Talent_S_Yoimiya_05",
+      "passive2": "UI_Talent_S_Yoimiya_06",
+      "passive3": "UI_Talent_S_Yoimiya_07"
+    },
+    "version": "2.0"
+  }
+}

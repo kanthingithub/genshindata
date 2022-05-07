@@ -1,0 +1,24 @@
+{
+  "name": "Шеврон сержанта",
+  "description": "Знак, отличающий обычного рядового от сержанта. Наверное, за ним скрываются сложные эмоции.",
+  "sortorder": 1751,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Алхимия",
+    "Застрельщики Фатуи Ур. 40+",
+    "Некоторые агенты Фатуи Ур. 40+",
+    "Некоторые маги цицинов Фатуи Ур. 40+",
+    "Покупается за Звёздную пыль"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sergeant's_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Sergeant%27s_Insignia.png",
+    "nameicon": "UI_ItemIcon_112033"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sergeant's_Insignia"
+  },
+  "version": ""
+}

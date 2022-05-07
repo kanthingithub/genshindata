@@ -1,0 +1,19 @@
+{
+  "name": "Fromage",
+  "description": "Produit à base de lait fermenté. Il peut être utilisé de façons variées pour agrémenter vos plats.",
+  "sortorder": 1532,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrédient",
+  "source": [
+    "Cuisine (préparation)"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cheese.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Item_Cheese.png",
+    "nameicon": "UI_ItemIcon_110009"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cheese"
+  },
+  "version": ""
+}

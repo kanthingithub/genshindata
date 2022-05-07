@@ -1,0 +1,19 @@
+{
+  "name": "Berry",
+  "description": "Small, brightly-colored fruit. They can be found everywhere, and the taste of them wipes the fatigue of a long journey away.",
+  "sortorder": 1988,
+  "category": "EXCHANGE",
+  "materialtype": "Cooking Ingredient",
+  "source": [
+    "Found in the wild"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Berry.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/65/Item_Berry.png",
+    "nameicon": "UI_ItemIcon_100051"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Berry"
+  },
+  "version": ""
+}

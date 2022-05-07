@@ -1,0 +1,26 @@
+{
+  "name": "Areia Brilhante de Guyun",
+  "description": "Material de Ascensão de Armas.\nO pilar de pedra da Floresta de Pedra de Guyun foi a lança de pedra que Morax usou para derrotar seus inimigos. Com o passar do tempo, o corpo do Arconte penetrou nos pilares, concedendo-lhe divindade. Os pilares às vezes derramavam pedaços de ódio e maldições.",
+  "sortorder": 2195,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Ascensão de Armas",
+  "dropdomain": "Domínio da Forja: Altar da Tempestade",
+  "daysofweek": [
+    "Segunda-feira",
+    "Quinta-feira",
+    "Domingo"
+  ],
+  "source": [
+    "Comprado na Loja de Lembranças de Liyue"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Luminous_Sands_from_Guyun.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Luminous_Sands_from_Guyun.png",
+    "nameicon": "UI_ItemIcon_114013"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Luminous_Sands_from_Guyun"
+  },
+  "version": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "黯淡棱镜",
+  "description": "原本是能偏转光线的棱镜，在流水般的年岁中渐渐变得黯淡。",
+  "sortorder": 1768,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培养素材",
+  "source": [
+    "愚人众·冬国仕女掉落",
+    "星尘兑换"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dismal_Prism.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Dismal_Prism.png",
+    "nameicon": "UI_ItemIcon_112050"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dismal_Prism"
+  },
+  "version": ""
+}

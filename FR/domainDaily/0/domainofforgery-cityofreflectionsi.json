@@ -1,0 +1,175 @@
+{
+  "name": "Donjon d'entraînement : Ville de réflexions",
+  "region": "Mondstadt",
+  "domainEntrance": "Pépinière de cécilias",
+  "domainType": "Matériau d'élévation d'arme",
+  "description": "De l'énergie Hydro d'une grande intensité parcourt cet autel des temps anciens.\nL'extrême humidité de ce lieu ralentit le temps de récupération de vos compétences élémentaires.\nCependant, vous obtiendrez un équipement de renforcement si vous arrivez à triompher de cette épreuve.",
+  "daysOfWeek": [
+    "Lundi",
+    "Jeudi",
+    "Dimanche"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Water"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Donjon d'entraînement : Ville de réflexions I",
+      "recommendedLevel": 15,
+      "recommendedElements": [
+        "Cryo",
+        "Pyro",
+        "Électro"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "EXP d'aventure",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1125
+        },
+        {
+          "name": "EXP d'affinité",
+          "count": 10
+        },
+        {
+          "name": "Tuile cassée de Décabarian"
+        }
+      ],
+      "disorder": [
+        "« Eau ralentissante » sera régulièrement infligé à votre personnage. Cet effet augmente le TdR des compétences jusqu'à ce que l'attribut Hydro soit ôté."
+      ],
+      "monsterlist": [
+        "Hydroblob",
+        "Hydroblob géant"
+      ]
+    },
+    {
+      "name": "Donjon d'entraînement : Ville de réflexions II",
+      "recommendedLevel": 36,
+      "recommendedElements": [
+        "Cryo",
+        "Pyro",
+        "Électro"
+      ],
+      "unlockRank": 21,
+      "rewardPreview": [
+        {
+          "name": "EXP d'aventure",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1550
+        },
+        {
+          "name": "EXP d'affinité",
+          "count": 15
+        },
+        {
+          "name": "Tuile cassée de Décabarian"
+        },
+        {
+          "name": "Mur abattu de Décabarian"
+        }
+      ],
+      "disorder": [
+        "« Eau ralentissante » sera régulièrement infligé à votre personnage. Cet effet augmente le TdR des compétences jusqu'à ce que l'attribut Hydro soit ôté."
+      ],
+      "monsterlist": [
+        "Hydroblob",
+        "Hydroblob géant",
+        "Brutocollinus avec bouclier de bois"
+      ]
+    },
+    {
+      "name": "Donjon d'entraînement : Ville de réflexions III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Cryo",
+        "Pyro",
+        "Électro"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "EXP d'aventure",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "EXP d'affinité",
+          "count": 15
+        },
+        {
+          "name": "Tuile cassée de Décabarian"
+        },
+        {
+          "name": "Mur abattu de Décabarian"
+        },
+        {
+          "name": "Fragment dispersé de Décabarian"
+        }
+      ],
+      "disorder": [
+        "« Eau ralentissante » sera régulièrement infligé à votre personnage. Cet effet augmente le TdR des compétences jusqu'à ce que l'attribut Hydro soit ôté."
+      ],
+      "monsterlist": [
+        "Hydroblob",
+        "Hydroblob géant",
+        "Brutoshaman Hydro",
+        "Hydromage de l'Abîme"
+      ]
+    },
+    {
+      "name": "Donjon d'entraînement : Ville de réflexions IV",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Cryo",
+        "Pyro",
+        "Électro"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "EXP d'aventure",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "EXP d'affinité",
+          "count": 20
+        },
+        {
+          "name": "Tuile cassée de Décabarian"
+        },
+        {
+          "name": "Mur abattu de Décabarian"
+        },
+        {
+          "name": "Fragment dispersé de Décabarian"
+        },
+        {
+          "name": "Rêve brisé de Décabarian"
+        }
+      ],
+      "disorder": [
+        "« Eau ralentissante » sera régulièrement infligé à votre personnage. Cet effet augmente le TdR des compétences jusqu'à ce que l'attribut Hydro soit ôté."
+      ],
+      "monsterlist": [
+        "Hydroblob géant",
+        "Hydromage de l'Abîme"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "name": "Treasure Hoarders: Electro Potioneer",
+  "specialname": "\"Goldfinger\"",
+  "enemytype": "COMMON",
+  "category": "Other Human Factions",
+  "description": "A member of the decentralized criminal organization that has footprints all over the continent and even deep within unknown domains.\n\"Potioneer\" is the nickname given to members of the Treasure Hoarder organization who know how to brew up dangerous chemicals.\n\"What? Did you think this treasure has 'Adventurers' Guild' written all over it or something?\"\n—A certain Treasure Hoarder Potioneer during a confrontation with adventurers",
+  "investigation": {
+    "name": "Treasure Hoarder",
+    "category": "Easy",
+    "description": "A ragtag group of bandits whose traces can be found all across the lands, even in deepest depths of uncharted domains.\\nAlthough their main purpose is hunting treasure, they are also known to get rough with unfortunate bystanders who happen to be nearby.\\nIt's said that the group's founder, Reed Miller, defined the Treasure Hoarders as \"an organization of mutual cooperation.\""
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Treasure Hoarder Insignia",
+      "count": 1.2606
+    },
+    {
+      "name": "Silver Raven Insignia",
+      "count": 0.3362
+    },
+    {
+      "name": "Golden Raven Insignia",
+      "count": 0.084
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Thoarder_Male_Chemist_Electric_01"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 116.66719108994585,
+      "attack": 40.60437071079832,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 458.56649378170914,
+      "attack": 108.48444509163892,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 1416.3200269102526,
+      "attack": 267.59995449687995,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 2356.480563964069,
+      "attack": 437.08257173138554,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 4311.759217249346,
+      "attack": 653.4622327690013,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 7994.3749497924,
+      "attack": 1007.7236220459163,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 13410.007936344482,
+      "attack": 1419.0790444802842,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 20883.156586352852,
+      "attack": 1958.9715517753502,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 29705.16458617174,
+      "attack": 2520.424115454778,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 38966.53936779476,
+      "attack": 3045.019701340352,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 58824.19549660757,
+      "attack": 3939.5342839595396,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 85603.70345717762,
+      "attack": 4017.7555502447067,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 115178.10877895448,
+      "attack": 4096.5244767044205,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "새고기",
+  "description": "조류의 신선한 고기. 적절히 조리하면 정신이 번쩍 드는 맛있는 요리가 된다",
+  "sortorder": 1992,
+  "category": "EXCHANGE",
+  "materialtype": "식자재",
+  "source": [
+    "동물 드랍"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fowl.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Item_Fowl.png",
+    "nameicon": "UI_ItemIcon_100064"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fowl"
+  },
+  "version": ""
+}

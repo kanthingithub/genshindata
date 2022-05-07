@@ -1,0 +1,21 @@
+{
+  "name": "자유로운 터키석 조각",
+  "description": "캐릭터 돌파 소재.\n「바람의 방향은 항상 바뀌는 거니까」",
+  "sortorder": 1839,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "캐릭터 육성 소재",
+  "source": [
+    "Lv.40이상 무상의 바람 드랍",
+    "합성 획득"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vayuda_Turquoise_Fragment.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Vayuda_Turquoise_Fragment.png",
+    "nameicon": "UI_ItemIcon_104152"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Vayuda_Turquoise_Fragment"
+  },
+  "version": ""
+}

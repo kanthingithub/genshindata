@@ -1,0 +1,20 @@
+{
+  "name": "恒常机关之心",
+  "description": "驱使恒常机关阵列自律行动的核心。\n有人推测这种核心上的纹样当中以肉眼不可见的语言写上了智能与逻辑，也有人进一步认为这种特殊的遗迹机关因为格外庞大的核心与复杂的纹样，自发选择抛弃了生物的姿态，转而追求性能的强大。",
+  "sortorder": 1805,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培养素材",
+  "source": [
+    "30级以上恒常机关阵列掉落"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Perpetual_Heart.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Item_Perpetual_Heart.png",
+    "nameicon": "UI_ItemIcon_113023"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Perpetual_Heart"
+  },
+  "version": ""
+}

@@ -1,0 +1,934 @@
+{
+  "name": "Zhongli",
+  "fullname": "Zhongli",
+  "title": "El Vagabundo del Reino Mortal",
+  "description": "Misterioso asesor de la Funeraria El Camino. Erudito y con información sobre todo tipo de cosas.",
+  "rarity": "5",
+  "element": "Geo",
+  "weapontype": "Lanza",
+  "substat": "Bono de Daño Geo",
+  "gender": "Masculino",
+  "body": "MALE",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Liyue",
+  "birthdaymmdd": "12/31",
+  "birthday": "31 de diciembre",
+  "constellation": "Lapis Dei",
+  "cv": {
+    "english": "Keith Silverstein",
+    "chinese": "彭博",
+    "japanese": "前野智昭",
+    "korean": "Pyo Young-jae"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Pedacito de topacio prithiva",
+        "count": 1
+      },
+      {
+        "name": "Cor lapis",
+        "count": 3
+      },
+      {
+        "name": "Condensado de Slime",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de topacio prithiva",
+        "count": 3
+      },
+      {
+        "name": "Pilar de basalto",
+        "count": 2
+      },
+      {
+        "name": "Cor lapis",
+        "count": 10
+      },
+      {
+        "name": "Condensado de Slime",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de topacio prithiva",
+        "count": 6
+      },
+      {
+        "name": "Pilar de basalto",
+        "count": 4
+      },
+      {
+        "name": "Cor lapis",
+        "count": 20
+      },
+      {
+        "name": "Babas de Slime",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Trozo de topacio prithiva",
+        "count": 3
+      },
+      {
+        "name": "Pilar de basalto",
+        "count": 8
+      },
+      {
+        "name": "Cor lapis",
+        "count": 30
+      },
+      {
+        "name": "Babas de Slime",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Trozo de topacio prithiva",
+        "count": 6
+      },
+      {
+        "name": "Pilar de basalto",
+        "count": 12
+      },
+      {
+        "name": "Cor lapis",
+        "count": 45
+      },
+      {
+        "name": "Esencia de Slime",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Topacio prithiva",
+        "count": 6
+      },
+      {
+        "name": "Pilar de basalto",
+        "count": 20
+      },
+      {
+        "name": "Cor lapis",
+        "count": 60
+      },
+      {
+        "name": "Esencia de Slime",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Character_Zhongli_Card.png",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/7/7d/Character_Zhongli_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Zhongli.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201123/2020112310503599073.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201123/2020112310504363585.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/693b8a54de3e9ea43854615c14a5032b.png",
+    "nameicon": "UI_AvatarIcon_Zhongli",
+    "nameiconcard": "UI_AvatarIcon_Zhongli_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Zhongli",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Zhongli",
+    "namesideicon": "UI_AvatarIcon_Side_Zhongli"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Zhongli"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1143.9840087890625,
+      "attack": 19.551000595092773,
+      "defense": 57.436798095703125,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2967.494634443574,
+      "attack": 50.71529752007109,
+      "defense": 148.99106006650982,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3948.357427412324,
+      "attack": 67.47729665032011,
+      "defense": 198.23906116514263,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5908.002102109254,
+      "attack": 100.96816182572184,
+      "defense": 296.62829969919403,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 6604.931057187379,
+      "attack": 112.87796330887613,
+      "defense": 331.62029646433075,
+      "specialized": 0.07199999690055847
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 7599.053112821595,
+      "attack": 129.86778200561912,
+      "defense": 381.5328715993528,
+      "specialized": 0.07199999690055847
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 8528.29163821222,
+      "attack": 145.7475828021279,
+      "defense": 428.18886982933327,
+      "specialized": 0.14399999380111694
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 9532.709349183715,
+      "attack": 162.9133570734939,
+      "defense": 478.6183660684328,
+      "specialized": 0.14399999380111694
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 10229.638060121215,
+      "attack": 174.82315474195093,
+      "defense": 513.610370462964,
+      "specialized": 0.14399999380111694
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 11243.208070830384,
+      "attack": 192.14534432703022,
+      "defense": 564.4993825590209,
+      "specialized": 0.14399999380111694
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 11940.137025908509,
+      "attack": 204.05524499231342,
+      "defense": 599.4913869535521,
+      "specialized": 0.2160000056028366
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 12965.146593048645,
+      "attack": 221.57293973556898,
+      "defense": 650.9547527888062,
+      "specialized": 0.2160000056028366
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 13662.07554812677,
+      "attack": 233.482737404026,
+      "defense": 685.9467419245484,
+      "specialized": 0.2879999876022339
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 14695.093513910891,
+      "attack": 251.1372978774416,
+      "defense": 737.81219098164,
+      "specialized": 0.2879999876022339
+    }
+  },
+  "version": "1.1",
+  "constellations": {
+    "c1": {
+      "name": "Roca, el núcleo de la Tierra",
+      "effect": "**Dominus lapidis** puede crear un máximo de 2 crestas de piedra al mismo tiempo."
+    },
+    "c2": {
+      "name": "Piedra, el origen del jade",
+      "effect": "Al caer **Lluvia estelar**, otorga un escudo de jade a los personajes en uso cercanos."
+    },
+    "c3": {
+      "name": "Jade, el brillo del crepúsculo",
+      "effect": "Aumenta el nivel de habilidad de **Dominus lapidis** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c4": {
+      "name": "Topacio, indestructible e intrépido",
+      "effect": "Aumenta el AdE de **Lluvia estelar** en un 20%.\nAdemás, aumenta en 2 s la duración de Petrificación de Lluvia estelar."
+    },
+    "c5": {
+      "name": "Lapislázuli, el heraldo del orden",
+      "effect": "Aumenta el nivel de habilidad de **Lluvia estelar** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c6": {
+      "name": "Chrysos, la generosidad del dominador",
+      "effect": "Cuando el escudo de jade recibe daño, el 40% del daño recibido se convierte en Vida para el personaje en uso.\nNo se puede recuperar más del 8% de la Vida Máx. del personaje cada vez que se activa el efecto."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Zhongli_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Zhongli_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Zhongli_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Zhongli_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Zhongli_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Zhongli_04.png",
+      "constellation": "Eff_UI_Talent_Zhongli"
+    },
+    "version": "1.1"
+  },
+  "talent": {
+    "name": "Zhongli",
+    "combat1": {
+      "name": "Ataque Normal: Lluvia pétrea",
+      "info": "**Ataque Normal**\nRealiza hasta 6 ataques rápidos con lanza.\n\n**Ataque Cargado**\nConsume una cierta cantidad de Aguante para lanzarse al frente, haciendo que caigan lanzas de piedra en su camino.\n\n**Ataque Descendente**\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "attributes": [
+        {
+          "name": "Daño de 1er golpe",
+          "parameters": [
+            "30.77%",
+            "33.27%",
+            "35.78%",
+            "39.36%",
+            "41.86%",
+            "44.72%",
+            "48.66%",
+            "52.59%",
+            "56.53%",
+            "60.82%",
+            "65.74%",
+            "71.53%",
+            "77.31%",
+            "83.10%",
+            "89.41%"
+          ]
+        },
+        {
+          "name": "Daño de 2.º golpe",
+          "parameters": [
+            "31.15%",
+            "33.69%",
+            "36.22%",
+            "39.85%",
+            "42.38%",
+            "45.28%",
+            "49.26%",
+            "53.25%",
+            "57.23%",
+            "61.58%",
+            "66.56%",
+            "72.42%",
+            "78.27%",
+            "84.13%",
+            "90.52%"
+          ]
+        },
+        {
+          "name": "Daño de 3er golpe",
+          "parameters": [
+            "38.58%",
+            "41.72%",
+            "44.86%",
+            "49.34%",
+            "52.48%",
+            "56.07%",
+            "61.00%",
+            "65.94%",
+            "70.87%",
+            "76.26%",
+            "82.42%",
+            "89.68%",
+            "96.93%",
+            "104.18%",
+            "112.10%"
+          ]
+        },
+        {
+          "name": "Daño de 4.º golpe",
+          "parameters": [
+            "42.94%",
+            "46.43%",
+            "49.93%",
+            "54.92%",
+            "58.42%",
+            "62.41%",
+            "67.90%",
+            "73.40%",
+            "78.89%",
+            "84.88%",
+            "91.74%",
+            "99.82%",
+            "107.89%",
+            "115.97%",
+            "124.77%"
+          ]
+        },
+        {
+          "name": "Daño de 5.º golpe",
+          "parameters": [
+            "10.75% ×4",
+            "11.63% ×4",
+            "12.50% ×4",
+            "13.75% ×4",
+            "14.62% ×4",
+            "15.63% ×4",
+            "17.00% ×4",
+            "18.38% ×4",
+            "19.75% ×4",
+            "21.25% ×4",
+            "22.97% ×4",
+            "24.99% ×4",
+            "27.01% ×4",
+            "29.03% ×4",
+            "31.24% ×4"
+          ]
+        },
+        {
+          "name": "Daño de 6.º golpe",
+          "parameters": [
+            "54.50%",
+            "58.93%",
+            "63.37%",
+            "69.70%",
+            "74.14%",
+            "79.21%",
+            "86.18%",
+            "93.15%",
+            "100.12%",
+            "107.73%",
+            "116.44%",
+            "126.69%",
+            "136.93%",
+            "147.18%",
+            "158.36%"
+          ]
+        },
+        {
+          "name": "Daño de ATQ Cargado",
+          "parameters": [
+            "111.03%",
+            "120.06%",
+            "129.10%",
+            "142.01%",
+            "151.05%",
+            "161.37%",
+            "175.58%",
+            "189.78%",
+            "203.98%",
+            "219.47%",
+            "237.22%",
+            "258.10%",
+            "278.97%",
+            "299.85%",
+            "322.62%"
+          ]
+        },
+        {
+          "name": "Coste de Aguante de ATQ Cargado",
+          "parameters": [
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts."
+          ]
+        },
+        {
+          "name": "Daño de Caída",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "Daño de impacto de caída baja/alta",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Dominus lapidis",
+      "info": "Cada montaña, roca y centímetro de la tierra contiene poder Geo, pero solo unos pocos pueden usar libremente tal poder.\n\n**Pulsar una vez**\nOrdena al poder Geo de la tierra que se solidifique en una cresta de piedra.\n\n**Mantener pulsado**\nHace que los elementos Geo cercanos exploten, provocando los siguientes efectos:\n·Si aún no se ha alcanzado la cantidad máxima de crestas de piedra, invocará una cresta de piedra.\n·Crea un escudo de jade. La cantidad de absorción de daño del escudo es proporcional a la Vida Máx. de Zhongli.\n·Inflige Daño Geo en el AdE.\n·Si hay enemigos cercanos afectados por el elemento Geo, absorberá una gran cantidad de dicho elemento de un máximo de dos objetivos afectados por él. Este efecto no causa daño.\n\n**Cresta de piedra**\nAl ser creada, inflige Daño Geo en el AdE.\nLa cresta de piedra resonará con las creaciones Geo cercanas, infligiendo Daño Geo a los enemigos cercanos.\nLa cresta de piedra es considerada una creación Geo, y puede escalarse y usarse para bloquear ataques. Solo puede existir una al mismo tiempo.\n\n**Escudo de jade**\nTiene un 150% de eficiencia de absorción contra todo el Daño Elemental y el Daño Físico.\nCuando un personaje se encuentra protegido por este escudo, todas las RES Elementales y la RES Física de los enemigos cercanos a él en una pequeña AdE se reducen en un 20%. Este efecto no puede acumularse.",
+      "description": "Un verdadero maestro de la piedra puede tallar jade y dar forma al oro.",
+      "attributes": [
+        {
+          "name": "Daño de cresta de piedra/Daño de resonancia",
+          "parameters": [
+            "16.00%/32.00%",
+            "17.20%/34.40%",
+            "18.40%/36.80%",
+            "20.00%/40.00%",
+            "21.20%/42.40%",
+            "22.40%/44.80%",
+            "24.00%/48.00%",
+            "25.60%/51.20%",
+            "27.20%/54.40%",
+            "28.80%/57.60%",
+            "30.40%/60.80%",
+            "32.00%/64.00%",
+            "34.00%/68.00%",
+            "36.00%/72.00%",
+            "38.00%/76.00%"
+          ]
+        },
+        {
+          "name": "TdE al pulsar una vez",
+          "parameters": [
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s"
+          ]
+        },
+        {
+          "name": "Daño al mantener pulsado",
+          "parameters": [
+            "80.00%",
+            "86.00%",
+            "92.00%",
+            "100.00%",
+            "106.00%",
+            "112.00%",
+            "120.00%",
+            "128.00%",
+            "136.00%",
+            "144.00%",
+            "152.00%",
+            "160.00%",
+            "170.00%",
+            "180.00%",
+            "190.00%"
+          ]
+        },
+        {
+          "name": "Absorción base de escudo",
+          "parameters": [
+            "1232",
+            "1356",
+            "1489",
+            "1633",
+            "1787",
+            "1951",
+            "2126",
+            "2311",
+            "2506",
+            "2712",
+            "2927",
+            "3153",
+            "3389",
+            "3636",
+            "3893"
+          ]
+        },
+        {
+          "name": "Absorción adicional del escudo",
+          "parameters": [
+            "12.80% de Vida Máx.",
+            "13.76% de Vida Máx.",
+            "14.72% de Vida Máx.",
+            "16.00% de Vida Máx.",
+            "16.96% de Vida Máx.",
+            "17.92% de Vida Máx.",
+            "19.20% de Vida Máx.",
+            "20.48% de Vida Máx.",
+            "21.76% de Vida Máx.",
+            "23.04% de Vida Máx.",
+            "24.32% de Vida Máx.",
+            "25.60% de Vida Máx.",
+            "27.20% de Vida Máx.",
+            "28.80% de Vida Máx.",
+            "30.40% de Vida Máx."
+          ]
+        },
+        {
+          "name": "Duración del escudo",
+          "parameters": [
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s"
+          ]
+        },
+        {
+          "name": "TdE de mantener pulsado",
+          "parameters": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Lluvia estelar",
+      "info": "Atrae un meteorito a la tierra, causando Daño Geo masivo a los enemigos dentro de su AdE y aplicando el efecto de Petrificación.\n\n**Petrificación**\nLos enemigos bajo el efecto de Petrificación no pueden moverse.",
+      "description": "El meteorito que cae castiga a los injustos.",
+      "attributes": [
+        {
+          "name": "Daño de habilidad",
+          "parameters": [
+            "401.08%",
+            "444.44%",
+            "487.80%",
+            "542.00%",
+            "590.78%",
+            "639.56%",
+            "704.60%",
+            "769.64%",
+            "834.68%",
+            "899.72%",
+            "964.76%",
+            "1029.80%",
+            "1084.00%",
+            "1138.20%",
+            "1192.40%"
+          ]
+        },
+        {
+          "name": "Tiempo de petrificación",
+          "parameters": [
+            "3.0999999046325684 s",
+            "3.200000047683716 s",
+            "3.299999952316284 s",
+            "3.4000000953674316 s",
+            "3.5 s",
+            "3.5999999046325684 s",
+            "3.700000047683716 s",
+            "3.799999952316284 s",
+            "3.9000000953674316 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s"
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        },
+        {
+          "name": "Energía Elemental",
+          "parameters": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Ondas resonantes",
+      "info": "Cuando el escudo de jade recibe daño, se fortalece.\n·Cuando un personaje que está protegido por el escudo de jade recibe daño, su Protección de Escudo aumenta en un 5%.\n·Este efecto puede acumularse hasta 5 veces y dura hasta que desaparezca el escudo de jade."
+    },
+    "passive2": {
+      "name": "Dominio de la Tierra",
+      "info": "El daño infligido por los siguientes ataques de Zhongli aumenta en proporción a su Vida Máx.:\n·Aumenta el daño de Ataque Normal, Ataque Cargado y Ataque Descendente en un 1.39% de su Vida Máx.\n·Aumenta en un 1.9% de su Vida Máx. el daño de resonancia de la cresta de piedra de **Dominus lapidis**, así como el daño de mantener pulsado.\n·Aumenta el daño de **Lluvia estelar** en un 33% de la Vida Máx. de Zhongli."
+    },
+    "passive3": {
+      "name": "Cristal del destino",
+      "info": "Recupera el 15% de los minerales utilizados en la fabricación de lanzas."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseñanzas del oro",
+          "count": 3
+        },
+        {
+          "name": "Condensado de Slime",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guía del oro",
+          "count": 2
+        },
+        {
+          "name": "Babas de Slime",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guía del oro",
+          "count": 4
+        },
+        {
+          "name": "Babas de Slime",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guía del oro",
+          "count": 6
+        },
+        {
+          "name": "Babas de Slime",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guía del oro",
+          "count": 9
+        },
+        {
+          "name": "Babas de Slime",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofía del oro",
+          "count": 4
+        },
+        {
+          "name": "Esencia de Slime",
+          "count": 4
+        },
+        {
+          "name": "Cuerno de Monoceros Caeli",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofía del oro",
+          "count": 6
+        },
+        {
+          "name": "Esencia de Slime",
+          "count": 6
+        },
+        {
+          "name": "Cuerno de Monoceros Caeli",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofía del oro",
+          "count": 12
+        },
+        {
+          "name": "Esencia de Slime",
+          "count": 9
+        },
+        {
+          "name": "Cuerno de Monoceros Caeli",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofía del oro",
+          "count": 16
+        },
+        {
+          "name": "Esencia de Slime",
+          "count": 12
+        },
+        {
+          "name": "Cuerno de Monoceros Caeli",
+          "count": 2
+        },
+        {
+          "name": "Corona de la sabiduría",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_03",
+      "combat2": "Skill_S_Zhongli_01",
+      "combat3": "Skill_E_Zhongli_01_HD",
+      "passive1": "UI_Talent_S_Zhongli_05",
+      "passive2": "UI_Talent_S_Zhongli_06",
+      "passive3": "UI_Talent_Forge_Pole"
+    },
+    "version": "1.1"
+  }
+}

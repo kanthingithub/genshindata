@@ -1,0 +1,20 @@
+{
+  "name": "常燃の火種",
+  "description": "永遠に燃え続ける爆炎樹のエネルギー源である種。世の中にある全ての草木を焼き尽くすような炎元素の熱量を放っている。\n大地の深所で湧いているエネルギーは無数の願いを背負っている。烈火と共に植物に纏って永遠に燃えさせて、そして爆裂の炎で全てを浄化させようとしている。いったいどんな願いかな？",
+  "sortorder": 1793,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "キャラクター育成素材",
+  "source": [
+    "爆炎樹（Lv.30以上）でドロップ"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Everflame_Seed.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Item_Everflame_Seed.png",
+    "nameicon": "UI_ItemIcon_113011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Everflame_Seed"
+  },
+  "version": ""
+}

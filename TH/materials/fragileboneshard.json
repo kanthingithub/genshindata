@@ -1,0 +1,23 @@
+{
+  "name": "Fragile Bone Remains",
+  "description": "เศษกระดูกบางอย่างที่หาได้จาก Geovishap ถึงแม้ว่าจะเปราะบางแบบสุด ๆ แต่ดูเหมือนว่ามันจะครอบครองพลังบางอย่างที่ไม่สามารถอธิบายได้อยู่",
+  "sortorder": 1759,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ดรอปจาก Geovishap Hatchling",
+    "ดรอปจาก Geovishap",
+    "ดรอปจาก Bathysmal Vishap",
+    "แลกเปลี่ยนด้วย Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragile_Bone_Shard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Item_Fragile_Bone_Shard.png",
+    "nameicon": "UI_ItemIcon_112041"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fragile_Bone_Shard"
+  },
+  "version": ""
+}

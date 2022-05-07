@@ -1,0 +1,22 @@
+{
+  "name": "Mảnh Phù Sinh Thạch",
+  "description": "Nguyên liệu chế tạo Đèn Tiêu trong Tết Hải Đăng.\nLà mảnh nguyên tố thần bí có thể tự bay bồng bềnh, là bí mật giúp Đèn Tiêu bay lên cao. Nghe nói cũng là nguồn gốc động lực khiến Quần Ngọc Các bay trên không.",
+  "sortorder": 2289,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Nguyên Liệu Tết Hải Đăng",
+  "source": [
+    "Nhận từ khoáng sản thu thập được",
+    "Rơi ra từ Rồng Đất Nhỏ Nham, Rồng Đất Nham",
+    "Sinh ra từ Vua Mũ Đá Hilichurl"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Plaustrite_Shard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/78/Item_Plaustrite_Shard.png",
+    "nameicon": "UI_ItemIcon_200003"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Plaustrite_Shard"
+  },
+  "version": ""
+}

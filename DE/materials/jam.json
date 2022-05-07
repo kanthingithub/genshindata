@@ -1,0 +1,19 @@
+{
+  "name": "Konfitüre",
+  "description": "Eine eingekochte Masse aus Früchten und Zucker. Ein kleines Löffelchen voll befreit einen selbst von der größten Müdigkeit.",
+  "sortorder": 1531,
+  "category": "EXCHANGE",
+  "materialtype": "Zutat",
+  "source": [
+    "Beim Verarbeiten von Gerichten zu erhalten"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Jam.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Item_Jam.png",
+    "nameicon": "UI_ItemIcon_110008"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Jam"
+  },
+  "version": ""
+}

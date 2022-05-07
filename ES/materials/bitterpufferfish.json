@@ -1,0 +1,20 @@
+{
+  "name": "Pez globo amargo",
+  "description": "Una subespecie de pez globo poco común. Como su propio nombre indica, esta criatura esparce amargor donde quiera que vaya. Su chorro de agua es más lento y más pequeño que el de sus parientes, pero su poder de ataque es comparable gracias a las feromonas excepcionalmente amargas que contiene el agua que escupe. Durante la fase de cortejo se puede ver a los machos y las hembras lanzándose chorros mutuamente. Tal vez compartir las amarguras de la vida también es una manifestación de amor.",
+  "sortorder": 2033,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Pez",
+  "source": [
+    "Pescar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bitter_Pufferfish.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Bitter_Pufferfish.png",
+    "nameicon": "UI_ItemIcon_131020"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bitter_Pufferfish"
+  },
+  "version": ""
+}

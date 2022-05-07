@@ -1,0 +1,207 @@
+{
+  "name": "Azhdaha",
+  "specialname": "Azhdaha",
+  "enemytype": "BOSS",
+  "category": "ศัตรูที่น่าจดจำ",
+  "description": "มังกรยักษ์โบราณที่มีอายุยืนยาวดั่งขุนเขา\nครั้งหนึ่งในอดีตอันไกลโพ้นเคยยืนเคียงบ่าเคียงไหล่กับราชาผู้ปกครองท่าเรือแห่งหิน แต่ในท้ายที่สุดก็เกิดความขัดแย้งและถูกกำราบอยู่ในสถานที่อันมืดมิดซึ่งอยู่ลึกลงไปใต้พื้นดิน ในช่วงหลายปีที่ผ่านมามันค่อย ๆ สูญเสียพลัง และรูปร่างก็บิดเบี้ยวไป\nเสียงสั่นอันแผ่วเบาของห่วงโซ่ และเสียงคำรามแห่งความโกรธเกรี้ยวของราชามังกรนั้น ยังคงดังก้องอยู่ท่ามกลางแนวเทือกเขาราวกับความทรงจำแห่งอดีตกาล",
+  "rewardpreview": [
+    {
+      "name": "Adventure EXP",
+      "count": 300
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Friendship EXP"
+    },
+    {
+      "name": "Agnidus Agate Sliver"
+    },
+    {
+      "name": "Agnidus Agate Fragment"
+    },
+    {
+      "name": "Agnidus Agate Chunk"
+    },
+    {
+      "name": "Agnidus Agate Gemstone"
+    },
+    {
+      "name": "Vajrada Amethyst Sliver"
+    },
+    {
+      "name": "Vajrada Amethyst Fragment"
+    },
+    {
+      "name": "Vajrada Amethyst Chunk"
+    },
+    {
+      "name": "Vajrada Amethyst Gemstone"
+    },
+    {
+      "name": "Prithiva Topaz Silver"
+    },
+    {
+      "name": "Prithiva Topaz Fragment"
+    },
+    {
+      "name": "Prithiva Topaz Chunk"
+    },
+    {
+      "name": "Prithiva Topaz Gemstone"
+    },
+    {
+      "name": "Dream Solvent",
+      "count": 0.33
+    },
+    {
+      "name": "Dragon Lord's Crown"
+    },
+    {
+      "name": "Bloodpearl Branch"
+    },
+    {
+      "name": "Gilded Scale"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "3"
+    },
+    {
+      "name": "The Exile",
+      "rarity": "3"
+    },
+    {
+      "name": "Gladiator's Finale",
+      "rarity": "4"
+    },
+    {
+      "name": "Wanderer's Troupe",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "4"
+    },
+    {
+      "name": "The Exile",
+      "rarity": "4"
+    },
+    {
+      "name": "Gladiator's Finale",
+      "rarity": "5"
+    },
+    {
+      "name": "Wanderer's Troupe",
+      "rarity": "5"
+    },
+    {
+      "name": "Northlander Sword Billet"
+    },
+    {
+      "name": "Northlander Bow Billet"
+    },
+    {
+      "name": "Northlander Claymore Billet"
+    },
+    {
+      "name": "Northlander Catalyst Billet"
+    },
+    {
+      "name": "Northlander Polearm Billet"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Dahaka"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 2625.011753451079,
+      "attack": 76.13319315582885,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 10317.74592899729,
+      "attack": 203.4083293985932,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 31867.200046165846,
+      "attack": 501.7499019824463,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 53020.81175860064,
+      "attack": 819.5298012541898,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 97014.58068536595,
+      "attack": 1225.2416554312222,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 179873.43321329355,
+      "attack": 1889.4817435136356,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 301725.17327204347,
+      "attack": 2660.773141056823,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 469871.0149460323,
+      "attack": 3673.071566613973,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 668366.1914580837,
+      "attack": 4725.795096868649,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 876747.1203872189,
+      "attack": 5709.411795508931,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 1323544.3754435778,
+      "attack": 7386.62659546989,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 1926083.2939809859,
+      "attack": 7533.291466042516,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 2591507.4020418227,
+      "attack": 7680.983199416427,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

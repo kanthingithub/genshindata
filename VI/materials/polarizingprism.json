@@ -1,0 +1,21 @@
+{
+  "name": "Lăng Kính Phân Cực",
+  "description": "Lăng kính có thể làm lệch hướng ánh sáng.\nTrong bóng tối, lăng kính có thể biến tia sáng nhỏ thành một vùng sáng lớn hơn. Có lẽ vì đặc điểm đó mà loại lăng kính này có sức mạnh khiến những người có trái tim bị bao phủ bởi bóng tối cảm thấy thanh thản hơn.",
+  "sortorder": 1770,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Ghép Nhận",
+    "Fatui - Quý Cô Snezhnaya cấp 60 trở lên rơi"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Polarizing_Prism.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Item_Polarizing_Prism.png",
+    "nameicon": "UI_ItemIcon_112052"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Polarizing_Prism"
+  },
+  "version": ""
+}

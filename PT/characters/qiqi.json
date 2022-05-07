@@ -1,0 +1,914 @@
+{
+  "name": "Qiqi",
+  "fullname": "Qiqi",
+  "title": "Ressurreição Gélida",
+  "description": "Uma aprendiz e colhedora de ervas no Chalé de Bubu. Uma morta-viva com pele branca como osso, ela raramente tem muitas palavras ou emoções.",
+  "rarity": "5",
+  "element": "Cryo",
+  "weapontype": "Espada",
+  "substat": "Bônus de Cura",
+  "gender": "Feminino",
+  "body": "LOLI",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Chalé de Bubu",
+  "birthdaymmdd": "3/3",
+  "birthday": "3 de março",
+  "constellation": "Pristina Nola",
+  "cv": {
+    "english": "Christie Cate",
+    "chinese": "宴宁",
+    "japanese": "田村ゆかり",
+    "korean": "Lee Seul"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Lasca de Jade Shivada",
+        "count": 1
+      },
+      {
+        "name": "Violeta",
+        "count": 3
+      },
+      {
+        "name": "Pergaminho Guia",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de Jade Shivada",
+        "count": 3
+      },
+      {
+        "name": "Núcleo de Geada",
+        "count": 2
+      },
+      {
+        "name": "Violeta",
+        "count": 10
+      },
+      {
+        "name": "Pergaminho Guia",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de Jade Shivada",
+        "count": 6
+      },
+      {
+        "name": "Núcleo de Geada",
+        "count": 4
+      },
+      {
+        "name": "Violeta",
+        "count": 20
+      },
+      {
+        "name": "Pergaminho do Encantamento",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Pedaço de Jade Shivada",
+        "count": 3
+      },
+      {
+        "name": "Núcleo de Geada",
+        "count": 8
+      },
+      {
+        "name": "Violeta",
+        "count": 30
+      },
+      {
+        "name": "Pergaminho do Encantamento",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Pedaço de Jade Shivada",
+        "count": 6
+      },
+      {
+        "name": "Núcleo de Geada",
+        "count": 12
+      },
+      {
+        "name": "Violeta",
+        "count": 45
+      },
+      {
+        "name": "Pergaminho da Maldição",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Gema de Jade Shivada",
+        "count": 6
+      },
+      {
+        "name": "Núcleo de Geada",
+        "count": 20
+      },
+      {
+        "name": "Violeta",
+        "count": 60
+      },
+      {
+        "name": "Pergaminho da Maldição",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Character_Qiqi_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Character_Qiqi_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Qiqi.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817145380161.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817153781489.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/d696551575bc6c117462563fc92eae6c.png",
+    "nameicon": "UI_AvatarIcon_Qiqi",
+    "nameiconcard": "UI_AvatarIcon_Qiqi_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Qiqi",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Qiqi",
+    "namesideicon": "UI_AvatarIcon_Side_Qiqi"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Qiqi"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 962.8532104492188,
+      "attack": 22.3439998626709,
+      "defense": 71.7959976196289,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2497.6413252396014,
+      "attack": 57.96033790251158,
+      "defense": 186.23882508313727,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3323.2008955521014,
+      "attack": 77.11689880033873,
+      "defense": 247.7988264564283,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4972.5685019830125,
+      "attack": 115.3921718862457,
+      "defense": 370.78537462399254,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5559.1502890923875,
+      "attack": 129.00341036585996,
+      "defense": 414.52537630245934,
+      "specialized": 0.055399999022483826
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6395.86968856983,
+      "attack": 148.42034530892943,
+      "defense": 476.9160952212369,
+      "specialized": 0.055399999022483826
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7177.978819429205,
+      "attack": 166.5686645533142,
+      "defense": 535.2360872866666,
+      "specialized": 0.11079999804496765
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8023.363728842989,
+      "attack": 186.18669157431032,
+      "defense": 598.272957585541,
+      "specialized": 0.11079999804496765
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8609.945515952364,
+      "attack": 199.7979319612732,
+      "defense": 642.0129630787051,
+      "specialized": 0.11079999804496765
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9463.033611003106,
+      "attack": 219.59471933425903,
+      "defense": 705.6242281987761,
+      "specialized": 0.11079999804496765
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10049.61539811248,
+      "attack": 233.20596353591918,
+      "defense": 749.3642336919402,
+      "specialized": 0.16619999706745148
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 10912.331786523137,
+      "attack": 253.22618536721802,
+      "defense": 813.6934409860078,
+      "specialized": 0.16619999706745148
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11498.913573632512,
+      "attack": 266.83742193948365,
+      "defense": 857.4334312203828,
+      "specialized": 0.2214999943971634
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12368.370364256552,
+      "attack": 287.0140617423858,
+      "defense": 922.2652425417473,
+      "specialized": 0.2214999943971634
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Ascéticos do Gelo",
+      "effect": "Quando o Arauto da Floresta atinge um inimigo marcado pelo Talismã da Preservação da Fortuna, Qiqi regenera 2 de Energia."
+    },
+    "c2": {
+      "name": "Congelando até os Ossos",
+      "effect": "O Dano do Ataque Normal e Ataque Carregado de Qiqi contra os inimigos afetados por Cryo aumentam 15%."
+    },
+    "c3": {
+      "name": "Elogio Ascendente",
+      "effect": "Aumenta o Nível de **Arte do Adeptus: Preservador da Fortuna** em 3.\nPode ser elevado até Nv.15."
+    },
+    "c4": {
+      "name": "Supressão Divina",
+      "effect": "Os alvos marcados com o Talismã da Preservação da Fortuna terão seu ATQ reduzidos em 20%."
+    },
+    "c5": {
+      "name": "Flor de Lótus Carmesim",
+      "effect": "Aumenta o Nível de **Arauto da Floresta** em 3.\nPode ser elevado até Nv.15."
+    },
+    "c6": {
+      "name": "Ritual de Ressurreição",
+      "effect": "Ao usar a **Arte do Adeptus: Preservador da Fortuna**, revive todos os personagens de equipe caídos ao redor e regenera 50% da Vida deles.\nEste efeito pode ocorrer apenas uma vez a cada 15 min."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Qiqi_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Qiqi_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Qiqi_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Qiqi_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Qiqi_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Qiqi_04.png",
+      "constellation": "Eff_UI_Talent_Qiqi"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Qiqi",
+    "combat1": {
+      "name": "Ataque Normal: Arte da Espada Antiga",
+      "info": "**Ataque Normal**\nRealiza até 5 golpes rápidos.\n\n**Ataque Carregado**\nConsome uma certa quantidade de Stamina para desferir 2 golpes rápidos com a espada.\n\n**Ataque Imersivo**\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+      "attributes": [
+        {
+          "name": "Dano do 1° Golpe",
+          "parameters": [
+            "37.75%",
+            "40.83%",
+            "43.90%",
+            "48.29%",
+            "51.36%",
+            "54.87%",
+            "59.70%",
+            "64.53%",
+            "69.36%",
+            "74.63%",
+            "79.90%",
+            "85.17%",
+            "90.43%",
+            "95.70%",
+            "100.97%"
+          ]
+        },
+        {
+          "name": "Dano do 2° Golpe",
+          "parameters": [
+            "38.87%",
+            "42.04%",
+            "45.20%",
+            "49.72%",
+            "52.88%",
+            "56.50%",
+            "61.47%",
+            "66.44%",
+            "71.42%",
+            "76.84%",
+            "82.26%",
+            "87.69%",
+            "93.11%",
+            "98.54%",
+            "103.96%"
+          ]
+        },
+        {
+          "name": "Dano do 3° Golpe",
+          "parameters": [
+            "24.17%+24.17%",
+            "26.13%+26.13%",
+            "28.10%+28.10%",
+            "30.91%+30.91%",
+            "32.88%+32.88%",
+            "35.12%+35.12%",
+            "38.22%+38.22%",
+            "41.31%+41.31%",
+            "44.40%+44.40%",
+            "47.77%+47.77%",
+            "51.14%+51.14%",
+            "54.51%+54.51%",
+            "57.89%+57.89%",
+            "61.26%+61.26%",
+            "64.63%+64.63%"
+          ]
+        },
+        {
+          "name": "Dano do 4° Golpe",
+          "parameters": [
+            "24.68%+24.68%",
+            "26.69%+26.69%",
+            "28.70%+28.70%",
+            "31.57%+31.57%",
+            "33.58%+33.58%",
+            "35.87%+35.87%",
+            "39.03%+39.03%",
+            "42.19%+42.19%",
+            "45.35%+45.35%",
+            "48.79%+48.79%",
+            "52.23%+52.23%",
+            "55.68%+55.68%",
+            "59.12%+59.12%",
+            "62.57%+62.57%",
+            "66.01%+66.01%"
+          ]
+        },
+        {
+          "name": "Dano do 5° Golpe",
+          "parameters": [
+            "63.04%",
+            "68.17%",
+            "73.30%",
+            "80.63%",
+            "85.76%",
+            "91.62%",
+            "99.69%",
+            "107.75%",
+            "115.81%",
+            "124.61%",
+            "133.41%",
+            "142.20%",
+            "151.00%",
+            "159.79%",
+            "168.59%"
+          ]
+        },
+        {
+          "name": "Dano de Ataque Carregado",
+          "parameters": [
+            "64.33%+64.33%",
+            "69.56%+69.56%",
+            "74.80%+74.80%",
+            "82.28%+82.28%",
+            "87.52%+87.52%",
+            "93.50%+93.50%",
+            "101.73%+101.73%",
+            "109.96%+109.96%",
+            "118.18%+118.18%",
+            "127.16%+127.16%",
+            "136.14%+136.14%",
+            "145.11%+145.11%",
+            "154.09%+154.09%",
+            "163.06%+163.06%",
+            "172.04%+172.04%"
+          ]
+        },
+        {
+          "name": "Consumo de Stamina de Ataque Carregado",
+          "parameters": [
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "name": "Dano Durante a Queda",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "Dano de Queda de Baixa/Alta Altitude",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Arte do Adeptus: Arauto da Floresta",
+      "info": "Ao usar o Talismã das Veias Congelantes, Qiqi invoca o Arauto da Floresta, causando Dano Cryo a todos os inimigos ao redor.\n\n**Arauto da Floresta**\nQuando Qiqi atinge um alvo com seu Ataque Normal ou Ataque Carregado, ela regenera Vida para seu próprio personagem e aos personagens aliados ao redor. A Cura aumenta com base no ATQ de Qiqi.\nRegenera Vida ao seu próprio personagem em intervalos regulares.\nSegue o personagem ao redor, causando Dano Cryo aos inimigos em seu caminho.",
+      "description": "Eu uso isso para prevenir o aquecimento e a podridão... dos preciosos ingredientes do Dr. Bai.",
+      "attributes": [
+        {
+          "name": "Dano de Habilidade",
+          "parameters": [
+            "96.00%",
+            "103.20%",
+            "110.40%",
+            "120.00%",
+            "127.20%",
+            "134.40%",
+            "144.00%",
+            "153.60%",
+            "163.20%",
+            "172.80%",
+            "182.40%",
+            "192.00%",
+            "204.00%",
+            "216.00%",
+            "228.00%"
+          ]
+        },
+        {
+          "name": "Regeneração de Vida por Acerto",
+          "parameters": [
+            "10.56% do ATQ +67",
+            "11.35% do ATQ +74",
+            "12.14% do ATQ +81",
+            "13.20% do ATQ +89",
+            "13.99% do ATQ +98",
+            "14.78% do ATQ +107",
+            "15.84% do ATQ +116",
+            "16.90% do ATQ +126",
+            "17.95% do ATQ +137",
+            "19.01% do ATQ +148",
+            "20.06% do ATQ +160",
+            "21.12% do ATQ +172",
+            "22.44% do ATQ +185",
+            "23.76% do ATQ +199",
+            "25.08% do ATQ +213"
+          ]
+        },
+        {
+          "name": "Regeneração Contínua",
+          "parameters": [
+            "69.60% do ATQ +451",
+            "74.82% do ATQ +496",
+            "80.04% do ATQ +544",
+            "87.00% do ATQ +597",
+            "92.22% do ATQ +653",
+            "97.44% do ATQ +713",
+            "104.40% do ATQ +777",
+            "111.36% do ATQ +845",
+            "118.32% do ATQ +916",
+            "125.28% do ATQ +991",
+            "132.24% do ATQ +1070",
+            "139.20% do ATQ +1153",
+            "147.90% do ATQ +1239",
+            "156.60% do ATQ +1329",
+            "165.30% do ATQ +1423"
+          ]
+        },
+        {
+          "name": "Dano do Arauto da Floresta",
+          "parameters": [
+            "36.00%",
+            "38.70%",
+            "41.40%",
+            "45.00%",
+            "47.70%",
+            "50.40%",
+            "54.00%",
+            "57.60%",
+            "61.20%",
+            "64.80%",
+            "68.40%",
+            "72.00%",
+            "76.50%",
+            "81.00%",
+            "85.50%"
+          ]
+        },
+        {
+          "name": "Duração",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "Tempo de Recarga",
+          "parameters": [
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s",
+            "30s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Arte do Adeptus: Preservador da Fortuna",
+      "info": "Qiqi libera o poder do Adeptus selado dentro de si, marcando inimigos próximos com o Amuleto de Preservação da Fortuna que inflige Dano Cryo.\n\n**Amuleto de Preservação da Fortuna**\nQuando inimigos afetados por esse Amuleto recebem Dano, o personagem que causou esse Dano regenera Vida.",
+      "description": "\"Eu sou a Preservadora da Fortuna, a Criada da Ressureição.\"\n— Qiqi não lembra destas palavras.",
+      "attributes": [
+        {
+          "name": "Dano de Habilidade",
+          "parameters": [
+            "284.80%",
+            "306.16%",
+            "327.52%",
+            "356.00%",
+            "377.36%",
+            "398.72%",
+            "427.20%",
+            "455.68%",
+            "484.16%",
+            "512.64%",
+            "541.12%",
+            "569.60%",
+            "605.20%",
+            "640.80%",
+            "676.40%"
+          ]
+        },
+        {
+          "name": "Cura",
+          "parameters": [
+            "90.00% ATQ+577",
+            "96.75% ATQ+635",
+            "103.50% ATQ+698",
+            "112.50% ATQ+765",
+            "119.25% ATQ+837",
+            "126.00% ATQ+914",
+            "135.00% ATQ+996",
+            "144.00% ATQ+1083",
+            "153.00% ATQ+1174",
+            "162.00% ATQ+1270",
+            "171.00% ATQ+1371",
+            "180.00% ATQ+1477",
+            "191.25% ATQ+1588",
+            "202.50% ATQ+1703",
+            "213.75% ATQ+1824"
+          ]
+        },
+        {
+          "name": "Duração",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "Tempo de Recarga",
+          "parameters": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "name": "Energia Elemental",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Métodos que Prolongam a Vida",
+      "info": "Quando um personagem está sob o efeito de **Arte do Adeptus: Arauto da Floresta** aciona uma Reação Elemental, seu Bônus de Cura Recebido é aumentado em 20% por 8 segundos."
+    },
+    "passive2": {
+      "name": "Um Vislumbre do Arcano",
+      "info": "Quando Qiqi atinge inimigos com seus Ataques normais e Carregados, ela tem 50% de chance de aplicar um Talismã de preservação de fortuna a eles por 6s. Este efeito pode ser ativado apenas uma vez a cada 30s."
+    },
+    "passive3": {
+      "name": "Memórias da Vida Passada",
+      "info": "Mostra a localização de **Especialidades de Liyue** próximos no mapa."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Ensinamentos de Prosperidade",
+          "count": 3
+        },
+        {
+          "name": "Pergaminho Guia",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guia de Prosperidade",
+          "count": 2
+        },
+        {
+          "name": "Pergaminho do Encantamento",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guia de Prosperidade",
+          "count": 4
+        },
+        {
+          "name": "Pergaminho do Encantamento",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guia de Prosperidade",
+          "count": 6
+        },
+        {
+          "name": "Pergaminho do Encantamento",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guia de Prosperidade",
+          "count": 9
+        },
+        {
+          "name": "Pergaminho do Encantamento",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofia de Prosperidade",
+          "count": 4
+        },
+        {
+          "name": "Pergaminho da Maldição",
+          "count": 4
+        },
+        {
+          "name": "Cauda do Vento do Norte",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofia de Prosperidade",
+          "count": 6
+        },
+        {
+          "name": "Pergaminho da Maldição",
+          "count": 6
+        },
+        {
+          "name": "Cauda do Vento do Norte",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofia de Prosperidade",
+          "count": 12
+        },
+        {
+          "name": "Pergaminho da Maldição",
+          "count": 9
+        },
+        {
+          "name": "Cauda do Vento do Norte",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofia de Prosperidade",
+          "count": 16
+        },
+        {
+          "name": "Pergaminho da Maldição",
+          "count": 12
+        },
+        {
+          "name": "Cauda do Vento do Norte",
+          "count": 2
+        },
+        {
+          "name": "Coroa da Sabedoria",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_01",
+      "combat2": "Skill_S_Qiqi_01",
+      "combat3": "Skill_E_Qiqi_01_HD",
+      "passive1": "UI_Talent_S_Qiqi_05",
+      "passive2": "UI_Talent_S_Qiqi_06",
+      "passive3": "UI_Talent_Collect_Local_Liyue"
+    },
+    "version": "1.0"
+  }
+}

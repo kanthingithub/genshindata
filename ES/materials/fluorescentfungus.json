@@ -1,0 +1,20 @@
+{
+  "name": "Hongo fluorescente",
+  "description": "Un hongo que reluce levemente y contiene un increíble poder.",
+  "sortorder": 2068,
+  "category": "EXCHANGE",
+  "materialtype": "Objeto típico de Inazuma",
+  "source": [
+    "Recolectar en la naturaleza",
+    "Recolectar en la Isla Tsurumi"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_101209",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fluorescent_Fungus.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Fluorescent_Fungus.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fluorescent_Fungus"
+  },
+  "version": ""
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Ako's Sake Vessel",
+  "description": "Material refinement khusus untuk The Catch.\nPeralatan minum favorit Ako Domeki — seseorang yang mengaku pernah menguasai area Seirai. Material ini terbawa hanyut hingga akhirnya tersangkut di satu kail nelayan.",
+  "sortorder": 2297,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Refinement",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ako's_Sake_Vessel.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Item_Ako%27s_Sake_Vessel.png",
+    "nameicon": "UI_ItemIcon_200107"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ako's_Sake_Vessel"
+  },
+  "version": ""
+}

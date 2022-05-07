@@ -1,0 +1,21 @@
+{
+  "name": "霧虛燈芯",
+  "description": "將本就罕見的霧虛草集結成的束，會散發出幽晦的冥光；提著這種燈的人，則會召來飛螢與不幸。",
+  "sortorder": 1746,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培養素材",
+  "source": [
+    "合成獲得",
+    "60級以上愚人眾·螢術士掉落"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Grass_Wick.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Item_Mist_Grass_Wick.png",
+    "nameicon": "UI_ItemIcon_112028"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Grass_Wick"
+  },
+  "version": ""
+}

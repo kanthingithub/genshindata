@@ -1,0 +1,24 @@
+{
+  "name": "Bài Giảng Của \"Ánh Sáng\"",
+  "description": "Nguyên liệu bồi dưỡng thiên phú.\nƯớc nguyện của Lôi quốc là ánh sáng.\nVị quân tử tự cho mình là thông suốt sẽ luôn cố gắng gặt hái vinh quang trên trời cao. Tuy nhiên, viễn cảnh tham vọng sẽ khiến những người cần nó theo đuổi quyết liệt hơn, giống như những con thiêu thân lao vào lửa.",
+  "sortorder": 1875,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Thiên Phú",
+  "dropdomain": "Bí Cảnh Tinh Thông: Phế Đô Cát Cháy",
+  "daysofweek": [
+    "Thứ 4",
+    "Thứ 7",
+    "Chủ Nhật"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Light.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Item_Teachings_of_Light.png",
+    "nameicon": "UI_ItemIcon_104326"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Light"
+  },
+  "version": ""
+}

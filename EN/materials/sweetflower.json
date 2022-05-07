@@ -1,0 +1,19 @@
+{
+  "name": "Sweet Flower",
+  "description": "Particularly fragrant flowers. They can be found easily, even in the dark. Just follow the scent.",
+  "sortorder": 1978,
+  "category": "EXCHANGE",
+  "materialtype": "Cooking Ingredient",
+  "source": [
+    "Found in the wild"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sweet_Flower.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Item_Sweet_Flower.png",
+    "nameicon": "UI_ItemIcon_100012"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sweet_Flower"
+  },
+  "version": ""
+}

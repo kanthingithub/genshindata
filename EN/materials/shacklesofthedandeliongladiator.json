@@ -1,0 +1,26 @@
+{
+  "name": "Shackles of the Dandelion Gladiator",
+  "description": "Weapon Ascension Material.\nVennessa was not truly bound by her chains. If she had so wished, no ordinary physical constraints forged in Mondstadt could have held her, for the land there yielded no ore of exceptional quality, nor did it possess the divine flame of her ancestral home.\nShe was only bound by her responsibility to take care of her tribespeople.",
+  "sortorder": 2193,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Weapon Ascension Material",
+  "dropdomain": "Domain of Forgery: Ruins of Thirsting Capital",
+  "daysofweek": [
+    "Wednesday",
+    "Saturday",
+    "Sunday"
+  ],
+  "source": [
+    "Crafted"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shackles_of_the_Dandelion_Gladiator.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Item_Shackles_of_the_Dandelion_Gladiator.png",
+    "nameicon": "UI_ItemIcon_114011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shackles_of_the_Dandelion_Gladiator"
+  },
+  "version": ""
+}

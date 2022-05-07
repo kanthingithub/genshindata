@@ -1,0 +1,18 @@
+{
+  "name": "好感度経験値",
+  "description": "好感度のLvUPに使用できる。",
+  "sortorder": 448,
+  "rarity": "3",
+  "category": "ITEM_VIRTUAL",
+  "materialtype": "好感度成長",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_105",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Companionship_EXP.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Item_Companionship_EXP.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Companionship_EXP"
+  },
+  "version": ""
+}

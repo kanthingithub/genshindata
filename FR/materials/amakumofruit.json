@@ -1,0 +1,20 @@
+{
+  "name": "Fruit d'Amakumo",
+  "description": "Le fruit de l'herbe d'Amakumo, qui pousse sur l'Île de Seirai. En le mettant contre votre oreille, vous pouvez entendre comme un petit crépitement de courant électrique.",
+  "sortorder": 2067,
+  "category": "EXCHANGE",
+  "materialtype": "Produit d'Inazuma",
+  "source": [
+    "Dans la nature",
+    "Zone conseillée : Île de Seirai"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Amakumo_Fruit.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Amakumo_Fruit.png",
+    "nameicon": "UI_ItemIcon_101208"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Amakumo_Fruit"
+  },
+  "version": ""
+}

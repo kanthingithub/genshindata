@@ -1,0 +1,20 @@
+{
+  "name": "果酿饵",
+  "description": "十分常见的鱼饵，由日落果与小麦捣碎发酵揉制而成，入水后能够快速雾化，对小型鱼类有着强烈的吸引力。由于其制作简单、价格低廉、效用优秀，因此又被戏称为「钓鱼佬宝珠」。\n\n适用鱼种：鳉鱼类。",
+  "sortorder": 1514,
+  "rarity": "2",
+  "category": "FISH_BAIT",
+  "materialtype": "鱼饵",
+  "source": [
+    "合成获得"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_111023",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fruit_Paste_Bait.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Item_Fruit_Paste_Bait.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fruit_Paste_Bait"
+  },
+  "version": ""
+}

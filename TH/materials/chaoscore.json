@@ -1,0 +1,22 @@
+{
+  "name": "Chaos Core",
+  "description": "สร้างมาจากโบราณวัตถุที่ไม่ได้ใช้งานแล้ว ในอดีตเคยเป็นหัวใจของแหล่งพลังงาน ถ้าหากเข้าใจและสามารถทำให้เทคโนโลยีนี้กลับมาใช้งานได้ใหม่อีกครั้ง บางทีอาจจะเปลี่ยนแปลงโลกนี้ได้",
+  "sortorder": 1743,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ได้รับจากการสรรสร้าง",
+    "ดรอปจาก Ruin Guard Lv.60 ขึ้นไป",
+    "ดรอปจาก Ruin Hunter Lv.60 ขึ้นไป"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Core.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Chaos_Core.png",
+    "nameicon": "UI_ItemIcon_112025"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chaos_Core"
+  },
+  "version": ""
+}

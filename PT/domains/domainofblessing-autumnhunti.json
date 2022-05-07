@@ -1,0 +1,261 @@
+{
+  "name": "Domínio da Bênção: Caça dos Bordos",
+  "region": "Inazuma",
+  "domainEntrance": "Jardim do Outono",
+  "domainType": "Artefatos",
+  "description": "No altar das folhas de bordo flutuantes, assim como entre o verão e o outono, existe uma área fortalecedora do Cryo e Pyro.\nUtilize todos os tipos de maravilhas e tenha sucesso em vencer o Julgamento, assim você poderá obter preciosos Artefatos, ajudando-lhe a buscar a oportunidade que deveria ter sido quebrada.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_ThunderCave_Dq"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domínio da Bênção: Caça dos Bordos I",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Pyro",
+        "Cryo"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 15
+        },
+        {
+          "name": "Resolução de Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Pequeno Milagre",
+          "rarity": "3"
+        },
+        {
+          "name": "Reminescência Nostálgica",
+          "rarity": "4"
+        },
+        {
+          "name": "Selo da Insulação",
+          "rarity": "4"
+        },
+        {
+          "name": "Resolução de Sojourner",
+          "rarity": "4"
+        },
+        {
+          "name": "Pequeno Milagre",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "No desafio, o chão periodicamente mudará para os estados de Bênção das Chamas e Bênção do Gelo. De acordo com as diferenças desses estados, os Personagens em campo obterão efeitos diferentes.",
+        "Bênção das Chamas: Os Personagens em campo obterão 60% de Bônus de Dano Pyro.",
+        "Bênção do Gelo: Os Personagens em campo obterão 60% de Bônus de Dano Cryo."
+      ],
+      "monsterlist": [
+        "Hilichurl Berserker",
+        "Hilichurl Granadeiro Electro",
+        "Hilichurl Atirador Electro",
+        "Slime Electro",
+        "Mitachurl do Machado Electro"
+      ]
+    },
+    {
+      "name": "Domínio da Bênção: Caça dos Bordos II",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "Pyro",
+        "Cryo"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 20
+        },
+        {
+          "name": "Resolução de Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Pequeno Milagre",
+          "rarity": "3"
+        },
+        {
+          "name": "Reminescência Nostálgica",
+          "rarity": "4"
+        },
+        {
+          "name": "Selo da Insulação",
+          "rarity": "4"
+        },
+        {
+          "name": "Resolução de Sojourner",
+          "rarity": "4"
+        },
+        {
+          "name": "Pequeno Milagre",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "No desafio, o chão periodicamente mudará para os estados de Bênção das Chamas e Bênção do Gelo. De acordo com as diferenças desses estados, os Personagens em campo obterão efeitos diferentes.",
+        "Bênção das Chamas: Os Personagens em campo obterão 60% de Bônus de Dano Pyro.",
+        "Bênção do Gelo: Os Personagens em campo obterão 60% de Bônus de Dano Cryo."
+      ],
+      "monsterlist": [
+        "Hilichurl Granadeiro Electro",
+        "Grande Slime Electro",
+        "Grande Slime Mutante",
+        "Mitachurl do Machado Electro"
+      ]
+    },
+    {
+      "name": "Domínio da Bênção: Caça dos Bordos III",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Pyro",
+        "Cryo"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 20
+        },
+        {
+          "name": "Resolução de Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Pequeno Milagre",
+          "rarity": "3"
+        },
+        {
+          "name": "Reminescência Nostálgica",
+          "rarity": "4"
+        },
+        {
+          "name": "Selo da Insulação",
+          "rarity": "4"
+        },
+        {
+          "name": "Resolução de Sojourner",
+          "rarity": "4"
+        },
+        {
+          "name": "Pequeno Milagre",
+          "rarity": "4"
+        },
+        {
+          "name": "Reminescência Nostálgica",
+          "rarity": "5"
+        },
+        {
+          "name": "Selo da Insulação",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "No desafio, o chão periodicamente mudará para os estados de Bênção das Chamas e Bênção do Gelo. De acordo com as diferenças desses estados, os Personagens em campo obterão efeitos diferentes.",
+        "Bênção das Chamas: Os Personagens em campo obterão 60% de Bônus de Dano Pyro.",
+        "Bênção do Gelo: Os Personagens em campo obterão 60% de Bônus de Dano Cryo."
+      ],
+      "monsterlist": [
+        "Grande Slime Electro",
+        "Grande Slime Mutante",
+        "Feiticeiro do Abismo Electro"
+      ]
+    },
+    {
+      "name": "Domínio da Bênção: Caça dos Bordos IV",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "Pyro",
+        "Cryo"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 20
+        },
+        {
+          "name": "Resolução de Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Pequeno Milagre",
+          "rarity": "3"
+        },
+        {
+          "name": "Reminescência Nostálgica",
+          "rarity": "4"
+        },
+        {
+          "name": "Selo da Insulação",
+          "rarity": "4"
+        },
+        {
+          "name": "Resolução de Sojourner",
+          "rarity": "4"
+        },
+        {
+          "name": "Pequeno Milagre",
+          "rarity": "4"
+        },
+        {
+          "name": "Reminescência Nostálgica",
+          "rarity": "5"
+        },
+        {
+          "name": "Selo da Insulação",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "No desafio, o chão periodicamente mudará para os estados de Bênção das Chamas e Bênção do Gelo. De acordo com as diferenças desses estados, os Personagens em campo obterão efeitos diferentes.",
+        "Bênção das Chamas: Os Personagens em campo obterão 60% de Bônus de Dano Pyro.",
+        "Bênção do Gelo: Os Personagens em campo obterão 60% de Bônus de Dano Cryo."
+      ],
+      "monsterlist": [
+        "Grande Slime Electro",
+        "Feiticeiro do Abismo Electro",
+        "Lawachurl da Trovoada"
+      ]
+    }
+  ]
+}

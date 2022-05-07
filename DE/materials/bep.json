@@ -1,0 +1,17 @@
+{
+  "name": "Erlebnispass-EP",
+  "description": "In deinem Tagebuch hältst du alles fest, was du auf deinen Reisen erlebt hast. Dies ist der Stoff, aus dem Epen gemacht werden.",
+  "sortorder": 2256,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "Erlebnispass-EP",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_116001",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_BEP.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/BEP"
+  },
+  "version": ""
+}

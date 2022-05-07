@@ -1,0 +1,319 @@
+{
+  "name": "Domain of Blessing: Spring",
+  "region": "Liyue",
+  "domainEntrance": "Domain of Guyun",
+  "domainType": "Artifacts",
+  "description": "The Ley Line Monolith inside this ancient Ley Line Altar is coveted by the monsters crowding the altar.\nYou shall earn priceless Artifacts if you protect the Ley Line Monolith from the monsters with the power of Electro.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_1"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domain of Blessing: Spring I",
+      "recommendedLevel": 34,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1525
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 15
+        },
+        {
+          "name": "Lucky Dog",
+          "rarity": "2"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Lucky Dog",
+          "rarity": "3"
+        }
+      ],
+      "disorder": [
+        "Electro-Charged DMG increased by 150%, and its AoE is increased by 100%."
+      ],
+      "monsterlist": [
+        "Hydro Slime",
+        "Large Hydro Slime",
+        "Hydro Abyss Mage"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Spring II",
+      "recommendedLevel": 47,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 25,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1700
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 15
+        },
+        {
+          "name": "Lucky Dog",
+          "rarity": "2"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Lucky Dog",
+          "rarity": "3"
+        }
+      ],
+      "disorder": [
+        "When Overloaded is triggered, an Energy Blast will occur, dealing DMG to surrounding opponents."
+      ],
+      "monsterlist": [
+        "Pyro Slime",
+        "Large Pyro Slime",
+        "Pyro Abyss Mage"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Spring III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 15
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Lucky Dog",
+          "rarity": "3"
+        },
+        {
+          "name": "Archaic Petra",
+          "rarity": "4"
+        },
+        {
+          "name": "Retracing Bolide",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "When Superconduct is triggered, an Energy Blast will occur, dealing DMG to surrounding opponents."
+      ],
+      "monsterlist": [
+        "Cryo Slime",
+        "Large Cryo Slime",
+        "Cryo Abyss Mage"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Spring IV",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 20
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Lucky Dog",
+          "rarity": "3"
+        },
+        {
+          "name": "Archaic Petra",
+          "rarity": "4"
+        },
+        {
+          "name": "Retracing Bolide",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Electro-Charged DMG increased by 150%, and its AoE is increased by 100%."
+      ],
+      "monsterlist": [
+        "Hydro Slime",
+        "Large Hydro Slime",
+        "Hilichurl Fighter",
+        "Hydro Samachurl",
+        "Hydro Abyss Mage"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Spring V",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 20
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Lucky Dog",
+          "rarity": "3"
+        },
+        {
+          "name": "Archaic Petra",
+          "rarity": "4"
+        },
+        {
+          "name": "Retracing Bolide",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        },
+        {
+          "name": "Archaic Petra",
+          "rarity": "5"
+        },
+        {
+          "name": "Retracing Bolide",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "When Overloaded is triggered, an Energy Blast will occur, dealing DMG to surrounding opponents.",
+        "When Melt is triggered, you will be hit by a powerful blast, causing your character to take DMG.",
+        "When Vaporize is triggered, you will be hit by a powerful blast, causing your character to take DMG."
+      ],
+      "monsterlist": [
+        "Pyro Abyss Mage",
+        "Ruin Guard"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Spring VI",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 20
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Lucky Dog",
+          "rarity": "3"
+        },
+        {
+          "name": "Archaic Petra",
+          "rarity": "4"
+        },
+        {
+          "name": "Retracing Bolide",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        },
+        {
+          "name": "Archaic Petra",
+          "rarity": "5"
+        },
+        {
+          "name": "Retracing Bolide",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "When Superconduct is triggered, an Energy Blast will occur, dealing DMG to surrounding opponents.",
+        "When Melt is triggered, you will be hit by a powerful blast, causing your character to take DMG.",
+        "When Vaporize is triggered, you will be hit by a powerful blast, causing your character to take DMG."
+      ],
+      "monsterlist": [
+        "Hilichurl Fighter",
+        "Cryo Abyss Mage",
+        "Ruin Hunter"
+      ]
+    }
+  ]
+}

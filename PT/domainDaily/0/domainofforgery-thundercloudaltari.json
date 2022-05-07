@@ -1,0 +1,172 @@
+{
+  "name": "Domínio da Forja: Altar das Tempestades",
+  "region": "Liyue",
+  "domainEntrance": "Palácio Oculto da Fórmula Lianshan",
+  "domainType": "Material de Ascensão de Armas",
+  "description": "Uma energia Electro massiva está fluindo através deste antigo altar de sacrifício.\nOs Elementos Eletro dispersos dissipam constantemente a energia.\nVocê ganhará materiais de fortalecimento de equipamentos, apenas se você puder passar no teste.",
+  "daysOfWeek": [
+    "Segunda-feira",
+    "Quinta-feira",
+    "Domingo"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Thunder"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domínio da Forja: Altar das Tempestades I",
+      "recommendedLevel": 15,
+      "recommendedElements": [
+        "Pyro",
+        "Cryo"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1125
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 10
+        },
+        {
+          "name": "Areia Brilhante de Guyun"
+        }
+      ],
+      "disorder": [
+        "O seu personagem será afetado periodicamente pela Tormenta Devastadora, absorvendo continuamente sua Energia até que o Elemento Electro seja removido."
+      ],
+      "monsterlist": [
+        "Slime Electro",
+        "Grande Slime Electro",
+        "Grande Slime Mutante"
+      ]
+    },
+    {
+      "name": "Domínio da Forja: Altar das Tempestades II",
+      "recommendedLevel": 36,
+      "recommendedElements": [
+        "Pyro",
+        "Cryo"
+      ],
+      "unlockRank": 21,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1550
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 15
+        },
+        {
+          "name": "Areia Brilhante de Guyun"
+        },
+        {
+          "name": "Pedra Lustrosa de Guyun"
+        }
+      ],
+      "disorder": [
+        "O seu personagem será afetado periodicamente pela Tormenta Devastadora, absorvendo continuamente sua Energia até que o Elemento Electro seja removido."
+      ],
+      "monsterlist": [
+        "Slime Electro",
+        "Grande Slime Electro",
+        "Grande Slime Mutante"
+      ]
+    },
+    {
+      "name": "Domínio da Forja: Altar das Tempestades III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Pyro",
+        "Cryo"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 15
+        },
+        {
+          "name": "Areia Brilhante de Guyun"
+        },
+        {
+          "name": "Pedra Lustrosa de Guyun"
+        },
+        {
+          "name": "Relíquia de Guyun"
+        }
+      ],
+      "disorder": [
+        "Seu personagem será periodicamente infligido pela Tormenta Devastadora drenando continuamente sua Energia até que o Elemento Electro seja removido. Relâmpagos cairão periodicamente de cima, causando Dano Electro e drenando completamente a Energia do personagem atingido. Relâmpagos podem deixar para trás uma bola relampejante."
+      ],
+      "monsterlist": [
+        "Grande Slime Electro",
+        "Grande Slime Mutante",
+        "Fatui - Feiticeira Cicin Electro"
+      ]
+    },
+    {
+      "name": "Domínio da Forja: Altar das Tempestades IV",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Pyro",
+        "Cryo"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 20
+        },
+        {
+          "name": "Areia Brilhante de Guyun"
+        },
+        {
+          "name": "Pedra Lustrosa de Guyun"
+        },
+        {
+          "name": "Relíquia de Guyun"
+        },
+        {
+          "name": "Corpo Divino de Guyun"
+        }
+      ],
+      "disorder": [
+        "Seu personagem será periodicamente infligido pela Tormenta Devastadora drenando continuamente sua Energia até que o Elemento Electro seja removido. Relâmpagos cairão periodicamente de cima, causando Dano Electro e drenando completamente a Energia do personagem atingido. Relâmpagos podem deixar para trás uma bola relampejante."
+      ],
+      "monsterlist": [
+        "Grande Slime Electro",
+        "Grande Slime Mutante",
+        "Fatui - Feiticeira Cicin Electro"
+      ]
+    }
+  ]
+}

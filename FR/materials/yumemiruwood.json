@@ -1,0 +1,21 @@
+{
+  "name": "Bois de rêve",
+  "description": "Bois obtenu à partir de cerisier. D'une qualité exquise et gorgé d'humidité, on dit qu'il permet d'avoir des rêves aussi doux que la brise chaude du printemps.\nPeut être utilisé pour fabriquer des décorations.",
+  "sortorder": 1943,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Matériau",
+  "source": [
+    "Dans la nature",
+    "Zone conseillée : Île de Narukami"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Yumemiru_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/61/Item_Yumemiru_Wood.png",
+    "nameicon": "UI_ItemIcon_101309"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Yumemiru_Wood"
+  },
+  "version": ""
+}

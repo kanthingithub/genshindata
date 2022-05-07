@@ -1,0 +1,20 @@
+{
+  "name": "Кровоцвет",
+  "description": "Это яркое растение, прозванное поэтами и писателями «багряный бутон», однажды исчезло с островов Инадзумы, но недавно начало появляться вновь на полях сражений. Говорят, оно цветёт особенно пышно там, где пролилась кровь.",
+  "sortorder": 2063,
+  "category": "EXCHANGE",
+  "materialtype": "Диковина Инадзумы",
+  "source": [
+    "Дикая природа",
+    "Побережье Надзути"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dendrobium.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Item_Dendrobium.png",
+    "nameicon": "UI_ItemIcon_101204"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dendrobium"
+  },
+  "version": ""
+}

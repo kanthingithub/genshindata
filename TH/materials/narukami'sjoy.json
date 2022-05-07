@@ -1,0 +1,26 @@
+{
+  "name": "Narukami's Joy",
+  "description": "วัสดุเลื่อนขั้นอาวุธ\nผู้ที่อยู่ในสำนัก Shogunate ของ Narukami เป็นผู้ที่บริหารและจัดการบรรดากิจการประเภทต่าง ๆ ในเรื่องราวของอสูรที่มีมาช้านานนั้นกล่าวว่า ในอดีตผู้ใกล้ชิดที่ได้รับความไว้วางใจจากโชกุน จะพกเครื่องรางรูปทรงตะขอชนิดนี้ เช่นเดียวกับคำว่า \"สำนัก\" ซึ่งหมายถึง \"การรับใช้ด้วยความสุข\" ผู้ที่ได้รับความโปรดปรานจากเธอก็จะตอบแทนด้วยความรักและความภักดี แต่ครั้นเมื่อเวลาผ่านไปจนถึงจุดนึง ทุกสิ่งก็ย่อมไม่เหมือนเดิมอีกต่อไป",
+  "sortorder": 2212,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุเลื่อนขั้นอาวุธ",
+  "dropdomain": "ดันเจี้ยนแห่งการต่อสู้: แท่นบูชาแห่งทราย",
+  "daysofweek": [
+    "วันอังคาร",
+    "วันศุกร์",
+    "วันอาทิตย์"
+  ],
+  "source": [
+    "ได้รับจากการสรรสร้าง"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Narukami's_Joy.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Narukami%27s_Joy.png",
+    "nameicon": "UI_ItemIcon_114030"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Narukami's_Joy"
+  },
+  "version": ""
+}

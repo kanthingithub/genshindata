@@ -1,0 +1,23 @@
+{
+  "name": "Insigne de nouvelle recrue",
+  "description": "Un insigne servant à identifier les nouvelles recrues. Personne ne sait ni à qui il appartient, ni pourquoi cette personne a décidé de rejoindre l'armée des Fatui.",
+  "sortorder": 1750,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Butin de Tirailleur Fatui",
+    "Butin de certains Usuriers des Fatui",
+    "Butin de certains Mages lucioles des Fatui",
+    "Échange Astrions"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Recruit's_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Item_Recruit%27s_Insignia.png",
+    "nameicon": "UI_ItemIcon_112032"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Recruit's_Insignia"
+  },
+  "version": ""
+}

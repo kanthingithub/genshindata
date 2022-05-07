@@ -1,0 +1,21 @@
+{
+  "name": "Onikabuto",
+  "description": "Ein seltsamer Käfer, der in Gebieten lebt, die reich an Elektro-Energie sind. Sein sanftmütiges und sesshaftes Temperament könnte nicht unterschiedlicher sein als die grimmige, dämonische Visage, die auf seinem Panzer zu sehen ist.",
+  "sortorder": 2060,
+  "category": "EXCHANGE",
+  "materialtype": "Regionale Besonderheit von Inazuma",
+  "source": [
+    "In der freien Natur zu finden",
+    "Empfohlen: Auf Narukami zu finden",
+    "Empfohlen: In Tatarasuna zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Onikabuto.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Onikabuto.png",
+    "nameicon": "UI_ItemIcon_101201"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Onikabuto"
+  },
+  "version": ""
+}

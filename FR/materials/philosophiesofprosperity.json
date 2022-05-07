@@ -1,0 +1,26 @@
+{
+  "name": "Philosophie de la Prospérité",
+  "description": "Matériau d'amélioration d'aptitude.\nLe Pays de la Roche aspire à la prospérité.\nElle incarne le passé, le présent et le futur de Liyue. La cité possède toutes les richesses que nulle autre nation peut oser espérer obtenir.",
+  "sortorder": 1862,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration d'aptitude",
+  "dropdomain": "Donjon de la maîtrise : Autel des flammes",
+  "daysofweek": [
+    "Lundi",
+    "Jeudi",
+    "Dimanche"
+  ],
+  "source": [
+    "Synthèse"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Prosperity.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/Item_Philosophies_of_Prosperity.png",
+    "nameicon": "UI_ItemIcon_104312"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Prosperity"
+  },
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Peixe",
+  "description": "Um filé de peixe fresco. Pode fazer pratos deliciosos se o preparar adequadamente.",
+  "sortorder": 2001,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente",
+  "source": [
+    "Coletado ao pescar peixes"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fish.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Item_Fish.png",
+    "nameicon": "UI_ItemIcon_100084"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fish"
+  },
+  "version": ""
+}

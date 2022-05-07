@@ -1,0 +1,20 @@
+{
+  "name": "Pérola Ardente",
+  "description": "Uma cristalização de um Hypostasis Pyro que constantemente emite calor.\nAs chamas ardentes um dia esfriarão, mas até mesmo a madeira queimada pode voltar a ser uma labareda furiosa. Deve ser então a vontade do mundo que o Hypostasis Pyro precisa esfriar e aquecer constantemente, assim como o universo fervilha com vida sem fim... Até o dia em que a escuridão predestinada descerá e reduzirá tudo a nada.",
+  "sortorder": 1806,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Dropado por Hypostasis Pyro Nv.30+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Smoldering_Pearl.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Item_Smoldering_Pearl.png",
+    "nameicon": "UI_ItemIcon_113024"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Smoldering_Pearl"
+  },
+  "version": ""
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Condimento aromático",
+  "description": "Un condimento creado a partir de una receta de Nazafarin. Debido a su intenso aroma, puede potenciar el sabor de cualquier plato al que se agregue.",
+  "sortorder": 1232,
+  "rarity": "1",
+  "category": "CONSUME",
+  "materialtype": "Consumible",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_101714",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragrant_Seasoning.png"
+  },
+  "version": "2.6"
+}

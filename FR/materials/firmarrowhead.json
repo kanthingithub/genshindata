@@ -1,0 +1,21 @@
+{
+  "name": "Pointe de flèche robuste",
+  "description": "Une pointe de flèche rudimentaire. Bien que son état laisse à désirer, elle peut se révéler mortelle si la flèche est tirée au bon moment.",
+  "sortorder": 1732,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Butin de Tireur Brutocollinus",
+    "Échange Astrions"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Firm_Arrowhead.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_Firm_Arrowhead.png",
+    "nameicon": "UI_ItemIcon_112011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Firm_Arrowhead"
+  },
+  "version": ""
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Песчаное дерево",
+  "description": "Древесина, полученная из песчаного дерева. Обладает исключительной прочностью, устойчива к ветру и дождю и отличается длительным сроком службы.\nСлужит для изготовления декора.",
+  "sortorder": 1950,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Материал",
+  "source": [
+    "Дикая природа",
+    "Яшмовый лес",
+    "Предместье Лиша"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sandbearer_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/36/Item_Sandbearer_Wood.png",
+    "nameicon": "UI_ItemIcon_101304"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sandbearer_Wood"
+  },
+  "version": ""
+}

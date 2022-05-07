@@ -1,0 +1,22 @@
+{
+  "name": "Concealed Unguis",
+  "description": "Jaringan tubuh yang ditinggalkan oleh salah satu dari Riftwolves.\nWalaupun memang sangat menakjubkan, tapi \"Alfisol\" dari para anjing pemburu ini tidak sebanding dengan \"Humus\" Durin.",
+  "sortorder": 1775,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Didapatkan melalui Craft",
+    "Dijatuhkan oleh Riftwolves Lv. 40+",
+    "Penukaran Stardust"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_112057",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Concealed_Unguis.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Item_Concealed_Unguis.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Concealed_Unguis"
+  },
+  "version": ""
+}

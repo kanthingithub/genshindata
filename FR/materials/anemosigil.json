@@ -1,0 +1,20 @@
+{
+  "name": "Sceau Anémo",
+  "description": "Un insigne montrant la reconnaissance des vents de Mondstadt.\nS'échange contre des objets spéciaux dans un lieu spécifique de Mondstadt.",
+  "sortorder": 504,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "Sceau des sept cités-États",
+  "source": [
+    "Exploration de Mondstadt"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_305",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Anemo_Sigil.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Item_Anemo_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Anemo_Sigil"
+  },
+  "version": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "霓裳花",
+  "description": "在璃月如霓雲般盛放的妖紅之花，能製成如水般順滑的織物。",
+  "sortorder": 2050,
+  "category": "EXCHANGE",
+  "materialtype": "璃月區域特產",
+  "source": [
+    "璃月港玉京臺附近採集",
+    "望舒客棧附近採集",
+    "推薦：璃月港採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Silk_Flower.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Item_Silk_Flower.png",
+    "nameicon": "UI_ItemIcon_100029"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Silk_Flower"
+  },
+  "version": ""
+}

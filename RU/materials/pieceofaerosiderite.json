@@ -1,0 +1,26 @@
+{
+  "name": "Кусочек чёрного сидерита",
+  "description": "Материал возвышения оружия.\nВ Ли Юэ часто ходят слухи о страшных морских чудовищах, ведь далеко за пределами Тейвата лежат неизвестные никому земли хаоса, за которыми не следят Семеро Архонтов. Только силы, лежащие далеко за пределами тейватского порядка, могут очернить божественную силу Властелина Камня.",
+  "sortorder": 2204,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Возвышение оружия",
+  "dropdomain": "Воля: Древние испытания молнии",
+  "daysofweek": [
+    "Среда",
+    "Суббота",
+    "Воскресенье"
+  ],
+  "source": [
+    "Алхимия"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Piece_of_Aerosiderite.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Item_Piece_of_Aerosiderite.png",
+    "nameicon": "UI_ItemIcon_114022"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Piece_of_Aerosiderite"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Cá Đuối Divda",
+  "description": "Một con cá kỳ lạ từng được cho là sinh vật huyền bí, chỉ được ghi lại trong một số tác phẩm nghệ thuật cổ trên đảo Watatsumi. Khi phong ấn của Enkanomiya được mở ra, nó đã bắt đầu lộ diện trước mắt mọi người.\nNgười ta nói rằng màu sắc cơ thể của những sinh vật kỳ lạ này sẽ thay đổi theo thời gian. Khi còn nhỏ, chúng có màu vàng như ánh sáng mặt trời. Trong những bức họa cổ, thời kỳ này chúng được gọi là \"Divda\", có nghĩa là \"Chiếc Đuôi Hồn Nhiên\".",
+  "sortorder": 2034,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Cá",
+  "source": [
+    "Câu cá nhận được"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_131021",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Divda_Ray.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Item_Divda_Ray.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Divda_Ray"
+  },
+  "version": ""
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Mặt Nạ Vỡ",
+  "description": "Mặt nạ từ xương bị vỡ, từng thuộc về Hilichurl.\nPhần bị hỏng nhiều hơn phần còn nguyên, đã mất đi tính năng vốn có của mặt nạ.",
+  "sortorder": 1726,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Hilichurl rơi",
+    "Xạ thủ Hilichurl rơi một ít",
+    "Phù Thủy Hilichurl rơi một ít",
+    "Bạo Đồ Hilichurl rơi một ít",
+    "Vua Hilichurl rơi một ít",
+    "Đổi từ Tinh Trần"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Damaged_Mask.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Damaged_Mask.png",
+    "nameicon": "UI_ItemIcon_112005"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Damaged_Mask"
+  },
+  "version": ""
+}

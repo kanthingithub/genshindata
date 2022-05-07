@@ -1,0 +1,36 @@
+{
+  "name": "Lenda Vitoriosa",
+  "rarity": "3",
+  "foodtype": "SPECIALTY",
+  "foodfilter": "Pratos de Regeneração",
+  "foodcategory": "Recovery_HpAdd",
+  "effect": "Restaura 40% de Vida para o personagem selecionado, e restaurá 2350 de Vida adicional.",
+  "description": "Especialidade de Gorou. Os acompanhamentos foram empilhados para criar uma vista de algo que se move assim como as motivações de Gorou. Enquanto você termina o macarrão e sopa de uma vez e bate no estômago cheio, só vê Gorou sorrindo alegremente com sua cauda balançando... Provavelmente nem mesmo ele percebe isso...",
+  "basedish": "Ramen Tonkotsu",
+  "character": "Gorou",
+  "ingredients": [
+    {
+      "name": "Carne Crua",
+      "count": 4
+    },
+    {
+      "name": "Farinha",
+      "count": 3
+    },
+    {
+      "name": "Broto de Bambu",
+      "count": 2
+    },
+    {
+      "name": "Ovo de Pássaro",
+      "count": 1
+    }
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_108365"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Victorious_Legend"
+  },
+  "version": "2.3"
+}

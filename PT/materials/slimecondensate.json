@@ -1,0 +1,21 @@
+{
+  "name": "Condensado de Slime",
+  "description": "Fluido denso que cobre a superfície de um Slime. Material comumente visto em oficinas elementais de diversos lugares.",
+  "sortorder": 1723,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Dropado por Slimes",
+    "Resgate de Poeira Estrelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Slime_Condensate.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Item_Slime_Condensate.png",
+    "nameicon": "UI_ItemIcon_112002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Slime_Condensate"
+  },
+  "version": ""
+}

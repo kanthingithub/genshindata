@@ -1,0 +1,17 @@
+{
+  "name": "Опыт Боевого пропуска",
+  "description": "Ваш дневник содержит всё, что вы пережили в своём долгом путешествии. Эти истории когда-нибудь станут достоянием песен и стихов.",
+  "sortorder": 2256,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "Опыт Боевого пропуска",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_116001",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_BEP.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/BEP"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Suspiro de Stormterror",
+  "description": "La energía de los fuertes vientos causados por el Dragón del Este.\nHermoso y transparente, los vientos y las tempestades se sienten honrados de trabajar para él. El viento se mueve como si fuera su compañero, su voz y su libertad.\nSus enemigos son todos aquellos que van en contra del viento.",
+  "sortorder": 1787,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Recompensa Reto de Stormterror (Niv. 70+)"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dvalin's_Sigh.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Dvalin%27s_Sigh.png",
+    "nameicon": "UI_ItemIcon_113005"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dvalin's_Sigh"
+  },
+  "version": ""
+}

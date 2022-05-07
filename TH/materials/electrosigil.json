@@ -1,0 +1,20 @@
+{
+  "name": "Electro Sigil",
+  "description": "เป็นรอยที่ได้รับการถูกยอมรับโดยเสียงฟ้าร้องของหมู่เกาะ Inazuma \nสามารถมอบให้ Sacred Sakura ของศาลเจ้า Grand Narukami เพื่อเพิ่มระดับ \"พรแห่งซากุระศักดิ์สิทธิ์\"",
+  "sortorder": 503,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "เครื่องหมายธาตุ",
+  "source": [
+    "รางวัลการสำรวจ Inazuma"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_304",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Electro_Sigil.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Item_Electro_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Electro_Sigil"
+  },
+  "version": ""
+}

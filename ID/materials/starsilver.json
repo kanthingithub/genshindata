@@ -1,0 +1,20 @@
+{
+  "name": "Starsilver",
+  "description": "Mineral langka yang muncul karena karakteristik geografis dan ley line yang unik di Dragonspine.",
+  "sortorder": 1959,
+  "category": "EXCHANGE",
+  "materialtype": "Mineral untuk Forge",
+  "source": [
+    "Ditemukan di alam liar",
+    "Rekomendasi: Ditemukan di Dragonspine"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Starsilver.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Item_Starsilver.png",
+    "nameicon": "UI_ItemIcon_101006"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Starsilver"
+  },
+  "version": ""
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Tinh Nguyên Tố",
+  "description": "Mảnh vỡ sau khi kết tinh Thần Đồng bị phá, chỉ dẫn đến rương quý ở gần.",
+  "sortorder": 1580,
+  "category": "CONSUME",
+  "materialtype": "Đạo Cụ Mạo Hiểm",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_107002",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Elemental_Dust.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Elemental_Dust"
+  },
+  "version": ""
+}

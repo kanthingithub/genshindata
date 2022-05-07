@@ -1,0 +1,24 @@
+{
+  "name": "「黄金」的教导",
+  "description": "天赋培养素材。\n岩之国土的象征是黄金。\n黄金是流淌在璃月土地深处的血液，是鼓动璃月的心脏有力搏动的肌肉，是让璃月傲然挺立的筋骨。",
+  "sortorder": 1866,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "天赋培养素材",
+  "dropdomain": "精通秘境：焚尽之环",
+  "daysofweek": [
+    "周三",
+    "周六",
+    "周日"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Gold.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Item_Teachings_of_Gold.png",
+    "nameicon": "UI_ItemIcon_104316"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Gold"
+  },
+  "version": ""
+}

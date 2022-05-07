@@ -1,0 +1,16 @@
+{
+  "name": "Fungal Spore",
+  "description": "Spora berkilauan yang dijatuhkan oleh Floating Fungus. Kecil dan lembut, sepertinya cuma kena bersin saja, spora ini akan lenyap tak bersisa.",
+  "sortorder": 1780,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Dijatuhkan oleh Floating Fungus"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_112059",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fungal_Spores.png"
+  },
+  "version": "2.6"
+}

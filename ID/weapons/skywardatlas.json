@@ -1,0 +1,312 @@
+{
+  "name": "Skyward Atlas",
+  "description": "Atlas awan yang melambangkan Dvalin dan tuannya, Archon Anemo. Menunjukkan secara rinci awan dan angin di daerah Utara, mengandung kekuatan angin dan angkasa.",
+  "weapontype": "Catalyst",
+  "rarity": "5",
+  "baseatk": 48,
+  "substat": "ATK",
+  "subvalue": "7.2",
+  "effectname": "Wandering Clouds",
+  "effect": [
+    "Meningkatkan [12%] Elemental DMG Bonus. Saat Normal Attack mengenai musuh, memiliki 50% persentase untuk mendapatkan bantuan dari awan yang mengincar musuh terdekat selama 15 detik, dan mengakibatkan DMG sebesar [160%] ATK. Dapat terpicu setiap 30 detik.",
+    "Meningkatkan [15%] Elemental DMG Bonus. Saat Normal Attack mengenai musuh, memiliki 50% persentase untuk mendapatkan bantuan dari awan yang mengincar musuh terdekat selama 15 detik, dan mengakibatkan DMG sebesar [200%] ATK. Dapat terpicu setiap 30 detik.",
+    "Meningkatkan [18%] Elemental DMG Bonus. Saat Normal Attack mengenai musuh, memiliki 50% persentase untuk mendapatkan bantuan dari awan yang mengincar musuh terdekat selama 15 detik, dan mengakibatkan DMG sebesar [240%] ATK. Dapat terpicu setiap 30 detik.",
+    "Meningkatkan [21%] Elemental DMG Bonus. Saat Normal Attack mengenai musuh, memiliki 50% persentase untuk mendapatkan bantuan dari awan yang mengincar musuh terdekat selama 15 detik, dan mengakibatkan DMG sebesar [280%] ATK. Dapat terpicu setiap 30 detik.",
+    "Meningkatkan [24%] Elemental DMG Bonus. Saat Normal Attack mengenai musuh, memiliki 50% persentase untuk mendapatkan bantuan dari awan yang mengincar musuh terdekat selama 15 detik, dan mengakibatkan DMG sebesar [320%] ATK. Dapat terpicu setiap 30 detik."
+  ],
+  "r1": [
+    "12%",
+    "160%"
+  ],
+  "r2": [
+    "15%",
+    "200%"
+  ],
+  "r3": [
+    "18%",
+    "240%"
+  ],
+  "r4": [
+    "21%",
+    "280%"
+  ],
+  "r5": [
+    "24%",
+    "320%"
+  ],
+  "weaponmaterialtype": "Boreal Wolf",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 10000
+      },
+      {
+        "name": "Boreal Wolf's Milk Tooth",
+        "count": 5
+      },
+      {
+        "name": "Dead Ley Line Branches",
+        "count": 5
+      },
+      {
+        "name": "Firm Arrowhead",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Boreal Wolf's Cracked Tooth",
+        "count": 5
+      },
+      {
+        "name": "Dead Ley Line Branches",
+        "count": 18
+      },
+      {
+        "name": "Firm Arrowhead",
+        "count": 12
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Boreal Wolf's Cracked Tooth",
+        "count": 9
+      },
+      {
+        "name": "Dead Ley Line Leaves",
+        "count": 9
+      },
+      {
+        "name": "Sharp Arrowhead",
+        "count": 9
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Boreal Wolf's Broken Fang",
+        "count": 5
+      },
+      {
+        "name": "Dead Ley Line Leaves",
+        "count": 18
+      },
+      {
+        "name": "Sharp Arrowhead",
+        "count": 14
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 55000
+      },
+      {
+        "name": "Boreal Wolf's Broken Fang",
+        "count": 9
+      },
+      {
+        "name": "Ley Lines Sprouts",
+        "count": 14
+      },
+      {
+        "name": "Weathered Arrowhead",
+        "count": 9
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 65000
+      },
+      {
+        "name": "Boreal Wolf's Nostalgia",
+        "count": 6
+      },
+      {
+        "name": "Ley Lines Sprouts",
+        "count": 27
+      },
+      {
+        "name": "Weathered Arrowhead",
+        "count": 18
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Weapon_Skyward_Atlas.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Dvalin.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Dvalin_Awaken.png",
+    "nameicon": "UI_EquipIcon_Catalyst_Dvalin",
+    "namegacha": "UI_Gacha_EquipIcon_Catalyst_Dvalin",
+    "nameawakenicon": "UI_EquipIcon_Catalyst_Dvalin_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Skyward_Atlas"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 47.5369987487793,
+      "specialized": 0.07199999690055847
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 65.03061573904415,
+      "specialized": 0.08366399214124698
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 87.32546729086016,
+      "specialized": 0.09813599831604947
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 110.14322193011867,
+      "specialized": 0.11267999926924688
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 133.2937397767564,
+      "specialized": 0.1272239916393758
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 164.39374015822614,
+      "specialized": 0.1272239916393758
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 187.97209398570067,
+      "specialized": 0.14176799259257322
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 211.88320535370258,
+      "specialized": 0.15631199354577063
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 236.07952937522532,
+      "specialized": 0.17085598591589957
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 260.56110005138,
+      "specialized": 0.18539999545216546
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 291.6611004328497,
+      "specialized": 0.18539999545216546
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 316.4278724288215,
+      "specialized": 0.1999439878222944
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 341.43233485871497,
+      "specialized": 0.21448799735856028
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 372.6323356216544,
+      "specialized": 0.21448799735856028
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 397.9220220387724,
+      "specialized": 0.2290319897286892
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 423.4018426691018,
+      "specialized": 0.24357598209881814
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 454.5018411432229,
+      "specialized": 0.24357598209881814
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 480.26690842818425,
+      "specialized": 0.25811999163508403
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 506.2220872589496,
+      "specialized": 0.27259198922681804
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 537.3220933624652,
+      "specialized": 0.27259198922681804
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 563.4674517412568,
+      "specialized": 0.287135981596947
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 589.85050055397,
+      "specialized": 0.30167999113321287
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 620.9504913986966,
+      "specialized": 0.30167999113321287
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 647.5236744246213,
+      "specialized": 0.31622400066947876
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 674.3345478844676,
+      "specialized": 0.33076797587347073
+    }
+  },
+  "version": "1.0"
+}

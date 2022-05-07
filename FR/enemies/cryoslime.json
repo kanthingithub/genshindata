@@ -1,0 +1,113 @@
+{
+  "name": "Cryoblob",
+  "specialname": "Sphère élémentaire",
+  "enemytype": "COMMON",
+  "category": "Êtres élémentaires",
+  "description": "Un monstre de petite taille, issu de l'accumulation d'élément Cryo présent à l'état naturel.\nUn concurrent mal intentionné du Domaine de l'Aurore a par le passé lancé la rumeur que les caves du Domaine étaient maintenues à une certaine température garantissant la qualité de l'alcool grâce à ces créatures. Ceci n'est bien sûr qu'une rumeur.",
+  "investigation": {
+    "name": "Blob",
+    "category": "Normal",
+    "description": "Une créature élémentaire molle.\\nOn raconte que les desserts faits à partir de Blobs possèdent un goût très particulier selon leur élément."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Bave de Blob",
+      "count": 0.6723
+    },
+    {
+      "name": "Mucus de Blob",
+      "count": 0.1792
+    },
+    {
+      "name": "Essence de Blob",
+      "count": 0.0448
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Slime_Ice_02"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 58.33359554497292,
+      "attack": 15.226638053090369,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 229.28324689085457,
+      "attack": 40.68166433524971,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 708.1600134551263,
+      "attack": 100.34997658672819,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 1178.2402819820345,
+      "attack": 163.90595402819054,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 2155.879608624673,
+      "attack": 245.04832178304787,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 3997.1874748962,
+      "attack": 377.8963343559899,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 6705.003968172241,
+      "attack": 532.1546080082517,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 10441.578293176426,
+      "attack": 734.614285433352,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 14852.58229308587,
+      "attack": 945.1589834910119,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 19483.26968389738,
+      "attack": 1141.8823157505176,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 29412.097748303786,
+      "attack": 1477.325263007704,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 42801.85172858881,
+      "attack": 1506.6582360086104,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 57589.05438947724,
+      "attack": 1536.196581561977,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

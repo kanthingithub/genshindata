@@ -1,0 +1,20 @@
+{
+  "name": "Lantern Fiber",
+  "description": "Bahan yang digunakan untuk membuat Lentera Xiao selama Lantern Rite.\nBahan berserat umum yang dapat diproses menjadi pembungkus lentera sehingga lentera dapat melayang jauh bersama dengan harapan yang dibawanya.",
+  "sortorder": 2287,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Material Lantern Rite",
+  "source": [
+    "Didapatkan dari berbagai jenis tanaman"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lantern_Fiber.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Item_Lantern_Fiber.png",
+    "nameicon": "UI_ItemIcon_200001"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lantern_Fiber"
+  },
+  "version": ""
+}

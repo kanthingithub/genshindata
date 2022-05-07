@@ -1,0 +1,994 @@
+{
+  "name": "Razor",
+  "fullname": "Razor",
+  "title": "Enfant-loup",
+  "description": "Un jeune garçon qui vit sur le Territoire des Loups situé aux environs de Mondstadt, loin de la ville et des foules. Il possède un instinct et une agilité surprenante.",
+  "rarity": "4",
+  "element": "Électro",
+  "weapontype": "Épée à deux mains",
+  "substat": "Bonus de DGT physiques",
+  "gender": "Homme",
+  "body": "BOY",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Territoire des Loups",
+  "birthdaymmdd": "9/9",
+  "birthday": "9 septembre",
+  "constellation": "Lupus Minor",
+  "cv": {
+    "english": "Todd Haberkorn",
+    "chinese": "周帅",
+    "japanese": "内山昂輝",
+    "korean": "Kim Seo-young"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Éclat d'améthyste vajrada",
+        "count": 1
+      },
+      {
+        "name": "Baie à crochet",
+        "count": 3
+      },
+      {
+        "name": "Masque endommagé",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragment d'améthyste vajrada",
+        "count": 3
+      },
+      {
+        "name": "Prisme d'éclair",
+        "count": 2
+      },
+      {
+        "name": "Baie à crochet",
+        "count": 10
+      },
+      {
+        "name": "Masque endommagé",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragment d'améthyste vajrada",
+        "count": 6
+      },
+      {
+        "name": "Prisme d'éclair",
+        "count": 4
+      },
+      {
+        "name": "Baie à crochet",
+        "count": 20
+      },
+      {
+        "name": "Masque sale",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Morceau d'améthyste vajrada",
+        "count": 3
+      },
+      {
+        "name": "Prisme d'éclair",
+        "count": 8
+      },
+      {
+        "name": "Baie à crochet",
+        "count": 30
+      },
+      {
+        "name": "Masque sale",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Morceau d'améthyste vajrada",
+        "count": 6
+      },
+      {
+        "name": "Prisme d'éclair",
+        "count": 12
+      },
+      {
+        "name": "Baie à crochet",
+        "count": 45
+      },
+      {
+        "name": "Masque sinistre",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Pierre d'améthyste vajrada",
+        "count": 6
+      },
+      {
+        "name": "Prisme d'éclair",
+        "count": 20
+      },
+      {
+        "name": "Baie à crochet",
+        "count": 60
+      },
+      {
+        "name": "Masque sinistre",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/6/68/Character_Razor_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/1/1e/Character_Razor_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Razor.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Razor.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20191028/2019102814495922891.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20191018/2019101811585976188.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/997709a43b4f8d80a58ac14d412bf2e7.png",
+    "nameicon": "UI_AvatarIcon_Razor",
+    "nameiconcard": "UI_AvatarIcon_Razor_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Razor",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Razor",
+    "namesideicon": "UI_AvatarIcon_Side_Razor"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Razor"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1002.9700927734375,
+      "attack": 19.58880043029785,
+      "defense": 62.9474983215332,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2576.630174074002,
+      "attack": 50.323628417523196,
+      "defense": 161.71212354820727,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3325.900193605252,
+      "attack": 64.95780848649292,
+      "defense": 208.73712507408618,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4981.803600603656,
+      "attack": 97.29891377493277,
+      "defense": 312.6634312358383,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5514.179699236469,
+      "attack": 107.69688397451773,
+      "defense": 346.0759297099594,
+      "specialized": 0.07500000298023224
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6342.633210124855,
+      "attack": 123.87723731456299,
+      "defense": 398.0705767705822,
+      "specialized": 0.07500000298023224
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7052.46792692173,
+      "attack": 137.74119758067627,
+      "defense": 442.62057982234,
+      "specialized": 0.15000000596046448
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7880.921437810117,
+      "attack": 153.92155092072153,
+      "defense": 494.6152268829628,
+      "specialized": 0.15000000596046448
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8413.29753644293,
+      "attack": 164.31951921295786,
+      "defense": 528.0277177276894,
+      "specialized": 0.15000000596046448
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9240.747671679652,
+      "attack": 180.4802758316864,
+      "defense": 579.9593918366718,
+      "specialized": 0.15000000596046448
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 9773.123648242152,
+      "attack": 190.87824793862,
+      "defense": 613.3718979401874,
+      "specialized": 0.22499999403953552
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 10601.57668087713,
+      "attack": 207.05859193799733,
+      "defense": 665.366514985104,
+      "specialized": 0.22499999403953552
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11133.952901580255,
+      "attack": 217.45656023023366,
+      "defense": 698.7790210886196,
+      "specialized": 0.30000001192092896
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 11962.406412468641,
+      "attack": 233.63691357027892,
+      "defense": 750.7736681492424,
+      "specialized": 0.30000001192092896
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Nature du loup",
+      "effect": "Razor inflige 10 % de DGT supplémentaires pendant 8 s lorsqu'il obtient un orbe ou une particule élémentaire."
+    },
+    "c2": {
+      "name": "Répression",
+      "effect": "Le taux CRIT de Razor augmente de 10 % quand il attaque des ennemis dont les PV sont inférieurs à 30 %."
+    },
+    "c3": {
+      "name": "Âme de loup",
+      "effect": "Niveau d'aptitude **Croc éclair** +3.\nNiveau max : 15"
+    },
+    "c4": {
+      "name": "Morsure",
+      "effect": "L'appui simple de **Griffe et Tonnerre** réduit la DÉF des cibles de 15 % pendant 7 s."
+    },
+    "c5": {
+      "name": "Griffes tranchantes",
+      "effect": "Niveau d'aptitude **Griffe et tonnerre** +3.\nNiveau max : 15"
+    },
+    "c6": {
+      "name": "Lupus Fulguris",
+      "effect": "Toutes les 10 s, l'arme de Razor se charge d'énergie électrique pour infliger lors de la prochaine attaque normale des DGT Électro équivalant à 100 % de l'ATQ.\nChaque ennemi touché confère à Razor un sceau Électro de **Griffe et tonnerre** tant que **Croc éclair** n'est pas actif."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Razor_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Razor_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Razor_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Razor_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Razor_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Razor_04.png",
+      "constellation": "Eff_UI_Talent_Razor"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Razor",
+    "combat1": {
+      "name": "Attaque normale : Croc d'acier",
+      "info": "**Attaque normale**\nEnchaîne jusqu'à 4 coups d'épée.\n\n**Attaque chargée**\nExécute une succession d'attaques tournoyantes contre les ennemis proches ; cette attaque consomme de l'endurance de façon continue.\nL'attaque chargée se termine sur un coup puissant.\n\n**Attaque plongeante**\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "attributes": [
+        {
+          "name": "DGT 1er coup",
+          "parameters": [
+            "95.92%",
+            "102.46%",
+            "109.00%",
+            "117.72%",
+            "124.26%",
+            "131.89%",
+            "141.70%",
+            "151.51%",
+            "161.32%",
+            "171.13%",
+            "180.94%",
+            "190.75%",
+            "200.56%",
+            "210.37%",
+            "220.18%"
+          ]
+        },
+        {
+          "name": "DGT 2e coup",
+          "parameters": [
+            "82.63%",
+            "88.27%",
+            "93.90%",
+            "101.41%",
+            "107.05%",
+            "113.62%",
+            "122.07%",
+            "130.52%",
+            "138.97%",
+            "147.42%",
+            "155.87%",
+            "164.32%",
+            "172.78%",
+            "181.23%",
+            "189.68%"
+          ]
+        },
+        {
+          "name": "DGT 3e coup",
+          "parameters": [
+            "103.31%",
+            "110.36%",
+            "117.40%",
+            "126.79%",
+            "133.84%",
+            "142.05%",
+            "152.62%",
+            "163.19%",
+            "173.75%",
+            "184.32%",
+            "194.88%",
+            "205.45%",
+            "216.02%",
+            "226.58%",
+            "237.15%"
+          ]
+        },
+        {
+          "name": "DGT 4e coup",
+          "parameters": [
+            "136.05%",
+            "145.32%",
+            "154.60%",
+            "166.97%",
+            "176.24%",
+            "187.07%",
+            "200.98%",
+            "214.89%",
+            "228.81%",
+            "242.72%",
+            "256.64%",
+            "270.55%",
+            "284.46%",
+            "298.38%",
+            "312.29%"
+          ]
+        },
+        {
+          "name": "DGT enchaînement attaque chargée",
+          "parameters": [
+            "62.54%",
+            "67.63%",
+            "72.72%",
+            "79.99%",
+            "85.08%",
+            "90.90%",
+            "98.90%",
+            "106.90%",
+            "114.90%",
+            "123.62%",
+            "132.35%",
+            "141.08%",
+            "149.80%",
+            "158.53%",
+            "167.26%"
+          ]
+        },
+        {
+          "name": "DGT coup final attaque chargée",
+          "parameters": [
+            "113.09%",
+            "122.29%",
+            "131.50%",
+            "144.65%",
+            "153.86%",
+            "164.37%",
+            "178.84%",
+            "193.31%",
+            "207.77%",
+            "223.55%",
+            "239.33%",
+            "255.11%",
+            "270.89%",
+            "286.67%",
+            "302.45%"
+          ]
+        },
+        {
+          "name": "Coût d'endurance attaque chargée",
+          "parameters": [
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s"
+          ]
+        },
+        {
+          "name": "Durée max",
+          "parameters": [
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s"
+          ]
+        },
+        {
+          "name": "DGT durant la chute",
+          "parameters": [
+            "82.05%",
+            "88.72%",
+            "95.40%",
+            "104.94%",
+            "111.62%",
+            "119.25%",
+            "129.75%",
+            "140.24%",
+            "150.74%",
+            "162.19%",
+            "173.63%",
+            "185.08%",
+            "196.53%",
+            "207.98%",
+            "219.43%"
+          ]
+        },
+        {
+          "name": "DGT chute basse/élevée",
+          "parameters": [
+            "164.06%/204.92%",
+            "177.41%/221.60%",
+            "190.77%/238.28%",
+            "209.84%/262.10%",
+            "223.20%/278.78%",
+            "238.46%/297.85%",
+            "259.44%/324.06%",
+            "280.43%/350.27%",
+            "301.41%/376.48%",
+            "324.30%/405.07%",
+            "347.19%/433.66%",
+            "370.09%/462.26%",
+            "392.98%/490.85%",
+            "415.87%/519.44%",
+            "438.76%/548.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Griffe et tonnerre",
+      "info": "Razor met à profit les enseignements de son maître et de son lupical pour chasser sa proie.\n\n**Appui simple**\nD'un coup de griffe du loup du tonnerre, il inflige des DGT Électro aux ennemis en face.\nRazor obtient un sceau Électro lorsque cette attaque touche un ennemi ; chaque sceau lui confère un bonus de recharge d'énergie.\nRazor peut cumuler jusqu'à 3 sceaux Électro ; chaque nouveau sceau réinitialise leur durée.\n\n**Appui long**\nAmassant la puissance du tonnerre, Razor libère une explosion électrique, infligeant d'importants DGT Électro aux ennemis proches, et supprimant tous les sceaux Électro.\nChaque sceau ainsi supprimé est converti en énergie élémentaire.",
+      "description": "Parfois un malheureux peut apercevoir à la lueur de l'éclair le regard de prédateur de Razor.",
+      "attributes": [
+        {
+          "name": "DGT appui simple",
+          "parameters": [
+            "199.20%",
+            "214.14%",
+            "229.08%",
+            "249.00%",
+            "263.94%",
+            "278.88%",
+            "298.80%",
+            "318.72%",
+            "338.64%",
+            "358.56%",
+            "378.48%",
+            "398.40%",
+            "423.30%",
+            "448.20%",
+            "473.10%"
+          ]
+        },
+        {
+          "name": "DGT appui long",
+          "parameters": [
+            "295.20%",
+            "317.34%",
+            "339.48%",
+            "369.00%",
+            "391.14%",
+            "413.28%",
+            "442.80%",
+            "472.32%",
+            "501.84%",
+            "531.36%",
+            "560.88%",
+            "590.40%",
+            "627.30%",
+            "664.20%",
+            "701.10%"
+          ]
+        },
+        {
+          "name": "Bonus recharge d'énergie",
+          "parameters": [
+            "20.00%/sceau",
+            "20.00%/sceau",
+            "20.00%/sceau",
+            "20.00%/sceau",
+            "20.00%/sceau",
+            "20.00%/sceau",
+            "20.00%/sceau",
+            "20.00%/sceau",
+            "20.00%/sceau",
+            "20.00%/sceau",
+            "20.00%/sceau",
+            "20.00%/sceau",
+            "20.00%/sceau",
+            "20.00%/sceau",
+            "20.00%/sceau"
+          ]
+        },
+        {
+          "name": "Énergie restaurée",
+          "parameters": [
+            "5 pts/sceau",
+            "5 pts/sceau",
+            "5 pts/sceau",
+            "5 pts/sceau",
+            "5 pts/sceau",
+            "5 pts/sceau",
+            "5 pts/sceau",
+            "5 pts/sceau",
+            "5 pts/sceau",
+            "5 pts/sceau",
+            "5 pts/sceau",
+            "5 pts/sceau",
+            "5 pts/sceau",
+            "5 pts/sceau",
+            "5 pts/sceau"
+          ]
+        },
+        {
+          "name": "Durée sceau Électro",
+          "parameters": [
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s"
+          ]
+        },
+        {
+          "name": "TdR appui simple",
+          "parameters": [
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s"
+          ]
+        },
+        {
+          "name": "TdR appui long",
+          "parameters": [
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Croc éclair",
+      "info": "Le loup de tonnerre qui sommeille se réveille et vient à la rescousse, infligeant des DGT Électro aux ennemis proches ; ceci supprime également tous les sceaux Électro, qui sont convertis en énergie élémentaire.\nLe loup de tonnerre combat aux côtés de Razor tant qu'il est actif.\n\n**Loup de tonnerre**\n· Attaque lorsque Razor effectue une attaque normale, et inflige des DGT Électro ;\n· Augmente la VIT d'attaque ainsi que la RÉS Électro de Razor ;\n· Razor est immunisé aux DGT d'Électrocution.\n· Attaque chargée impossible.\n· Augmente la RÉS à l'interruption de Razor.\n\nLe loup de tonnerre disparaît lorsque Razor est vaincu ou quitte le champ de bataille.\nLe temps restant est converti en énergie élémentaire (10 pts max) lorsque Razor quitte le champ de bataille.",
+      "description": "Le loup s'est réveillé. L'heure de la chasse a sonné.",
+      "attributes": [
+        {
+          "name": "DGT explosion",
+          "parameters": [
+            "160.00%",
+            "172.00%",
+            "184.00%",
+            "200.00%",
+            "212.00%",
+            "224.00%",
+            "240.00%",
+            "256.00%",
+            "272.00%",
+            "288.00%",
+            "304.00%",
+            "320.00%",
+            "340.00%",
+            "360.00%",
+            "380.00%"
+          ]
+        },
+        {
+          "name": "DGT attaque",
+          "parameters": [
+            "24.00% DGT d'attaque",
+            "25.80% DGT d'attaque",
+            "27.60% DGT d'attaque",
+            "30.00% DGT d'attaque",
+            "31.80% DGT d'attaque",
+            "33.60% DGT d'attaque",
+            "36.00% DGT d'attaque",
+            "38.40% DGT d'attaque",
+            "40.80% DGT d'attaque",
+            "43.20% DGT d'attaque",
+            "45.60% DGT d'attaque",
+            "48.00% DGT d'attaque",
+            "51.00% DGT d'attaque",
+            "54.00% DGT d'attaque",
+            "57.00% DGT d'attaque"
+          ]
+        },
+        {
+          "name": "Bonus VIT d'attaque normale",
+          "parameters": [
+            "26.00%",
+            "28.00%",
+            "30.00%",
+            "32.00%",
+            "34.00%",
+            "36.00%",
+            "37.00%",
+            "38.00%",
+            "39.00%",
+            "40.00%",
+            "40.00%",
+            "40.00%",
+            "40.00%",
+            "40.00%",
+            "40.00%"
+          ]
+        },
+        {
+          "name": "Bonus RÉS Électro",
+          "parameters": [
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%"
+          ]
+        },
+        {
+          "name": "Durée",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s"
+          ]
+        },
+        {
+          "name": "Énergie élémentaire",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Éveil",
+      "info": "Réduit le TdR de **Griffe et tonnerre** de 18 %.\n**Croc éclair** réinitialise le TdR de **Griffe et tonnerre** lorsqu'il est activé."
+    },
+    "passive2": {
+      "name": "Famine",
+      "info": "Razor bénéficie d'un bonus de recharge d'énergie de 30 % lorsque son énergie élémentaire est inférieure à 50 %."
+    },
+    "passive3": {
+      "name": "Vélocité lupine",
+      "info": "Réduit la consommation d'endurance des personnages de l'équipe de 20 % lors du sprint.\nNe peut pas être cumulé avec d'autres aptitudes passives aux effets identiques."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseignement de la Résistance",
+          "count": 3
+        },
+        {
+          "name": "Masque endommagé",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide de la Résistance",
+          "count": 2
+        },
+        {
+          "name": "Masque sale",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide de la Résistance",
+          "count": 4
+        },
+        {
+          "name": "Masque sale",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide de la Résistance",
+          "count": 6
+        },
+        {
+          "name": "Masque sale",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide de la Résistance",
+          "count": 9
+        },
+        {
+          "name": "Masque sale",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie de la Résistance",
+          "count": 4
+        },
+        {
+          "name": "Masque sinistre",
+          "count": 4
+        },
+        {
+          "name": "Griffe de Stormterror",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie de la Résistance",
+          "count": 6
+        },
+        {
+          "name": "Masque sinistre",
+          "count": 6
+        },
+        {
+          "name": "Griffe de Stormterror",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie de la Résistance",
+          "count": 12
+        },
+        {
+          "name": "Masque sinistre",
+          "count": 9
+        },
+        {
+          "name": "Griffe de Stormterror",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie de la Résistance",
+          "count": 16
+        },
+        {
+          "name": "Masque sinistre",
+          "count": 12
+        },
+        {
+          "name": "Griffe de Stormterror",
+          "count": 2
+        },
+        {
+          "name": "Couronne de la sagesse",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Razor_01",
+      "combat3": "Skill_E_Razor_01_HD",
+      "passive1": "UI_Talent_S_Razor_05",
+      "passive2": "UI_Talent_S_Razor_06",
+      "passive3": "UI_Talent_Explosion_Sprint"
+    },
+    "version": "1.0"
+  }
+}

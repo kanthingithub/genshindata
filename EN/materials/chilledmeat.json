@@ -1,0 +1,19 @@
+{
+  "name": "Chilled Meat",
+  "description": "Rare, fresh meat.\nThis species of boar is recorded to have gone extinct several hundred years ago and has been preserved by the extreme temperatures on Dragonspine. For the gourmets of Teyvat, this is an ingredient of unspeakable sacrosanctness.",
+  "sortorder": 2009,
+  "category": "EXCHANGE",
+  "materialtype": "Cooking Ingredient",
+  "source": [
+    "Dropped by animals"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chilled_Meat.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/da/Item_Chilled_Meat.png",
+    "nameicon": "UI_ItemIcon_100094"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chilled_Meat"
+  },
+  "version": ""
+}

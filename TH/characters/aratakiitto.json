@@ -1,0 +1,911 @@
+{
+  "name": "Arataki Itto",
+  "fullname": "Arataki Itto",
+  "title": "ขาใหญ่ประจำ Hanamizaka",
+  "description": "ผู้นำรุ่นแรกของแก๊ง Arataki ผู้โด่งดังไปทั่วทั้ง Hanamizaka แห่ง Inazuma... หืม ว่ายังไงนะ? ไม่เคยได้ยินชื่อแก๊ง Arataki? อยากมีเรื่องรึไง?",
+  "rarity": "5",
+  "element": "หิน",
+  "weapontype": "ดาบใหญ่",
+  "substat": "อัตราคริ",
+  "gender": "ชาย",
+  "body": "MALE",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "แก๊ง Arataki",
+  "birthdaymmdd": "6/1",
+  "birthday": "1 มิถุนายน",
+  "constellation": "Taurus Iracundus",
+  "cv": {
+    "english": "Max Mittelman",
+    "chinese": "刘照坤",
+    "japanese": "西川貴教",
+    "korean": "Song Jun-seok"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Prithiva Topaz Silver",
+        "count": 1
+      },
+      {
+        "name": "Onikabuto",
+        "count": 3
+      },
+      {
+        "name": "Slime Condensate",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Prithiva Topaz Fragment",
+        "count": 3
+      },
+      {
+        "name": "Riftborn Regalia",
+        "count": 2
+      },
+      {
+        "name": "Onikabuto",
+        "count": 10
+      },
+      {
+        "name": "Slime Condensate",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Prithiva Topaz Fragment",
+        "count": 6
+      },
+      {
+        "name": "Riftborn Regalia",
+        "count": 4
+      },
+      {
+        "name": "Onikabuto",
+        "count": 20
+      },
+      {
+        "name": "Slime Secretions",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Prithiva Topaz Chunk",
+        "count": 3
+      },
+      {
+        "name": "Riftborn Regalia",
+        "count": 8
+      },
+      {
+        "name": "Onikabuto",
+        "count": 30
+      },
+      {
+        "name": "Slime Secretions",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Prithiva Topaz Chunk",
+        "count": 6
+      },
+      {
+        "name": "Riftborn Regalia",
+        "count": 12
+      },
+      {
+        "name": "Onikabuto",
+        "count": 45
+      },
+      {
+        "name": "Slime Concentrate",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Prithiva Topaz Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Riftborn Regalia",
+        "count": 20
+      },
+      {
+        "name": "Onikabuto",
+        "count": 60
+      },
+      {
+        "name": "Slime Concentrate",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_AvatarIcon_Itto",
+    "nameiconcard": "UI_AvatarIcon_Itto_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Itto",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Itto",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Itto.png",
+    "namesideicon": "UI_AvatarIcon_Side_Itto",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Itto.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211203/2021120311564937286.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211203/2021120311564391237.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Arataki_Itto"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1000.9860229492188,
+      "attack": 17.68899917602539,
+      "defense": 74.66783905029297,
+      "specialized": 0.05000000074505806
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2596.5578447194275,
+      "attack": 45.88526565078155,
+      "defense": 193.6883820445928,
+      "specialized": 0.05000000074505806
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3454.81284960224,
+      "attack": 61.050875964197076,
+      "defense": 257.71078194693655,
+      "specialized": 0.05000000074505806
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5169.501966100361,
+      "attack": 91.35213259864031,
+      "defense": 385.616794655034,
+      "specialized": 0.05000000074505806
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5779.314710240986,
+      "attack": 102.12769774604021,
+      "defense": 431.10639579028793,
+      "specialized": 0.09800000116229057
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6649.171522180812,
+      "attack": 117.49943728774633,
+      "defense": 495.9927447918053,
+      "specialized": 0.09800000116229057
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7462.255140344874,
+      "attack": 131.8668555769309,
+      "defense": 556.6455386760827,
+      "specialized": 0.1460000015795231
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8341.120650842146,
+      "attack": 147.39779300722512,
+      "defense": 622.2038851266334,
+      "specialized": 0.1460000015795231
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8950.93339498277,
+      "attack": 158.17335910829934,
+      "defense": 667.6934938912818,
+      "specialized": 0.1460000015795231
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9837.807167872583,
+      "attack": 173.84581514486308,
+      "defense": 733.8492109680847,
+      "specialized": 0.1460000015795231
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10447.619912013208,
+      "attack": 184.6213812459373,
+      "defense": 779.3388197327331,
+      "specialized": 0.193999994546175
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11344.5032969327,
+      "attack": 200.4707228881798,
+      "defense": 846.2411966857508,
+      "specialized": 0.193999994546175
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11954.31628521395,
+      "attack": 211.24628898925403,
+      "defense": 891.7307901916101,
+      "specialized": 0.2420000024139881
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12858.207019053749,
+      "attack": 227.2194615206754,
+      "defense": 959.1558753436984,
+      "specialized": 0.2420000024139881
+    }
+  },
+  "version": "2.3",
+  "constellations": {
+    "c1": {
+      "name": "Stay a While and Listen Up",
+      "effect": "หลังจากใช้ **Royal Descent: Behold, Itto the Evil!** Arataki Itto จะได้รับเอฟเฟกต์ \"Superlative Superstrength\" 2 ชั้น และ 1 วินาที หลังจากนั้น ในทุก 0.5 วินาที Arataki Itto จะได้รับเอฟเฟกต์ \"Superlative Superstrength\" อีก 1 ชั้น เป็นเวลา 1.5 วินาที"
+    },
+    "c2": {
+      "name": "Gather 'Round, It's a Brawl!",
+      "effect": "หลังจากใช้ **Royal Descent: Behold, Itto the Evil!** ตัวละครแต่ละตัวในทีมที่มีชนิดของธาตุเป็นธาตุหิน จะทำให้ช่วงเวลาคูลดาวน์ของมันลดลง 1.5 วินาที และฟื้นฟูพลังงานธาตุของ Arataki Itto ขึ้น 6 หน่วย\nด้วยวิธีนี้ จะสามารถลดเวลาคูลดาวน์ได้มากสุด 4.5 วินาที และฟื้นฟูพลังงานธาตุได้มากสุด 18 หน่วย"
+    },
+    "c3": {
+      "name": "Horns Lowered, Coming Through",
+      "effect": "เพิ่มเลเวลสกิลของ **Masatsu Zetsugi: Akaushi Burst!** ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ"
+    },
+    "c4": {
+      "name": "Jailhouse Bread and Butter",
+      "effect": "หลังจากสถานะ \"Raging Oni King\" ที่เกิดจาก **Royal Descent: Behold, Itto the Evil!** สิ้นสุดลง ตัวละครทั้งหมดในทีม ที่อยู่ในบริเวณใกล้เคียง จะมีพลังป้องกันเพิ่มขึ้น 20% พลังโจมตีเพิ่มขึ้น 20% เป็นเวลา 10 วินาที"
+    },
+    "c5": {
+      "name": "10 Years of Hanamizaka Fame",
+      "effect": "เพิ่มเลเวลสกิลของ **Royal Descent: Behold, Itto the Evil!** ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ"
+    },
+    "c6": {
+      "name": "Arataki Itto, Present!",
+      "effect": "ความแรงคริของชาร์จโจมตีของ Arataki Itto เพิ่มขึ้น 70%; นอกจากนี้เมื่อใช้ \"Arataki Kesagiri\" จะมีโอกาส 50% ที่จะไม่ใช้ Superlative Superstrength"
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Itto_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Itto_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_04.png",
+      "constellation": "Eff_UI_Talent_Itto"
+    },
+    "version": "2.3"
+  },
+  "talent": {
+    "name": "Arataki Itto",
+    "combat1": {
+      "name": "โจมตีปกติ - Fight Club Legend",
+      "info": "**โจมตีปกติ**\nฟาดฟันต่อเนื่องมากสุดสี่ครั้ง\nเมื่อการโจมตีครั้งที่สองและครั้งที่สี่ถูกศัตรู จะทำให้เกิดเอฟเฟกต์ \"Superlative Superstrength\" 1 ชั้น และ 2 ชั้น ตามลำดับ\nจะสามารถครอบครองได้มากสุด 5 ชั้น ซึ่งทุกครั้งที่เกิดเอฟเฟกต์นี้ จะรีเฟรชช่วงเวลาต่อเนื่องของ Superlative Superstrength ที่มีอยู่\n\nนอกจากนี้ ภายในช่วงเวลาสั้น ๆ หลังจากปล่อยสกิลธาตุ \"Masatsu Zetsugi: Akaushi Burst!\" หรือทำการวิ่ง จำนวนครั้งการโจมตีต่อเนื่องของการโจมตีปกติจะไม่รีเซ็ต\n\n**ชาร์จโจมตี**\nเมื่อกดค้างเพื่อใช้ชาร์จโจมตี หากครอบครอง Superlative Superstrength อยู่ จะเป็นการใช้ Arataki Kesagiri ที่ไม่ใช้พลังกาย โดยการโจมตีของ Arataki Kesagiri แต่ละครั้ง จะใช้ Superlative Superstrength หนึ่งชั้น; เมื่อใช้ Superlative Superstrength ชั้นสุดท้าย จะปิดท้ายด้วยการโจมตีที่มีความรุนแรงเป็นพิเศษ\nในตอนที่ไม่มี Superlative Superstrength จะใช้พลังกายเพื่อปลดปล่อย Saichimonji Slash ที่มีความรุนแรงออกมาหนึ่งครั้ง\n\n**โจมตีพุ่งลงจากอากาศ**\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "attributes": [
+        {
+          "name": "ความเสียหายขั้น 1",
+          "parameters": [
+            "79.23%",
+            "85.68%",
+            "92.13%",
+            "101.34%",
+            "107.79%",
+            "115.16%",
+            "125.30%",
+            "135.43%",
+            "145.57%",
+            "156.62%",
+            "169.29%",
+            "184.19%",
+            "199.08%",
+            "213.98%",
+            "230.23%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 2",
+          "parameters": [
+            "76.37%",
+            "82.58%",
+            "88.80%",
+            "97.68%",
+            "103.90%",
+            "111.00%",
+            "120.77%",
+            "130.54%",
+            "140.30%",
+            "150.96%",
+            "163.17%",
+            "177.53%",
+            "191.89%",
+            "206.25%",
+            "221.91%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 3",
+          "parameters": [
+            "91.64%",
+            "99.10%",
+            "106.56%",
+            "117.22%",
+            "124.68%",
+            "133.20%",
+            "144.92%",
+            "156.64%",
+            "168.36%",
+            "181.15%",
+            "195.80%",
+            "213.03%",
+            "230.27%",
+            "247.50%",
+            "266.29%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 4",
+          "parameters": [
+            "117.22%",
+            "126.77%",
+            "136.31%",
+            "149.94%",
+            "159.48%",
+            "170.39%",
+            "185.38%",
+            "200.37%",
+            "215.37%",
+            "231.72%",
+            "250.47%",
+            "272.51%",
+            "294.55%",
+            "316.59%",
+            "340.63%"
+          ]
+        },
+        {
+          "name": "ความเสียหายการฟันต่อเนื่องของ Arataki Kesagiri",
+          "parameters": [
+            "91.16%",
+            "98.58%",
+            "106.00%",
+            "116.60%",
+            "124.02%",
+            "132.50%",
+            "144.16%",
+            "155.82%",
+            "167.48%",
+            "180.20%",
+            "194.77%",
+            "211.92%",
+            "229.06%",
+            "246.20%",
+            "264.89%"
+          ]
+        },
+        {
+          "name": "ความเสียหายการฟันครั้งสุดท้ายของ Arataki Kesagiri",
+          "parameters": [
+            "190.92%",
+            "206.46%",
+            "222.00%",
+            "244.20%",
+            "259.74%",
+            "277.50%",
+            "301.92%",
+            "326.34%",
+            "350.76%",
+            "377.40%",
+            "407.92%",
+            "443.82%",
+            "479.72%",
+            "515.62%",
+            "554.78%"
+          ]
+        },
+        {
+          "name": "ระยะเวลาของ Superlative Superstrength",
+          "parameters": [
+            "60 วิ",
+            "60 วิ",
+            "60 วิ",
+            "60 วิ",
+            "60 วิ",
+            "60 วิ",
+            "60 วิ",
+            "60 วิ",
+            "60 วิ",
+            "60 วิ",
+            "60 วิ",
+            "60 วิ",
+            "60 วิ",
+            "60 วิ",
+            "60 วิ"
+          ]
+        },
+        {
+          "name": "ความเสียหายของ Saichimonji Slash",
+          "parameters": [
+            "90.47%",
+            "97.84%",
+            "105.20%",
+            "115.72%",
+            "123.08%",
+            "131.50%",
+            "143.07%",
+            "154.64%",
+            "166.22%",
+            "178.84%",
+            "193.31%",
+            "210.32%",
+            "227.33%",
+            "244.34%",
+            "262.89%"
+          ]
+        },
+        {
+          "name": "Saichimonji ใช้พลังกาย",
+          "parameters": [
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย"
+          ]
+        },
+        {
+          "name": "ความเสียหายพุ่งลง",
+          "parameters": [
+            "81.83%",
+            "88.49%",
+            "95.16%",
+            "104.67%",
+            "111.33%",
+            "118.94%",
+            "129.41%",
+            "139.88%",
+            "150.35%",
+            "161.76%",
+            "173.18%",
+            "184.60%",
+            "196.02%",
+            "207.44%",
+            "218.86%"
+          ]
+        },
+        {
+          "name": "ความเสียหายพุ่งถึงพื้นจากที่ต่ำ/สูง",
+          "parameters": [
+            "163.63%/204.39%",
+            "176.95%/221.02%",
+            "190.27%/237.66%",
+            "209.30%/261.42%",
+            "222.62%/278.06%",
+            "237.84%/297.07%",
+            "258.77%/323.21%",
+            "279.70%/349.36%",
+            "300.63%/375.50%",
+            "323.46%/404.02%",
+            "346.29%/432.54%",
+            "369.12%/461.06%",
+            "391.96%/489.57%",
+            "414.79%/518.09%",
+            "437.62%/546.61%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Masatsu Zetsugi: Akaushi Burst!",
+      "info": "ขว้าง \"Ushi\" กระทิง Akaushi ตัวน้อยผู้เป็นสมาชิกเสริมของแก๊ง Arataki ออกไปด้วยความเร็วสูง เพื่อสร้างความเสียหายหินแก่ศัตรูที่ถูกโจมตี! เมื่อ Ushi ถูกศัตรู จะมอบเอฟเฟกต์ Superlative Superstrength 1 ชั้น ให้แก่ Arataki Itto\n\nUshi จะยังคงอยู่ในการต่อสู้เพื่อให้การสนับสนุน:\n·หลอกล่อศัตรูที่อยู่โดยรอบเพื่อดึงดูดการโจมตี;\n·ระดับความทนทานจะขึ้นอยู่กับสัดส่วนของพลังชีวิตสูงสุดที่ได้รับสืบทอดมาจาก Arataki Itto;\n·เมื่อได้รับความเสียหาย จะมอบเอฟเฟกต์ Superlative Superstrength ให้แก่ Arataki Itto 1 ชั้น โดยทุก 2 วินาที จะมอบเอฟเฟกต์ด้วยวิธีนี้ได้มากสุด 1 ชั้น;\n·จะหนีไปเมื่อระดับความทนทานหมดลง หรือสิ้นสุดช่วงระยะเวลาต่อเนื่อง และจะมอบเอฟเฟกต์ Superlative Superstrength ให้แก่ Arataki Itto 1 ชั้น ในตอนที่จากไป\n\n**กดค้าง**\nปรับทิศทางการขว้าง\n\nUshi จะถูกมองว่าเป็นวัตถุที่สร้างด้วยธาตุหิน; ในช่วงเวลาเดียวกัน จะสามารถมี Ushi ที่ตัวของ Arataki Itto เองเรียกออกมาได้เพียงหนึ่งตัวเท่านั้น",
+      "description": "ชื่อของกระบวนท่านี้มาจากนิยายเรื่อง \"ศาสตร์การต่อสู้ของโอนิ\" (ประพันธ์โดย Junkichi) อย่างไรก็ตามดูเหมือนว่าการที่ลอกเลียนมาจาก \"เคล็ดวิชาการสังหารโอนิ\" นั้นจะทำให้ติดปัญหาเรื่องลิขสิทธิ์ แล้วอีกอย่าง ก็ Itto เค้าเป็นโอนินี่นา...",
+      "attributes": [
+        {
+          "name": "ความเสียหายสกิล",
+          "parameters": [
+            "307.20%",
+            "330.24%",
+            "353.28%",
+            "384.00%",
+            "407.04%",
+            "430.08%",
+            "460.80%",
+            "491.52%",
+            "522.24%",
+            "552.96%",
+            "583.68%",
+            "614.40%",
+            "652.80%",
+            "691.20%",
+            "729.60%"
+          ]
+        },
+        {
+          "name": "สืบทอดพลังชีวิต",
+          "parameters": [
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%"
+          ]
+        },
+        {
+          "name": "ระยะเวลาต่อเนื่อง",
+          "parameters": [
+            "6 วิ",
+            "6 วิ",
+            "6 วิ",
+            "6 วิ",
+            "6 วิ",
+            "6 วิ",
+            "6 วิ",
+            "6 วิ",
+            "6 วิ",
+            "6 วิ",
+            "6 วิ",
+            "6 วิ",
+            "6 วิ",
+            "6 วิ",
+            "6 วิ"
+          ]
+        },
+        {
+          "name": "คูลดาวน์",
+          "parameters": [
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Royal Descent: Behold, Itto the Evil!",
+      "info": "ได้เวลาประกาศความยิ่งใหญ่ของ Itto แห่งแก๊ง Arataki แล้ว! แปลงกายเป็น \"Raging Oni King\" ชั่วระยะเวลาหนึ่ง โดยจะใช้ Oni King's Kanabou ในการต่อสู้\nมีคุณลักษณะพิเศษดังต่อไปนี้:\n·ความเสียหายของการโจมตีปกติ, ชาร์จโจมตี และโจมตีพุ่งลงจากอากาศ จะเปลี่ยนเป็นความเสียหายหินที่ไม่สามารถซ้อนทับได้ด้วยธาตุอื่น;\n·เพิ่มความเร็วในการโจมตีปกติของ Arataki Itto และเพิ่มพลังโจมตี โดยขึ้นกับพลังป้องกันของเขา;\n·เมื่อการโจมตีครั้งแรกและครั้งที่สามถูกศัตรู ในแต่ละครั้งจะมอบเอฟเฟกต์ Superlative Superstrength 1 ชั้น ให้แก่ตัวของ Arataki Itto เอง;\n·ความต้านทานธาตุทั้งหมดและความต้านทานกายภาพของ Arataki Itto จะลดลง 20%\n\nสภาวะ \"Raging Oni King\" จะหายไปเมื่อ Arataki Itto ออกจากการต่อสู้",
+      "description": "ความหมายอันลึกซึ้งที่อยู่ท่ามกลางความหมายอันลึกซึ้งอีกทีของ Itto (พูดเอง) มันเป็นเรื่องไร้สาระที่จะต้องไปลอกเลียนแบบของอย่างอื่น เพื่อให้ตัวเองแข็งแกร่งขึ้น เพราะว่าราชาโอนิที่แข็งแกร่งและชั่วร้ายที่สุดในโลกนี้ ก็คือ \"Arataki Itto\" ยังไงล่ะ เพราะงั้นแค่ให้ Itto เลียนแบบ Itto ซะก็โอเคแล้ว!\nShouta คิดว่ามันเป็นเรื่องที่เท่มาก",
+      "attributes": [
+        {
+          "name": "เพิ่มพลังโจมตี",
+          "parameters": [
+            "57.60% ของพลังป้องกัน",
+            "61.92% ของพลังป้องกัน",
+            "66.24% ของพลังป้องกัน",
+            "72.00% ของพลังป้องกัน",
+            "76.32% ของพลังป้องกัน",
+            "80.64% ของพลังป้องกัน",
+            "86.40% ของพลังป้องกัน",
+            "92.16% ของพลังป้องกัน",
+            "97.92% ของพลังป้องกัน",
+            "103.68% ของพลังป้องกัน",
+            "109.44% ของพลังป้องกัน",
+            "115.20% ของพลังป้องกัน",
+            "122.40% ของพลังป้องกัน",
+            "129.60% ของพลังป้องกัน",
+            "136.80% ของพลังป้องกัน"
+          ]
+        },
+        {
+          "name": "เพิ่มความเร็วการโจมตี",
+          "parameters": [
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%"
+          ]
+        },
+        {
+          "name": "ระยะเวลาต่อเนื่อง",
+          "parameters": [
+            "11 วิ",
+            "11 วิ",
+            "11 วิ",
+            "11 วิ",
+            "11 วิ",
+            "11 วิ",
+            "11 วิ",
+            "11 วิ",
+            "11 วิ",
+            "11 วิ",
+            "11 วิ",
+            "11 วิ",
+            "11 วิ",
+            "11 วิ",
+            "11 วิ"
+          ]
+        },
+        {
+          "name": "คูลดาวน์",
+          "parameters": [
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ"
+          ]
+        },
+        {
+          "name": "พลังงานธาตุ",
+          "parameters": [
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Arataki Ichiban",
+      "info": "เมื่อ Arataki Itto ใช้ Arataki Kesagiri อย่างต่อเนื่อง จะได้รับเอฟเฟกต์ดังต่อไปนี้:\n·การฟันแต่ละครั้งจะทำให้การฟันในครั้งต่อไป มีความเร็วในการโจมตีเพิ่มขึ้น 10% โดยจะสามารถเพิ่มด้วยวิธีนี้ได้มากสุด 30%;\n·เพิ่มความสามารถในการต้านทานการหยุดชะงัก\n\nเอฟเฟกต์เหล่านี้จะหายไปเมื่อการฟันต่อเนื่องสิ้นสุดลง"
+    },
+    "passive2": {
+      "name": "Bloodline of the Crimson Oni",
+      "info": "Arataki Kesagiri สร้างความเสียหายเพิ่มขึ้น โดยปริมาณที่เพิ่มจะเป็น 35% ของพลังป้องกันของ Arataki Itto"
+    },
+    "passive3": {
+      "name": "Woodchuck Chucked",
+      "info": "เมื่อตัวละครในทีมของตัวเองได้รับไม้จากการโจมตีต้นไม้ จะมีโอกาส 25% ที่จะได้รับไม้เพิ่ม"
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of Elegance",
+          "count": 3
+        },
+        {
+          "name": "Slime Condensate",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to Elegance",
+          "count": 2
+        },
+        {
+          "name": "Slime Secretions",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to Elegance",
+          "count": 4
+        },
+        {
+          "name": "Slime Secretions",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to Elegance",
+          "count": 6
+        },
+        {
+          "name": "Slime Secretions",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to Elegance",
+          "count": 9
+        },
+        {
+          "name": "Slime Secretions",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of Elegance",
+          "count": 4
+        },
+        {
+          "name": "Slime Concentrate",
+          "count": 4
+        },
+        {
+          "name": "Ashen Heart",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of Elegance",
+          "count": 6
+        },
+        {
+          "name": "Slime Concentrate",
+          "count": 6
+        },
+        {
+          "name": "Ashen Heart",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of Elegance",
+          "count": 12
+        },
+        {
+          "name": "Slime Concentrate",
+          "count": 9
+        },
+        {
+          "name": "Ashen Heart",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of Elegance",
+          "count": 16
+        },
+        {
+          "name": "Slime Concentrate",
+          "count": 12
+        },
+        {
+          "name": "Ashen Heart",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Itto_01",
+      "combat3": "Skill_E_Itto_01_HD",
+      "passive1": "UI_Talent_S_Itto_05",
+      "passive2": "UI_Talent_S_Itto_06",
+      "passive3": "UI_Talent_S_Itto_07"
+    },
+    "version": "2.3"
+  }
+}

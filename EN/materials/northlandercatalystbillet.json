@@ -1,0 +1,20 @@
+{
+  "name": "Northlander Catalyst Billet",
+  "description": "Weapon forging material. Can be used to forge 4-star catalysts. \nPhilosophers believe marble has the potential to be sculpted into a beautiful statue. Likewise, these billets have the potential to become something greater.",
+  "sortorder": 1965,
+  "rarity": "4",
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [
+    "Dropped by bosses"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Northlander_Catalyst_Billet.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3b/Item_Northlander_Catalyst_Billet.png",
+    "nameicon": "UI_ItemIcon_101104"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Northlander_Catalyst_Billet"
+  },
+  "version": ""
+}

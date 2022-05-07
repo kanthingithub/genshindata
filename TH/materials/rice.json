@@ -1,0 +1,20 @@
+{
+  "name": "Rice",
+  "description": "พืชที่พบได้ทั่วไปใน Teyvat ไม่ว่าจะเป็นคนประเภทไหนล้วนสามารถลิ้มลองรสสัมผัสเป็นเม็ดที่เต็มอิ่มนี้ได้ เหมือนกับคำที่ว่า \"ข้าวชนิดเดียวเลี้ยงคนได้ร้อยประเภท\"",
+  "sortorder": 2007,
+  "category": "EXCHANGE",
+  "materialtype": "วัตถุดิบประกอบอาหาร",
+  "source": [
+    "ซื้อจากร้านขายของชำใน Liyue",
+    "ซื้อจากร้านขายของชำ Inazuma"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Rice.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Item_Rice.png",
+    "nameicon": "UI_ItemIcon_100092"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Rice"
+  },
+  "version": ""
+}

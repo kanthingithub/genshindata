@@ -1,0 +1,20 @@
+{
+  "name": "Aizen-Medaka",
+  "description": "Ein lebhafter, energiegeladener Fisch, der für seine blütenförmige Schwanzflosse berühmt ist.\nVor langer Zeit gab es eine lustige Geschichte, die besagte, dass man Aizen-Medaka bekommen kann, indem man normale Medaka in einen Topf mit blauer Farbe wirft. Diese Geschichte entstammt wahrscheinlich der übersteigerten Fantasie eines Kindes, hat aber dennoch nicht wenige skrupellose Fischhändler auf den Plan gerufen. Das wiederum hat zu einigen Gesprächen geführt, die in etwa so gingen: „He, geht es nur mir so oder wäscht sich das Blau auf deinem Fisch ab?“ Als Reaktion darauf hat der Rat für Allgemeine Angelegenheiten eigens diesen Hinweis veröffentlicht: „Der Markt ist ein nasser und wilder Ort. Hüte dich vor dem Zustrom von blauem Fisch.“",
+  "sortorder": 2017,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Fisch",
+  "source": [
+    "Beim Angeln zu erhalten"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Aizen_Medaka.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Item_Aizen_Medaka.png",
+    "nameicon": "UI_ItemIcon_131003"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Aizen_Medaka"
+  },
+  "version": ""
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Jeweled Branch of a Distant Sea",
+  "description": "วัสดุเลื่อนขั้นอาวุธ\nปะการังชนิดนี้ไม่สามารถพบเจอได้ใน Teyvat แต่เป็นของขวัญที่อสรพิษยักษ์ได้รับเมื่อครั้งที่บุกเข้าไปใน \"Dark Sea\" ดังนั้นสำหรับอสรพิษยักษ์ใต้ทะเลลึกแล้ว การที่มีกิ่งปะการังตามตัวเป็นเหมือนสัญลักษณ์ของความแข็งแกร่ง และเมื่อสูญเสียกิ่งปะการังไป ก็จะสูญเสียความแข็งแรงไปด้วย พูดในอีกแง่หนึ่งก็คือ กิ่งปะการังที่หักก็ยังมีพลังพิเศษแฝงอยู่",
+  "sortorder": 2208,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุเลื่อนขั้นอาวุธ",
+  "dropdomain": "ดันเจี้ยนแห่งการต่อสู้: ห้วงทรายในเหวลึก",
+  "daysofweek": [
+    "วันจันทร์",
+    "วันพฤหัสบดี",
+    "วันอาทิตย์"
+  ],
+  "source": [
+    "ได้รับจากการสรรสร้าง"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Jeweled_Branch_of_a_Distant_Sea.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Item_Jeweled_Branch_of_a_Distant_Sea.png",
+    "nameicon": "UI_ItemIcon_114026"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Jeweled_Branch_of_a_Distant_Sea"
+  },
+  "version": ""
+}

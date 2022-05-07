@@ -1,0 +1,19 @@
+{
+  "name": "馬鈴薯",
+  "description": "塊狀的草本植物。來自大地的饋贈，是不管怎樣加工都永遠吃不膩的一味神奇食材。",
+  "sortorder": 2000,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "雜貨店購買"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Potato.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Item_Potato.png",
+    "nameicon": "UI_ItemIcon_100080"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Potato"
+  },
+  "version": ""
+}

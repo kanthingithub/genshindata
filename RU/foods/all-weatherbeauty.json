@@ -1,0 +1,28 @@
+{
+  "name": "Всепогодная красота",
+  "rarity": "1",
+  "foodtype": "SPECIALTY",
+  "foodfilter": "Восстанавливающее блюдо",
+  "foodcategory": "Recovery_HpAdd",
+  "effect": "Восстанавливает 16% HP + 1350 HP персонажу.",
+  "description": "Особое блюдо Каэдэхары Кадзухи. Приготовлено из рыбы, подсушенной за ночь на корабле. Кадзуха уверяет, что это самая обыкновенная рыба, но этот вкус... Наверное, это и есть определение свободной, всеобъемлющей природы.",
+  "basedish": "Вяленая рыба на углях",
+  "character": "Кадзуха",
+  "ingredients": [
+    {
+      "name": "Рыба",
+      "count": 1
+    },
+    {
+      "name": "Соль",
+      "count": 1
+    }
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_108301"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/All-Weather_Beauty"
+  },
+  "version": "2.0"
+}

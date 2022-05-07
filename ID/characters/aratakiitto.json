@@ -1,0 +1,911 @@
+{
+  "name": "Arataki Itto",
+  "fullname": "Arataki Itto",
+  "title": "Hanamizaka Heroics",
+  "description": "Pemimpin tertinggi dan pertama dari geng Arataki, yang terkenal di Hanamizaka, Kota Inazuma ... Apa katamu? Belum pernah dengar? Mau cari ribut ya?",
+  "rarity": "5",
+  "element": "Geo",
+  "weapontype": "Claymore",
+  "substat": "CRIT Rate",
+  "gender": "Pria",
+  "body": "MALE",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "Arataki Gang",
+  "birthdaymmdd": "6/1",
+  "birthday": "1 Juni",
+  "constellation": "Taurus Iracundus",
+  "cv": {
+    "english": "Max Mittelman",
+    "chinese": "刘照坤",
+    "japanese": "西川貴教",
+    "korean": "Song Jun-seok"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Prithiva Topaz Silver",
+        "count": 1
+      },
+      {
+        "name": "Onikabuto",
+        "count": 3
+      },
+      {
+        "name": "Slime Condensate",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Prithiva Topaz Fragment",
+        "count": 3
+      },
+      {
+        "name": "Riftborn Regalia",
+        "count": 2
+      },
+      {
+        "name": "Onikabuto",
+        "count": 10
+      },
+      {
+        "name": "Slime Condensate",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Prithiva Topaz Fragment",
+        "count": 6
+      },
+      {
+        "name": "Riftborn Regalia",
+        "count": 4
+      },
+      {
+        "name": "Onikabuto",
+        "count": 20
+      },
+      {
+        "name": "Slime Secretions",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Prithiva Topaz Chunk",
+        "count": 3
+      },
+      {
+        "name": "Riftborn Regalia",
+        "count": 8
+      },
+      {
+        "name": "Onikabuto",
+        "count": 30
+      },
+      {
+        "name": "Slime Secretions",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Prithiva Topaz Chunk",
+        "count": 6
+      },
+      {
+        "name": "Riftborn Regalia",
+        "count": 12
+      },
+      {
+        "name": "Onikabuto",
+        "count": 45
+      },
+      {
+        "name": "Slime Concentrate",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Prithiva Topaz Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Riftborn Regalia",
+        "count": 20
+      },
+      {
+        "name": "Onikabuto",
+        "count": 60
+      },
+      {
+        "name": "Slime Concentrate",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_AvatarIcon_Itto",
+    "nameiconcard": "UI_AvatarIcon_Itto_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Itto",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Itto",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Itto.png",
+    "namesideicon": "UI_AvatarIcon_Side_Itto",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Itto.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211203/2021120311564937286.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211203/2021120311564391237.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Arataki_Itto"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1000.9860229492188,
+      "attack": 17.68899917602539,
+      "defense": 74.66783905029297,
+      "specialized": 0.05000000074505806
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2596.5578447194275,
+      "attack": 45.88526565078155,
+      "defense": 193.6883820445928,
+      "specialized": 0.05000000074505806
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3454.81284960224,
+      "attack": 61.050875964197076,
+      "defense": 257.71078194693655,
+      "specialized": 0.05000000074505806
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5169.501966100361,
+      "attack": 91.35213259864031,
+      "defense": 385.616794655034,
+      "specialized": 0.05000000074505806
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5779.314710240986,
+      "attack": 102.12769774604021,
+      "defense": 431.10639579028793,
+      "specialized": 0.09800000116229057
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6649.171522180812,
+      "attack": 117.49943728774633,
+      "defense": 495.9927447918053,
+      "specialized": 0.09800000116229057
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7462.255140344874,
+      "attack": 131.8668555769309,
+      "defense": 556.6455386760827,
+      "specialized": 0.1460000015795231
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8341.120650842146,
+      "attack": 147.39779300722512,
+      "defense": 622.2038851266334,
+      "specialized": 0.1460000015795231
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8950.93339498277,
+      "attack": 158.17335910829934,
+      "defense": 667.6934938912818,
+      "specialized": 0.1460000015795231
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9837.807167872583,
+      "attack": 173.84581514486308,
+      "defense": 733.8492109680847,
+      "specialized": 0.1460000015795231
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10447.619912013208,
+      "attack": 184.6213812459373,
+      "defense": 779.3388197327331,
+      "specialized": 0.193999994546175
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11344.5032969327,
+      "attack": 200.4707228881798,
+      "defense": 846.2411966857508,
+      "specialized": 0.193999994546175
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11954.31628521395,
+      "attack": 211.24628898925403,
+      "defense": 891.7307901916101,
+      "specialized": 0.2420000024139881
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12858.207019053749,
+      "attack": 227.2194615206754,
+      "defense": 959.1558753436984,
+      "specialized": 0.2420000024139881
+    }
+  },
+  "version": "2.3",
+  "constellations": {
+    "c1": {
+      "name": "Stay a While and Listen Up",
+      "effect": "Setelah melancarkan **Royal Descent: Behold, Itto the Evil!**, Arataki Itto akan mendapatkan 2 lapis efek Superlative Superstrength. Setelah 1 detik, Itto akan mendapatkan 1 lapis Superlative Superstrength setiap 0,5 detik, dan berlangsung selama 1,5 detik."
+    },
+    "c2": {
+      "name": "Gather 'Round, It's a Brawl!",
+      "effect": "Setelah melancarkan **Royal Descent: Behold, Itto the Evil!**, CD skill ini akan berkurang 1,5 detik untuk setiap Karakter Geo yang ada di dalam party, dan akan memulihkan 6 Energy Arataki Itto.\nDengan cara ini, CD dapat berkurang maksimum hingga 4,5 detik, dan Energy dapat pulih maksimum hingga 18 Energy."
+    },
+    "c3": {
+      "name": "Horns Lowered, Coming Through",
+      "effect": "Meningkatkan 3 level **Masatsu Zetsugi: Akaushi Burst!**.\nMaksimum: Lv. 15."
+    },
+    "c4": {
+      "name": "Jailhouse Bread and Butter",
+      "effect": "Setelah status Raging Oni King yang didapatkan dari **Royal Descent: Behold, Itto the Evil!** berakhir, DEF dan ATK seluruh anggota party di sekitar meningkat 20% selama 10 detik."
+    },
+    "c5": {
+      "name": "10 Years of Hanamizaka Fame",
+      "effect": "Meningkatkan 3 level **Royal Descent: Behold, Itto the Evil!**.\nMaksimum: Lv. 15."
+    },
+    "c6": {
+      "name": "Arataki Itto, Present!",
+      "effect": "Meningkatkan 70% Crit DMG untuk Charged Attack Arataki Itto. Selain itu, saat melancarkan Arataki Kesagiri, Itto memiliki 50% kemungkinan untuk tidak mengonsumsi lapisan Superlative Superstrength."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Itto_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Itto_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_04.png",
+      "constellation": "Eff_UI_Talent_Itto"
+    },
+    "version": "2.3"
+  },
+  "talent": {
+    "name": "Arataki Itto",
+    "combat1": {
+      "name": "Normal Attack: Fight Club Legend",
+      "info": "**Normal Attack**\nMelancarkan hingga 4 serangan berturut-turut.\nSerangan ke-2 dan ke-4 yang mengenai musuh masing-masing akan menghasilkan 1 lapis dan 2 lapis efek Superlative Superstrength.\nMaksimum dapat ditumpuk hingga 5 lapis. Setiap kali memicu efek ini akan memperbarui durasi Superlative Superstrength yang sudah dimiliki.\n\nSelain itu, selama beberapa saat setelah melancarkan Elemental Skill Masatsu Zetsugi: Akaushi Burst! atau berlari, kombo Normal Attack Itto tidak akan di-reset.\n\n**Charged Attack**\nBila Itto memiliki Superlative Superstrength saat menahan tombol serang untuk melancarkan Charged Attack, Itto akan melancarkan serangan Arataki Kesagiri tanpa mengonsumsi Stamina. Setiap serangan Arataki Kesagiri akan mengonsumsi 1 lapis Superlative Superstrength. Dan saat mengonsumsi lapisan terakhir, Itto akan melancarkan 1 tebasan akhir dengan DMG yang lebih kuat.\nBila tidak memiliki Superlative Superstrength, Itto akan mengonsumsi Stamina untuk melancarkan 1 tebasan Saichimonji yang kuat.\n\n**Plunging Attack**\nMenerjang dari udara untuk menghantam tanah, menyerang semua musuh di jalurnya dan mengakibatkan DMG Area saat mendarat.",
+      "attributes": [
+        {
+          "name": "DMG Tahap 1",
+          "parameters": [
+            "79.23%",
+            "85.68%",
+            "92.13%",
+            "101.34%",
+            "107.79%",
+            "115.16%",
+            "125.30%",
+            "135.43%",
+            "145.57%",
+            "156.62%",
+            "169.29%",
+            "184.19%",
+            "199.08%",
+            "213.98%",
+            "230.23%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 2",
+          "parameters": [
+            "76.37%",
+            "82.58%",
+            "88.80%",
+            "97.68%",
+            "103.90%",
+            "111.00%",
+            "120.77%",
+            "130.54%",
+            "140.30%",
+            "150.96%",
+            "163.17%",
+            "177.53%",
+            "191.89%",
+            "206.25%",
+            "221.91%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 3",
+          "parameters": [
+            "91.64%",
+            "99.10%",
+            "106.56%",
+            "117.22%",
+            "124.68%",
+            "133.20%",
+            "144.92%",
+            "156.64%",
+            "168.36%",
+            "181.15%",
+            "195.80%",
+            "213.03%",
+            "230.27%",
+            "247.50%",
+            "266.29%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 4",
+          "parameters": [
+            "117.22%",
+            "126.77%",
+            "136.31%",
+            "149.94%",
+            "159.48%",
+            "170.39%",
+            "185.38%",
+            "200.37%",
+            "215.37%",
+            "231.72%",
+            "250.47%",
+            "272.51%",
+            "294.55%",
+            "316.59%",
+            "340.63%"
+          ]
+        },
+        {
+          "name": "DMG Kombo Tebasan Arataki Kesagiri",
+          "parameters": [
+            "91.16%",
+            "98.58%",
+            "106.00%",
+            "116.60%",
+            "124.02%",
+            "132.50%",
+            "144.16%",
+            "155.82%",
+            "167.48%",
+            "180.20%",
+            "194.77%",
+            "211.92%",
+            "229.06%",
+            "246.20%",
+            "264.89%"
+          ]
+        },
+        {
+          "name": "DMG Tebasan Akhir Arataki Kesagiri",
+          "parameters": [
+            "190.92%",
+            "206.46%",
+            "222.00%",
+            "244.20%",
+            "259.74%",
+            "277.50%",
+            "301.92%",
+            "326.34%",
+            "350.76%",
+            "377.40%",
+            "407.92%",
+            "443.82%",
+            "479.72%",
+            "515.62%",
+            "554.78%"
+          ]
+        },
+        {
+          "name": "Durasi Superlative Superstrength",
+          "parameters": [
+            "60 detik",
+            "60 detik",
+            "60 detik",
+            "60 detik",
+            "60 detik",
+            "60 detik",
+            "60 detik",
+            "60 detik",
+            "60 detik",
+            "60 detik",
+            "60 detik",
+            "60 detik",
+            "60 detik",
+            "60 detik",
+            "60 detik"
+          ]
+        },
+        {
+          "name": "DMG Tebasan Saichimonji",
+          "parameters": [
+            "90.47%",
+            "97.84%",
+            "105.20%",
+            "115.72%",
+            "123.08%",
+            "131.50%",
+            "143.07%",
+            "154.64%",
+            "166.22%",
+            "178.84%",
+            "193.31%",
+            "210.32%",
+            "227.33%",
+            "244.34%",
+            "262.89%"
+          ]
+        },
+        {
+          "name": "Konsumsi Stamina Saichimonji",
+          "parameters": [
+            "20 pt",
+            "20 pt",
+            "20 pt",
+            "20 pt",
+            "20 pt",
+            "20 pt",
+            "20 pt",
+            "20 pt",
+            "20 pt",
+            "20 pt",
+            "20 pt",
+            "20 pt",
+            "20 pt",
+            "20 pt",
+            "20 pt"
+          ]
+        },
+        {
+          "name": "DMG Selama Plunging",
+          "parameters": [
+            "81.83%",
+            "88.49%",
+            "95.16%",
+            "104.67%",
+            "111.33%",
+            "118.94%",
+            "129.41%",
+            "139.88%",
+            "150.35%",
+            "161.76%",
+            "173.18%",
+            "184.60%",
+            "196.02%",
+            "207.44%",
+            "218.86%"
+          ]
+        },
+        {
+          "name": "DMG Plunging Attack Min./Maks.",
+          "parameters": [
+            "163.63%/204.39%",
+            "176.95%/221.02%",
+            "190.27%/237.66%",
+            "209.30%/261.42%",
+            "222.62%/278.06%",
+            "237.84%/297.07%",
+            "258.77%/323.21%",
+            "279.70%/349.36%",
+            "300.63%/375.50%",
+            "323.46%/404.02%",
+            "346.29%/432.54%",
+            "369.12%/461.06%",
+            "391.96%/489.57%",
+            "414.79%/518.09%",
+            "437.62%/546.61%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Masatsu Zetsugi: Akaushi Burst!",
+      "info": "Melempar Ushi — seekor banteng akaushi muda yang juga adalah anggota tambahan dari Geng Arataki, untuk mengakibatkan Geo DMG pada musuh! Saat Ushi mengenai musuh, Arataki Itto akan memperoleh 1 lapis Superlative Superstrength.\n\nUshi akan tetap tinggal di medan pertempuran untuk memberikan bantuan:\n·Terus menerus mengejek musuh di sekitar untuk menarik perhatiannya.\n·HP Ushi mewarisi Max HP Arataki Itto berdasarkan persentase tertentu.\n·Saat Ushi terkena DMG, Ushi akan memberikan 1 lapis Superlative Superstrength pada Arataki Itto sendiri. Itto hanya bisa mendapatkan 1 lapis Superlative Superstrength setiap 2 detik dengan cara ini.\n·Saat HP-nya mencapai 0 atau durasinya berakhir, Ushi akan pergi meninggalkan medan pertempuran dan memberikan 1 lapis Superlative Superstrength kepada Itto sendiri.\n\n**Mode Tahan**\n\nMengatur arah lemparan.\n\nUshi dianggap sebagai sebuah Geo Construct dan hanya bisa ada 1 Ushi ciptaan Itto sendiri saja di medan pertempuran pada saat bersamaan.",
+      "description": "Nama teknik ini berasal dari novel ringan Onibudou (karangan Junkichi). Namun, menggunakan nama \"Onisatsu Zetsugi\" bisa menyebabkan masalah hak cipta. Ditambah lagi, Itto sendiri adalah seorang \"oni\" ....",
+      "attributes": [
+        {
+          "name": "DMG Skill",
+          "parameters": [
+            "307.20%",
+            "330.24%",
+            "353.28%",
+            "384.00%",
+            "407.04%",
+            "430.08%",
+            "460.80%",
+            "491.52%",
+            "522.24%",
+            "552.96%",
+            "583.68%",
+            "614.40%",
+            "652.80%",
+            "691.20%",
+            "729.60%"
+          ]
+        },
+        {
+          "name": "HP Terwariskan",
+          "parameters": [
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%"
+          ]
+        },
+        {
+          "name": "Durasi",
+          "parameters": [
+            "6 detik",
+            "6 detik",
+            "6 detik",
+            "6 detik",
+            "6 detik",
+            "6 detik",
+            "6 detik",
+            "6 detik",
+            "6 detik",
+            "6 detik",
+            "6 detik",
+            "6 detik",
+            "6 detik",
+            "6 detik",
+            "6 detik"
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "parameters": [
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Royal Descent: Behold, Itto the Evil!",
+      "info": "Waktunya untuk menunjukkan wibawa Geng Arataki! Selama beberapa saat, Itto akan berubah menjadi Raging Oni King dan menggunakan Oni King's Kanabou untuk bertarung.\nSkill ini memiliki karakteristik berikut:\n·DMG yang diakibatkan Normal, Charged, dan Plunging Attack dikonversi menjadi Geo DMG yang tidak bisa ditimpa Elemental Infusion lainnya.\n·Meningkatkan Normal Attack SPD Itto, dan meningkatkan ATK Itto berdasarkan DEF miliknya.\n·Akan memberikan Itto sendiri 1 lapis Superlative Superstrength saat serangan tahap ke-1 dan ke-3 mengenai musuh.\n·Mengurangi 20% seluruh Elemental RES dan Physical RES Itto.\n\nStatus Raging Oni King akan lenyap saat Arataki Itto meninggalkan medan pertempuran.",
+      "description": "Ini adalah jurus pamungkas super kuat milik Itto (kata Itto sendiri). Apa gunanya bagi seorang Arataki Itto untuk meniru benda atau orang lain demi menjadi lebih kuat? Arataki Itto, dialah si raja oni terkuat dan terkejam yang ada di dunia. Dengan kata lain, Arataki Itto cukup meniru dirinya sendiri!\nShouta merasa ini keren sekali.",
+      "attributes": [
+        {
+          "name": "Peningkatan ATK",
+          "parameters": [
+            "57.60% DEF",
+            "61.92% DEF",
+            "66.24% DEF",
+            "72.00% DEF",
+            "76.32% DEF",
+            "80.64% DEF",
+            "86.40% DEF",
+            "92.16% DEF",
+            "97.92% DEF",
+            "103.68% DEF",
+            "109.44% DEF",
+            "115.20% DEF",
+            "122.40% DEF",
+            "129.60% DEF",
+            "136.80% DEF"
+          ]
+        },
+        {
+          "name": "Peningkatan Normal Attack SPD",
+          "parameters": [
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%"
+          ]
+        },
+        {
+          "name": "Durasi",
+          "parameters": [
+            "11 detik",
+            "11 detik",
+            "11 detik",
+            "11 detik",
+            "11 detik",
+            "11 detik",
+            "11 detik",
+            "11 detik",
+            "11 detik",
+            "11 detik",
+            "11 detik",
+            "11 detik",
+            "11 detik",
+            "11 detik",
+            "11 detik"
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "parameters": [
+            "18 detik",
+            "18 detik",
+            "18 detik",
+            "18 detik",
+            "18 detik",
+            "18 detik",
+            "18 detik",
+            "18 detik",
+            "18 detik",
+            "18 detik",
+            "18 detik",
+            "18 detik",
+            "18 detik",
+            "18 detik",
+            "18 detik"
+          ]
+        },
+        {
+          "name": "Konsumsi Energy",
+          "parameters": [
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Arataki Ichiban",
+      "info": "Saat melancarkan Arataki Kesagiri secara beruntun, Arataki Itto akan memperoleh efek-efek berikut:\n·Setiap tebasan akan meningkatkan 10% ATK SPD untuk tebasan berikutnya. Dengan cara ini, ATK SPD dapat meningkat hingga 30%.\n·Meningkatkan ketahanan terhadap interupsi.\n\nEfek-efek ini akan menghilang saat Itto berhenti melancarkan tebasan beruntun."
+    },
+    "passive2": {
+      "name": "Bloodline of the Crimson Oni",
+      "info": "Meningkatkan DMG Arataki Kesagiri sebesar 35% DEF Arataki Itto."
+    },
+    "passive3": {
+      "name": "Woodchuck Chucked",
+      "info": "Saat anggota party sendiri memperoleh kayu dengan menyerang pohon, ada 25% kemungkinan untuk memperoleh kayu tambahan."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of Elegance",
+          "count": 3
+        },
+        {
+          "name": "Slime Condensate",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to Elegance",
+          "count": 2
+        },
+        {
+          "name": "Slime Secretions",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to Elegance",
+          "count": 4
+        },
+        {
+          "name": "Slime Secretions",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to Elegance",
+          "count": 6
+        },
+        {
+          "name": "Slime Secretions",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to Elegance",
+          "count": 9
+        },
+        {
+          "name": "Slime Secretions",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of Elegance",
+          "count": 4
+        },
+        {
+          "name": "Slime Concentrate",
+          "count": 4
+        },
+        {
+          "name": "Ashen Heart",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of Elegance",
+          "count": 6
+        },
+        {
+          "name": "Slime Concentrate",
+          "count": 6
+        },
+        {
+          "name": "Ashen Heart",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of Elegance",
+          "count": 12
+        },
+        {
+          "name": "Slime Concentrate",
+          "count": 9
+        },
+        {
+          "name": "Ashen Heart",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of Elegance",
+          "count": 16
+        },
+        {
+          "name": "Slime Concentrate",
+          "count": 12
+        },
+        {
+          "name": "Ashen Heart",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Itto_01",
+      "combat3": "Skill_E_Itto_01_HD",
+      "passive1": "UI_Talent_S_Itto_05",
+      "passive2": "UI_Talent_S_Itto_06",
+      "passive3": "UI_Talent_S_Itto_07"
+    },
+    "version": "2.3"
+  }
+}

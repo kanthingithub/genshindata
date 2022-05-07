@@ -1,0 +1,17 @@
+{
+  "name": "Жёлтая краска",
+  "description": "Жёлтый краситель. Безусловно пригодится для изготовления декора.",
+  "sortorder": 1939,
+  "category": "EXCHANGE",
+  "materialtype": "Материал",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Yellow_Dye.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Item_Yellow_Dye.png",
+    "nameicon": "UI_ItemIcon_101403"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Yellow_Dye"
+  },
+  "version": ""
+}

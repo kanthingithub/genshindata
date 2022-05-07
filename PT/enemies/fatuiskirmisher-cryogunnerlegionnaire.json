@@ -1,0 +1,113 @@
+{
+  "name": "Soldado dos Fatui - Guarda de Canhão Cryo",
+  "specialname": "Fatui - De Conti",
+  "enemytype": "COMMON",
+  "category": "Fatui",
+  "description": "Um soldado em uma máquina de guerra Fatui.\nArmado com um equipamento que pode controlar os elementos até certo ponto, suas armas são capazes de disparar raios congelantes.\nAinda que isso possa conferir poder elemental inalcançável para humanos comuns, esse poder pode custar um preço alto.",
+  "investigation": {
+    "name": "Soldado Fatui",
+    "category": "Comum",
+    "description": "Um soldado dentro de uma máquina de guerra Fatui.\\nEsses soldados não questionam se viverão ou morrerrão enquanto avançam para nações longe de casa para completar missões avançadas e estabelecer as bases para as operações que virão.\\nAo contrário dos Magos e Agentes, os Soldados Fatui são soldados de menor poder individual.\\nPara completar suas tarefas e reduzir as perdas em homens e materiais, suas táticas são mais dependentes do trabalho em equipe."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Insígnia de Recruta",
+      "count": 4.202
+    },
+    {
+      "name": "Insígnia de Sargento",
+      "count": 1.1205
+    },
+    {
+      "name": "Insígnia de Oficial",
+      "count": 0.28
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Skirmisher_Male_Fat_SprayGun_Ice_01"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 291.66797260567546,
+      "attack": 76.13319315582885,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 1146.4162143330323,
+      "attack": 203.4083293985932,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 3540.8000051295385,
+      "attack": 501.7499019824463,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 5891.201306511182,
+      "attack": 819.5298012541898,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 10779.39785392955,
+      "attack": 1225.2416554312222,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 19985.937023699284,
+      "attack": 1889.4817435136356,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 33525.019252449274,
+      "attack": 2660.773141056823,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 52207.890549559146,
+      "attack": 3673.071566613973,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 74262.9101620093,
+      "attack": 4725.795096868649,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 97416.34670969099,
+      "attack": 5709.411795508931,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 147060.48616039753,
+      "attack": 7386.62659546989,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 214009.2548867762,
+      "attack": 7533.291466042516,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 287945.26689353585,
+      "attack": 7680.983199416427,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

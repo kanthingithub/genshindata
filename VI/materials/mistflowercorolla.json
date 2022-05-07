@@ -1,0 +1,20 @@
+{
+  "name": "Đóa Băng Vụ Hoa",
+  "description": "Đóa hoa nằm trong băng, cho dù rời khỏi cây cũng vẫn toát ra hàn khí lạnh lẽo.",
+  "sortorder": 1968,
+  "category": "EXCHANGE",
+  "materialtype": "Nguyên Liệu",
+  "source": [
+    "Thu Thập Bên Ngoài",
+    "Kiến nghị: Thu thập trong Tửu Trang Dawn"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Flower_Corolla.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Item_Mist_Flower_Corolla.png",
+    "nameicon": "UI_ItemIcon_100052"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Flower_Corolla"
+  },
+  "version": ""
+}

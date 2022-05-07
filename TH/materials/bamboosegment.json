@@ -1,0 +1,21 @@
+{
+  "name": "ท่อนไม้ไผ่",
+  "description": "ท่อนไม้ไผ่ของต้นไผ่สีเขียว มีน้ำหนักค่อนข้างเบาและมีความแข็งแรงทนทาน ลักษณะที่เรียบง่ายและมีกลิ่นอายที่เงียบสงบซึ่งมีความเป็นเอกลักษณ์\nสามารถใช้สร้างเฟอร์นิเจอร์ได้",
+  "sortorder": 1949,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "วัสดุ",
+  "source": [
+    "พบได้ในโลกกว้าง",
+    "แนะนำ: ตัดบริเวณ Bishui Plain"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bamboo_Segment.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Bamboo_Segment.png",
+    "nameicon": "UI_ItemIcon_101305"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bamboo_Segment"
+  },
+  "version": ""
+}

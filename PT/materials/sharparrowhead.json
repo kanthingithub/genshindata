@@ -1,0 +1,22 @@
+{
+  "name": "Ponta de Flecha Afiada",
+  "description": "Ponta de flecha bem feita, capaz de penetrar facilmente na armadura do inimigo como se fosse uma pedra atirada na superfície da água.",
+  "sortorder": 1733,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Obtido na síntese",
+    "Dropado por Hilichurls Arqueiros Nv.40+",
+    "Resgate de Poeira Estrelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sharp_Arrowhead.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Item_Sharp_Arrowhead.png",
+    "nameicon": "UI_ItemIcon_112012"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sharp_Arrowhead"
+  },
+  "version": ""
+}

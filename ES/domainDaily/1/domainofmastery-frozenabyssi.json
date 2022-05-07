@@ -1,0 +1,166 @@
+{
+  "name": "Dominio de la maestría: Abismo helado",
+  "region": "Mondstadt",
+  "domainEntrance": "Cañón del olvido",
+  "domainType": "Material de mejora de talento",
+  "description": "Una energía masiva Cryo corre a través de este antiguo altar de sacrificios helado.\nEl frío perfora los huesos y dificulta el paso a cualquiera.\nObtendrás materiales de mejora de talentos si eres capaz de superar esta prueba.",
+  "daysOfWeek": [
+    "Martes",
+    "Viernes",
+    "Domingo"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Ice"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Dominio de la maestría: Abismo helado I",
+      "recommendedLevel": 38,
+      "recommendedElements": [
+        "Electro",
+        "Pyro"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1575
+        },
+        {
+          "name": "EXP de Amistad",
+          "count": 15
+        },
+        {
+          "name": "Enseñanzas de la resistencia"
+        }
+      ],
+      "disorder": [
+        "El personaje ocasionalmente se verá afectado por hielo condensado, el cual aumenta considerablemente el Coste de Aguante hasta que el elemento Cryo desaparezca."
+      ],
+      "monsterlist": [
+        "Slime Cryo",
+        "Slime Gigante Cryo",
+        "Mago del Abismo Cryo"
+      ]
+    },
+    {
+      "name": "Dominio de la maestría: Abismo helado II",
+      "recommendedLevel": 54,
+      "recommendedElements": [
+        "Electro",
+        "Pyro"
+      ],
+      "unlockRank": 28,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1800
+        },
+        {
+          "name": "EXP de Amistad",
+          "count": 15
+        },
+        {
+          "name": "Enseñanzas de la resistencia"
+        },
+        {
+          "name": "Guía de la resistencia"
+        }
+      ],
+      "disorder": [
+        "El personaje ocasionalmente se verá afectado por hielo condensado, el cual aumenta considerablemente el Coste de Aguante hasta que el elemento Cryo desaparezca."
+      ],
+      "monsterlist": [
+        "Slime Cryo",
+        "Slime Gigante Cryo",
+        "Hilichurl Guerrero",
+        "Mago del Abismo Cryo"
+      ]
+    },
+    {
+      "name": "Dominio de la maestría: Abismo helado III",
+      "recommendedLevel": 71,
+      "recommendedElements": [
+        "Electro",
+        "Pyro"
+      ],
+      "unlockRank": 36,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2050
+        },
+        {
+          "name": "EXP de Amistad",
+          "count": 20
+        },
+        {
+          "name": "Enseñanzas de la resistencia"
+        },
+        {
+          "name": "Guía de la resistencia"
+        }
+      ],
+      "disorder": [
+        "El personaje ocasionalmente se verá afectado por hielo condensado, el cual aumenta considerablemente el Coste de Aguante hasta que el atributo Cryo desaparezca. Pilares de hielo caerán al azar en el área, infligiendo Daño Cryo."
+      ],
+      "monsterlist": [
+        "Slime Cryo",
+        "Slime Gigante Cryo",
+        "Mago del Abismo Cryo"
+      ]
+    },
+    {
+      "name": "Dominio de la maestría: Abismo helado IV",
+      "recommendedLevel": 88,
+      "recommendedElements": [
+        "Electro",
+        "Pyro"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2375
+        },
+        {
+          "name": "EXP de Amistad",
+          "count": 20
+        },
+        {
+          "name": "Enseñanzas de la resistencia"
+        },
+        {
+          "name": "Guía de la resistencia"
+        },
+        {
+          "name": "Filosofía de la resistencia"
+        }
+      ],
+      "disorder": [
+        "El personaje ocasionalmente se verá afectado por hielo condensado, el cual aumenta considerablemente el Coste de Aguante hasta que el atributo Cryo desaparezca. Pilares de hielo caerán al azar en el área, infligiendo Daño Cryo."
+      ],
+      "monsterlist": [
+        "Slime Gigante Cryo",
+        "Mago del Abismo Cryo"
+      ]
+    }
+  ]
+}

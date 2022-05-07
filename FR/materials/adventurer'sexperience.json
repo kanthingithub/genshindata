@@ -1,0 +1,20 @@
+{
+  "name": "Conseils de l'aventurier",
+  "description": "Matériau d'EXP de personnage. Confère 5 000 pts d'EXP.\nCes conseils sont indispensables si vous vous aventurez dans des contrées inconnues.",
+  "sortorder": 1291,
+  "rarity": "3",
+  "category": "EXP_FRUIT",
+  "materialtype": "Matériau d'EXP de personnage",
+  "source": [
+    "Aventure et exploration"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_104002",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Adventurer's_Experience.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Adventurer's_Experience"
+  },
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "도마뱀 꼬리",
+  "description": "둥글게 말린 도마뱀 꼬리. 아주 쓰고 강한 약효를 가지고 있으며, 사람의 피부를 딱딱하게 만든다",
+  "sortorder": 1974,
+  "category": "EXCHANGE",
+  "materialtype": "소재",
+  "source": [
+    "도마뱀을 포획하여 채집"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lizard_Tail.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Lizard_Tail.png",
+    "nameicon": "UI_ItemIcon_100083"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lizard_Tail"
+  },
+  "version": ""
+}

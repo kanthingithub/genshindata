@@ -1,0 +1,26 @@
+{
+  "name": "Menottes du Chevalier du Croc de Lion",
+  "description": "Matériau d'élévation d'arme.\nVennessa ne fut jamais véritablement entravée par ses chaînes. Contrairement à sa terre natale, Mondstadt ne possédait pas le minerai ou le feu pour forger des entraves susceptibles de l'enchaîner indéfiniment.\nLa seule chose qui la retenait en ce lieu était la responsabilité qu'elle avait envers les siens.",
+  "sortorder": 2193,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'élévation d'arme",
+  "dropdomain": "Donjon d'entraînement : Capitale assoiffée",
+  "daysofweek": [
+    "Mercredi",
+    "Samedi",
+    "Dimanche"
+  ],
+  "source": [
+    "Synthèse"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shackles_of_the_Dandelion_Gladiator.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Item_Shackles_of_the_Dandelion_Gladiator.png",
+    "nameicon": "UI_ItemIcon_114011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shackles_of_the_Dandelion_Gladiator"
+  },
+  "version": ""
+}

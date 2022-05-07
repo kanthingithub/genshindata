@@ -1,0 +1,20 @@
+{
+  "name": "Coroa do Senhor dos Dragões",
+  "description": "Chifres criados a partir da jade endurecida cristalizada durante mil anos são a coroa natural do rei dragão.\nInfuso de espírito e esculpido da rocha-mãe, nasceu do coração da montanha para mostrar a força da terra para a região em meio aos monólitos, e seus longos chifres dourados são a marca de sua antiga luta com um antigo lorde.\nPor um tempo, este chifre foi quebrado e perdeu seu brilho, mas agora brilha gelado e dourado enquanto está na palma de sua mão.",
+  "sortorder": 1799,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Recompensa do Desafio de Azhdaha Nv.70+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dragon_Lord's_Crown.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Item_Dragon_Lord%27s_Crown.png",
+    "nameicon": "UI_ItemIcon_113017"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dragon_Lord's_Crown"
+  },
+  "version": ""
+}

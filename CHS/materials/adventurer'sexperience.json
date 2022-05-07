@@ -1,0 +1,20 @@
+{
+  "name": "冒险家的经验",
+  "description": "角色经验素材，含有5000点经验值。\n如果踏上了前人未至的秘境，这些经验还是很重要的。",
+  "sortorder": 1291,
+  "rarity": "3",
+  "category": "EXP_FRUIT",
+  "materialtype": "角色经验素材",
+  "source": [
+    "冒险与探索奖励"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_104002",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Adventurer's_Experience.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Adventurer's_Experience"
+  },
+  "version": ""
+}

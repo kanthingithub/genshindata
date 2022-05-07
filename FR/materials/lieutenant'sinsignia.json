@@ -1,0 +1,23 @@
+{
+  "name": "Insigne d'officier",
+  "description": "Un insigne servant à identifier les officiers. Compte tenu de la taille de l'armée des Fatui, ceux qui parviennent à atteindre le rang d'officier doivent sûrement être un minimum doués.",
+  "sortorder": 1752,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Synthèse",
+    "Butin de Tirailleur Fatui (Niv.60+)",
+    "Butin de certains Usuriers des Fatui (Niv.60+)",
+    "Butin de certains Mages lucioles des Fatui (Niv.60+)"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lieutenant's_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Item_Lieutenant%27s_Insignia.png",
+    "nameicon": "UI_ItemIcon_112034"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lieutenant's_Insignia"
+  },
+  "version": ""
+}

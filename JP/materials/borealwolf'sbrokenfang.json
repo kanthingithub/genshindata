@@ -1,0 +1,26 @@
+{
+  "name": "凛風奔狼の断牙",
+  "description": "武器に突破の力を付与する材料。\n人は同類がいないと孤独を感じると、狼たちもよく理解している。栄光の断牙は狼たちの餞別であり、相手を守る力があるとされる。\n遥か遠い世界の伝説で、ある雌狼が人の双子を育てた。狼と人が住む「家」は「狼の洞」と呼ばれ、すなわち「ルペカ」、この世界の「ルピカ」である。",
+  "sortorder": 2189,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "武器突破素材",
+  "dropdomain": "煉武秘境：沈んだ谷",
+  "daysofweek": [
+    "火曜",
+    "金曜",
+    "日曜"
+  ],
+  "source": [
+    "合成で獲得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Boreal_Wolf's_Broken_Fang.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Boreal_Wolf%27s_Broken_Fang.png",
+    "nameicon": "UI_ItemIcon_114007"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Boreal_Wolf's_Broken_Fang"
+  },
+  "version": ""
+}

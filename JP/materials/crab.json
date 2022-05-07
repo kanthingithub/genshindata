@@ -1,0 +1,19 @@
+{
+  "name": "カニ",
+  "description": "近海エリアに生息する甲殻類動物。きめ細やかで美しい肉質をしており、簡単に美味しい食事に加工できる。",
+  "sortorder": 1993,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "川、湖、海辺で採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crab.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Crab.png",
+    "nameicon": "UI_ItemIcon_100073"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Crab"
+  },
+  "version": ""
+}

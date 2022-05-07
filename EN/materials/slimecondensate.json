@@ -1,0 +1,21 @@
+{
+  "name": "Slime Condensate",
+  "description": "A thick coating found on slimes. Most commonly seen material in elemental workshops.",
+  "sortorder": 1723,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Dropped by slimes",
+    "Stardust Exchange"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Slime_Condensate.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Item_Slime_Condensate.png",
+    "nameicon": "UI_ItemIcon_112002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Slime_Condensate"
+  },
+  "version": ""
+}

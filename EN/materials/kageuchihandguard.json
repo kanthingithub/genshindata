@@ -1,0 +1,22 @@
+{
+  "name": "Kageuchi Handguard",
+  "description": "A handguard mounded upon a sword of some distinction.\nInazuma has a long tradition of sword-making. When making swords, smiths will often make several different weapons at once, before choosing from among them the \"shinuchi,\" or the best weapon, while the others are known as \"kageuchi.\"",
+  "sortorder": 1763,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Crafted",
+    "Dropped by Lv. 40+ Nobushi",
+    "Stardust Exchange"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Kageuchi_Handguard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Kageuchi_Handguard.png",
+    "nameicon": "UI_ItemIcon_112045"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Kageuchi_Handguard"
+  },
+  "version": ""
+}

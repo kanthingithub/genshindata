@@ -1,0 +1,874 @@
+{
+  "name": "Mona",
+  "fullname": "Mona",
+  "title": "Astral Reflection",
+  "description": "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title. Erudite, but prideful.",
+  "rarity": "5",
+  "element": "Hydro",
+  "weapontype": "Catalyst",
+  "substat": "Energy Recharge",
+  "gender": "Female",
+  "body": "GIRL",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Mondstadt",
+  "birthdaymmdd": "8/31",
+  "birthday": "August 31",
+  "constellation": "Astrolabos",
+  "cv": {
+    "english": "Felecia Angelle",
+    "chinese": "陈婷婷",
+    "japanese": "小原好美",
+    "korean": "Woo Jeong-shin"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Varunada Lazurite Sliver",
+        "count": 1
+      },
+      {
+        "name": "Philanemo Mushroom",
+        "count": 3
+      },
+      {
+        "name": "Whopperflower Nectar",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Varunada Lazurite Fragment",
+        "count": 3
+      },
+      {
+        "name": "Cleansing Heart",
+        "count": 2
+      },
+      {
+        "name": "Philanemo Mushroom",
+        "count": 10
+      },
+      {
+        "name": "Whopperflower Nectar",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Varunada Lazurite Fragment",
+        "count": 6
+      },
+      {
+        "name": "Cleansing Heart",
+        "count": 4
+      },
+      {
+        "name": "Philanemo Mushroom",
+        "count": 20
+      },
+      {
+        "name": "Shimmering Nectar",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Varunada Lazurite Chunk",
+        "count": 3
+      },
+      {
+        "name": "Cleansing Heart",
+        "count": 8
+      },
+      {
+        "name": "Philanemo Mushroom",
+        "count": 30
+      },
+      {
+        "name": "Shimmering Nectar",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Varunada Lazurite Chunk",
+        "count": 6
+      },
+      {
+        "name": "Cleansing Heart",
+        "count": 12
+      },
+      {
+        "name": "Philanemo Mushroom",
+        "count": 45
+      },
+      {
+        "name": "Energy Nectar",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Varunada Lazurite Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Cleansing Heart",
+        "count": 20
+      },
+      {
+        "name": "Philanemo Mushroom",
+        "count": 60
+      },
+      {
+        "name": "Energy Nectar",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Character_Mona_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Character_Mona_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Mona.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817270842074.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817353421694.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/1fa7a20fb3b391132e1132ab2a44e146.png",
+    "nameicon": "UI_AvatarIcon_Mona",
+    "nameiconcard": "UI_AvatarIcon_Mona_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Mona",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Mona",
+    "namesideicon": "UI_AvatarIcon_Side_Mona"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mona"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 810.322021484375,
+      "attack": 22.3439998626709,
+      "defense": 50.855499267578125,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2101.9754056454985,
+      "attack": 57.96033790251158,
+      "defense": 131.9191702410535,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2796.7532376767485,
+      "attack": 77.11689880033873,
+      "defense": 175.52416978328984,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4184.8349083920475,
+      "attack": 115.3921718862457,
+      "defense": 262.63964303562534,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4678.4928673764225,
+      "attack": 129.00341036585996,
+      "defense": 293.6221450192679,
+      "specialized": 0.07999999821186066
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5382.662670043879,
+      "attack": 148.42034530892943,
+      "defense": 337.81557174881164,
+      "specialized": 0.07999999821186066
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6040.873241332942,
+      "attack": 166.5686645533142,
+      "defense": 379.1255693074054,
+      "specialized": 0.1599999964237213
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6752.335800001631,
+      "attack": 186.18669157431032,
+      "defense": 423.77668660643394,
+      "specialized": 0.1599999964237213
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7245.993636915693,
+      "attack": 199.7979319612732,
+      "defense": 454.7591924047738,
+      "specialized": 0.1599999964237213
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7963.9390746873105,
+      "attack": 219.59471933425903,
+      "defense": 499.8171727097797,
+      "specialized": 0.1599999964237213
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8457.597033671685,
+      "attack": 233.20596353591918,
+      "defense": 530.799670878725,
+      "specialized": 0.23999999463558197
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9183.645490734489,
+      "attack": 253.22618536721802,
+      "defense": 576.366193566515,
+      "specialized": 0.23999999463558197
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 9677.303449718864,
+      "attack": 266.83742193948365,
+      "defense": 607.3486917354603,
+      "specialized": 0.3199999928474426
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10409.024522594642,
+      "attack": 287.0140617423858,
+      "defense": 653.2712256159284,
+      "specialized": 0.3199999928474426
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Prophecy of Submersion",
+      "effect": "When any of your own party members hits an opponent affected by an Omen, the effects of Hydro-related Elemental Reactions are enhanced for 8s:\n·Electro-Charged DMG increases by 15%.\n·Vaporize DMG increases by 15%.\n·Hydro Swirl DMG increases by 15%.\n·Frozen duration is extended by 15%."
+    },
+    "c2": {
+      "name": "Lunar Chain",
+      "effect": "When a Normal Attack hits, there is a 20% chance that it will be automatically followed by a Charged Attack.\nThis effect can only occur once every 5s."
+    },
+    "c3": {
+      "name": "Restless Revolution",
+      "effect": "Increases the Level of **Stellaris Phantasm** by 3.\nMaximum upgrade level is 15."
+    },
+    "c4": {
+      "name": "Prophecy of Oblivion",
+      "effect": "When any party member attacks an opponent affected by an Omen, their CRIT Rate is increased by 15%."
+    },
+    "c5": {
+      "name": "Mockery of Fortuna",
+      "effect": "Increases the Level of **Mirror Reflection of Doom** by 3.\nMaximum upgrade level is 15."
+    },
+    "c6": {
+      "name": "Rhetorics of Calamitas",
+      "effect": "Upon entering **Illusory Torrent**, Mona gains a 60% increase to the DMG of her next Charged Attack per second of movement.\nA maximum DMG Bonus of 180% can be achieved in this manner. The effect lasts for no more than 8s."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Mona_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Mona_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_04.png",
+      "constellation": "Eff_UI_Talent_Mona"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Mona",
+    "combat1": {
+      "name": "Normal Attack: Ripple of Fate",
+      "info": "**Normal Attack**\nPerform up to 4 water splash attacks that deal Hydro DMG.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to deal AoE Hydro DMG after a short casting time.\n\n**Plunging Attack**\nGathering the might of Hydro, Mona plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Hydro DMG upon impact with the ground.",
+      "attributes": [
+        {
+          "name": "1-Hit DMG",
+          "parameters": [
+            "37.60%",
+            "40.42%",
+            "43.24%",
+            "47.00%",
+            "49.82%",
+            "52.64%",
+            "56.40%",
+            "60.16%",
+            "63.92%",
+            "67.68%",
+            "71.44%",
+            "75.20%",
+            "79.90%",
+            "84.60%",
+            "89.30%"
+          ]
+        },
+        {
+          "name": "2-Hit DMG",
+          "parameters": [
+            "36.00%",
+            "38.70%",
+            "41.40%",
+            "45.00%",
+            "47.70%",
+            "50.40%",
+            "54.00%",
+            "57.60%",
+            "61.20%",
+            "64.80%",
+            "68.40%",
+            "72.00%",
+            "76.50%",
+            "81.00%",
+            "85.50%"
+          ]
+        },
+        {
+          "name": "3-Hit DMG",
+          "parameters": [
+            "44.80%",
+            "48.16%",
+            "51.52%",
+            "56.00%",
+            "59.36%",
+            "62.72%",
+            "67.20%",
+            "71.68%",
+            "76.16%",
+            "80.64%",
+            "85.12%",
+            "89.60%",
+            "95.20%",
+            "100.80%",
+            "106.40%"
+          ]
+        },
+        {
+          "name": "4-Hit DMG",
+          "parameters": [
+            "56.16%",
+            "60.37%",
+            "64.58%",
+            "70.20%",
+            "74.41%",
+            "78.62%",
+            "84.24%",
+            "89.86%",
+            "95.47%",
+            "101.09%",
+            "106.70%",
+            "112.32%",
+            "119.34%",
+            "126.36%",
+            "133.38%"
+          ]
+        },
+        {
+          "name": "Charged Attack DMG",
+          "parameters": [
+            "149.72%",
+            "160.95%",
+            "172.18%",
+            "187.15%",
+            "198.38%",
+            "209.61%",
+            "224.58%",
+            "239.55%",
+            "254.52%",
+            "269.50%",
+            "285.07%",
+            "305.43%",
+            "325.79%",
+            "346.15%",
+            "366.51%"
+          ]
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "parameters": [
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50"
+          ]
+        },
+        {
+          "name": "Plunge DMG",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "Low/High Plunge DMG",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Mirror Reflection of Doom",
+      "info": "Creates an illusory Phantom of Fate from coalesced waterspouts.\n\nThe **Phantom** has the following special properties:\n·Continuously taunts nearby opponents, attracting their fire.\n·Continuously deals Hydro DMG to nearby opponents.\n·When its duration expires, the Phantom explodes, dealing AoE Hydro DMG.\n\n**Hold**\nUtilizes water currents to move backwards swiftly before conjuring a Phantom.\n\nOnly one Phantom created by Mirror Reflection of Doom can exist at any time.",
+      "description": "Skilled astrologers have always dreamed of using a phantom facsimile of themselves to ward off imminent ill fate, but Mona must be the first to make such a mockery of it in all of Teyvat.",
+      "attributes": [
+        {
+          "name": "DoT",
+          "parameters": [
+            "32.00%",
+            "34.40%",
+            "36.80%",
+            "40.00%",
+            "42.40%",
+            "44.80%",
+            "48.00%",
+            "51.20%",
+            "54.40%",
+            "57.60%",
+            "60.80%",
+            "64.00%",
+            "68.00%",
+            "72.00%",
+            "76.00%"
+          ]
+        },
+        {
+          "name": "Explosion DMG",
+          "parameters": [
+            "132.80%",
+            "142.76%",
+            "152.72%",
+            "166.00%",
+            "175.96%",
+            "185.92%",
+            "199.20%",
+            "212.48%",
+            "225.76%",
+            "239.04%",
+            "252.32%",
+            "265.60%",
+            "282.20%",
+            "298.80%",
+            "315.40%"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        }
+      ]
+    },
+    "combatsp": {
+      "name": "Illusory Torrent",
+      "info": "**Alternate Sprint**\nMona cloaks herself within the water's flow, consuming Stamina to move rapidly.\n\nWhen under the effect of Illusory Torrent, Mona can move at high speed on water.\nApplies the Wet status to nearby opponents when she reappears.",
+      "description": "This is something that Mona can do, but her teacher cannot. Well, but it's not as if her teacher would pursue any matter concerning Hydro Visions anyway...",
+      "attributes": [
+        {
+          "name": "Activation Stamina Consumption",
+          "parameters": [
+            "10"
+          ]
+        },
+        {
+          "name": "Stamina Drain",
+          "parameters": [
+            "15/s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Stellaris Phantasm",
+      "info": "Mona summons the sparkling waves and creates a reflection of the starry sky, applying the Illusory Bubble status to opponents in a large AoE.\n\n**Illusory Bubble**\nTraps opponents inside a pocket of destiny and also makes them Wet. Renders weaker opponents immobile.\nWhen an opponent affected by Illusory Bubble sustains DMG, it has the following effects:\n·Applies an Omen to the opponent, which gives a DMG Bonus, also increasing the DMG of the attack that causes it.\n·Removes the Illusory Bubble, dealing Hydro DMG in the process.\n\n**Omen**\nDuring its duration, increases DMG taken by opponents.",
+      "description": "It was from the time that gods first traced the lights in the heavens with their eyes that the notion of \"fate\" was born.",
+      "attributes": [
+        {
+          "name": "Illusory Bubble Duration",
+          "parameters": [
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s"
+          ]
+        },
+        {
+          "name": "Illusory Bubble Explosion DMG",
+          "parameters": [
+            "442.40%",
+            "475.58%",
+            "508.76%",
+            "553.00%",
+            "586.18%",
+            "619.36%",
+            "663.60%",
+            "707.84%",
+            "752.08%",
+            "796.32%",
+            "840.56%",
+            "884.80%",
+            "940.10%",
+            "995.40%",
+            "1050.70%"
+          ]
+        },
+        {
+          "name": "DMG Bonus",
+          "parameters": [
+            "42.00%",
+            "44.00%",
+            "46.00%",
+            "48.00%",
+            "50.00%",
+            "52.00%",
+            "54.00%",
+            "56.00%",
+            "58.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%"
+          ]
+        },
+        {
+          "name": "Omen Duration",
+          "parameters": [
+            "4s",
+            "4s",
+            "4s",
+            "4.5s",
+            "4.5s",
+            "4.5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "Energy Cost",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "\"Come 'n' Get Me, Hag!\"",
+      "info": "After she has used **Illusory Torrent** for 2s, if there are any opponents nearby, Mona will automatically create a Phantom.\nA Phantom created in this manner lasts for 2s, and its explosion DMG is equal to 50% of **Mirror Reflection of Doom**."
+    },
+    "passive2": {
+      "name": "Waterborne Destiny",
+      "info": "Increases Mona's Hydro DMG Bonus by a degree equivalent to 20% of her Energy Recharge rate."
+    },
+    "passive3": {
+      "name": "Principium of Astrology",
+      "info": "When Mona crafts Weapon Ascension Materials, she has a 25% chance to refund a portion of the crafting materials used."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of Resistance",
+          "count": 3
+        },
+        {
+          "name": "Whopperflower Nectar",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to Resistance",
+          "count": 2
+        },
+        {
+          "name": "Shimmering Nectar",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to Resistance",
+          "count": 4
+        },
+        {
+          "name": "Shimmering Nectar",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to Resistance",
+          "count": 6
+        },
+        {
+          "name": "Shimmering Nectar",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to Resistance",
+          "count": 9
+        },
+        {
+          "name": "Shimmering Nectar",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of Resistance",
+          "count": 4
+        },
+        {
+          "name": "Energy Nectar",
+          "count": 4
+        },
+        {
+          "name": "Ring of Boreas",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of Resistance",
+          "count": 6
+        },
+        {
+          "name": "Energy Nectar",
+          "count": 6
+        },
+        {
+          "name": "Ring of Boreas",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of Resistance",
+          "count": 12
+        },
+        {
+          "name": "Energy Nectar",
+          "count": 9
+        },
+        {
+          "name": "Ring of Boreas",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of Resistance",
+          "count": 16
+        },
+        {
+          "name": "Energy Nectar",
+          "count": 12
+        },
+        {
+          "name": "Ring of Boreas",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_Catalyst_MD",
+      "combat2": "Skill_S_Mona_01",
+      "combatsp": "Skill_S_Mona_02",
+      "combat3": "Skill_E_Mona_01_HD",
+      "passive1": "UI_Talent_S_Mona_05",
+      "passive2": "UI_Talent_S_Mona_06",
+      "passive3": "UI_Talent_Combine_Weapon"
+    },
+    "version": "1.0"
+  }
+}

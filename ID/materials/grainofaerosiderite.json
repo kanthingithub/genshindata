@@ -1,0 +1,26 @@
+{
+  "name": "Grain of Aerosiderite",
+  "description": "Material Ascension Senjata.\nSebuah meteor hitam dulu jatuh di Sea of Cloud, Liyue, dikatakan bahwa meteor itu jatuh untuk mengalahkan monster. Namun, ternodai oleh darah tercemar yang sangat kuat, sehingga benda ini tidak lagi mempunyai kekuatan suci dari Rex Lapis.",
+  "sortorder": 2203,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Ascension Senjata",
+  "dropdomain": "Domain of Forgery: Ujian Tantangan Guntur",
+  "daysofweek": [
+    "Rabu",
+    "Sabtu",
+    "Minggu"
+  ],
+  "source": [
+    "Dibeli dari Toko Suvenir di Liyue"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Grain_of_Aerosiderite.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Item_Grain_of_Aerosiderite.png",
+    "nameicon": "UI_ItemIcon_114021"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Grain_of_Aerosiderite"
+  },
+  "version": ""
+}

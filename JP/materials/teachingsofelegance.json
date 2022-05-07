@@ -1,0 +1,24 @@
+{
+  "name": "「風雅」の教え",
+  "description": "天賦育成素材。\n雷の国が表す姿は風雅である。\n風雅とは、媚びぬこと。風雅たる者は常に高貴である。大空を翔け、雷雨に立ち向かう高貴なる鷹のように。低俗に迎合して花冠を泥に染めても、自らの尊厳を汚すだけである。",
+  "sortorder": 1872,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "天賦育成素材",
+  "dropdomain": "熟知秘境：初雷の幽谷",
+  "daysofweek": [
+    "火曜",
+    "金曜",
+    "日曜"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Elegance.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Item_Teachings_of_Elegance.png",
+    "nameicon": "UI_ItemIcon_104323"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Elegance"
+  },
+  "version": ""
+}

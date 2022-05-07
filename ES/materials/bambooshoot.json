@@ -1,0 +1,20 @@
+{
+  "name": "Brote de bambú",
+  "description": "Un brote de bambú fresco que despide una fragancia muy peculiar. Es un ingrediente delicioso que solo puede encontrarse en zonas con bambú.",
+  "sortorder": 2006,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente culinario",
+  "source": [
+    "Recolectar en la naturaleza",
+    "Recolectar en los bosques de bambú de la Aldea Chingtsé"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bamboo_Shoot.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Bamboo_Shoot.png",
+    "nameicon": "UI_ItemIcon_100091"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bamboo_Shoot"
+  },
+  "version": ""
+}

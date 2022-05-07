@@ -1,0 +1,26 @@
+{
+  "name": "Plomb karstique",
+  "description": "Matériau d'élévation d'arme.\nLe Karst Jueyun est la demeure des Adeptes puissants et éclairés qui maîtrisent les arts occultes.",
+  "sortorder": 2199,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'élévation d'arme",
+  "dropdomain": "Donjon d'entraînement : Ruines grondantes",
+  "daysofweek": [
+    "Mardi",
+    "Vendredi",
+    "Dimanche"
+  ],
+  "source": [
+    "Boutique de souvenirs de Liyue"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Veiled_Lead_Elixir.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Mist_Veiled_Lead_Elixir.png",
+    "nameicon": "UI_ItemIcon_114017"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Veiled_Lead_Elixir"
+  },
+  "version": ""
+}

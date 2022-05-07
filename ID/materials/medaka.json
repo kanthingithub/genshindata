@@ -1,0 +1,20 @@
+{
+  "name": "Medaka",
+  "description": "Ikan medaka kecil yang lincah, terkenal karena ekornya yang berbentuk kelopak dan indah.\nSebagian besar ikan sejenis itu menjalani hidupnya dengan damai sebagai ikan hias. Tetapi saat orang-orang mengetahui bahwa daging mereka beraroma, tidak banyak durinya, dan gemuk, mereka juga harus mempersiapkan mental karena tidak menutup kemungkinan bahwa mereka pun akan berakhir di atas meja makan.",
+  "sortorder": 2014,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Ikan",
+  "source": [
+    "Didapatkan dari memancing ikan"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Medaka.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Item_Medaka.png",
+    "nameicon": "UI_ItemIcon_131000"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Medaka"
+  },
+  "version": ""
+}

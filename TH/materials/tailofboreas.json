@@ -1,0 +1,20 @@
+{
+  "name": "Tail of Boreas",
+  "description": "เกล็ดที่ปลายหางของจ้าวแห่งหมาป่าแห่งสายลมเหนือ\nหมาป่าที่ไร้ซึ่งชีวิตและรูปร่าง แต่ยังคงพลังงานที่แข็งแกร่งได้ไม่มีเปลี่ยน และเพื่อรองรับการต่อสู้ที่จะเกิดขึ้น มันจึงใช้น้ำแข็งและลมในการสร้างรูปร่างของตัวเองขึ้นมา",
+  "sortorder": 1788,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "รางวัลการท้าทาย Wolf of the North Lv. 70 ขึ้นไป"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Tail_of_Boreas.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/66/Item_Tail_of_Boreas.png",
+    "nameicon": "UI_ItemIcon_113006"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Tail_of_Boreas"
+  },
+  "version": ""
+}

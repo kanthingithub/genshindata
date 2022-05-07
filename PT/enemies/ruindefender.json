@@ -1,0 +1,141 @@
+{
+  "name": "Defensor das Ruínas",
+  "specialname": "Ald-32624",
+  "enemytype": "ELITE",
+  "category": "Autômatos",
+  "description": "Várias máquinas de formatos bizarros que assumiram diferentes formas e funções para se adaptarem a diferentes objetivos.\nA lenda diz que são máquinas de guerra deixadas para trás por uma nação que já foi destruída. Em comparação com os Guardas das Ruínas mais comuns, suas formas têm maior valor no estudo biônico. Os membros semelhantes aos de insetos são mais ágeis do que as máquinas humanoides. O escudo formado por seus diversos componentes pode resistir a qualquer ataque frontal.",
+  "investigation": {
+    "name": "Soldado das Ruínas",
+    "category": "Inimigos Elite",
+    "description": "Um mecanismo com a forma e utilidade personalidade a fim de se adaptar para diferentes alvos.\\nDizem que são as máquinas de guerra de um país que já foi destruído há muito tempo. Em comparação com os Guarda das Ruínas, que são muito mais comumente vistos, as suas armaduras resistentes e utilidades mecânicas são muito mais avançadas a nível biônico."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Mecanismo do Caos",
+      "count": 2.6263
+    },
+    {
+      "name": "Processador do Caos",
+      "count": 0.7003
+    },
+    {
+      "name": "Olho do Caos",
+      "count": 0.1751
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instrutor",
+      "rarity": "3"
+    },
+    {
+      "name": "O Exilado",
+      "rarity": "3"
+    },
+    {
+      "name": "O Doutor Viajante",
+      "rarity": "3"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instrutor",
+      "rarity": "4"
+    },
+    {
+      "name": "O Exilado",
+      "rarity": "4"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Apparatus_Enigma_BionicInsecta"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 308.36399863024417,
+      "attack": 76.13319315582885,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 1214.509852969306,
+      "attack": 203.4083293985932,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 3574.7248981117737,
+      "attack": 501.7499019824463,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 6656.8740561874,
+      "attack": 819.5298012541898,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 11952.557084823668,
+      "attack": 1225.2416554312222,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 22022.83493135369,
+      "attack": 1889.4817435136356,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 37207.55897475383,
+      "attack": 2660.773141056823,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 61538.805390857626,
+      "attack": 3673.071566613973,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 99273.7928402815,
+      "attack": 4725.795096868649,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 155821.20956653263,
+      "attack": 5709.411795508931,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 232932.07924386766,
+      "attack": 7386.62659546989,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 294822.0671787821,
+      "attack": 7533.291466042516,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 341013.13331527077,
+      "attack": 7680.983199416427,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

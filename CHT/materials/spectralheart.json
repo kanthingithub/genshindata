@@ -1,0 +1,22 @@
+{
+  "name": "浮游幽核",
+  "description": "能讓飄浮靈浮游的能量核。\n這種元素生物似乎有奇異的習性，會週期性大量湧現、消失。",
+  "sortorder": 1772,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培養素材",
+  "source": [
+    "合成獲得",
+    "40級以上飄浮靈掉落",
+    "星塵兌換"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Spectral_Heart.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Item_Spectral_Heart.png",
+    "nameicon": "UI_ItemIcon_112054"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Spectral_Heart"
+  },
+  "version": ""
+}

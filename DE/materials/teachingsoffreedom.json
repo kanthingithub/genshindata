@@ -1,0 +1,24 @@
+{
+  "name": "Lehren der „Freiheit“",
+  "description": "Material zum Verbessern von Talenten.\nFreiheit ist der Geist des Reiches des Windes.\nFreiheit ist erstens die Freiheit zu leben, gesund und unversehrt, ohne sich Sorgen über den nächsten Tag machen zu müssen.",
+  "sortorder": 1851,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Talenten",
+  "dropdomain": "Sphäre des Verständnisses: Zugefrorener Altar",
+  "daysofweek": [
+    "Montag",
+    "Donnerstag",
+    "Sonntag"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Freedom.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Item_Teachings_of_Freedom.png",
+    "nameicon": "UI_ItemIcon_104301"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Freedom"
+  },
+  "version": ""
+}

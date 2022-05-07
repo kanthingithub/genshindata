@@ -1,0 +1,24 @@
+{
+  "name": "Крепкие останки",
+  "description": "Фрагмент костей неизвестного существа, которые очень любят геовишапы.\nФрагмент выглядит довольно древним. По каким-то непонятным причинам эти драконоподобные существа, не имеющие своего языка, испытывают особую привязанность к осколкам этих костей.",
+  "sortorder": 1760,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Алхимия",
+    "Детёныши геовишапа Ур. 40+",
+    "Геовишапы Ур. 40+",
+    "Вишапы глубин Ур. 40+",
+    "Покупается за Звёздную пыль"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sturdy_Bone_Shard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Item_Sturdy_Bone_Shard.png",
+    "nameicon": "UI_ItemIcon_112042"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sturdy_Bone_Shard"
+  },
+  "version": ""
+}

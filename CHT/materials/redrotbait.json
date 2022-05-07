@@ -1,0 +1,20 @@
+{
+  "name": "赤糜餌",
+  "description": "由血斛和搗碎的肉類混合製成的魚餌，獨特的腥甜味在水中擴散極快，能夠吸引個性兇悍的掠食魚類。但用量需要謹慎，以免引來一些麻煩的壞傢伙。\n\n適用魚種：棘魚類。",
+  "sortorder": 1515,
+  "rarity": "2",
+  "category": "FISH_BAIT",
+  "materialtype": "魚餌",
+  "source": [
+    "合成獲得"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_111024",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Redrot_Bait.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Item_Redrot_Bait.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Redrot_Bait"
+  },
+  "version": ""
+}

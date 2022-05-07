@@ -1,0 +1,21 @@
+{
+  "name": "White Iron Chunk",
+  "description": "Di tangan pengrajin yang handal, bijih besi ini dapat diolah menjadi berbagai benda berguna.",
+  "sortorder": 1955,
+  "category": "EXCHANGE",
+  "materialtype": "Mineral untuk Forge",
+  "source": [
+    "Ditemukan di alam liar",
+    "Rekomendasi: Ditemukan di Stormbearer Mountains",
+    "Rekomendasi: Ditemukan di Wolvendom"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_White_Iron_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Item_White_Iron_Chunk.png",
+    "nameicon": "UI_ItemIcon_101002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/White_Iron_Chunk"
+  },
+  "version": ""
+}

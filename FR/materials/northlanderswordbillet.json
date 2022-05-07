@@ -1,0 +1,20 @@
+{
+  "name": "Base d'épée du nord",
+  "description": "Un matériau qui peut être forgé en épée à une main 4★.\nD'après les philosophes, le marbre a le potentiel de donner naissance une belle sculpture. Ce matériau possède également des possibilités infinies qui n'attendent que vous pour être explorées.",
+  "sortorder": 1962,
+  "rarity": "4",
+  "category": "EXCHANGE",
+  "materialtype": "Matériau",
+  "source": [
+    "Butin de boss"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Northlander_Sword_Billet.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Item_Northlander_Sword_Billet.png",
+    "nameicon": "UI_ItemIcon_101101"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Northlander_Sword_Billet"
+  },
+  "version": ""
+}

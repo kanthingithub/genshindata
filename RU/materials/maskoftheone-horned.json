@@ -1,0 +1,26 @@
+{
+  "name": "Маска однорогого",
+  "description": "Материал возвышения оружия.\nВ утраченных песнях кормилиц, óни Торатиё представал элегантным юношей с сильным телом и прекрасным лицом. Сей некогда любимый военачальник сёгуна преданно следовал за госпожой в кромешные бездны, чтобы повергнуть нечестивых и завоевать славу для óни, кровь которых с каждым днём разжижалась.\nХоть песен этих никто теперь и не поёт, даже в иной форме маска рогатого óни обладает невероятной мощью.",
+  "sortorder": 2217,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Возвышение оружия",
+  "dropdomain": "Воля: Песчаная могила",
+  "daysofweek": [
+    "Среда",
+    "Суббота",
+    "Воскресенье"
+  ],
+  "source": [
+    "Алхимия"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mask_of_the_One-Horned.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Item_Mask_of_the_One-Horned.png",
+    "nameicon": "UI_ItemIcon_114035"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mask_of_the_One-Horned"
+  },
+  "version": ""
+}

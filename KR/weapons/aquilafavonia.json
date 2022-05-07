@@ -1,0 +1,317 @@
+{
+  "name": "매의 검",
+  "description": "페보니우스 기사단의 영혼은 천 년이 지난 지금도, 마치 예전에 이 검을 휘두르던 여걸처럼 정의의 바람으로 간악한 자들을 물리쳐주길 바라고 있다",
+  "weapontype": "한손검",
+  "rarity": "5",
+  "baseatk": 48,
+  "substat": "물리 피해 보너스",
+  "subvalue": "9",
+  "effectname": "서풍 매의 투쟁",
+  "effect": [
+    "공격력이 [20%] 증가한다. 피해를 받으면 발동: 투쟁의 깃발을 높이든 서풍 매의 영혼이 깨어나 공격력 [100%]만큼의 HP를 회복하고 주변의 적에게 공격력 [200%]의 피해를 준다. 해당 효과는 15초마다 1번 발동한다",
+    "공격력이 [25%] 증가한다. 피해를 받으면 발동: 투쟁의 깃발을 높이든 서풍 매의 영혼이 깨어나 공격력 [115%]만큼의 HP를 회복하고 주변의 적에게 공격력 [230%]의 피해를 준다. 해당 효과는 15초마다 1번 발동한다",
+    "공격력이 [30%] 증가한다. 피해를 받으면 발동: 투쟁의 깃발을 높이든 서풍 매의 영혼이 깨어나 공격력 [130%]만큼의 HP를 회복하고 주변의 적에게 공격력 [260%]의 피해를 준다. 해당 효과는 15초마다 1번 발동한다",
+    "공격력이 [35%] 증가한다. 피해를 받으면 발동: 투쟁의 깃발을 높이든 서풍 매의 영혼이 깨어나 공격력 [145%]만큼의 HP를 회복하고 주변의 적에게 공격력 [290%]의 피해를 준다. 해당 효과는 15초마다 1번 발동한다",
+    "공격력이 [40%] 증가한다. 피해를 받으면 발동: 투쟁의 깃발을 높이든 서풍 매의 영혼이 깨어나 공격력 [160%]만큼의 HP를 회복하고 주변의 적에게 공격력 [320%]의 피해를 준다. 해당 효과는 15초마다 1번 발동한다"
+  ],
+  "r1": [
+    "20%",
+    "100%",
+    "200%"
+  ],
+  "r2": [
+    "25%",
+    "115%",
+    "230%"
+  ],
+  "r3": [
+    "30%",
+    "130%",
+    "260%"
+  ],
+  "r4": [
+    "35%",
+    "145%",
+    "290%"
+  ],
+  "r5": [
+    "40%",
+    "160%",
+    "320%"
+  ],
+  "weaponmaterialtype": "Decarabian",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "모라",
+        "count": 10000
+      },
+      {
+        "name": "고탑 왕의 잔해",
+        "count": 5
+      },
+      {
+        "name": "무거운 나팔",
+        "count": 5
+      },
+      {
+        "name": "견고한 화살촉",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "모라",
+        "count": 20000
+      },
+      {
+        "name": "고탑 왕의 절망",
+        "count": 5
+      },
+      {
+        "name": "무거운 나팔",
+        "count": 18
+      },
+      {
+        "name": "견고한 화살촉",
+        "count": 12
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "모라",
+        "count": 30000
+      },
+      {
+        "name": "고탑 왕의 절망",
+        "count": 9
+      },
+      {
+        "name": "흑동 나팔",
+        "count": 9
+      },
+      {
+        "name": "날카로운 화살촉",
+        "count": 9
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "모라",
+        "count": 45000
+      },
+      {
+        "name": "고탑 왕의 조각",
+        "count": 5
+      },
+      {
+        "name": "흑동 나팔",
+        "count": 18
+      },
+      {
+        "name": "날카로운 화살촉",
+        "count": 14
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "모라",
+        "count": 55000
+      },
+      {
+        "name": "고탑 왕의 조각",
+        "count": 9
+      },
+      {
+        "name": "흑수정 나팔",
+        "count": 14
+      },
+      {
+        "name": "역전의 화살촉",
+        "count": 9
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "모라",
+        "count": 65000
+      },
+      {
+        "name": "고탑 왕의 깨진 꿈",
+        "count": 6
+      },
+      {
+        "name": "흑수정 나팔",
+        "count": 27
+      },
+      {
+        "name": "역전의 화살촉",
+        "count": 18
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Weapon_Aquila_Favonia.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Falcon.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Falcon_Awaken.png",
+    "nameicon": "UI_EquipIcon_Sword_Falcon",
+    "namegacha": "UI_Gacha_EquipIcon_Sword_Falcon",
+    "nameawakenicon": "UI_EquipIcon_Sword_Falcon_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Aquila_Favonia"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 47.5369987487793,
+      "specialized": 0.09000000357627869
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 65.03061573904415,
+      "specialized": 0.10457999883413294
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 87.32546729086016,
+      "specialized": 0.12267000805020345
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 110.14322193011867,
+      "specialized": 0.14085001074671766
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 133.2937397767564,
+      "specialized": 0.15903000271439538
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 164.39374015822614,
+      "specialized": 0.15903000271439538
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 187.97209398570067,
+      "specialized": 0.1772100054109096
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 211.88320535370258,
+      "specialized": 0.1953900081074238
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 236.07952937522532,
+      "specialized": 0.21357000007510152
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 260.56110005138,
+      "specialized": 0.2317500135004522
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 291.6611004328497,
+      "specialized": 0.2317500135004522
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 316.4278724288215,
+      "specialized": 0.24993000546812993
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 341.43233485871497,
+      "specialized": 0.26811001889348063
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 372.6323356216544,
+      "specialized": 0.26811001889348063
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 397.9220220387724,
+      "specialized": 0.28629001086115835
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 423.4018426691018,
+      "specialized": 0.3044700028288361
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 454.5018411432229,
+      "specialized": 0.3044700028288361
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 480.26690842818425,
+      "specialized": 0.32265001625418677
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 506.2220872589496,
+      "specialized": 0.3407400147414208
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 537.3220933624652,
+      "specialized": 0.3407400147414208
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 563.4674517412568,
+      "specialized": 0.3589200067090985
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 589.85050055397,
+      "specialized": 0.3771000201344492
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 620.9504913986966,
+      "specialized": 0.3771000201344492
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 647.5236744246213,
+      "specialized": 0.3952800335597999
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 674.3345478844676,
+      "specialized": 0.41346000406980465
+    }
+  },
+  "version": "1.0"
+}

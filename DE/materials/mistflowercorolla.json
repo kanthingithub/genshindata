@@ -1,0 +1,20 @@
+{
+  "name": "Eisnebelblumenblüte",
+  "description": "Ein in festes Eis gehülltes Staubblatt. Auch nachdem es den Stängel verlassen hat, strömt es unaufhörlich Kälte ab.",
+  "sortorder": 1968,
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [
+    "In der freien Natur zu finden",
+    "Empfohlen: Beim Weingut Morgenröte zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Flower_Corolla.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Item_Mist_Flower_Corolla.png",
+    "nameicon": "UI_ItemIcon_100052"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Flower_Corolla"
+  },
+  "version": ""
+}

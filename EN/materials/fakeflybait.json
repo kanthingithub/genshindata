@@ -1,0 +1,20 @@
+{
+  "name": "Fake Fly Bait",
+  "description": "Mimetic fly bait made from vibrantly-colored materials. It has no scent, and is specialized to attract large fish with sharp vision. It is often well-suited to more advanced angling techniques. The fishing associations of various regions regard the skilled use of such bait as one of the conditions for its members' advancement in rank.\n\nSuitable for catching Koi, Pufferfish, and Rays.",
+  "sortorder": 1517,
+  "rarity": "2",
+  "category": "FISH_BAIT",
+  "materialtype": "Bait",
+  "source": [
+    "Crafted"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_111026",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fake_Fly_Bait.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Item_Fake_Fly_Bait.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fake_Fly_Bait"
+  },
+  "version": ""
+}

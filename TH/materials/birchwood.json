@@ -1,0 +1,21 @@
+{
+  "name": "ไม้เบิร์ช",
+  "description": "ไม้จาก \"ต้นเบิร์ช\" นั้นง่ายต่อการแปรรูป มีผิวที่เรียบเนียน เฟอร์นิเจอร์ส่วนใหญ่ที่ทำจากไม้ชนิดนี้ จะมีความสวยงามและทนทาน\nสามารถใช้สร้างเฟอร์นิเจอร์ได้",
+  "sortorder": 1953,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "วัสดุ",
+  "source": [
+    "พบได้ในโลกกว้าง",
+    "แนะนำ: ตัดบริเวณ Windwail Highland"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Birch_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Item_Birch_Wood.png",
+    "nameicon": "UI_ItemIcon_101301"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Birch_Wood"
+  },
+  "version": ""
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Bài Giảng Của \"Tự Do\"",
+  "description": "Nguyên liệu bồi dưỡng Thiên Phú.\nTinh thần đất nước của gió là tự do.\nĐầu tiên là tự do của việc sinh sống mạnh khỏe, ổn định, không phải lo lắng cuộc sống bấp bênh.",
+  "sortorder": 1851,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Thiên Phú",
+  "dropdomain": "Bí Cảnh Tinh Thông: Tế Đàn Tụ Sương",
+  "daysofweek": [
+    "Thứ 2",
+    "Thứ 5",
+    "Chủ Nhật"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Freedom.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Item_Teachings_of_Freedom.png",
+    "nameicon": "UI_ItemIcon_104301"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Freedom"
+  },
+  "version": ""
+}

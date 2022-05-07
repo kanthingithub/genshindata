@@ -1,0 +1,21 @@
+{
+  "name": "Обычная руда усиления",
+  "description": "400 очков опыта оружия.\nЭта руда обладает безграничными возможностями по улучшению вашего вооружения.",
+  "sortorder": 657,
+  "rarity": "1",
+  "category": "WEAPON_EXP_STONE",
+  "materialtype": "Улучшение оружия",
+  "source": [
+    "Ковка",
+    "Случайные события"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_104011",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Enhancement_Ore.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Item_Enhancement_Ore.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Enhancement_Ore"
+  },
+  "version": ""
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Klumpen pechschwarzer Aerosiderit",
+  "description": "Material mit der Kraft, Waffen aufsteigen zu lassen.\nFür die Städte in Teyvat, die an das Meer grenzen, ist alles, was außerhalb des Landes ist, das „Dunkle Meer“. Viele der besiegten Archonten wollten sich nicht der neuen Ordnung der Sieben ergeben und sind auf entfernte Inseln geflohen. Ihre Kräfte haben trotzdem denselben Ursprung wie die von Rex Lapis. Deshalb ist sie anders als die dieses pechschwarzen Meteoreisens.",
+  "sortorder": 2205,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zum Aufstieg von Waffen",
+  "dropdomain": "Sphäre der Kriegskunst: Prüfungsplatz des alten Donners",
+  "daysofweek": [
+    "Mittwoch",
+    "Samstag",
+    "Sonntag"
+  ],
+  "source": [
+    "Kann hergestellt werden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bit_of_Aerosiderite.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Bit_of_Aerosiderite.png",
+    "nameicon": "UI_ItemIcon_114023"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bit_of_Aerosiderite"
+  },
+  "version": ""
+}

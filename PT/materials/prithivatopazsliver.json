@@ -1,0 +1,23 @@
+{
+  "name": "Lasca de Topázio Prithiva",
+  "description": "Material de Ascensão de Personagem.",
+  "sortorder": 1846,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Dropado por Hypostasis Geo",
+    "Dropado pelo Rei Canino Dourado",
+    "Dropado por Serpentes das Ruínas",
+    "Trocado na Loja de Lembranças"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Prithiva_Topaz_Sliver.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Prithiva_Topaz_Sliver.png",
+    "nameicon": "UI_ItemIcon_104171"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Prithiva_Topaz_Sliver"
+  },
+  "version": ""
+}

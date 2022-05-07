@@ -1,0 +1,20 @@
+{
+  "name": "Thủ Ấn Hung Tướng",
+  "description": "Bộ phận của con rối mang về từ Tịnh Thổ, phần này là hình bàn tay và mắt tượng trưng cho \"mắt thấy tay làm\".\nNgay cả khi đã biến thành vị thần tai ương, \"cô ấy\" vẫn có thể cưỡi trên đôi bàn tay này. Khoảnh khắc đôi mắt nhìn thấy, đã vung ra một nhát đao.\nThế nhưng vạn kiếp quá dài, cốt tủy của hung tướng cũng đã mang bộ dạng mới.",
+  "sortorder": 1814,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Thưởng khiêu chiến Thủ Vệ Vĩnh Hằng cấp 70 trở lên"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_113032",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mudra_of_the_Malefic_General.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Item_Mudra_of_the_Malefic_General.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mudra_of_the_Malefic_General"
+  },
+  "version": ""
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Невесомые блинчики",
+  "rarity": "2",
+  "foodtype": "SPECIALTY",
+  "foodfilter": "Восстанавливающее блюдо",
+  "foodcategory": "Recovery_Revive",
+  "effect": "Воскрешает персонажа и восстанавливает ему 15% от макс. HP + 550 HP.",
+  "description": "Особое блюдо Ноэлль. Рыцари Ордо Фавониус очень любят есть эти воздушные блинчики вместе с послеобеденным чаем. Улыбка на лице приготовившей эти блинчики Ноэлль делает их вкус ещё слаще.",
+  "basedish": "Блинчики к чаю",
+  "character": "Ноэлль",
+  "ingredients": [
+    {
+      "name": "Ягода",
+      "count": 3
+    },
+    {
+      "name": "Мука",
+      "count": 2
+    },
+    {
+      "name": "Яйцо",
+      "count": 1
+    }
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_108118"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lighter-Than-Air_Pancake"
+  },
+  "version": "1.0"
+}

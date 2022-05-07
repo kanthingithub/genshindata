@@ -1,0 +1,20 @@
+{
+  "name": "Spirit Locket of Boreas",
+  "description": "Segenap kekuatan yang terkumpul dari jiwa Great Wolf King of the North.\nDaratan ini sebelumnya merupakan tempat yang selalu dilanda badai salju dan dipenuhi potongan es yang tajam, semuanya bergerak atas kehendak Boreas. Pada detik-detik terakhirnya, dia menyadari bahwa angin dingin hanya memusnahkan nyawa, bukan memeliharanya, karena itu dia membiarkan kekuatannya mengalir bebas di alam untuk melindungi daratan dan penghuninya.",
+  "sortorder": 1790,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Hadiah tantangan Wolf of the North Lv. 70+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Spirit_Locket_of_Boreas.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Item_Spirit_Locket_of_Boreas.png",
+    "nameicon": "UI_ItemIcon_113008"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Spirit_Locket_of_Boreas"
+  },
+  "version": ""
+}

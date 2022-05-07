@@ -1,0 +1,171 @@
+{
+  "name": "Domínio da Proficiência: Cidade Abandonada ao Kudzu",
+  "region": "Inazuma",
+  "domainEntrance": "Jardim Violeta",
+  "domainType": "Material de Elevação de Talento",
+  "description": "No altar da Sakura violeta florescida eternamente, escondem-se inimigos invasores.\nSe você passar neste Julgamento, poderá obter Materiais para a Elevação de Talentos.",
+  "daysOfWeek": [
+    "Quarta-feira",
+    "Sábado",
+    "Domingo"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Thunder_Dq"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domínio da Proficiência: Cidade Abandonada ao Kudzu I",
+      "recommendedLevel": 38,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1575
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 15
+        },
+        {
+          "name": "Ensinamentos da Luz Celeste"
+        }
+      ],
+      "disorder": [
+        "Todos os Personagens da Equipe obterão 25% de Bônus de Dano Electro.",
+        "Durante o desafio, há uma cristalização Electro que periodicamente emergirá uma Pérola Electro. Depois do Personagem obter a Pérola Electro, ao seu Ataque Normal, Carregado, Imersivo, Habilidade Elemental e Supremo acertar um inimigo, desencadearão um relampejamento que causará Dano Electro."
+      ],
+      "monsterlist": [
+        "Hilichurl",
+        "Hilichurl Granadeiro Electro",
+        "Hilichurl Atirador Electro",
+        "Mitachurl do Machado Electro"
+      ]
+    },
+    {
+      "name": "Domínio da Proficiência: Cidade Abandonada ao Kudzu II",
+      "recommendedLevel": 54,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 28,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1800
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 15
+        },
+        {
+          "name": "Ensinamentos da Luz Celeste"
+        },
+        {
+          "name": "Guia da Luz Celeste"
+        }
+      ],
+      "disorder": [
+        "Todos os Personagens da Equipe obterão 25% de Bônus de Dano Electro.",
+        "Durante o desafio, há uma cristalização Electro que periodicamente emergirá uma Pérola Electro. Depois do Personagem obter a Pérola Electro, ao seu Ataque Normal, Carregado, Imersivo, Habilidade Elemental e Supremo acertar um inimigo, desencadearão um relampejamento que causará Dano Electro."
+      ],
+      "monsterlist": [
+        "Nobushi: Jintou-Ban",
+        "Nobushi: Hitsuke-Ban",
+        "Nobushi: Kikou-Ban",
+        "Ladrões de Tesouro - Mestre das Poções Pyro",
+        "Ladrões de Tesouro - Mestre das Poções Electro"
+      ]
+    },
+    {
+      "name": "Domínio da Proficiência: Cidade Abandonada ao Kudzu III",
+      "recommendedLevel": 71,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 36,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2050
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 20
+        },
+        {
+          "name": "Ensinamentos da Luz Celeste"
+        },
+        {
+          "name": "Guia da Luz Celeste"
+        }
+      ],
+      "disorder": [
+        "Todos os Personagens da Equipe obterão 25% de Bônus de Dano Electro.",
+        "Durante o desafio, há uma cristalização Electro que periodicamente emergirá uma Pérola Electro. Depois do Personagem obter a Pérola Electro, ao seu Ataque Normal, Carregado, Imersivo, Habilidade Elemental e Supremo acertar um inimigo, desencadearão um relampejamento que causará Dano Electro."
+      ],
+      "monsterlist": [
+        "Nobushi: Hitsuke-Ban",
+        "Nobushi: Kikou-Ban",
+        "Ladrões de Tesouro - Mestre das Poções Pyro",
+        "Ladrões de Tesouro - Mestre das Poções Electro",
+        "Kairagi: Força Poderosa"
+      ]
+    },
+    {
+      "name": "Domínio da Proficiência: Cidade Abandonada ao Kudzu IV",
+      "recommendedLevel": 88,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2375
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 20
+        },
+        {
+          "name": "Ensinamentos da Luz Celeste"
+        },
+        {
+          "name": "Guia da Luz Celeste"
+        },
+        {
+          "name": "Filosofia da Luz Celeste"
+        }
+      ],
+      "disorder": [
+        "Todos os Personagens da Equipe obterão 25% de Bônus de Dano Electro.",
+        "Durante o desafio, há uma cristalização Electro que periodicamente emergirá uma Pérola Electro. Depois do Personagem obter a Pérola Electro, ao seu Ataque Normal, Carregado, Imersivo, Habilidade Elemental e Supremo acertar um inimigo, desencadearão um relampejamento que causará Dano Electro."
+      ],
+      "monsterlist": [
+        "Ladrões de Tesouro - Mestre das Poções Cryo",
+        "Kairagi: Trovão Dançante",
+        "Kairagi: Força Poderosa"
+      ]
+    }
+  ]
+}

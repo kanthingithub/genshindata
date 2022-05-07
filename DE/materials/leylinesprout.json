@@ -1,0 +1,21 @@
+{
+  "name": "Frische Triebe des Flusses der Elemente",
+  "description": "Man erzählt sich, dass es einen Baum gegeben hat, der so groß war, dass seine Wurzeln durch die gesamte Erde reichten. Diese Triebe sollen zu ihm gehören. In all der Zeit hat sie wohl niemand aus ihrer Heimat entfernt. Sie strotzen noch vor Lebenskraft und haben sogar junge Blätter.",
+  "sortorder": 1740,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Kann hergestellt werden",
+    "Beute von Abgrundmagiern ab Stufe 60"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ley_Line_Sprouts.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Item_Ley_Line_Sprout.png",
+    "nameicon": "UI_ItemIcon_112022"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ley_Line_Sprout"
+  },
+  "version": ""
+}

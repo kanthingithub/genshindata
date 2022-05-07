@@ -1,0 +1,23 @@
+{
+  "name": "Insígnia de Recruta",
+  "description": "Uma insígnia para identificar os recrutas. Faz com que alguém se pergunte o que estava pensando quando se uniram à máquina de guerra dos Fatui.",
+  "sortorder": 1750,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Dropado pelos Soldados dos Fatui",
+    "Dropado por alguns Agentes de Dívidas Fatui",
+    "Dropado por alguns Feiticeiros Cicin de Fatui",
+    "Resgate de Poeira Estrelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Recruit's_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Item_Recruit%27s_Insignia.png",
+    "nameicon": "UI_ItemIcon_112032"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Recruit's_Insignia"
+  },
+  "version": ""
+}

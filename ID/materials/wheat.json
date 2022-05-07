@@ -1,0 +1,20 @@
+{
+  "name": "Wheat",
+  "description": "Warnanya keemasan setelah terjemur matahari. Harus diolah menjadi Flour sebelum dapat digunakan.",
+  "sortorder": 1983,
+  "category": "EXCHANGE",
+  "materialtype": "Bahan Masak",
+  "source": [
+    "Ditemukan di alam liar",
+    "Dijual di toko barang kebutuhan"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wheat.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Item_Wheat.png",
+    "nameicon": "UI_ItemIcon_100017"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Wheat"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Mudra of the Malefic General",
+  "description": "Sendi boneka yang didapatkan dari Plane of Euthymia. Bagian ini menggambarkan konsep \"melakukan apa yang dilihat\".\nBahkan saat \"dia\" telah menjadi dewa kehancuran, dia tetap bisa menggunakan gerakan seperti itu, dengan pedang yang melesat secepat mata berkedip.\nNamun karena bencana yang berlangsung terus menerus, cangkang sang jenderal yang ganas pun harus bersemi kembali.",
+  "sortorder": 1814,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Hadiah dari Tantangan Sentinel of Eternity Lv. 70+"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_113032",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mudra_of_the_Malefic_General.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Item_Mudra_of_the_Malefic_General.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mudra_of_the_Malefic_General"
+  },
+  "version": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "精锻用杂矿",
+  "description": "武器经验素材，含有400点经验值。\n蕴含着无限可能性的精炼矿锭，可以用来强化武器。",
+  "sortorder": 657,
+  "rarity": "1",
+  "category": "WEAPON_EXP_STONE",
+  "materialtype": "武器强化素材",
+  "source": [
+    "锻造获得",
+    "解决事件报酬"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_104011",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Enhancement_Ore.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Item_Enhancement_Ore.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Enhancement_Ore"
+  },
+  "version": ""
+}

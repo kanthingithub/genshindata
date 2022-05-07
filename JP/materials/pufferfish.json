@@ -1,0 +1,20 @@
+{
+  "name": "鉄砲フグ",
+  "description": "丸くて短い腹びれ、太くて分厚い体、そして温厚篤実な頭部、それが人々の鉄砲フグに対する第一印象だ。これらの特徴は、その性格の多くを正確に反映している。愚直で鈍くて遅い。しかし、この馬鹿げた外見の下に必殺技があるということは、あまり知られていない。彼らは素早く体内に水を取り込み、口から砲弾のように発射できる。漁師でも目がくらむほどの正確さと威力は、水中での大きな脅威だ。\n「前方に鉄砲フグ出現、水鉄砲に気をつけろ。」——『釣りガイド·鉄砲フグ編』",
+  "sortorder": 2032,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "魚",
+  "source": [
+    "釣りで獲得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Pufferfish.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Pufferfish.png",
+    "nameicon": "UI_ItemIcon_131019"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Pufferfish"
+  },
+  "version": ""
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Mask of the Tiger's Bite",
+  "description": "วัสดุเลื่อนขั้นอาวุธ\nปีศาจ Torachiyo ที่ปรากฏอยู่ใน \"Sumirezome Sangetsu Kogetsukan\" นั้น เคยใช้ฟันอันแหลมคมกัดนากินาตะของโชกุน จนได้เปรียบอยู่ครู่หนึ่ง ดังนั้นบนหน้ากากที่ทำขึ้นจากรูปร่างของเขา จึงมักจะมีเขี้ยวที่สลักอย่างประณีตอยู่\nในตอนจบนั้น ปีศาจที่บาดเจ็บได้หนีเข้าไปในป่า หลบเลี่ยงแม้แต่แสงจันทร์ที่เย็นเฉียบ อีกทั้งเสียงลมที่พัดผ่านตรอกและซอกเขาแคบ ๆ นั้น ก็ดังราวกับเสียงกระซิบของปีศาจที่บาดเจ็บ ดังนั้นจึงมีคำกล่าวสำหรับสิ่งนี้ว่า \"สายลมของ Torachiyo\"",
+  "sortorder": 2216,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุเลื่อนขั้นอาวุธ",
+  "dropdomain": "ดันเจี้ยนแห่งการต่อสู้: สุสานทรายดูด",
+  "daysofweek": [
+    "วันพุธ",
+    "วันเสาร์",
+    "วันอาทิตย์"
+  ],
+  "source": [
+    "ได้รับจากการสรรสร้าง"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mask_of_the_Tiger's_Bite.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Item_Mask_of_the_Tiger%27s_Bite.png",
+    "nameicon": "UI_ItemIcon_114034"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mask_of_the_Tiger's_Bite"
+  },
+  "version": ""
+}

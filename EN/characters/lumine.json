@@ -1,0 +1,929 @@
+{
+  "name": "Lumine",
+  "fullname": "Lumine",
+  "title": "",
+  "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+  "rarity": "5",
+  "element": "None",
+  "weapontype": "Sword",
+  "substat": "ATK",
+  "gender": "Female",
+  "body": "GIRL",
+  "association": "MAINACTOR",
+  "region": "",
+  "affiliation": "",
+  "birthdaymmdd": "",
+  "birthday": "",
+  "constellation": "Viatrix",
+  "cv": {
+    "english": "Sarah Miller-Crews & Corina Boettger",
+    "chinese": "宴宁 & 多多poi",
+    "japanese": "悠木碧 & 古賀葵",
+    "korean": "Lee Sae-ah & Kim Ka-ryoung"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Brilliant Diamond Sliver",
+        "count": 1
+      },
+      {
+        "name": "Windwheel Aster",
+        "count": 3
+      },
+      {
+        "name": "Damaged Mask",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Brilliant Diamond Fragment",
+        "count": 3
+      },
+      {
+        "name": "Windwheel Aster",
+        "count": 10
+      },
+      {
+        "name": "Damaged Mask",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Brilliant Diamond Fragment",
+        "count": 6
+      },
+      {
+        "name": "Windwheel Aster",
+        "count": 20
+      },
+      {
+        "name": "Stained Mask",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Brilliant Diamond Chunk",
+        "count": 3
+      },
+      {
+        "name": "Windwheel Aster",
+        "count": 30
+      },
+      {
+        "name": "Stained Mask",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Brilliant Diamond Chunk",
+        "count": 6
+      },
+      {
+        "name": "Windwheel Aster",
+        "count": 45
+      },
+      {
+        "name": "Ominous Mask",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Brilliant Diamond Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Windwheel Aster",
+        "count": 60
+      },
+      {
+        "name": "Ominous Mask",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Traveler_Female_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Character_Traveler_%28Female%29_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_PlayerGirl.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/f11f153ff86acab65e3610f73b0d1728.png",
+    "nameicon": "UI_AvatarIcon_PlayerGirl",
+    "nameiconcard": "UI_AvatarIcon_PlayerGirl_Card",
+    "namesideicon": "UI_AvatarIcon_Side_PlayerGirl"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lumine"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 911.791015625,
+      "attack": 17.808000564575195,
+      "defense": 57.224998474121094,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2342.391124357935,
+      "attack": 45.74875355229187,
+      "defense": 147.01102140746116,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3023.54566537356,
+      "attack": 59.0525531815033,
+      "defense": 189.76102140746116,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4528.912435651757,
+      "attack": 88.45355827545154,
+      "defense": 284.23948155450853,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5012.890707136132,
+      "attack": 97.90625889038074,
+      "defense": 314.61448155450853,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5766.030280821957,
+      "attack": 112.61567116091919,
+      "defense": 361.8823425187111,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6411.334602111019,
+      "attack": 125.21927070925904,
+      "defense": 402.3823425187111,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7164.474175796844,
+      "attack": 139.9286829797975,
+      "defense": 449.65020348291364,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7648.452325210907,
+      "attack": 149.381384548401,
+      "defense": 480.02520348291364,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 8400.679739191197,
+      "attack": 164.07298161756898,
+      "defense": 527.2358163092613,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8884.658010675572,
+      "attack": 173.52567937147523,
+      "defense": 557.6108163092613,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9637.79714958556,
+      "attack": 188.2350831504973,
+      "defense": 604.8786499864582,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 10121.775421069935,
+      "attack": 197.68778471910082,
+      "defense": 635.2536499864582,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10874.91499475576,
+      "attack": 212.39719698963927,
+      "defense": 682.5215109506607,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellationTraveler": [
+    {
+      "c1": {
+        "name": "Raging Vortex",
+        "effect": "**Palm Vortex** pulls in opponents and objects within a 5m radius."
+      },
+      "c2": {
+        "name": "Uprising Whirlwind",
+        "effect": "Increases Energy Recharge by 16%."
+      },
+      "c3": {
+        "name": "Sweeping Gust",
+        "effect": "Increases the Level of **Gust Surge** by 3.\nMaximum upgrade level is 15."
+      },
+      "c4": {
+        "name": "Cherishing Breezes",
+        "effect": "Reduces DMG taken while casting **Palm Vortex** by 10%."
+      },
+      "c5": {
+        "name": "Vortex Stellaris",
+        "effect": "Increases the Level of **Palm Vortex** by 3.\nMaximum upgrade level is 15."
+      },
+      "c6": {
+        "name": "Intertwined Winds",
+        "effect": "Targets who take DMG from **Gust Surge** have their Anemo RES decreased by 20%.\nIf an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%."
+      },
+      "images": {
+        "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_01.png",
+        "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_02.png",
+        "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerWind_02.png",
+        "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_03.png",
+        "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerWind_01.png",
+        "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_04.png",
+        "constellation": "Eff_UI_Talent_PlayerBoy_Wind",
+        "constellation2": "Eff_UI_Talent_PlayerGirl_Wind"
+      },
+      "version": "1.0"
+    },
+    {
+      "c1": {
+        "name": "Spring Thunder of Fertility",
+        "effect": "The number of Abundance Amulets that can be generated using **Lightning Blade** is increased to 3."
+      },
+      "c2": {
+        "name": "Violet Vehemence",
+        "effect": "When Falling Thunder created by **Bellowing Thunder** hits an opponent, it will decrease their Electro RES by 15% for 8s."
+      },
+      "c3": {
+        "name": "Distant Crackling",
+        "effect": "Increases the Level of **Bellowing Thunder** by 3.\nMaximum upgrade level is 15."
+      },
+      "c4": {
+        "name": "Fickle Cloudstrike",
+        "effect": "When a character obtains Abundance Amulets generated by **Lightning Blade**, if this character's Energy is less than 35%, the Energy restored by the Abundance Amulets is increased by 100%."
+      },
+      "c5": {
+        "name": "Clamor in the Wilds",
+        "effect": "Increases the Level of **Lightning Blade** by 3.\nMaximum upgrade level is 15."
+      },
+      "c6": {
+        "name": "World-Shaker",
+        "effect": "Every 2 Falling Thunder attacks triggered by **Bellowing Thunder** will greatly increase the DMG dealt by the next Falling Thunder, which will deal 200% of its original DMG and will restore an additional 1 Energy to the current character."
+      },
+      "images": {
+        "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_01.png",
+        "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_02.png",
+        "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerElectric_01.png",
+        "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_03.png",
+        "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerElectric_02.png",
+        "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_04.png",
+        "constellation": "Eff_UI_Talent_PlayerBoy_Electric",
+        "constellation2": "Eff_UI_Talent_PlayerGirl_Electric"
+      },
+      "version": "2.0"
+    },
+    {
+      "c1": {
+        "name": "Invincible Stonewall",
+        "effect": "Party members within the radius of **Wake of Earth** have their CRIT Rate increased by 10% and have increased resistance against interruption."
+      },
+      "c2": {
+        "name": "Rockcore Meltdown",
+        "effect": "When the meteorite created by **Starfell Sword** is destroyed, it will also explode, dealing additional AoE Geo DMG equal to the amount of damage dealt by Starfell Sword."
+      },
+      "c3": {
+        "name": "Will of the Rock",
+        "effect": "Increases the Level of **Wake of Earth** by 3.\nMaximum upgrade level is 15."
+      },
+      "c4": {
+        "name": "Reaction Force",
+        "effect": "The shockwave triggered by **Wake of Earth** regenerates 5 Energy for every opponent hit.\nA maximum of 25 Energy can be regenerated in this manner at any one time."
+      },
+      "c5": {
+        "name": "Meteorite Impact",
+        "effect": "Increases the Level of **Starfell Sword** by 3.\nMaximum upgrade level is 15."
+      },
+      "c6": {
+        "name": "Everlasting Boulder",
+        "effect": "The barrier created by **Wake of Earth** lasts 5s longer.\nThe meteorite created by **Starfell Sword** lasts 10s longer."
+      },
+      "images": {
+        "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_01.png",
+        "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_02.png",
+        "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerRock_02.png",
+        "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_03.png",
+        "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerRock_01.png",
+        "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_04.png",
+        "constellation": "Eff_UI_Talent_PlayerBoy_Rock",
+        "constellation2": "Eff_UI_Talent_PlayerGirl_Rock"
+      },
+      "version": "1.0"
+    }
+  ],
+  "talentTraveler": [
+    {
+      "name": "Traveler (Anemo)",
+      "combat1": {
+        "name": "Normal Attack: Foreign Ironwind",
+        "info": "**Normal Attack**\nPerform up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "attributes": []
+      },
+      "combat2": {
+        "name": "Palm Vortex",
+        "info": "Grasping the wind's might, you form a vortex of vacuum in your palm, causing continuous Anemo DMG to opponents in front of you.\nThe vacuum vortex explodes when the skill duration ends, causing a greater amount of Anemo DMG over a larger area.\n\n**Hold**\nDMG and AoE will gradually increase.\n\n**Elemental Absorption**\nIf the vortex comes into contact with Hydro/Pyro/Cryo/Electro, it will deal additional elemental DMG of that type.\nElemental Absorption may only occur once per use.",
+        "description": "You discussed the way to grasp the formless wind with Paimon.",
+        "attributes": []
+      },
+      "combat3": {
+        "name": "Gust Surge",
+        "info": "Guiding the path of the wind currents, you summon a forward-moving tornado that pulls objects and opponents towards itself, dealing continuous Anemo DMG.\n\n**Elemental Absorption**\nIf the tornado comes into contact with Hydro/Pyro/Cryo/Electro, it will deal additional elemental DMG of that type.\nElemental Absorption may only occur once per use.",
+        "description": "You and Paimon studied the flapping of a butterfly's wings.",
+        "attributes": []
+      },
+      "passive1": {
+        "name": "Slitting Wind",
+        "info": "The last hit of a Normal Attack combo unleashes a wind blade, dealing 60% of ATK as Anemo DMG to all opponents in its path."
+      },
+      "passive2": {
+        "name": "Second Wind",
+        "info": "**Palm Vortex** kills regenerate 2% HP for 5s. This effect can only occur once every 5s."
+      },
+      "costs": {
+        "lvl2": [
+          {
+            "name": "Mora",
+            "count": 12500
+          },
+          {
+            "name": "Teachings of Freedom",
+            "count": 3
+          },
+          {
+            "name": "Divining Scroll",
+            "count": 6
+          }
+        ],
+        "lvl3": [
+          {
+            "name": "Mora",
+            "count": 17500
+          },
+          {
+            "name": "Guide to Resistance",
+            "count": 2
+          },
+          {
+            "name": "Sealed Scroll",
+            "count": 3
+          }
+        ],
+        "lvl4": [
+          {
+            "name": "Mora",
+            "count": 25000
+          },
+          {
+            "name": "Guide to Ballad",
+            "count": 4
+          },
+          {
+            "name": "Sealed Scroll",
+            "count": 4
+          }
+        ],
+        "lvl5": [
+          {
+            "name": "Mora",
+            "count": 30000
+          },
+          {
+            "name": "Guide to Freedom",
+            "count": 6
+          },
+          {
+            "name": "Sealed Scroll",
+            "count": 6
+          }
+        ],
+        "lvl6": [
+          {
+            "name": "Mora",
+            "count": 37500
+          },
+          {
+            "name": "Guide to Resistance",
+            "count": 9
+          },
+          {
+            "name": "Sealed Scroll",
+            "count": 9
+          }
+        ],
+        "lvl7": [
+          {
+            "name": "Mora",
+            "count": 120000
+          },
+          {
+            "name": "Philosophies of Ballad",
+            "count": 4
+          },
+          {
+            "name": "Forbidden Curse Scroll",
+            "count": 4
+          },
+          {
+            "name": "Dvalin's Sigh",
+            "count": 1
+          }
+        ],
+        "lvl8": [
+          {
+            "name": "Mora",
+            "count": 260000
+          },
+          {
+            "name": "Philosophies of Freedom",
+            "count": 6
+          },
+          {
+            "name": "Forbidden Curse Scroll",
+            "count": 6
+          },
+          {
+            "name": "Dvalin's Sigh",
+            "count": 1
+          }
+        ],
+        "lvl9": [
+          {
+            "name": "Mora",
+            "count": 450000
+          },
+          {
+            "name": "Philosophies of Resistance",
+            "count": 12
+          },
+          {
+            "name": "Forbidden Curse Scroll",
+            "count": 9
+          },
+          {
+            "name": "Dvalin's Sigh",
+            "count": 2
+          }
+        ],
+        "lvl10": [
+          {
+            "name": "Mora",
+            "count": 700000
+          },
+          {
+            "name": "Philosophies of Ballad",
+            "count": 16
+          },
+          {
+            "name": "Forbidden Curse Scroll",
+            "count": 12
+          },
+          {
+            "name": "Dvalin's Sigh",
+            "count": 2
+          },
+          {
+            "name": "Crown of Insight",
+            "count": 1
+          }
+        ]
+      },
+      "images": {
+        "combat1": "Skill_A_01",
+        "combat2": "Skill_S_PlayerWind_01",
+        "combat3": "Skill_E_PlayerWind_01_HD",
+        "passive1": "UI_Talent_S_PlayerWind_05",
+        "passive2": "UI_Talent_S_PlayerWind_06"
+      },
+      "version": "1.0"
+    },
+    {
+      "name": "Traveler (Electro)",
+      "combat1": {
+        "name": "Normal Attack: Foreign Thundershock",
+        "info": "**Normal Attack**\nPerforms up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "attributes": []
+      },
+      "combat2": {
+        "name": "Lightning Blade",
+        "info": "Unleashes three swift thunder shadows that deal Electro DMG to opponents and leave an Abundance Amulet behind after hitting an opponent.\n2 Abundance Amulets can be created initially. Using this skill will reset any Abundance Amulets that were generated.\n\n**Abundance Amulets**\nWhen a character is near an Abundance Amulet, they will absorb it and obtain the following effects:\n·Restores Elemental Energy\n·Increases Energy Recharge during the Abundance Amulet's duration.",
+        "description": "You and Paimon discuss the paths by which electricity might flow.",
+        "attributes": []
+      },
+      "combat3": {
+        "name": "Bellowing Thunder",
+        "info": "You call upon the protection of lightning, knocking nearby opponents back and dealing Electro DMG to them.\n\n**Lightning Shroud**\nWhen your active character's Normal or Charged Attacks hit opponents, they will call Falling Thunder forth, dealing Electro DMG.\nWhen Falling Thunder hits opponents, it will regenerate Energy for that character.\nOne instance of Falling Thunder can be generated every 0.5s.",
+        "description": "You and Paimon studied the light that flashes through the clouds.",
+        "attributes": []
+      },
+      "passive1": {
+        "name": "Thunderflash",
+        "info": "When another nearby character in the party obtains an Abundance Amulet created by **Lightning Blade**, **Lightning Blade's** CD is decreased by 1.5s."
+      },
+      "passive2": {
+        "name": "Resounding Roar",
+        "info": "Increases the Energy Recharge effect granted by **Lightning Blade**'s Abundance Amulet by 10% of the Traveler's Energy Recharge."
+      },
+      "costs": {
+        "lvl2": [
+          {
+            "name": "Mora",
+            "count": 12500
+          },
+          {
+            "name": "Teachings of Transience",
+            "count": 3
+          },
+          {
+            "name": "Old Handguard",
+            "count": 6
+          }
+        ],
+        "lvl3": [
+          {
+            "name": "Mora",
+            "count": 17500
+          },
+          {
+            "name": "Guide to Elegance",
+            "count": 2
+          },
+          {
+            "name": "Kageuchi Handguard",
+            "count": 3
+          }
+        ],
+        "lvl4": [
+          {
+            "name": "Mora",
+            "count": 25000
+          },
+          {
+            "name": "Guide to Light",
+            "count": 4
+          },
+          {
+            "name": "Kageuchi Handguard",
+            "count": 4
+          }
+        ],
+        "lvl5": [
+          {
+            "name": "Mora",
+            "count": 30000
+          },
+          {
+            "name": "Guide to Transience",
+            "count": 6
+          },
+          {
+            "name": "Kageuchi Handguard",
+            "count": 6
+          }
+        ],
+        "lvl6": [
+          {
+            "name": "Mora",
+            "count": 37500
+          },
+          {
+            "name": "Guide to Elegance",
+            "count": 9
+          },
+          {
+            "name": "Kageuchi Handguard",
+            "count": 9
+          }
+        ],
+        "lvl7": [
+          {
+            "name": "Mora",
+            "count": 120000
+          },
+          {
+            "name": "Philosophies of Light",
+            "count": 4
+          },
+          {
+            "name": "Famed Handguard",
+            "count": 4
+          },
+          {
+            "name": "Dragon Lord's Crown",
+            "count": 1
+          }
+        ],
+        "lvl8": [
+          {
+            "name": "Mora",
+            "count": 260000
+          },
+          {
+            "name": "Philosophies of Transience",
+            "count": 6
+          },
+          {
+            "name": "Famed Handguard",
+            "count": 6
+          },
+          {
+            "name": "Dragon Lord's Crown",
+            "count": 1
+          }
+        ],
+        "lvl9": [
+          {
+            "name": "Mora",
+            "count": 450000
+          },
+          {
+            "name": "Philosophies of Elegance",
+            "count": 12
+          },
+          {
+            "name": "Famed Handguard",
+            "count": 9
+          },
+          {
+            "name": "Dragon Lord's Crown",
+            "count": 2
+          }
+        ],
+        "lvl10": [
+          {
+            "name": "Mora",
+            "count": 700000
+          },
+          {
+            "name": "Philosophies of Light",
+            "count": 16
+          },
+          {
+            "name": "Famed Handguard",
+            "count": 12
+          },
+          {
+            "name": "Dragon Lord's Crown",
+            "count": 2
+          },
+          {
+            "name": "Crown of Insight",
+            "count": 1
+          }
+        ]
+      },
+      "images": {
+        "combat1": "Skill_A_01",
+        "combat2": "Skill_S_PlayerElectric_01",
+        "combat3": "Skill_E_PlayerElectric_01_HD",
+        "passive1": "UI_Talent_S_PlayerElectric_05",
+        "passive2": "UI_Talent_S_PlayerElectric_06"
+      },
+      "version": "2.0"
+    },
+    {
+      "name": "Traveler (Geo)",
+      "combat1": {
+        "name": "Normal Attack: Foreign Rockblade",
+        "info": "**Normal Attack**\nPerform up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "attributes": []
+      },
+      "combat2": {
+        "name": "Starfell Sword",
+        "info": "You disgorge a meteorite from the depths of the earth, dealing AoE Geo DMG.\nThe meteorite is considered a Geo Construct, and can be climbed or used to block attacks.\n\n**Hold**\nThis skill's positioning may be adjusted.",
+        "description": "You spoke with Paimon about the final destination of falling stars.",
+        "attributes": []
+      },
+      "combat3": {
+        "name": "Wake of Earth",
+        "info": "Energizing the Geo deep underground, you set off expanding shockwaves.\nLaunches surrounding opponents back and deals AoE Geo DMG.\nA stone wall is erected at the edges of the shockwave.\nThe stone wall is considered a Geo Construct, and may be used to block attacks.",
+        "description": "You and Paimon studied the pulse of the mountains.",
+        "attributes": []
+      },
+      "passive1": {
+        "name": "Shattered Darkrock",
+        "info": "Reduces **Starfell Sword**'s CD by 2s."
+      },
+      "passive2": {
+        "name": "Frenzied Rockslide",
+        "info": "The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK as AoE Geo DMG."
+      },
+      "costs": {
+        "lvl2": [
+          {
+            "name": "Mora",
+            "count": 12500
+          },
+          {
+            "name": "Teachings of Prosperity",
+            "count": 3
+          },
+          {
+            "name": "Firm Arrowhead",
+            "count": 6
+          }
+        ],
+        "lvl3": [
+          {
+            "name": "Mora",
+            "count": 17500
+          },
+          {
+            "name": "Guide to Diligence",
+            "count": 2
+          },
+          {
+            "name": "Sharp Arrowhead",
+            "count": 3
+          }
+        ],
+        "lvl4": [
+          {
+            "name": "Mora",
+            "count": 25000
+          },
+          {
+            "name": "Guide to Gold",
+            "count": 4
+          },
+          {
+            "name": "Sharp Arrowhead",
+            "count": 4
+          }
+        ],
+        "lvl5": [
+          {
+            "name": "Mora",
+            "count": 30000
+          },
+          {
+            "name": "Guide to Prosperity",
+            "count": 6
+          },
+          {
+            "name": "Sharp Arrowhead",
+            "count": 6
+          }
+        ],
+        "lvl6": [
+          {
+            "name": "Mora",
+            "count": 37500
+          },
+          {
+            "name": "Guide to Diligence",
+            "count": 9
+          },
+          {
+            "name": "Sharp Arrowhead",
+            "count": 9
+          }
+        ],
+        "lvl7": [
+          {
+            "name": "Mora",
+            "count": 120000
+          },
+          {
+            "name": "Philosophies of Gold",
+            "count": 4
+          },
+          {
+            "name": "Weathered Arrowhead",
+            "count": 4
+          },
+          {
+            "name": "Tail of Boreas",
+            "count": 1
+          }
+        ],
+        "lvl8": [
+          {
+            "name": "Mora",
+            "count": 260000
+          },
+          {
+            "name": "Philosophies of Prosperity",
+            "count": 6
+          },
+          {
+            "name": "Weathered Arrowhead",
+            "count": 6
+          },
+          {
+            "name": "Tail of Boreas",
+            "count": 1
+          }
+        ],
+        "lvl9": [
+          {
+            "name": "Mora",
+            "count": 450000
+          },
+          {
+            "name": "Philosophies of Diligence",
+            "count": 12
+          },
+          {
+            "name": "Weathered Arrowhead",
+            "count": 9
+          },
+          {
+            "name": "Tail of Boreas",
+            "count": 2
+          }
+        ],
+        "lvl10": [
+          {
+            "name": "Mora",
+            "count": 700000
+          },
+          {
+            "name": "Philosophies of Gold",
+            "count": 16
+          },
+          {
+            "name": "Weathered Arrowhead",
+            "count": 12
+          },
+          {
+            "name": "Tail of Boreas",
+            "count": 2
+          },
+          {
+            "name": "Crown of Insight",
+            "count": 1
+          }
+        ]
+      },
+      "images": {
+        "combat1": "Skill_A_01",
+        "combat2": "Skill_S_PlayerRock_01",
+        "combat3": "Skill_E_PlayerRock_01_HD",
+        "passive1": "UI_Talent_S_PlayerRock_05",
+        "passive2": "UI_Talent_S_PlayerRock_06"
+      },
+      "version": "1.0"
+    }
+  ]
+}

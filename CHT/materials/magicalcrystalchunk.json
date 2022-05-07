@@ -1,0 +1,19 @@
+{
+  "name": "魔晶塊",
+  "description": "可以通過「委託鍛造」，利用原粹樹脂，提煉成武器經驗材料。\n受地脈的能量侵蝕的水晶礦，尋常手段無法處理。",
+  "sortorder": 1957,
+  "category": "EXCHANGE",
+  "materialtype": "鍛造用礦石",
+  "source": [
+    "野外採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Magical_Crystal_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Item_Magical_Crystal_Chunk.png",
+    "nameicon": "UI_ItemIcon_101004"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Magical_Crystal_Chunk"
+  },
+  "version": ""
+}

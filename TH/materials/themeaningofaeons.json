@@ -1,0 +1,20 @@
+{
+  "name": "The Meaning of Aeons",
+  "description": "เครื่องประดับศีรษะขนาดเล็กที่นำกลับมาจากดินแดนแห่งใจที่บริสุทธิ์ หลังจากที่ทุกอย่างสิ้นสุดลงแล้ว\nเพียงหนึ่งความปรารถนาก็จะดับทุกภัยพิบัติหายนะ และความปรารถนาก็จะอยู่เหนือกาลเวลาอยู่เสมอ\nท่ามกลางมหันตภัยมากมายเหนือคณานับ ไม่รู้ว่าจะสามารถถ่ายทอดความปรารถนาที่แท้จริงของ \"Makoto\" ไปถึงหรือไม่",
+  "sortorder": 1816,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "รางวัลการท้าทาย Sentinel of Eternity Lv. 70 ขึ้นไป"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_113034",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_The_Meaning_of_Aeons.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Item_The_Meaning_of_Aeons.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/The_Meaning_of_Aeons"
+  },
+  "version": ""
+}

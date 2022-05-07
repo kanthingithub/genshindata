@@ -1,0 +1,22 @@
+{
+  "name": "Morceau de jade shivada",
+  "description": "Matériau d'élévation de personnage.\n« Pardon... »\n« Je vous laisse partager la tristesse du monde entier avec moi. »",
+  "sortorder": 1844,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Butin d'Arbre congelé (Niv.60+)",
+    "Butin d'Hypostase Cryo (Niv.60+)",
+    "Synthèse"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shivada_Jade_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Item_Shivada_Jade_Chunk.png",
+    "nameicon": "UI_ItemIcon_104163"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shivada_Jade_Chunk"
+  },
+  "version": ""
+}

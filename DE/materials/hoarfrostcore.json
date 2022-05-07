@@ -1,0 +1,20 @@
+{
+  "name": "Fluxeiskern",
+  "description": "Der entblößte Kern eines besiegten Fluxeisbaums. Darin befindet sich reine Kryo-Kraft.\nDie tief in der Erde brodelnde Energie und die darin verborgenen Gedanken sprudeln letztendlich hervor. Selbst der Frost in trauriger Einsamkeit nimmt an der Oberfläche Form an. So werden gar Ranken, die eigentlich keine Lebewesen fangen sollten, zu großen und furchteinflößenden Kreaturen.",
+  "sortorder": 1792,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Beute von Fluxeisbäumen ab Stufe 30"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Hoarfrost_Core.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Item_Hoarfrost_Core.png",
+    "nameicon": "UI_ItemIcon_113010"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Hoarfrost_Core"
+  },
+  "version": ""
+}

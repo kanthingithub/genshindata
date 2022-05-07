@@ -1,0 +1,20 @@
+{
+  "name": "嘟嘟蓮",
+  "description": "生長在水邊的花。花瓣經過烹製口感爽脆，清甜微苦。",
+  "sortorder": 2042,
+  "category": "EXCHANGE",
+  "materialtype": "蒙德區域特產",
+  "source": [
+    "湖泊水邊採集",
+    "推薦：清泉鎮採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Calla_Lily.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Item_Calla_Lily.png",
+    "nameicon": "UI_ItemIcon_100056"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Calla_Lily"
+  },
+  "version": ""
+}

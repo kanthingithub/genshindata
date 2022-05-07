@@ -1,0 +1,16 @@
+{
+  "name": "Элементальная пыль",
+  "description": "Осколки Кристалла Окулуса. Показывают скрытые сокровища.",
+  "sortorder": 1580,
+  "category": "CONSUME",
+  "materialtype": "Предмет приключения",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_107002",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Elemental_Dust.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Elemental_Dust"
+  },
+  "version": ""
+}

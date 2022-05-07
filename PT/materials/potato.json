@@ -1,0 +1,19 @@
+{
+  "name": "Batata",
+  "description": "É uma planta perene da família das solanáceas. Um presente da terra devido aos seus vários métodos de preparado.",
+  "sortorder": 2000,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente",
+  "source": [
+    "Vendido nas Tendas"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Potato.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Item_Potato.png",
+    "nameicon": "UI_ItemIcon_100080"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Potato"
+  },
+  "version": ""
+}

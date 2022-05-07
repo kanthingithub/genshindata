@@ -1,0 +1,267 @@
+{
+  "name": "Domain of Blessing: Elegaic Rime",
+  "region": "Mondstadt",
+  "domainEntrance": "Peak of Vindagnyr",
+  "domainType": "Artifacts",
+  "description": "This was once a ritual site close to the skies, but a frigid nail that descended from the firmament buried it into the mountainside.\nThe frigid air has created the unique environment within. You must conquer the cold to pass this trial.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Cold_1"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domain of Blessing: Elegaic Rime I",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Pyro",
+        "Electro",
+        "Geo",
+        "Anemo"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 15
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "3"
+        },
+        {
+          "name": "Gambler",
+          "rarity": "3"
+        },
+        {
+          "name": "Blizzard Strayer",
+          "rarity": "4"
+        },
+        {
+          "name": "Heart of Depth",
+          "rarity": "4"
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "4"
+        },
+        {
+          "name": "Gambler",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Characters in the challenge will continuously accumulate Sheer Cold, and will lose HP after Sheer Cold reaches its limit.",
+        "The platforms in this challenge will intermittently switch between the Subzero and Warm statuses.",
+        "The areas affected by the Warm status will diminish Sheer Cold. The areas affected by the Subzero status will accelerate Sheer Cold's accumulation."
+      ],
+      "monsterlist": [
+        "Cryo Slime",
+        "Large Cryo Slime",
+        "Ice Shieldwall Mitachurl"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Elegaic Rime II",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "Pyro",
+        "Electro",
+        "Geo",
+        "Anemo"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 20
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "3"
+        },
+        {
+          "name": "Gambler",
+          "rarity": "3"
+        },
+        {
+          "name": "Blizzard Strayer",
+          "rarity": "4"
+        },
+        {
+          "name": "Heart of Depth",
+          "rarity": "4"
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "4"
+        },
+        {
+          "name": "Gambler",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Characters in the challenge will continuously accumulate Sheer Cold, and will lose HP after Sheer Cold reaches its limit.",
+        "The platforms in this challenge will intermittently switch between the Subzero and Warm statuses.",
+        "The areas affected by the Warm status will diminish Sheer Cold. The areas affected by the Subzero status will accelerate Sheer Cold's accumulation."
+      ],
+      "monsterlist": [
+        "Cryo Slime",
+        "Large Cryo Slime",
+        "Cryo Hilichurl Grenadier",
+        "Ice Shieldwall Mitachurl"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Elegaic Rime III",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Pyro",
+        "Electro",
+        "Geo",
+        "Anemo"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 20
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "3"
+        },
+        {
+          "name": "Gambler",
+          "rarity": "3"
+        },
+        {
+          "name": "Blizzard Strayer",
+          "rarity": "4"
+        },
+        {
+          "name": "Heart of Depth",
+          "rarity": "4"
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "4"
+        },
+        {
+          "name": "Gambler",
+          "rarity": "4"
+        },
+        {
+          "name": "Blizzard Strayer",
+          "rarity": "5"
+        },
+        {
+          "name": "Heart of Depth",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Characters in the challenge will continuously accumulate Sheer Cold, and will lose HP after Sheer Cold reaches its limit.",
+        "The platforms in this challenge will intermittently switch between the Subzero and Warm statuses.",
+        "The areas affected by the Warm status will diminish Sheer Cold. The areas affected by the Subzero status will accelerate Sheer Cold's accumulation."
+      ],
+      "monsterlist": [
+        "Large Cryo Slime",
+        "Cryo Hilichurl Grenadier",
+        "Ice Shieldwall Mitachurl",
+        "Cryo Abyss Mage"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Elegaic Rime IV",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "Pyro",
+        "Electro",
+        "Geo",
+        "Anemo"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 20
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "3"
+        },
+        {
+          "name": "Gambler",
+          "rarity": "3"
+        },
+        {
+          "name": "Blizzard Strayer",
+          "rarity": "4"
+        },
+        {
+          "name": "Heart of Depth",
+          "rarity": "4"
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "4"
+        },
+        {
+          "name": "Gambler",
+          "rarity": "4"
+        },
+        {
+          "name": "Blizzard Strayer",
+          "rarity": "5"
+        },
+        {
+          "name": "Heart of Depth",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Characters in the challenge will continuously accumulate Sheer Cold, and will lose HP after Sheer Cold reaches its limit.",
+        "The platforms in this challenge will intermittently switch between the Subzero and Warm statuses.",
+        "The areas affected by the Warm status will diminish Sheer Cold. The areas affected by the Subzero status will accelerate Sheer Cold's accumulation."
+      ],
+      "monsterlist": [
+        "Frostarm Lawachurl",
+        "Cryo Abyss Mage"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Margaridas Voadoras",
+  "description": "Uma planta que adora o vento. Para os filhos orgulhosos do vento, ou os habitantes de Mondstadt, as Margaridas Voadoras são os \"ventos visíveis\".",
+  "sortorder": 2039,
+  "category": "EXCHANGE",
+  "materialtype": "Especialidade de Mondstadt",
+  "source": [
+    "Encontrado perto da Estátua dos Sete perto da Origem do Vento",
+    "Encontrado debaixo das árvores na natureza",
+    "Recomendação: Encontrado na Toca de Stormterror"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Windwheel_Aster.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Windwheel_Aster.png",
+    "nameicon": "UI_ItemIcon_100024"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Windwheel_Aster"
+  },
+  "version": ""
+}

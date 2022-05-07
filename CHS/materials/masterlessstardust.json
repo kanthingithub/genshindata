@@ -1,0 +1,20 @@
+{
+  "name": "无主的星尘",
+  "description": "可以在商城兑换珍稀资源的货币。\n过剩的命运星之晶尘。累积起来，或许可以创造新的命运。",
+  "sortorder": 497,
+  "rarity": "4",
+  "category": "CONSUME",
+  "materialtype": "普通兑换券",
+  "source": [
+    "祈愿"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_222",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Masterless_Stardust.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7c/Item_Masterless_Stardust.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Masterless_Stardust"
+  },
+  "version": ""
+}

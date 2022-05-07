@@ -1,0 +1,24 @@
+{
+  "name": "Teachings of Prosperity",
+  "description": "วัสดุยกระดับพรสวรรค์\nความเจริญรุ่งเรืองคือสิ่งที่ประเทศ แห่งหินคอยตามหา\nความเจริญรุ่งเรืองคือสิ่งที่เมืองต่าง ๆ โปรดปราน Liyue คือเมืองอันยิ่งใหญ่ที่ถูกร่วมสร้าง โดยเทพเจ้าและเหล่าชาวเมือง Liyue คือแหล่งกำเนิดของความปลอดภัย และสงบสุขของเมืองอันยิ่งใหญ่",
+  "sortorder": 1860,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุยกระดับพรสวรรค์",
+  "dropdomain": "ดันเจี้ยนแห่งการพัฒนา: แท่นบูชาแห่งไฟ",
+  "daysofweek": [
+    "วันจันทร์",
+    "วันพฤหัสบดี",
+    "วันอาทิตย์"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Prosperity.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/9e/Item_Teachings_of_Prosperity.png",
+    "nameicon": "UI_ItemIcon_104310"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Prosperity"
+  },
+  "version": ""
+}

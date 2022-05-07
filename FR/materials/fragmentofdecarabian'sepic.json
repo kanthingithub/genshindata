@@ -1,0 +1,26 @@
+{
+  "name": "Fragment dispersé de Décabarian",
+  "description": "Matériau d'élévation d'arme.\nAndrios déclara la guerre au Seigneur de la Tour, mais ne put infliger une seule égratignure aux rempats de sa cité. Hélas, la douce mélodie de la liberté mit fin au rêve du tyran en un instant.",
+  "sortorder": 2185,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'élévation d'arme",
+  "dropdomain": "Donjon d'entraînement : Ville de réflexions",
+  "daysofweek": [
+    "Lundi",
+    "Jeudi",
+    "Dimanche"
+  ],
+  "source": [
+    "Synthèse"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragment_of_Decarabian's_Epic.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Fragment_of_Decarabian%27s_Epic.png",
+    "nameicon": "UI_ItemIcon_114003"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fragment_of_Decarabian's_Epic"
+  },
+  "version": ""
+}

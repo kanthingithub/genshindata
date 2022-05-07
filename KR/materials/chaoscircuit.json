@@ -1,0 +1,23 @@
+{
+  "name": "혼돈의 회로",
+  "description": "멈춰버린 고대 유적에서 나온 구조체. 이전에 논리 회로였던 부분으로, 아무도 해제할 수 없는 위대한 기술이 담겨있다",
+  "sortorder": 1742,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "캐릭터 육성 소재",
+  "source": [
+    "합성 획득",
+    "Lv.40이상 유적 가디언 드랍",
+    "Lv.40이상 유적 헌터 드랍",
+    "스타더스트 교환"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Circuit.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Item_Chaos_Circuit.png",
+    "nameicon": "UI_ItemIcon_112024"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chaos_Circuit"
+  },
+  "version": ""
+}

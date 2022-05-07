@@ -1,0 +1,19 @@
+{
+  "name": "Tomate",
+  "description": "Cette tomate charnue et juteuse possède un goût acidulé. On ne sait toujours pas si c'est un fruit ou un légume.",
+  "sortorder": 1999,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrédient",
+  "source": [
+    "Épiceries"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Tomato.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Tomato.png",
+    "nameicon": "UI_ItemIcon_100079"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Tomato"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Atem des Ostwinds",
+  "description": "Ein Teil der Kraft der vom Herrscher des Ostwinds von Mondstadt heraufbeschworenen Winde.\nSchön und durchsichtig, Passate und Tornados entstehen in seinem Namen. Die Winde sind seine Kameraden, seine Stimme und seine Freiheit.\nSeine zahlreichen Feinde sind alle, die sich gegen den Wind stellen.",
+  "sortorder": 1787,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Belohnung für die Herausforderung Sturmschreckens ab Stufe 70"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dvalin's_Sigh.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Dvalin%27s_Sigh.png",
+    "nameicon": "UI_ItemIcon_113005"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dvalin's_Sigh"
+  },
+  "version": ""
+}

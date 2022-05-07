@@ -1,0 +1,19 @@
+{
+  "name": "Salz",
+  "description": "Ist salzig und verbessert den Geschmack von Gerichten nur in der richtigen Menge.\n",
+  "sortorder": 1995,
+  "category": "EXCHANGE",
+  "materialtype": "Zutat",
+  "source": [
+    "In Gemischtwarenläden zu erstehen"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Salt.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Item_Salt.png",
+    "nameicon": "UI_ItemIcon_100075"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Salt"
+  },
+  "version": ""
+}

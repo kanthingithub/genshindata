@@ -1,0 +1,20 @@
+{
+  "name": "Flammenblumenstaubblatt",
+  "description": "Äußerst scharf auf der Zunge. Dieses Staubblatt gibt sogar noch Wärme ab, nachdem es in Wasser gebadet wurde.",
+  "sortorder": 1969,
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [
+    "In der freien Natur zu finden",
+    "Empfohlen: Im Tempel der Tausend Winde zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Flaming_Flower_Stamen.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Item_Flaming_Flower_Stamen.png",
+    "nameicon": "UI_ItemIcon_100053"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Flaming_Flower_Stamen"
+  },
+  "version": ""
+}

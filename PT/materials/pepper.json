@@ -1,0 +1,19 @@
+{
+  "name": "Pimenta",
+  "description": "Picante. Ela pode tirar os sabores enjoativos e deixar tudo mais cheiroso. Combina bem com carnes.",
+  "sortorder": 1997,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente",
+  "source": [
+    "Vendido nas Tendas"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Pepper.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Item_Pepper.png",
+    "nameicon": "UI_ItemIcon_100077"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Pepper"
+  },
+  "version": ""
+}

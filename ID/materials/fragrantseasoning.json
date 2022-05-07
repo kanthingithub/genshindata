@@ -1,0 +1,14 @@
+{
+  "name": "Fragrant Seasoning",
+  "description": "Bumbu yang dibuat sesuai resep yang diberikan oleh Nazafarin. Aromanya yang tajam dan berfungsi untuk menguatkan rasa pada setiap hidangan yang ditambahkannya.",
+  "sortorder": 1232,
+  "rarity": "1",
+  "category": "CONSUME",
+  "materialtype": "Konsumsi",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_101714",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragrant_Seasoning.png"
+  },
+  "version": "2.6"
+}

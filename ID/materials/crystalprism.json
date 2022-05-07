@@ -1,0 +1,22 @@
+{
+  "name": "Crystal Prism",
+  "description": "Prisma yang dapat memantulkan polarisasi cahaya.\nKamu dapat membuat gambar ilusi dengan menggunakan prisma ini. Dalam arti tertentu, prisma ini juga memiliki kemampuan untuk memanipulasi hati orang.",
+  "sortorder": 1769,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Didapatkan melalui Craft",
+    "Dijatuhkan oleh Mirror Maiden Lv. 40+",
+    "Penukaran Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crystal_Prism.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Item_Crystal_Prism.png",
+    "nameicon": "UI_ItemIcon_112051"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Crystal_Prism"
+  },
+  "version": ""
+}

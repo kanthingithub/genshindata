@@ -1,0 +1,278 @@
+{
+  "name": "Donjon de la bénédiction : Danse du métal",
+  "region": "Mondstadt",
+  "domainEntrance": "Vallée de la réminiscence",
+  "domainType": "Artéfact",
+  "description": "Cet autel des temps anciens abrite des monstres craignant la force brute.\nVous serez {M#récompensé}{F#récompensée} avec un artéfact rare si vous arrivez à triompher de cette épreuve.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_3"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Donjon de la bénédiction : Danse du métal I",
+      "recommendedLevel": 47,
+      "recommendedElements": [],
+      "unlockRank": 25,
+      "rewardPreview": [
+        {
+          "name": "EXP d'aventure",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1700
+        },
+        {
+          "name": "EXP d'affinité",
+          "count": 15
+        },
+        {
+          "name": "Médecin itinérant",
+          "rarity": "2"
+        },
+        {
+          "name": "Miracle",
+          "rarity": "3"
+        },
+        {
+          "name": "Médecin itinérant",
+          "rarity": "3"
+        }
+      ],
+      "disorder": [
+        "Les DGT physiques infligés par l'équipe augmentent de 75 %."
+      ],
+      "monsterlist": [
+        "Cryochimiste des Pilleurs de trésors",
+        "Commis des Pilleurs de trésors",
+        "Déterreur des Pilleurs de trésors",
+        "Marin des Pilleurs de trésors",
+        "Pugiliste des Pilleurs de trésors"
+      ]
+    },
+    {
+      "name": "Donjon de la bénédiction : Danse du métal II",
+      "recommendedLevel": 59,
+      "recommendedElements": [],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "EXP d'aventure",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "EXP d'affinité",
+          "count": 15
+        },
+        {
+          "name": "Miracle",
+          "rarity": "3"
+        },
+        {
+          "name": "Médecin itinérant",
+          "rarity": "3"
+        },
+        {
+          "name": "Ombre de la Verte Chasseuse",
+          "rarity": "4"
+        },
+        {
+          "name": "Amour chéri",
+          "rarity": "4"
+        },
+        {
+          "name": "Miracle",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Les DGT physiques infligés par l'équipe augmentent de 75 %."
+      ],
+      "monsterlist": [
+        "Usurier Pyro des Fatui",
+        "Guetteur des Pilleurs de trésors",
+        "Pyrochimiste des Pilleurs de trésors",
+        "Hydrochimiste des Pilleurs de trésors",
+        "Commis des Pilleurs de trésors",
+        "Pugiliste des Pilleurs de trésors",
+        "Écraseur des Pilleurs de trésors"
+      ]
+    },
+    {
+      "name": "Donjon de la bénédiction : Danse du métal III",
+      "recommendedLevel": 69,
+      "recommendedElements": [],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "EXP d'aventure",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "EXP d'affinité",
+          "count": 20
+        },
+        {
+          "name": "Miracle",
+          "rarity": "3"
+        },
+        {
+          "name": "Médecin itinérant",
+          "rarity": "3"
+        },
+        {
+          "name": "Ombre de la Verte Chasseuse",
+          "rarity": "4"
+        },
+        {
+          "name": "Amour chéri",
+          "rarity": "4"
+        },
+        {
+          "name": "Miracle",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Les DGT physiques infligés par l'équipe augmentent de 75 %."
+      ],
+      "monsterlist": [
+        "Usurier Pyro des Fatui",
+        "Mage électroluciole des Fatui",
+        "Guetteur des Pilleurs de trésors",
+        "Pyrochimiste des Pilleurs de trésors",
+        "Électrochimiste des Pilleurs de trésors",
+        "Commis des Pilleurs de trésors",
+        "Déterreur des Pilleurs de trésors",
+        "Pugiliste des Pilleurs de trésors",
+        "Écraseur des Pilleurs de trésors"
+      ]
+    },
+    {
+      "name": "Donjon de la bénédiction : Danse du métal IV",
+      "recommendedLevel": 80,
+      "recommendedElements": [],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "EXP d'aventure",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "EXP d'affinité",
+          "count": 20
+        },
+        {
+          "name": "Miracle",
+          "rarity": "3"
+        },
+        {
+          "name": "Médecin itinérant",
+          "rarity": "3"
+        },
+        {
+          "name": "Ombre de la Verte Chasseuse",
+          "rarity": "4"
+        },
+        {
+          "name": "Amour chéri",
+          "rarity": "4"
+        },
+        {
+          "name": "Miracle",
+          "rarity": "4"
+        },
+        {
+          "name": "Ombre de la Verte Chasseuse",
+          "rarity": "5"
+        },
+        {
+          "name": "Amour chéri",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Les DGT physiques infligés par l'équipe augmentent de 75 %."
+      ],
+      "monsterlist": [
+        "Usurier Pyro des Fatui",
+        "Mage électroluciole des Fatui",
+        "Pyrochimiste des Pilleurs de trésors",
+        "Hydrochimiste des Pilleurs de trésors",
+        "Électrochimiste des Pilleurs de trésors",
+        "Cryochimiste des Pilleurs de trésors",
+        "Marin des Pilleurs de trésors"
+      ]
+    },
+    {
+      "name": "Donjon de la bénédiction : Danse du métal V",
+      "recommendedLevel": 90,
+      "recommendedElements": [],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "EXP d'aventure",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "EXP d'affinité",
+          "count": 20
+        },
+        {
+          "name": "Miracle",
+          "rarity": "3"
+        },
+        {
+          "name": "Médecin itinérant",
+          "rarity": "3"
+        },
+        {
+          "name": "Ombre de la Verte Chasseuse",
+          "rarity": "4"
+        },
+        {
+          "name": "Amour chéri",
+          "rarity": "4"
+        },
+        {
+          "name": "Miracle",
+          "rarity": "4"
+        },
+        {
+          "name": "Ombre de la Verte Chasseuse",
+          "rarity": "5"
+        },
+        {
+          "name": "Amour chéri",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Les DGT physiques infligés par l'équipe augmentent de 75 %."
+      ],
+      "monsterlist": [
+        "Usurier Pyro des Fatui",
+        "Mage électroluciole des Fatui",
+        "Cryochimiste des Pilleurs de trésors"
+      ]
+    }
+  ]
+}

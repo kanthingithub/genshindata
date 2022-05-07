@@ -1,0 +1,19 @@
+{
+  "name": "Almond",
+  "description": "A seed with a peculiar fragrance that gives food a refreshing taste.",
+  "sortorder": 2005,
+  "category": "EXCHANGE",
+  "materialtype": "Cooking Ingredient",
+  "source": [
+    "Sold at general goods shops in Liyue"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Almond.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Item_Almond.png",
+    "nameicon": "UI_ItemIcon_100089"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Almond"
+  },
+  "version": ""
+}

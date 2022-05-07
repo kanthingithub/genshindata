@@ -1,0 +1,20 @@
+{
+  "name": "キャベツ",
+  "description": "何層にも重なった野菜。かつては鑑賞用植物だったそうだが、今では鍋に入れた姿も素晴らしいものになっている。",
+  "sortorder": 1984,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "野外で採集",
+    "雑貨屋で購入"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cabbage.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Item_Cabbage.png",
+    "nameicon": "UI_ItemIcon_100018"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cabbage"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Валяшка",
+  "description": "Мягкая полупрозрачная ягода, обладающая ярким ароматом и сладким вкусом. В прошлом Смотрители бури нашли утешение и надежду в сладости этой ягоды.",
+  "sortorder": 2037,
+  "category": "EXCHANGE",
+  "materialtype": "Диковина Мондштадта",
+  "source": [
+    "Дикая природа",
+    "Горы Буревестника"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Valberry.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/ed/Item_Valberry.png",
+    "nameicon": "UI_ItemIcon_100022"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Valberry"
+  },
+  "version": ""
+}

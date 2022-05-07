@@ -1,0 +1,26 @@
+{
+  "name": "Filosofia do Mundo Mortal",
+  "description": "Material de Elevação de Talento.\nTransiência é o sonho da nação do trovão.\nA natureza passageira desse mundo mortal é a essência da beleza, pois nossas vidas não são rápidas como o flash de um raio? Mas a grandeza do divino aparece repentinamente, e perante o rugido da eternidade, quem pode suportá-lo?",
+  "sortorder": 1871,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Talento",
+  "dropdomain": "Domínio da Proficiência: País Violeta",
+  "daysofweek": [
+    "Segunda-feira",
+    "Quinta-feira",
+    "Domingo"
+  ],
+  "source": [
+    "Obtido na síntese"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Transience.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Item_Philosophies_of_Transience.png",
+    "nameicon": "UI_ItemIcon_104322"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Transience"
+  },
+  "version": ""
+}

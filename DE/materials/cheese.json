@@ -1,0 +1,19 @@
+{
+  "name": "Käse",
+  "description": "Ein aus geronnener Milch gewonnenes Erzeugnis. Es bietet gleichzeitig eine hohe Menge Energie sowie uneingeschränkte Möglichkeiten der Zubereitung.",
+  "sortorder": 1532,
+  "category": "EXCHANGE",
+  "materialtype": "Zutat",
+  "source": [
+    "Beim Verarbeiten von Gerichten zu erhalten"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cheese.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Item_Cheese.png",
+    "nameicon": "UI_ItemIcon_110009"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cheese"
+  },
+  "version": ""
+}

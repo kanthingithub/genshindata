@@ -1,0 +1,21 @@
+{
+  "name": "Maple Wood",
+  "description": "Timber from the Amur Maple. Excellent quality wood with a fine color and texture.\nCan be used to create furnishings.",
+  "sortorder": 1944,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Material",
+  "source": [
+    "Found in the wild",
+    "Recommendation: Cut from Narukami Island"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Maple_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Maple_Wood.png",
+    "nameicon": "UI_ItemIcon_101310"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Maple_Wood"
+  },
+  "version": ""
+}

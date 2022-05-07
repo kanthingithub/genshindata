@@ -1,0 +1,19 @@
+{
+  "name": "蝶々の羽",
+  "description": "色鮮やかな羽。落ちた鱗粉が微かな光を放っている。もしかしたら蝶々が軽やかに飛ぶための成分かもしれない。",
+  "sortorder": 1971,
+  "category": "EXCHANGE",
+  "materialtype": "素材",
+  "source": [
+    "野外で採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Butterfly_Wings.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Item_Butterfly_Wings.png",
+    "nameicon": "UI_ItemIcon_100072"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Butterfly_Wings"
+  },
+  "version": ""
+}

@@ -1,0 +1,153 @@
+{
+  "name": "Bạo Đồ Hilichurl Khiên Gỗ",
+  "specialname": "Dada Kundala",
+  "enemytype": "ELITE",
+  "category": "Bộ Tộc Hilichurl",
+  "description": "Hilichurl Lớn đã trải qua vô số trận chiến.\nBiết lợi dụng Slime Thảo tạo thành khiên gỗ kiên cố để chiến đấu.\nCó cơ bắp mạnh mẽ, lớp lông óng mượt, tấm lưng vững chắc, một bữa sẽ ăn rất nhiều thịt, sẽ giúp Hilichurl chống lại những nhà mạo hiểm không niệm tình, có địa vị tương đối cao trong bộ lạc.",
+  "investigation": {
+    "name": "Bạo Đồ Hilichurl",
+    "category": "Tinh Anh",
+    "description": "Trong bộ lạc Hilichurl, sẽ chọn ra một dũng sĩ khỏe mạnh nhất.\\nĐối với Hilichurl mà nói, việc quan trọng nhất đó là ăn thịt và đánh nhau, để bản thân trở nên cường tráng. Nếu có thể trở thành Bạo Đồ Hilichurl vừa to lớn vừa khỏe mạnh, không những có thể ăn được nhiều thịt hơn, mà còn có thể đánh nhiều trận hơn."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Sừng Nặng",
+      "count": 1.5758
+    },
+    {
+      "name": "Sừng Đồng Đen",
+      "count": 0.4202
+    },
+    {
+      "name": "Sừng Hắc Tinh",
+      "count": 0.1051
+    },
+    {
+      "name": "Mặt Nạ Vỡ",
+      "count": 0.5253
+    },
+    {
+      "name": "Mặt Nạ Bẩn",
+      "count": 0.1401
+    },
+    {
+      "name": "Mặt Nạ Xui Xẻo",
+      "count": 0.035
+    },
+    {
+      "name": "Cuồng Chiến",
+      "rarity": "3"
+    },
+    {
+      "name": "Giáo Quan",
+      "rarity": "3"
+    },
+    {
+      "name": "Kẻ Lưu Đày",
+      "rarity": "3"
+    },
+    {
+      "name": "Thầy Thuốc",
+      "rarity": "3"
+    },
+    {
+      "name": "Cuồng Chiến",
+      "rarity": "4"
+    },
+    {
+      "name": "Giáo Quan",
+      "rarity": "4"
+    },
+    {
+      "name": "Kẻ Lưu Đày",
+      "rarity": "4"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Brute_None_01"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 218.7509794542566,
+      "attack": 60.906552212361476,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 859.8121607497742,
+      "attack": 162.72665734099883,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 2655.600003847154,
+      "attack": 401.39990634691276,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 4418.400979883387,
+      "attack": 655.6238161127621,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 8084.548390447162,
+      "attack": 980.1932871321915,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 14989.452767774463,
+      "attack": 1511.5853374239596,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 25143.764439336956,
+      "attack": 2128.6184320330067,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 39155.91791216936,
+      "attack": 2938.457141733408,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 55697.182621506974,
+      "attack": 3780.6359339640476,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 73062.26003226824,
+      "attack": 4567.52926300207,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 110295.36462029815,
+      "attack": 5909.301052030816,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 160506.94116508216,
+      "attack": 6026.632944034442,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 215958.9501701519,
+      "attack": 6144.786326247908,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Sagesse de Narukami",
+  "description": "Matériau d'élévation d'arme.\nPar le passé, les anciens escaladaient le sommet maintenant connu sous le nom de Mont Yougou et sculptaient du bois carbonisé par la foudre en un crochet incurvé pour l'offrir en effigie à la force tonitruante qui illuminait les cieux et secouait la terre. Cette forme deviendra finalement le symbole du Mitsudomoe Électro, symbolisant la faveur, la sagesse et la puissance de l'Électro, ainsi que les personnes qui représentent ces valeurs.",
+  "sortorder": 2211,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'élévation d'arme",
+  "dropdomain": "Donjon d'entraînement : Autel des sables",
+  "daysofweek": [
+    "Mardi",
+    "Vendredi",
+    "Dimanche"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Narukami's_Wisdom.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Item_Narukami%27s_Wisdom.png",
+    "nameicon": "UI_ItemIcon_114029"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Narukami's_Wisdom"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "電氣水晶",
+  "description": "富含電力的晶石，由逸散在大氣與大地中的電氣積聚而成。摸起來酥酥麻麻的。",
+  "sortorder": 1970,
+  "category": "EXCHANGE",
+  "materialtype": "素材",
+  "source": [
+    "山壁下採集",
+    "推薦：誓言岬採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Electro_Crystal.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/99/Item_Electro_Crystal.png",
+    "nameicon": "UI_ItemIcon_100054"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Electro_Crystal"
+  },
+  "version": ""
+}

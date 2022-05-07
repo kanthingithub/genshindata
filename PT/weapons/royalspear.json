@@ -1,0 +1,307 @@
+{
+  "name": "Lança de Caça Real",
+  "description": "Esta lança outrora valorizada por um membro da antiga nobreza que governou Mondstadt há muito tempo. Embora nunca tenha visto a luz do dia, ela ainda é incomparavelmente afiada.",
+  "weapontype": "Lança",
+  "rarity": "4",
+  "baseatk": 44,
+  "substat": "ATQ",
+  "subvalue": "6",
+  "effectname": "Foco",
+  "effect": [
+    "Ao atingir um oponente, aumenta a Taxa Crítica em [8%], acumulando no máximo 5 vezes. Causar Dano Crítico remove todos os acúmulos.",
+    "Ao atingir um oponente, aumenta a Taxa Crítica em [10%], acumulando no máximo 5 vezes. Causar Dano Crítico remove todos os acúmulos.",
+    "Ao atingir um oponente, aumenta a Taxa Crítica em [12%], acumulando no máximo 5 vezes. Causar Dano Crítico remove todos os acúmulos.",
+    "Ao atingir um oponente, aumenta a Taxa Crítica em [14%], acumulando no máximo 5 vezes. Causar Dano Crítico remove todos os acúmulos.",
+    "Ao atingir um oponente, aumenta a Taxa Crítica em [16%], acumulando no máximo 5 vezes. Causar Dano Crítico remove todos os acúmulos."
+  ],
+  "r1": [
+    "8%"
+  ],
+  "r2": [
+    "10%"
+  ],
+  "r3": [
+    "12%"
+  ],
+  "r4": [
+    "14%"
+  ],
+  "r5": [
+    "16%"
+  ],
+  "weaponmaterialtype": "Mist Veiled Elixir",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 5000
+      },
+      {
+        "name": "Elixir de Chumbo Velado por Névoa",
+        "count": 3
+      },
+      {
+        "name": "Pólen de Névoa",
+        "count": 3
+      },
+      {
+        "name": "Insígnia de Recruta",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 15000
+      },
+      {
+        "name": "Elixir de Mercúrio com Véu de Névoa",
+        "count": 3
+      },
+      {
+        "name": "Pólen de Névoa",
+        "count": 12
+      },
+      {
+        "name": "Insígnia de Recruta",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Elixir de Mercúrio com Véu de Névoa",
+        "count": 6
+      },
+      {
+        "name": "Grama do Nevoeiro",
+        "count": 6
+      },
+      {
+        "name": "Insígnia de Sargento",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Elixir de Ouro com Véu de Névoa",
+        "count": 3
+      },
+      {
+        "name": "Grama do Nevoeiro",
+        "count": 12
+      },
+      {
+        "name": "Insígnia de Sargento",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 35000
+      },
+      {
+        "name": "Elixir de Ouro com Véu de Névoa",
+        "count": 6
+      },
+      {
+        "name": "Pavio do Nevoeiro",
+        "count": 9
+      },
+      {
+        "name": "Insígnia de Oficial",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Alternação das Nuvens e o Mar",
+        "count": 4
+      },
+      {
+        "name": "Pavio do Nevoeiro",
+        "count": 18
+      },
+      {
+        "name": "Insígnia de Oficial",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Weapon_Royal_Spear.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Theocrat.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Theocrat_Awaken.png",
+    "nameicon": "UI_EquipIcon_Pole_Theocrat",
+    "namegacha": "UI_Gacha_EquipIcon_Pole_Theocrat",
+    "nameawakenicon": "UI_EquipIcon_Pole_Theocrat_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Royal_Spear"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 43.734901428222656,
+      "specialized": 0.05999999865889549
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 59.17332359270131,
+      "specialized": 0.06971999489396818
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 78.72282048535817,
+      "specialized": 0.08178000028923149
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 98.5347338353804,
+      "specialized": 0.09390000133439891
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 118.56531627039294,
+      "specialized": 0.10601999522700911
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 144.46531588892321,
+      "specialized": 0.10601999522700911
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 164.62710394581518,
+      "specialized": 0.11813999627217653
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 184.96383978335507,
+      "specialized": 0.13025999731734395
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 205.43177081556132,
+      "specialized": 0.14237999120995415
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 225.98716531087848,
+      "specialized": 0.15449999940767878
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 251.9871672182271,
+      "specialized": 0.15449999940767878
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 272.6300460310813,
+      "specialized": 0.16661999330028898
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 293.3603883070464,
+      "specialized": 0.1787400014980136
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 319.2603898329253,
+      "specialized": 0.1787400014980136
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 340.0344638404458,
+      "specialized": 0.19085999539062382
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 360.8960221655034,
+      "specialized": 0.20297998928323402
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 386.79601606198776,
+      "specialized": 0.20297998928323402
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 407.70130611860077,
+      "specialized": 0.21509999748095865
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 428.6940596383247,
+      "specialized": 0.22715999572366474
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 454.6940596383247,
+      "specialized": 0.22715999572366474
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 475.6867923036225,
+      "specialized": 0.23927998961627495
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 496.723298409328,
+      "specialized": 0.2513999978139996
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 522.6233075646014,
+      "specialized": 0.2513999978139996
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 543.7035036930101,
+      "specialized": 0.2635200060117242
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 564.7837415302711,
+      "specialized": 0.27563998559922
+    }
+  },
+  "version": "1.1"
+}

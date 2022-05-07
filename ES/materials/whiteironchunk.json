@@ -1,0 +1,21 @@
+{
+  "name": "Pedazo de hierro blanco",
+  "description": "Unas manos habilidosas pueden convertir esto en algo increíble.",
+  "sortorder": 1955,
+  "category": "EXCHANGE",
+  "materialtype": "Mineral de forja",
+  "source": [
+    "Recolectar en la naturaleza",
+    "Recolectar en las Montañas Portatormentas",
+    "Recolectar en el Reino de los Lobos"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_White_Iron_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Item_White_Iron_Chunk.png",
+    "nameicon": "UI_ItemIcon_101002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/White_Iron_Chunk"
+  },
+  "version": ""
+}

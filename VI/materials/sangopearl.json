@@ -1,0 +1,20 @@
+{
+  "name": "Trân Châu San Hô",
+  "description": "Trân châu được sinh ra cùng với san hô ở đảo Watatsumi, tỏa ra những tia sáng mát lành tựa ánh trăng.",
+  "sortorder": 2066,
+  "category": "EXCHANGE",
+  "materialtype": "Đặc Sản Khu Vực Inazuma",
+  "source": [
+    "Thu Thập Bên Ngoài",
+    "Đề xuất: Thu thập ở Đảo Watatsumi"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sango_Pearl.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Sango_Pearl.png",
+    "nameicon": "UI_ItemIcon_101207"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sango_Pearl"
+  },
+  "version": ""
+}

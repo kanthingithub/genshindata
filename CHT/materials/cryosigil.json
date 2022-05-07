@@ -1,0 +1,19 @@
+{
+  "name": "冰之印",
+  "description": "蒙德周圍的特殊紀念貨幣，可在城市商店中兌換珍稀物品。",
+  "sortorder": 505,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "七國徽印",
+  "source": [
+    "探索獎勵"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_306",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cryo_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cryo_Sigil"
+  },
+  "version": ""
+}

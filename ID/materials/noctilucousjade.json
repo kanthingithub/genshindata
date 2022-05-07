@@ -1,0 +1,20 @@
+{
+  "name": "Noctilucous Jade",
+  "description": "Mineral langka yang bersinar dalam kegelapan. Kata orang-orang, batunya terbuat dari elemen-elemen yang melimpah di dunia.",
+  "sortorder": 2049,
+  "category": "EXCHANGE",
+  "materialtype": "Produk khas Liyue",
+  "source": [
+    "Ditemukan di gua di Liyue",
+    "Rekomendasi: Ditemukan di Mingyun Village"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Noctilucous_Jade.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Noctilucous_Jade.png",
+    "nameicon": "UI_ItemIcon_100028"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Noctilucous_Jade"
+  },
+  "version": ""
+}

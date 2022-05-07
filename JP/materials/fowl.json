@@ -1,0 +1,19 @@
+{
+  "name": "鳥肉",
+  "description": "鳥類の新鮮な肉。適切な料理をすると元気みなぎる食事になる。",
+  "sortorder": 1992,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "動物ドロップ"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fowl.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Item_Fowl.png",
+    "nameicon": "UI_ItemIcon_100064"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fowl"
+  },
+  "version": ""
+}

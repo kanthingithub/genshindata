@@ -1,0 +1,22 @@
+{
+  "name": "Madeira de Areia",
+  "description": "Madeira da Árvore com Areia. Dizem ser uma planta excepcionalmente resistente ao vento e à chuva, com uma longa vida útil.\nPode ser usada para fabricar Decorações.",
+  "sortorder": 1950,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Material",
+  "source": [
+    "Encontrado na natureza",
+    "Recomendação: Talhado em Minlin",
+    "Recomendação: Talhado em Lisha"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sandbearer_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/36/Item_Sandbearer_Wood.png",
+    "nameicon": "UI_ItemIcon_101304"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sandbearer_Wood"
+  },
+  "version": ""
+}

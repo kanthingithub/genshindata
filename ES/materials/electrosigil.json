@@ -1,0 +1,20 @@
+{
+  "name": "Insignia Electro",
+  "description": "Una insignia obtenida por ganarte el reconocimiento de las tormentas de Inazuma.\nOfrécesela al Cerezo Sagrado del Gran Santuario Narukami para aumentar tu nivel de gracia del Cerezo Sagrado.",
+  "sortorder": 503,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "Insignia Elemental",
+  "source": [
+    "Recompensa de expedición en Inazuma"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_304",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Electro_Sigil.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Item_Electro_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Electro_Sigil"
+  },
+  "version": ""
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Призрачное сердце",
+  "description": "Энергетическое ядро, которое позволяет призракам парить.\nЭти элементальные формы жизни весьма необычны. Иногда их резко становится больше, а потом они вдруг исчезают.",
+  "sortorder": 1772,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Алхимия",
+    "Призрак Ур. 40+",
+    "Покупается за Звёздную пыль"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Spectral_Heart.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Item_Spectral_Heart.png",
+    "nameicon": "UI_ItemIcon_112054"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Spectral_Heart"
+  },
+  "version": ""
+}

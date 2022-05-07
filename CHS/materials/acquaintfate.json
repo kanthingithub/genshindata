@@ -1,0 +1,18 @@
+{
+  "name": "相遇之缘",
+  "description": "点亮星空的希望之种。\n无论相隔多远，命定相遇的人都会受缘石辉光的指引，在星空下相会。",
+  "sortorder": 499,
+  "rarity": "5",
+  "category": "CONSUME",
+  "materialtype": "祈愿道具",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_224",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Acquaint_Fate.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Item_Acquaint_Fate.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Acquaint_Fate"
+  },
+  "version": ""
+}

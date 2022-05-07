@@ -1,0 +1,26 @@
+{
+  "name": "Philosophie de l'élégance",
+  "description": "Matériau d'amélioration d'aptitude.\nL'élégance est la forme sous laquelle se présente la Nation du Tonnerre.\nL'élégance abhorre la vulgarité, et l'élégant marche toujours seul. Résister aux vils maux, ne pas se laisser émouvoir par l'amour de la médiocrité, ne jamais se réfugier dans la basse ignorance, voilà comment on perçoit l'abîme entre l'élégant et le méprisant.",
+  "sortorder": 1874,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration d'aptitude",
+  "dropdomain": "Donjon de la maîtrise : Vallée foudroyée",
+  "daysofweek": [
+    "Mardi",
+    "Vendredi",
+    "Dimanche"
+  ],
+  "source": [
+    "Synthèse"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Elegance.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Item_Philosophies_of_Elegance.png",
+    "nameicon": "UI_ItemIcon_104325"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Elegance"
+  },
+  "version": ""
+}

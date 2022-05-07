@@ -1,0 +1,871 @@
+{
+  "name": "Gorou",
+  "fullname": "Gorou",
+  "title": "Guerrier canin",
+  "description": "Le grand général des forces de l'Île de Watatsumi, en qui ses subordonnés ont profondément confiance.",
+  "rarity": "4",
+  "element": "Géo",
+  "weapontype": "Arc",
+  "substat": "Bonus de DGT Géo",
+  "gender": "Homme",
+  "body": "BOY",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "Île de Watatsumi",
+  "birthdaymmdd": "5/18",
+  "birthday": "18 mai",
+  "constellation": "Canis Bellatoris",
+  "cv": {
+    "english": "Cory Yee",
+    "chinese": "杨昕燃",
+    "japanese": "畠中祐",
+    "korean": "Lee Sae-byeok"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Éclat de topaze prithiva",
+        "count": 1
+      },
+      {
+        "name": "Perle de corail",
+        "count": 3
+      },
+      {
+        "name": "Coquille spectrale",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragment de topaze prithiva",
+        "count": 3
+      },
+      {
+        "name": "Cœur perpétuel",
+        "count": 2
+      },
+      {
+        "name": "Perle de corail",
+        "count": 10
+      },
+      {
+        "name": "Coquille spectrale",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragment de topaze prithiva",
+        "count": 6
+      },
+      {
+        "name": "Cœur perpétuel",
+        "count": 4
+      },
+      {
+        "name": "Perle de corail",
+        "count": 20
+      },
+      {
+        "name": "Cœur spectral",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Morceau de topaze prithiva",
+        "count": 3
+      },
+      {
+        "name": "Cœur perpétuel",
+        "count": 8
+      },
+      {
+        "name": "Perle de corail",
+        "count": 30
+      },
+      {
+        "name": "Cœur spectral",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Morceau de topaze prithiva",
+        "count": 6
+      },
+      {
+        "name": "Cœur perpétuel",
+        "count": 12
+      },
+      {
+        "name": "Perle de corail",
+        "count": 45
+      },
+      {
+        "name": "Noyau spectral",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Pierre de topaze prithiva",
+        "count": 6
+      },
+      {
+        "name": "Cœur perpétuel",
+        "count": 20
+      },
+      {
+        "name": "Perle de corail",
+        "count": 60
+      },
+      {
+        "name": "Noyau spectral",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_AvatarIcon_Gorou",
+    "nameiconcard": "UI_AvatarIcon_Gorou_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Gorou",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Gorou",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Gorou.png",
+    "namesideicon": "UI_AvatarIcon_Side_Gorou",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Gorou.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211203/2021120311003437183.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211203/2021120311003943402.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Gorou"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 802.3760986328125,
+      "attack": 15.31488037109375,
+      "defense": 54.36375045776367,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2061.304201978928,
+      "attack": 39.34392776097229,
+      "defense": 139.66047523706675,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2660.720217603928,
+      "attack": 50.78519572819641,
+      "defense": 180.2729744741273,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 3985.4429835102637,
+      "attack": 76.07005992004997,
+      "defense": 270.0275147628545,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4411.343862416514,
+      "attack": 84.19938101837761,
+      "defense": 298.88376552579393,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5074.106691293244,
+      "attack": 96.84947547651245,
+      "defense": 343.78823501725674,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5641.974489144806,
+      "attack": 107.68857154584839,
+      "defense": 382.26323349137783,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6304.737318021536,
+      "attack": 120.33866600398323,
+      "defense": 427.16770298284064,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6730.638196927786,
+      "attack": 128.46798996333382,
+      "defense": 456.02395756047736,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7392.598325258761,
+      "attack": 141.10276334840455,
+      "defense": 500.8740413190699,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7818.499082094699,
+      "attack": 149.2320854004065,
+      "defense": 529.7302882673121,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8481.26152836869,
+      "attack": 161.88217255583731,
+      "defense": 574.6347318361186,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 8907.16240727494,
+      "attack": 170.01149460783927,
+      "defense": 603.4909787843608,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9569.92523615167,
+      "attack": 182.6615890659741,
+      "defense": 648.3954482758236,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "2.3",
+  "constellations": {
+    "c1": {
+      "name": "Vivacité canine : Célérité du vent",
+      "effect": "Lorsqu'un personnage déployé (autre que Gorou) dans la zone d'effet de la **bannière de général** ou du champ de **prestige de général** créés par Gorou inflige des DGT Géo à un ennemi, le TdR de **Défense intégrale d'Inuzaka** de Gorou diminue de 2 s.\nCet effet peut être déclenché une fois toutes les 10 s."
+    },
+    "c2": {
+      "name": "Repos canin : Aplomb du temps",
+      "effect": "Lorsqu'un personnage déployé à proximité obtient un fragment élémentaire généré par une réaction de Cristallisation alors qu'un **prestige de général** est actif, la durée du prestige de général de Gorou augmente de 1 s.\nCet effet peut être déclenché une fois toutes les 0,1 s, et sa durée peut être prolongée de 3 s max de cette manière."
+    },
+    "c3": {
+      "name": "Griffe canine : Frénésie du feu",
+      "effect": "Niveau d'aptitude **Défense intégrale d'Inuzaka** +3.\nNiveau max : 15"
+    },
+    "c4": {
+      "name": "Léchouille canine : Bonté de l'eau",
+      "effect": "Lorsque le **prestige de général** est en état d'imprenabilité ou de fracas, il restaure également les PV du personnage déployé dans la zone d'effet toutes les 1,5 s d'une valeur équivalant à 50 % de la DÉF de Gorou."
+    },
+    "c5": {
+      "name": "Frappe canine : Élan du tonnerre",
+      "effect": "Niveau d'aptitude **Crocs bestiaux : Vers la victoire** +3.\nNiveau max : 15"
+    },
+    "c6": {
+      "name": "Vaillance canine : Fidélité de la terre",
+      "effect": "Pendant 12 s après **Défense intégrale d'Inuzaka** ou **Crocs bestiaux : Vers la victoire**, les DGT CRIT des DGT Géo de tous les personnages de l'équipe à proximité augmentent en fonction du niveau du champ au moment de l'utilisation de la compétence :\n· Pied ferme : +10 %.\n· Imprenabilité : +20 %.\n· Fracas : +40 %.\n\nCet effet ne se cumule pas, et la dernière augmentation déclenchée sera la référence pour l'effet."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Gorou_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Gorou_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Gorou_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Gorou_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Gorou_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Gorou_04.png",
+      "constellation": "Eff_UI_Talent_Gorou"
+    },
+    "version": "2.3"
+  },
+  "talent": {
+    "name": "Gorou",
+    "combat1": {
+      "name": "Attaque normale : Empenne aux crocs acérés",
+      "info": "**Attaque normale**\nEnchaîne jusqu'à 4 tirs consécutifs.\n\n**Attaque chargée**\nEffectue un **tir visé** plus précis infligeant davantage de DGT.\nLors de la visée, la flèche se charge de cristaux de pierre, infligeant des DGT Géo quand elle est complètement chargée.\n\n**Attaque plongeante**\nTire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact.",
+      "attributes": [
+        {
+          "name": "DGT 1er coup",
+          "parameters": [
+            "37.75%",
+            "40.83%",
+            "43.90%",
+            "48.29%",
+            "51.36%",
+            "54.87%",
+            "59.70%",
+            "64.53%",
+            "69.36%",
+            "74.63%",
+            "79.90%",
+            "85.17%",
+            "90.43%",
+            "95.70%",
+            "100.97%"
+          ]
+        },
+        {
+          "name": "DGT 2e coup",
+          "parameters": [
+            "37.15%",
+            "40.18%",
+            "43.20%",
+            "47.52%",
+            "50.54%",
+            "54.00%",
+            "58.75%",
+            "63.50%",
+            "68.26%",
+            "73.44%",
+            "78.62%",
+            "83.81%",
+            "88.99%",
+            "94.18%",
+            "99.36%"
+          ]
+        },
+        {
+          "name": "DGT 3e coup",
+          "parameters": [
+            "49.45%",
+            "53.47%",
+            "57.50%",
+            "63.25%",
+            "67.27%",
+            "71.88%",
+            "78.20%",
+            "84.53%",
+            "90.85%",
+            "97.75%",
+            "104.65%",
+            "111.55%",
+            "118.45%",
+            "125.35%",
+            "132.25%"
+          ]
+        },
+        {
+          "name": "DGT 4e coup",
+          "parameters": [
+            "59.00%",
+            "63.80%",
+            "68.60%",
+            "75.46%",
+            "80.26%",
+            "85.75%",
+            "93.30%",
+            "100.84%",
+            "108.39%",
+            "116.62%",
+            "124.85%",
+            "133.08%",
+            "141.32%",
+            "149.55%",
+            "157.78%"
+          ]
+        },
+        {
+          "name": "DGT tir visé",
+          "parameters": [
+            "43.86%",
+            "47.43%",
+            "51.00%",
+            "56.10%",
+            "59.67%",
+            "63.75%",
+            "69.36%",
+            "74.97%",
+            "80.58%",
+            "86.70%",
+            "92.82%",
+            "98.94%",
+            "105.06%",
+            "111.18%",
+            "117.30%"
+          ]
+        },
+        {
+          "name": "DGT tir visé (pleine charge)",
+          "parameters": [
+            "124.00%",
+            "133.30%",
+            "142.60%",
+            "155.00%",
+            "164.30%",
+            "173.60%",
+            "186.00%",
+            "198.40%",
+            "210.80%",
+            "223.20%",
+            "235.60%",
+            "248.00%",
+            "263.50%",
+            "279.00%",
+            "294.50%"
+          ]
+        },
+        {
+          "name": "DGT durant la chute",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "DGT chute basse/élevée",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Défense intégrale d'Inuzaka",
+      "info": "Inflige des DGT Géo de zone et érige une bannière de général.\n\n**Bannière de général**\nAccorde les effets suivants aux personnages déployés dans la zone d'effet en fonction de la quantité de personnages de type Géo dans l'équipe au moment de l'utilisation :\n· Avoir 1 personnage Géo accorde un effet de pied ferme : bonus de DÉF.\n· Avoir 2 personnages Géo accorde un effet d'imprenabilité : effet précédent + bonus de RÉS à l'interruption.\n· Avoir 3 personnages Géo accorde un effet de fracas : effets précédents + bonus de DGT Géo.\n\nGorou ne peut générer qu'une bannière de général à la fois, et les personnages ne peuvent bénéficier des effets que d'une seule bannière de général à la fois. Lorsque le personnage quitte la zone, les effets continuent pendant 2 s.\n\n**Appui long**\nAjuste la zone où la compétence sera lancée.",
+      "description": "« Adoptez cette formation et nous serons en sécurité, je vous le garantis ! » En tant que général et chef des troupes, la dernière chose que Gorou veut, c'est de voir ses soldats blessés.",
+      "attributes": [
+        {
+          "name": "DGT compétence",
+          "parameters": [
+            "107.20%",
+            "115.24%",
+            "123.28%",
+            "134.00%",
+            "142.04%",
+            "150.08%",
+            "160.80%",
+            "171.52%",
+            "182.24%",
+            "192.96%",
+            "203.68%",
+            "214.40%",
+            "227.80%",
+            "241.20%",
+            "254.60%"
+          ]
+        },
+        {
+          "name": "Bonus de DÉF",
+          "parameters": [
+            "206",
+            "222",
+            "237",
+            "258",
+            "273",
+            "289",
+            "309",
+            "330",
+            "350",
+            "371",
+            "392",
+            "412",
+            "438",
+            "464",
+            "490"
+          ]
+        },
+        {
+          "name": "Bonus de DGT Géo",
+          "parameters": [
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%"
+          ]
+        },
+        {
+          "name": "Durée",
+          "parameters": [
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Crocs bestiaux : Vers la victoire",
+      "info": "Affichant sa bravoure de général, Gorou inflige des DGT Géo de zone et crée un champ de prestige de général pour enhardir ses compagnons.\n\n**Prestige de général**\nLes caractéristiques suivantes s'appliquent :\n· Ce champ possède des effets identiques à ceux de la bannière de général créée par la compétence élémentaire « Défense intégrale d'Inuzaka », accordant des bonus aux personnages déployés dans la zone d'effet en fonction du nombre de personnages de type Géo dans l'équipe. Le champ se déplace en suivant le personnage déployé.\n· Déclenche un effondrement cristallin toutes les 1,5 s qui inflige des DGT Géo de zone à 1 ennemi dans la zone d'effet.\n· Attire 1 fragment élémentaire créé par une réaction de Cristallisation dans la zone d'effet vers l'emplacement du personnage déployé toutes les 1,5 s.\n\nSi une bannière de général créée par Gorou est présente lors de l'utilisation, elle sera détruite. De plus, si Gorou utilise sa compétence élémentaire « Défense intégrale d'Inuzaka » alors qu'un prestige de général est actif, il ne crée pas de bannière de général.\nSi Gorou est vaincu, les effets du prestige de général sont annulés.",
+      "description": "« Le terrain est à notre avantage ! » Gorou peut s'approprier la topographie du champ de bataille pour faire pencher la balance en sa faveur. Cette technique lui a permis de traverser de nombreux combats contre une opposition en apparence supérieure.",
+      "attributes": [
+        {
+          "name": "DGT compétence",
+          "parameters": [
+            "98.22% DÉF",
+            "105.58% DÉF",
+            "112.95% DÉF",
+            "122.77% DÉF",
+            "130.14% DÉF",
+            "137.50% DÉF",
+            "147.32% DÉF",
+            "157.15% DÉF",
+            "166.97% DÉF",
+            "176.79% DÉF",
+            "186.61% DÉF",
+            "196.43% DÉF",
+            "208.71% DÉF",
+            "220.99% DÉF",
+            "233.26% DÉF"
+          ]
+        },
+        {
+          "name": "DGT effondrement cristallin",
+          "parameters": [
+            "61.30% DÉF",
+            "65.90% DÉF",
+            "70.49% DÉF",
+            "76.63% DÉF",
+            "81.22% DÉF",
+            "85.82% DÉF",
+            "91.95% DÉF",
+            "98.08% DÉF",
+            "104.21% DÉF",
+            "110.34% DÉF",
+            "116.47% DÉF",
+            "122.60% DÉF",
+            "130.26% DÉF",
+            "137.93% DÉF",
+            "145.59% DÉF"
+          ]
+        },
+        {
+          "name": "Durée",
+          "parameters": [
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s"
+          ]
+        },
+        {
+          "name": "Énergie élémentaire",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Nonchalance du vent et de la pluie",
+      "info": "Pendant 12 s après **Crocs bestiaux : Vers la victoire**, la DÉF de tous les personnages de l'équipe à proximité augmente de 25 %."
+    },
+    "passive2": {
+      "name": "Faveur rendue",
+      "info": "Les DGT des attaques suivantes de Gorou augmentent en fonction de sa DÉF :\n· Les DGT de compétence de **Défense intégrale d'Inuzaka** augmentent à hauteur de 156 % de sa DÉF.\n· Les DGT de compétence et les DGT de l'effondrement cristallin de **Crocs bestiaux : Vers la victoire** augmentent à hauteur de 15,6 % de sa DÉF."
+    },
+    "passive3": {
+      "name": "Chien renifleur",
+      "info": "Affiche l'emplacement des **produits d'Inazuma** sur la mini-carte."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseignement de la lumière",
+          "count": 3
+        },
+        {
+          "name": "Coquille spectrale",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide de la Lumière",
+          "count": 2
+        },
+        {
+          "name": "Cœur spectral",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide de la Lumière",
+          "count": 4
+        },
+        {
+          "name": "Cœur spectral",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide de la Lumière",
+          "count": 6
+        },
+        {
+          "name": "Cœur spectral",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide de la Lumière",
+          "count": 9
+        },
+        {
+          "name": "Cœur spectral",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie de la lumière",
+          "count": 4
+        },
+        {
+          "name": "Noyau spectral",
+          "count": 4
+        },
+        {
+          "name": "Moment en fusion",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie de la lumière",
+          "count": 6
+        },
+        {
+          "name": "Noyau spectral",
+          "count": 6
+        },
+        {
+          "name": "Moment en fusion",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie de la lumière",
+          "count": 12
+        },
+        {
+          "name": "Noyau spectral",
+          "count": 9
+        },
+        {
+          "name": "Moment en fusion",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie de la lumière",
+          "count": 16
+        },
+        {
+          "name": "Noyau spectral",
+          "count": 12
+        },
+        {
+          "name": "Moment en fusion",
+          "count": 2
+        },
+        {
+          "name": "Couronne de la sagesse",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_02",
+      "combat2": "Skill_S_Gorou_01",
+      "combat3": "Skill_E_Gorou_01_HD",
+      "passive1": "UI_Talent_S_Gorou_05",
+      "passive2": "UI_Talent_S_Gorou_06",
+      "passive3": "UI_Talent_S_Gorou_07"
+    },
+    "version": "2.3"
+  }
+}

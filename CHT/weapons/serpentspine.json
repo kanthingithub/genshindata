@@ -1,0 +1,312 @@
+{
+  "name": "螭骨劍",
+  "description": "來自古代大海的稀有兵器，舞劍獵獵宛如太古的濤聲。",
+  "weapontype": "雙手劍",
+  "rarity": "4",
+  "baseatk": 42,
+  "substat": "暴擊率",
+  "subvalue": "6",
+  "effectname": "破浪",
+  "effect": [
+    "角色在場上時，每4秒提升[6%]造成的傷害，同時增加[3%]所受到的傷害。該效果最多疊加五層，不隨角色退場重置，受到傷害後會失去一層效果。",
+    "角色在場上時，每4秒提升[7%]造成的傷害，同時增加[2.7%]所受到的傷害。該效果最多疊加五層，不隨角色退場重置，受到傷害後會失去一層效果。",
+    "角色在場上時，每4秒提升[8%]造成的傷害，同時增加[2.4%]所受到的傷害。該效果最多疊加五層，不隨角色退場重置，受到傷害後會失去一層效果。",
+    "角色在場上時，每4秒提升[9%]造成的傷害，同時增加[2.2%]所受到的傷害。該效果最多疊加五層，不隨角色退場重置，受到傷害後會失去一層效果。",
+    "角色在場上時，每4秒提升[10%]造成的傷害，同時增加[2%]所受到的傷害。該效果最多疊加五層，不隨角色退場重置，受到傷害後會失去一層效果。"
+  ],
+  "r1": [
+    "6%",
+    "3%"
+  ],
+  "r2": [
+    "7%",
+    "2.7%"
+  ],
+  "r3": [
+    "8%",
+    "2.4%"
+  ],
+  "r4": [
+    "9%",
+    "2.2%"
+  ],
+  "r5": [
+    "10%",
+    "2%"
+  ],
+  "weaponmaterialtype": "Aerosiderite",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "摩拉",
+        "count": 5000
+      },
+      {
+        "name": "漆黑隕鐵的一粒",
+        "count": 3
+      },
+      {
+        "name": "脆弱的骨片",
+        "count": 3
+      },
+      {
+        "name": "騙騙花蜜",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "摩拉",
+        "count": 15000
+      },
+      {
+        "name": "漆黑隕鐵的一片",
+        "count": 3
+      },
+      {
+        "name": "脆弱的骨片",
+        "count": 12
+      },
+      {
+        "name": "騙騙花蜜",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "摩拉",
+        "count": 20000
+      },
+      {
+        "name": "漆黑隕鐵的一片",
+        "count": 6
+      },
+      {
+        "name": "結實的骨片",
+        "count": 6
+      },
+      {
+        "name": "微光花蜜",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "摩拉",
+        "count": 30000
+      },
+      {
+        "name": "漆黑隕鐵的一角",
+        "count": 3
+      },
+      {
+        "name": "結實的骨片",
+        "count": 12
+      },
+      {
+        "name": "微光花蜜",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "摩拉",
+        "count": 35000
+      },
+      {
+        "name": "漆黑隕鐵的一角",
+        "count": 6
+      },
+      {
+        "name": "石化的骨片",
+        "count": 9
+      },
+      {
+        "name": "原素花蜜",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "摩拉",
+        "count": 45000
+      },
+      {
+        "name": "漆黑隕鐵的一塊",
+        "count": 4
+      },
+      {
+        "name": "石化的骨片",
+        "count": 18
+      },
+      {
+        "name": "原素花蜜",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Weapon_Serpent_Spine.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Kione.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Kione_Awaken.png",
+    "nameicon": "UI_EquipIcon_Claymore_Kione",
+    "namegacha": "UI_Gacha_EquipIcon_Claymore_Kione",
+    "nameawakenicon": "UI_EquipIcon_Claymore_Kione_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Serpent_Spine"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 42.4010009765625,
+      "specialized": 0.05999999865889549
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 56.39333311848168,
+      "specialized": 0.06971999489396818
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 73.9049459961243,
+      "specialized": 0.08178000028923149
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 91.41655381917371,
+      "specialized": 0.09390000133439891
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 108.92817175140954,
+      "specialized": 0.10601999522700911
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 134.8281713699398,
+      "specialized": 0.10601999522700911
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 152.33978930217563,
+      "specialized": 0.11813999627217653
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 169.80899919744115,
+      "specialized": 0.13025999731734395
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 187.32060702049057,
+      "specialized": 0.14237999120995415
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 204.83221484354,
+      "specialized": 0.15449999940767878
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 230.83221675088862,
+      "specialized": 0.15449999940767878
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 248.34383468312444,
+      "specialized": 0.16661999330028898
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 265.85545261536026,
+      "specialized": 0.1787400014980136
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 291.75545414123917,
+      "specialized": 0.1787400014980136
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 309.267072073475,
+      "specialized": 0.19085999539062382
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 326.7786900057108,
+      "specialized": 0.20297998928323402
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 352.6786839021952,
+      "specialized": 0.20297998928323402
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 370.1478836882743,
+      "specialized": 0.21509999748095865
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 387.6595016205101,
+      "specialized": 0.22715999572366474
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 413.6595016205101,
+      "specialized": 0.22715999572366474
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 431.17111955274595,
+      "specialized": 0.23927998961627495
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 448.68271726660896,
+      "specialized": 0.2513999978139996
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 474.5827264218824,
+      "specialized": 0.2513999978139996
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 492.0943443541182,
+      "specialized": 0.2635200060117242
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 509.60596228635404,
+      "specialized": 0.27563998559922
+    }
+  },
+  "version": "1.0"
+}

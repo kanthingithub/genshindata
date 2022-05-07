@@ -1,0 +1,316 @@
+{
+  "name": "Ode au chant du vent",
+  "description": "Un espadon aussi léger que la brise soufflant sur l'herbe, mais aussi puissant qu'un ouragan.",
+  "weapontype": "Épée à deux mains",
+  "rarity": "5",
+  "baseatk": 49,
+  "substat": "Bonus de DGT physiques",
+  "subvalue": "4.5",
+  "effectname": "Hymne du drapeau rebelle",
+  "effect": [
+    "Partie du « Concert du millénaire ». Augmente l'ATQ de [16 %], et lorsque les attaques normales ou chargées touchent un ennemi, le personnage obtient un charme des murmures, à raison d'un charme toutes les 0,3 s max. Une fois 4 charmes obtenus, ils sont consommés et tous les personnages de l'équipe à proximité bénéficient de l'effet « Concert du millénaire - Hymne du drapeau » pendant 12 s, ce qui augmente la VIT d'attaque normale de [12 %], et l'ATQ de [20 %]. Il n'est plus possible d'obtenir de charmes des murmures pendant 20 s après avoir déclenché cet effet. Parmi les nombreux effets du « Concert du millénaire », les améliorations du même type ne se cumulent pas.",
+    "Partie du « Concert du millénaire ». Augmente l'ATQ de [20 %], et lorsque les attaques normales ou chargées touchent un ennemi, le personnage obtient un charme des murmures, à raison d'un charme toutes les 0,3 s max. Une fois 4 charmes obtenus, ils sont consommés et tous les personnages de l'équipe à proximité bénéficient de l'effet « Concert du millénaire - Hymne du drapeau » pendant 12 s, ce qui augmente la VIT d'attaque normale de [15 %], et l'ATQ de [25 %]. Il n'est plus possible d'obtenir de charmes des murmures pendant 20 s après avoir déclenché cet effet. Parmi les nombreux effets du « Concert du millénaire », les améliorations du même type ne se cumulent pas.",
+    "Partie du « Concert du millénaire ». Augmente l'ATQ de [24 %], et lorsque les attaques normales ou chargées touchent un ennemi, le personnage obtient un charme des murmures, à raison d'un charme toutes les 0,3 s max. Une fois 4 charmes obtenus, ils sont consommés et tous les personnages de l'équipe à proximité bénéficient de l'effet « Concert du millénaire - Hymne du drapeau » pendant 12 s, ce qui augmente la VIT d'attaque normale de [18 %], et l'ATQ de [30 %]. Il n'est plus possible d'obtenir de charmes des murmures pendant 20 s après avoir déclenché cet effet. Parmi les nombreux effets du « Concert du millénaire », les améliorations du même type ne se cumulent pas.",
+    "Partie du « Concert du millénaire ». Augmente l'ATQ de [28 %], et lorsque les attaques normales ou chargées touchent un ennemi, le personnage obtient un charme des murmures, à raison d'un charme toutes les 0,3 s max. Une fois 4 charmes obtenus, ils sont consommés et tous les personnages de l'équipe à proximité bénéficient de l'effet « Concert du millénaire - Hymne du drapeau » pendant 12 s, ce qui augmente la VIT d'attaque normale de [21 %], et l'ATQ de [35 %]. Il n'est plus possible d'obtenir de charmes des murmures pendant 20 s après avoir déclenché cet effet. Parmi les nombreux effets du « Concert du millénaire », les améliorations du même type ne se cumulent pas.",
+    "Partie du « Concert du millénaire ». Augmente l'ATQ de [32 %], et lorsque les attaques normales ou chargées touchent un ennemi, le personnage obtient un charme des murmures, à raison d'un charme toutes les 0,3 s max. Une fois 4 charmes obtenus, ils sont consommés et tous les personnages de l'équipe à proximité bénéficient de l'effet « Concert du millénaire - Hymne du drapeau » pendant 12 s, ce qui augmente la VIT d'attaque normale de [24 %], et l'ATQ de [40 %]. Il n'est plus possible d'obtenir de charmes des murmures pendant 20 s après avoir déclenché cet effet. Parmi les nombreux effets du « Concert du millénaire », les améliorations du même type ne se cumulent pas."
+  ],
+  "r1": [
+    "16 %",
+    "12 %",
+    "20 %"
+  ],
+  "r2": [
+    "20 %",
+    "15 %",
+    "25 %"
+  ],
+  "r3": [
+    "24 %",
+    "18 %",
+    "30 %"
+  ],
+  "r4": [
+    "28 %",
+    "21 %",
+    "35 %"
+  ],
+  "r5": [
+    "32 %",
+    "24 %",
+    "40 %"
+  ],
+  "weaponmaterialtype": "",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 10000
+      },
+      {
+        "name": "Tuile cassée de Décabarian",
+        "count": 5
+      },
+      {
+        "name": "Corne lourde",
+        "count": 5
+      },
+      {
+        "name": "Masque endommagé",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Mur abattu de Décabarian",
+        "count": 5
+      },
+      {
+        "name": "Corne lourde",
+        "count": 18
+      },
+      {
+        "name": "Masque endommagé",
+        "count": 12
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Mur abattu de Décabarian",
+        "count": 9
+      },
+      {
+        "name": "Corne en bronze noir",
+        "count": 9
+      },
+      {
+        "name": "Masque sale",
+        "count": 9
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Fragment dispersé de Décabarian",
+        "count": 5
+      },
+      {
+        "name": "Corne en bronze noir",
+        "count": 18
+      },
+      {
+        "name": "Masque sale",
+        "count": 14
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 55000
+      },
+      {
+        "name": "Fragment dispersé de Décabarian",
+        "count": 9
+      },
+      {
+        "name": "Corne à cristal noir",
+        "count": 14
+      },
+      {
+        "name": "Masque sinistre",
+        "count": 9
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 65000
+      },
+      {
+        "name": "Rêve brisé de Décabarian",
+        "count": 6
+      },
+      {
+        "name": "Corne à cristal noir",
+        "count": 27
+      },
+      {
+        "name": "Masque sinistre",
+        "count": 18
+      }
+    ]
+  },
+  "images": {
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Widsith.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Widsith_Awaken.png",
+    "nameicon": "UI_EquipIcon_Claymore_Widsith",
+    "namegacha": "UI_Gacha_EquipIcon_Claymore_Widsith",
+    "nameawakenicon": "UI_EquipIcon_Claymore_Widsith_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Song_of_Broken_Pines"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 49.137699127197266,
+      "specialized": 0.04500000178813934
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 68.35054107921769,
+      "specialized": 0.05228999941706647
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 93.11593890881159,
+      "specialized": 0.061335004025101725
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 118.66754151772693,
+      "specialized": 0.07042500537335883
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 144.9070689152959,
+      "specialized": 0.07951500135719769
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 176.00706929676562,
+      "specialized": 0.07951500135719769
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 202.73798493233335,
+      "specialized": 0.0886050027054548
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 230.05853365054645,
+      "specialized": 0.0976950040537119
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 257.7722023314309,
+      "specialized": 0.10678500003755076
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 285.92810168196957,
+      "specialized": 0.1158750067502261
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 317.0281020634393,
+      "specialized": 0.1158750067502261
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 345.5771213766493,
+      "specialized": 0.12496500273406497
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 374.4209455158416,
+      "specialized": 0.13405500944674031
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 405.62094627878105,
+      "specialized": 0.13405500944674031
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 434.85786694996386,
+      "specialized": 0.14314500543057918
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 464.3896393084906,
+      "specialized": 0.15223500141441804
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 495.4896377826117,
+      "specialized": 0.15223500141441804
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 525.3161915364399,
+      "specialized": 0.16132500812709338
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 555.3884862706291,
+      "specialized": 0.1703700073707104
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 586.4884923741447,
+      "specialized": 0.1703700073707104
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 616.8555919343162,
+      "specialized": 0.17946000335454926
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 647.51749632047,
+      "specialized": 0.1885500100672246
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 678.6174871651965,
+      "specialized": 0.1885500100672246
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 709.4759749633668,
+      "specialized": 0.19764001677989995
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 740.5801568805364,
+      "specialized": 0.20673000203490233
+    }
+  },
+  "version": "1.5"
+}

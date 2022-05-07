@@ -1,0 +1,20 @@
+{
+  "name": "Угорь",
+  "description": "Свежее мясо угря. При правильном обращении из него можно приготовить прекрасные свежие блюда.",
+  "sortorder": 2010,
+  "category": "EXCHANGE",
+  "materialtype": "Кухонный ингредиент",
+  "source": [
+    "Дикая природа",
+    "Ватацуми"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Unagi_Meat.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0c/Item_Unagi_Meat.png",
+    "nameicon": "UI_ItemIcon_100095"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Unagi_Meat"
+  },
+  "version": ""
+}

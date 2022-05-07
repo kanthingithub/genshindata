@@ -1,0 +1,21 @@
+{
+  "name": "オニカブトムシ",
+  "description": "雷元素が豊富なエリアに生息している不思議な甲虫。身を覆う殻には悪鬼の模様があるが、本体はいたって温厚で動きが鈍い。",
+  "sortorder": 2060,
+  "category": "EXCHANGE",
+  "materialtype": "稲妻地域の特産",
+  "source": [
+    "野外で採集",
+    "推奨：鳴神島で採集",
+    "推奨：たたら砂で採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Onikabuto.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Onikabuto.png",
+    "nameicon": "UI_ItemIcon_101201"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Onikabuto"
+  },
+  "version": ""
+}

@@ -1,0 +1,1154 @@
+{
+  "name": "Tartaglia",
+  "fullname": "Tartaglia",
+  "title": "„Der Graf“",
+  "description": "Der Letzte unter den Elf der Fatui, der Graf genannt, mit großen Erfolgen auf dem Schlachtfeld.",
+  "rarity": "5",
+  "element": "Hydro",
+  "weapontype": "Bogen",
+  "substat": "Hydro-SCH-Bonus",
+  "gender": "Männlich",
+  "body": "MALE",
+  "association": "FATUI",
+  "region": "Snezhnaya",
+  "affiliation": "Fatui",
+  "birthdaymmdd": "7/20",
+  "birthday": "20. Juli",
+  "constellation": "Monoceros Caeli",
+  "cv": {
+    "english": "Griffin Burns",
+    "chinese": "鱼冻",
+    "japanese": "木村良平",
+    "korean": "Nam Do-hyeong"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Varunada-Lasurit-Splitter",
+        "count": 1
+      },
+      {
+        "name": "Sternmuschel",
+        "count": 3
+      },
+      {
+        "name": "Abzeichen für neue Rekruten",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Varunada-Lasurit-Bruchstück",
+        "count": 3
+      },
+      {
+        "name": "Reinigendes Herz",
+        "count": 2
+      },
+      {
+        "name": "Sternmuschel",
+        "count": 10
+      },
+      {
+        "name": "Abzeichen für neue Rekruten",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Varunada-Lasurit-Bruchstück",
+        "count": 6
+      },
+      {
+        "name": "Reinigendes Herz",
+        "count": 4
+      },
+      {
+        "name": "Sternmuschel",
+        "count": 20
+      },
+      {
+        "name": "Abzeichen für Unteroffiziere",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Varunada-Lasurit-Brocken",
+        "count": 3
+      },
+      {
+        "name": "Reinigendes Herz",
+        "count": 8
+      },
+      {
+        "name": "Sternmuschel",
+        "count": 30
+      },
+      {
+        "name": "Abzeichen für Unteroffiziere",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Varunada-Lasurit-Brocken",
+        "count": 6
+      },
+      {
+        "name": "Reinigendes Herz",
+        "count": 12
+      },
+      {
+        "name": "Sternmuschel",
+        "count": 45
+      },
+      {
+        "name": "Abzeichen für Offiziere",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Varunada-Lasurit",
+        "count": 6
+      },
+      {
+        "name": "Reinigendes Herz",
+        "count": 20
+      },
+      {
+        "name": "Sternmuschel",
+        "count": 60
+      },
+      {
+        "name": "Abzeichen für Offiziere",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Tartaglia_Card.png",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Character_Tartaglia_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tartaglia.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Tartaglia.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201103/2020110321160453386.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201103/2020110321234137061.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/34ebaeb164a8b447dbe52afaae3e1f63.png",
+    "nameicon": "UI_AvatarIcon_Tartaglia",
+    "nameiconcard": "UI_AvatarIcon_Tartaglia_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Tartaglia",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Tartaglia",
+    "namesideicon": "UI_AvatarIcon_Side_Tartaglia"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Tartaglia"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1020.0524291992188,
+      "attack": 23.461200714111328,
+      "defense": 63.4197998046875,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2646.0161044593406,
+      "attack": 60.85835702408531,
+      "defense": 164.5109671044338,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3520.6188266273093,
+      "attack": 80.97274453629234,
+      "defense": 218.88896545648458,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5267.968698159035,
+      "attack": 121.1617827467744,
+      "defense": 327.527086271788,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5889.396859780129,
+      "attack": 135.45358419941113,
+      "defense": 366.16408730938565,
+      "specialized": 0.07199999690055847
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6775.822377951146,
+      "attack": 155.8413666355027,
+      "defense": 421.2758906784584,
+      "specialized": 0.07199999690055847
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7604.393300802709,
+      "attack": 174.89710317725076,
+      "defense": 472.79189714818494,
+      "specialized": 0.14399999380111694
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8499.999111841724,
+      "attack": 195.49603230288994,
+      "defense": 528.4744675868424,
+      "specialized": 0.14399999380111694
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9121.427334497974,
+      "attack": 209.78783757022393,
+      "defense": 567.1114609950455,
+      "specialized": 0.14399999380111694
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 10025.193946307321,
+      "attack": 230.57446507231907,
+      "defense": 623.3014135410194,
+      "specialized": 0.14399999380111694
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10646.622413104196,
+      "attack": 244.8662665249558,
+      "defense": 661.9384069492226,
+      "specialized": 0.2160000056028366
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11560.589296278107,
+      "attack": 265.88750021686246,
+      "defense": 718.7625417679665,
+      "specialized": 0.2160000056028366
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12182.017518934357,
+      "attack": 280.1793016694992,
+      "defense": 757.3995351761696,
+      "specialized": 0.2879999876022339
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 13103.125224382035,
+      "attack": 301.3647742375979,
+      "defense": 814.6676368990447,
+      "specialized": 0.2879999876022339
+    }
+  },
+  "version": "1.1",
+  "constellations": {
+    "c1": {
+      "name": "Dämonengewand – Wellenbrecher",
+      "effect": "Verkürzt die Abklingzeit für die Anwendung von **Dämonengewand – Stürmische Gezeiten** um 20 %."
+    },
+    "c2": {
+      "name": "Dämonengewand – Unterströmung",
+      "effect": "Stellt Tartaglia, wenn von Versiegen betroffene Gegner besiegt werden, 4 Punkte Elementarenergie wieder her."
+    },
+    "c3": {
+      "name": "Katastrophe des Abgrunds – Strudel der Zwietracht",
+      "effect": "Erhöht die Stufe der Fähigkeit **Dämonengewand – Stürmische Gezeiten** um 3.\nHöchststufe 15."
+    },
+    "c4": {
+      "name": "Katastrophe des Abgrunds – Sprudelndes Wasser",
+      "effect": "Löst bei Anwesenheit des von Tartaglia verursachten Effekts Verisegen alle 4 s Versiegen – Hieb aus, wenn Tartaglia im Nahkampfmodus von **Dämonengewand – Stürmische Gezeiten** ist, löst andernfalls Versiegen – Blitz aus.\nVersiegen – Hieb und Versiegen – Blitz werden, wenn sie durch dieses Sternbild ausgelöst werden, nicht von der zeitlichen Beschränkung der beiden Zustände des Versiegens beeinflusst und wirken sich auch nicht auf die Zeitabstände zum Auslösen aus."
+    },
+    "c5": {
+      "name": "Spezialangriff – Regenschlächter",
+      "effect": "Erhöht die Stufe der Fähigkeit **Spezialangriff – Totale Vernichtung** um 3.\nHöchststufe 15."
+    },
+    "c6": {
+      "name": "Spezialangriff – Komplette Auslöschung",
+      "effect": "Überspringt die Abklingzeit von **Dämonengewand – Stürmische Gezeiten** bei Anwendung von **Spezialangriff – Totale Vernichtung** im Nahkampf.\nDieser Effekt wird nach dem Wechsel in den Fernkampf aktiv."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Tartaglia_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Tartaglia_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Tartaglia_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Tartaglia_05.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Tartaglia_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Tartaglia_04.png",
+      "constellation": "Eff_UI_Talent_Tartaglia"
+    },
+    "version": "1.1"
+  },
+  "talent": {
+    "name": "Tartaglia",
+    "combat1": {
+      "name": "Standardangriff: Regenschnitt",
+      "info": "**Standardangriff**\nFührt bis zu 6 Pfeilschüsse hintereinander aus.\n\n**Heftiger Schlag**\nStartet einen **gezielten Schuss** mit höherem Schaden und höherer Genauigkeit.\nKonzentriert die Hydro-Kraft an der Pfeilspitze und fügt getroffenen Gegnern bei voll konzentrierter Kraft Hydro-Schaden sowie den Effekt „Versiegen“ zu.\n\n**Versiegen**\nFügt betroffenen Gegnern Hydro-Flächenschaden bei allen Arten von Angriffen von Tartaglia zu. Der durch diese Effekte verursachte Schaden gilt als Standardangriffsschaden.\n· Versiegen – Blitz: Verursacht beim Treffen von Versiegen betroffener Gegner mit voll aufgeladenen gezielten Schüssen fortlaufenden Flächenschaden. 0,7 s Abklingzeit für Versiegen – Blitz.\n· Versiegen – Schwall: Verursacht beim Besiegen von Versiegen betroffener Gegner einen Wasserschwall und fügt Gegnern in der Nähe den Effekt Versiegen zu.\n\n**Angriff aus dem Fall**\nSchießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden.\nIm Nahkampfmodus von Dämonengewand – Stürmische Gezeiten ist kein Angriff aus dem Fall möglich.",
+      "attributes": [
+        {
+          "name": "SCH Phase 1",
+          "parameters": [
+            "41.28%",
+            "44.64%",
+            "48.00%",
+            "52.80%",
+            "56.16%",
+            "60.00%",
+            "65.28%",
+            "70.56%",
+            "75.84%",
+            "81.60%",
+            "87.36%",
+            "93.12%",
+            "98.88%",
+            "104.64%",
+            "110.40%"
+          ]
+        },
+        {
+          "name": "SCH Phase 2",
+          "parameters": [
+            "46.27%",
+            "50.03%",
+            "53.80%",
+            "59.18%",
+            "62.95%",
+            "67.25%",
+            "73.17%",
+            "79.09%",
+            "85.00%",
+            "91.46%",
+            "97.92%",
+            "104.37%",
+            "110.83%",
+            "117.28%",
+            "123.74%"
+          ]
+        },
+        {
+          "name": "SCH Phase 3",
+          "parameters": [
+            "55.38%",
+            "59.89%",
+            "64.40%",
+            "70.84%",
+            "75.35%",
+            "80.50%",
+            "87.58%",
+            "94.67%",
+            "101.75%",
+            "109.48%",
+            "117.21%",
+            "124.94%",
+            "132.66%",
+            "140.39%",
+            "148.12%"
+          ]
+        },
+        {
+          "name": "SCH Phase 4",
+          "parameters": [
+            "57.02%",
+            "61.66%",
+            "66.30%",
+            "72.93%",
+            "77.57%",
+            "82.88%",
+            "90.17%",
+            "97.46%",
+            "104.75%",
+            "112.71%",
+            "120.67%",
+            "128.62%",
+            "136.58%",
+            "144.53%",
+            "152.49%"
+          ]
+        },
+        {
+          "name": "SCH Phase 5",
+          "parameters": [
+            "60.89%",
+            "65.84%",
+            "70.80%",
+            "77.88%",
+            "82.84%",
+            "88.50%",
+            "96.29%",
+            "104.08%",
+            "111.86%",
+            "120.36%",
+            "128.86%",
+            "137.35%",
+            "145.85%",
+            "154.34%",
+            "162.84%"
+          ]
+        },
+        {
+          "name": "SCH Phase 6",
+          "parameters": [
+            "72.76%",
+            "78.68%",
+            "84.60%",
+            "93.06%",
+            "98.98%",
+            "105.75%",
+            "115.06%",
+            "124.36%",
+            "133.67%",
+            "143.82%",
+            "153.97%",
+            "164.12%",
+            "174.28%",
+            "184.43%",
+            "194.58%"
+          ]
+        },
+        {
+          "name": "Gezielte Schüsse",
+          "parameters": [
+            "43.86%",
+            "47.43%",
+            "51.00%",
+            "56.10%",
+            "59.67%",
+            "63.75%",
+            "69.36%",
+            "74.97%",
+            "80.58%",
+            "86.70%",
+            "92.82%",
+            "98.94%",
+            "105.06%",
+            "111.18%",
+            "117.30%"
+          ]
+        },
+        {
+          "name": "Voll aufgeladene gezielte Schüsse",
+          "parameters": [
+            "124.00%",
+            "133.30%",
+            "142.60%",
+            "155.00%",
+            "164.30%",
+            "173.60%",
+            "186.00%",
+            "198.40%",
+            "210.80%",
+            "223.20%",
+            "235.60%",
+            "248.00%",
+            "263.50%",
+            "279.00%",
+            "294.50%"
+          ]
+        },
+        {
+          "name": "SCH durch Versiegen – Blitz",
+          "parameters": [
+            "12.40% ×3",
+            "13.33% ×3",
+            "14.26% ×3",
+            "15.50% ×3",
+            "16.43% ×3",
+            "17.36% ×3",
+            "18.60% ×3",
+            "19.84% ×3",
+            "21.08% ×3",
+            "22.32% ×3",
+            "23.56% ×3",
+            "24.80% ×3",
+            "26.35% ×3",
+            "27.90% ×3",
+            "29.45% ×3"
+          ]
+        },
+        {
+          "name": "SCH durch Versiegen – Schwall",
+          "parameters": [
+            "62.00%",
+            "66.65%",
+            "71.30%",
+            "77.50%",
+            "82.15%",
+            "86.80%",
+            "93.00%",
+            "99.20%",
+            "105.40%",
+            "111.60%",
+            "117.80%",
+            "124.00%",
+            "131.75%",
+            "139.50%",
+            "147.25%"
+          ]
+        },
+        {
+          "name": "Dauer von Versiegen",
+          "parameters": [
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen aus niedriger/großer Höhe",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Dämonengewand – Stürmische Gezeiten",
+      "info": "Nutzt seine aus reinem Wasser bestehende Ausrüstung, fügt Gegnern in der Umgebung Hydro-Schaden zu und geht in den Nahkampf über.\nWandelt den Schaden von Tartaglias Standardangriffen und heftigen Schlägen in diesem Zustand in Hydro-Schaden, dessen Element anderweitig nicht verändert werden kann, und verändert die Angriffe folgendermaßen:\n\n**Standardangriff**\nFührt bis zu 6 Hydro-Hiebe hintereinander aus.\n\n**Heftiger Schlag**\nVerbraucht Ausdauer, schlägt mit beiden Schwertern schnell nach vorn und verursacht Hydro-Schaden.\n\n**Versiegen – Hieb**\nVerursacht beim Treffen von Versiegen betroffener Gegner mit Nahkampfangriffen „Versiegen – Hieb“ und verursacht Hydro-Flächenschaden. Der mit Versiegen – Hieb verursachte Schaden gilt als Elementarfähigkeitsschaden mit 1,5 s Abklingzeit.\n\nBeendet den Effekt nach 30 s oder erneutem Anwenden, aktiviert wieder den Fernkampf und startet die Abklingphase. Je länger der Nahkampf aktiv war, desto länger dauert die Abklingphase.\nAktiviert eine längere Abklingphase, wenn der Nahkampf 30 s lang aktiv war.",
+      "description": "Allein um seinen ungeübten Umgang mit dem Bogen zu verbessern, wählt er diesen als seine Waffe. In gefährlichen Kämpfen aber zeigt er seine wahre Stärke.",
+      "attributes": [
+        {
+          "name": "SCH durch Modusänderung",
+          "parameters": [
+            "72.00%",
+            "77.40%",
+            "82.80%",
+            "90.00%",
+            "95.40%",
+            "100.80%",
+            "108.00%",
+            "115.20%",
+            "122.40%",
+            "129.60%",
+            "136.80%",
+            "144.00%",
+            "153.00%",
+            "162.00%",
+            "171.00%"
+          ]
+        },
+        {
+          "name": "SCH Phase 1",
+          "parameters": [
+            "38.87%",
+            "42.04%",
+            "45.20%",
+            "49.72%",
+            "52.88%",
+            "56.50%",
+            "61.47%",
+            "66.44%",
+            "71.42%",
+            "76.84%",
+            "82.26%",
+            "87.69%",
+            "93.11%",
+            "98.54%",
+            "103.96%"
+          ]
+        },
+        {
+          "name": "SCH Phase 2",
+          "parameters": [
+            "41.62%",
+            "45.01%",
+            "48.40%",
+            "53.24%",
+            "56.63%",
+            "60.50%",
+            "65.82%",
+            "71.15%",
+            "76.47%",
+            "82.28%",
+            "88.09%",
+            "93.90%",
+            "99.70%",
+            "105.51%",
+            "111.32%"
+          ]
+        },
+        {
+          "name": "SCH Phase 3",
+          "parameters": [
+            "56.33%",
+            "60.91%",
+            "65.50%",
+            "72.05%",
+            "76.63%",
+            "81.88%",
+            "89.08%",
+            "96.28%",
+            "103.49%",
+            "111.35%",
+            "119.21%",
+            "127.07%",
+            "134.93%",
+            "142.79%",
+            "150.65%"
+          ]
+        },
+        {
+          "name": "SCH Phase 4",
+          "parameters": [
+            "59.94%",
+            "64.82%",
+            "69.70%",
+            "76.67%",
+            "81.55%",
+            "87.12%",
+            "94.79%",
+            "102.46%",
+            "110.13%",
+            "118.49%",
+            "126.85%",
+            "135.22%",
+            "143.58%",
+            "151.95%",
+            "160.31%"
+          ]
+        },
+        {
+          "name": "SCH Phase 5",
+          "parameters": [
+            "55.30%",
+            "59.80%",
+            "64.30%",
+            "70.73%",
+            "75.23%",
+            "80.37%",
+            "87.45%",
+            "94.52%",
+            "101.59%",
+            "109.31%",
+            "117.03%",
+            "124.74%",
+            "132.46%",
+            "140.17%",
+            "147.89%"
+          ]
+        },
+        {
+          "name": "SCH Phase 6",
+          "parameters": [
+            "35.43% + 37.67%",
+            "38.32% + 40.73%",
+            "41.20% + 43.80%",
+            "45.32% + 48.18%",
+            "48.20% + 51.25%",
+            "51.50% + 54.75%",
+            "56.03% + 59.57%",
+            "60.56% + 64.39%",
+            "65.10% + 69.20%",
+            "70.04% + 74.46%",
+            "74.98% + 79.72%",
+            "79.93% + 84.97%",
+            "84.87% + 90.23%",
+            "89.82% + 95.48%",
+            "94.76% + 100.74%"
+          ]
+        },
+        {
+          "name": "SCH heftiger Schläge",
+          "parameters": [
+            "60.20% + 71.98%",
+            "65.10% + 77.84%",
+            "70.00% + 83.70%",
+            "77.00% + 92.07%",
+            "81.90% + 97.93%",
+            "87.50% + 104.62%",
+            "95.20% + 113.83%",
+            "102.90% + 123.04%",
+            "110.60% + 132.25%",
+            "119.00% + 142.29%",
+            "127.40% + 152.33%",
+            "135.80% + 162.38%",
+            "144.20% + 172.42%",
+            "152.60% + 182.47%",
+            "161.00% + 192.51%"
+          ]
+        },
+        {
+          "name": "Ausdauerverbrauch heftiger Schläge",
+          "parameters": [
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte"
+          ]
+        },
+        {
+          "name": "SCH durch Versiegen – Hieb",
+          "parameters": [
+            "60.20%",
+            "65.10%",
+            "70.00%",
+            "77.00%",
+            "81.90%",
+            "87.50%",
+            "95.20%",
+            "102.90%",
+            "110.60%",
+            "119.00%",
+            "127.40%",
+            "135.80%",
+            "144.20%",
+            "152.60%",
+            "161.00%"
+          ]
+        },
+        {
+          "name": "Höchstdauer",
+          "parameters": [
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s"
+          ]
+        },
+        {
+          "name": "Abklingzeit",
+          "parameters": [
+            "6 bis 36 s",
+            "6 bis 36 s",
+            "6 bis 36 s",
+            "6 bis 36 s",
+            "6 bis 36 s",
+            "6 bis 36 s",
+            "6 bis 36 s",
+            "6 bis 36 s",
+            "6 bis 36 s",
+            "6 bis 36 s",
+            "6 bis 36 s",
+            "6 bis 36 s",
+            "6 bis 36 s",
+            "6 bis 36 s",
+            "6 bis 36 s"
+          ]
+        },
+        {
+          "name": "Max. Abklingzeit",
+          "parameters": [
+            "45 s",
+            "45 s",
+            "45 s",
+            "45 s",
+            "45 s",
+            "45 s",
+            "45 s",
+            "45 s",
+            "45 s",
+            "45 s",
+            "45 s",
+            "45 s",
+            "45 s",
+            "45 s",
+            "45 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Spezialangriff – Totale Vernichtung",
+      "info": "Führt je nachdem, ob Fern- oder Nahkampf aktiv ist, verschiedene Angriffe aus:\n\n**Fernkampf: Teufelsschuss**\nSchießt schnell einen magischen Pfeil voller Hydro-Kraft nach vorn und verursacht Hydro-Flächenschaden sowie den Effekt Versiegen.\nGibt nach dem Anwenden einen Teil Elementarenergie zurück.\n\n**Nahkampf: Tödliches Glitzern**\nFührt einen Hieb mit hoher Reichweite aus, der den Gegnern in der Nähe hohen Hydro-Schaden zufügt und „Versiegen – Explosion“ verursacht.\n\n**Versiegen – Explosion**\nBeendet beim Treffen von Versiegen betroffener Gegner mit Tödliches Glitzern den Effekt des Versiegens und verursacht eine Explosion sowie Hydro-Flächenschaden.\nDer mit Versiegen – Explosion verursachte Schaden gilt als Spezialfähigkeitsschaden.",
+      "description": "Reißendes Wasser ist eine Seltenheit in seiner verschneiten Heimat. Vielleicht kann er die Hydro-Kräfte so gut kontrollieren, gerade weil er weiß, wie kostbar Wasser ist.",
+      "attributes": [
+        {
+          "name": "Fähigkeits-SCH (Nahkampf)",
+          "parameters": [
+            "464.00%",
+            "498.80%",
+            "533.60%",
+            "580.00%",
+            "614.80%",
+            "649.60%",
+            "696.00%",
+            "742.40%",
+            "788.80%",
+            "835.20%",
+            "881.60%",
+            "928.00%",
+            "986.00%",
+            "1044.00%",
+            "1102.00%"
+          ]
+        },
+        {
+          "name": "Fähigkeits-SCH (Fernkampf)",
+          "parameters": [
+            "378.40%",
+            "406.78%",
+            "435.16%",
+            "473.00%",
+            "501.38%",
+            "529.76%",
+            "567.60%",
+            "605.44%",
+            "643.28%",
+            "681.12%",
+            "718.96%",
+            "756.80%",
+            "804.10%",
+            "851.40%",
+            "898.70%"
+          ]
+        },
+        {
+          "name": "SCH durch Versiegen – Explosion",
+          "parameters": [
+            "120.00%",
+            "129.00%",
+            "138.00%",
+            "150.00%",
+            "159.00%",
+            "168.00%",
+            "180.00%",
+            "192.00%",
+            "204.00%",
+            "216.00%",
+            "228.00%",
+            "240.00%",
+            "255.00%",
+            "270.00%",
+            "285.00%"
+          ]
+        },
+        {
+          "name": "Elementarenergierückgabe der Fähigkeit (Fernkampf)",
+          "parameters": [
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "name": "Abklingzeit",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "Elementarenergie",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Ewige Fortsetzung",
+      "info": "Verlängert die Dauer des Effekts Versiegen um 8 s."
+    },
+    "passive2": {
+      "name": "Schwert aus Wasser",
+      "info": "Fügt mit kritischen Treffern von Standardangriffen und heftigen Schlägen getroffenen Gegnern im Nahkampf von **Dämonengewand – Stürmische Gezeiten** den Effekt Versiegen zu."
+    },
+    "passive3": {
+      "name": "Ausgeklügelte Bewaffnung",
+      "info": "Erhöht die Stufe der **Standardangriffe** eigener Figuren in der Truppe um 1."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Lehren der „Freiheit“",
+          "count": 3
+        },
+        {
+          "name": "Abzeichen für neue Rekruten",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Anleitung zur „Freiheit“",
+          "count": 2
+        },
+        {
+          "name": "Abzeichen für Unteroffiziere",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Anleitung zur „Freiheit“",
+          "count": 4
+        },
+        {
+          "name": "Abzeichen für Unteroffiziere",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Anleitung zur „Freiheit“",
+          "count": 6
+        },
+        {
+          "name": "Abzeichen für Unteroffiziere",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Anleitung zur „Freiheit“",
+          "count": 9
+        },
+        {
+          "name": "Abzeichen für Unteroffiziere",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie der „Freiheit“",
+          "count": 4
+        },
+        {
+          "name": "Abzeichen für Offiziere",
+          "count": 4
+        },
+        {
+          "name": "Dämonengewand – Fragment",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie der „Freiheit“",
+          "count": 6
+        },
+        {
+          "name": "Abzeichen für Offiziere",
+          "count": 6
+        },
+        {
+          "name": "Dämonengewand – Fragment",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie der „Freiheit“",
+          "count": 12
+        },
+        {
+          "name": "Abzeichen für Offiziere",
+          "count": 9
+        },
+        {
+          "name": "Dämonengewand – Fragment",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie der „Freiheit“",
+          "count": 16
+        },
+        {
+          "name": "Abzeichen für Offiziere",
+          "count": 12
+        },
+        {
+          "name": "Dämonengewand – Fragment",
+          "count": 2
+        },
+        {
+          "name": "Krone der Weisheit",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_02",
+      "combat2": "Skill_S_Tartaglia_01",
+      "combat3": "Skill_E_Tartaglia_01_HD",
+      "passive1": "UI_Talent_S_Tartaglia_03",
+      "passive2": "UI_Talent_S_Tartaglia_06",
+      "passive3": "UI_Talent_S_Tartaglia_07"
+    },
+    "version": "1.1"
+  }
+}

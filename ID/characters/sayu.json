@@ -1,0 +1,992 @@
+{
+  "name": "Sayu",
+  "fullname": "Sayu",
+  "title": "Mujina Ninja",
+  "description": "Ninja kecil anggota Shuumatsuban yang selalu terlihat kurang tidur.",
+  "rarity": "4",
+  "element": "Anemo",
+  "weapontype": "Claymore",
+  "substat": "Elemental Mastery",
+  "gender": "Perempuan",
+  "body": "LOLI",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "Shuumatsuban",
+  "birthdaymmdd": "10/19",
+  "birthday": "19 Oktober",
+  "constellation": "Nyctereutes Minor",
+  "cv": {
+    "english": "Lilypichu (Lily Ki)",
+    "chinese": "Sakula小舞",
+    "japanese": "洲崎綾",
+    "korean": "Lee Ji-hyeon"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vayuda Turquoise Sliver",
+        "count": 1
+      },
+      {
+        "name": "Crystal Marrow",
+        "count": 3
+      },
+      {
+        "name": "Whopperflower Nectar",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Vayuda Turquoise Fragment",
+        "count": 3
+      },
+      {
+        "name": "Marionette Core",
+        "count": 2
+      },
+      {
+        "name": "Crystal Marrow",
+        "count": 10
+      },
+      {
+        "name": "Whopperflower Nectar",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Vayuda Turquoise Fragment",
+        "count": 6
+      },
+      {
+        "name": "Marionette Core",
+        "count": 4
+      },
+      {
+        "name": "Crystal Marrow",
+        "count": 20
+      },
+      {
+        "name": "Shimmering Nectar",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Vayuda Turquoise Chunk",
+        "count": 3
+      },
+      {
+        "name": "Marionette Core",
+        "count": 8
+      },
+      {
+        "name": "Crystal Marrow",
+        "count": 30
+      },
+      {
+        "name": "Shimmering Nectar",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Vayuda Turquoise Chunk",
+        "count": 6
+      },
+      {
+        "name": "Marionette Core",
+        "count": 12
+      },
+      {
+        "name": "Crystal Marrow",
+        "count": 45
+      },
+      {
+        "name": "Energy Nectar",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Vayuda Turquoise Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Marionette Core",
+        "count": 20
+      },
+      {
+        "name": "Crystal Marrow",
+        "count": 60
+      },
+      {
+        "name": "Energy Nectar",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sayu.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Sayu.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210730/2021073014304964016.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210803/2021080312080918753.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/94b60ed23cb102d39f99335e9658b17d.png",
+    "nameicon": "UI_AvatarIcon_Sayu",
+    "nameiconcard": "UI_AvatarIcon_Sayu_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Sayu",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Sayu",
+    "namesideicon": "UI_AvatarIcon_Side_Sayu"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sayu"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 993.8521728515625,
+      "attack": 20.47920036315918,
+      "defense": 62.43247604370117,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2553.206237742532,
+      "attack": 52.61106585013886,
+      "defense": 160.3890313135098,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3295.664733836282,
+      "attack": 67.91043566215058,
+      "defense": 207.02928247317777,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4936.51445700886,
+      "attack": 101.72159104783623,
+      "defense": 310.10528696523215,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5464.050711891672,
+      "attack": 112.59219651658623,
+      "defense": 343.2444089745095,
+      "specialized": 24
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6284.972818976792,
+      "attack": 129.5080203913849,
+      "defense": 394.8136475236224,
+      "specialized": 24
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6988.3545328439795,
+      "attack": 144.0021610163849,
+      "defense": 438.99914862225523,
+      "specialized": 48
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7809.2766399290995,
+      "attack": 160.91798489118355,
+      "defense": 490.56838717136816,
+      "specialized": 48
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8336.813016882224,
+      "attack": 171.78859035993355,
+      "defense": 523.70751681004,
+      "specialized": 48
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9156.740869922505,
+      "attack": 188.6839267534424,
+      "defense": 575.2142976380437,
+      "specialized": 48
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 9684.277002735005,
+      "attack": 199.5545322221924,
+      "defense": 608.3534120179265,
+      "specialized": 72
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 10505.19863591448,
+      "attack": 216.47034633174735,
+      "defense": 659.922620796915,
+      "specialized": 72
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11032.735012867604,
+      "attack": 227.34095180049735,
+      "defense": 693.0617504355869,
+      "specialized": 96
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 11853.657119952724,
+      "attack": 244.256775675296,
+      "defense": 744.6309889846998,
+      "specialized": 96
+    }
+  },
+  "version": "2.0",
+  "constellations": {
+    "c1": {
+      "name": "Multi-Task no Jutsu",
+      "effect": "Muji-Muji Daruma yang diciptakan oleh **Yoohoo Art: Mujina Flurry** akan mengabaikan batas HP dan bisa menyerang musuh terdekat serta memulihkan HP Karakter secara bersamaan."
+    },
+    "c2": {
+      "name": "Egress Prep",
+      "effect": "**Yoohoo Art: Fuuin Dash** mendapatkan efek berikut:\n·DMG dari Mode Tekan Fuufuu Whirlwind Kick meningkat 3,3%.\n·Saat Mode Tahan dikerahkan, dan berada dalam status FuuFuu Windwheel, DMG dari Fuufuu Whirlwind Kick kali tersebut meningkat 3,3% setiap 0,5 detik. DMG tambahan maksimum yang bisa didapat dari metode ini adalah 66%."
+    },
+    "c3": {
+      "name": "Eh, the Bunshin Can Handle It",
+      "effect": "Meningkatkan 3 level **Yoohoo Art: Mujina Flurry**.\nMaksimum: Lv. 15."
+    },
+    "c4": {
+      "name": "Skiving: New and Improved",
+      "effect": "Setiap kali Sayu memicu reaksi Swirl, 1,2 Energy terpulihkan.\nDapat terpicu setiap 2 detik."
+    },
+    "c5": {
+      "name": "Speed Comes First",
+      "effect": "Meningkatkan 3 level **Yoohoo Art: Fuuin Dash**.\nMaksimum: Lv. 15."
+    },
+    "c6": {
+      "name": "Sleep O'Clock",
+      "effect": "ATK dan Pemulihan HP dari Muji-Muji Daruma yang diciptakan dengan **Yoohoo Art: Mujina Flurry** milik Sayu juga akan bertambah sesuai Elemental Mastery Sayu. Setiap poin Elemental Mastery yang dimiliki Sayu akan memberikan efek berikut:\n·Muji-Muji Daruma mengakibatkan DMG tambahan sebesar 0,2% ATK. DMG tambahan maksimum yang dapat diperoleh dari metode ini adalah 400% ATK.\n·Meningkatkan jumlah HP yang dipulihkan oleh Muji-Muji Daruma sebanyak 3 HP. Efek pemulihan tambahan yang dapat diperoleh dari metode ini adalah 6.000 HP."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sayu_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sayu_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Sayu_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sayu_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Sayu_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sayu_04.png",
+      "constellation": "Eff_UI_Talent_Sayu"
+    },
+    "version": "2.0"
+  },
+  "talent": {
+    "name": "Sayu",
+    "combat1": {
+      "name": "Normal Attack: Shuumatsuban Ninja Blade",
+      "info": "**Normal Attack**\nMelancarkan hingga 4 tebasan berturut-turut.\n\n**Charged Attack**\nTerus menguras Stamina untuk melancarkan serangan berputar yang mengakibatkan DMG ke musuh di sekitar.\nDiakhiri dengan sebuah tebasan yang kuat.\n\n**Plunging Attack**\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG Area saat mendarat.",
+      "attributes": [
+        {
+          "name": "DMG Tahap 1",
+          "parameters": [
+            "72.24%",
+            "78.12%",
+            "84.00%",
+            "92.40%",
+            "98.28%",
+            "105.00%",
+            "114.24%",
+            "123.48%",
+            "132.72%",
+            "142.80%",
+            "154.35%",
+            "167.93%",
+            "181.52%",
+            "195.10%",
+            "209.92%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 2",
+          "parameters": [
+            "71.38%",
+            "77.19%",
+            "83.00%",
+            "91.30%",
+            "97.11%",
+            "103.75%",
+            "112.88%",
+            "122.01%",
+            "131.14%",
+            "141.10%",
+            "152.51%",
+            "165.93%",
+            "179.35%",
+            "192.78%",
+            "207.42%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 3",
+          "parameters": [
+            "43.43%+43.43%",
+            "46.97%+46.97%",
+            "50.50%+50.50%",
+            "55.55%+55.55%",
+            "59.08%+59.08%",
+            "63.13%+63.13%",
+            "68.68%+68.68%",
+            "74.23%+74.23%",
+            "79.79%+79.79%",
+            "85.85%+85.85%",
+            "92.79%+92.79%",
+            "100.96%+100.96%",
+            "109.13%+109.13%",
+            "117.29%+117.29%",
+            "126.20%+126.20%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 4",
+          "parameters": [
+            "98.13%",
+            "106.11%",
+            "114.10%",
+            "125.51%",
+            "133.50%",
+            "142.62%",
+            "155.18%",
+            "167.73%",
+            "180.28%",
+            "193.97%",
+            "209.66%",
+            "228.11%",
+            "246.56%",
+            "265.01%",
+            "285.14%"
+          ]
+        },
+        {
+          "name": "DMG Berputar Charged Attack",
+          "parameters": [
+            "62.55%",
+            "67.64%",
+            "72.73%",
+            "80.00%",
+            "85.09%",
+            "90.91%",
+            "98.91%",
+            "106.91%",
+            "114.91%",
+            "123.64%",
+            "133.64%",
+            "145.40%",
+            "157.16%",
+            "168.92%",
+            "181.75%"
+          ]
+        },
+        {
+          "name": "DMG Akhir Charged Attack",
+          "parameters": [
+            "113.09%",
+            "122.29%",
+            "131.50%",
+            "144.65%",
+            "153.86%",
+            "164.37%",
+            "178.84%",
+            "193.31%",
+            "207.77%",
+            "223.55%",
+            "241.63%",
+            "262.89%",
+            "284.16%",
+            "305.42%",
+            "328.62%"
+          ]
+        },
+        {
+          "name": "Konsumsi Stamina Charged Attack",
+          "parameters": [
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk"
+          ]
+        },
+        {
+          "name": "Durasi Maksimum",
+          "parameters": [
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik"
+          ]
+        },
+        {
+          "name": "DMG Selama Plunging",
+          "parameters": [
+            "74.59%",
+            "80.66%",
+            "86.73%",
+            "95.40%",
+            "101.47%",
+            "108.41%",
+            "117.95%",
+            "127.49%",
+            "137.03%",
+            "147.44%",
+            "157.85%",
+            "168.26%",
+            "178.66%",
+            "189.07%",
+            "199.48%"
+          ]
+        },
+        {
+          "name": "DMG Plunging Attack Rendah/Tinggi",
+          "parameters": [
+            "149.14%/186.29%",
+            "161.28%/201.45%",
+            "173.42%/216.62%",
+            "190.77%/238.28%",
+            "202.91%/253.44%",
+            "216.78%/270.77%",
+            "235.86%/294.60%",
+            "254.93%/318.42%",
+            "274.01%/342.25%",
+            "294.82%/368.25%",
+            "315.63%/394.24%",
+            "336.44%/420.23%",
+            "357.25%/446.23%",
+            "378.06%/472.22%",
+            "398.87%/498.21%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Yoohoo Art: Fuuin Dash",
+      "info": "Teknik spesial Ilmu Ninja Yoohoo yang menggunakan kecepatan angin untuk menyapu medan pertempuran.\nMelingkar menjadi Fuufuu Windwheel dan menabrak musuh dengan kecepatan tinggi, mengakibatkan Anemo DMG, dan saat durasi skill berakhir, melancarkan Fuufuu Whirlwind Kick yang mengakibatkan Anemo DMG Area.\n\n**Tekan**\nMemasuki status Fuufuu Windwheel, dan berputar ke depan dengan jarak pendek, sebelum kemudian melancarkan serangan Fuufuu Whirlwind Kick.\n\n**Tahan**\nMemasuki status Fuufuu Windwheel dan berputar terus menerus seperti roda, yang meningkatkan ketahanan Sayu terhadap interupsi selama berputar.\nSelama durasi, Sayu dapat mengontrol arah putaran dan dapat menggunakan skill ini sekali lagi untuk mengakhiri status Fuufuu Windwheel, yang mana akan melancarkan serangan Fuufuu Whirlwind Kick yang lebih kuat.\nDalam mode Tahan, skill ini dapat memicu Elemental Absorption.\n\nDurasi skill maksimum adalah 10 detik, dan skill ini akan segera memasuki CD setelah efeknya berakhir. Semakin lama Sayu berada dalam status Fuufuu Windwheel, maka semakin lama durasi CD skill ini.\n\n**Elemental Absorption**\nSelama berada dalam status Fuufuu Windwheel, jika Sayu bersentuhan dengan Hydro/Pyro/Cryo/Electro, maka Sayu akan mengakibatkan DMG elemental tambahan yang sesuai dengan elemen tersebut.\nElemental Absorption hanya dapat terpicu sekali setiap kali skill digunakan.",
+      "description": "Sayu dapat melakukan skill ini dengan mata tertutup. Teknik ini awalnya diciptakan untuk melarikan diri. Namun dengan Vision yang dimilikinya sekarang, Sayu akhirnya dapat berputar dan membuat musuh-musuhnya tak berkutik.",
+      "attributes": [
+        {
+          "name": "DMG Fuufuu Windwheel",
+          "parameters": [
+            "36.00%",
+            "38.70%",
+            "41.40%",
+            "45.00%",
+            "47.70%",
+            "50.40%",
+            "54.00%",
+            "57.60%",
+            "61.20%",
+            "64.80%",
+            "68.40%",
+            "72.00%",
+            "76.50%",
+            "81.00%",
+            "85.50%"
+          ]
+        },
+        {
+          "name": "DMG Fuufuu Whirlwind Kick Mode Tekan",
+          "parameters": [
+            "158.40%",
+            "170.28%",
+            "182.16%",
+            "198.00%",
+            "209.88%",
+            "221.76%",
+            "237.60%",
+            "253.44%",
+            "269.28%",
+            "285.12%",
+            "300.96%",
+            "316.80%",
+            "336.60%",
+            "356.40%",
+            "376.20%"
+          ]
+        },
+        {
+          "name": "DMG Fuufuu Whirlwind Kick Mode Tahan",
+          "parameters": [
+            "217.60%",
+            "233.92%",
+            "250.24%",
+            "272.00%",
+            "288.32%",
+            "304.64%",
+            "326.40%",
+            "348.16%",
+            "369.92%",
+            "391.68%",
+            "413.44%",
+            "435.20%",
+            "462.40%",
+            "489.60%",
+            "516.80%"
+          ]
+        },
+        {
+          "name": "DMG Elemental Fuufuu Windwheel",
+          "parameters": [
+            "16.80%",
+            "18.06%",
+            "19.32%",
+            "21.00%",
+            "22.26%",
+            "23.52%",
+            "25.20%",
+            "26.88%",
+            "28.56%",
+            "30.24%",
+            "31.92%",
+            "33.60%",
+            "35.70%",
+            "37.80%",
+            "39.90%"
+          ]
+        },
+        {
+          "name": "DMG Elemental Fuufuu Whirlwind Kick",
+          "parameters": [
+            "76.16%",
+            "81.87%",
+            "87.58%",
+            "95.20%",
+            "100.91%",
+            "106.62%",
+            "114.24%",
+            "121.86%",
+            "129.47%",
+            "137.09%",
+            "144.70%",
+            "152.32%",
+            "161.84%",
+            "171.36%",
+            "180.88%"
+          ]
+        },
+        {
+          "name": "Durasi Maksimum (Mode Tahan)",
+          "parameters": [
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik"
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "parameters": [
+            "6 sampai 11 detik",
+            "6 sampai 11 detik",
+            "6 sampai 11 detik",
+            "6 sampai 11 detik",
+            "6 sampai 11 detik",
+            "6 sampai 11 detik",
+            "6 sampai 11 detik",
+            "6 sampai 11 detik",
+            "6 sampai 11 detik",
+            "6 sampai 11 detik",
+            "6 sampai 11 detik",
+            "6 sampai 11 detik",
+            "6 sampai 11 detik",
+            "6 sampai 11 detik",
+            "6 sampai 11 detik"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Yoohoo Art: Mujina Flurry",
+      "info": "Teknik spesial lain dari Ilmu Ninja Yoohoo! Teknik ini dapat memanggil bala bantuan untuk Sayu.\nMengakibatkan Anemo DMG terhadap musuh di sekitar dan memulihkan HP seluruh anggota party di sekitar. Jumlah HP yang dipulihkan berdasar pada ATK Sayu. Skill ini kemudian akan memanggil sebuah Muji-Muji Daruma.\n\n**Muji-Muji Daruma**\nMuji-Muji Daruma akan melakukan salah satu tindakan berikut secara berkala berdasarkan situasi di sekitar:\n·Jika semua Karakter di sekitar medan pertempuran memiliki HP lebih dari 70%, Daruma ini akan menyerang musuh di sekitar dan mengakibatkan Anemo DMG.\n·Jika di sekitar medan pertempuran ada Karakter dengan HP lebih rendah atau sama dengan 70%, Daruma ini akan memulihkan Karakter yang persentase HP-nya paling rendah, jumlah pemulihan berdasar pada ATK Sayu. Jika tidak ada musuh di sekitar dan HP Karakter lebih tinggi dari 70%, maka Daruma tetap akan memulihkan HP Karakter.",
+      "description": "Orang biasa yang tidak mengerti ninjutsu sangat berharap agar Sayu dapat memperlihatkan lebih banyak kemampuannya, dan ada juga orang-orang yang ingin belajar darinya. Namun Sayu hanya ingin tidur dan tidak mau diganggu.",
+      "attributes": [
+        {
+          "name": "DMG Melancarkan Skill",
+          "parameters": [
+            "116.80%",
+            "125.56%",
+            "134.32%",
+            "146.00%",
+            "154.76%",
+            "163.52%",
+            "175.20%",
+            "186.88%",
+            "198.56%",
+            "210.24%",
+            "221.92%",
+            "233.60%",
+            "248.20%",
+            "262.80%",
+            "277.40%"
+          ]
+        },
+        {
+          "name": "Pemulihan Saat Melancarkan Skill",
+          "parameters": [
+            "92.16% ATK + 577",
+            "99.07% ATK + 635",
+            "105.98% ATK + 698",
+            "115.20% ATK + 765",
+            "122.11% ATK + 837",
+            "129.02% ATK + 914",
+            "138.24% ATK + 996",
+            "147.46% ATK + 1083",
+            "156.67% ATK + 1174",
+            "165.89% ATK + 1270",
+            "175.10% ATK + 1371",
+            "184.32% ATK + 1477",
+            "195.84% ATK + 1588",
+            "207.36% ATK + 1703",
+            "218.88% ATK + 1824"
+          ]
+        },
+        {
+          "name": "DMG Muji-Muji Daruma",
+          "parameters": [
+            "52.00%",
+            "55.90%",
+            "59.80%",
+            "65.00%",
+            "68.90%",
+            "72.80%",
+            "78.00%",
+            "83.20%",
+            "88.40%",
+            "93.60%",
+            "98.80%",
+            "104.00%",
+            "110.50%",
+            "117.00%",
+            "123.50%"
+          ]
+        },
+        {
+          "name": "Pemulihan Muji-Muji Daruma",
+          "parameters": [
+            "79.87% ATK+500",
+            "85.86% ATK+550",
+            "91.85% ATK+605",
+            "99.84% ATK+663",
+            "105.83% ATK+726",
+            "111.82% ATK+792",
+            "119.81% ATK+863",
+            "127.80% ATK+938",
+            "135.78% ATK+1017",
+            "143.77% ATK+1101",
+            "151.76% ATK+1188",
+            "159.74% ATK+1280",
+            "169.73% ATK+1376",
+            "179.71% ATK+1476",
+            "189.70% ATK+1580"
+          ]
+        },
+        {
+          "name": "Durasi",
+          "parameters": [
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik"
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "parameters": [
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik"
+          ]
+        },
+        {
+          "name": "Konsumsi Energy",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Someone More Capable",
+      "info": "Saat Sayu berada di medan pertempuran dan memicu reaksi Swirl, Sayu akan memulihkan 300 HP untuk anggota party dan kawan yang ada di sekitar. Sayu juga akan memulihkan 1,2 HP tambahan untuk setiap poin Elemental Mastery yang dimiliki Sayu.\nEfek ini hanya dapat terpicu setiap 2 detik."
+    },
+    "passive2": {
+      "name": "No Work Today!",
+      "info": "Muji-Muji Daruma yang tercipta dari **Yoohoo Art: Mujina Flurry** akan memberikan efek berikut:\n·Saat memulihkan HP Karakter, HP Karakter yang di sekitar juga akan dipulihkan sebanyak 20%;\n·Meningkatkan cakupan area DMG saat menyerang musuh."
+    },
+    "passive3": {
+      "name": "Yoohoo Art: Silencer's Secret",
+      "info": "Saat Sayu berada di dalam party, Crystalfly dan beberapa binatang tertentu yang didekati Karakter dalam party tidak akan kaget dan kabur.\nSilakan menuju bagian Arsip > Makhluk Hidup/Hewan Liar > Lainnya untuk mengecek objek-objek yang dapat dipengaruhi skill ini."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of Light",
+          "count": 3
+        },
+        {
+          "name": "Whopperflower Nectar",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to Light",
+          "count": 2
+        },
+        {
+          "name": "Shimmering Nectar",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to Light",
+          "count": 4
+        },
+        {
+          "name": "Shimmering Nectar",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to Light",
+          "count": 6
+        },
+        {
+          "name": "Shimmering Nectar",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to Light",
+          "count": 9
+        },
+        {
+          "name": "Shimmering Nectar",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of Light",
+          "count": 4
+        },
+        {
+          "name": "Energy Nectar",
+          "count": 4
+        },
+        {
+          "name": "Gilded Scale",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of Light",
+          "count": 6
+        },
+        {
+          "name": "Energy Nectar",
+          "count": 6
+        },
+        {
+          "name": "Gilded Scale",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of Light",
+          "count": 12
+        },
+        {
+          "name": "Energy Nectar",
+          "count": 9
+        },
+        {
+          "name": "Gilded Scale",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of Light",
+          "count": 16
+        },
+        {
+          "name": "Energy Nectar",
+          "count": 12
+        },
+        {
+          "name": "Gilded Scale",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Sayu_01",
+      "combat3": "Skill_E_Sayu_01_HD",
+      "passive1": "UI_Talent_S_Sayu_05",
+      "passive2": "UI_Talent_S_Sayu_06",
+      "passive3": "UI_Talent_S_Sayu_07"
+    },
+    "version": "2.0"
+  }
+}

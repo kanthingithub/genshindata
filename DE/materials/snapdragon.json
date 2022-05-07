@@ -1,0 +1,19 @@
+{
+  "name": "Goldfischkraut",
+  "description": "Zubereitet eine essbare Pflanze. Als würzende Zutat gibt sie deinem Essen das gewisse Etwas.",
+  "sortorder": 1981,
+  "category": "EXCHANGE",
+  "materialtype": "Zutat",
+  "source": [
+    "An Flussufern und Seen zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Snapdragon.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Item_Snapdragon.png",
+    "nameicon": "UI_ItemIcon_100015"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Snapdragon"
+  },
+  "version": ""
+}

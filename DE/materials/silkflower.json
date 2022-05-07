@@ -1,0 +1,21 @@
+{
+  "name": "Seidenblume",
+  "description": "Eine tiefrote Blume wie aus den Regenbogenwolken über Liyue. Man kann aus ihr besonders weiche und glatte Stoffe herstellen.",
+  "sortorder": 2050,
+  "category": "EXCHANGE",
+  "materialtype": "Regionale Besonderheit aus Liyue",
+  "source": [
+    "In der Nähe der Yujing-Terrasse in Liyue zu finden",
+    "In der Nähe des Gasthauses Wangshu zu finden",
+    "Empfohlen: In Liyue zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Silk_Flower.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Item_Silk_Flower.png",
+    "nameicon": "UI_ItemIcon_100029"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Silk_Flower"
+  },
+  "version": ""
+}

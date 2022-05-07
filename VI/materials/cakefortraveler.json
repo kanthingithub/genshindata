@@ -1,0 +1,18 @@
+{
+  "name": "Bánh kem tặng cho Nhà Lữ Hành",
+  "description": "Vật kỷ niệm cho một ngày có ý nghĩa trọng đại nào đó.\n\nTặng cho bạn - người lúc nào cũng bôn ba khắp nơi.\nChúc bạn có một hành trình tốt đẹp và hạnh phúc trên vùng đất này.\n\n\"Cứ 7 ngày sẽ đổi món đề cử 1 lần. Mỗi 30 ngày, mặt trăng sẽ ban tặng lời chúc phúc mới. Vẫn còn gần 9000 giờ nữa mới có thể chúc mừng bạn lần nữa! Ý của đoạn văn trên có lẽ là Paimon sẽ luôn bên cạnh Nhà Lữ Hành đó.\"",
+  "sortorder": 2277,
+  "rarity": "4",
+  "category": "CONSUME",
+  "materialtype": "Vật Phẩm Quý",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_118003",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cake_for_Traveler.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Item_Cake_for_Traveler.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cake_for_Traveler"
+  },
+  "version": ""
+}

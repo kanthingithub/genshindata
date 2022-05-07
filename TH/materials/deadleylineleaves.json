@@ -1,0 +1,22 @@
+{
+  "name": "Dead Ley Line Leaves",
+  "description": "กิ่งไม้ที่แตกสาขาในใต้ดิน แม้มันจะมาไกลจากต้นของมัน แต่ก็ยังคงสัมผัสได้ถึงพลังที่ซ่อนอยู่ และพร้อมที่จะปะทุขึ้นมาได้ทุกเมื่อ",
+  "sortorder": 1739,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ได้รับจากการสรรสร้าง",
+    "ดรอปจาก Abyss Mage Lv.40 ขึ้นไป",
+    "แลกเปลี่ยนด้วย Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dead_Ley_Line_Leaves.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Item_Dead_Ley_Line_Leaves.png",
+    "nameicon": "UI_ItemIcon_112021"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dead_Ley_Line_Leaves"
+  },
+  "version": ""
+}

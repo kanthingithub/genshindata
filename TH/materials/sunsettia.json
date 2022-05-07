@@ -1,0 +1,19 @@
+{
+  "name": "Sunsettia",
+  "description": "ผลไม้ที่มีความงามราวกับตะวันตกดิน ที่ขึ้นอยู่ทุกหนแห่งใน Teyvat ความหอมหวานอันแปลกประหลาด ของมันสามารถเพิ่มพลังให้คนๆนึง ได้มากมาย",
+  "sortorder": 1404,
+  "category": "NOTICE_ADD_HP",
+  "materialtype": "อาหาร",
+  "source": [
+    "พบได้ในโลกกว้าง"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sunsettia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Item_Sunsettia.png",
+    "nameicon": "UI_ItemIcon_100002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sunsettia"
+  },
+  "version": ""
+}

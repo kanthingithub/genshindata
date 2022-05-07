@@ -1,0 +1,24 @@
+{
+  "name": "「抗争」の教え",
+  "description": "天賦育成素材。\n風の国の支柱は抗争である。\nモンドの歴史はすなわち抗争の歴史。モンドの全ての抗争が忘れられないように抗争する、それは草木が土を破り、風が石の壁を穿つと同じである。",
+  "sortorder": 1854,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "天賦育成素材",
+  "dropdomain": "熟知秘境：氷の廃淵",
+  "daysofweek": [
+    "火曜",
+    "金曜",
+    "日曜"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Resistance.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Teachings_of_Resistance.png",
+    "nameicon": "UI_ItemIcon_104304"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Resistance"
+  },
+  "version": ""
+}

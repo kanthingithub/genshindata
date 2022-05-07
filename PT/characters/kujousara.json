@@ -1,0 +1,852 @@
+{
+  "name": "Kujou Sara",
+  "fullname": "Kujou Sara",
+  "title": "Flecha de Penas de Corvo",
+  "description": "General da Comissão Tenryou. Audaciosa, decisiva e habilidosa na batalha.",
+  "rarity": "4",
+  "element": "Electro",
+  "weapontype": "Arco",
+  "substat": "ATQ",
+  "gender": "Feminino",
+  "body": "LADY",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "Comissão Tenryou",
+  "birthdaymmdd": "7/14",
+  "birthday": "14 de julho",
+  "constellation": "Flabellum",
+  "cv": {
+    "english": "Jeannie Tirado",
+    "chinese": "杨梦露",
+    "japanese": "瀬戸麻沙美",
+    "korean": "Moon Ji-young"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Lasca de Ametista Vajrada",
+        "count": 1
+      },
+      {
+        "name": "Dendróbio",
+        "count": 3
+      },
+      {
+        "name": "Máscara Danificada",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de Ametista Vajrada",
+        "count": 3
+      },
+      {
+        "name": "Pérola da Tempestade",
+        "count": 2
+      },
+      {
+        "name": "Dendróbio",
+        "count": 10
+      },
+      {
+        "name": "Máscara Danificada",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de Ametista Vajrada",
+        "count": 6
+      },
+      {
+        "name": "Pérola da Tempestade",
+        "count": 4
+      },
+      {
+        "name": "Dendróbio",
+        "count": 20
+      },
+      {
+        "name": "Máscara Suja",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Pedaço de Ametista Vajrada",
+        "count": 3
+      },
+      {
+        "name": "Pérola da Tempestade",
+        "count": 8
+      },
+      {
+        "name": "Dendróbio",
+        "count": 30
+      },
+      {
+        "name": "Máscara Suja",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Pedaço de Ametista Vajrada",
+        "count": 6
+      },
+      {
+        "name": "Pérola da Tempestade",
+        "count": 12
+      },
+      {
+        "name": "Dendróbio",
+        "count": 45
+      },
+      {
+        "name": "Máscara Ominosa",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Gema de Ametista Vajrada",
+        "count": 6
+      },
+      {
+        "name": "Pérola da Tempestade",
+        "count": 20
+      },
+      {
+        "name": "Dendróbio",
+        "count": 60
+      },
+      {
+        "name": "Máscara Ominosa",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210818/2021081815224386395.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210818/2021081815224926366.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sara.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Sara.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/5ea7bdaf660c0da94ff445221daf483c.png",
+    "nameicon": "UI_AvatarIcon_Sara",
+    "nameiconcard": "UI_AvatarIcon_Sara_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Sara",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Sara",
+    "namesideicon": "UI_AvatarIcon_Side_Sara"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Kujou_Sara"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 802.3760986328125,
+      "attack": 16.383359909057617,
+      "defense": 52.64699935913086,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2061.304201978928,
+      "attack": 42.088851700115356,
+      "defense": 135.25014165485572,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2660.720217603928,
+      "attack": 54.32834793119446,
+      "defense": 174.5801434859104,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 3985.4429835102637,
+      "attack": 81.37727160993654,
+      "defense": 261.50032808080687,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4411.343862416514,
+      "attack": 90.07375522199709,
+      "defense": 289.4453277756311,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5074.106691293244,
+      "attack": 103.60641400674194,
+      "defense": 332.9317604928856,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5641.974489144806,
+      "attack": 115.20172612527222,
+      "defense": 370.19176262911606,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6304.737318021536,
+      "attack": 128.73438491001707,
+      "defense": 413.67819534637056,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6730.638196927786,
+      "attack": 137.43086852207762,
+      "defense": 441.62318741180025,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7392.598325258761,
+      "attack": 150.94713732217224,
+      "defense": 485.056951841465,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7818.499082094699,
+      "attack": 159.64362093423279,
+      "defense": 513.0019591656837,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8481.26152836869,
+      "attack": 173.17627190678286,
+      "defense": 556.4883667788927,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 8907.16240727494,
+      "attack": 181.8727555188434,
+      "defense": 584.4333588443224,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9569.92523615167,
+      "attack": 195.40541430358826,
+      "defense": 627.9197915615769,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "2.1",
+  "constellations": {
+    "c1": {
+      "name": "Olho do Corvo",
+      "effect": "Quando Tengu Juurai concede aos personagens Bônus de ATQ ou acerta oponentes, o Tempo de Recarga da **Invocação da Tempestade Tengu** é diminuído em 1s.\nEste efeito pode ser desencadeado uma vez a cada 3s."
+    },
+    "c2": {
+      "name": "Asas Negras",
+      "effect": "Liberando a **Invocação da Tempestade Tengu** deixará uma Pena do Corvo mais fraca na posição original de Kujou Sara, que causará 30% do seu Dano original."
+    },
+    "c3": {
+      "name": "Guerra Interna",
+      "effect": "Aumenta o Nível de **Subjugação: Koukou Sendou** em 3.\nO nível máximo de elevação é 15."
+    },
+    "c4": {
+      "name": "Prova Conclusiva",
+      "effect": "O número de Tengu Juurai: Aglomerados de Tempestades liberados pela **Subjugação: Koukou Sendou** é aumentada para 6."
+    },
+    "c5": {
+      "name": "Soletrador de Feitiços",
+      "effect": "Aumenta o Nível de **Invocação da Tempestade Tengu** em 3.\nO nível máximo de elevação é 15."
+    },
+    "c6": {
+      "name": "Meu Mundo",
+      "effect": "O Dano Electro dos personagens que tiveram seus ATQs aumentados pelo Tengu Juurai tem seu Dano CRIT aumentado em 60%."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sara_05.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sara_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Sara_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sara_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Sara_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sara_04.png",
+      "constellation": "Eff_UI_Talent_Sara"
+    },
+    "version": "2.1"
+  },
+  "talent": {
+    "name": "Kujou Sara",
+    "combat1": {
+      "name": "Ataque Normal: Tiro com Arco Tengu",
+      "info": "**Ataque Normal**\nRealiza até 5 tiros consecutivos com um arco.\n\n**Ataque Carregado**\nDispara um **Tiro com Mira** mais preciso e com Dano aumentado.\nAo mirar, relâmpagos crepitantes irão se acumular na ponta da flecha. Uma flecha de relâmpago completamente carregada inflige Dano Electro.\n\n**Ataque Imersivo**\nDispara uma chuva de flechas em pleno ar antes de atingir o chão, infligindo Dano em uma AdE durante o impacto.",
+      "attributes": [
+        {
+          "name": "Dano do 1° Golpe",
+          "parameters": [
+            "36.89%",
+            "39.90%",
+            "42.90%",
+            "47.19%",
+            "50.19%",
+            "53.62%",
+            "58.34%",
+            "63.06%",
+            "67.78%",
+            "72.93%",
+            "78.08%",
+            "83.23%",
+            "88.37%",
+            "93.52%",
+            "98.67%"
+          ]
+        },
+        {
+          "name": "Dano do 2° Golpe",
+          "parameters": [
+            "38.70%",
+            "41.85%",
+            "45.00%",
+            "49.50%",
+            "52.65%",
+            "56.25%",
+            "61.20%",
+            "66.15%",
+            "71.10%",
+            "76.50%",
+            "81.90%",
+            "87.30%",
+            "92.70%",
+            "98.10%",
+            "103.50%"
+          ]
+        },
+        {
+          "name": "Dano do 3° Golpe",
+          "parameters": [
+            "48.50%",
+            "52.45%",
+            "56.40%",
+            "62.04%",
+            "65.99%",
+            "70.50%",
+            "76.70%",
+            "82.91%",
+            "89.11%",
+            "95.88%",
+            "102.65%",
+            "109.42%",
+            "116.18%",
+            "122.95%",
+            "129.72%"
+          ]
+        },
+        {
+          "name": "Dano do 4° Golpe",
+          "parameters": [
+            "50.40%",
+            "54.50%",
+            "58.60%",
+            "64.46%",
+            "68.56%",
+            "73.25%",
+            "79.70%",
+            "86.14%",
+            "92.59%",
+            "99.62%",
+            "106.65%",
+            "113.68%",
+            "120.72%",
+            "127.75%",
+            "134.78%"
+          ]
+        },
+        {
+          "name": "Dano do 5° Golpe",
+          "parameters": [
+            "58.05%",
+            "62.77%",
+            "67.50%",
+            "74.25%",
+            "78.97%",
+            "84.38%",
+            "91.80%",
+            "99.23%",
+            "106.65%",
+            "114.75%",
+            "122.85%",
+            "130.95%",
+            "139.05%",
+            "147.15%",
+            "155.25%"
+          ]
+        },
+        {
+          "name": "Disparo com Mira",
+          "parameters": [
+            "43.86%",
+            "47.43%",
+            "51.00%",
+            "56.10%",
+            "59.67%",
+            "63.75%",
+            "69.36%",
+            "74.97%",
+            "80.58%",
+            "86.70%",
+            "92.82%",
+            "98.94%",
+            "105.06%",
+            "111.18%",
+            "117.30%"
+          ]
+        },
+        {
+          "name": "Disparo com Mira com Energização Completa",
+          "parameters": [
+            "124.00%",
+            "133.30%",
+            "142.60%",
+            "155.00%",
+            "164.30%",
+            "173.60%",
+            "186.00%",
+            "198.40%",
+            "210.80%",
+            "223.20%",
+            "235.60%",
+            "248.00%",
+            "263.50%",
+            "279.00%",
+            "294.50%"
+          ]
+        },
+        {
+          "name": "Dano Durante a Queda",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "Dano de Queda de Alta/Baixa Altitude",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Tempestade Tengu",
+      "info": "Retira-se rapidamente com a velocidade de um tengu, invocando a proteção da Pena do Corvo.\nGanha a Proteção da Pena do Corvo por 18s, e quando a Kujou Sara dispara um tiro com mira totalmente carregada, a Proteção da Pena do Corvo será consumida, e deixará uma Pena do Corvo no local alvo.\nAs Penas do Corvo desencadearão o Tengu Juurai: Emboscada após um curto período de tempo, causando Dano Electro e concedendo ao personagem ativo um Bônus de ATQ baseado no ATQ Base de Kujou Sara dentro da AdE do campo atual.",
+      "description": "À raça tengu nunca faltaram talentos excepcionais que tenham recebido uma Visão Electro. É que eles costumam fazer cânticos à Arconte Electro enquanto manipulam o Electro. Os cânticos são mais ou menos assim\n\"Mostre sua força, ó louvável Narukami, e conceda a este suplicante sua força trovejante! Sowaka!\"",
+      "attributes": [
+        {
+          "name": "Dano do Tengu Juurai: Emboscada",
+          "parameters": [
+            "125.76%",
+            "135.19%",
+            "144.62%",
+            "157.20%",
+            "166.63%",
+            "176.06%",
+            "188.64%",
+            "201.22%",
+            "213.79%",
+            "226.37%",
+            "238.94%",
+            "251.52%",
+            "267.24%",
+            "282.96%",
+            "298.68%"
+          ]
+        },
+        {
+          "name": "Taxa de Bônus de ATQ",
+          "parameters": [
+            "42.96%",
+            "46.18%",
+            "49.40%",
+            "53.70%",
+            "56.92%",
+            "60.14%",
+            "64.44%",
+            "68.74%",
+            "73.03%",
+            "77.33%",
+            "81.62%",
+            "85.92%",
+            "91.29%",
+            "96.66%",
+            "102.03%"
+          ]
+        },
+        {
+          "name": "Duração do Bônus de ATQ",
+          "parameters": [
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s"
+          ]
+        },
+        {
+          "name": "Tempo de Recarga",
+          "parameters": [
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Subjugação: Koukou Sendou",
+      "info": "Lança um Tengu Juurai: Destruidor de Titãs, causando Dano Electro em uma AdE. Depois disso, Tengu Juurai: Destruidor de Titãs irá se espalhar em 4 Tengu Juurai: Aglomerado de Tempestades consecutivos, causando Dano Electro em uma AdE.\nTengu Juurai: Destruidor de Titãs e Tengu Juurai: Aglomerado de Tempestades permitirá que o personagem ativo receba o mesmo Bônus de ATQ que receberia durante a Habilidade Elemental dentro da AdE do campo atual, Invocação da Tempestade Tengu.\n\nO Bônus de ATQ fornecido por vários tipos de Tengu Juurai não será acumulado, e seus efeitos e duração serão determinados pelo último Tengu Juurai a entrar em vigor.",
+      "description": "Sara abandonou seu povo, os tengu, e também perdeu temporariamente sua fé na Comissão Tenryou. Mas uma vez que as nuvens sobre seu coração se dissiparam, ela encontrou de novo seu próprio relâmpago.",
+      "attributes": [
+        {
+          "name": "Dano do Tengu Juurai: Destruidor de Titãs",
+          "parameters": [
+            "409.60%",
+            "440.32%",
+            "471.04%",
+            "512.00%",
+            "542.72%",
+            "573.44%",
+            "614.40%",
+            "655.36%",
+            "696.32%",
+            "737.28%",
+            "778.24%",
+            "819.20%",
+            "870.40%",
+            "921.60%",
+            "972.80%"
+          ]
+        },
+        {
+          "name": "Dano do Tengu Juurai: Aglomerado de Tempestades",
+          "parameters": [
+            "34.12%",
+            "36.68%",
+            "39.24%",
+            "42.65%",
+            "45.21%",
+            "47.77%",
+            "51.18%",
+            "54.59%",
+            "58.00%",
+            "61.42%",
+            "64.83%",
+            "68.24%",
+            "72.50%",
+            "76.77%",
+            "81.04%"
+          ]
+        },
+        {
+          "name": "Tempo de Recarga",
+          "parameters": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "name": "Energia Elemental",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Imovível",
+      "info": "Enquanto estiver no estado de Proteção da Pena do Corvo concedido pela **Invocação da Tempestade Tengu**, o tempo do Disparo com Mira é reduzido em 60%."
+    },
+    "passive2": {
+      "name": "Decorum",
+      "info": "Quando Tengu Juurai: Emboscada atinge os oponentes, Kujou Sara irá restaurar 1.2 de Energia para todos os membros da equipe para cada 100% de Recarga de Energia que ela tiver. Este efeito pode ser acionado uma vez a cada 3s."
+    },
+    "passive3": {
+      "name": "Pesquisa de Terreno",
+      "info": "Quando despachada em uma expedição em Inazuma, o tempo consumido é reduzido em 25%"
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Ensinamentos de Cultura",
+          "count": 3
+        },
+        {
+          "name": "Máscara Danificada",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guia da Cultura",
+          "count": 2
+        },
+        {
+          "name": "Máscara Suja",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guia da Cultura",
+          "count": 4
+        },
+        {
+          "name": "Máscara Suja",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guia da Cultura",
+          "count": 6
+        },
+        {
+          "name": "Máscara Suja",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guia da Cultura",
+          "count": 9
+        },
+        {
+          "name": "Máscara Suja",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofia da Cultura",
+          "count": 4
+        },
+        {
+          "name": "Máscara Ominosa",
+          "count": 4
+        },
+        {
+          "name": "Coração das Cinzas",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofia da Cultura",
+          "count": 6
+        },
+        {
+          "name": "Máscara Ominosa",
+          "count": 6
+        },
+        {
+          "name": "Coração das Cinzas",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofia da Cultura",
+          "count": 12
+        },
+        {
+          "name": "Máscara Ominosa",
+          "count": 9
+        },
+        {
+          "name": "Coração das Cinzas",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofia da Cultura",
+          "count": 16
+        },
+        {
+          "name": "Máscara Ominosa",
+          "count": 12
+        },
+        {
+          "name": "Coração das Cinzas",
+          "count": 2
+        },
+        {
+          "name": "Coroa da Sabedoria",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_02",
+      "combat2": "Skill_S_Sara_01",
+      "combat3": "Skill_E_Sara_01_HD",
+      "passive1": "UI_Talent_S_Sara_01",
+      "passive2": "UI_Talent_S_Sara_06",
+      "passive3": "UI_Talent_S_Sara_07"
+    },
+    "version": "2.1"
+  }
+}

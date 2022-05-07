@@ -1,0 +1,18 @@
+{
+  "name": "Hạt Nhân Ánh Sáng",
+  "description": "Hòn đá kỳ lạ đã tìm thấy được khi thám hiểm Enkanomiya đang bị sương đen bao phủ.\nĐể chiến đấu với Vực Sâu, Lãnh Địa Ánh Sáng đã cung cấp thêm sự trợ giúp cho con người.",
+  "sortorder": 1218,
+  "rarity": "4",
+  "category": "CONSUME",
+  "materialtype": "Vật Phẩm Tiêu Hao",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_101693",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Light_Realm_Core.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Item_Light_Realm_Core.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Light_Realm_Core"
+  },
+  "version": ""
+}

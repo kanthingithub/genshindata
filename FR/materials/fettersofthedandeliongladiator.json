@@ -1,0 +1,26 @@
+{
+  "name": "Entraves du Chevalier du Croc de Lion",
+  "description": "Matériau d'élévation d'arme.\nLes humains aiment exagérer les exploits de leurs héros, au point de faire de simples entraves de véritables ennemis de la liberté.\nCelles-ci ont été donc bénies par des pouvoirs extraordinaires pour cette raison.",
+  "sortorder": 2191,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'élévation d'arme",
+  "dropdomain": "Donjon d'entraînement : Capitale assoiffée",
+  "daysofweek": [
+    "Mercredi",
+    "Samedi",
+    "Dimanche"
+  ],
+  "source": [
+    "Boutique de souvenirs de Mondstadt"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fetters_of_the_Dandelion_Gladiator.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Item_Fetters_of_the_Dandelion_Gladiator.png",
+    "nameicon": "UI_ItemIcon_114009"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fetters_of_the_Dandelion_Gladiator"
+  },
+  "version": ""
+}

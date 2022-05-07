@@ -1,0 +1,19 @@
+{
+  "name": "Poisson",
+  "description": "Un filet de poisson frais. Bien préparé, on peut en faire un plat aussi riche que savoureux.",
+  "sortorder": 2001,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrédient",
+  "source": [
+    "Butin de poisson"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fish.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Item_Fish.png",
+    "nameicon": "UI_ItemIcon_100084"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fish"
+  },
+  "version": ""
+}

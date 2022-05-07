@@ -1,0 +1,21 @@
+{
+  "name": "ไม้ Yumemiru",
+  "description": "ไม้จาก \"ต้น Sakura\" มีพื้นผิวที่เรียบเนียนและอุดมไปด้วยความชื้น ได้ยินมาว่าสามารถทำให้ผู้คนฝันถึงฤดูใบไม้ผลิอันแสนอบอุ่นได้\nสามารถนำมาใช้สร้างเฟอร์นิเจอร์ได้",
+  "sortorder": 1943,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "วัสดุ",
+  "source": [
+    "พบได้ในโลกกว้าง",
+    "แนะนำ: ตัดบริเวณเกาะ Narukami"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Yumemiru_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/61/Item_Yumemiru_Wood.png",
+    "nameicon": "UI_ItemIcon_101309"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Yumemiru_Wood"
+  },
+  "version": ""
+}

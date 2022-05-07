@@ -1,0 +1,20 @@
+{
+  "name": "Пшеница",
+  "description": "Золотые колосья пшеницы. Перед употреблением в пищу необходимо перемолоть в муку, а муку замесить в тесто.",
+  "sortorder": 1983,
+  "category": "EXCHANGE",
+  "materialtype": "Кухонный ингредиент",
+  "source": [
+    "Дикая природа",
+    "Торговые лавки"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wheat.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Item_Wheat.png",
+    "nameicon": "UI_ItemIcon_100017"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Wheat"
+  },
+  "version": ""
+}

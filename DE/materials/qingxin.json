@@ -1,0 +1,21 @@
+{
+  "name": "Qingxin",
+  "description": "Eine Blume mit weißen, fast durchsichtigen Blüten, die nur auf hohen Gipfeln wächst. Sie kann nichts mit der Wärme und Feuchtigkeit der tieferen Ebenen anfangen und zieht es vor, auf den eisigen Gipfeln der Berge in die Ferne zu schauen.",
+  "sortorder": 2052,
+  "category": "EXCHANGE",
+  "materialtype": "Regionale Besonderheit aus Liyue",
+  "source": [
+    "Hoch oben auf Felsformationen zu finden",
+    "Empfohlen: Im Jueyun-Karst zu finden",
+    "Empfohlen: Bei den Guyun-Türmen zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Qingxin.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Item_Qingxin.png",
+    "nameicon": "UI_ItemIcon_100031"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Qingxin"
+  },
+  "version": ""
+}

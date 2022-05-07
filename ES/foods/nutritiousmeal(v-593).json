@@ -1,0 +1,36 @@
+{
+  "name": "Comida nutritiva (versión n.º 593)",
+  "rarity": "3",
+  "foodtype": "SPECIALTY",
+  "foodfilter": "Platos que regeneran Vida",
+  "foodcategory": "Recovery_Revive",
+  "effect": "Revive a un personaje y restaura un 20% de la Vida Máx. más 1500 pts. de Vida adicionales.",
+  "description": "La especialidad de Sacarosa. Al principio parece un producto alquímico extraño, pero Sacarosa insiste en que es un alimento saludable y nutritivo, producto de muchos experimentos y mejoras minuciosas. Su color verde saludable proviene de una mezcla de crema y jugos de vegetales naturales... Espera, ¿jugos de vegetales?",
+  "basedish": "Asado mar y montaña",
+  "character": "Sacarosa",
+  "ingredients": [
+    {
+      "name": "Huevas de cangrejo",
+      "count": 1
+    },
+    {
+      "name": "Jamón",
+      "count": 1
+    },
+    {
+      "name": "Crema batida",
+      "count": 1
+    },
+    {
+      "name": "Repollo",
+      "count": 1
+    }
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_108146"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Nutritious_Meal_(V.593)"
+  },
+  "version": "1.0"
+}

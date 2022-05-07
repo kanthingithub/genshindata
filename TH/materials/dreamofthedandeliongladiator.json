@@ -1,0 +1,26 @@
+{
+  "name": "Dream of Dandelion Gladiator",
+  "description": "วัสดุเลื่อนขั้นอาวุธ\nVennessa นั้นหลุดจากการเป็นทาส ผลที่ได้คือสิ่งที่รั้งเธอไว้นั้นกลับใหญ่โตขึ้นเรื่อยๆ: จากชนเผ่ากลับกลายเป็น Mondstadt ทั้งเมือง ถึงขั้นเปลี่ยนเป็น “อิสรภาพ” มาจนถึงโลกแห่งนี้ \nสิ่งที่เธอหวังอย่างแท้จริง: แค่ให้โลกนี้เข้มแข็งขึ้นมาอีกสักนิดก็ยังดี",
+  "sortorder": 2194,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุเลื่อนขั้นอาวุธ",
+  "dropdomain": "ดันเจี้ยนแห่งการต่อสู้: เมืองร้างที่กระหายน้ำ",
+  "daysofweek": [
+    "วันพุธ",
+    "วันเสาร์",
+    "วันอาทิตย์"
+  ],
+  "source": [
+    "ได้รับจากการสรรสร้าง"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dream_of_the_Dandelion_Gladiator.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Item_Dream_of_the_Dandelion_Gladiator.png",
+    "nameicon": "UI_ItemIcon_114012"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dream_of_the_Dandelion_Gladiator"
+  },
+  "version": ""
+}

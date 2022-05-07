@@ -1,0 +1,24 @@
+{
+  "name": "Мудрость Наруками",
+  "description": "Материал возвышения оружия.\nВ прошлом древние взбирались на вершину, теперь известную как гора Ёго, чтобы согнуть испепелённое молнией дерево в крюк и приподнести его в качестве статуи силе, которая молниями озаряла небо и раскатами грома сотрясала землю. Со временем он стал символом «Электро мицудомоэ», обозначающим благоволение, мудрость и могущество Электро, равно как и представляющих эти ценности людей.",
+  "sortorder": 2211,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Возвышение оружия",
+  "dropdomain": "Воля: Песчаный алтарь",
+  "daysofweek": [
+    "Вторник",
+    "Пятница",
+    "Воскресенье"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Narukami's_Wisdom.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Item_Narukami%27s_Wisdom.png",
+    "nameicon": "UI_ItemIcon_114029"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Narukami's_Wisdom"
+  },
+  "version": ""
+}

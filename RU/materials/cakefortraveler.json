@@ -1,0 +1,18 @@
+{
+  "name": "Тортик для тебя",
+  "description": "Сувенир, оставшийся после одного особенного дня.\n\nЭто тебе, о самый занятой из всех людей! Желаю тебе счастливого путешествия по этому огромному миру.\n\n«Меню ресторана обновляется раз в семь дней. Луна посылает новые благословения раз в месяц. А вот чтобы снова отпраздновать этот день, нам придётся прождать почти целых девять тысяч часов! «Нам» - потому что, конечно же, Паймон обязательно составит тебе компанию!»",
+  "sortorder": 2277,
+  "rarity": "4",
+  "category": "CONSUME",
+  "materialtype": "Особый предмет",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_118003",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cake_for_Traveler.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Item_Cake_for_Traveler.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cake_for_Traveler"
+  },
+  "version": ""
+}

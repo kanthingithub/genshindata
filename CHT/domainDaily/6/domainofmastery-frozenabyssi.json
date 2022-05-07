@@ -1,0 +1,166 @@
+{
+  "name": "精通秘境：冰封廢淵",
+  "region": "蒙德",
+  "domainEntrance": "忘卻之峽",
+  "domainType": "天賦培養素材",
+  "description": "這座寒冷的古代祭祀場中，聚積了大量的冰元素之力。\n其中刺骨的霜寒使人的舉步維艱。\n若能通過其中的試煉，或許能獲得令人天賦成長的物質。",
+  "daysOfWeek": [
+    "週二",
+    "週五",
+    "週日"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Ice"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "精通秘境：冰封廢淵 I",
+      "recommendedLevel": 38,
+      "recommendedElements": [
+        "雷元素",
+        "火元素"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "冒險閱歷",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 1575
+        },
+        {
+          "name": "好感經驗",
+          "count": 15
+        },
+        {
+          "name": "「抗爭」的教導"
+        }
+      ],
+      "disorder": [
+        "週期性對角色施加「凝結之冰」：在附著的冰元素消除之前，體力消耗大幅增加。"
+      ],
+      "monsterlist": [
+        "冰史萊姆",
+        "大型冰史萊姆",
+        "冰深淵法師"
+      ]
+    },
+    {
+      "name": "精通秘境：冰封廢淵 II",
+      "recommendedLevel": 54,
+      "recommendedElements": [
+        "雷元素",
+        "火元素"
+      ],
+      "unlockRank": 28,
+      "rewardPreview": [
+        {
+          "name": "冒險閱歷",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 1800
+        },
+        {
+          "name": "好感經驗",
+          "count": 15
+        },
+        {
+          "name": "「抗爭」的教導"
+        },
+        {
+          "name": "「抗爭」的指引"
+        }
+      ],
+      "disorder": [
+        "週期性對角色施加「凝結之冰」：在附著的冰元素消除之前，體力消耗大幅增加。"
+      ],
+      "monsterlist": [
+        "冰史萊姆",
+        "大型冰史萊姆",
+        "打手丘丘人",
+        "冰深淵法師"
+      ]
+    },
+    {
+      "name": "精通秘境：冰封廢淵 III",
+      "recommendedLevel": 71,
+      "recommendedElements": [
+        "雷元素",
+        "火元素"
+      ],
+      "unlockRank": 36,
+      "rewardPreview": [
+        {
+          "name": "冒險閱歷",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 2050
+        },
+        {
+          "name": "好感經驗",
+          "count": 20
+        },
+        {
+          "name": "「抗爭」的教導"
+        },
+        {
+          "name": "「抗爭」的指引"
+        }
+      ],
+      "disorder": [
+        "週期性為角色施加「凝結之冰」：在附著的冰元素消除之前，體力消耗大幅增加；場景中會隨機落下冰柱，造成冰元素傷害。"
+      ],
+      "monsterlist": [
+        "冰史萊姆",
+        "大型冰史萊姆",
+        "冰深淵法師"
+      ]
+    },
+    {
+      "name": "精通秘境：冰封廢淵 IV",
+      "recommendedLevel": 88,
+      "recommendedElements": [
+        "雷元素",
+        "火元素"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "冒險閱歷",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 2375
+        },
+        {
+          "name": "好感經驗",
+          "count": 20
+        },
+        {
+          "name": "「抗爭」的教導"
+        },
+        {
+          "name": "「抗爭」的指引"
+        },
+        {
+          "name": "「抗爭」的哲學"
+        }
+      ],
+      "disorder": [
+        "週期性為角色施加「凝結之冰」：在附著的冰元素消除之前，體力消耗大幅增加；場景中會隨機落下冰柱，造成冰元素傷害。"
+      ],
+      "monsterlist": [
+        "大型冰史萊姆",
+        "冰深淵法師"
+      ]
+    }
+  ]
+}

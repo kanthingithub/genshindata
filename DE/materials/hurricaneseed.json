@@ -1,0 +1,20 @@
+{
+  "name": "Orkansamen",
+  "description": "Die konzentrierte Form einer Anemo-Hypostase, nachdem sie besiegt worden ist. In ihr steckt pure Anemo-Kraft.\nMan sagt, dass der Flügelschlag eines Schmetterlings die Kraft birgt, einen ganzen Orkan auszulösen. Dieser Schmetterling, der aus reiner Anemo-Kraft besteht, wartet gewiss auf den Tag, an dem er erneut einen Sturm entfachen kann.",
+  "sortorder": 1783,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Beute von Anemo-Hypostasen ab Stufe 30"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Hurricane_Seed.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Item_Hurricane_Seed.png",
+    "nameicon": "UI_ItemIcon_113001"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Hurricane_Seed"
+  },
+  "version": ""
+}

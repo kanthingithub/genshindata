@@ -1,0 +1,26 @@
+{
+  "name": "Piece of Aerosiderite",
+  "description": "Material Ascension Senjata.\nRumor mengenai monster laut adalah hal biasa di Liyue, karena pantai lainnya adalah wilayah tak dikenal yang terletak di luar Teyvat. Tanpa perlindungan dari The Seven, semua yang ada di luar adalah kekacauan yang tidak diketahui. Hanya kekuatan di luar Teyvat yang mampu menodai kekuatan Rex Lapis.",
+  "sortorder": 2204,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Ascension Senjata",
+  "dropdomain": "Domain of Forgery: Ujian Tantangan Guntur",
+  "daysofweek": [
+    "Rabu",
+    "Sabtu",
+    "Minggu"
+  ],
+  "source": [
+    "Didapatkan melalui Craft"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Piece_of_Aerosiderite.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Item_Piece_of_Aerosiderite.png",
+    "nameicon": "UI_ItemIcon_114022"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Piece_of_Aerosiderite"
+  },
+  "version": ""
+}

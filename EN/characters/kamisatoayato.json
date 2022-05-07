@@ -1,0 +1,951 @@
+{
+  "name": "Kamisato Ayato",
+  "fullname": "Kamisato Ayato",
+  "title": "Pillar of Fortitude",
+  "description": "The young but highly accomplished head of the Yashiro Commission's Kamisato Clan. Cultured and polite, he is a man of many ways and means.",
+  "rarity": "5",
+  "element": "Hydro",
+  "weapontype": "Sword",
+  "substat": "CRIT DMG",
+  "gender": "Male",
+  "body": "MALE",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "Yashiro Commission",
+  "birthdaymmdd": "3/26",
+  "birthday": "March 26",
+  "constellation": "Cypressus Custos",
+  "cv": {
+    "english": "Chris Hackney",
+    "chinese": "赵路",
+    "japanese": "石田彰",
+    "korean": "Jang Min-hyeok"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Varunada Lazurite Sliver",
+        "count": 1
+      },
+      {
+        "name": "Sakura Bloom",
+        "count": 3
+      },
+      {
+        "name": "Old Handguard",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Varunada Lazurite Fragment",
+        "count": 3
+      },
+      {
+        "name": "Dew of Repudiation",
+        "count": 2
+      },
+      {
+        "name": "Sakura Bloom",
+        "count": 10
+      },
+      {
+        "name": "Old Handguard",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Varunada Lazurite Fragment",
+        "count": 6
+      },
+      {
+        "name": "Dew of Repudiation",
+        "count": 4
+      },
+      {
+        "name": "Sakura Bloom",
+        "count": 20
+      },
+      {
+        "name": "Kageuchi Handguard",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Varunada Lazurite Chunk",
+        "count": 3
+      },
+      {
+        "name": "Dew of Repudiation",
+        "count": 8
+      },
+      {
+        "name": "Sakura Bloom",
+        "count": 30
+      },
+      {
+        "name": "Kageuchi Handguard",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Varunada Lazurite Chunk",
+        "count": 6
+      },
+      {
+        "name": "Dew of Repudiation",
+        "count": 12
+      },
+      {
+        "name": "Sakura Bloom",
+        "count": 45
+      },
+      {
+        "name": "Famed Handguard",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Varunada Lazurite Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Dew of Repudiation",
+        "count": 20
+      },
+      {
+        "name": "Sakura Bloom",
+        "count": 60
+      },
+      {
+        "name": "Famed Handguard",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_AvatarIcon_Ayato",
+    "nameiconcard": "UI_AvatarIcon_Ayato_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Ayato",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Ayato",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png",
+    "namesideicon": "UI_AvatarIcon_Side_Ayato",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ayato.png",
+    "cover1": "https://webstatic-sea.hoyoverse.com/upload/contentweb/2022/03/22/ccfce868ab7a930170b38b51347043a6_3309809781103300675.png",
+    "cover2": "https://webstatic-sea.hoyoverse.com/upload/contentweb/2022/03/22/96591f9444dd31afa795df741b890d48_4501703369399728.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Kamisato_Ayato"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1067.7183837890625,
+      "attack": 23.274999618530273,
+      "defense": 59.83000183105469,
+      "specialized": 0.5
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2769.6615954839217,
+      "attack": 60.37535136332508,
+      "defense": 155.19903079793949,
+      "specialized": 0.5
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3685.133580347203,
+      "attack": 80.33010142436024,
+      "defense": 206.49903003500003,
+      "specialized": 0.5
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5514.135234909714,
+      "attack": 120.2001771471023,
+      "defense": 308.98782670921355,
+      "specialized": 0.5
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 6164.602214890183,
+      "attack": 134.37855239124292,
+      "defense": 345.437827472153,
+      "specialized": 0.596000000834465
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 7092.449445599632,
+      "attack": 154.60452608308788,
+      "defense": 397.43009655277274,
+      "specialized": 0.596000000834465
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7959.738752240257,
+      "attack": 173.50902513704295,
+      "defense": 446.03010265628836,
+      "specialized": 0.69200000166893
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8897.195261044777,
+      "attack": 193.94446974124912,
+      "defense": 498.56083125465375,
+      "specialized": 0.69200000166893
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9547.662057919777,
+      "attack": 208.122848800087,
+      "defense": 535.0108282028959,
+      "specialized": 0.69200000166893
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 10493.660712950805,
+      "attack": 228.744502102375,
+      "defense": 588.0202191827775,
+      "specialized": 0.69200000166893
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 11144.12775396643,
+      "attack": 242.92287734651563,
+      "defense": 624.4702161310197,
+      "specialized": 0.7879999876022339
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 12100.803328088892,
+      "attack": 263.7772748738289,
+      "defense": 678.0778922940444,
+      "specialized": 0.7879999876022339
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12751.270124963892,
+      "attack": 277.955642488575,
+      "defense": 714.5278892422866,
+      "specialized": 0.8840000033378601
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 13715.420204316499,
+      "attack": 298.97297540130603,
+      "defense": 768.55440212143,
+      "specialized": 0.8840000033378601
+    }
+  },
+  "version": "2.6",
+  "constellations": {
+    "c1": {
+      "name": "Kyouka Fuushi",
+      "effect": "**Shunsuiken** DMG is increased by 40% against opponents with 50% HP or less."
+    },
+    "c2": {
+      "name": "World Source",
+      "effect": "**Namisen**'s maximum stack count is increased to 5. When Kamisato Ayato has at least 3 Namisen stacks, his Max HP is increased by 50%."
+    },
+    "c3": {
+      "name": "To Admire the Flowers",
+      "effect": "Increases the Level of **Kamisato Art: Kyouka** by 3.\nMaximum upgrade level is 15."
+    },
+    "c4": {
+      "name": "Endless Flow",
+      "effect": "After using **Kamisato Art: Suiyuu**, all nearby party members will have 15% increased Normal Attack SPD for 15s."
+    },
+    "c5": {
+      "name": "Bansui Ichiro",
+      "effect": "Increases the Level of **Kamisato Art: Suiyuu** by 3.\nMaximum upgrade level is 15."
+    },
+    "c6": {
+      "name": "Boundless Origin",
+      "effect": "After using **Kamisato Art: Kyouka**, Ayato's next Shunsuiken attack will create 2 extra Shunsuiken strikes when they hit opponents, each one dealing 450% of Ayato's ATK as DMG.\nBoth these Shunsuiken attacks will not be affected by Namisen."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ayato_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ayato_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Ayato_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ayato_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Ayato_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ayato_04.png",
+      "constellation": "Eff_UI_Talent_Ayato"
+    },
+    "version": "2.6"
+  },
+  "talent": {
+    "name": "Kamisato Ayato",
+    "combat1": {
+      "name": "Normal Attack: Kamisato Art - Marobashi",
+      "info": "**Normal Attack**\nPerform up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to dash forward and perform an iai.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "attributes": [
+        {
+          "name": "1-Hit DMG",
+          "parameters": [
+            "44.96%",
+            "48.62%",
+            "52.28%",
+            "57.51%",
+            "61.17%",
+            "65.35%",
+            "71.10%",
+            "76.85%",
+            "82.60%",
+            "88.88%",
+            "95.15%",
+            "101.43%",
+            "107.70%",
+            "113.97%",
+            "120.25%"
+          ]
+        },
+        {
+          "name": "2-Hit DMG",
+          "parameters": [
+            "47.16%",
+            "51.00%",
+            "54.83%",
+            "60.32%",
+            "64.16%",
+            "68.54%",
+            "74.57%",
+            "80.61%",
+            "86.64%",
+            "93.22%",
+            "99.80%",
+            "106.38%",
+            "112.96%",
+            "119.54%",
+            "126.12%"
+          ]
+        },
+        {
+          "name": "3-Hit DMG",
+          "parameters": [
+            "58.61%",
+            "63.38%",
+            "68.15%",
+            "74.97%",
+            "79.74%",
+            "85.19%",
+            "92.69%",
+            "100.19%",
+            "107.68%",
+            "115.86%",
+            "124.04%",
+            "132.22%",
+            "140.40%",
+            "148.58%",
+            "156.75%"
+          ]
+        },
+        {
+          "name": "4-Hit DMG",
+          "parameters": [
+            "29.45%×2",
+            "31.85%×2",
+            "34.24%×2",
+            "37.67%×2",
+            "40.06%×2",
+            "42.80%×2",
+            "46.57%×2",
+            "50.34%×2",
+            "54.10%×2",
+            "58.21%×2",
+            "62.32%×2",
+            "66.43%×2",
+            "70.54%×2",
+            "74.65%×2",
+            "78.76%×2"
+          ]
+        },
+        {
+          "name": "5-Hit DMG",
+          "parameters": [
+            "75.60%",
+            "81.76%",
+            "87.91%",
+            "96.70%",
+            "102.86%",
+            "109.89%",
+            "119.56%",
+            "129.23%",
+            "138.90%",
+            "149.45%",
+            "160.00%",
+            "170.55%",
+            "181.10%",
+            "191.65%",
+            "202.20%"
+          ]
+        },
+        {
+          "name": "Charged Attack DMG",
+          "parameters": [
+            "129.53%",
+            "140.07%",
+            "150.62%",
+            "165.68%",
+            "176.22%",
+            "188.27%",
+            "204.84%",
+            "221.41%",
+            "237.97%",
+            "256.05%",
+            "274.12%",
+            "292.19%",
+            "310.27%",
+            "328.34%",
+            "346.42%"
+          ]
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "parameters": [
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "name": "Plunge DMG",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "Low/High Plunge DMG",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Kamisato Art: Kyouka",
+      "info": "Kamisato Ayato shifts positions and enters the Takimeguri Kanka state.\nAfter this shift, he will leave a watery illusion at his original location. After it is formed, the watery illusion will explode if opponents are nearby or after its duration ends, dealing AoE Hydro DMG.\n\n**Takimeguri Kanka**\nIn this state, Kamisato Ayato uses his Shunsuiken to engage in blindingly fast attacks, causing DMG from his Normal Attacks to be converted into AoE Hydro DMG. This cannot be overridden.\nIt also has the following properties:\n·After a Shunsuiken attack hits an opponent, it will grant Ayato the Namisen effect, increasing the DMG dealt by Shunsuiken based on Ayato's current Max HP. The initial maximum number of Namisen stacks is 4, and 1 stack can be gained through Shunsuiken every 0.1s. This effect will be dispelled when Takimeguri Kanka ends.\n·Kamisato Ayato's resistance to interruption is increased.\n·Unable to use Charged or Plunging Attacks.\n\nTakimeguri Kanka will be cleared when Ayato leaves the field. Using Kamisato Art: Kyouka again while in the Takimeguri Kanka state will reset and replace the pre-existing state.",
+      "description": "\"When, I wonder, did you come under the illusion that you were winning?\"\n— Ayato is like this in both matter of martial prowess and political intrigue, but to preserve the dignity of his fellow Commissioners, he does not say such things to them. As such, only Thoma, Itto, and Ayaka have ever heard this line.",
+      "attributes": [
+        {
+          "name": "Shunsuiken 1-Hit DMG",
+          "parameters": [
+            "52.89%",
+            "57.20%",
+            "61.50%",
+            "67.65%",
+            "71.96%",
+            "76.88%",
+            "83.64%",
+            "90.40%",
+            "97.17%",
+            "104.55%",
+            "111.93%",
+            "119.31%",
+            "126.69%",
+            "134.07%",
+            "141.45%"
+          ]
+        },
+        {
+          "name": "Shunsuiken 2-Hit DMG",
+          "parameters": [
+            "58.91%",
+            "63.70%",
+            "68.50%",
+            "75.35%",
+            "80.15%",
+            "85.62%",
+            "93.16%",
+            "100.70%",
+            "108.23%",
+            "116.45%",
+            "124.67%",
+            "132.89%",
+            "141.11%",
+            "149.33%",
+            "157.55%"
+          ]
+        },
+        {
+          "name": "Shunsuiken 3-Hit DMG",
+          "parameters": [
+            "64.93%",
+            "70.21%",
+            "75.50%",
+            "83.05%",
+            "88.34%",
+            "94.38%",
+            "102.68%",
+            "110.99%",
+            "119.29%",
+            "128.35%",
+            "137.41%",
+            "146.47%",
+            "155.53%",
+            "164.59%",
+            "173.65%"
+          ]
+        },
+        {
+          "name": "Takimeguri Kanka Duration",
+          "parameters": [
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s"
+          ]
+        },
+        {
+          "name": "Namisen DMG Bonus",
+          "parameters": [
+            "0.56%Max HP/Stack",
+            "0.61%Max HP/Stack",
+            "0.65%Max HP/Stack",
+            "0.72%Max HP/Stack",
+            "0.76%Max HP/Stack",
+            "0.82%Max HP/Stack",
+            "0.89%Max HP/Stack",
+            "0.96%Max HP/Stack",
+            "1.03%Max HP/Stack",
+            "1.11%Max HP/Stack",
+            "1.19%Max HP/Stack",
+            "1.27%Max HP/Stack",
+            "1.34%Max HP/Stack",
+            "1.42%Max HP/Stack",
+            "1.50%Max HP/Stack"
+          ]
+        },
+        {
+          "name": "Water Illusion DMG",
+          "parameters": [
+            "101.48%",
+            "109.74%",
+            "118.00%",
+            "129.80%",
+            "138.06%",
+            "147.50%",
+            "160.48%",
+            "173.46%",
+            "186.44%",
+            "200.60%",
+            "214.76%",
+            "228.92%",
+            "243.08%",
+            "257.24%",
+            "271.40%"
+          ]
+        },
+        {
+          "name": "Water Illusion Duration",
+          "parameters": [
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Kamisato Art: Suiyuu",
+      "info": "Unveils a garden of purity that silences the cacophony within.\nWhile this space exists, Bloomwater Blades will constantly rain down and attack opponents within its AoE, dealing Hydro DMG and increasing the Normal Attack DMG of characters within.",
+      "description": "\"I can see them, you know. The ripples of your beating heart within this realm of still waters.\"",
+      "attributes": [
+        {
+          "name": "Bloomwater Blade DMG",
+          "parameters": [
+            "66.46%",
+            "71.44%",
+            "76.42%",
+            "83.07%",
+            "88.05%",
+            "93.04%",
+            "99.68%",
+            "106.33%",
+            "112.98%",
+            "119.62%",
+            "126.27%",
+            "132.91%",
+            "141.22%",
+            "149.53%",
+            "157.83%"
+          ]
+        },
+        {
+          "name": "Normal Attack DMG Bonus",
+          "parameters": [
+            "11.00%",
+            "12.00%",
+            "13.00%",
+            "14.00%",
+            "15.00%",
+            "16.00%",
+            "17.00%",
+            "18.00%",
+            "19.00%",
+            "20.00%",
+            "20.00%",
+            "20.00%",
+            "20.00%",
+            "20.00%",
+            "20.00%"
+          ]
+        },
+        {
+          "name": "Duration",
+          "parameters": [
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "name": "Energy Cost",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Kamisato Art: Mine Wo Matoishi Kiyotaki",
+      "info": "**Kamisato Art: Kyouka** has the following properties:\n·After it is used, Kamisato Ayato will gain 2 Namisen stacks.\n·When the water illusion explodes, Ayato will gain a Namisen effect equal to the maximum number of stacks possible."
+    },
+    "passive2": {
+      "name": "Kamisato Art: Michiyuku Hagetsu",
+      "info": "If Kamisato Ayato is not on the field and his Energy is less than 40, he will regenerate 2 Energy for himself every second."
+    },
+    "passive3": {
+      "name": "Kamisato Art: Daily Cooking",
+      "info": "When Ayato cooks a dish perfectly, he has a 18% chance to receive an additional \"Suspicious\" dish of the same type."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of Elegance",
+          "count": 3
+        },
+        {
+          "name": "Old Handguard",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to Elegance",
+          "count": 2
+        },
+        {
+          "name": "Kageuchi Handguard",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to Elegance",
+          "count": 4
+        },
+        {
+          "name": "Kageuchi Handguard",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to Elegance",
+          "count": 6
+        },
+        {
+          "name": "Kageuchi Handguard",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to Elegance",
+          "count": 9
+        },
+        {
+          "name": "Kageuchi Handguard",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of Elegance",
+          "count": 4
+        },
+        {
+          "name": "Famed Handguard",
+          "count": 4
+        },
+        {
+          "name": "Mudra of the Malefic General",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of Elegance",
+          "count": 6
+        },
+        {
+          "name": "Famed Handguard",
+          "count": 6
+        },
+        {
+          "name": "Mudra of the Malefic General",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of Elegance",
+          "count": 12
+        },
+        {
+          "name": "Famed Handguard",
+          "count": 9
+        },
+        {
+          "name": "Mudra of the Malefic General",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of Elegance",
+          "count": 16
+        },
+        {
+          "name": "Famed Handguard",
+          "count": 12
+        },
+        {
+          "name": "Mudra of the Malefic General",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_01",
+      "combat2": "Skill_S_Ayato_01",
+      "combat3": "Skill_E_Ayato_01_HD",
+      "passive1": "UI_Talent_S_Ayato_05",
+      "passive2": "UI_Talent_S_Ayato_06",
+      "passive3": "UI_Talent_S_Ayato_07"
+    },
+    "version": "2.6"
+  }
+}

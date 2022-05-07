@@ -1,0 +1,20 @@
+{
+  "name": "雷の印",
+  "description": "稲妻群島の雷鳴に認められ、授かった印。\n鳴神大社の神櫻に奉納すると、「神櫻の恩恵」のLv.を上げることができる。",
+  "sortorder": 503,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "七国の印",
+  "source": [
+    "稲妻地域探索報酬"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_304",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Electro_Sigil.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Item_Electro_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Electro_Sigil"
+  },
+  "version": ""
+}

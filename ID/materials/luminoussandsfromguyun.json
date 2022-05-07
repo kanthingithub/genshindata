@@ -1,0 +1,26 @@
+{
+  "name": "Luminous Sands from Guyun",
+  "description": "Material Ascension Senjata.\nPilar batu yang tinggi sampai ke Guyun Stone Forest dulunya adalah tombak batu yang digunakan Morax untuk mengalahkan musuhnya. Seiring waktu berlalu, tubuh para Dewa ini menembus ke dalam pilar, memberi mereka kesucian. Pilar-pilar itu juga terkadang memancarkan kebencian dan kutukan.",
+  "sortorder": 2195,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Ascension Senjata",
+  "dropdomain": "Domain of Forgery: Altar Halilintar",
+  "daysofweek": [
+    "Senin",
+    "Kamis",
+    "Minggu"
+  ],
+  "source": [
+    "Dibeli dari Toko Suvenir di Liyue"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Luminous_Sands_from_Guyun.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Luminous_Sands_from_Guyun.png",
+    "nameicon": "UI_ItemIcon_114013"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Luminous_Sands_from_Guyun"
+  },
+  "version": ""
+}

@@ -1,0 +1,178 @@
+{
+  "name": "Donjon d'entraînement : Sables engloutis",
+  "region": "Inazuma",
+  "domainEntrance": "Cour des sables mouvants",
+  "domainType": "Matériau d'élévation d'arme",
+  "description": "Au sein de cet autel où les sables dorés coulent pour l'éternité se trouvent des ennemis vulnérables aux attaques Géo.\nVous serez {M#récompensé}{F#récompensée} avec des matériaux de renforcement d'arme si vous arrivez à triompher de cette épreuve.",
+  "daysOfWeek": [
+    "Lundi",
+    "Jeudi",
+    "Dimanche"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Rock"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Donjon d'entraînement : Sables engloutis I",
+      "recommendedLevel": 15,
+      "recommendedElements": [
+        "Géo",
+        "Cryo"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "EXP d'aventure",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1125
+        },
+        {
+          "name": "EXP d'affinité",
+          "count": 10
+        },
+        {
+          "name": "Branche marine de corail"
+        }
+      ],
+      "disorder": [
+        "La force du bouclier de tous les personnages de l'équipe augmente de 40 %.",
+        "Lorsqu'un personnage obtient un fragment élémentaire produit par une réaction avec l'élément Géo, une onde de choc est libérée, infligeant des DGT aux ennemis proches."
+      ],
+      "monsterlist": [
+        "Hydroblob",
+        "Hydroblob géant",
+        "Pyroblob",
+        "Pyroblob géant"
+      ]
+    },
+    {
+      "name": "Donjon d'entraînement : Sables engloutis II",
+      "recommendedLevel": 36,
+      "recommendedElements": [
+        "Géo",
+        "Cryo"
+      ],
+      "unlockRank": 21,
+      "rewardPreview": [
+        {
+          "name": "EXP d'aventure",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1550
+        },
+        {
+          "name": "EXP d'affinité",
+          "count": 15
+        },
+        {
+          "name": "Branche marine de corail"
+        },
+        {
+          "name": "Branche marine de gemme"
+        }
+      ],
+      "disorder": [
+        "La force du bouclier de tous les personnages de l'équipe augmente de 40 %.",
+        "Lorsqu'un personnage obtient un fragment élémentaire produit par une réaction avec l'élément Géo, une onde de choc est libérée, infligeant des DGT aux ennemis proches."
+      ],
+      "monsterlist": [
+        "Hydroblob géant",
+        "Pyroblob géant"
+      ]
+    },
+    {
+      "name": "Donjon d'entraînement : Sables engloutis III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Géo",
+        "Cryo"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "EXP d'aventure",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "EXP d'affinité",
+          "count": 15
+        },
+        {
+          "name": "Branche marine de corail"
+        },
+        {
+          "name": "Branche marine de gemme"
+        },
+        {
+          "name": "Branche marine de jade"
+        }
+      ],
+      "disorder": [
+        "La force du bouclier de tous les personnages de l'équipe augmente de 40 %.",
+        "Lorsqu'un personnage obtient un fragment élémentaire produit par une réaction avec l'élément Géo, une onde de choc est libérée, infligeant des DGT aux ennemis proches."
+      ],
+      "monsterlist": [
+        "Hydroblob géant",
+        "Pyroblob géant",
+        "Hydromage de l'Abîme",
+        "Pyromage de l'Abîme"
+      ]
+    },
+    {
+      "name": "Donjon d'entraînement : Sables engloutis IV",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Géo",
+        "Cryo"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "EXP d'aventure",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "EXP d'affinité",
+          "count": 20
+        },
+        {
+          "name": "Branche marine de corail"
+        },
+        {
+          "name": "Branche marine de gemme"
+        },
+        {
+          "name": "Branche marine de jade"
+        },
+        {
+          "name": "Branche marine d'or"
+        }
+      ],
+      "disorder": [
+        "La force du bouclier de tous les personnages de l'équipe augmente de 40 %.",
+        "Lorsqu'un personnage obtient un fragment élémentaire produit par une réaction avec l'élément Géo, une onde de choc est libérée, infligeant des DGT aux ennemis proches."
+      ],
+      "monsterlist": [
+        "Grenadier Brutocollinus Électro",
+        "Électroblob géant",
+        "Électroblob mutant",
+        "Brutoviandu avec hache Électro"
+      ]
+    }
+  ]
+}

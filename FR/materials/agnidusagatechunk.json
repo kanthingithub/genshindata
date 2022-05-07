@@ -1,0 +1,22 @@
+{
+  "name": "Morceau d'agate agnidus",
+  "description": "Matériau d'élévation de personnage.\n« Aller en pèlerinage pour le désir, et se battre pour la réputation... »\n« Le rêve a tout brûlé en cendre à la fin. »",
+  "sortorder": 1824,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Butin d'Arbre enflammé (Niv.60+)",
+    "Butin d'Hypostase Pyro (Niv.60+)",
+    "Synthèse"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Agnidus_Agate_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Item_Agnidus_Agate_Chunk.png",
+    "nameicon": "UI_ItemIcon_104113"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Agnidus_Agate_Chunk"
+  },
+  "version": ""
+}

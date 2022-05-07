@@ -1,0 +1,16 @@
+{
+  "name": "Fungal Spore",
+  "description": "ผงสปอร์ที่ Fungus หลงเหลือเอาไว้ มันส่องแสงเปล่งประกายเล็กน้อย ราวกับว่าเพียงแค่จามครั้งเดียว ก็จะถูกพัดปลิวหายไปอย่างไร้ร่องรอย",
+  "sortorder": 1780,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ดรอปจาก Fungus"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_112059",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fungal_Spores.png"
+  },
+  "version": "2.6"
+}

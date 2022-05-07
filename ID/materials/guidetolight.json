@@ -1,0 +1,26 @@
+{
+  "name": "Guide to Light",
+  "description": "Material Penguatan Talenta.\n\"Light\" adalah harapan bangsa petir.\nMeskipun sinar matahari tertutup awan kelabu yang berlapis-lapis, masih saja ada orang-orang di tanah dewa petir yang bermimpi untuk menembus lautan petir yang bergelora demi mengejar kemuliaan ilahi. Sekalipun harus mati, mereka bahkan tidak peduli.",
+  "sortorder": 1876,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Talenta",
+  "dropdomain": "Domain of Mastery: Reruntuhan Kota Tua",
+  "daysofweek": [
+    "Rabu",
+    "Sabtu",
+    "Minggu"
+  ],
+  "source": [
+    "Didapatkan melalui Craft"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Guide_to_Light.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Item_Guide_to_Light.png",
+    "nameicon": "UI_ItemIcon_104327"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Guide_to_Light"
+  },
+  "version": ""
+}

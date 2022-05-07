@@ -1,0 +1,24 @@
+{
+  "name": "Stabiles Knochenstück",
+  "description": "Das Knochenstück eines Lebewesens, das Drachenechsen aus irgendeinem Grund stark begehren.\nEs scheint schon sehr alt zu sein. Obwohl diese Wesen nicht einmal der menschlichen Sprache mächtig sind, interessieren sie sich sehr für sterbliche Überreste.",
+  "sortorder": 1760,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Kann hergestellt werden",
+    "Beute von jungen Geo-Drachenechsen ab Stufe 40",
+    "Beute von Geo-Drachenechsen ab Stufe 40",
+    "Beute von Tiefsee-Drachenechsen ab Stufe 40",
+    "Mit Sternenstaub kaufen"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sturdy_Bone_Shard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Item_Sturdy_Bone_Shard.png",
+    "nameicon": "UI_ItemIcon_112042"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sturdy_Bone_Shard"
+  },
+  "version": ""
+}

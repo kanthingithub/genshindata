@@ -1,0 +1,19 @@
+{
+  "name": "Erva Marinha",
+  "description": "Uma planta que cresce nas águas rasas. Pode dar um sabor único aos pratos.",
+  "sortorder": 2012,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente",
+  "source": [
+    "Encontrado nas águas do mar de Inazuma"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Seagrass.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Item_Seagrass.png",
+    "nameicon": "UI_ItemIcon_101210"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Seagrass"
+  },
+  "version": ""
+}

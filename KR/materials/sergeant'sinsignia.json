@@ -1,0 +1,24 @@
+{
+  "name": "사관의 휘장",
+  "description": "사관 신분을 나타내는 휘장. 일반 사병과 구분되는 기이한 형태이다. 복잡한 마음이 담겨있는 듯하다",
+  "sortorder": 1751,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "캐릭터 육성 소재",
+  "source": [
+    "합성 획득",
+    "Lv.40이상 우인단 선발대 드랍",
+    "Lv.40이상 우인단·채무 처리인 소량 드랍",
+    "Lv.40이상 우인단·치친 술사 소량 드랍",
+    "스타더스트 교환"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sergeant's_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Sergeant%27s_Insignia.png",
+    "nameicon": "UI_ItemIcon_112033"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sergeant's_Insignia"
+  },
+  "version": ""
+}

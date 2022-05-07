@@ -1,0 +1,20 @@
+{
+  "name": "Smoldering Pearl",
+  "description": "การตกผลึกของ Pyro Hypostasis ที่แผ่ซ่านพลังความร้อนออกมาอย่างต่อเนื่อง\nแม้แต่เปลวไฟที่ลุกไหม้นี้คงต้องเย็นลงในสักวัน และฟืนที่ดับมอดก็สามารถลุกไหม้ได้อีกครั้ง การที่ Pyro Hypostasis เย็นลงและลุกไหม้อีกครั้ง รวมถึงการกระจายและเกาะตัวอย่างต่อเนื่องนั้น อาจเป็นเจตนาส่วนหนึ่งของโลกใบนี้ เช่นเดียวกับชีวิตที่ไม่มีที่สิ้นสุดของทุกสิ่งในจักรวาล จนกว่าจะถึงวันที่ความมืดมิดของโชคชะตาได้มาเยือน และทำให้ดวงอาทิตย์รวมถึงทุกสิ่งหวนกลับสู่ความว่างเปล่า",
+  "sortorder": 1806,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ดรอปจาก Pyro Hypostasis Lv.30 ขึ้นไป"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Smoldering_Pearl.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Item_Smoldering_Pearl.png",
+    "nameicon": "UI_ItemIcon_113024"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Smoldering_Pearl"
+  },
+  "version": ""
+}

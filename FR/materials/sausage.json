@@ -1,0 +1,19 @@
+{
+  "name": "Saucisse",
+  "description": "Viande hachée enfermée dans un boyau. Sa durée de conservation permet de satisfaire les besoins des férus de viande sur une longue durée.",
+  "sortorder": 1534,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrédient",
+  "source": [
+    "Cuisine (préparation)"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sausage.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/ba/Item_Sausage.png",
+    "nameicon": "UI_ItemIcon_110011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sausage"
+  },
+  "version": ""
+}

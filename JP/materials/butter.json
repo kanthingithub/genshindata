@@ -1,0 +1,19 @@
+{
+  "name": "バター",
+  "description": "牛乳から分離させた脂肪分。適量を加えると、平凡な材料でも甘い濃厚な香りを放つ。",
+  "sortorder": 1528,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "食材加工で獲得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Butter.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/78/Item_Butter.png",
+    "nameicon": "UI_ItemIcon_110004"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Butter"
+  },
+  "version": ""
+}

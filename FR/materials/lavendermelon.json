@@ -1,0 +1,19 @@
+{
+  "name": "Melon lavande",
+  "description": "Un fruit à la couleur vive, dont la chair à l'intérieur offre une sensation en bouche unique lorsqu'elle est cuite.",
+  "sortorder": 2013,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrédient",
+  "source": [
+    "Dans la nature d'Inazuma"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lavender_Melon.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Lavender_Melon.png",
+    "nameicon": "UI_ItemIcon_101211"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lavender_Melon"
+  },
+  "version": ""
+}

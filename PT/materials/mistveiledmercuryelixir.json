@@ -1,0 +1,26 @@
+{
+  "name": "Elixir de Mercúrio com Véu de Névoa",
+  "description": "Material de Ascensão de Armas.\nCom os talismãs, os Adepti podem armazenar seu poder na forma de símbolos, e com a Radiação Exterior podem criar um paraíso cósmico com o poder de suas mentes. A fabricação de elixires, no entanto, sempre foi envolta em mistério, pois a morte segue para quem os engole.",
+  "sortorder": 2200,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Ascensão de Armas",
+  "dropdomain": "Domínio da Forja: Ruínas Estrondosas",
+  "daysofweek": [
+    "Terça-feira",
+    "Sexta-feira",
+    "Domingo"
+  ],
+  "source": [
+    "Obtido na síntese"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Veiled_Mercury_Elixir.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Mist_Veiled_Mercury_Elixir.png",
+    "nameicon": "UI_ItemIcon_114018"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Veiled_Mercury_Elixir"
+  },
+  "version": ""
+}

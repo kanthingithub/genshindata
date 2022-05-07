@@ -1,0 +1,18 @@
+{
+  "name": "Emperor's Balsam",
+  "description": "Material refinement khusus untuk Luxurious Sea-Lord.\nAroma salep yang kuat seperti sudah mengunci roh kehidupan laut di dalamnya. Oleskan pada Luxurious Sea-Lord untuk membuat Claymore unik ini menjadi lebih kuat lagi.",
+  "sortorder": 2296,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Refinement",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Emperor's_Balsam.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Item_Emperor%27s_Balsam.png",
+    "nameicon": "UI_ItemIcon_200106"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Emperor's_Balsam"
+  },
+  "version": ""
+}

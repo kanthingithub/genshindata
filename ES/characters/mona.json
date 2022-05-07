@@ -1,0 +1,874 @@
+{
+  "name": "Mona",
+  "fullname": "Mona",
+  "title": "La Observadora de los Astros",
+  "description": "Una misteriosa y joven astróloga que se hace llamar “Astróloga Mona Megistus”. Está convencida de que posee las habilidades para estar a la altura del título. Erudita y orgullosa.",
+  "rarity": "5",
+  "element": "Hydro",
+  "weapontype": "Catalizador",
+  "substat": "Recarga de Energía",
+  "gender": "Femenino",
+  "body": "GIRL",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Mondstadt",
+  "birthdaymmdd": "8/31",
+  "birthday": "31 de agosto",
+  "constellation": "Astrolabos",
+  "cv": {
+    "english": "Felecia Angelle",
+    "chinese": "陈婷婷",
+    "japanese": "小原好美",
+    "korean": "Woo Jeong-shin"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Pedacito de lazurita varunada",
+        "count": 1
+      },
+      {
+        "name": "Seta filanemo",
+        "count": 3
+      },
+      {
+        "name": "Néctar de Megaflora",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de lazurita varunada",
+        "count": 3
+      },
+      {
+        "name": "Corazón purificador",
+        "count": 2
+      },
+      {
+        "name": "Seta filanemo",
+        "count": 10
+      },
+      {
+        "name": "Néctar de Megaflora",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de lazurita varunada",
+        "count": 6
+      },
+      {
+        "name": "Corazón purificador",
+        "count": 4
+      },
+      {
+        "name": "Seta filanemo",
+        "count": 20
+      },
+      {
+        "name": "Néctar brillante",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Trozo de lazurita varunada",
+        "count": 3
+      },
+      {
+        "name": "Corazón purificador",
+        "count": 8
+      },
+      {
+        "name": "Seta filanemo",
+        "count": 30
+      },
+      {
+        "name": "Néctar brillante",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Trozo de lazurita varunada",
+        "count": 6
+      },
+      {
+        "name": "Corazón purificador",
+        "count": 12
+      },
+      {
+        "name": "Seta filanemo",
+        "count": 45
+      },
+      {
+        "name": "Néctar energético",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Lazurita varunada",
+        "count": 6
+      },
+      {
+        "name": "Corazón purificador",
+        "count": 20
+      },
+      {
+        "name": "Seta filanemo",
+        "count": 60
+      },
+      {
+        "name": "Néctar energético",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Character_Mona_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Character_Mona_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Mona.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817270842074.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817353421694.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/1fa7a20fb3b391132e1132ab2a44e146.png",
+    "nameicon": "UI_AvatarIcon_Mona",
+    "nameiconcard": "UI_AvatarIcon_Mona_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Mona",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Mona",
+    "namesideicon": "UI_AvatarIcon_Side_Mona"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mona"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 810.322021484375,
+      "attack": 22.3439998626709,
+      "defense": 50.855499267578125,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2101.9754056454985,
+      "attack": 57.96033790251158,
+      "defense": 131.9191702410535,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2796.7532376767485,
+      "attack": 77.11689880033873,
+      "defense": 175.52416978328984,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4184.8349083920475,
+      "attack": 115.3921718862457,
+      "defense": 262.63964303562534,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4678.4928673764225,
+      "attack": 129.00341036585996,
+      "defense": 293.6221450192679,
+      "specialized": 0.07999999821186066
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5382.662670043879,
+      "attack": 148.42034530892943,
+      "defense": 337.81557174881164,
+      "specialized": 0.07999999821186066
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6040.873241332942,
+      "attack": 166.5686645533142,
+      "defense": 379.1255693074054,
+      "specialized": 0.1599999964237213
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6752.335800001631,
+      "attack": 186.18669157431032,
+      "defense": 423.77668660643394,
+      "specialized": 0.1599999964237213
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7245.993636915693,
+      "attack": 199.7979319612732,
+      "defense": 454.7591924047738,
+      "specialized": 0.1599999964237213
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7963.9390746873105,
+      "attack": 219.59471933425903,
+      "defense": 499.8171727097797,
+      "specialized": 0.1599999964237213
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8457.597033671685,
+      "attack": 233.20596353591918,
+      "defense": 530.799670878725,
+      "specialized": 0.23999999463558197
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9183.645490734489,
+      "attack": 253.22618536721802,
+      "defense": 576.366193566515,
+      "specialized": 0.23999999463558197
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 9677.303449718864,
+      "attack": 266.83742193948365,
+      "defense": 607.3486917354603,
+      "specialized": 0.3199999928474426
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10409.024522594642,
+      "attack": 287.0140617423858,
+      "defense": 653.2712256159284,
+      "specialized": 0.3199999928474426
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Profecía de sumersión",
+      "effect": "Cuando un personaje de tu equipo ataca a un enemigo afectado por un presagio, los efectos de las Reacciones Elementales con Hydro se potencian durante 8 s:\n·Aumenta en un 15% el daño de Electrocargado, Vaporización y Torbellino Hydro.\n·Aumenta en un 15% la duración de Congelado en enemigos."
+    },
+    "c2": {
+      "name": "Cadena lunar",
+      "effect": "Al golpear con un Ataque Normal, hay un 20% de probabilidad de que vaya seguido automáticamente por un Ataque Cargado.\nEste efecto solo puede ocurrir una vez cada 5 s."
+    },
+    "c3": {
+      "name": "Revolución incesante",
+      "effect": "Aumenta el nivel de habilidad de **Órbita divina** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c4": {
+      "name": "Profecía del fin",
+      "effect": "Cuando cualquier miembro del equipo ataca a un enemigo afectado por un presagio, la Prob. CRIT de ese personaje aumenta en un 15%."
+    },
+    "c5": {
+      "name": "Burla del destino",
+      "effect": "Aumenta el nivel de habilidad de **Espejismo del agua** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c6": {
+      "name": "Retórica de la calamidad",
+      "effect": "Al entrar en **Torrente ilusorio**, Mona obtiene un aumento del 60% de daño en su próximo Ataque Cargado por cada segundo que se mueve.\nEl máximo bono de daño que se puede alcanzar es del 180%. Este efecto solo puede durar un máximo de 8 s."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Mona_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Mona_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_04.png",
+      "constellation": "Eff_UI_Talent_Mona"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Mona",
+    "combat1": {
+      "name": "Ataque Normal: Destino revelado",
+      "info": "**Ataque Normal**\nRealiza hasta 4 salpicaduras de agua que infligen Daño Hydro.\n\n**Ataque Cargado**\nConsume una cierta cantidad de Aguante para infligir Daño Hydro en el AdE después de un corto tiempo de lanzamiento.\n\n**Ataque Descendente**\nConcentra el poder Hydro y desciende hacia el suelo, dañando a todos los enemigos cercanos e infligiendo Daño Hydro en el AdE en el momento del impacto.",
+      "attributes": [
+        {
+          "name": "Daño de 1er golpe",
+          "parameters": [
+            "37.60%",
+            "40.42%",
+            "43.24%",
+            "47.00%",
+            "49.82%",
+            "52.64%",
+            "56.40%",
+            "60.16%",
+            "63.92%",
+            "67.68%",
+            "71.44%",
+            "75.20%",
+            "79.90%",
+            "84.60%",
+            "89.30%"
+          ]
+        },
+        {
+          "name": "Daño de 2.º golpe",
+          "parameters": [
+            "36.00%",
+            "38.70%",
+            "41.40%",
+            "45.00%",
+            "47.70%",
+            "50.40%",
+            "54.00%",
+            "57.60%",
+            "61.20%",
+            "64.80%",
+            "68.40%",
+            "72.00%",
+            "76.50%",
+            "81.00%",
+            "85.50%"
+          ]
+        },
+        {
+          "name": "Daño de 3er golpe",
+          "parameters": [
+            "44.80%",
+            "48.16%",
+            "51.52%",
+            "56.00%",
+            "59.36%",
+            "62.72%",
+            "67.20%",
+            "71.68%",
+            "76.16%",
+            "80.64%",
+            "85.12%",
+            "89.60%",
+            "95.20%",
+            "100.80%",
+            "106.40%"
+          ]
+        },
+        {
+          "name": "Daño de 4.º golpe",
+          "parameters": [
+            "56.16%",
+            "60.37%",
+            "64.58%",
+            "70.20%",
+            "74.41%",
+            "78.62%",
+            "84.24%",
+            "89.86%",
+            "95.47%",
+            "101.09%",
+            "106.70%",
+            "112.32%",
+            "119.34%",
+            "126.36%",
+            "133.38%"
+          ]
+        },
+        {
+          "name": "Daño de ATQ Cargado",
+          "parameters": [
+            "149.72%",
+            "160.95%",
+            "172.18%",
+            "187.15%",
+            "198.38%",
+            "209.61%",
+            "224.58%",
+            "239.55%",
+            "254.52%",
+            "269.50%",
+            "285.07%",
+            "305.43%",
+            "325.79%",
+            "346.15%",
+            "366.51%"
+          ]
+        },
+        {
+          "name": "Coste de Aguante de ATQ Cargado",
+          "parameters": [
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts."
+          ]
+        },
+        {
+          "name": "Daño de Caída",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "Daño de impacto de caída baja/alta",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Espejismo del agua",
+      "info": "Invoca unos chorros de agua para crear una ilusión del destino.\n\nLa **ilusión** tiene las siguientes características:\n·Provoca a los enemigos cercanos, atrayendo la atención de sus ataques.\n·Inflige intermitentemente Daño Hydro a los enemigos cercanos.\nAl terminar su efecto, la ilusión explota e inflige Daño Hydro en el AdE.\n\n**Mantener pulsado**\nUtiliza una corriente de agua para impulsarse hacia atrás rápidamente y conjurar una ilusión.\n\nSolo puede existir una ilusión creada por Espejismo del agua a la vez.",
+      "description": "Los astrólogos expertos siempre han soñado con usar una copia ilusoria de ellos mismos para protegerse de la inminente mala suerte, pero Mona debe ser la primera en burlarse de la mala suerte en todo Teyvat.",
+      "attributes": [
+        {
+          "name": "Daño continuo",
+          "parameters": [
+            "32.00%",
+            "34.40%",
+            "36.80%",
+            "40.00%",
+            "42.40%",
+            "44.80%",
+            "48.00%",
+            "51.20%",
+            "54.40%",
+            "57.60%",
+            "60.80%",
+            "64.00%",
+            "68.00%",
+            "72.00%",
+            "76.00%"
+          ]
+        },
+        {
+          "name": "Daño de explosión",
+          "parameters": [
+            "132.80%",
+            "142.76%",
+            "152.72%",
+            "166.00%",
+            "175.96%",
+            "185.92%",
+            "199.20%",
+            "212.48%",
+            "225.76%",
+            "239.04%",
+            "252.32%",
+            "265.60%",
+            "282.20%",
+            "298.80%",
+            "315.40%"
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        }
+      ]
+    },
+    "combatsp": {
+      "name": "Torrente ilusorio",
+      "info": "**Reemplaza a Esprintar**\nMona se oculta bajo un flujo de agua, consumiendo su Aguante para moverse rápidamente.\n\nCuando está bajo el efecto de Torrente ilusorio, Mona puede moverse a gran velocidad sobre el agua.\nAl reaparecer, aplica el estado de Mojado sobre los enemigos cercanos.",
+      "description": "Esto es algo que Mona puede hacer, pero su maestra no. Bueno, tampoco es que su maestra esté interesada en asuntos relacionados con las Visiones Hydro...",
+      "attributes": [
+        {
+          "name": "Coste de Aguante al activar",
+          "parameters": [
+            "10 pts."
+          ]
+        },
+        {
+          "name": "Coste de Aguante continuo",
+          "parameters": [
+            "15 pts./s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Órbita divina",
+      "info": "Mona invoca unas olas cristalinas para crear un reflejo del cielo estrellado, aplicando el estado de burbuja ilusoria sobre los enemigos en una gran AdE.\n\n**Burbuja ilusoria**\nInvoca una burbuja estrellada que envuelve a sus enemigos, aplicando el efecto de Mojado sobre ellos. La burbuja inmoviliza a los enemigos más débiles, los cuales no podrán moverse.\nCuando un enemigo que está bajo los efectos de la burbuja ilusoria recibe daño, se producen los siguientes efectos:\n·Coloca un presagio sobre el enemigo, lo que otorga un bono de daño y también aumenta el daño del ataque que lo causa.\n·Elimina la burbuja ilusoria, infligiendo Daño Hydro adicional.\n\n**Presagio**\nMientras dura la habilidad, aumenta el daño que reciben los enemigos.",
+      "description": "Fue en la época en la que los dioses dibujaron por primera vez luces en el cielo cuando el “destino” comenzó a ser llamado como tal.",
+      "attributes": [
+        {
+          "name": "Duración de Burbuja ilusoria",
+          "parameters": [
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s"
+          ]
+        },
+        {
+          "name": "Daño de explosión de Burbuja ilusoria",
+          "parameters": [
+            "442.40%",
+            "475.58%",
+            "508.76%",
+            "553.00%",
+            "586.18%",
+            "619.36%",
+            "663.60%",
+            "707.84%",
+            "752.08%",
+            "796.32%",
+            "840.56%",
+            "884.80%",
+            "940.10%",
+            "995.40%",
+            "1050.70%"
+          ]
+        },
+        {
+          "name": "Bono de Daño",
+          "parameters": [
+            "42.00%",
+            "44.00%",
+            "46.00%",
+            "48.00%",
+            "50.00%",
+            "52.00%",
+            "54.00%",
+            "56.00%",
+            "58.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%"
+          ]
+        },
+        {
+          "name": "Duración de presagio",
+          "parameters": [
+            "4 s",
+            "4 s",
+            "4 s",
+            "4.5 s",
+            "4.5 s",
+            "4.5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s"
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "Energía Elemental",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "¡Atrápame si puedes!",
+      "info": "Tras haber usado **Torrente ilusorio** durante 2 s, si hay algún enemigo cerca, Mona creará automáticamente un fantasma.\nUn fantasma creado de esta manera durará 2 s, y su daño de explosión será igual al 50% del daño de **Espejismo del agua**."
+    },
+    "passive2": {
+      "name": "¡Que el destino decida!",
+      "info": "Mona obtiene un Bono de Daño Hydro adicional equivalente al 20% de su Recarga de Energía."
+    },
+    "passive3": {
+      "name": "Principios de la astrología",
+      "info": "Al fabricar materiales de ascensión de arma, hay una probabilidad del 25% de recuperar los materiales usados."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseñanzas de la resistencia",
+          "count": 3
+        },
+        {
+          "name": "Néctar de Megaflora",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guía de la resistencia",
+          "count": 2
+        },
+        {
+          "name": "Néctar brillante",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guía de la resistencia",
+          "count": 4
+        },
+        {
+          "name": "Néctar brillante",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guía de la resistencia",
+          "count": 6
+        },
+        {
+          "name": "Néctar brillante",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guía de la resistencia",
+          "count": 9
+        },
+        {
+          "name": "Néctar brillante",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofía de la resistencia",
+          "count": 4
+        },
+        {
+          "name": "Néctar energético",
+          "count": 4
+        },
+        {
+          "name": "Anillo de Boreas",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofía de la resistencia",
+          "count": 6
+        },
+        {
+          "name": "Néctar energético",
+          "count": 6
+        },
+        {
+          "name": "Anillo de Boreas",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofía de la resistencia",
+          "count": 12
+        },
+        {
+          "name": "Néctar energético",
+          "count": 9
+        },
+        {
+          "name": "Anillo de Boreas",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofía de la resistencia",
+          "count": 16
+        },
+        {
+          "name": "Néctar energético",
+          "count": 12
+        },
+        {
+          "name": "Anillo de Boreas",
+          "count": 2
+        },
+        {
+          "name": "Corona de la sabiduría",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_Catalyst_MD",
+      "combat2": "Skill_S_Mona_01",
+      "combatsp": "Skill_S_Mona_02",
+      "combat3": "Skill_E_Mona_01_HD",
+      "passive1": "UI_Talent_S_Mona_05",
+      "passive2": "UI_Talent_S_Mona_06",
+      "passive3": "UI_Talent_Combine_Weapon"
+    },
+    "version": "1.0"
+  }
+}

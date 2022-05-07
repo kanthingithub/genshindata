@@ -1,0 +1,17 @@
+{
+  "name": "직물",
+  "description": "질 좋은 직물. 장식 제작에 유용하게 쓰인다",
+  "sortorder": 1941,
+  "category": "EXCHANGE",
+  "materialtype": "소재",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fabric.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Item_Fabric.png",
+    "nameicon": "UI_ItemIcon_101401"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fabric"
+  },
+  "version": ""
+}

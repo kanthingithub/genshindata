@@ -1,0 +1,22 @@
+{
+  "name": "混沌炉心",
+  "description": "来自不再活动的古代遗迹构装体。曾经是驱动它活动的能源之心。若能理解、重构这样的神秘技术，或许能改变这个世界也说不定。",
+  "sortorder": 1743,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培养素材",
+  "source": [
+    "合成获得",
+    "60级以上遗迹守卫掉落",
+    "60级以上遗迹猎者掉落"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Core.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Chaos_Core.png",
+    "nameicon": "UI_ItemIcon_112025"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chaos_Core"
+  },
+  "version": ""
+}

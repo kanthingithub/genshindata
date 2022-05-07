@@ -1,0 +1,20 @@
+{
+  "name": "Condensed Resin",
+  "description": "You can hold no more than 5 at a time.\nCondensed tree resin that can be used instead of Original Resin to revitalize Petrified Trees and Ley Line Blossoms to receive greater rewards.\nCrystal filled with immense energy.\nThe silver-white Irminsul trees and blossoms are connected to ley lines that have become blocked over time. The energy contained in tree resin can purify the obstructing substance.",
+  "sortorder": 2594,
+  "rarity": "4",
+  "category": "CONSUME",
+  "materialtype": "Consumable",
+  "source": [
+    "Crafted"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_211",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Condensed_Resin.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Item_Condensed_Resin.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Condensed_Resin"
+  },
+  "version": ""
+}

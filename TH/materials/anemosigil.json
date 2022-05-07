@@ -1,0 +1,20 @@
+{
+  "name": "Anemo Sigil",
+  "description": "เครื่องหมายลมพายุแห่ง Mondstadt \nใช้สำหรับแลกเปลี่ยนไอเทมพิเศษ ในสถานที่เฉพาะของเมือง Mondstadt",
+  "sortorder": 504,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "เครื่องหมายธาตุ",
+  "source": [
+    "รางวัลการสำรวจ Mondstadt"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_305",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Anemo_Sigil.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Item_Anemo_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Anemo_Sigil"
+  },
+  "version": ""
+}

@@ -1,0 +1,317 @@
+{
+  "name": "Aquila Favonia",
+  "description": "El alma de los Caballeros de Favonius. Milenios más tarde, sigue llamando a los vientos de la justicia a desterrar todo mal, igual que la última heroína que la empuñó.",
+  "weapontype": "Espada ligera",
+  "rarity": "5",
+  "baseatk": 48,
+  "substat": "Bono de Daño Físico",
+  "subvalue": "9",
+  "effectname": "Resistencia del Halcón del Oeste",
+  "effect": [
+    "Aumenta el ATQ en un [20%]. Al recibir daño, se activa el alma del Halcón del Oeste, izando el estandarte de la resistencia, la cual regenera Vida equivalente al [100%] del ATQ, y hace daño equivalente al [200%] del ATQ a los enemigos cercanos. Este efecto puede ocurrir una vez cada 15 s.",
+    "Aumenta el ATQ en un [25%]. Al recibir daño, se activa el alma del Halcón del Oeste, izando el estandarte de la resistencia, la cual regenera Vida equivalente al [115%] del ATQ, y hace daño equivalente al [230%] del ATQ a los enemigos cercanos. Este efecto puede ocurrir una vez cada 15 s.",
+    "Aumenta el ATQ en un [30%]. Al recibir daño, se activa el alma del Halcón del Oeste, izando el estandarte de la resistencia, la cual regenera Vida equivalente al [130%] del ATQ, y hace daño equivalente al [260%] del ATQ a los enemigos cercanos. Este efecto puede ocurrir una vez cada 15 s.",
+    "Aumenta el ATQ en un [35%]. Al recibir daño, se activa el alma del Halcón del Oeste, izando el estandarte de la resistencia, la cual regenera Vida equivalente al [145%] del ATQ, y hace daño equivalente al [290%] del ATQ a los enemigos cercanos. Este efecto puede ocurrir una vez cada 15 s.",
+    "Aumenta el ATQ en un [40%]. Al recibir daño, se activa el alma del Halcón del Oeste, izando el estandarte de la resistencia, la cual regenera Vida equivalente al [160%] del ATQ, y hace daño equivalente al [320%] del ATQ a los enemigos cercanos. Este efecto puede ocurrir una vez cada 15 s."
+  ],
+  "r1": [
+    "20%",
+    "100%",
+    "200%"
+  ],
+  "r2": [
+    "25%",
+    "115%",
+    "230%"
+  ],
+  "r3": [
+    "30%",
+    "130%",
+    "260%"
+  ],
+  "r4": [
+    "35%",
+    "145%",
+    "290%"
+  ],
+  "r5": [
+    "40%",
+    "160%",
+    "320%"
+  ],
+  "weaponmaterialtype": "Decarabian",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 10000
+      },
+      {
+        "name": "Fragmento de azulejo de Decarabian",
+        "count": 5
+      },
+      {
+        "name": "Cuerno pesado",
+        "count": 5
+      },
+      {
+        "name": "Flecha robusta",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Escombro de la ciudad de Decarabian",
+        "count": 5
+      },
+      {
+        "name": "Cuerno pesado",
+        "count": 18
+      },
+      {
+        "name": "Flecha robusta",
+        "count": 12
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Escombro de la ciudad de Decarabian",
+        "count": 9
+      },
+      {
+        "name": "Cuerno de bronce negro",
+        "count": 9
+      },
+      {
+        "name": "Flecha afilada",
+        "count": 9
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Fragmento de epopeya de Decarabian",
+        "count": 5
+      },
+      {
+        "name": "Cuerno de bronce negro",
+        "count": 18
+      },
+      {
+        "name": "Flecha afilada",
+        "count": 14
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 55000
+      },
+      {
+        "name": "Fragmento de epopeya de Decarabian",
+        "count": 9
+      },
+      {
+        "name": "Cuerno con cristal negro",
+        "count": 14
+      },
+      {
+        "name": "Flecha veterana",
+        "count": 9
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 65000
+      },
+      {
+        "name": "Fragmento de sueño de Decarabian",
+        "count": 6
+      },
+      {
+        "name": "Cuerno con cristal negro",
+        "count": 27
+      },
+      {
+        "name": "Flecha veterana",
+        "count": 18
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Weapon_Aquila_Favonia.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Falcon.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Falcon_Awaken.png",
+    "nameicon": "UI_EquipIcon_Sword_Falcon",
+    "namegacha": "UI_Gacha_EquipIcon_Sword_Falcon",
+    "nameawakenicon": "UI_EquipIcon_Sword_Falcon_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Aquila_Favonia"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 47.5369987487793,
+      "specialized": 0.09000000357627869
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 65.03061573904415,
+      "specialized": 0.10457999883413294
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 87.32546729086016,
+      "specialized": 0.12267000805020345
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 110.14322193011867,
+      "specialized": 0.14085001074671766
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 133.2937397767564,
+      "specialized": 0.15903000271439538
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 164.39374015822614,
+      "specialized": 0.15903000271439538
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 187.97209398570067,
+      "specialized": 0.1772100054109096
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 211.88320535370258,
+      "specialized": 0.1953900081074238
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 236.07952937522532,
+      "specialized": 0.21357000007510152
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 260.56110005138,
+      "specialized": 0.2317500135004522
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 291.6611004328497,
+      "specialized": 0.2317500135004522
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 316.4278724288215,
+      "specialized": 0.24993000546812993
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 341.43233485871497,
+      "specialized": 0.26811001889348063
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 372.6323356216544,
+      "specialized": 0.26811001889348063
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 397.9220220387724,
+      "specialized": 0.28629001086115835
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 423.4018426691018,
+      "specialized": 0.3044700028288361
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 454.5018411432229,
+      "specialized": 0.3044700028288361
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 480.26690842818425,
+      "specialized": 0.32265001625418677
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 506.2220872589496,
+      "specialized": 0.3407400147414208
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 537.3220933624652,
+      "specialized": 0.3407400147414208
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 563.4674517412568,
+      "specialized": 0.3589200067090985
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 589.85050055397,
+      "specialized": 0.3771000201344492
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 620.9504913986966,
+      "specialized": 0.3771000201344492
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 647.5236744246213,
+      "specialized": 0.3952800335597999
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 674.3345478844676,
+      "specialized": 0.41346000406980465
+    }
+  },
+  "version": "1.0"
+}

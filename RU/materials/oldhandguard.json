@@ -1,0 +1,21 @@
+{
+  "name": "Старая гарда",
+  "description": "Этот защитный элемент инадзумского меча повидал немало боёв.\nГардой умелый фехтовальщик способен блокировать клинок противника, тогда как новичкам она защищает руку.",
+  "sortorder": 1762,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Нобуси",
+    "Покупается за Звёздную пыль"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Old_Handguard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Item_Old_Handguard.png",
+    "nameicon": "UI_ItemIcon_112044"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Old_Handguard"
+  },
+  "version": ""
+}

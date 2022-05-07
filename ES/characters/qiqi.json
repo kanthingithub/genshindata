@@ -1,0 +1,914 @@
+{
+  "name": "Qiqi",
+  "fullname": "Qiqi",
+  "title": "La Resurrección del Hielo",
+  "description": "Una aprendiz y recolectora de hierbas en la Farmacia Bubu. Una zombi con una tez blanca como el hueso, de pocas palabras y emociones.",
+  "rarity": "5",
+  "element": "Cryo",
+  "weapontype": "Espada ligera",
+  "substat": "Bono de Curación",
+  "gender": "Femenino",
+  "body": "LOLI",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Farmacia Bubu",
+  "birthdaymmdd": "3/3",
+  "birthday": "3 de marzo",
+  "constellation": "Pristina Nola",
+  "cv": {
+    "english": "Christie Cate",
+    "chinese": "宴宁",
+    "japanese": "田村ゆかり",
+    "korean": "Lee Seul"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Pedacito de jade shivada",
+        "count": 1
+      },
+      {
+        "name": "Campanita de cristal",
+        "count": 3
+      },
+      {
+        "name": "Pergamino guía",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de jade shivada",
+        "count": 3
+      },
+      {
+        "name": "Núcleo de escarcha",
+        "count": 2
+      },
+      {
+        "name": "Campanita de cristal",
+        "count": 10
+      },
+      {
+        "name": "Pergamino guía",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de jade shivada",
+        "count": 6
+      },
+      {
+        "name": "Núcleo de escarcha",
+        "count": 4
+      },
+      {
+        "name": "Campanita de cristal",
+        "count": 20
+      },
+      {
+        "name": "Pergamino hechizado",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Trozo de jade shivada",
+        "count": 3
+      },
+      {
+        "name": "Núcleo de escarcha",
+        "count": 8
+      },
+      {
+        "name": "Campanita de cristal",
+        "count": 30
+      },
+      {
+        "name": "Pergamino hechizado",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Trozo de jade shivada",
+        "count": 6
+      },
+      {
+        "name": "Núcleo de escarcha",
+        "count": 12
+      },
+      {
+        "name": "Campanita de cristal",
+        "count": 45
+      },
+      {
+        "name": "Pergamino maldito",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Jade shivada",
+        "count": 6
+      },
+      {
+        "name": "Núcleo de escarcha",
+        "count": 20
+      },
+      {
+        "name": "Campanita de cristal",
+        "count": 60
+      },
+      {
+        "name": "Pergamino maldito",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Character_Qiqi_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Character_Qiqi_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Qiqi.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817145380161.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817153781489.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/d696551575bc6c117462563fc92eae6c.png",
+    "nameicon": "UI_AvatarIcon_Qiqi",
+    "nameiconcard": "UI_AvatarIcon_Qiqi_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Qiqi",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Qiqi",
+    "namesideicon": "UI_AvatarIcon_Side_Qiqi"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Qiqi"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 962.8532104492188,
+      "attack": 22.3439998626709,
+      "defense": 71.7959976196289,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2497.6413252396014,
+      "attack": 57.96033790251158,
+      "defense": 186.23882508313727,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3323.2008955521014,
+      "attack": 77.11689880033873,
+      "defense": 247.7988264564283,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4972.5685019830125,
+      "attack": 115.3921718862457,
+      "defense": 370.78537462399254,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5559.1502890923875,
+      "attack": 129.00341036585996,
+      "defense": 414.52537630245934,
+      "specialized": 0.055399999022483826
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6395.86968856983,
+      "attack": 148.42034530892943,
+      "defense": 476.9160952212369,
+      "specialized": 0.055399999022483826
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7177.978819429205,
+      "attack": 166.5686645533142,
+      "defense": 535.2360872866666,
+      "specialized": 0.11079999804496765
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8023.363728842989,
+      "attack": 186.18669157431032,
+      "defense": 598.272957585541,
+      "specialized": 0.11079999804496765
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8609.945515952364,
+      "attack": 199.7979319612732,
+      "defense": 642.0129630787051,
+      "specialized": 0.11079999804496765
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9463.033611003106,
+      "attack": 219.59471933425903,
+      "defense": 705.6242281987761,
+      "specialized": 0.11079999804496765
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10049.61539811248,
+      "attack": 233.20596353591918,
+      "defense": 749.3642336919402,
+      "specialized": 0.16619999706745148
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 10912.331786523137,
+      "attack": 253.22618536721802,
+      "defense": 813.6934409860078,
+      "specialized": 0.16619999706745148
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11498.913573632512,
+      "attack": 266.83742193948365,
+      "defense": 857.4334312203828,
+      "specialized": 0.2214999943971634
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12368.370364256552,
+      "attack": 287.0140617423858,
+      "defense": 922.2652425417473,
+      "specialized": 0.2214999943971634
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Ascetismo de la escarcha",
+      "effect": "Qiqi regenera 2 pts. de Energía Elemental cuando el Heraldo de la escarcha golpea a un enemigo marcado por un talismán de conservación de la fortuna."
+    },
+    "c2": {
+      "name": "Frío polar",
+      "effect": "El daño del Ataque Normal y Cargado de Qiqi aumenta en un 15% contra enemigos afectados por Cryo."
+    },
+    "c3": {
+      "name": "Mandato celestial",
+      "effect": "Aumenta el nivel de habilidad de **Magia Adeptus: Preservadora de la fortuna** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c4": {
+      "name": "Supresión divina",
+      "effect": "Reduce en un 20% el ATQ de los objetivos marcados por el talismán de conservación de la fortuna."
+    },
+    "c5": {
+      "name": "Flor de loto carmesí",
+      "effect": "Aumenta el nivel de habilidad de **Magia Adeptus: Heraldo de la escarcha** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c6": {
+      "name": "Rito de la resurrección",
+      "effect": "Al lanzar la habilidad **Magia Adeptus: Preservadora de la fortuna**, revive a todos los miembros del equipo cercanos que han sido derrotados y regenera un 50% de su Vida.\nSolo puede ocurrir una vez cada 15 min."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Qiqi_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Qiqi_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Qiqi_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Qiqi_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Qiqi_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Qiqi_04.png",
+      "constellation": "Eff_UI_Talent_Qiqi"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Qiqi",
+    "combat1": {
+      "name": "Ataque Normal: Técnica de espada antigua",
+      "info": "**Ataque Normal**\nRealiza hasta 5 ataques rápidos.\n\n**Ataque Cargado**\nConsume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado.\n\n**Ataque Descendente**\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "attributes": [
+        {
+          "name": "Daño de 1er golpe",
+          "parameters": [
+            "37.75%",
+            "40.83%",
+            "43.90%",
+            "48.29%",
+            "51.36%",
+            "54.87%",
+            "59.70%",
+            "64.53%",
+            "69.36%",
+            "74.63%",
+            "79.90%",
+            "85.17%",
+            "90.43%",
+            "95.70%",
+            "100.97%"
+          ]
+        },
+        {
+          "name": "Daño de 2.º golpe",
+          "parameters": [
+            "38.87%",
+            "42.04%",
+            "45.20%",
+            "49.72%",
+            "52.88%",
+            "56.50%",
+            "61.47%",
+            "66.44%",
+            "71.42%",
+            "76.84%",
+            "82.26%",
+            "87.69%",
+            "93.11%",
+            "98.54%",
+            "103.96%"
+          ]
+        },
+        {
+          "name": "Daño de 3er golpe",
+          "parameters": [
+            "24.17%+24.17%",
+            "26.13%+26.13%",
+            "28.10%+28.10%",
+            "30.91%+30.91%",
+            "32.88%+32.88%",
+            "35.12%+35.12%",
+            "38.22%+38.22%",
+            "41.31%+41.31%",
+            "44.40%+44.40%",
+            "47.77%+47.77%",
+            "51.14%+51.14%",
+            "54.51%+54.51%",
+            "57.89%+57.89%",
+            "61.26%+61.26%",
+            "64.63%+64.63%"
+          ]
+        },
+        {
+          "name": "Daño de 4.º golpe",
+          "parameters": [
+            "24.68%+24.68%",
+            "26.69%+26.69%",
+            "28.70%+28.70%",
+            "31.57%+31.57%",
+            "33.58%+33.58%",
+            "35.87%+35.87%",
+            "39.03%+39.03%",
+            "42.19%+42.19%",
+            "45.35%+45.35%",
+            "48.79%+48.79%",
+            "52.23%+52.23%",
+            "55.68%+55.68%",
+            "59.12%+59.12%",
+            "62.57%+62.57%",
+            "66.01%+66.01%"
+          ]
+        },
+        {
+          "name": "Daño de 5.º golpe",
+          "parameters": [
+            "63.04%",
+            "68.17%",
+            "73.30%",
+            "80.63%",
+            "85.76%",
+            "91.62%",
+            "99.69%",
+            "107.75%",
+            "115.81%",
+            "124.61%",
+            "133.41%",
+            "142.20%",
+            "151.00%",
+            "159.79%",
+            "168.59%"
+          ]
+        },
+        {
+          "name": "Daño de ATQ Cargado",
+          "parameters": [
+            "64.33%+64.33%",
+            "69.56%+69.56%",
+            "74.80%+74.80%",
+            "82.28%+82.28%",
+            "87.52%+87.52%",
+            "93.50%+93.50%",
+            "101.73%+101.73%",
+            "109.96%+109.96%",
+            "118.18%+118.18%",
+            "127.16%+127.16%",
+            "136.14%+136.14%",
+            "145.11%+145.11%",
+            "154.09%+154.09%",
+            "163.06%+163.06%",
+            "172.04%+172.04%"
+          ]
+        },
+        {
+          "name": "Coste de Aguante de ATQ Cargado",
+          "parameters": [
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts."
+          ]
+        },
+        {
+          "name": "Daño de Caída",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "Daño de impacto de caída baja/alta",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Magia Adeptus: Heraldo de la escarcha",
+      "info": "Usando su talismán de sangre helada, Qiqi invoca al Heraldo de la escarcha, infligiendo Daño Cryo a todos los enemigos cercanos.\n\n**Heraldo de la escarcha**\n·Cuando Qiqi golpea a un objetivo con sus Ataques Normales o Cargados, regenera Vida para todos los miembros de tu equipo y todos los personajes aliados cercanos. La cantidad de Vida regenerada es proporcional al ATQ de Qiqi.\n·Regenera una cierta cantidad de Vida del personaje en uso a intervalos regulares.\n·Sigue al personaje en uso para infligir Daño Cryo a todos los enemigos que se encuentre a su paso.",
+      "description": "“Utilizo esto para evitar el aumento de la temperatura y la podredumbre de... las valiosas hierbas medicinales del Dr. Baizhu”.",
+      "attributes": [
+        {
+          "name": "Daño de habilidad",
+          "parameters": [
+            "96.00%",
+            "103.20%",
+            "110.40%",
+            "120.00%",
+            "127.20%",
+            "134.40%",
+            "144.00%",
+            "153.60%",
+            "163.20%",
+            "172.80%",
+            "182.40%",
+            "192.00%",
+            "204.00%",
+            "216.00%",
+            "228.00%"
+          ]
+        },
+        {
+          "name": "Curación al atacar",
+          "parameters": [
+            "10.56% de ATQ + 67",
+            "11.35% de ATQ + 74",
+            "12.14% de ATQ + 81",
+            "13.20% de ATQ + 89",
+            "13.99% de ATQ + 98",
+            "14.78% de ATQ + 107",
+            "15.84% de ATQ + 116",
+            "16.90% de ATQ + 126",
+            "17.95% de ATQ + 137",
+            "19.01% de ATQ + 148",
+            "20.06% de ATQ + 160",
+            "21.12% de ATQ + 172",
+            "22.44% de ATQ + 185",
+            "23.76% de ATQ + 199",
+            "25.08% de ATQ + 213"
+          ]
+        },
+        {
+          "name": "Curación continua",
+          "parameters": [
+            "69.60% de ATQ + 451",
+            "74.82% de ATQ + 496",
+            "80.04% de ATQ + 544",
+            "87.00% de ATQ + 597",
+            "92.22% de ATQ + 653",
+            "97.44% de ATQ + 713",
+            "104.40% de ATQ + 777",
+            "111.36% de ATQ + 845",
+            "118.32% de ATQ + 916",
+            "125.28% de ATQ + 991",
+            "132.24% de ATQ + 1070",
+            "139.20% de ATQ + 1153",
+            "147.90% de ATQ + 1239",
+            "156.60% de ATQ + 1329",
+            "165.30% de ATQ + 1423"
+          ]
+        },
+        {
+          "name": "Daño de Heraldo de la escarcha",
+          "parameters": [
+            "36.00%",
+            "38.70%",
+            "41.40%",
+            "45.00%",
+            "47.70%",
+            "50.40%",
+            "54.00%",
+            "57.60%",
+            "61.20%",
+            "64.80%",
+            "68.40%",
+            "72.00%",
+            "76.50%",
+            "81.00%",
+            "85.50%"
+          ]
+        },
+        {
+          "name": "Duración",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Magia Adeptus: Preservadora de la fortuna",
+      "info": "Qiqi libera el poder Adeptus sellado dentro de su cuerpo, marcando a los enemigos cercanos con un talismán de conservación de la fortuna que inflige Daño Cryo.\n\n**Talismán de conservación de la fortuna**\nCuando los enemigos marcados con el talismán reciben daño, el personaje que infligió el daño regenera Vida para sí mismo.",
+      "description": "“Soy la Preservadora de la Fortuna, la Doncella de la Resurrección”.\n—Qiqi no recuerda cuándo dijo estas palabras.",
+      "attributes": [
+        {
+          "name": "Daño de habilidad",
+          "parameters": [
+            "284.80%",
+            "306.16%",
+            "327.52%",
+            "356.00%",
+            "377.36%",
+            "398.72%",
+            "427.20%",
+            "455.68%",
+            "484.16%",
+            "512.64%",
+            "541.12%",
+            "569.60%",
+            "605.20%",
+            "640.80%",
+            "676.40%"
+          ]
+        },
+        {
+          "name": "Curación",
+          "parameters": [
+            "90.00% de ATQ + 577",
+            "96.75% de ATQ + 635",
+            "103.50% de ATQ + 698",
+            "112.50% de ATQ + 765",
+            "119.25% de ATQ + 837",
+            "126.00% de ATQ + 914",
+            "135.00% de ATQ + 996",
+            "144.00% de ATQ + 1083",
+            "153.00% de ATQ + 1174",
+            "162.00% de ATQ + 1270",
+            "171.00% de ATQ + 1371",
+            "180.00% de ATQ + 1477",
+            "191.25% de ATQ + 1588",
+            "202.50% de ATQ + 1703",
+            "213.75% de ATQ + 1824"
+          ]
+        },
+        {
+          "name": "Duración",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s"
+          ]
+        },
+        {
+          "name": "Energía Elemental",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Elixir de vida",
+      "info": "Cuando un personaje bajo el efecto de **Magia Adeptus: Heraldo de la escarcha** provoca una Reacción Elemental, aumenta su Bono de Curación recibida en un 20% durante 8 s."
+    },
+    "passive2": {
+      "name": "Apertura arcana",
+      "info": "Cuando Qiqi golpea a sus enemigos con Ataque Normal o Ataque Cargado, tiene un 50% de probabilidad de ponerles un talismán de conservación de la fortuna durante 6 s. Este efecto solo puede activarse una vez cada 30 s."
+    },
+    "passive3": {
+      "name": "Recuerdos de una vida pasada",
+      "info": "Muestra la ubicación de los **objetos típicos de Liyue** cercanos en el minimapa."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseñanzas de la prosperidad",
+          "count": 3
+        },
+        {
+          "name": "Pergamino guía",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guía de la prosperidad",
+          "count": 2
+        },
+        {
+          "name": "Pergamino hechizado",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guía de la prosperidad",
+          "count": 4
+        },
+        {
+          "name": "Pergamino hechizado",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guía de la prosperidad",
+          "count": 6
+        },
+        {
+          "name": "Pergamino hechizado",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guía de la prosperidad",
+          "count": 9
+        },
+        {
+          "name": "Pergamino hechizado",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofía de la prosperidad",
+          "count": 4
+        },
+        {
+          "name": "Pergamino maldito",
+          "count": 4
+        },
+        {
+          "name": "Cola de Boreas",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofía de la prosperidad",
+          "count": 6
+        },
+        {
+          "name": "Pergamino maldito",
+          "count": 6
+        },
+        {
+          "name": "Cola de Boreas",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofía de la prosperidad",
+          "count": 12
+        },
+        {
+          "name": "Pergamino maldito",
+          "count": 9
+        },
+        {
+          "name": "Cola de Boreas",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofía de la prosperidad",
+          "count": 16
+        },
+        {
+          "name": "Pergamino maldito",
+          "count": 12
+        },
+        {
+          "name": "Cola de Boreas",
+          "count": 2
+        },
+        {
+          "name": "Corona de la sabiduría",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_01",
+      "combat2": "Skill_S_Qiqi_01",
+      "combat3": "Skill_E_Qiqi_01_HD",
+      "passive1": "UI_Talent_S_Qiqi_05",
+      "passive2": "UI_Talent_S_Qiqi_06",
+      "passive3": "UI_Talent_Collect_Local_Liyue"
+    },
+    "version": "1.0"
+  }
+}

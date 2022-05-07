@@ -1,0 +1,24 @@
+{
+  "name": "Учения о «Золоте»",
+  "description": "Материал повышения таланта.\nЗолото - это символ царства земли.\nЗолото - это кровь, текущая глубоко под землёй Ли Юэ, это мышцы, которые сокращают сердце Ли Юэ, это кости, которые заставляют Ли Юэ гордо стоять на ногах.",
+  "sortorder": 1866,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Повышение талантов",
+  "dropdomain": "Мастерство: Палящий круг",
+  "daysofweek": [
+    "Среда",
+    "Суббота",
+    "Воскресенье"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Gold.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Item_Teachings_of_Gold.png",
+    "nameicon": "UI_ItemIcon_104316"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Gold"
+  },
+  "version": ""
+}

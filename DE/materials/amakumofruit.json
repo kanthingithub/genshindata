@@ -1,0 +1,20 @@
+{
+  "name": "Amakumo-Frucht",
+  "description": "Die Frucht des Amakumo-Grases, das auf Seirai wächst. Du kannst es mit einem winzigen Strom knistern hören, wenn du es an dein Ohr hältst.",
+  "sortorder": 2067,
+  "category": "EXCHANGE",
+  "materialtype": "Regionale Besonderheit von Inazuma",
+  "source": [
+    "In der freien Natur zu finden",
+    "Empfohlen: Auf Seirai zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Amakumo_Fruit.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Amakumo_Fruit.png",
+    "nameicon": "UI_ItemIcon_101208"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Amakumo_Fruit"
+  },
+  "version": ""
+}

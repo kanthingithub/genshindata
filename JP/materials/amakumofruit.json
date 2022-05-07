@@ -1,0 +1,20 @@
+{
+  "name": "天雲草の実",
+  "description": "セイライ島にある天雲草が結んだ実。耳もとに置くと微かな電流の音が聞こえる。",
+  "sortorder": 2067,
+  "category": "EXCHANGE",
+  "materialtype": "稲妻地域の特産",
+  "source": [
+    "野外で採集",
+    "推奨：セイライ島で採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Amakumo_Fruit.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Amakumo_Fruit.png",
+    "nameicon": "UI_ItemIcon_101208"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Amakumo_Fruit"
+  },
+  "version": ""
+}

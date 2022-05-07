@@ -1,0 +1,168 @@
+{
+  "name": "Tinh Linh Nước Trong",
+  "specialname": "Tinh Linh Nước Trong - Acaste",
+  "enemytype": "BOSS",
+  "category": "Sinh Mệnh Nguyên Tố",
+  "description": "Thể sống được kết tinh từ Nguyên Tố Thủy thuần khiết, luôn tồn tại và sinh trưởng trong nước.\nTheo đó, nếu nguồn nước càng tinh khiết, Nguyên Tố Thủy càng dồi dào thì sức mạnh của Tinh Linh Nước Trong càng trở nên mạnh mẽ. Cũng có truyền thuyết kể lại rằng, ở một nơi rất xa ngoài kia, Tinh Linh Nước Trong vốn là người họ hàng thân thiết của dòng nước. Chúng đem theo những mảnh vỡ từ thần linh đã khuất lưu lạc đến đây. Có lẽ đó là cách chúng thể hiện tình yêu của thần đối với thế giới, hòa quyện và che chở cho dòng nước chảy khắp thế gian...",
+  "investigation": {
+    "name": "Tinh Linh Nước Trong",
+    "category": "Thủ Lĩnh",
+    "description": "Thể sống được kết tinh từ Nguyên Tố Thủy thuần khiết.\\nLuôn tồn tại và sinh trưởng trong nước. Theo đó, nếu nguồn nước càng tinh khiết, Nguyên Tố Thủy càng dồi dào thì sức mạnh của Tinh Linh Nước Trong càng trở nên mạnh mẽ.\\nCũng có truyền thuyết kể lại rằng, ở một nơi rất xa ngoài kia, Tinh Linh Nước Trong vốn là người họ hàng thân thiết của dòng nước. Chúng đem theo những mảnh vỡ từ thần linh đã khuất lưu lạc đến đây. Có lẽ đó là cách chúng thể hiện tình yêu của thần đối với thế giới, hòa quyện và che chở cho dòng nước chảy khắp thế gian..."
+  },
+  "rewardpreview": [
+    {
+      "name": "EXP Mạo Hiểm",
+      "count": 200
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "EXP Yêu Thích"
+    },
+    {
+      "name": "Vụn Thanh Kim Sạch"
+    },
+    {
+      "name": "Mảnh Thanh Kim Sạch"
+    },
+    {
+      "name": "Miếng Thanh Kim Sạch"
+    },
+    {
+      "name": "Thanh Kim Sạch"
+    },
+    {
+      "name": "Trái Tim Thuần Khiết",
+      "count": 2.5556
+    },
+    {
+      "name": "Cuồng Chiến",
+      "rarity": "3"
+    },
+    {
+      "name": "Kẻ Lưu Đày",
+      "rarity": "3"
+    },
+    {
+      "name": "Người Tế Thủy",
+      "rarity": "3"
+    },
+    {
+      "name": "Nhà Mạo Hiểm",
+      "rarity": "3"
+    },
+    {
+      "name": "Lễ Bế Mạc Của Giác Đấu Sĩ",
+      "rarity": "4"
+    },
+    {
+      "name": "Đoàn Hát Lang Thang Đại Lục",
+      "rarity": "4"
+    },
+    {
+      "name": "Cuồng Chiến",
+      "rarity": "4"
+    },
+    {
+      "name": "Kẻ Lưu Đày",
+      "rarity": "4"
+    },
+    {
+      "name": "Người Tế Thủy",
+      "rarity": "4"
+    },
+    {
+      "name": "Lễ Bế Mạc Của Giác Đấu Sĩ",
+      "rarity": "5"
+    },
+    {
+      "name": "Đoàn Hát Lang Thang Đại Lục",
+      "rarity": "5"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Oceanid"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 729.1699315141886,
+      "attack": 152.2663863116577,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 2866.0405358325806,
+      "attack": 406.8166587971864,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 8852.000012823846,
+      "attack": 1003.4998039648926,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 14728.003266277956,
+      "attack": 1639.0596025083796,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 26948.494634823874,
+      "attack": 2450.4833108624443,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 49964.84255924821,
+      "attack": 3778.963487027271,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 83812.54813112319,
+      "attack": 5321.546282113646,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 130519.72637389787,
+      "attack": 7346.143133227946,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 185657.27540502325,
+      "attack": 9451.590193737298,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 243540.86677422747,
+      "attack": 11418.823591017863,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 367651.2154009938,
+      "attack": 14773.25319093978,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 535023.1372169405,
+      "attack": 15066.582932085032,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 719863.1672338396,
+      "attack": 15361.966398832854,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

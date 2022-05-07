@@ -1,0 +1,21 @@
+{
+  "name": "Dao Săn Bắt",
+  "description": "Vũ khí hợp kim sắc bén. Cho dù mất đi chủ nhân vẫn toát ra ánh sáng lạnh lẽo làm người khác bất an.",
+  "sortorder": 1747,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Fatui - Người Xử Lý Nợ rơi",
+    "Đổi từ Tinh Trần"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Hunter's_Sacrificial_Knife.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Item_Hunter%27s_Sacrificial_Knife.png",
+    "nameicon": "UI_ItemIcon_112029"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Hunter's_Sacrificial_Knife"
+  },
+  "version": ""
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Fragrant Seasoning",
+  "description": "Seasoning created using the recipe given to you by Nazafarin. It has a tangy aroma and serves to bring out the flavor in any dish it is added to.",
+  "sortorder": 1232,
+  "rarity": "1",
+  "category": "CONSUME",
+  "materialtype": "Consumable",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_101714",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragrant_Seasoning.png"
+  },
+  "version": "2.6"
+}

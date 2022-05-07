@@ -1,0 +1,897 @@
+{
+  "name": "Sangonomiya Kokomi",
+  "fullname": "Sangonomiya Kokomi",
+  "title": "La Perla de la Sabiduría",
+  "description": "La Sacerdotisa Divina y quien controla todos los asuntos de la Isla Watatsumi.",
+  "rarity": "5",
+  "element": "Hydro",
+  "weapontype": "Catalizador",
+  "substat": "Bono de Daño Hydro",
+  "gender": "Femenino",
+  "body": "GIRL",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "Isla Watatsumi",
+  "birthdaymmdd": "2/22",
+  "birthday": "22 de febrero",
+  "constellation": "Dracaena Somnolenta",
+  "cv": {
+    "english": "Risa Mei",
+    "chinese": "龟娘",
+    "japanese": "三森すずこ",
+    "korean": "Yeo Yoon-mi"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Pedacito de lazurita varunada",
+        "count": 1
+      },
+      {
+        "name": "Perla de coral",
+        "count": 3
+      },
+      {
+        "name": "Caparazón espectral",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de lazurita varunada",
+        "count": 3
+      },
+      {
+        "name": "Rocío del rechazo",
+        "count": 2
+      },
+      {
+        "name": "Perla de coral",
+        "count": 10
+      },
+      {
+        "name": "Caparazón espectral",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de lazurita varunada",
+        "count": 6
+      },
+      {
+        "name": "Rocío del rechazo",
+        "count": 4
+      },
+      {
+        "name": "Perla de coral",
+        "count": 20
+      },
+      {
+        "name": "Corazón espectral",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Trozo de lazurita varunada",
+        "count": 3
+      },
+      {
+        "name": "Rocío del rechazo",
+        "count": 8
+      },
+      {
+        "name": "Perla de coral",
+        "count": 30
+      },
+      {
+        "name": "Corazón espectral",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Trozo de lazurita varunada",
+        "count": 6
+      },
+      {
+        "name": "Rocío del rechazo",
+        "count": 12
+      },
+      {
+        "name": "Perla de coral",
+        "count": 45
+      },
+      {
+        "name": "Núcleo espectral",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Lazurita varunada",
+        "count": 6
+      },
+      {
+        "name": "Rocío del rechazo",
+        "count": 20
+      },
+      {
+        "name": "Perla de coral",
+        "count": 60
+      },
+      {
+        "name": "Núcleo espectral",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Kokomi.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/fd94f2afc70ab075c727ce0805fd0201.png",
+    "nameicon": "UI_AvatarIcon_Kokomi",
+    "nameiconcard": "UI_AvatarIcon_Kokomi_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Kokomi",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Kokomi",
+    "namesideicon": "UI_AvatarIcon_Side_Kokomi",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210909/2021090910072492457.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210914/2021091415174286428.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sangonomiya_Kokomi"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1048.6519775390625,
+      "attack": 18.247600555419922,
+      "defense": 51.1546516418457,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2720.2033357440087,
+      "attack": 47.334277685399684,
+      "defense": 132.69517153014476,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3619.3276033221337,
+      "attack": 62.97880130600515,
+      "defense": 176.55667131652172,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5415.66850285104,
+      "attack": 94.2369421363801,
+      "defense": 264.1845926036658,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 6054.519943280728,
+      "attack": 105.35278877029123,
+      "defense": 295.3493455638709,
+      "specialized": 0.07199999690055847
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6965.798467758985,
+      "attack": 121.20995288725135,
+      "defense": 339.8027356941002,
+      "specialized": 0.07199999690055847
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7817.600347641797,
+      "attack": 136.03107982511756,
+      "defense": 381.35572946851426,
+      "specialized": 0.14399999380111694
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8738.316555904574,
+      "attack": 152.05246914505915,
+      "defense": 426.2695024871027,
+      "specialized": 0.14399999380111694
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9377.168118404574,
+      "attack": 163.16831768631891,
+      "defense": 457.43425926200507,
+      "specialized": 0.14399999380111694
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 10306.273934516066,
+      "attack": 179.33569463239292,
+      "defense": 502.75728861740026,
+      "specialized": 0.14399999380111694
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10945.125252875441,
+      "attack": 190.45153935895542,
+      "defense": 533.9220377629081,
+      "specialized": 0.2160000056028366
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11884.717328743485,
+      "attack": 206.80138778599394,
+      "defense": 579.7566009506536,
+      "specialized": 0.2160000056028366
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12523.568891243485,
+      "attack": 217.9172363272537,
+      "defense": 610.9213500961614,
+      "specialized": 0.2879999876022339
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 13470.501998988213,
+      "attack": 234.39482610244158,
+      "defense": 657.1140186767225,
+      "specialized": 0.2879999876022339
+    }
+  },
+  "version": "2.1",
+  "constellations": {
+    "c1": {
+      "name": "Los límites del agua",
+      "effect": "Mientras está bajo los efectos del manto ceremonial de **Encarnación de las nereidas**, el último golpe del Ataque Normal de Sangonomiya Kokomi liberará un pez nadador adicional que inflige una cantidad de Daño Hydro equivalente al 30% de la Vida Máx. de Kokomi.\nEste daño no se considera daño de Ataque Normal."
+    },
+    "c2": {
+      "name": "Oleaje de nubes",
+      "effect": "Sangonomiya Kokomi obtiene los siguientes aumentos de curación para los personajes con un 50% de Vida o menos a través de las siguientes formas:\n·Aumenta la curación de la medusa de **Juramento de la medusa** en una cantidad adicional en proporción al 4.5% de la Vida Máx. de Kokomi.\n·Aumenta la curación de los Ataques Normales y Cargados realizados bajo los efectos de **Encarnación de las nereidas** en una cantidad adicional en proporción al 0.6% de la Vida Máx. de Kokomi."
+    },
+    "c3": {
+      "name": "Luna del océano",
+      "effect": "Aumenta el nivel de habilidad de **Encarnación de las nereidas** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c4": {
+      "name": "Observadora de las aguas",
+      "effect": "Mientras está bajo los efectos del manto ceremonial de **Encarnación de las nereidas**, la Vel. de Ataque Normal de Sangonomiya Kokomi aumenta en un 10% y recupera 0.8 pts. de Energía Elemental cada vez que golpea a un enemigo con un Ataque Normal.\nEste efecto solo puede ocurrir una vez cada 0.2 s."
+    },
+    "c5": {
+      "name": "Convergencia hacia los mares",
+      "effect": "Aumenta el nivel de habilidad de **Juramento de la medusa** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c6": {
+      "name": "Corazón del coral",
+      "effect": "Mientras está bajo los efectos del manto ceremonial de **Encarnación de las nereidas**, cuando Sangonomiya Kokomi realiza un Ataque Normal o Cargado que tiene efectos curativos con el fin de curar a un personaje con un 80% o más de Vida, obtiene un 40% de Bono de Daño Hydro durante 4 s."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Kokomi_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Kokomi_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Kokomi_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Kokomi_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Kokomi_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Kokomi_04.png",
+      "constellation": "Eff_UI_Talent_Kokomi"
+    },
+    "version": "2.1"
+  },
+  "talent": {
+    "name": "Sangonomiya Kokomi",
+    "combat1": {
+      "name": "Ataque Normal: La forma del agua",
+      "info": "**Ataque Normal**\nRealiza hasta 3 ataques con forma de pez nadador que infligen Daño Hydro.\n\n**Ataque Cargado**\nConsume una cierta cantidad de Aguante para infligir Daño Hydro en el AdE después de un corto tiempo de lanzamiento.\n\n**Ataque Descendente**\nConcentra el poder Hydro y desciende hacia el suelo, dañando a todos los enemigos cercanos e infligiendo Daño Hydro en el AdE en el momento del impacto.",
+      "attributes": [
+        {
+          "name": "Daño de 1er golpe",
+          "parameters": [
+            "68.38%",
+            "73.50%",
+            "78.63%",
+            "85.47%",
+            "90.60%",
+            "95.73%",
+            "102.56%",
+            "109.40%",
+            "116.24%",
+            "123.08%",
+            "129.91%",
+            "136.75%",
+            "145.30%",
+            "153.85%",
+            "162.39%"
+          ]
+        },
+        {
+          "name": "Daño de 2.º golpe",
+          "parameters": [
+            "61.54%",
+            "66.15%",
+            "70.77%",
+            "76.92%",
+            "81.54%",
+            "86.15%",
+            "92.31%",
+            "98.46%",
+            "104.62%",
+            "110.77%",
+            "116.92%",
+            "123.08%",
+            "130.77%",
+            "138.46%",
+            "146.15%"
+          ]
+        },
+        {
+          "name": "Daño de 3er golpe",
+          "parameters": [
+            "94.31%",
+            "101.38%",
+            "108.45%",
+            "117.88%",
+            "124.95%",
+            "132.03%",
+            "141.46%",
+            "150.89%",
+            "160.32%",
+            "169.75%",
+            "179.18%",
+            "188.61%",
+            "200.40%",
+            "212.19%",
+            "223.98%"
+          ]
+        },
+        {
+          "name": "Daño de ATQ Cargado",
+          "parameters": [
+            "148.32%",
+            "159.44%",
+            "170.57%",
+            "185.40%",
+            "196.52%",
+            "207.65%",
+            "222.48%",
+            "237.31%",
+            "252.14%",
+            "266.98%",
+            "281.81%",
+            "296.64%",
+            "315.18%",
+            "333.72%",
+            "352.26%"
+          ]
+        },
+        {
+          "name": "Coste de Aguante de ATQ Cargado",
+          "parameters": [
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts."
+          ]
+        },
+        {
+          "name": "Daño de Caída",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "Daño de impacto de caída baja/alta",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Juramento de la medusa",
+      "info": "Invoca una medusa de agua que cura a los compañeros.\nAl usar esta habilidad, se aplica el estado de Mojado sobre Sangonomiya Kokomi.\n\n**Medusa**\n·Cada cierto tiempo, la medusa inflige Daño Hydro en el AdE contra los enemigos de alrededor y regenera Vida para los personajes en uso cercanos en proporción a la Vida Máx. de Sangonomiya Kokomi.",
+      "description": "Para mantener su eficacia en el trabajo, Kokomi necesita recargar energía a tiempo.",
+      "attributes": [
+        {
+          "name": "Curación",
+          "parameters": [
+            "4.40% de Vida Máx. + 424",
+            "4.73% de Vida Máx. + 466",
+            "5.06% de Vida Máx. + 512",
+            "5.50% de Vida Máx. + 561",
+            "5.83% de Vida Máx. + 614",
+            "6.16% de Vida Máx. + 671",
+            "6.60% de Vida Máx. + 731",
+            "7.04% de Vida Máx. + 795",
+            "7.48% de Vida Máx. + 862",
+            "7.92% de Vida Máx. + 932",
+            "8.36% de Vida Máx. + 1006",
+            "8.80% de Vida Máx. + 1084",
+            "9.35% de Vida Máx. + 1165",
+            "9.90% de Vida Máx. + 1250",
+            "10.45% de Vida Máx. + 1338"
+          ]
+        },
+        {
+          "name": "Daño de la medusa",
+          "parameters": [
+            "109.19%",
+            "117.38%",
+            "125.57%",
+            "136.49%",
+            "144.68%",
+            "152.87%",
+            "163.79%",
+            "174.70%",
+            "185.62%",
+            "196.54%",
+            "207.46%",
+            "218.38%",
+            "232.03%",
+            "245.68%",
+            "259.33%"
+          ]
+        },
+        {
+          "name": "Duración",
+          "parameters": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Encarnación de las nereidas",
+      "info": "Hace descender el poder de Watatsumi para infligir Daño Hydro contra los enemigos cercanos y cubrirse con un manto ceremonial hecho con las aguas de Sangonomiya.\n\n**Manto ceremonial**\n·Aumenta tanto el daño del Ataque Normal y Cargado de Sangonomiya Kokomi como el que inflige la medusa en proporción a su Vida Máx.\n·Al golpear a un enemigo con un Ataque Normal o Cargado, regenera Vida para todos los miembros del equipo cercanos en función de la Vida Máx. de Kokomi.\n·Aumenta la RES a interrupción de Sangonomiya Kokomi y le permite moverse sobre el agua.\n\nEstos efectos desaparecerán cuando Kokomi sea retirada de combate.",
+      "description": "Una luz cristalina envuelve a Su Excelencia, Sangonomiya Kokomi, para reflejar su magnificencia.",
+      "attributes": [
+        {
+          "name": "Daño de habilidad",
+          "parameters": [
+            "10.42% de Vida Máx.",
+            "11.20% de Vida Máx.",
+            "11.98% de Vida Máx.",
+            "13.02% de Vida Máx.",
+            "13.80% de Vida Máx.",
+            "14.58% de Vida Máx.",
+            "15.62% de Vida Máx.",
+            "16.67% de Vida Máx.",
+            "17.71% de Vida Máx.",
+            "18.75% de Vida Máx.",
+            "19.79% de Vida Máx.",
+            "20.83% de Vida Máx.",
+            "22.13% de Vida Máx.",
+            "23.44% de Vida Máx.",
+            "24.74% de Vida Máx."
+          ]
+        },
+        {
+          "name": "Aumento de daño de ATQ Normal",
+          "parameters": [
+            "4.84% de Vida Máx.",
+            "5.20% de Vida Máx.",
+            "5.57% de Vida Máx.",
+            "6.05% de Vida Máx.",
+            "6.41% de Vida Máx.",
+            "6.78% de Vida Máx.",
+            "7.26% de Vida Máx.",
+            "7.74% de Vida Máx.",
+            "8.23% de Vida Máx.",
+            "8.71% de Vida Máx.",
+            "9.20% de Vida Máx.",
+            "9.68% de Vida Máx.",
+            "10.28% de Vida Máx.",
+            "10.89% de Vida Máx.",
+            "11.50% de Vida Máx."
+          ]
+        },
+        {
+          "name": "Aumento de daño de ATQ Cargado",
+          "parameters": [
+            "6.78% de Vida Máx.",
+            "7.28% de Vida Máx.",
+            "7.79% de Vida Máx.",
+            "8.47% de Vida Máx.",
+            "8.98% de Vida Máx.",
+            "9.49% de Vida Máx.",
+            "10.16% de Vida Máx.",
+            "10.84% de Vida Máx.",
+            "11.52% de Vida Máx.",
+            "12.20% de Vida Máx.",
+            "12.87% de Vida Máx.",
+            "13.55% de Vida Máx.",
+            "14.40% de Vida Máx.",
+            "15.25% de Vida Máx.",
+            "16.09% de Vida Máx."
+          ]
+        },
+        {
+          "name": "Aumento de daño de la medusa",
+          "parameters": [
+            "7.10% de Vida Máx.",
+            "7.63% de Vida Máx.",
+            "8.16% de Vida Máx.",
+            "8.87% de Vida Máx.",
+            "9.40% de Vida Máx.",
+            "9.93% de Vida Máx.",
+            "10.64% de Vida Máx.",
+            "11.35% de Vida Máx.",
+            "12.06% de Vida Máx.",
+            "12.77% de Vida Máx.",
+            "13.48% de Vida Máx.",
+            "14.19% de Vida Máx.",
+            "15.08% de Vida Máx.",
+            "15.97% de Vida Máx.",
+            "16.85% de Vida Máx."
+          ]
+        },
+        {
+          "name": "Curación al atacar",
+          "parameters": [
+            "0.81% de Vida Máx. + 77",
+            "0.87% de Vida Máx. + 85",
+            "0.93% de Vida Máx. + 93",
+            "1.01% de Vida Máx. + 102",
+            "1.07% de Vida Máx. + 112",
+            "1.13% de Vida Máx. + 122",
+            "1.21% de Vida Máx. + 133",
+            "1.29% de Vida Máx. + 144",
+            "1.37% de Vida Máx. + 157",
+            "1.45% de Vida Máx. + 169",
+            "1.54% de Vida Máx. + 183",
+            "1.62% de Vida Máx. + 197",
+            "1.72% de Vida Máx. + 212",
+            "1.82% de Vida Máx. + 227",
+            "1.92% de Vida Máx. + 243"
+          ]
+        },
+        {
+          "name": "Duración",
+          "parameters": [
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s"
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s"
+          ]
+        },
+        {
+          "name": "Energía Elemental",
+          "parameters": [
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Bendición de Tamanooya",
+      "info": "Si ya hay en combate una medusa invocada por Sangonomiya Kokomi, al realizar **Encarnación de las nereidas** se reiniciará la duración de la medusa."
+    },
+    "passive2": {
+      "name": "Canto de la perla",
+      "info": "Mientras está bajo los efectos del manto ceremonial de **Encarnación de las nereidas**, el aumento de daño del Ataque Normal y Cargado de Sangonomiya Kokomi en proporción a su Vida Máx. aumenta aún más en una cantidad equivalente al 15% de su Bono de Curación."
+    },
+    "passive3": {
+      "name": "Princesa de Watatsumi",
+      "info": "Disminuye en un 20% el Coste de Aguante al nadar de todos los miembros de tu equipo.\nNo se puede acumular con otros talentos pasivos que tengan los mismos efectos."
+    },
+    "passive4": {
+      "name": "Estrategia infalible",
+      "info": "Aumenta en un 25% el Bono de Curación de Sangonomiya Kokomi, pero reduce su Prob. CRIT en un 100%."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseñanzas de la transitoriedad",
+          "count": 3
+        },
+        {
+          "name": "Caparazón espectral",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guía de la transitoriedad",
+          "count": 2
+        },
+        {
+          "name": "Corazón espectral",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guía de la transitoriedad",
+          "count": 4
+        },
+        {
+          "name": "Corazón espectral",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guía de la transitoriedad",
+          "count": 6
+        },
+        {
+          "name": "Corazón espectral",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guía de la transitoriedad",
+          "count": 9
+        },
+        {
+          "name": "Corazón espectral",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofía de la transitoriedad",
+          "count": 4
+        },
+        {
+          "name": "Núcleo espectral",
+          "count": 4
+        },
+        {
+          "name": "Mariposa del fuego infernal",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofía de la transitoriedad",
+          "count": 6
+        },
+        {
+          "name": "Núcleo espectral",
+          "count": 6
+        },
+        {
+          "name": "Mariposa del fuego infernal",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofía de la transitoriedad",
+          "count": 12
+        },
+        {
+          "name": "Núcleo espectral",
+          "count": 9
+        },
+        {
+          "name": "Mariposa del fuego infernal",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofía de la transitoriedad",
+          "count": 16
+        },
+        {
+          "name": "Núcleo espectral",
+          "count": 12
+        },
+        {
+          "name": "Mariposa del fuego infernal",
+          "count": 2
+        },
+        {
+          "name": "Corona de la sabiduría",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_Catalyst_MD",
+      "combat2": "Skill_S_Kokomi_01",
+      "combat3": "Skill_E_Kokomi_01_HD",
+      "passive1": "UI_Talent_S_Kokomi_05",
+      "passive2": "UI_Talent_S_Kokomi_06",
+      "passive3": "UI_Talent_Explosion_Swim",
+      "passive4": "UI_Talent_S_Kokomi_07"
+    },
+    "version": "2.1"
+  }
+}

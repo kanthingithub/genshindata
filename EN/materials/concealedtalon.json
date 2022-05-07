@@ -1,0 +1,21 @@
+{
+  "name": "Concealed Talon",
+  "description": "A sharp nail left behind by one of the Riftwolves.\nAll the marvels in the world must pale before \"Cretaceus,\" the greatest work of them all.",
+  "sortorder": 1776,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Crafted",
+    "Dropped by Lv. 60+ Riftwolves"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_112058",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Concealed_Talon.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Item_Concealed_Talon.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Concealed_Talon"
+  },
+  "version": ""
+}

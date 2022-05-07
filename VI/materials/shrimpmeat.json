@@ -1,0 +1,20 @@
+{
+  "name": "Tôm Bóc Nõn",
+  "description": "Tôm nõn béo mọng được đánh bắt từ biển sâu. Loài hải sản giàu chất dinh dưỡng cùng hương vị khó quên.",
+  "sortorder": 2008,
+  "category": "EXCHANGE",
+  "materialtype": "Nguyên Liệu Thực Phẩm",
+  "source": [
+    "Mua ở Tiệm Tạp Hóa Liyue",
+    "Mua trong Tiệm Tạp Hóa Inazuma"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shrimp_Meat.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d0/Item_Shrimp_Meat.png",
+    "nameicon": "UI_ItemIcon_100093"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shrimp_Meat"
+  },
+  "version": ""
+}

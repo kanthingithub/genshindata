@@ -1,0 +1,20 @@
+{
+  "name": "Dandelion Seed",
+  "description": "Biji kecil yang menaiki angin. Tanpa sayapnya pun, ia masih memegang harapan yang jauh di dalamnya.",
+  "sortorder": 2043,
+  "category": "EXCHANGE",
+  "materialtype": "Produk khas Mondstadt",
+  "source": [
+    "Ditemukan di alam liar",
+    "Rekomendasi: Ditemukan di gerbang Mondstadt"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dandelion_Seed.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Item_Dandelion_Seed.png",
+    "nameicon": "UI_ItemIcon_100057"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dandelion_Seed"
+  },
+  "version": ""
+}

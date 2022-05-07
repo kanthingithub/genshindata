@@ -1,0 +1,22 @@
+{
+  "name": "Pedaço de Jade Shivada",
+  "description": "Material de Ascensão de Personagem.\n\"Desculpe...\"\n\"...por lhe fazer ter que carregar o peso deste mundo.\"",
+  "sortorder": 1844,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Dropado por Regisvine Cryo Nv.60+",
+    "Dropado pelo Hypostasis Cryo Nv.60+",
+    "Obtido na síntese"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shivada_Jade_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Item_Shivada_Jade_Chunk.png",
+    "nameicon": "UI_ItemIcon_104163"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shivada_Jade_Chunk"
+  },
+  "version": ""
+}

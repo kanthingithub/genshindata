@@ -1,0 +1,178 @@
+{
+  "name": "Domínio da Forja: Sepultura da Areia Movediça",
+  "region": "Inazuma",
+  "domainEntrance": "Jardim da Areia Fluente",
+  "domainType": "Material de Ascensão de Armas",
+  "description": "Na arena do fluxo eterna da areia dourada, esconde-se um inimigo de poderosos ataques Geo.\nSe você passar neste Julgamento, poderá obter Materiais de Fortalecimento de equipamentos.",
+  "daysOfWeek": [
+    "Quarta-feira",
+    "Sábado",
+    "Domingo"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Rock"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domínio da Forja: Sepultura da Areia Movediça I",
+      "recommendedLevel": 15,
+      "recommendedElements": [
+        "Geo",
+        "Cryo"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1125
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 10
+        },
+        {
+          "name": "Máscara do Tenente Perverso"
+        }
+      ],
+      "disorder": [
+        "A Força do Escudo de todos os membros da equipe aumenta em 40%.",
+        "Ao obter os Fragmentos criados pela Reação Elemental de Geo, os personagens liberarão uma Onda de Choque, causando danos aos inimigos ao redor."
+      ],
+      "monsterlist": [
+        "Slime Hydro",
+        "Grande Slime Hydro",
+        "Slime Pyro",
+        "Grande Slime Pyro"
+      ]
+    },
+    {
+      "name": "Domínio da Forja: Sepultura da Areia Movediça II",
+      "recommendedLevel": 36,
+      "recommendedElements": [
+        "Geo",
+        "Cryo"
+      ],
+      "unlockRank": 21,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1550
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 15
+        },
+        {
+          "name": "Máscara do Tenente Perverso"
+        },
+        {
+          "name": "Máscara da Mordida do Tigre"
+        }
+      ],
+      "disorder": [
+        "A Força do Escudo de todos os membros da equipe aumenta em 40%.",
+        "Ao obter os Fragmentos criados pela Reação Elemental de Geo, os personagens liberarão uma Onda de Choque, causando danos aos inimigos ao redor."
+      ],
+      "monsterlist": [
+        "Grande Slime Hydro",
+        "Grande Slime Pyro"
+      ]
+    },
+    {
+      "name": "Domínio da Forja: Sepultura da Areia Movediça III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Geo",
+        "Cryo"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 15
+        },
+        {
+          "name": "Máscara do Tenente Perverso"
+        },
+        {
+          "name": "Máscara da Mordida do Tigre"
+        },
+        {
+          "name": "Máscara Daquele com Um Chifre"
+        }
+      ],
+      "disorder": [
+        "A Força do Escudo de todos os membros da equipe aumenta em 40%.",
+        "Ao obter os Fragmentos criados pela Reação Elemental de Geo, os personagens liberarão uma Onda de Choque, causando danos aos inimigos ao redor."
+      ],
+      "monsterlist": [
+        "Grande Slime Hydro",
+        "Grande Slime Pyro",
+        "Feiticeiro do Abismo Hydro",
+        "Feiticeiro do Abismo Pyro"
+      ]
+    },
+    {
+      "name": "Domínio da Forja: Sepultura da Areia Movediça IV",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Geo",
+        "Cryo"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 20
+        },
+        {
+          "name": "Máscara do Tenente Perverso"
+        },
+        {
+          "name": "Máscara da Mordida do Tigre"
+        },
+        {
+          "name": "Máscara Daquele com Um Chifre"
+        },
+        {
+          "name": "Máscara de Kijin"
+        }
+      ],
+      "disorder": [
+        "A Força do Escudo de todos os membros da equipe aumenta em 40%.",
+        "Ao obter os Fragmentos criados pela Reação Elemental de Geo, os personagens liberarão uma Onda de Choque, causando danos aos inimigos ao redor."
+      ],
+      "monsterlist": [
+        "Hilichurl Granadeiro Electro",
+        "Grande Slime Electro",
+        "Grande Slime Mutante",
+        "Mitachurl do Machado Electro"
+      ]
+    }
+  ]
+}

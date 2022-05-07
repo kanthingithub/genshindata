@@ -1,0 +1,141 @@
+{
+  "name": "Demoledor de las Ruinas",
+  "specialname": "Ra-11235",
+  "enemytype": "ELITE",
+  "category": "Autómatas",
+  "description": "Una máquina de guerra muy antigua con forma humanoide.\nSu apariencia es similar a la del Guardián de las Ruinas, pero está más deformado y es más fuerte. Tiene núcleos de energía en ambos pies, probablemente para poder soportar el peso de su cuerpo.",
+  "investigation": {
+    "name": "Guardián de las Ruinas",
+    "category": "Élites",
+    "description": "Una antigua máquina de guerra con forma humanoide.\\nCuenta la leyenda que se trata de una máquina legada por un imperio que desapareció. Hay quien dice que no fue construida para combatir, sino para proteger las ruinas del pasado.\\nSin embargo, nadie entiende por qué usan ataques explosivos en las ruinas que deberían proteger..."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Dispositivo del caos",
+      "count": 2.6263
+    },
+    {
+      "name": "Circuito del caos",
+      "count": 0.7003
+    },
+    {
+      "name": "Caldera del caos",
+      "count": 0.1751
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "3"
+    },
+    {
+      "name": "Exiliado",
+      "rarity": "3"
+    },
+    {
+      "name": "Médica Itinerante",
+      "rarity": "3"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "4"
+    },
+    {
+      "name": "Exiliado",
+      "rarity": "4"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Konungmathr"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 656.2529383627698,
+      "attack": 177.64411222515264,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 2579.4364822493226,
+      "attack": 474.6194215347714,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 7966.800011541462,
+      "attack": 1170.7497374278319,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 13255.20293965016,
+      "attack": 1912.2361476140213,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 24253.645171341486,
+      "attack": 2858.8971133111045,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 44968.35830332339,
+      "attack": 4408.790607338597,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 75431.29331801087,
+      "attack": 6208.470482882694,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 117467.75373650808,
+      "attack": 8570.500074193114,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 167091.54786452092,
+      "attack": 11026.854907069355,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 219186.78009680472,
+      "attack": 13321.960470842896,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 330886.09386089444,
+      "attack": 17235.461557551753,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 481520.82349524647,
+      "attack": 17577.679578989046,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 647876.8505104557,
+      "attack": 17922.293613560032,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

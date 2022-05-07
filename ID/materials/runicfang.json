@@ -1,0 +1,16 @@
+{
+  "name": "Runic Fang",
+  "description": "Mesin kuno berbentuk mirip ular misterius yang digunakan untuk menggali \"gigi\" dinding gunung diukir dengan simbol aneh yang tak terpecahkan.\nMenurut legenda, ada cacing besar yang bersembunyi di celah-celah hitam yang dalam di bumi. Mereka selalu menyimpan dendam dan kebencian terhadap bumi, dan mereka menggali terowongan besar dengan tujuan yang jahat dan tidak diketahui ....",
+  "sortorder": 1817,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Dijatuhkan oleh Ruin Serpent Lv. 30+"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_113035",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Runic_Fang.png"
+  },
+  "version": "2.6"
+}

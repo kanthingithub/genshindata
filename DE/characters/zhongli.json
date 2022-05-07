@@ -1,0 +1,934 @@
+{
+  "name": "Zhongli",
+  "fullname": "Zhongli",
+  "title": "Besucher bei den Sterblichen",
+  "description": "Ein geheimnisvoller Gast beim Bestattungsunternehmen Wangsheng, der eine unglaubliche Menge Wissen angehäuft hat.",
+  "rarity": "5",
+  "element": "Geo",
+  "weapontype": "Stangenwaffe",
+  "substat": "Geo-SCH-Bonus",
+  "gender": "Männlich",
+  "body": "MALE",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Liyue",
+  "birthdaymmdd": "12/31",
+  "birthday": "31. Dezember",
+  "constellation": "Lapis Dei",
+  "cv": {
+    "english": "Keith Silverstein",
+    "chinese": "彭博",
+    "japanese": "前野智昭",
+    "korean": "Pyo Young-jae"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Prithiva-Topas-Splitter",
+        "count": 1
+      },
+      {
+        "name": "Cor Lapis",
+        "count": 3
+      },
+      {
+        "name": "Schleimabsonderung",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Prithiva-Topas-Bruchstück",
+        "count": 3
+      },
+      {
+        "name": "Steinturm",
+        "count": 2
+      },
+      {
+        "name": "Cor Lapis",
+        "count": 10
+      },
+      {
+        "name": "Schleimabsonderung",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Prithiva-Topas-Bruchstück",
+        "count": 6
+      },
+      {
+        "name": "Steinturm",
+        "count": 4
+      },
+      {
+        "name": "Cor Lapis",
+        "count": 20
+      },
+      {
+        "name": "Schleimkondensat",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Prithiva-Topas-Brocken",
+        "count": 3
+      },
+      {
+        "name": "Steinturm",
+        "count": 8
+      },
+      {
+        "name": "Cor Lapis",
+        "count": 30
+      },
+      {
+        "name": "Schleimkondensat",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Prithiva-Topas-Brocken",
+        "count": 6
+      },
+      {
+        "name": "Steinturm",
+        "count": 12
+      },
+      {
+        "name": "Cor Lapis",
+        "count": 45
+      },
+      {
+        "name": "Schleimkonzentrat",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Prithiva-Topas",
+        "count": 6
+      },
+      {
+        "name": "Steinturm",
+        "count": 20
+      },
+      {
+        "name": "Cor Lapis",
+        "count": 60
+      },
+      {
+        "name": "Schleimkonzentrat",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Character_Zhongli_Card.png",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/7/7d/Character_Zhongli_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Zhongli.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201123/2020112310503599073.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201123/2020112310504363585.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/693b8a54de3e9ea43854615c14a5032b.png",
+    "nameicon": "UI_AvatarIcon_Zhongli",
+    "nameiconcard": "UI_AvatarIcon_Zhongli_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Zhongli",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Zhongli",
+    "namesideicon": "UI_AvatarIcon_Side_Zhongli"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Zhongli"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1143.9840087890625,
+      "attack": 19.551000595092773,
+      "defense": 57.436798095703125,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2967.494634443574,
+      "attack": 50.71529752007109,
+      "defense": 148.99106006650982,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3948.357427412324,
+      "attack": 67.47729665032011,
+      "defense": 198.23906116514263,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5908.002102109254,
+      "attack": 100.96816182572184,
+      "defense": 296.62829969919403,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 6604.931057187379,
+      "attack": 112.87796330887613,
+      "defense": 331.62029646433075,
+      "specialized": 0.07199999690055847
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 7599.053112821595,
+      "attack": 129.86778200561912,
+      "defense": 381.5328715993528,
+      "specialized": 0.07199999690055847
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 8528.29163821222,
+      "attack": 145.7475828021279,
+      "defense": 428.18886982933327,
+      "specialized": 0.14399999380111694
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 9532.709349183715,
+      "attack": 162.9133570734939,
+      "defense": 478.6183660684328,
+      "specialized": 0.14399999380111694
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 10229.638060121215,
+      "attack": 174.82315474195093,
+      "defense": 513.610370462964,
+      "specialized": 0.14399999380111694
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 11243.208070830384,
+      "attack": 192.14534432703022,
+      "defense": 564.4993825590209,
+      "specialized": 0.14399999380111694
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 11940.137025908509,
+      "attack": 204.05524499231342,
+      "defense": 599.4913869535521,
+      "specialized": 0.2160000056028366
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 12965.146593048645,
+      "attack": 221.57293973556898,
+      "defense": 650.9547527888062,
+      "specialized": 0.2160000056028366
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 13662.07554812677,
+      "attack": 233.482737404026,
+      "defense": 685.9467419245484,
+      "specialized": 0.2879999876022339
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 14695.093513910891,
+      "attack": 251.1372978774416,
+      "defense": 737.81219098164,
+      "specialized": 0.2879999876022339
+    }
+  },
+  "version": "1.1",
+  "constellations": {
+    "c1": {
+      "name": "Skelett der Erde",
+      "effect": "Bis zu 2 Hügelkämme von **Dominus Lapidis** können gleichzeitig existieren."
+    },
+    "c2": {
+      "name": "Heimat der Jade",
+      "effect": "**Einstürzender Himmel** gibt aktuellen Figuren in der Nähe des Sturzes einen Jadeblock zum Schutz."
+    },
+    "c3": {
+      "name": "Funkelnd und doch dunkel",
+      "effect": "Erhöht die Stufe der Fähigkeit **Dominus Lapidis** um 3.\nHöchststufe 15."
+    },
+    "c4": {
+      "name": "Gebrochen und doch hart",
+      "effect": "Vergrößert den Wirkungsbereich von **Einstürzender Himmel** um 20 %.\nVerlängert den Effekt der Versteinerung von Einstürzender Himmel um 2 s."
+    },
+    "c5": {
+      "name": "Verkünder der Ordnung",
+      "effect": "Erhöht die Stufe der Fähigkeit **Einstürzender Himmel** um 3.\nHöchststufe 15."
+    },
+    "c6": {
+      "name": "Geschenk des Bodens",
+      "effect": "Stellt der aktuellen Figur LP in Höhe von 40 % des Schadens wieder her, wenn der Jadeblock Schaden erleidet.\nDie bei jeder Heilung wiederhergestellten LP können 8 % der max. LP der Figur nicht übersteigen."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Zhongli_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Zhongli_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Zhongli_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Zhongli_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Zhongli_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Zhongli_04.png",
+      "constellation": "Eff_UI_Talent_Zhongli"
+    },
+    "version": "1.1"
+  },
+  "talent": {
+    "name": "Zhongli",
+    "combat1": {
+      "name": "Standardangriff: Steinhagel",
+      "info": "**Standardangriff**\nFührt bis zu 6 Lanzenstiche hintereinander aus.\n\n**Heftiger Schlag**\nVerbraucht eine gewisse Menge Ausdauer, läuft geschwind nach vorn und lässt steinerne Lanzen von Anfang bis Ende auf die Bahn der Bewegung fallen.\n\n**Angriff aus dem Fall**\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "attributes": [
+        {
+          "name": "SCH Phase 1",
+          "parameters": [
+            "30.77%",
+            "33.27%",
+            "35.78%",
+            "39.36%",
+            "41.86%",
+            "44.72%",
+            "48.66%",
+            "52.59%",
+            "56.53%",
+            "60.82%",
+            "65.74%",
+            "71.53%",
+            "77.31%",
+            "83.10%",
+            "89.41%"
+          ]
+        },
+        {
+          "name": "SCH Phase 2",
+          "parameters": [
+            "31.15%",
+            "33.69%",
+            "36.22%",
+            "39.85%",
+            "42.38%",
+            "45.28%",
+            "49.26%",
+            "53.25%",
+            "57.23%",
+            "61.58%",
+            "66.56%",
+            "72.42%",
+            "78.27%",
+            "84.13%",
+            "90.52%"
+          ]
+        },
+        {
+          "name": "SCH Phase 3",
+          "parameters": [
+            "38.58%",
+            "41.72%",
+            "44.86%",
+            "49.34%",
+            "52.48%",
+            "56.07%",
+            "61.00%",
+            "65.94%",
+            "70.87%",
+            "76.26%",
+            "82.42%",
+            "89.68%",
+            "96.93%",
+            "104.18%",
+            "112.10%"
+          ]
+        },
+        {
+          "name": "SCH Phase 4",
+          "parameters": [
+            "42.94%",
+            "46.43%",
+            "49.93%",
+            "54.92%",
+            "58.42%",
+            "62.41%",
+            "67.90%",
+            "73.40%",
+            "78.89%",
+            "84.88%",
+            "91.74%",
+            "99.82%",
+            "107.89%",
+            "115.97%",
+            "124.77%"
+          ]
+        },
+        {
+          "name": "SCH Phase 5",
+          "parameters": [
+            "10.75% ×4",
+            "11.63% ×4",
+            "12.50% ×4",
+            "13.75% ×4",
+            "14.62% ×4",
+            "15.63% ×4",
+            "17.00% ×4",
+            "18.38% ×4",
+            "19.75% ×4",
+            "21.25% ×4",
+            "22.97% ×4",
+            "24.99% ×4",
+            "27.01% ×4",
+            "29.03% ×4",
+            "31.24% ×4"
+          ]
+        },
+        {
+          "name": "SCH Phase 6",
+          "parameters": [
+            "54.50%",
+            "58.93%",
+            "63.37%",
+            "69.70%",
+            "74.14%",
+            "79.21%",
+            "86.18%",
+            "93.15%",
+            "100.12%",
+            "107.73%",
+            "116.44%",
+            "126.69%",
+            "136.93%",
+            "147.18%",
+            "158.36%"
+          ]
+        },
+        {
+          "name": "SCH heftiger Schläge",
+          "parameters": [
+            "111.03%",
+            "120.06%",
+            "129.10%",
+            "142.01%",
+            "151.05%",
+            "161.37%",
+            "175.58%",
+            "189.78%",
+            "203.98%",
+            "219.47%",
+            "237.22%",
+            "258.10%",
+            "278.97%",
+            "299.85%",
+            "322.62%"
+          ]
+        },
+        {
+          "name": "Ausdauerverbrauch heftiger Schläge",
+          "parameters": [
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte",
+            "25 Punkte"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen aus niedriger/großer Höhe",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Dominus Lapidis",
+      "info": "In den Bergen, auf und unter der Erde sowie in den Steinen, die überall herumliegen, steckt die Geo-Kraft. Nur äußerst wenige sind dazu in der Lage, diese Kraft aktiv zu nutzen.\n\n**Drücken**\nKonzentriert die überall auf der Erde vorhandene Geo-Kraft zu einem Hügelkamm.\n\n**Gedrückt halten**\nLässt Geo-Objekte in der Nähe explodieren und verursacht folgende Effekte:\n· Erstellt, solange die Höchstmenge nicht erreicht ist, einen Hügelkamm.\n· Erstellt einen Jadeblock, der Schaden basierend auf Zhonglis max. LP abhält.\n· Verursacht Geo-Flächenschaden.\n· Verbraucht bei Anwesenheit von Zielen mit Geo-Kraft die Geo-Kraft von bis zu zwei dieser Ziele. Dieser Effekt verursacht keinen Schaden.\n\n**Hügelkamm**\nVerursacht beim Entstehen Geo-Flächenschaden.\nVerursacht während der Wirkungsdauer eine Schwingung in Einklang mit anderen Geo-Objekten in der Umgebung, die Gegnern in der Umgebung Geo-Schaden zufügt.\nDer Hügelkamm gilt als Geo-Objekt, blockiert Angriffe und kann erklommen werden.\nStandardmäßig kann zu einem Zeitpunkt nur ein von Zhongli selbst erstellter Hügelkamm existieren.\n\n**Jadeblock-Schild**\nHält bei elementarem sowie physischem Schaden 150 % ab.\nVerringert den WDS gegen alle Elemente sowie den physischen WDS von Gegnern in der Nähe von Jadeblöcken geschützer Figuren mit geringer Reichweite um 20 %, nicht stapelbar.",
+      "description": "Der Fels ist hart und schleift rohe Jade zu wertvollen Edelsteinen.",
+      "attributes": [
+        {
+          "name": "Hügelkamm-SCH/Resonanz-SCH",
+          "parameters": [
+            "16.00%/32.00%",
+            "17.20%/34.40%",
+            "18.40%/36.80%",
+            "20.00%/40.00%",
+            "21.20%/42.40%",
+            "22.40%/44.80%",
+            "24.00%/48.00%",
+            "25.60%/51.20%",
+            "27.20%/54.40%",
+            "28.80%/57.60%",
+            "30.40%/60.80%",
+            "32.00%/64.00%",
+            "34.00%/68.00%",
+            "36.00%/72.00%",
+            "38.00%/76.00%"
+          ]
+        },
+        {
+          "name": "Abklingzeit für Drücken",
+          "parameters": [
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s"
+          ]
+        },
+        {
+          "name": "SCH bei Gedrückthalten",
+          "parameters": [
+            "80.00%",
+            "86.00%",
+            "92.00%",
+            "100.00%",
+            "106.00%",
+            "112.00%",
+            "120.00%",
+            "128.00%",
+            "136.00%",
+            "144.00%",
+            "152.00%",
+            "160.00%",
+            "170.00%",
+            "180.00%",
+            "190.00%"
+          ]
+        },
+        {
+          "name": "Basisschildstärke",
+          "parameters": [
+            "1232",
+            "1356",
+            "1489",
+            "1633",
+            "1787",
+            "1951",
+            "2126",
+            "2311",
+            "2506",
+            "2712",
+            "2927",
+            "3153",
+            "3389",
+            "3636",
+            "3893"
+          ]
+        },
+        {
+          "name": "Zusätzliche Schildstärke",
+          "parameters": [
+            "12.80% der max. LP",
+            "13.76% der max. LP",
+            "14.72% der max. LP",
+            "16.00% der max. LP",
+            "16.96% der max. LP",
+            "17.92% der max. LP",
+            "19.20% der max. LP",
+            "20.48% der max. LP",
+            "21.76% der max. LP",
+            "23.04% der max. LP",
+            "24.32% der max. LP",
+            "25.60% der max. LP",
+            "27.20% der max. LP",
+            "28.80% der max. LP",
+            "30.40% der max. LP"
+          ]
+        },
+        {
+          "name": "Schilddauer",
+          "parameters": [
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s"
+          ]
+        },
+        {
+          "name": "Abklingzeit für Gedrückthalten",
+          "parameters": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Einstürzender Himmel",
+      "info": "Ein riesiger Meteorit fällt aus dem Himmel und fügt den Gegnern im Wirkungsbereich des Einschlags enormen Geo-Schaden sowie Versteinert zu.\n\n**Versteinert**\nGegner im Zustand Versteinert können sich nicht bewegen.",
+      "description": "Ein aus dem Himmel fallender Meteorit hilft den Gerechten und bestraft die Unholde.",
+      "attributes": [
+        {
+          "name": "Fähigkeits-SCH",
+          "parameters": [
+            "401.08%",
+            "444.44%",
+            "487.80%",
+            "542.00%",
+            "590.78%",
+            "639.56%",
+            "704.60%",
+            "769.64%",
+            "834.68%",
+            "899.72%",
+            "964.76%",
+            "1029.80%",
+            "1084.00%",
+            "1138.20%",
+            "1192.40%"
+          ]
+        },
+        {
+          "name": "Dauer der Versteinerung",
+          "parameters": [
+            "3.0999999046325684 s",
+            "3.200000047683716 s",
+            "3.299999952316284 s",
+            "3.4000000953674316 s",
+            "3.5 s",
+            "3.5999999046325684 s",
+            "3.700000047683716 s",
+            "3.799999952316284 s",
+            "3.9000000953674316 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s"
+          ]
+        },
+        {
+          "name": "Abklingzeit",
+          "parameters": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        },
+        {
+          "name": "Elementarenergie",
+          "parameters": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Wellenartige Ausbreitung",
+      "info": "Löst den Effekt beständige Wand aus, wenn ein Jadeblock Schaden erleidet:\n· Erhöht die Schildeffizienz der Figuren im Schutz eines Jadeblocks um 5 %.\n· 5-fach stapelbar, hält bis zum Verschwinden des Jadeblocks."
+    },
+    "passive2": {
+      "name": "Hungrige Erde",
+      "info": "Erhöht den mit den folgenden Angriffen von Zhongli verursachten Schaden basierend auf seinen max. LP:\n· Erhöht den Schaden von Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall um 1,39 % der max. LP.\n· Erhöht den Schaden des Hügelkamms von **Dominus Lapidis**, den des Einklangs und den beim Gedrückthalten um 1,9 % der max. LP.\n· Erhöht den Schaden von **Einstürzender Himmel** um 33 % der max. LP."
+    },
+    "passive3": {
+      "name": "Verhängnis der Kristalle",
+      "info": "Gibt beim Schmieden von Stangenwaffen 15 % des verbrauchten Erzes zurück."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Lehren des „Golds“",
+          "count": 3
+        },
+        {
+          "name": "Schleimabsonderung",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Anleitung zum „Gold“",
+          "count": 2
+        },
+        {
+          "name": "Schleimkondensat",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Anleitung zum „Gold“",
+          "count": 4
+        },
+        {
+          "name": "Schleimkondensat",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Anleitung zum „Gold“",
+          "count": 6
+        },
+        {
+          "name": "Schleimkondensat",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Anleitung zum „Gold“",
+          "count": 9
+        },
+        {
+          "name": "Schleimkondensat",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie des „Golds“",
+          "count": 4
+        },
+        {
+          "name": "Schleimkonzentrat",
+          "count": 4
+        },
+        {
+          "name": "Hauer des Monoceros Caeli",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie des „Golds“",
+          "count": 6
+        },
+        {
+          "name": "Schleimkonzentrat",
+          "count": 6
+        },
+        {
+          "name": "Hauer des Monoceros Caeli",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie des „Golds“",
+          "count": 12
+        },
+        {
+          "name": "Schleimkonzentrat",
+          "count": 9
+        },
+        {
+          "name": "Hauer des Monoceros Caeli",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie des „Golds“",
+          "count": 16
+        },
+        {
+          "name": "Schleimkonzentrat",
+          "count": 12
+        },
+        {
+          "name": "Hauer des Monoceros Caeli",
+          "count": 2
+        },
+        {
+          "name": "Krone der Weisheit",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_03",
+      "combat2": "Skill_S_Zhongli_01",
+      "combat3": "Skill_E_Zhongli_01_HD",
+      "passive1": "UI_Talent_S_Zhongli_05",
+      "passive2": "UI_Talent_S_Zhongli_06",
+      "passive3": "UI_Talent_Forge_Pole"
+    },
+    "version": "1.1"
+  }
+}

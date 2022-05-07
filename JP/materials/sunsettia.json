@@ -1,0 +1,19 @@
+{
+  "name": "夕暮れの実",
+  "description": "テイワットの自然の恩恵を受けた果実。夕暮れの色と特殊な香りが特徴。",
+  "sortorder": 1404,
+  "category": "NOTICE_ADD_HP",
+  "materialtype": "食べ物",
+  "source": [
+    "野外で採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sunsettia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Item_Sunsettia.png",
+    "nameicon": "UI_ItemIcon_100002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sunsettia"
+  },
+  "version": ""
+}

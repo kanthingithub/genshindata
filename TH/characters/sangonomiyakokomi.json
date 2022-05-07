@@ -1,0 +1,897 @@
+{
+  "name": "Sangonomiya Kokomi",
+  "fullname": "Sangonomiya Kokomi",
+  "title": "ไข่มุกแห่งปัญญา",
+  "description": "ผู้นำมิโกะคนปัจจุบันของเกาะ Watatsumi สาวน้อยผู้รับผิดชอบงานทุกอย่างบนเกาะ Watatsumi",
+  "rarity": "5",
+  "element": "น้ำ",
+  "weapontype": "สื่อเวท",
+  "substat": "โบนัสความเสียหายน้ำ",
+  "gender": "ผู้หญิง",
+  "body": "GIRL",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "เกาะ Watatsumi",
+  "birthdaymmdd": "2/22",
+  "birthday": "22 กุมภาพันธ์",
+  "constellation": "Dracaena Somnolenta",
+  "cv": {
+    "english": "Risa Mei",
+    "chinese": "龟娘",
+    "japanese": "三森すずこ",
+    "korean": "Yeo Yoon-mi"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Varunada Lazurite Sliver",
+        "count": 1
+      },
+      {
+        "name": "Sango Pearl",
+        "count": 3
+      },
+      {
+        "name": "Spectral Husk",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Varunada Lazurite Fragment",
+        "count": 3
+      },
+      {
+        "name": "Dew of Repudiation",
+        "count": 2
+      },
+      {
+        "name": "Sango Pearl",
+        "count": 10
+      },
+      {
+        "name": "Spectral Husk",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Varunada Lazurite Fragment",
+        "count": 6
+      },
+      {
+        "name": "Dew of Repudiation",
+        "count": 4
+      },
+      {
+        "name": "Sango Pearl",
+        "count": 20
+      },
+      {
+        "name": "Spectral Heart",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Varunada Lazurite Chunk",
+        "count": 3
+      },
+      {
+        "name": "Dew of Repudiation",
+        "count": 8
+      },
+      {
+        "name": "Sango Pearl",
+        "count": 30
+      },
+      {
+        "name": "Spectral Heart",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Varunada Lazurite Chunk",
+        "count": 6
+      },
+      {
+        "name": "Dew of Repudiation",
+        "count": 12
+      },
+      {
+        "name": "Sango Pearl",
+        "count": 45
+      },
+      {
+        "name": "Spectral Nucleus",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Varunada Lazurite Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Dew of Repudiation",
+        "count": 20
+      },
+      {
+        "name": "Sango Pearl",
+        "count": 60
+      },
+      {
+        "name": "Spectral Nucleus",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kokomi.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Kokomi.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/fd94f2afc70ab075c727ce0805fd0201.png",
+    "nameicon": "UI_AvatarIcon_Kokomi",
+    "nameiconcard": "UI_AvatarIcon_Kokomi_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Kokomi",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Kokomi",
+    "namesideicon": "UI_AvatarIcon_Side_Kokomi",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210909/2021090910072492457.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210914/2021091415174286428.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sangonomiya_Kokomi"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1048.6519775390625,
+      "attack": 18.247600555419922,
+      "defense": 51.1546516418457,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2720.2033357440087,
+      "attack": 47.334277685399684,
+      "defense": 132.69517153014476,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3619.3276033221337,
+      "attack": 62.97880130600515,
+      "defense": 176.55667131652172,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5415.66850285104,
+      "attack": 94.2369421363801,
+      "defense": 264.1845926036658,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 6054.519943280728,
+      "attack": 105.35278877029123,
+      "defense": 295.3493455638709,
+      "specialized": 0.07199999690055847
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6965.798467758985,
+      "attack": 121.20995288725135,
+      "defense": 339.8027356941002,
+      "specialized": 0.07199999690055847
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7817.600347641797,
+      "attack": 136.03107982511756,
+      "defense": 381.35572946851426,
+      "specialized": 0.14399999380111694
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8738.316555904574,
+      "attack": 152.05246914505915,
+      "defense": 426.2695024871027,
+      "specialized": 0.14399999380111694
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9377.168118404574,
+      "attack": 163.16831768631891,
+      "defense": 457.43425926200507,
+      "specialized": 0.14399999380111694
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 10306.273934516066,
+      "attack": 179.33569463239292,
+      "defense": 502.75728861740026,
+      "specialized": 0.14399999380111694
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10945.125252875441,
+      "attack": 190.45153935895542,
+      "defense": 533.9220377629081,
+      "specialized": 0.2160000056028366
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11884.717328743485,
+      "attack": 206.80138778599394,
+      "defense": 579.7566009506536,
+      "specialized": 0.2160000056028366
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12523.568891243485,
+      "attack": 217.9172363272537,
+      "defense": 610.9213500961614,
+      "specialized": 0.2879999876022339
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 13470.501998988213,
+      "attack": 234.39482610244158,
+      "defense": 657.1140186767225,
+      "specialized": 0.2879999876022339
+    }
+  },
+  "version": "2.1",
+  "constellations": {
+    "c1": {
+      "name": "At Water's Edge",
+      "effect": "เมื่ออยู่ในสภาวะ Ceremonial Garment ของ **Nereid's Ascension** การโจมตีปกติครั้งสุดท้ายของ Sangonomiya Kokomi จะปล่อยปลาออกมาเพิ่มอีกหนึ่งตัว เพื่อสร้างความเสียหายน้ำเท่ากับ 30% ของพลังชีวิตสูงสุดของ Sangonomiya Kokomi\nความเสียหายนี้จะไม่ถูกนับว่าเป็นความเสียหายของการโจมตีปกติ"
+    },
+    "c2": {
+      "name": "The Clouds Like Waves Rippling",
+      "effect": "ปริมาณการฟื้นฟูพลังชีวิตของ Sangonomiya Kokomi ที่มีต่อตัวละครที่มีพลังชีวิตต่ำกว่าหรือเท่ากับ 50% จะเพิ่มขึ้นโดยขึ้นกับพลังชีวิตสูงสุดของเธอเอง ผ่านทางช่องทางต่อไปนี้:\n·Bake-Kurage ของ **Kurage's Oath**: 4.5% ของพลังชีวิตสูงสุด\n·การโจมตีปกติและชาร์จโจมตีของ **Nereid's Ascension**: 0.6% ของพลังชีวิตสูงสุด"
+    },
+    "c3": {
+      "name": "The Moon, A Ship O'er the Seas",
+      "effect": "เพิ่มเลเวลสกิลของ **Nereid's Ascension** ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ"
+    },
+    "c4": {
+      "name": "The Moon Overlooks the Waters",
+      "effect": "เมื่ออยู่ในสภาวะ Ceremonial Garment ของ **Nereid's Ascension** ความเร็วการโจมตีปกติของ Sangonomiya Kokomi จะเพิ่มขึ้น 10% และจะฟื้นฟูพลังงานธาตุ 0.8 หน่วย เมื่อการโจมตีปกติถูกศัตรู\nเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 0.2 วินาที"
+    },
+    "c5": {
+      "name": "All Streams Flow to the Sea",
+      "effect": "เพิ่มเลเวลสกิลของ **Kurage's Oath** ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ"
+    },
+    "c6": {
+      "name": "Sango Isshin",
+      "effect": "เมื่ออยู่ในสภาวะ Ceremonial Garment ของ **Nereid's Ascension** เมื่อการโจมตีปกติหรือชาร์จโจมตีของ Sangonomiya Kokomi ทำการรักษาตัวละครที่มีพลังชีวิตเท่ากับ 80% หรือมากกว่าแล้ว จะได้รับโบนัสความเสียหายน้ำ 40% เป็นเวลา 4 วินาที"
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Kokomi_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Kokomi_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Kokomi_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Kokomi_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Kokomi_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Kokomi_04.png",
+      "constellation": "Eff_UI_Talent_Kokomi"
+    },
+    "version": "2.1"
+  },
+  "talent": {
+    "name": "Sangonomiya Kokomi",
+    "combat1": {
+      "name": "โจมตีปกติ: The Shape of Water",
+      "info": "**โจมตีปกติ**\nปล่อยการโจมตีที่มีรูปร่างของปลา ซึ่งเกิดจากธาตุน้ำต่อเนื่องมากสุดสามครั้ง เพื่อสร้างความเสียหายน้ำ\n\n**ชาร์จโจมตี**\nใช้พลังกายบางส่วน โดยหลังจากร่ายเวทเสร็จ จะทำให้เกิดความเสียหายน้ำวงกว้าง\n\n**โจมตีพุ่งลงจากอากาศ**\nรวบรวมพลังแห่งธาตุน้ำ กระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายน้ำวงกว้าง เมื่อลงถึงพื้น",
+      "attributes": [
+        {
+          "name": "ความเสียหายขั้น 1",
+          "parameters": [
+            "68.38%",
+            "73.50%",
+            "78.63%",
+            "85.47%",
+            "90.60%",
+            "95.73%",
+            "102.56%",
+            "109.40%",
+            "116.24%",
+            "123.08%",
+            "129.91%",
+            "136.75%",
+            "145.30%",
+            "153.85%",
+            "162.39%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 2",
+          "parameters": [
+            "61.54%",
+            "66.15%",
+            "70.77%",
+            "76.92%",
+            "81.54%",
+            "86.15%",
+            "92.31%",
+            "98.46%",
+            "104.62%",
+            "110.77%",
+            "116.92%",
+            "123.08%",
+            "130.77%",
+            "138.46%",
+            "146.15%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 3",
+          "parameters": [
+            "94.31%",
+            "101.38%",
+            "108.45%",
+            "117.88%",
+            "124.95%",
+            "132.03%",
+            "141.46%",
+            "150.89%",
+            "160.32%",
+            "169.75%",
+            "179.18%",
+            "188.61%",
+            "200.40%",
+            "212.19%",
+            "223.98%"
+          ]
+        },
+        {
+          "name": "ความเสียหายชาร์จโจมตี",
+          "parameters": [
+            "148.32%",
+            "159.44%",
+            "170.57%",
+            "185.40%",
+            "196.52%",
+            "207.65%",
+            "222.48%",
+            "237.31%",
+            "252.14%",
+            "266.98%",
+            "281.81%",
+            "296.64%",
+            "315.18%",
+            "333.72%",
+            "352.26%"
+          ]
+        },
+        {
+          "name": "ชาร์จโจมตีใช้พลังกาย",
+          "parameters": [
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย"
+          ]
+        },
+        {
+          "name": "ความเสียหายพุ่งลง",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "ความเสียหายพุ่งถึงพื้นจากที่ต่ำ/สูง",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Kurage's Oath",
+      "info": "เรียก \"Bake-Kurage\" สิ่งมีชีวิตที่สร้างขึ้นจากน้ำซึ่งสามารถฟื้นฟูพลังชีวิตพวกพ้องได้ออกมา\nทันทีที่ปลดปล่อยสกิล จะทำให้ Sangonomiya Kokomi อยู่ในสถานะเปียกชุ่ม\n\n**Bake-Kurage**\nสร้างความเสียหายน้ำแก่ศัตรูที่อยู่โดยรอบ พร้อมฟื้นฟูพลังชีวิตของตัวละครที่เข้าร่วมการต่อสู้ตรงบริเวณใกล้เคียงในขณะนั้นเป็นระยะ ๆ โดยที่ปริมาณการฟื้นฟูจะขึ้นอยู่กับพลังชีวิตสูงสุดของ Sangonomiya Kokomi",
+      "description": "เพื่อรักษาสภาพการทำงานที่สมบูรณ์แบบ Kokomi จำเป็นต้องเติม \"พลังงาน\" ของตัวเองให้ทันเวลา",
+      "attributes": [
+        {
+          "name": "ปริมาณการรักษา",
+          "parameters": [
+            "4.40% ของ HP สูงสุด +424",
+            "4.73% ของ HP สูงสุด +466",
+            "5.06% ของ HP สูงสุด +512",
+            "5.50% ของ HP สูงสุด +561",
+            "5.83% ของ HP สูงสุด +614",
+            "6.16% ของ HP สูงสุด +671",
+            "6.60% ของ HP สูงสุด +731",
+            "7.04% ของ HP สูงสุด +795",
+            "7.48% ของ HP สูงสุด +862",
+            "7.92% ของ HP สูงสุด +932",
+            "8.36% ของ HP สูงสุด +1006",
+            "8.80% ของ HP สูงสุด +1084",
+            "9.35% ของ HP สูงสุด +1165",
+            "9.90% ของ HP สูงสุด +1250",
+            "10.45% ของ HP สูงสุด +1338"
+          ]
+        },
+        {
+          "name": "ความเสียหายคลื่นกระแทก",
+          "parameters": [
+            "109.19%",
+            "117.38%",
+            "125.57%",
+            "136.49%",
+            "144.68%",
+            "152.87%",
+            "163.79%",
+            "174.70%",
+            "185.62%",
+            "196.54%",
+            "207.46%",
+            "218.38%",
+            "232.03%",
+            "245.68%",
+            "259.33%"
+          ]
+        },
+        {
+          "name": "ระยะเวลาคงอยู่",
+          "parameters": [
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ"
+          ]
+        },
+        {
+          "name": "คูลดาวน์",
+          "parameters": [
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Nereid's Ascension",
+      "info": "อัญเชิญพลังของ Watatsumi เพื่อสร้างความเสียหายน้ำแก่ศัตรูที่อยู่โดยรอบ และคลุมตัวของ Kokomi ด้วย \"Ceremonial Garment\" ที่รวบรวมขึ้นจากน้ำ\n\n**Ceremonial Garment**\n·เพิ่มความเสียหายของการโจมตีปกติ, ชาร์จโจมตี และ Bake-Kurage ให้สูงขึ้น โดยปริมาณที่เพิ่มจะขึ้นอยู่กับพลังชีวิตสูงสุดของ Sangonomiya Kokomi;\n·เมื่อการโจมตีปกติหรือชาร์จโจมตีถูกศัตรู จะทำการฟื้นฟูพลังชีวิตของตัวละครทั้งหมดในทีมที่อยู่ในบริเวณใกล้เคียง ซึ่งปริมาณการฟื้นฟูจะขึ้นอยู่กับพลังชีวิตสูงสุดของ Sangonomiya Kokomi;\n·เพิ่มความสามารถในการต้านทานการหยุดชะงักของ Sangonomiya Kokomi และทำให้เธอสามารถเคลื่อนที่บนน้ำได้\n\nเอฟเฟกต์จะหายไปเมื่อ Sangonomiya Kokomi ออกจากการต่อสู้",
+      "description": "ประกายแสงอันเจิดจ้าที่โอบล้อมอยู่รอบตัวราวกับผ้าคลุม สะท้อนถึงรูปลักษณ์อันสง่างามของนายท่าน Sangonomiya Kokomi",
+      "attributes": [
+        {
+          "name": "ความเสียหายสกิล",
+          "parameters": [
+            "10.42% ของ HP สูงสุด",
+            "11.20% ของ HP สูงสุด",
+            "11.98% ของ HP สูงสุด",
+            "13.02% ของ HP สูงสุด",
+            "13.80% ของ HP สูงสุด",
+            "14.58% ของ HP สูงสุด",
+            "15.62% ของ HP สูงสุด",
+            "16.67% ของ HP สูงสุด",
+            "17.71% ของ HP สูงสุด",
+            "18.75% ของ HP สูงสุด",
+            "19.79% ของ HP สูงสุด",
+            "20.83% ของ HP สูงสุด",
+            "22.13% ของ HP สูงสุด",
+            "23.44% ของ HP สูงสุด",
+            "24.74% ของ HP สูงสุด"
+          ]
+        },
+        {
+          "name": "เพิ่มความเสียหายการโจมตีปกติ",
+          "parameters": [
+            "4.84% ของ HP สูงสุด",
+            "5.20% ของ HP สูงสุด",
+            "5.57% ของ HP สูงสุด",
+            "6.05% ของ HP สูงสุด",
+            "6.41% ของ HP สูงสุด",
+            "6.78% ของ HP สูงสุด",
+            "7.26% ของ HP สูงสุด",
+            "7.74% ของ HP สูงสุด",
+            "8.23% ของ HP สูงสุด",
+            "8.71% ของ HP สูงสุด",
+            "9.20% ของ HP สูงสุด",
+            "9.68% ของ HP สูงสุด",
+            "10.28% ของ HP สูงสุด",
+            "10.89% ของ HP สูงสุด",
+            "11.50% ของ HP สูงสุด"
+          ]
+        },
+        {
+          "name": "เพิ่มความเสียหายการชาร์จโจมตี",
+          "parameters": [
+            "6.78% ของ HP สูงสุด",
+            "7.28% ของ HP สูงสุด",
+            "7.79% ของ HP สูงสุด",
+            "8.47% ของ HP สูงสุด",
+            "8.98% ของ HP สูงสุด",
+            "9.49% ของ HP สูงสุด",
+            "10.16% ของ HP สูงสุด",
+            "10.84% ของ HP สูงสุด",
+            "11.52% ของ HP สูงสุด",
+            "12.20% ของ HP สูงสุด",
+            "12.87% ของ HP สูงสุด",
+            "13.55% ของ HP สูงสุด",
+            "14.40% ของ HP สูงสุด",
+            "15.25% ของ HP สูงสุด",
+            "16.09% ของ HP สูงสุด"
+          ]
+        },
+        {
+          "name": "เพิ่มความเสียหายของ Bake-Kurage",
+          "parameters": [
+            "7.10% ของ HP สูงสุด",
+            "7.63% ของ HP สูงสุด",
+            "8.16% ของ HP สูงสุด",
+            "8.87% ของ HP สูงสุด",
+            "9.40% ของ HP สูงสุด",
+            "9.93% ของ HP สูงสุด",
+            "10.64% ของ HP สูงสุด",
+            "11.35% ของ HP สูงสุด",
+            "12.06% ของ HP สูงสุด",
+            "12.77% ของ HP สูงสุด",
+            "13.48% ของ HP สูงสุด",
+            "14.19% ของ HP สูงสุด",
+            "15.08% ของ HP สูงสุด",
+            "15.97% ของ HP สูงสุด",
+            "16.85% ของ HP สูงสุด"
+          ]
+        },
+        {
+          "name": "การรักษาเมื่อโจมตีถูกเป้าหมาย",
+          "parameters": [
+            "0.81% ของ HP สูงสุด +77",
+            "0.87% ของ HP สูงสุด +85",
+            "0.93% ของ HP สูงสุด +93",
+            "1.01% ของ HP สูงสุด +102",
+            "1.07% ของ HP สูงสุด +112",
+            "1.13% ของ HP สูงสุด +122",
+            "1.21% ของ HP สูงสุด +133",
+            "1.29% ของ HP สูงสุด +144",
+            "1.37% ของ HP สูงสุด +157",
+            "1.45% ของ HP สูงสุด +169",
+            "1.54% ของ HP สูงสุด +183",
+            "1.62% ของ HP สูงสุด +197",
+            "1.72% ของ HP สูงสุด +212",
+            "1.82% ของ HP สูงสุด +227",
+            "1.92% ของ HP สูงสุด +243"
+          ]
+        },
+        {
+          "name": "ระยะเวลาต่อเนื่อง",
+          "parameters": [
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ"
+          ]
+        },
+        {
+          "name": "คูลดาวน์",
+          "parameters": [
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ",
+            "18 วิ"
+          ]
+        },
+        {
+          "name": "พลังงานธาตุ",
+          "parameters": [
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Tamanooya's Casket",
+      "info": "เมื่อใช้ **Nereid's Ascension** หากมี Bake-Kurage ที่เป็นของ Sangonomiya Kokomi เองอยู่ในการต่อสู้ จะรีเซ็ตช่วงเวลาคงอยู่ของ Bake-Kurage"
+    },
+    "passive2": {
+      "name": "Song of Pearls",
+      "info": "เมื่ออยู่ในสภาวะ Ceremonial Garment ของ **Nereid's Ascension** โบนัสความเสียหายที่เกิดจากการโจมตีปกติและชาร์จโจมตีของ Sangonomiya Kokomi ซึ่งขึ้นกับพลังชีวิตสูงสุดของเธอเองจะเพิ่มขึ้นอีก ซึ่งปริมาณที่เพิ่มขึ้นจะเท่ากับ 15% ของโบนัสการรักษาของเธอ"
+    },
+    "passive3": {
+      "name": "Princess of Watatsumi",
+      "info": "ลดอัตราการเสียพลังกายจากการว่ายน้ำ ให้ตัวละครของตนเองที่อยู่ในทีมลง 20%\nไม่สามารถซ้อนทับพรสวรรค์ติดตัวที่เอฟเฟกต์เหมือนกันทุกประการได้"
+    },
+    "passive4": {
+      "name": "Flawless Strategy",
+      "info": "เพิ่มโบนัสการรักษาของ Sangonomiya Kokomi ขึ้น 25% และลดอัตราคริลง 100%"
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of Transience",
+          "count": 3
+        },
+        {
+          "name": "Spectral Husk",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to Transience",
+          "count": 2
+        },
+        {
+          "name": "Spectral Heart",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to Transience",
+          "count": 4
+        },
+        {
+          "name": "Spectral Heart",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to Transience",
+          "count": 6
+        },
+        {
+          "name": "Spectral Heart",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to Transience",
+          "count": 9
+        },
+        {
+          "name": "Spectral Heart",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of Transience",
+          "count": 4
+        },
+        {
+          "name": "Spectral Nucleus",
+          "count": 4
+        },
+        {
+          "name": "Hellfire Butterfly",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of Transience",
+          "count": 6
+        },
+        {
+          "name": "Spectral Nucleus",
+          "count": 6
+        },
+        {
+          "name": "Hellfire Butterfly",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of Transience",
+          "count": 12
+        },
+        {
+          "name": "Spectral Nucleus",
+          "count": 9
+        },
+        {
+          "name": "Hellfire Butterfly",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of Transience",
+          "count": 16
+        },
+        {
+          "name": "Spectral Nucleus",
+          "count": 12
+        },
+        {
+          "name": "Hellfire Butterfly",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_Catalyst_MD",
+      "combat2": "Skill_S_Kokomi_01",
+      "combat3": "Skill_E_Kokomi_01_HD",
+      "passive1": "UI_Talent_S_Kokomi_05",
+      "passive2": "UI_Talent_S_Kokomi_06",
+      "passive3": "UI_Talent_Explosion_Swim",
+      "passive4": "UI_Talent_S_Kokomi_07"
+    },
+    "version": "2.1"
+  }
+}

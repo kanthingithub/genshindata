@@ -1,0 +1,22 @@
+{
+  "name": "Madeira de Cuihua",
+  "description": "Madeira obtida de Árvores Cuihua. Com sua cor adorável e estrutura única, ela certamente permitirá uma infinidade de usos após um acabamento adequado.\nPode ser usada para fabricar Decorações.",
+  "sortorder": 1952,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Material",
+  "source": [
+    "Encontrado na natureza",
+    "Recomendação: Talhado no Vale das Estrelas Cadentes",
+    "Recomendação: Talhado nas Planícies Bishui"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cuihua_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c5/Item_Cuihua_Wood.png",
+    "nameicon": "UI_ItemIcon_101302"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cuihua_Wood"
+  },
+  "version": ""
+}

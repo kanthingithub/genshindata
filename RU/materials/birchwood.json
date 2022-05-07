@@ -1,0 +1,21 @@
+{
+  "name": "Берёза",
+  "description": "Древесина, полученная из берёзы. Она легко поддаётся обработке и позволяет выполнять плавные срезы. Мебель, изготовленная из этого дерева, красива и долговечна.\nСлужит для изготовления декора.",
+  "sortorder": 1953,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Материал",
+  "source": [
+    "Дикая природа",
+    "Нагорье Ревущих ветров"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Birch_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Item_Birch_Wood.png",
+    "nameicon": "UI_ItemIcon_101301"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Birch_Wood"
+  },
+  "version": ""
+}

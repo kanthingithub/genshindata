@@ -1,0 +1,19 @@
+{
+  "name": "Pinecone",
+  "description": "Filled with oil-rich seeds. Certainly won't be growing into a tree from inside a squirrel's stomach.",
+  "sortorder": 1986,
+  "category": "EXCHANGE",
+  "materialtype": "Cooking Ingredient",
+  "source": [
+    "Found in the wild"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Pinecone.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Item_Pinecone.png",
+    "nameicon": "UI_ItemIcon_100020"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Pinecone"
+  },
+  "version": ""
+}

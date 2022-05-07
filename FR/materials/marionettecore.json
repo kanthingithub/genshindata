@@ -1,0 +1,20 @@
+{
+  "name": "Mécanisme oni",
+  "description": "Un noyau pouvant alimenter le mécanisme de la Lame oni, et lui permettant de manier une épée tel un être autonome.\nLa chair se décompose, et avec elle le souvenir des arts martiaux, quels qu'en soient la maîtrise et le raffinement.\nPeut-être qu'est-ce seulement en convertissant ses quatre membres et son corps en pièces mécaniques, et en sacrifiant son cœur pour un mécanisme sophistiqué que l'on peut transcender la chair et approcher l'éternité...",
+  "sortorder": 1804,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Butin de Lame oni (Niv.30+)"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Marionette_Core.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/1d/Item_Marionette_Core.png",
+    "nameicon": "UI_ItemIcon_113022"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Marionette_Core"
+  },
+  "version": ""
+}

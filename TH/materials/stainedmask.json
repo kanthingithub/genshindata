@@ -1,0 +1,26 @@
+{
+  "name": "Stained Mask",
+  "description": "หน้ากากที่เต็มไปด้วยคราบต่างๆ จนดูไม่ออกเลยว่ามันคือหน้ากากที่ทำมาจากกระดูก มีกลิ่นหอมอ่อนๆ ออกมาด้วย\nต้องยอมสวมมัน เพราะพวก Hilichurl เคร่งครัดเรื่องหน้ากากมาก",
+  "sortorder": 1727,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ได้รับจากการสรรสร้าง",
+    "ดรอปจาก Hilichurl Lv.40 ขึ้นไป",
+    "ดรอปจาก Hilichurl Shooter บางตัว Lv.40 ขึ้นไป",
+    "ดรอปจาก Samachurl บางตัว Lv.40 ขึ้นไป",
+    "ดรอปจาก Mitachurl บางตัว Lv.40 ขึ้นไป",
+    "ดรอปจาก Hilichurl Chieftain บางตัว Lv.40 ขึ้นไป",
+    "แลกเปลี่ยนด้วย Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Stained_Mask.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Stained_Mask.png",
+    "nameicon": "UI_ItemIcon_112006"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Stained_Mask"
+  },
+  "version": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Silk Flower",
+  "description": "ดอกไม้สีแดงที่บานราวกับเมฆสีรุ้งใน Liyue สามารถนำมาทำเป็นเส้นใยที่มีความนุ่มลื่นได้",
+  "sortorder": 2050,
+  "category": "EXCHANGE",
+  "materialtype": "ของพิเศษเฉพาะใน Liyue",
+  "source": [
+    "รวบรวมได้บริเวณ Yujing Terrace ในท่าเรือ Liyue",
+    "รวบรวมได้บริเวณ Wangshu Inn",
+    "คำแนะนำ: รวบรวมได้บริเวณท่าเรือ Liyue"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Silk_Flower.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Item_Silk_Flower.png",
+    "nameicon": "UI_ItemIcon_100029"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Silk_Flower"
+  },
+  "version": ""
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Sacrificial Agent Knife",
+  "description": "อาวุธรูปทรงพิเศษที่ทำมาจากเทคโนโลยีสุดล้ำของ Snezhnaya ในอดีตเคยเป็นอาวุธของหน่วยพิเศษท่านหนึ่ง และคนธรรมดาไม่สามารถใช้งานอาวุธนี้ได้หากไม่ได้รับการฝึกฝนเป็นอย่างดี",
+  "sortorder": 1748,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ได้รับจากการสรรสร้าง",
+    "ดรอปจาก Fatui - Agent Lv.40 ขึ้นไป",
+    "แลกเปลี่ยนด้วย Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Agent's_Sacrificial_Knife.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Agent%27s_Sacrificial_Knife.png",
+    "nameicon": "UI_ItemIcon_112030"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Agent's_Sacrificial_Knife"
+  },
+  "version": ""
+}

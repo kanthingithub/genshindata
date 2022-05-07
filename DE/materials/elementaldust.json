@@ -1,0 +1,16 @@
+{
+  "name": "Elementarstaub",
+  "description": "Ein Bruchstück des zerschlagenen Oculuskristalls, das dich auf in der Nähe verborgene Schätze hinweist.",
+  "sortorder": 1580,
+  "category": "CONSUME",
+  "materialtype": "Abenteuerobjekt",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_107002",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Elemental_Dust.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Elemental_Dust"
+  },
+  "version": ""
+}

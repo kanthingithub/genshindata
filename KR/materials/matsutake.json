@@ -1,0 +1,19 @@
+{
+  "name": "송이버섯",
+  "description": "소나무 근처에서 자라는 버섯. 은은하게 퍼지는 향기로 어디에 있는지 찾아낼 수 있다",
+  "sortorder": 1991,
+  "category": "EXCHANGE",
+  "materialtype": "식자재",
+  "source": [
+    "야외 채집"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Matsutake.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Item_Matsutake.png",
+    "nameicon": "UI_ItemIcon_100063"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Matsutake"
+  },
+  "version": ""
+}

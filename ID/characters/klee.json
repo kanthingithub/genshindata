@@ -1,0 +1,814 @@
+{
+  "name": "Klee",
+  "fullname": "Klee",
+  "title": "Fleeing Sunlight",
+  "description": "Seorang ahli peledak yang sudah menjadi langganan di ruang tahanan Knights of Favonius. Juga dikenal dengan nama Fleeing Sunlight.",
+  "rarity": "5",
+  "element": "Pyro",
+  "weapontype": "Catalyst",
+  "substat": "Pyro DMG Bonus",
+  "gender": "Perempuan",
+  "body": "LOLI",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Knights of Favonius",
+  "birthdaymmdd": "7/27",
+  "birthday": "27 Juli",
+  "constellation": "Trifolium",
+  "cv": {
+    "english": "Poonam Basu",
+    "chinese": "花玲",
+    "japanese": "久野美咲",
+    "korean": "Bang Yeon-ji"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Agnidus Agate Sliver",
+        "count": 1
+      },
+      {
+        "name": "Philanemo Mushroom",
+        "count": 3
+      },
+      {
+        "name": "Divining Scroll",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Agnidus Agate Fragment",
+        "count": 3
+      },
+      {
+        "name": "Everflame Seed",
+        "count": 2
+      },
+      {
+        "name": "Philanemo Mushroom",
+        "count": 10
+      },
+      {
+        "name": "Divining Scroll",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Agnidus Agate Fragment",
+        "count": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "count": 4
+      },
+      {
+        "name": "Philanemo Mushroom",
+        "count": 20
+      },
+      {
+        "name": "Sealed Scroll",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Agnidus Agate Chunk",
+        "count": 3
+      },
+      {
+        "name": "Everflame Seed",
+        "count": 8
+      },
+      {
+        "name": "Philanemo Mushroom",
+        "count": 30
+      },
+      {
+        "name": "Sealed Scroll",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Agnidus Agate Chunk",
+        "count": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "count": 12
+      },
+      {
+        "name": "Philanemo Mushroom",
+        "count": 45
+      },
+      {
+        "name": "Forbidden Curse Scroll",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Agnidus Agate Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "count": 20
+      },
+      {
+        "name": "Philanemo Mushroom",
+        "count": 60
+      },
+      {
+        "name": "Forbidden Curse Scroll",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/7/78/Character_Klee_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/3/3f/Character_Klee_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Klee.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Klee.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200103/2020010310582722822.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200103/2020010311014850622.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/cb31fe8dae809ebdbc72039cba527501.png",
+    "nameicon": "UI_AvatarIcon_Klee",
+    "nameiconcard": "UI_AvatarIcon_Klee_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Klee",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Klee",
+    "namesideicon": "UI_AvatarIcon_Side_Klee"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Klee"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 800.788818359375,
+      "attack": 24.20599937438965,
+      "defense": 47.86399841308594,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2077.246275775542,
+      "attack": 62.79036482413858,
+      "defense": 124.15921672209151,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2763.850279681792,
+      "attack": 83.54330404838174,
+      "defense": 165.19921763761886,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4135.601572880289,
+      "attack": 125.00818240795888,
+      "defense": 247.19024974932836,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4623.451792606851,
+      "attack": 139.75369441662588,
+      "defense": 276.3502457820432,
+      "specialized": 0.07199999690055847
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5319.337242158712,
+      "attack": 160.78870685724632,
+      "defense": 317.9440583945616,
+      "specialized": 0.07199999690055847
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5969.804161104024,
+      "attack": 180.44938572077172,
+      "defense": 356.8240632773741,
+      "specialized": 0.14399999380111694
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6672.896569501841,
+      "attack": 201.70224790818793,
+      "defense": 398.8486434766237,
+      "specialized": 0.14399999380111694
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7160.746667158091,
+      "attack": 216.4477580095063,
+      "defense": 428.00864713873307,
+      "specialized": 0.14399999380111694
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7870.245685469941,
+      "attack": 237.89427724109646,
+      "defense": 470.4161572187804,
+      "specialized": 0.14399999380111694
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8358.096027266816,
+      "attack": 252.63978352771755,
+      "defense": 499.57614562210074,
+      "specialized": 0.2160000056028366
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9075.60273520241,
+      "attack": 274.32835675104525,
+      "defense": 542.4622838181458,
+      "specialized": 0.2160000056028366
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 9563.45283285866,
+      "attack": 289.0738706670609,
+      "defense": 571.6222874802552,
+      "specialized": 0.2879999876022339
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10286.565419930499,
+      "attack": 310.93189668962077,
+      "defense": 614.8434950278315,
+      "specialized": 0.2879999876022339
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Chained Reaction",
+      "effect": "Saat melancarkan serangan atau skill, Klee memiliki kemungkinan untuk menimbulkan percikan api yang mengakibatkan DMG sebesar 120% dari DMG **Sparks 'n' Splash** pada musuh."
+    },
+    "c2": {
+      "name": "Explosive Frags",
+      "effect": "DEF musuh berkurang 23% selama 10 detik saat terkena ranjau dari **Jumpy Dumpty**."
+    },
+    "c3": {
+      "name": "Exquisite Compound",
+      "effect": "Meningkatkan 3 level **Jumpy Dumpty**.\nMaksimum: Lv. 15."
+    },
+    "c4": {
+      "name": "Sparkly Explosion",
+      "effect": "Jika Klee meninggalkan medan pertempuran saat **Sparks 'n' Splash** sedang berlangsung, kepergian Klee akan memicu ledakan yang mengakibatkan Pyro DMG Area sebesar 555% ATK."
+    },
+    "c5": {
+      "name": "Nova Burst",
+      "effect": "Meningkatkan 3 level **Sparks 'n' Splash**.\nMaksimum: Lv. 15."
+    },
+    "c6": {
+      "name": "Blazing Delight",
+      "effect": "Saat **Sparks 'n' Splash** aktif, Klee akan memulihkan 3 Energy setiap 3 detik untuk semua anggota party (tidak termasuk Klee sendiri).\nSetelah melancarkan **Sparks 'n' Splash**, seluruh anggota party mendapatkan 10% Pyro DMG Bonus selama 25 detik."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Klee_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Klee_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Klee_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Klee_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Klee_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Klee_04.png",
+      "constellation": "Eff_UI_Talent_Klee"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Klee",
+    "combat1": {
+      "name": "Normal Attack: Kaboom!",
+      "info": "**Normal Attack**\nMelempar benda yang akan meledak saat mengenai sesuatu! Melancarkan hingga 3 serangan ledakan yang mengakibatkan Pyro DMG Area.\n\n**Charged Attack**\nMengonsumsi sejumlah Stamina dan mengakibatkan Pyro DMG Area kepada musuh setelah jeda singkat.\n\n**Plunging Attack**\nMengumpulkan kekuatan Pyro dan menerjang tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan Pyro DMG Area saat mendarat.",
+      "attributes": [
+        {
+          "name": "DMG Tahap 1",
+          "parameters": [
+            "72.16%",
+            "77.57%",
+            "82.98%",
+            "90.20%",
+            "95.61%",
+            "101.02%",
+            "108.24%",
+            "115.46%",
+            "122.67%",
+            "129.89%",
+            "137.39%",
+            "147.21%",
+            "157.02%",
+            "166.83%",
+            "176.65%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 2",
+          "parameters": [
+            "62.40%",
+            "67.08%",
+            "71.76%",
+            "78.00%",
+            "82.68%",
+            "87.36%",
+            "93.60%",
+            "99.84%",
+            "106.08%",
+            "112.32%",
+            "118.81%",
+            "127.30%",
+            "135.78%",
+            "144.27%",
+            "152.76%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 3",
+          "parameters": [
+            "89.92%",
+            "96.66%",
+            "103.41%",
+            "112.40%",
+            "119.14%",
+            "125.89%",
+            "134.88%",
+            "143.87%",
+            "152.86%",
+            "161.86%",
+            "171.21%",
+            "183.44%",
+            "195.67%",
+            "207.89%",
+            "220.12%"
+          ]
+        },
+        {
+          "name": "DMG Charged Attack",
+          "parameters": [
+            "157.36%",
+            "169.16%",
+            "180.96%",
+            "196.70%",
+            "208.50%",
+            "220.30%",
+            "236.04%",
+            "251.78%",
+            "267.51%",
+            "283.25%",
+            "299.61%",
+            "321.01%",
+            "342.42%",
+            "363.82%",
+            "385.22%"
+          ]
+        },
+        {
+          "name": "Konsumsi Stamina Charged Attack",
+          "parameters": [
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50"
+          ]
+        },
+        {
+          "name": "DMG Selama Plunging",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "DMG Plunging Attack Min./Maks.",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Jumpy Dumpty",
+      "info": "Melemparkan bom Jumpy Dumpty yang membawa kesenangan tidak terbatas!\nSaat dilempar, Jumpy Dumpty dapat memantul tiga kali, setiap pantulannya akan meledak dan mengakibatkan Pyro DMG Area.\n\nPada pantulan ke-3, bomnya akan terbagi menjadi banyak ranjau.\nRanjau-ranjau ini akan meledak saat menyentuh musuh, atau setelah jeda waktu yang singkat, kemudian mengakibatkan Pyro DMG Area.\n\nDimulai dengan 2 kali jumlah penggunaan.",
+      "description": "Jumpy Dumpty adalah teman baik Klee! Klee selalu tidak sabar untuk memperkenalkannya ke semua orang.",
+      "attributes": [
+        {
+          "name": "DMG Jumpy Dumpty",
+          "parameters": [
+            "95.20%",
+            "102.34%",
+            "109.48%",
+            "119.00%",
+            "126.14%",
+            "133.28%",
+            "142.80%",
+            "152.32%",
+            "161.84%",
+            "171.36%",
+            "180.88%",
+            "190.40%",
+            "202.30%",
+            "214.20%",
+            "226.10%"
+          ]
+        },
+        {
+          "name": "DMG Ranjau",
+          "parameters": [
+            "32.80%",
+            "35.26%",
+            "37.72%",
+            "41.00%",
+            "43.46%",
+            "45.92%",
+            "49.20%",
+            "52.48%",
+            "55.76%",
+            "59.04%",
+            "62.32%",
+            "65.60%",
+            "69.70%",
+            "73.80%",
+            "77.90%"
+          ]
+        },
+        {
+          "name": "Durasi Ranjau",
+          "parameters": [
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik"
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "parameters": [
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Sparks 'n' Splash",
+      "info": "Kegembiraan Klee yang membara! Selama durasi skill, Sparks 'n' Splash yang muncul akan terus menyerang musuh-musuh di sekitar dan mengakibatkan Pyro DMG Area.",
+      "description": "Para Knight meyakini kalau Klee pasti dilindungi sebuah bintang keberuntungan karena dia tidak pernah terluka karena bomnya sendiri ...",
+      "attributes": [
+        {
+          "name": "DMG Sparks 'n' Splash",
+          "parameters": [
+            "42.64%",
+            "45.84%",
+            "49.04%",
+            "53.30%",
+            "56.50%",
+            "59.70%",
+            "63.96%",
+            "68.22%",
+            "72.49%",
+            "76.75%",
+            "81.02%",
+            "85.28%",
+            "90.61%",
+            "95.94%",
+            "101.27%"
+          ]
+        },
+        {
+          "name": "Durasi",
+          "parameters": [
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik"
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "parameters": [
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik"
+          ]
+        },
+        {
+          "name": "Konsumsi Energy",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Pounding Surprise",
+      "info": "Saat **Jumpy Dumpty** atau Normal Attack Klee mengakibatkan DMG, Klee memiliki 50% kemungkinan untuk mendapatkan Explosive Spark.\nExplosive Spark akan terkonsumsi saat Klee melancarkan Charged Attack dan membuatnya tidak mengonsumsi Stamina serta mengakibatkan 50% DMG lebih besar."
+    },
+    "passive2": {
+      "name": "Sparkling Burst",
+      "info": "Seluruh anggota party akan mendapatkan 2 Energy saat Charged Attack Klee mengakibatkan CRIT."
+    },
+    "passive3": {
+      "name": "All Of My Treasures!",
+      "info": "Memperlihatkan lokasi **produk khas Mondstadt** di sekitar pada mini-map."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of \"Freedom\"",
+          "count": 3
+        },
+        {
+          "name": "Divining Scroll",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to \"Freedom\"",
+          "count": 2
+        },
+        {
+          "name": "Sealed Scroll",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to \"Freedom\"",
+          "count": 4
+        },
+        {
+          "name": "Sealed Scroll",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to \"Freedom\"",
+          "count": 6
+        },
+        {
+          "name": "Sealed Scroll",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to \"Freedom\"",
+          "count": 9
+        },
+        {
+          "name": "Sealed Scroll",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of \"Freedom\"",
+          "count": 4
+        },
+        {
+          "name": "Forbidden Curse Scroll",
+          "count": 4
+        },
+        {
+          "name": "Ring of Boreas",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of \"Freedom\"",
+          "count": 6
+        },
+        {
+          "name": "Forbidden Curse Scroll",
+          "count": 6
+        },
+        {
+          "name": "Ring of Boreas",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of \"Freedom\"",
+          "count": 12
+        },
+        {
+          "name": "Forbidden Curse Scroll",
+          "count": 9
+        },
+        {
+          "name": "Ring of Boreas",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of \"Freedom\"",
+          "count": 16
+        },
+        {
+          "name": "Forbidden Curse Scroll",
+          "count": 12
+        },
+        {
+          "name": "Ring of Boreas",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_Catalyst_MD",
+      "combat2": "Skill_S_Klee_01",
+      "combat3": "Skill_E_Klee_01_HD",
+      "passive1": "UI_Talent_S_Klee_05",
+      "passive2": "UI_Talent_S_Klee_06",
+      "passive3": "UI_Talent_Collect_Local_Mengde"
+    },
+    "version": "1.0"
+  }
+}

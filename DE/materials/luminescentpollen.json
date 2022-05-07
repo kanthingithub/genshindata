@@ -1,0 +1,17 @@
+{
+  "name": "Leuchtendes Sporenpulver",
+  "description": "Ein kleines Päckchen mit leuchtendem Sporenpulver von Pilzbestien, das im Land der Regenwälder ein gängiger medizinischer Wirkstoff ist. Händler verkaufen sie normalerweise in Papierpaketen.",
+  "sortorder": 1781,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Beute von Pilzbestien ab Stufe 40",
+    "Kann hergestellt werden"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_112060",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Luminescent_Pollen.png"
+  },
+  "version": "2.6"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Pergamino hechizado",
+  "description": "Un viejo libro con dibujos ambiguos e imágenes incomprensibles. Al imitar a los personajes de este libro, algunos monstruos pueden recrear la magia.",
+  "sortorder": 1730,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Sintetizar",
+    "Obtenido de Samachurls (Niv. 40+)",
+    "Canjear Polvo estelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sealed_Scroll.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Sealed_Scroll.png",
+    "nameicon": "UI_ItemIcon_112009"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sealed_Scroll"
+  },
+  "version": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Fragment de turquoise vayuda",
+  "description": "Matériau d'élévation de personnage.\n« Le vent change toujours de direction. »",
+  "sortorder": 1839,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Butin d'Hypostase Anémo (Niv.40+)",
+    "Synthèse"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vayuda_Turquoise_Fragment.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Vayuda_Turquoise_Fragment.png",
+    "nameicon": "UI_ItemIcon_104152"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Vayuda_Turquoise_Fragment"
+  },
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Fragmento de Esmeralda Nagadus",
+  "description": "Material de Ascensão de Personagem.\"\nNo final, a vida se desprendeu de seu rumo...\"",
+  "sortorder": 1831,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Obtido na síntese"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Nagadus_Emerald_Fragment.png",
+    "nameicon": "UI_ItemIcon_104132"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Nagadus_Emerald_Fragment"
+  },
+  "version": ""
+}

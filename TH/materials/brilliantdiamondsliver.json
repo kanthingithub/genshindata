@@ -1,0 +1,20 @@
+{
+  "name": "Brilliant Diamond Sliver",
+  "description": "วัสดุเลื่อนขั้นตัวละคร\n\"ขอต้อนรับสู่โลกกว้าง\"",
+  "sortorder": 1818,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "รางวัลแรงก์ผจญภัย"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Brilliant_Diamond_Sliver.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Brilliant_Diamond_Sliver.png",
+    "nameicon": "UI_ItemIcon_104101"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Brilliant_Diamond_Sliver"
+  },
+  "version": ""
+}

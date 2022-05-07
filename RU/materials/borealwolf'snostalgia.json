@@ -1,0 +1,26 @@
+{
+  "name": "Ностальгия арктического волка",
+  "description": "Материал возвышения оружия.\nКороль волков, презирающий человеческий род, никогда не мог представить людей счастливыми, поэтому он был недостоин стать Владыкой ветров. Но, покинув этот мир, он всё же продолжил молчаливо оберегать тех, кого этот мир бросил на произвол судьбы.",
+  "sortorder": 2190,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Возвышение оружия",
+  "dropdomain": "Воля: Затопленное ущелье",
+  "daysofweek": [
+    "Вторник",
+    "Пятница",
+    "Воскресенье"
+  ],
+  "source": [
+    "Алхимия"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Boreal_Wolf's_Nostalgia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Item_Boreal_Wolf%27s_Nostalgia.png",
+    "nameicon": "UI_ItemIcon_114008"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Boreal_Wolf's_Nostalgia"
+  },
+  "version": ""
+}

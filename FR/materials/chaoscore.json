@@ -1,0 +1,22 @@
+{
+  "name": "Noyau du chaos",
+  "description": "Un noyau qui faisait fonctionner une structure antique. Le monde ne serait plus le même si une telle technologie parvenait à être reproduite.",
+  "sortorder": 1743,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Synthèse",
+    "Butin de Gardien des ruines (Niv.60+)",
+    "Butin de Chasseur des ruines (Niv.60+)"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Core.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Chaos_Core.png",
+    "nameicon": "UI_ItemIcon_112025"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chaos_Core"
+  },
+  "version": ""
+}

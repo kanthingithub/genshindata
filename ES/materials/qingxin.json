@@ -1,0 +1,21 @@
+{
+  "name": "Flor chingxin",
+  "description": "Una flor blanca traslúcida que solo crece en los picos rocosos más altos. No se adapta bien al calor y a la humedad de las llanuras, sino que prefiere contemplar el horizonte desde los terrenos elevados.",
+  "sortorder": 2052,
+  "category": "EXCHANGE",
+  "materialtype": "Objeto típico de Liyue",
+  "source": [
+    "Recolectar en lo alto de bosques de piedra",
+    "Recolectar en el Desfiladero Jueyun",
+    "Recolectar en el Bosque de Piedra Guyun"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Qingxin.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Item_Qingxin.png",
+    "nameicon": "UI_ItemIcon_100031"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Qingxin"
+  },
+  "version": ""
+}

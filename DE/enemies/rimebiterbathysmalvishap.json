@@ -1,0 +1,181 @@
+{
+  "name": "Tiefsee-Drachenechse – Eisbeißer",
+  "specialname": "Tiefseeungeheuer",
+  "enemytype": "BOSS",
+  "category": "Mystische Bestien",
+  "description": "Drachenechsen, die in der Meerestiefe leben. Als Folge der langjährigen gesellschaftlichen Arbeitsteilung sind Drachenechsen mit Kryo-Kraft entstanden.\nDie Ankunft und Expansion der menschlichen Zivilisation hatte zu heftiger Eskalation zwischen beiden Seiten und folglich auch der Evolution der Tiefsee-Drachenechse geführt. Ähnlich wie Ameisen, die sich wegen ihrer unterschiedlichen Geschlechtsrollen und Arbeitsteilung zu verschiedenen Gestalten entwickelt haben, sind unter den Drachenechsen auch einige entstanden, die eine spezielle Kraft ausüben können und daher viel stärker als ihre normalen Artengenossen sind.",
+  "investigation": {
+    "name": "Tiefsee-Drachenechsen-Herde",
+    "category": "Anführer",
+    "description": "Eine Tiefsee-Drachenechsen-Herde aus mächtigen Kämpfern.\\nDurch die Auslese und Züchtung des Volks von Enkanomiya sind diese Tiefsee-Drachenechsen außergewöhnlich stark. Aber keine von ihnen würde dies als eine Art Segen wahrnehmen.\\nZu den stärksten Kriegern in dieser Herde gehören diejenigen, die geschickt mit verschiedenen Elementen umgehen können. Sie greifen alle Eindringlinge an, um ihren Zorn gegenüber dieser Welt zu zeigen.",
+    "lockdesc": "Tief in der Meerestiefe warten sie im Schatten geduldig, bis die Wachsamkeit der Beute nachlässt ..."
+  },
+  "rewardpreview": [
+    {
+      "name": "Abenteuer-EP",
+      "count": 200
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Freundschafts-EP"
+    },
+    {
+      "name": "Shivada-Jade-Splitter"
+    },
+    {
+      "name": "Shivada-Jade-Bruchstück"
+    },
+    {
+      "name": "Shivada-Jade-Brocken"
+    },
+    {
+      "name": "Shivada-Jade"
+    },
+    {
+      "name": "Vajrada-Amethyst-Splitter"
+    },
+    {
+      "name": "Vajrada-Amethyst-Bruchstück"
+    },
+    {
+      "name": "Vajrada-Amethyst-Brocken"
+    },
+    {
+      "name": "Vajrada-Amethyst"
+    },
+    {
+      "name": "Falsche Flosse der Drachennachfahren",
+      "count": 2.5556
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Verbannter",
+      "rarity": "3"
+    },
+    {
+      "name": "Eisopfer",
+      "rarity": "3"
+    },
+    {
+      "name": "Glückspilz",
+      "rarity": "3"
+    },
+    {
+      "name": "Verbeugung des Gladiators",
+      "rarity": "4"
+    },
+    {
+      "name": "Wanderorchester",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Verbannter",
+      "rarity": "4"
+    },
+    {
+      "name": "Eisopfer",
+      "rarity": "4"
+    },
+    {
+      "name": "Verbeugung des Gladiators",
+      "rarity": "5"
+    },
+    {
+      "name": "Wanderorchester",
+      "rarity": "5"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Drake_Deepsea_Ice"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 881.0399843046907,
+      "attack": 126.88865269049074,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 3470.028104937868,
+      "attack": 339.0138754666823,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 10213.499572310597,
+      "attack": 836.2498197051391,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 19019.639906194992,
+      "attack": 1365.8829744341056,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 34150.1626428226,
+      "attack": 2042.0693843711633,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 62922.38467672281,
+      "attack": 3149.136175426116,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 106307.30993484333,
+      "attack": 4434.621811969759,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 175825.15590836853,
+      "attack": 6121.785820403544,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 283639.40432211757,
+      "attack": 7876.325001969002,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 445203.44995088875,
+      "attack": 9515.686133175914,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 665520.2175113708,
+      "attack": 12311.044076510821,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 842348.7521036267,
+      "attack": 12555.48552251578,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 974323.225014478,
+      "attack": 12801.63840648823,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

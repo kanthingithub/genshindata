@@ -1,0 +1,19 @@
+{
+  "name": "Pomme de pin",
+  "description": "Une graine riche en huile. Ce n'est pas dans l'estomac d'un écureuil qu'elle deviendra un arbre, c'est sûr.",
+  "sortorder": 1986,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrédient",
+  "source": [
+    "Dans la nature"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Pinecone.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Item_Pinecone.png",
+    "nameicon": "UI_ItemIcon_100020"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Pinecone"
+  },
+  "version": ""
+}

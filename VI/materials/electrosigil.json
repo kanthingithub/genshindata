@@ -1,0 +1,20 @@
+{
+  "name": "Ấn Lôi",
+  "description": "Được công nhận bởi sấm sét của quần đảo Inazuma và trao tặng danh hiệu. \nCó thể giao nộp cho Anh Đào Thần trong Đền Narukami, để tăng cấp độ của \"Anh Đào Thần Bảo Vệ\".",
+  "sortorder": 503,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "Con Dấu 7 Đất Nước",
+  "source": [
+    "Thưởng Thám Hiểm Khu Vực Inazuma"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_304",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Electro_Sigil.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Item_Electro_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Electro_Sigil"
+  },
+  "version": ""
+}

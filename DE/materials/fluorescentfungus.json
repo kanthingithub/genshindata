@@ -1,0 +1,20 @@
+{
+  "name": "Leuchtpilz",
+  "description": "Ein schwach leuchtender Pilz, der unglaubliche Kräfte enthält.",
+  "sortorder": 2068,
+  "category": "EXCHANGE",
+  "materialtype": "Regionale Besonderheit von Inazuma",
+  "source": [
+    "In der freien Natur zu finden",
+    "Empfohlen: Auf der Insel Tsurumi zu finden"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_101209",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fluorescent_Fungus.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Fluorescent_Fungus.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fluorescent_Fungus"
+  },
+  "version": ""
+}

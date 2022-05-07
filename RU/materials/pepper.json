@@ -1,0 +1,19 @@
+{
+  "name": "Перец",
+  "description": "Острый на вкус. Хорошо сочетается с мясом и жирными блюдами.",
+  "sortorder": 1997,
+  "category": "EXCHANGE",
+  "materialtype": "Кухонный ингредиент",
+  "source": [
+    "Торговые лавки"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Pepper.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Item_Pepper.png",
+    "nameicon": "UI_ItemIcon_100077"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Pepper"
+  },
+  "version": ""
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Verdreckte Maske",
+  "description": "Eine vollkommen mit Dreck übersäte knöcherne Maske, die einen unsäglichen Geruch verströmt.\nSelbst in diesem Zustand ist sie unabdingbar für das Leben als Hilichurl.",
+  "sortorder": 1727,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Kann hergestellt werden",
+    "Beute von Hilichurlen ab Stufe 40",
+    "Seltene Beute von Hilichurl-Schützen ab Stufe 40",
+    "Seltene Beute von Samachurlen ab Stufe 40",
+    "Seltene Beute von Mitachurlen ab Stufe 40",
+    "Seltene Beute von Hilichurl-Fürsten ab Stufe 40",
+    "Mit Sternenstaub kaufen"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Stained_Mask.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Stained_Mask.png",
+    "nameicon": "UI_ItemIcon_112006"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Stained_Mask"
+  },
+  "version": ""
+}

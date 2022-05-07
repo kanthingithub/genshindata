@@ -1,0 +1,22 @@
+{
+  "name": "却砂材",
+  "description": "「却砂の木」から生産される木材。風雨を恐れず、100年腐らないという驚異的な木質を持つと言われている。\n調度品の製作に使うことができる。",
+  "sortorder": 1950,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "素材",
+  "source": [
+    "野外で採集",
+    "推奨：珉林で伐採",
+    "推奨：璃沙郊で伐採"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sandbearer_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/36/Item_Sandbearer_Wood.png",
+    "nameicon": "UI_ItemIcon_101304"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sandbearer_Wood"
+  },
+  "version": ""
+}

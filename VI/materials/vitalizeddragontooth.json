@@ -1,0 +1,17 @@
+{
+  "name": "Nanh Rồng có sinh mệnh",
+  "description": "Chiếc Răng Rồng hấp thụ sức mạnh sinh mệnh. Dù là độ bóng hay kết cấu, cũng đều khiến người ta xao xuyến...",
+  "sortorder": 419,
+  "category": "EXCHANGE",
+  "materialtype": "Nguyên Liệu",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vitalized_Dragontooth.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8c/Item_Vitalized_Dragontooth.png",
+    "nameicon": "UI_ItemIcon_100619"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Vitalized_Dragontooth"
+  },
+  "version": ""
+}

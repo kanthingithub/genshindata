@@ -1,0 +1,22 @@
+{
+  "name": "Néctar brillante",
+  "description": "Néctar lleno de energía elemental pura.\nLos estudiosos consideran que las Megafloras son formas de vida avanzadas en comparación con las demás plantas elementales, pero todavía no existe una explicación satisfactoria con respecto a sus hábitos depredadores.",
+  "sortorder": 1757,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Sintetizar",
+    "Obtenido de Megaflora (Niv. 40+)",
+    "Canjear Polvo estelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shimmering_Nectar.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Shimmering_Nectar.png",
+    "nameicon": "UI_ItemIcon_112039"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shimmering_Nectar"
+  },
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "ニンジン",
+  "description": "栄養素たっぷりの野菜。栽培や収穫がしやすく、シャキシャキの食感と甘い味がたまらない。",
+  "sortorder": 1979,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "野外で採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Carrot.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/1e/Item_Carrot.png",
+    "nameicon": "UI_ItemIcon_100013"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Carrot"
+  },
+  "version": ""
+}

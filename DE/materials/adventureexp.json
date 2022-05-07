@@ -1,0 +1,18 @@
+{
+  "name": "Abenteuer-EP",
+  "description": "Abenteuer-EP, wird zum Erhöhen der Abenteuerstufe verwendet.",
+  "sortorder": 450,
+  "rarity": "3",
+  "category": "ITEM_VIRTUAL",
+  "materialtype": "Aktivieren von Funktionen",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_102",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Adventure_EXP.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Item_Adventure_EXP.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Adventure_EXP"
+  },
+  "version": ""
+}

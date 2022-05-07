@@ -1,0 +1,21 @@
+{
+  "name": "Windmühlenaster",
+  "description": "Eine Pflanze, die den Wind liebt. Für die Freiheit schätzenden Menschen von Mondstadt, die den Wind verehren, sind Windmühlenastern wie Wind, den man anfassen kann.",
+  "sortorder": 2039,
+  "category": "EXCHANGE",
+  "materialtype": "Regionale Besonderheit aus Mondstadt",
+  "source": [
+    "In der Nähe der Statue der Sieben auf dem Windstieg zu finden",
+    "In der freien Natur unter Bäumen zu finden",
+    "Empfohlen: In Dvalins Ruinen zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Windwheel_Aster.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Windwheel_Aster.png",
+    "nameicon": "UI_ItemIcon_100024"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Windwheel_Aster"
+  },
+  "version": ""
+}

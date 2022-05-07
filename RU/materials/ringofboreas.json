@@ -1,0 +1,20 @@
+{
+  "name": "Кольцо Борея",
+  "description": "Кристаллизованный лёд Великого Короля Волков Севера.\nВо времена правления Борея в этих землях царили замораживающие кровь в венах бури и метели из острых как бритва ледяных осколков. Сейчас же Борея покинула почти вся его сила, но заморозить землю он всё ещё может лишь моргнув глазом.",
+  "sortorder": 1789,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Волк Севера Ур. 70+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ring_of_Boreas.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Item_Ring_of_Boreas.png",
+    "nameicon": "UI_ItemIcon_113007"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ring_of_Boreas"
+  },
+  "version": ""
+}

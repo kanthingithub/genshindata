@@ -1,0 +1,22 @@
+{
+  "name": "Sharp Arrowhead",
+  "description": "Ujung anak panah dengan kualitas yang baik. Ketajamannya dapat menembus zirah dengan mudah seperti batu menembus permukaan air.",
+  "sortorder": 1733,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Didapatkan melalui Craft",
+    "Dijatuhkan oleh Hilichurl Shooter Lv. 40+",
+    "Penukaran Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sharp_Arrowhead.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Item_Sharp_Arrowhead.png",
+    "nameicon": "UI_ItemIcon_112012"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sharp_Arrowhead"
+  },
+  "version": ""
+}

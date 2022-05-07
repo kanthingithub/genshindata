@@ -1,0 +1,23 @@
+{
+  "name": "堅牢黃玉塊",
+  "description": "角色突破素材。\n「大陸所流通的一切銀錢皆是我的血肉。」\n「我在以這樣的方式，為人類一切的汗水、智慧和未來做擔保。」",
+  "sortorder": 1848,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培養素材",
+  "source": [
+    "60級以上無相之岩掉落",
+    "60級以上黃金王獸掉落",
+    "60級以上遺蹟巨蛇掉落",
+    "合成獲得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Prithiva_Topaz_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/4b/Item_Prithiva_Topaz_Chunk.png",
+    "nameicon": "UI_ItemIcon_104173"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Prithiva_Topaz_Chunk"
+  },
+  "version": ""
+}

@@ -1,0 +1,207 @@
+{
+  "name": "Stormterror",
+  "specialname": "Stormterror",
+  "enemytype": "BOSS",
+  "category": "Enemigos memorables",
+  "description": "Dvalin o el Dragón del Este, uno de los Cuatro Vientos de Mondstadt.\nCon el paso de los siglos y en medio de tinieblas sin fin, hasta las gemas más puras se cubren de polvo y pierden su brillo, y hasta los dragones más orgullosos son carcomidos por el rencor.\nPero no hay que olvidar que el polvo se limpia fácilmente, y las dudas y el veneno también se pueden eliminar.\n\n“Vuela libre por los cielos”.\n“Igual que hacías cuando nos conocimos, y yo deambulaba por la tierra cantando canciones del viento”.\n“Volabas muy alto y mirabas hacia abajo desde las alturas”.\n“Ahora ya no sopla el viento ni cae la nieve, y la tierra está cubierta de verde hierba. Es una vista muy bonita”.\n“Si hubieras andado por la superficie; si hubieras escuchado las canciones bucólicas y los carrillones que tintinean en la distancia; si hubieras probado el dulce sabor del vino, lo entenderías”.\n“Si fueras yo, si te hubieras visto surcando el cielo azul con tu hermosa silueta...”\n“Así entenderías que merece la pena luchar por este cielo y esta tierra”.",
+  "rewardpreview": [
+    {
+      "name": "EXP de Aventura",
+      "count": 300
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "EXP de Amistad"
+    },
+    {
+      "name": "Pedacito de turquesa vayuda"
+    },
+    {
+      "name": "Fragmento de turquesa vayuda"
+    },
+    {
+      "name": "Trozo de turquesa vayuda"
+    },
+    {
+      "name": "Turquesa vayuda"
+    },
+    {
+      "name": "Pedacito de amatista vajrada"
+    },
+    {
+      "name": "Fragmento de amatista vajrada"
+    },
+    {
+      "name": "Trozo de amatista vajrada"
+    },
+    {
+      "name": "Amatista vajrada"
+    },
+    {
+      "name": "Pedacito de lazurita varunada"
+    },
+    {
+      "name": "Fragmento de lazurita varunada"
+    },
+    {
+      "name": "Trozo de lazurita varunada"
+    },
+    {
+      "name": "Lazurita varunada"
+    },
+    {
+      "name": "Solvente de sueños",
+      "count": 0.33
+    },
+    {
+      "name": "Pluma de Stormterror"
+    },
+    {
+      "name": "Garra de Stormterror"
+    },
+    {
+      "name": "Suspiro de Stormterror"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "3"
+    },
+    {
+      "name": "Exiliado",
+      "rarity": "3"
+    },
+    {
+      "name": "Final del Gladiador",
+      "rarity": "4"
+    },
+    {
+      "name": "Orquesta del Errante",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "4"
+    },
+    {
+      "name": "Exiliado",
+      "rarity": "4"
+    },
+    {
+      "name": "Final del Gladiador",
+      "rarity": "5"
+    },
+    {
+      "name": "Orquesta del Errante",
+      "rarity": "5"
+    },
+    {
+      "name": "Prototipo de espada del Norte"
+    },
+    {
+      "name": "Prototipo de arco del Norte"
+    },
+    {
+      "name": "Prototipo de mandoble del Norte"
+    },
+    {
+      "name": "Prototipo de catalizador del Norte"
+    },
+    {
+      "name": "Prototipo de lanza del Norte"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Dvalin"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 656.2529383627698,
+      "attack": 152.2663863116577,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 2579.4364822493226,
+      "attack": 406.8166587971864,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 7966.800011541462,
+      "attack": 1003.4998039648926,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 13255.20293965016,
+      "attack": 1639.0596025083796,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 24253.645171341486,
+      "attack": 2450.4833108624443,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 44968.35830332339,
+      "attack": 3778.963487027271,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 75431.29331801087,
+      "attack": 5321.546282113646,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 117467.75373650808,
+      "attack": 7346.143133227946,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 167091.54786452092,
+      "attack": 9451.590193737298,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 219186.78009680472,
+      "attack": 11418.823591017863,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 330886.09386089444,
+      "attack": 14773.25319093978,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 481520.82349524647,
+      "attack": 15066.582932085032,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 647876.8505104557,
+      "attack": 15361.966398832854,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

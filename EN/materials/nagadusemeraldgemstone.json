@@ -1,0 +1,19 @@
+{
+  "name": "Nagadus Emerald Gemstone",
+  "description": "Character Ascension material.\n\"In the end, life opened its closed fist...\n\"granting freedom to all.\n\"Men and animals have the ability to express themselves but the plants do not. Therefore, they need a spokesperson.\"",
+  "sortorder": 1833,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Crafted"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Nagadus_Emerald_Gemstone.png",
+    "nameicon": "UI_ItemIcon_104134"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Nagadus_Emerald_Gemstone"
+  },
+  "version": ""
+}

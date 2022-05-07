@@ -1,0 +1,23 @@
+{
+  "name": "脆い骨片",
+  "description": "ヴィシャップの体から見つけたある骨片。\n非常に脆いが、何ともいえない力が宿っているらしい。",
+  "sortorder": 1759,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "キャラクター育成素材",
+  "source": [
+    "ベビーヴィシャップ·岩でドロップ",
+    "ヴィシャップ·岩でドロップ",
+    "アビサルヴィシャップでドロップ",
+    "スターダスト交換"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragile_Bone_Shard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Item_Fragile_Bone_Shard.png",
+    "nameicon": "UI_ItemIcon_112041"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fragile_Bone_Shard"
+  },
+  "version": ""
+}

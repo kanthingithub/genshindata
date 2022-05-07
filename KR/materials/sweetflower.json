@@ -1,0 +1,19 @@
+{
+  "name": "달콤달콤꽃",
+  "description": "짙은 향기를 풍기는 식물. 어둠 속에서 냄새로 위치를 알아낼 수 있을 만큼 향기롭다",
+  "sortorder": 1978,
+  "category": "EXCHANGE",
+  "materialtype": "식자재",
+  "source": [
+    "야외 채집"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sweet_Flower.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Item_Sweet_Flower.png",
+    "nameicon": "UI_ItemIcon_100012"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sweet_Flower"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Minério de Prata Estrelada",
+  "description": "Um minério raro e precioso formado pelas condições geográficas e Linhas Ley únicas da Espinha do Dragão.",
+  "sortorder": 1959,
+  "category": "EXCHANGE",
+  "materialtype": "Minério de Forjamento",
+  "source": [
+    "Encontrado na natureza",
+    "Recomendação: Encontrado na Espinha do Dragão"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Starsilver.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Item_Starsilver.png",
+    "nameicon": "UI_ItemIcon_101006"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Starsilver"
+  },
+  "version": ""
+}

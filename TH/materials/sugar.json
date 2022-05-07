@@ -1,0 +1,19 @@
+{
+  "name": "Sugar",
+  "description": "น้ำตาลที่ผลิตจาก Sweet Flower มีพลังในการให้พลังงานและความสุข",
+  "sortorder": 1530,
+  "category": "EXCHANGE",
+  "materialtype": "วัตถุดิบประกอบอาหาร",
+  "source": [
+    "ได้จากการทำอาหาร"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sugar.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Item_Sugar.png",
+    "nameicon": "UI_ItemIcon_110006"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sugar"
+  },
+  "version": ""
+}

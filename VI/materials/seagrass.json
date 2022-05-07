@@ -1,0 +1,19 @@
+{
+  "name": "Rong Biển",
+  "description": "Loài thực vật sinh trưởng ở vùng biển cạn, có thể tăng thêm hương vị cho món ăn.",
+  "sortorder": 2012,
+  "category": "EXCHANGE",
+  "materialtype": "Nguyên Liệu",
+  "source": [
+    "Thu thập ở vùng biển Inazuma"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Seagrass.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Item_Seagrass.png",
+    "nameicon": "UI_ItemIcon_101210"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Seagrass"
+  },
+  "version": ""
+}

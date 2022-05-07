@@ -1,0 +1,854 @@
+{
+  "name": "Albedo",
+  "fullname": "Albedo",
+  "title": "El Príncipe de la Roca Caliza",
+  "description": "Alquimista en Jefe de los Caballeros de Favonius y Capitán del equipo de investigación. Lo llaman el “Príncipe de la Roca Caliza”.",
+  "rarity": "5",
+  "element": "Geo",
+  "weapontype": "Espada ligera",
+  "substat": "Bono de Daño Geo",
+  "gender": "Masculino",
+  "body": "BOY",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Caballeros de Favonius",
+  "birthdaymmdd": "9/13",
+  "birthday": "13 de septiembre",
+  "constellation": "Princeps Cretaceus",
+  "cv": {
+    "english": "Khoi Dao",
+    "chinese": "Mace",
+    "japanese": "野島健児",
+    "korean": "Kim Myeong-joon"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Pedacito de topacio prithiva",
+        "count": 1
+      },
+      {
+        "name": "Cecilia",
+        "count": 3
+      },
+      {
+        "name": "Pergamino guía",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de topacio prithiva",
+        "count": 3
+      },
+      {
+        "name": "Pilar de basalto",
+        "count": 2
+      },
+      {
+        "name": "Cecilia",
+        "count": 10
+      },
+      {
+        "name": "Pergamino guía",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de topacio prithiva",
+        "count": 6
+      },
+      {
+        "name": "Pilar de basalto",
+        "count": 4
+      },
+      {
+        "name": "Cecilia",
+        "count": 20
+      },
+      {
+        "name": "Pergamino hechizado",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Trozo de topacio prithiva",
+        "count": 3
+      },
+      {
+        "name": "Pilar de basalto",
+        "count": 8
+      },
+      {
+        "name": "Cecilia",
+        "count": 30
+      },
+      {
+        "name": "Pergamino hechizado",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Trozo de topacio prithiva",
+        "count": 6
+      },
+      {
+        "name": "Pilar de basalto",
+        "count": 12
+      },
+      {
+        "name": "Cecilia",
+        "count": 45
+      },
+      {
+        "name": "Pergamino maldito",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Topacio prithiva",
+        "count": 6
+      },
+      {
+        "name": "Pilar de basalto",
+        "count": 20
+      },
+      {
+        "name": "Cecilia",
+        "count": 60
+      },
+      {
+        "name": "Pergamino maldito",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Character_Albedo_Card.png",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Character_Albedo_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Albedo.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201216/2020121611204969580.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201216/2020121611271023422.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/94dd9e0cc9d8311e58887a45b9b14861.png",
+    "nameicon": "UI_AvatarIcon_Albedo",
+    "nameiconcard": "UI_AvatarIcon_Albedo_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Albedo",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Albedo",
+    "namesideicon": "UI_AvatarIcon_Side_Albedo"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Albedo"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1029.5855712890625,
+      "attack": 19.551000595092773,
+      "defense": 68.2061996459961,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2670.7450760040956,
+      "attack": 50.71529752007109,
+      "defense": 176.92688877664295,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3553.5216262970644,
+      "attack": 67.47728711357695,
+      "defense": 235.40888722024647,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5317.201770792366,
+      "attack": 100.96815228897867,
+      "defense": 352.24611124672083,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5944.437793741585,
+      "attack": 112.87798810440836,
+      "defense": 393.7991164652267,
+      "specialized": 0.07199999690055847
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6839.14761198865,
+      "attack": 129.86780680115135,
+      "defense": 453.07030109555126,
+      "specialized": 0.07199999690055847
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7675.462187183963,
+      "attack": 145.74758661682517,
+      "defense": 508.47429279477,
+      "specialized": 0.14399999380111694
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8579.438094904996,
+      "attack": 162.91336088819116,
+      "defense": 568.3593212533524,
+      "specialized": 0.14399999380111694
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9206.67417888937,
+      "attack": 174.82319670362085,
+      "defense": 609.9123302865555,
+      "specialized": 0.14399999380111694
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 10118.887156081328,
+      "attack": 192.14538628870014,
+      "defense": 670.3430338405342,
+      "specialized": 0.14399999380111694
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10746.122995925078,
+      "attack": 204.05522210412983,
+      "defense": 711.8960276149483,
+      "specialized": 0.2160000056028366
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11668.631573538703,
+      "attack": 221.5729168473854,
+      "defense": 773.0087762532967,
+      "specialized": 0.2160000056028366
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12295.867657523078,
+      "attack": 233.48275266281507,
+      "defense": 814.5617700277107,
+      "specialized": 0.2879999876022339
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 13225.583793659927,
+      "attack": 251.13731313623066,
+      "defense": 876.1519925053435,
+      "specialized": 0.2879999876022339
+    }
+  },
+  "version": "1.2",
+  "constellations": {
+    "c1": {
+      "name": "Flor del Edén",
+      "effect": "Cuando explota una flor fugaz de **Abiogénesis: Isotoma solar** creada por Albedo, este recupera 1.2 pts. de Energía Elemental."
+    },
+    "c2": {
+      "name": "Eón Fanerozoico",
+      "effect": "Al explotar, las flores fugaces de **Abiogénesis: Isotoma solar** otorgan a Albedo aritmética fatídica durante 30 s:\n·Al utilizar **Creación: Marea tectónica**, se consumen todas las acumulaciones de aritmética fatídica y el daño infligido por las explosiones de Creación: Marea tectónica y de las flores de la muerte aumenta en una cantidad equivalente al 30% de la DEF de Albedo por cada acumulación.\n·Este efecto puede acumularse un máximo de 4 veces."
+    },
+    "c3": {
+      "name": "Gracia de Helios",
+      "effect": "Aumenta el nivel de habilidad de **Abiogénesis: Isotoma solar** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c4": {
+      "name": "Caída divina",
+      "effect": "Si los personajes en uso están en el área de la isotoma solar, aumenta en un 30% el daño de sus Ataques Descendentes."
+    },
+    "c5": {
+      "name": "Marea del Hádico",
+      "effect": "Aumenta el nivel de habilidad de **Creación: Marea tectónica** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c6": {
+      "name": "Tierra purificadora",
+      "effect": "Aumenta en un 17% el daño de los personajes en uso si estos están en el área de la isotoma solar y bajo la protección de un escudo creado mediante Cristalización."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Albedo_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Albedo_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Albedo_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Albedo_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Albedo_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Albedo_04.png",
+      "constellation": "Eff_UI_Talent_Albedo"
+    },
+    "version": "1.2"
+  },
+  "talent": {
+    "name": "Albedo",
+    "combat1": {
+      "name": "Ataque Normal: Técnica de espada Favonius - Albor",
+      "info": "**Ataque Normal**\nRealiza hasta 5 ataques rápidos.\n\n**Ataque Cargado**\nConsume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado.\n\n**Ataque Descendente**\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "attributes": [
+        {
+          "name": "Daño de 1er golpe",
+          "parameters": [
+            "36.74%",
+            "39.73%",
+            "42.72%",
+            "46.99%",
+            "49.98%",
+            "53.40%",
+            "58.10%",
+            "62.80%",
+            "67.50%",
+            "72.62%",
+            "78.50%",
+            "85.41%",
+            "92.31%",
+            "99.22%",
+            "106.76%"
+          ]
+        },
+        {
+          "name": "Daño de 2.º golpe",
+          "parameters": [
+            "36.74%",
+            "39.73%",
+            "42.72%",
+            "46.99%",
+            "49.98%",
+            "53.40%",
+            "58.10%",
+            "62.80%",
+            "67.50%",
+            "72.62%",
+            "78.50%",
+            "85.41%",
+            "92.31%",
+            "99.22%",
+            "106.76%"
+          ]
+        },
+        {
+          "name": "Daño de 3er golpe",
+          "parameters": [
+            "47.45%",
+            "51.32%",
+            "55.18%",
+            "60.70%",
+            "64.56%",
+            "68.98%",
+            "75.04%",
+            "81.11%",
+            "87.18%",
+            "93.81%",
+            "101.39%",
+            "110.32%",
+            "119.24%",
+            "128.16%",
+            "137.89%"
+          ]
+        },
+        {
+          "name": "Daño de 4.º golpe",
+          "parameters": [
+            "49.75%",
+            "53.80%",
+            "57.85%",
+            "63.63%",
+            "67.68%",
+            "72.31%",
+            "78.68%",
+            "85.04%",
+            "91.40%",
+            "98.34%",
+            "106.30%",
+            "115.65%",
+            "125.01%",
+            "134.36%",
+            "144.57%"
+          ]
+        },
+        {
+          "name": "Daño de 5.º golpe",
+          "parameters": [
+            "62.07%",
+            "67.13%",
+            "72.18%",
+            "79.40%",
+            "84.45%",
+            "90.22%",
+            "98.16%",
+            "106.10%",
+            "114.04%",
+            "122.70%",
+            "132.63%",
+            "144.30%",
+            "155.97%",
+            "167.64%",
+            "180.38%"
+          ]
+        },
+        {
+          "name": "Daño de ATQ Cargado",
+          "parameters": [
+            "47.30%+60.20%",
+            "51.15%+65.10%",
+            "55.00%+70.00%",
+            "60.50%+77.00%",
+            "64.35%+81.90%",
+            "68.75%+87.50%",
+            "74.80%+95.20%",
+            "80.85%+102.90%",
+            "86.90%+110.60%",
+            "93.50%+119.00%",
+            "101.06%+128.62%",
+            "109.96%+139.94%",
+            "118.85%+151.26%",
+            "127.74%+162.58%",
+            "137.44%+174.93%"
+          ]
+        },
+        {
+          "name": "Coste de Aguante de ATQ Cargado",
+          "parameters": [
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts.",
+            "20 pts."
+          ]
+        },
+        {
+          "name": "Daño de Caída",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "Daño de impacto de caída baja/alta",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Abiogénesis: Isotoma solar",
+      "info": "Crea una isotoma solar que inflige Daño Geo en el AdE.\n\n**Isotoma solar**\nCaracterísticas:\n·Cuando los enemigos situados en el centro del área de la isotoma solar reciben daño, esta se convertirá en una flor fugaz, abriéndose e infligiendo Daño Geo en el AdE proporcional a la DEF de Albedo.\n·Solo puede crearse una flor fugaz cada 2 s.\n·Cuando un personaje se sitúa sobre la isotoma solar, el poder de Geo se concentrará para formar una plataforma cristalizada de cierta altura sobre la que se podrán mantener los personajes.\n·Solamente puede existir al mismo tiempo una isotoma solar creada por Albedo, y esta se considera una creación Geo.\n\n**Mantener pulsado**\nControla la ubicación sobre la que tiene lugar la habilidad.",
+      "description": "Esta especie de flor Geo, cuya meta es la misma que la de la alquimia, tiene una naturaleza muy particular. Brota de la tierra con miras a ascender a los cielos, donde se convertirá en un Sol.",
+      "attributes": [
+        {
+          "name": "Daño de habilidad",
+          "parameters": [
+            "130.40%",
+            "140.18%",
+            "149.96%",
+            "163.00%",
+            "172.78%",
+            "182.56%",
+            "195.60%",
+            "208.64%",
+            "221.68%",
+            "234.72%",
+            "247.76%",
+            "260.80%",
+            "277.10%",
+            "293.40%",
+            "309.70%"
+          ]
+        },
+        {
+          "name": "Daño de flor fugaz",
+          "parameters": [
+            "133.60% de DEF",
+            "143.62% de DEF",
+            "153.64% de DEF",
+            "167.00% de DEF",
+            "177.02% de DEF",
+            "187.04% de DEF",
+            "200.40% de DEF",
+            "213.76% de DEF",
+            "227.12% de DEF",
+            "240.48% de DEF",
+            "253.84% de DEF",
+            "267.20% de DEF",
+            "283.90% de DEF",
+            "300.60% de DEF",
+            "317.30% de DEF"
+          ]
+        },
+        {
+          "name": "Duración",
+          "parameters": [
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s"
+          ]
+        },
+        {
+          "name": "TdE de habilidad",
+          "parameters": [
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Creación: Marea tectónica",
+      "info": "Albedo ordena a sus cristales Geo que exploten, lanzándolos al frente e infligiendo Daño Geo en el AdE.\nSi en el campo de batalla ya hay una isotoma solar creada por Albedo, creará 7 flores de la muerte dentro del área de la isotoma, provocando una violenta explosión que inflige Daño Geo en el AdE.\n\nEl daño causado por la explosión y las flores de la muerte no creará una flor fugaz.",
+      "description": "Bajo las órdenes del Príncipe de la Roca Caliza, el mundo entero puede temblar.",
+      "attributes": [
+        {
+          "name": "Daño de explosión",
+          "parameters": [
+            "367.20%",
+            "394.74%",
+            "422.28%",
+            "459.00%",
+            "486.54%",
+            "514.08%",
+            "550.80%",
+            "587.52%",
+            "624.24%",
+            "660.96%",
+            "697.68%",
+            "734.40%",
+            "780.30%",
+            "826.20%",
+            "872.10%"
+          ]
+        },
+        {
+          "name": "Daño de flor de la muerte",
+          "parameters": [
+            "72.00% por flor",
+            "77.40% por flor",
+            "82.80% por flor",
+            "90.00% por flor",
+            "95.40% por flor",
+            "100.80% por flor",
+            "108.00% por flor",
+            "115.20% por flor",
+            "122.40% por flor",
+            "129.60% por flor",
+            "136.80% por flor",
+            "144.00% por flor",
+            "153.00% por flor",
+            "162.00% por flor",
+            "171.00% por flor"
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        },
+        {
+          "name": "Energía Elemental",
+          "parameters": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Fuerza caliza",
+      "info": "Aumenta en un 25% el daño infligido por la flor fugaz de **Abiogénesis: Isotoma solar** contra enemigos con menos del 50% de Vida."
+    },
+    "passive2": {
+      "name": "Sabiduría del homúnculo",
+      "info": "**Creación: Marea tectónica** aumenta en 125 pts. la Maestría Elemental de los personajes del equipo cercanos durante 10 s."
+    },
+    "passive3": {
+      "name": "Genio de la alquimia",
+      "info": "Al crear materiales de ascensión de arma, hay una probabilidad del 10% de recibir el doble."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseñanzas de la poesía",
+          "count": 3
+        },
+        {
+          "name": "Pergamino guía",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guía de la poesía",
+          "count": 2
+        },
+        {
+          "name": "Pergamino hechizado",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guía de la poesía",
+          "count": 4
+        },
+        {
+          "name": "Pergamino hechizado",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guía de la poesía",
+          "count": 6
+        },
+        {
+          "name": "Pergamino hechizado",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guía de la poesía",
+          "count": 9
+        },
+        {
+          "name": "Pergamino hechizado",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofía de la poesía",
+          "count": 4
+        },
+        {
+          "name": "Pergamino maldito",
+          "count": 4
+        },
+        {
+          "name": "Cuerno de Monoceros Caeli",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofía de la poesía",
+          "count": 6
+        },
+        {
+          "name": "Pergamino maldito",
+          "count": 6
+        },
+        {
+          "name": "Cuerno de Monoceros Caeli",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofía de la poesía",
+          "count": 12
+        },
+        {
+          "name": "Pergamino maldito",
+          "count": 9
+        },
+        {
+          "name": "Cuerno de Monoceros Caeli",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofía de la poesía",
+          "count": 16
+        },
+        {
+          "name": "Pergamino maldito",
+          "count": 12
+        },
+        {
+          "name": "Cuerno de Monoceros Caeli",
+          "count": 2
+        },
+        {
+          "name": "Corona de la sabiduría",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_01",
+      "combat2": "Skill_S_Albedo_01",
+      "combat3": "Skill_E_Albedo_01_HD",
+      "passive1": "UI_Talent_S_Albedo_05",
+      "passive2": "UI_Talent_S_Albedo_06",
+      "passive3": "UI_Talent_Combine_Weapon_Double"
+    },
+    "version": "1.2"
+  }
+}

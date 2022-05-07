@@ -1,0 +1,25 @@
+{
+  "name": "Ominous Mask",
+  "description": "หน้ากากที่เคลือบด้วยสีน้ำมัน มีความหมายถึงการข่มขู่ศัตรู\nไม่มีใครทราบถึงความสัมพันธ์ที่แท้จริงระหว่างพวก Hilichurl กับหน้ากาก แต่มีคนเคยบอกไว้ว่าที่เป็นเช่นนี้ ก็เพราะว่าพวกมันไม่ต้องการเห็นเงาของตัวเองในแม่น้ำ",
+  "sortorder": 1728,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ได้รับจากการสรรสร้าง",
+    "ดรอปจาก Hilichurl Lv.60 ขึ้นไป",
+    "ดรอปจาก Hilichurl Shooter บางตัว Lv.60 ขึ้นไป",
+    "ดรอปจาก Samachurl บางตัว Lv.60 ขึ้นไป",
+    "ดรอปจาก Mitachurl บางตัว Lv.60 ขึ้นไป",
+    "ดรอปจาก Hilichurl Chieftain บางตัว Lv.60 ขึ้นไป"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ominous_Mask.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Ominous_Mask.png",
+    "nameicon": "UI_ItemIcon_112007"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ominous_Mask"
+  },
+  "version": ""
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Shimmering Nectar",
+  "description": "Nektar yang mengandung elemen murni.\nPara pelajar pada umumnya sepakat bahwa Whopperflower adalah bentuk kehidupan yang lebih maju dibandingkan tanaman elemental lainnya, tetapi belum ada penjelasan yang memuaskan mengenai kebiasaan predatornya.",
+  "sortorder": 1757,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Didapatkan melalui Craft",
+    "Dijatuhkan oleh Whopperflower Lv. 40+",
+    "Penukaran Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shimmering_Nectar.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Shimmering_Nectar.png",
+    "nameicon": "UI_ItemIcon_112039"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shimmering_Nectar"
+  },
+  "version": ""
+}

@@ -1,0 +1,141 @@
+{
+  "name": "Pháp Sư Vực Sâu Hỏa",
+  "specialname": "Pháp Sư Vực Sâu - Advos",
+  "enemytype": "COMMON",
+  "category": "Vực Sâu",
+  "description": "Ma vật vực sâu có ma lực và khả năng lợi dụng nguyên tố Hỏa chiến đấu.\nVì lý do nào đó, Pháp Sư Vực Sâu tinh thông ngôn ngữ của Hilichurl, có thể điều khiển tâm trí của chúng. Nghe nói Pháp Sư Vực Sâu cũng biết về các cổ ngữ đã thất truyền mà hiện nay rất ít người biết đến, và lợi dụng sức mạnh của ngôn ngữ này để điều khiển ma pháp.",
+  "investigation": {
+    "name": "Pháp Sư Vực Sâu",
+    "category": "Tinh Anh",
+    "description": "Ma vật Vực Sâu ở mức độ nhất định có thể điều khiển nguyên tố chiến đấu.\\nBằng một lý do nào đó, pháp sư Vực Sâu có thể tinh thông ngôn ngữ nguệch ngoạc của Hilichurl, từ đó có thể điều khiển tâm trí của chúng. Nghe nói Pháp Sư Vực Sâu tinh thông ngôn ngữ thất truyền cổ xưa mà con người ngày nay không thể lý giải được, chúng đã lợi dụng sức mạnh này để thi triển ma pháp..."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Cành Cây Địa Mạch",
+      "count": 2.2324
+    },
+    {
+      "name": "Lá Khô Địa Mạch",
+      "count": 0.5953
+    },
+    {
+      "name": "Chồi Non Địa Mạch",
+      "count": 0.1487
+    },
+    {
+      "name": "Cuồng Chiến",
+      "rarity": "3"
+    },
+    {
+      "name": "Giáo Quan",
+      "rarity": "3"
+    },
+    {
+      "name": "Kẻ Lưu Đày",
+      "rarity": "3"
+    },
+    {
+      "name": "Thầy Thuốc",
+      "rarity": "3"
+    },
+    {
+      "name": "Cuồng Chiến",
+      "rarity": "4"
+    },
+    {
+      "name": "Giáo Quan",
+      "rarity": "4"
+    },
+    {
+      "name": "Kẻ Lưu Đày",
+      "rarity": "4"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Abyss_Fire_01"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 145.83398630283773,
+      "attack": 76.13319315582885,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 573.2081071665161,
+      "attack": 203.4083293985932,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 1770.4000025647692,
+      "attack": 501.7499019824463,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 2945.600653255591,
+      "attack": 819.5298012541898,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 5389.698926964775,
+      "attack": 1225.2416554312222,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 9992.968511849642,
+      "attack": 1889.4817435136356,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 16762.509626224637,
+      "attack": 2660.773141056823,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 26103.945274779573,
+      "attack": 3673.071566613973,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 37131.45508100465,
+      "attack": 4725.795096868649,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 48708.173354845494,
+      "attack": 5709.411795508931,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 73530.24308019876,
+      "attack": 7386.62659546989,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 107004.6274433881,
+      "attack": 7533.291466042516,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 143972.63344676793,
+      "attack": 7680.983199416427,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

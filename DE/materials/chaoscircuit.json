@@ -1,0 +1,23 @@
+{
+  "name": "Chaos-Schaltkreis",
+  "description": "Ein Relikt aus uralten Ruinen, das einmal dazu diente, ein Gerät zu steuern. Die Technik dahinter ist nicht einmal annähernd zu begreifen.",
+  "sortorder": 1742,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Kann hergestellt werden",
+    "Beute von Ruinenwächtern ab Stufe 40",
+    "Beute von Ruinenjägern ab Stufe 40",
+    "Mit Sternenstaub kaufen"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Circuit.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Item_Chaos_Circuit.png",
+    "nameicon": "UI_ItemIcon_112024"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chaos_Circuit"
+  },
+  "version": ""
+}

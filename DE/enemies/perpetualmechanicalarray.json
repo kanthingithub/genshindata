@@ -1,0 +1,180 @@
+{
+  "name": "Anordnung immerwährender Vorrichtungen",
+  "specialname": "Fortwährende Resonanz SI/Ald",
+  "enemytype": "BOSS",
+  "category": "Automata",
+  "description": "Tückische und fremdartige Kampfmaschine.\nDie Legende besagt, dass dies eine Kriegsmaschine ist, die von einem bereits zerstörten Königreich zurückgelassen wurde. Sie besteht aus mehreren Teilen, die sich je nach Kampfumgebung in verschiedene Formen verwandeln und verschiedene Angriffe ausführen können.\nDie Form aus Würfeln hat auf einer Ebene viele Ähnlichkeiten mit den sogenannten „Hypotasen“.",
+  "investigation": {
+    "name": "Anordnung immerwährender Vorrichtungen",
+    "category": "Anführer",
+    "description": "Eine seltsame, fremdartige Maschine.\\nMan sagt, dass es eine Kriegsmaschine ist, die von einer bereits zerstörten Nation zurückgelassen wurde. Sie besteht aus mehreren verschiedenen Teilen und kann sich an ihre Kampfumgebung anpassen und eine Vielzahl von Angriffen einsetzen.\\nDiese würfelförmige Maschine ist auf einer gewissen Ebene den Hypostasen sehr ähnlich."
+  },
+  "rewardpreview": [
+    {
+      "name": "Abenteuer-EP",
+      "count": 200
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Freundschafts-EP"
+    },
+    {
+      "name": "Shivada-Jade-Splitter"
+    },
+    {
+      "name": "Shivada-Jade-Bruchstück"
+    },
+    {
+      "name": "Shivada-Jade-Brocken"
+    },
+    {
+      "name": "Shivada-Jade"
+    },
+    {
+      "name": "Prithiva-Topas-Splitter"
+    },
+    {
+      "name": "Prithiva-Topas-Bruchstück"
+    },
+    {
+      "name": "Prithiva-Topas-Brocken"
+    },
+    {
+      "name": "Prithiva-Topas"
+    },
+    {
+      "name": "Ewiges Herz",
+      "count": 2.5556
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Verbannter",
+      "rarity": "3"
+    },
+    {
+      "name": "Eisopfer",
+      "rarity": "3"
+    },
+    {
+      "name": "Glückspilz",
+      "rarity": "3"
+    },
+    {
+      "name": "Verbeugung des Gladiators",
+      "rarity": "4"
+    },
+    {
+      "name": "Wanderorchester",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Verbannter",
+      "rarity": "4"
+    },
+    {
+      "name": "Eisopfer",
+      "rarity": "4"
+    },
+    {
+      "name": "Verbeugung des Gladiators",
+      "rarity": "5"
+    },
+    {
+      "name": "Wanderorchester",
+      "rarity": "5"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Apparatus_Perpetual"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 1174.719979072921,
+      "attack": 152.2663863116577,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 4626.704139917158,
+      "attack": 406.8166587971864,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 13617.999429747462,
+      "attack": 1003.4998039648926,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 25359.519874926656,
+      "attack": 1639.0596025083796,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 45533.550190430135,
+      "attack": 2450.4833108624443,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 83896.51290229708,
+      "attack": 3778.963487027271,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 141743.07991312444,
+      "attack": 5321.546282113646,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 234433.54121115804,
+      "attack": 7346.143133227946,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 378185.8724294901,
+      "attack": 9451.590193737298,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 593604.5999345183,
+      "attack": 11418.823591017863,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 887360.290015161,
+      "attack": 14773.25319093978,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 1123131.6694715023,
+      "attack": 15066.582932085032,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 1299097.6333526373,
+      "attack": 15361.966398832854,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

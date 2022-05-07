@@ -1,0 +1,20 @@
+{
+  "name": "Semilla de fuego eterno",
+  "description": "Una semilla que alimenta las eternas llamas de la Regisvid Pyro.\nEmite energía Pyro como si fuera a quemar todo lo que ha brotado de la tierra. Un sinfín de anhelos fluye por la turbulenta energía de las profundidades de la tierra. ¿Qué deseo podría mantener vivo este fuego en una planta y anhelar durante tanto tiempo incendiarlo todo con unas inextinguibles llamas?",
+  "sortorder": 1793,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Obtenido de Regisvid Pyro (Niv. 30+)"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Everflame_Seed.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Item_Everflame_Seed.png",
+    "nameicon": "UI_ItemIcon_113011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Everflame_Seed"
+  },
+  "version": ""
+}

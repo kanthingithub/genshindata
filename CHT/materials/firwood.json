@@ -1,0 +1,22 @@
+{
+  "name": "杉木",
+  "description": "「冷杉」出產的木材，有著不錯的木質和紋理，被廣泛使用於各種領域。\n可用於製作擺設。",
+  "sortorder": 1942,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "素材",
+  "source": [
+    "野外採集",
+    "推薦：墜星山谷砍伐",
+    "推薦：風嘯山坡砍伐"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fir_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Item_Fir_Wood.png",
+    "nameicon": "UI_ItemIcon_101308"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fir_Wood"
+  },
+  "version": ""
+}

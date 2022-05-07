@@ -1,0 +1,19 @@
+{
+  "name": "Salsicha",
+  "description": "Enchido de carne moída. É conveniente para se armazenar e atende a todas as necessidades de um amante de carnes.",
+  "sortorder": 1534,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente",
+  "source": [
+    "Processado"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sausage.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/ba/Item_Sausage.png",
+    "nameicon": "UI_ItemIcon_110011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sausage"
+  },
+  "version": ""
+}

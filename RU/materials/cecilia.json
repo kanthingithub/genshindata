@@ -1,0 +1,20 @@
+{
+  "name": "Сесилия",
+  "description": "Цветы, такие же прекрасные, как и их имя. Они растут только там, где дует резкий холодный ветер.",
+  "sortorder": 2038,
+  "category": "EXCHANGE",
+  "materialtype": "Диковина Мондштадта",
+  "source": [
+    "Дикая природа",
+    "Утёс Звездолова"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cecilia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Cecilia.png",
+    "nameicon": "UI_ItemIcon_100023"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cecilia"
+  },
+  "version": ""
+}

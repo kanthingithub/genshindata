@@ -1,0 +1,230 @@
+{
+  "name": "Dominio de la bendición: Necrópolis",
+  "region": "Inazuma",
+  "domainEntrance": "Corte de la hibernación",
+  "domainType": "Artefacto",
+  "description": "Esta residencia sin dueño se ha convertido en la guarida de los monstruos que acechan la grieta.\nQuienes dominen el rayo eterno y logren superar este desafío podrán obtener valiosos artefactos.",
+  "daysOfWeek": null,
+  "images": {},
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Dominio de la bendición: Necrópolis I",
+      "recommendedLevel": 59,
+      "recommendedElements": null,
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "EXP de Amistad",
+          "count": 15
+        },
+        {
+          "name": "Corazón del Guardián",
+          "rarity": "3"
+        },
+        {
+          "name": "Corazón del Guerrero",
+          "rarity": "3"
+        },
+        {
+          "name": "Cáscara de Sueños Opulentos",
+          "rarity": "4"
+        },
+        {
+          "name": "Perla Oceánica",
+          "rarity": "4"
+        },
+        {
+          "name": "Corazón del Guardián",
+          "rarity": "4"
+        },
+        {
+          "name": "Corazón del Guerrero",
+          "rarity": "4"
+        }
+      ],
+      "disorder": null,
+      "monsterlist": [
+        "Mitachurl con Hacha Electro",
+        "Slime Gigante Hydro",
+        "Slime Hydro"
+      ]
+    },
+    {
+      "name": "Dominio de la bendición: Necrópolis II",
+      "recommendedLevel": 69,
+      "recommendedElements": null,
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "EXP de Amistad",
+          "count": 20
+        },
+        {
+          "name": "Corazón del Guardián",
+          "rarity": "3"
+        },
+        {
+          "name": "Corazón del Guerrero",
+          "rarity": "3"
+        },
+        {
+          "name": "Cáscara de Sueños Opulentos",
+          "rarity": "4"
+        },
+        {
+          "name": "Perla Oceánica",
+          "rarity": "4"
+        },
+        {
+          "name": "Corazón del Guardián",
+          "rarity": "4"
+        },
+        {
+          "name": "Corazón del Guerrero",
+          "rarity": "4"
+        }
+      ],
+      "disorder": null,
+      "monsterlist": [
+        "Mitachurl con Hacha Electro",
+        "Slime Gigante Hydro",
+        "Slime Hydro",
+        "Hilichurl Ballestero Electro",
+        "Hilichurl Berserker"
+      ]
+    },
+    {
+      "name": "Dominio de la bendición: Necrópolis III",
+      "recommendedLevel": 80,
+      "recommendedElements": null,
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "EXP de Amistad",
+          "count": 20
+        },
+        {
+          "name": "Corazón del Guardián",
+          "rarity": "3"
+        },
+        {
+          "name": "Corazón del Guerrero",
+          "rarity": "3"
+        },
+        {
+          "name": "Cáscara de Sueños Opulentos",
+          "rarity": "4"
+        },
+        {
+          "name": "Perla Oceánica",
+          "rarity": "4"
+        },
+        {
+          "name": "Corazón del Guardián",
+          "rarity": "4"
+        },
+        {
+          "name": "Corazón del Guerrero",
+          "rarity": "4"
+        },
+        {
+          "name": "Cáscara de Sueños Opulentos",
+          "rarity": "5"
+        },
+        {
+          "name": "Perla Oceánica",
+          "rarity": "5"
+        }
+      ],
+      "disorder": null,
+      "monsterlist": [
+        "Sabueso Acechador Eléctrico",
+        "Cachorro Acechador Eléctrico",
+        "Hilichurl Ballestero Electro"
+      ]
+    },
+    {
+      "name": "Dominio de la bendición: Necrópolis IV",
+      "recommendedLevel": 90,
+      "recommendedElements": null,
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "EXP de Amistad",
+          "count": 20
+        },
+        {
+          "name": "Corazón del Guardián",
+          "rarity": "3"
+        },
+        {
+          "name": "Corazón del Guerrero",
+          "rarity": "3"
+        },
+        {
+          "name": "Cáscara de Sueños Opulentos",
+          "rarity": "4"
+        },
+        {
+          "name": "Perla Oceánica",
+          "rarity": "4"
+        },
+        {
+          "name": "Corazón del Guardián",
+          "rarity": "4"
+        },
+        {
+          "name": "Corazón del Guerrero",
+          "rarity": "4"
+        },
+        {
+          "name": "Cáscara de Sueños Opulentos",
+          "rarity": "5"
+        },
+        {
+          "name": "Perla Oceánica",
+          "rarity": "5"
+        }
+      ],
+      "disorder": null,
+      "monsterlist": [
+        "Sabueso Acechador Eléctrico",
+        "Cachorro Acechador Eléctrico",
+        "Mitachurl con Hacha Electro"
+      ]
+    }
+  ]
+}

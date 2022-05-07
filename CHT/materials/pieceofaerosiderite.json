@@ -1,0 +1,26 @@
+{
+  "name": "漆黑隕鐵的一片",
+  "description": "賦予武器突破之力的材料。\n璃月之地向來都有海怪的傳說，畢竟彼方是超越提瓦特的未知區域了。沒有了塵世七神的守護，外面不知道是怎樣的一團混沌。能把岩王帝君的力量都染黑的，正是提瓦特秩序之外的力量。",
+  "sortorder": 2204,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "武器突破素材",
+  "dropdomain": "煉武秘境：古雷試煉場",
+  "daysofweek": [
+    "週三",
+    "週六",
+    "週日"
+  ],
+  "source": [
+    "合成獲得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Piece_of_Aerosiderite.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Item_Piece_of_Aerosiderite.png",
+    "nameicon": "UI_ItemIcon_114022"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Piece_of_Aerosiderite"
+  },
+  "version": ""
+}

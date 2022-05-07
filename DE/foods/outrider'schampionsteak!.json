@@ -1,0 +1,24 @@
+{
+  "name": "Kundschaftersteak!",
+  "rarity": "1",
+  "foodtype": "SPECIALTY",
+  "foodfilter": "Gericht zur LP-Wiederherstellung",
+  "foodcategory": "Recovery_Revive",
+  "effect": "Belebt die gewählte Figur wieder und stellt ihr 10 % LP sowie zusätzlich 150 LP wieder her.",
+  "description": "Ambers Spezialzubereitung. Eine Seite ist noch vollständig roh, die andere verbrannt und verströmt einen leicht beißenden Geruch. Schließ die Augen, beiß rein und mach Amber eine Freude.",
+  "basedish": "Steak",
+  "character": "Amber",
+  "ingredients": [
+    {
+      "name": "Rohes Fleisch",
+      "count": 2
+    }
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_108010"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Outrider's_Champion_Steak!"
+  },
+  "version": "1.0"
+}

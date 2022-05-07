@@ -1,0 +1,23 @@
+{
+  "name": "Morceau de topaze prithiva",
+  "description": "Matériau d'élévation de personnage.\n« Toutes les monnaies qui circulent sur le continent font partie de mon corps. »\n« Je garantis la sueur, la sagesse et l'avenir des humains de cette manière. »",
+  "sortorder": 1848,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Butin d'Hypostase Géo (Niv.60+)",
+    "Butin de Loup alpha doré (Niv.60+)",
+    "Butin de Serpent des ruines (Niv.60+)",
+    "Synthèse"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Prithiva_Topaz_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/4b/Item_Prithiva_Topaz_Chunk.png",
+    "nameicon": "UI_ItemIcon_104173"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Prithiva_Topaz_Chunk"
+  },
+  "version": ""
+}

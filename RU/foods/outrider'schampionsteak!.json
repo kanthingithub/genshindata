@@ -1,0 +1,24 @@
+{
+  "name": "Стейк скаута-чемпиона!",
+  "rarity": "1",
+  "foodtype": "SPECIALTY",
+  "foodfilter": "Восстанавливающее блюдо",
+  "foodcategory": "Recovery_Revive",
+  "effect": "Воскрешает персонажа и восстанавливает ему 10% от макс. HP + 150 HP.",
+  "description": "Особое блюдо Эмбер. Одна сторона явно сырая. Другая сторона имеет тонкий запах чего-то подгоревшего. Закройте глаза и откусите большой кусок... просто чтобы Эмбер была счастлива.",
+  "basedish": "Мясной стейк",
+  "character": "Эмбер",
+  "ingredients": [
+    {
+      "name": "Сырое мясо",
+      "count": 2
+    }
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_108010"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Outrider's_Champion_Steak!"
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Filosofia de Poemas",
+  "description": "Material de Elevação de Talento.\nPoesia é a alma do Reino do Vento.\nPoesia é a manifestação do desejo de difundir as palavras. Embora nada seja eterno, ainda que nada seja o mesmo, a poesia do vento ainda se espalhará além dos céus, da terra e dos mares em todos os cantos do mundo.",
+  "sortorder": 1859,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Talento",
+  "dropdomain": "Domínio da Proficiência: Reino do Sono",
+  "daysofweek": [
+    "Quarta-feira",
+    "Sábado",
+    "Domingo"
+  ],
+  "source": [
+    "Obtido na síntese"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Ballad.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Item_Philosophies_of_Ballad.png",
+    "nameicon": "UI_ItemIcon_104309"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Ballad"
+  },
+  "version": ""
+}

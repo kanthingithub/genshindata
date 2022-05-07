@@ -1,0 +1,18 @@
+{
+  "name": "腐植の龍髄",
+  "description": "「腐植の剣」専用の精錬素材。\nドラゴンスパインの地脈に散らばる「ドゥリン」の毒をろ過した後の物質。この物質に適合する「血を渇望する剣」に使えば、剣の力を上昇させられる。",
+  "sortorder": 2293,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "精錬素材",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Festering_Dragon_Marrow.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Item_Festering_Dragon_Marrow.png",
+    "nameicon": "UI_ItemIcon_200103"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Festering_Dragon_Marrow"
+  },
+  "version": ""
+}

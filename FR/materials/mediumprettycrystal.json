@@ -1,0 +1,18 @@
+{
+  "name": "Joli cristal (moyen)",
+  "description": "Produit synthétisé supplémentaire",
+  "sortorder": 1588,
+  "category": "CONSUME",
+  "materialtype": "Produit synthétisé",
+  "source": [
+    "Synthèse"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_111021",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Medium_Pretty_Crystal.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Medium_Pretty_Crystal"
+  },
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Ếch Xanh",
+  "description": "Ếch sống trong môi trường ẩm ướt, rất có sức sống.",
+  "sortorder": 1972,
+  "category": "EXCHANGE",
+  "materialtype": "Nguyên Liệu",
+  "source": [
+    "Thu thập ở vùng nước ngọt"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Frog.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Item_Frog.png",
+    "nameicon": "UI_ItemIcon_100081"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Frog"
+  },
+  "version": ""
+}

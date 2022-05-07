@@ -1,0 +1,19 @@
+{
+  "name": "Sucre",
+  "description": "Une poudre obtenue à partir de fleurs sucrantes. Procure de l'énergie et du bonheur.",
+  "sortorder": 1530,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrédient",
+  "source": [
+    "Cuisine (préparation)"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sugar.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Item_Sugar.png",
+    "nameicon": "UI_ItemIcon_110006"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sugar"
+  },
+  "version": ""
+}

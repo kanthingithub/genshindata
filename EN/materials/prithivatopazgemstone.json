@@ -1,0 +1,23 @@
+{
+  "name": "Prithiva Topaz Gemstone",
+  "description": "Character Ascension material.\n\"The currencies that flow through this land are my flesh and blood.\nFor thus did I become the guarantor of the people's hard work, wisdom, and future.\nThis is the trust I have placed in them. Betray it, and you taint my blood.\"",
+  "sortorder": 1849,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Dropped by Lv. 75+ Geo Hypostases",
+    "Dropped by Lv. 75+ Golden Wolflords",
+    "Dropped by Lv. 75+ Ruin Serpents",
+    "Crafted"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Prithiva_Topaz_Gemstone.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Item_Prithiva_Topaz_Gemstone.png",
+    "nameicon": "UI_ItemIcon_104174"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Prithiva_Topaz_Gemstone"
+  },
+  "version": ""
+}

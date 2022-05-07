@@ -1,0 +1,307 @@
+{
+  "name": "Histórias de Outros Mundos",
+  "description": "Um romance de fantasia barato sem valor referencial. Os seus poderes, obviamente, também servem apenas na sua imaginação.",
+  "weapontype": "Catalisador",
+  "rarity": "3",
+  "baseatk": 39,
+  "substat": "Recarga de Energia",
+  "subvalue": "8.5",
+  "effectname": "Imersão de Energia",
+  "effect": [
+    "Coletar um Orbe ou Partícula Elemental restaura [1%] da Vida.",
+    "Coletar um Orbe ou Partícula Elemental restaura [1.25%] da Vida.",
+    "Coletar um Orbe ou Partícula Elemental restaura [1.5%] da Vida.",
+    "Coletar um Orbe ou Partícula Elemental restaura [1.75%] da Vida.",
+    "Coletar um Orbe ou Partícula Elemental restaura [2%] da Vida."
+  ],
+  "r1": [
+    "1%"
+  ],
+  "r2": [
+    "1.25%"
+  ],
+  "r3": [
+    "1.5%"
+  ],
+  "r4": [
+    "1.75%"
+  ],
+  "r5": [
+    "2%"
+  ],
+  "weaponmaterialtype": "Dandelion Gladiator",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 5000
+      },
+      {
+        "name": "Grilhões de Dandelion",
+        "count": 2
+      },
+      {
+        "name": "Dispositivo do Caos",
+        "count": 2
+      },
+      {
+        "name": "Máscara Danificada",
+        "count": 1
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 10000
+      },
+      {
+        "name": "Correntes do Gladiador de Dandelion",
+        "count": 2
+      },
+      {
+        "name": "Dispositivo do Caos",
+        "count": 8
+      },
+      {
+        "name": "Máscara Danificada",
+        "count": 5
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 15000
+      },
+      {
+        "name": "Correntes do Gladiador de Dandelion",
+        "count": 4
+      },
+      {
+        "name": "Circuito do Caos",
+        "count": 4
+      },
+      {
+        "name": "Máscara Suja",
+        "count": 4
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Manilhas do Gladiador de Dandelion",
+        "count": 2
+      },
+      {
+        "name": "Circuito do Caos",
+        "count": 8
+      },
+      {
+        "name": "Máscara Suja",
+        "count": 6
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 25000
+      },
+      {
+        "name": "Manilhas do Gladiador de Dandelion",
+        "count": 4
+      },
+      {
+        "name": "Fornalha do Caos",
+        "count": 6
+      },
+      {
+        "name": "Máscara Ominosa",
+        "count": 4
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Sonho do Gladiador de Dandelion",
+        "count": 3
+      },
+      {
+        "name": "Fornalha do Caos",
+        "count": 12
+      },
+      {
+        "name": "Máscara Ominosa",
+        "count": 8
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Weapon_Otherworldly_Story.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Lightnov.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Lightnov_Awaken.png",
+    "nameicon": "UI_EquipIcon_Catalyst_Lightnov",
+    "namegacha": "UI_Gacha_EquipIcon_Catalyst_Lightnov",
+    "nameawakenicon": "UI_EquipIcon_Catalyst_Lightnov_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Otherworldly_Story"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 38.74129867553711,
+      "specialized": 0.08500000089406967
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 50.47991113972057,
+      "specialized": 0.09876999601304526
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 65.04664125210502,
+      "specialized": 0.11585500421792272
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 79.45840816490272,
+      "specialized": 0.1330250062629581
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 93.75394575052633,
+      "specialized": 0.15019499817520376
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 113.25394575052633,
+      "specialized": 0.15019499817520376
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 127.43325862729853,
+      "specialized": 0.16736500022023915
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 141.45760830448398,
+      "specialized": 0.18453500226527453
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 155.40447176355337,
+      "specialized": 0.2017049941775202
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 169.27385824115208,
+      "specialized": 0.2188750063553453
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 188.673859767031,
+      "specialized": 0.2188750063553453
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 202.42703077242368,
+      "specialized": 0.23604499826759096
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 216.10269708640953,
+      "specialized": 0.25321501044541606
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 235.60269708640953,
+      "specialized": 0.25321501044541606
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 249.20090489221548,
+      "specialized": 0.2703850023576617
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 262.72161724325997,
+      "specialized": 0.2875549942699074
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 282.1216187691389,
+      "specialized": 0.2875549942699074
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 295.60359262944803,
+      "specialized": 0.3047250064477325
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 309.00807103499574,
+      "specialized": 0.3218100045198202
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 328.50807103499574,
+      "specialized": 0.3218100045198202
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 341.9125679138342,
+      "specialized": 0.3389799964320659
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 355.2783078286466,
+      "specialized": 0.356150008609891
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 374.67830172513095,
+      "specialized": 0.356150008609891
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 388.005303149208,
+      "specialized": 0.3733200207877161
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 401.2935845558404,
+      "specialized": 0.3904899924343823
+    }
+  },
+  "version": "1.0"
+}

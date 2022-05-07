@@ -1,0 +1,20 @@
+{
+  "name": "Calla Lily",
+  "description": "A flower that grows near water sources. When cooked, the petals have a chunky texture, yet are sweet and a little bitter.",
+  "sortorder": 2042,
+  "category": "EXCHANGE",
+  "materialtype": "Local Specialty (Mondstadt)",
+  "source": [
+    "Found near lakes",
+    "Recommendation: Found in Springvale"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Calla_Lily.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Item_Calla_Lily.png",
+    "nameicon": "UI_ItemIcon_100056"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Calla_Lily"
+  },
+  "version": ""
+}

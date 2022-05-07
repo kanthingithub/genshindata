@@ -1,0 +1,26 @@
+{
+  "name": "Scattered Piece of Decarabian's Dream",
+  "description": "วัสดุเลื่อนขั้นอาวุธ\nฝูงชนนั้นไม่ได้เคารพบูชา Hightower Uniking เพราะความรักและเทิดทูน หากแต่เพราะลมกระโชกที่ถาโถมใส่พวกขาจนแทบจะขยับตัวไม่ได้ นี่คือความพยายามและเศษซากความฝันของเทพแห่งลมก่อนหน้า Barbatos \nเขาพยายามอย่างหนักให้ฝันกลายเป็นจริง เศษเสี้ยวของความฝันนี้ยังคงมีพลังอย่างมากมาย",
+  "sortorder": 2186,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุเลื่อนขั้นอาวุธ",
+  "dropdomain": "ดันเจี้ยนแห่งการต่อสู้: เมืองแห่งประกายน้ำ",
+  "daysofweek": [
+    "วันจันทร์",
+    "วันพฤหัสบดี",
+    "วันอาทิตย์"
+  ],
+  "source": [
+    "ได้รับจากการสรรสร้าง"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Scattered_Piece_of_Decarabian's_Dream.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Item_Scattered_Piece_of_Decarabian%27s_Dream.png",
+    "nameicon": "UI_ItemIcon_114004"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Scattered_Piece_of_Decarabian's_Dream"
+  },
+  "version": ""
+}

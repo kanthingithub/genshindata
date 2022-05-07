@@ -1,0 +1,26 @@
+{
+  "name": "Guide de la Diligence",
+  "description": "Matériau d'amélioration d'aptitude.\nLe goût du travail représente l'essence du Pays de la Roche.\nIl coule dans les veines des Liyuéens, qui deviennent capables de transformer la roche en or grâce à lui. La prospérité de son port commercial n'est guère étonnante.",
+  "sortorder": 1864,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration d'aptitude",
+  "dropdomain": "Donjon de la maîtrise : Au cœur des flammes",
+  "daysofweek": [
+    "Mardi",
+    "Vendredi",
+    "Dimanche"
+  ],
+  "source": [
+    "Synthèse"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Guide_to_Diligence.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/9f/Item_Guide_to_Diligence.png",
+    "nameicon": "UI_ItemIcon_104314"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Guide_to_Diligence"
+  },
+  "version": ""
+}

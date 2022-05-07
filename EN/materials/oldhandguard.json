@@ -1,0 +1,21 @@
+{
+  "name": "Old Handguard",
+  "description": "A battle-worn handguard that was once mounted on an Inazuman blade.\nFor those adept in the art of the sword, the tsuba is a defense from the edge of an opponent's blade. For beginners, it is a defense made for their own right hand, to protect it from itself.",
+  "sortorder": 1762,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Dropped by Nobushi",
+    "Stardust Exchange"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Old_Handguard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Item_Old_Handguard.png",
+    "nameicon": "UI_ItemIcon_112044"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Old_Handguard"
+  },
+  "version": ""
+}

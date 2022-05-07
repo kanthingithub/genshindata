@@ -1,0 +1,21 @@
+{
+  "name": "Fine Enhancement Ore",
+  "description": "Material EXP Senjata. Memberikan 2.000 EXP.\nTanpa alasan yang dapat dipahami, bijih khusus dan halus ini dapat diserap oleh senjata, dan dalam sekejap meningkatkan kekuatan mereka.",
+  "sortorder": 658,
+  "rarity": "2",
+  "category": "WEAPON_EXP_STONE",
+  "materialtype": "Material Enhancement Senjata",
+  "source": [
+    "Didapatkan melalui Forging",
+    "Hadiah Insiden Tak Terduga"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_104012",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fine_Enhancement_Ore.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Item_Fine_Enhancement_Ore.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fine_Enhancement_Ore"
+  },
+  "version": ""
+}

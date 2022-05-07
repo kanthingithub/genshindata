@@ -1,0 +1,754 @@
+{
+  "name": "Ningguang",
+  "fullname": "Ningguang",
+  "title": "Megrez de l'éclipse",
+  "description": "La Megrez des Sept Étoiles de Liyue. Peu de personnes peuvent se vanter d'être aussi riches à travers Teyvat.",
+  "rarity": "4",
+  "element": "Géo",
+  "weapontype": "Catalyseur",
+  "substat": "Bonus de DGT Géo",
+  "gender": "Femme",
+  "body": "LADY",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Sept Étoiles de Liyue",
+  "birthdaymmdd": "8/26",
+  "birthday": "26 août",
+  "constellation": "Opus Aequilibrium",
+  "cv": {
+    "english": "Erin Ebers",
+    "chinese": "杜冥鸦",
+    "japanese": "大原さやか",
+    "korean": "Kwak Kyu-mi"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Éclat de topaze prithiva",
+        "count": 1
+      },
+      {
+        "name": "Lys verni",
+        "count": 3
+      },
+      {
+        "name": "Insigne de nouvelle recrue",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragment de topaze prithiva",
+        "count": 3
+      },
+      {
+        "name": "Pilier de basalte",
+        "count": 2
+      },
+      {
+        "name": "Lys verni",
+        "count": 10
+      },
+      {
+        "name": "Insigne de nouvelle recrue",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragment de topaze prithiva",
+        "count": 6
+      },
+      {
+        "name": "Pilier de basalte",
+        "count": 4
+      },
+      {
+        "name": "Lys verni",
+        "count": 20
+      },
+      {
+        "name": "Insigne de sergent",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Morceau de topaze prithiva",
+        "count": 3
+      },
+      {
+        "name": "Pilier de basalte",
+        "count": 8
+      },
+      {
+        "name": "Lys verni",
+        "count": 30
+      },
+      {
+        "name": "Insigne de sergent",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Morceau de topaze prithiva",
+        "count": 6
+      },
+      {
+        "name": "Pilier de basalte",
+        "count": 12
+      },
+      {
+        "name": "Lys verni",
+        "count": 45
+      },
+      {
+        "name": "Insigne d'officier",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Pierre de topaze prithiva",
+        "count": 6
+      },
+      {
+        "name": "Pilier de basalte",
+        "count": 20
+      },
+      {
+        "name": "Lys verni",
+        "count": 60
+      },
+      {
+        "name": "Insigne d'officier",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Character_Ningguang_Card.jpg/",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Character_Ningguang_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ningguang.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ningguang.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200305/2020030519413867244.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200305/2020030519431658285.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/498b811beba3fbeb2549a5b362190d43.png",
+    "nameicon": "UI_AvatarIcon_Ningguang",
+    "nameiconcard": "UI_AvatarIcon_Ningguang_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Ningguang",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Ningguang",
+    "namesideicon": "UI_AvatarIcon_Side_Ningguang"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ningguang"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 820.6118774414062,
+      "attack": 17.808000564575195,
+      "defense": 48.069000244140625,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2108.1519178425515,
+      "attack": 45.74875355229187,
+      "defense": 123.48926190225029,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2721.1910413777077,
+      "attack": 59.0525531815033,
+      "defense": 159.3992617496624,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4076.021074166667,
+      "attack": 88.45355827545154,
+      "defense": 238.76117079240794,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4511.601457467448,
+      "attack": 97.90625889038074,
+      "defense": 264.2761701820564,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5189.427043535659,
+      "attack": 112.61567116091919,
+      "defense": 303.9811746523628,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5770.200969316909,
+      "attack": 125.21927070925904,
+      "defense": 338.0011751101265,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6448.02655538512,
+      "attack": 139.9286829797975,
+      "defense": 377.70617958043294,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6883.606999721058,
+      "attack": 149.381384548401,
+      "defense": 403.2211789700814,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7560.611642090924,
+      "attack": 164.07298161756898,
+      "defense": 442.8780950030632,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7996.191964356549,
+      "attack": 173.52567937147523,
+      "defense": 468.3931020221062,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8674.017159126524,
+      "attack": 188.2350831504973,
+      "defense": 508.09808357132715,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 9109.597725532774,
+      "attack": 197.68778471910082,
+      "defense": 533.6130829609756,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9787.423311600985,
+      "attack": 212.39719698963927,
+      "defense": 573.318087431282,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Fragments perforants",
+      "effect": "Les attaques normales qui touchent infligent des DGT de zone."
+    },
+    "c2": {
+      "name": "Effet de choc",
+      "effect": "Le TdR de **Paravent d'astrolabe** est annulé lorsque ce dernier est brisé.\nCet effet peut être déclenché une fois toutes les 6 s."
+    },
+    "c3": {
+      "name": "Alignement des étoiles",
+      "effect": "Niveau d'aptitude **Éclatement des étoiles** +3.\nNiveau max : 15"
+    },
+    "c4": {
+      "name": "Exquis soit le Jade, éclatant de toutes parts",
+      "effect": "**Paravent d'astrolabe** augmente les RÉS élémentaires des personnages à proximité de 10 %."
+    },
+    "c5": {
+      "name": "Invincible soit le Paravent d'astrolabe",
+      "effect": "Niveau d'aptitude **Paravent d'astrolabe** +3.\nNiveau max : 15"
+    },
+    "c6": {
+      "name": "Grandeur soit les Sept Étoiles",
+      "effect": "L'activation d'**Éclatement des étoiles** confère 7 Jades d'étoile à Ningguang."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ningguang_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ningguang_05.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Ningguang_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ningguang_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Ningguang_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ningguang_04.png",
+      "constellation": "Eff_UI_Talent_Ningguang"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Ningguang",
+    "combat1": {
+      "name": "Attaque normale : Géo-dispersion",
+      "info": "**Attaque normale**\nTire des gemmes qui infligent des DGT Géo.\nNingguang obtient un Jade d'étoile à chaque fois qu'une gemme touche un ennemi.\n\n**Attaque chargée**\nTire une gemme géante qui inflige des DGT Géo.\nSi Ningguang a obtenu des Jades d'étoile, l'attaque chargée les tire tous au même moment, infligeant des DGT supplémentaires.\n\n**Attaque plongeante**\nPlonge depuis les airs en concentrant ses pouvoirs Géo, infligeant des DGT aux ennemis en chemin et des DGT Géo de zone à l'impact.",
+      "attributes": [
+        {
+          "name": "DGT attaque normale",
+          "parameters": [
+            "28.00%",
+            "30.10%",
+            "32.20%",
+            "35.00%",
+            "37.10%",
+            "39.20%",
+            "42.00%",
+            "44.80%",
+            "47.60%",
+            "50.40%",
+            "53.31%",
+            "57.12%",
+            "60.93%",
+            "64.74%",
+            "68.54%"
+          ]
+        },
+        {
+          "name": "DGT attaque chargée",
+          "parameters": [
+            "174.08%",
+            "187.14%",
+            "200.19%",
+            "217.60%",
+            "230.66%",
+            "243.71%",
+            "261.12%",
+            "278.53%",
+            "295.94%",
+            "313.34%",
+            "331.45%",
+            "355.12%",
+            "378.80%",
+            "402.47%",
+            "426.15%"
+          ]
+        },
+        {
+          "name": "DGT par Jade d'étoile",
+          "parameters": [
+            "49.60%",
+            "53.32%",
+            "57.04%",
+            "62.00%",
+            "65.72%",
+            "69.44%",
+            "74.40%",
+            "79.36%",
+            "84.32%",
+            "89.28%",
+            "94.44%",
+            "101.18%",
+            "107.93%",
+            "114.68%",
+            "121.42%"
+          ]
+        },
+        {
+          "name": "Coût d'endurance attaque chargée",
+          "parameters": [
+            "50 pts",
+            "50 pts",
+            "50 pts",
+            "50 pts",
+            "50 pts",
+            "50 pts",
+            "50 pts",
+            "50 pts",
+            "50 pts",
+            "50 pts",
+            "50 pts",
+            "50 pts",
+            "50 pts",
+            "50 pts",
+            "50 pts"
+          ]
+        },
+        {
+          "name": "DGT durant la chute",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "DGT chute basse/élevée",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Paravent d'astrolabe",
+      "info": "Ningguang puise dans son opulence pour créer un paravent d'or et d'obsidienne infligeant des DGT Géo de zone.\n\n**Paravent d'astrolabe**\n· Bloque les projectiles ennemis.\n· Les PV du paravent sont proportionnels aux PV max de Ningguang.\n\nLe paravent d'astrolabe est une construction Géo qui peut bloquer certaines attaques mais ne peut pas être escaladée. Il ne peut exister qu'un seul paravent à la fois.",
+      "description": "Les étoiles sont dispersées dans le ciel nocturne, les pions sont prêts sur l'échiquier divin. Alors, le paravent d'astrolabe commence à s'étendre.",
+      "attributes": [
+        {
+          "name": "PV hérités",
+          "parameters": [
+            "50.10%",
+            "53.10%",
+            "56.10%",
+            "60.00%",
+            "63.00%",
+            "66.00%",
+            "69.90%",
+            "73.80%",
+            "77.70%",
+            "81.60%",
+            "85.50%",
+            "89.40%",
+            "93.30%",
+            "97.20%",
+            "101.10%"
+          ]
+        },
+        {
+          "name": "DGT compétence",
+          "parameters": [
+            "230.40%",
+            "247.68%",
+            "264.96%",
+            "288.00%",
+            "305.28%",
+            "322.56%",
+            "345.60%",
+            "368.64%",
+            "391.68%",
+            "414.72%",
+            "437.76%",
+            "460.80%",
+            "489.60%",
+            "518.40%",
+            "547.20%"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Éclatement des étoiles",
+      "info": "Ningguang fait tournoyer plusieurs jades précieux à tête chercheuse autour d'elle, qu'elle relâche tous en même temps, infligeant ainsi d'importants DGT Géo.\nSi le paravent d'astrolabe est actif lorsque cette attaque est exécutée, il l'accompagne de tirs de jade supplémentaires.",
+      "description": "Éparses sont les ténèbres quand les étoiles sont éclatées.",
+      "attributes": [
+        {
+          "name": "DGT par gemme",
+          "parameters": [
+            "86.96%",
+            "93.48%",
+            "100.00%",
+            "108.70%",
+            "115.22%",
+            "121.74%",
+            "130.44%",
+            "139.14%",
+            "147.83%",
+            "156.53%",
+            "165.22%",
+            "173.92%",
+            "184.79%",
+            "195.66%",
+            "206.53%"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        },
+        {
+          "name": "Énergie élémentaire",
+          "parameters": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Plan de reprise",
+      "info": "L'attaque chargée de Ningguang ne consomme pas d'endurance tant que celle-ci possède des Jades d'étoile."
+    },
+    "passive2": {
+      "name": "Réserve stratégique",
+      "info": "Confère pendant 10 s un bonus de DGT Géo de 12 % aux personnages qui traversent le **Paravent d'astrolabe**."
+    },
+    "passive3": {
+      "name": "Corne d'abondance",
+      "info": "Affiche la localisation des **filons de minerai utilisables en forge** proches sur la carte."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseignement de la Prospérité",
+          "count": 3
+        },
+        {
+          "name": "Insigne de nouvelle recrue",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide de la Prospérité",
+          "count": 2
+        },
+        {
+          "name": "Insigne de sergent",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide de la Prospérité",
+          "count": 4
+        },
+        {
+          "name": "Insigne de sergent",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide de la Prospérité",
+          "count": 6
+        },
+        {
+          "name": "Insigne de sergent",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide de la Prospérité",
+          "count": 9
+        },
+        {
+          "name": "Insigne de sergent",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie de la Prospérité",
+          "count": 4
+        },
+        {
+          "name": "Insigne d'officier",
+          "count": 4
+        },
+        {
+          "name": "Esprit de Borée",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie de la Prospérité",
+          "count": 6
+        },
+        {
+          "name": "Insigne d'officier",
+          "count": 6
+        },
+        {
+          "name": "Esprit de Borée",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie de la Prospérité",
+          "count": 12
+        },
+        {
+          "name": "Insigne d'officier",
+          "count": 9
+        },
+        {
+          "name": "Esprit de Borée",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie de la Prospérité",
+          "count": 16
+        },
+        {
+          "name": "Insigne d'officier",
+          "count": 12
+        },
+        {
+          "name": "Esprit de Borée",
+          "count": 2
+        },
+        {
+          "name": "Couronne de la sagesse",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_Catalyst_MD",
+      "combat2": "Skill_S_Ningguang_01",
+      "combat3": "Skill_E_Ningguang_01_HD",
+      "passive1": "UI_Talent_S_Ningguang_02",
+      "passive2": "UI_Talent_S_Ningguang_06",
+      "passive3": "UI_Talent_Collect_Ore"
+    },
+    "version": "1.0"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "name": "Bí Cảnh Luyện Võ: Thử Thách Sấm Sét",
+  "region": "Liyue",
+  "domainEntrance": "Chấn Lôi Liên Sơn Mật Cung",
+  "domainType": "Nguyên Liệu Đột Phá Vũ Khí",
+  "description": "Sấm sét trong tế đàn cổ đại này hoạt động không ngừng nghỉ, chúng tích trữ một lượng lớn sức mạnh Nguyên Tố Lôi.\nDòng điện khí sẽ liên tục tiêu hao Năng Lượng Nguyên Tố.\nNếu hoàn thành thử thách có thể nhận nguyên liệu cường hóa trang bị.",
+  "daysOfWeek": [
+    "Thứ 4",
+    "Thứ 7",
+    "Chủ Nhật"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Thunder"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Bí Cảnh Luyện Võ: Thử Thách Sấm Sét I",
+      "recommendedLevel": 15,
+      "recommendedElements": [
+        "Hỏa",
+        "Băng"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "EXP Mạo Hiểm",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1125
+        },
+        {
+          "name": "EXP Yêu Thích",
+          "count": 10
+        },
+        {
+          "name": "Hạt Thiên Thạch Đen"
+        }
+      ],
+      "disorder": [
+        "Thi triển Tia Sét Tham Lam cho nhân vật theo chu kỳ: Trước khi nguyên tố lôi biến mất sẽ mất năng lượng nguyên tố liên tục."
+      ],
+      "monsterlist": [
+        "Slime Lôi",
+        "Slime Lôi Lớn",
+        "Slime Lôi Biến Dị"
+      ]
+    },
+    {
+      "name": "Bí Cảnh Luyện Võ: Thử Thách Sấm Sét II",
+      "recommendedLevel": 36,
+      "recommendedElements": [
+        "Hỏa",
+        "Băng"
+      ],
+      "unlockRank": 21,
+      "rewardPreview": [
+        {
+          "name": "EXP Mạo Hiểm",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1550
+        },
+        {
+          "name": "EXP Yêu Thích",
+          "count": 15
+        },
+        {
+          "name": "Hạt Thiên Thạch Đen"
+        },
+        {
+          "name": "Mảnh Thiên Thạch Đen"
+        }
+      ],
+      "disorder": [
+        "Thi triển Tia Sét Tham Lam cho nhân vật theo chu kỳ: Trước khi nguyên tố lôi biến mất sẽ mất năng lượng nguyên tố liên tục."
+      ],
+      "monsterlist": [
+        "Slime Lôi",
+        "Slime Lôi Lớn",
+        "Slime Lôi Biến Dị"
+      ]
+    },
+    {
+      "name": "Bí Cảnh Luyện Võ: Thử Thách Sấm Sét III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Hỏa",
+        "Băng"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "EXP Mạo Hiểm",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "EXP Yêu Thích",
+          "count": 15
+        },
+        {
+          "name": "Hạt Thiên Thạch Đen"
+        },
+        {
+          "name": "Mảnh Thiên Thạch Đen"
+        },
+        {
+          "name": "Một Góc Thiên Thạch Đen"
+        }
+      ],
+      "disorder": [
+        "Thi triển Tia Sét Tham Lam cho nhân vật theo chu kỳ: Trước khi nguyên tố Lôi biến mất sẽ mất năng lượng nguyên tố liên tục; Trong bản đồ sẽ có sấm sét giáng xuống ngẫu nhiên, tạo thành sát thương Nguyên Tố Lôi, và tiêu hao hết năng lượng nguyên tố của nhân vật. Sấm sét có thể sẽ tạo ra Quả Cầu Lôi Quang."
+      ],
+      "monsterlist": [
+        "Slime Lôi Lớn",
+        "Slime Lôi Biến Dị",
+        "Fatui - Thuật Sĩ Cicin Lôi"
+      ]
+    },
+    {
+      "name": "Bí Cảnh Luyện Võ: Thử Thách Sấm Sét IV",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Hỏa",
+        "Băng"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "EXP Mạo Hiểm",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "EXP Yêu Thích",
+          "count": 20
+        },
+        {
+          "name": "Hạt Thiên Thạch Đen"
+        },
+        {
+          "name": "Mảnh Thiên Thạch Đen"
+        },
+        {
+          "name": "Một Góc Thiên Thạch Đen"
+        },
+        {
+          "name": "Miếng Thiên Thạch Đen"
+        }
+      ],
+      "disorder": [
+        "Thi triển Tia Sét Tham Lam cho nhân vật theo chu kỳ: Trước khi nguyên tố Lôi biến mất sẽ mất năng lượng nguyên tố liên tục; Trong bản đồ sẽ có sấm sét giáng xuống ngẫu nhiên, tạo thành sát thương Nguyên Tố Lôi, và tiêu hao hết năng lượng nguyên tố của nhân vật. Sấm sét có thể sẽ tạo ra Quả Cầu Lôi Quang."
+      ],
+      "monsterlist": [
+        "Slime Lôi Lớn",
+        "Slime Lôi Biến Dị",
+        "Fatui - Thuật Sĩ Cicin Lôi"
+      ]
+    }
+  ]
+}

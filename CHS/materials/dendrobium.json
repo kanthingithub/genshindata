@@ -1,0 +1,20 @@
+{
+  "name": "血斛",
+  "description": "在诗文中也被称为「赤蕊」的鲜艳植物，一度在稻妻列岛绝迹，如今在战场上再度重现。传说在血腥的战场上，它们开得格外妖艳。",
+  "sortorder": 2063,
+  "category": "EXCHANGE",
+  "materialtype": "稻妻区域特产",
+  "source": [
+    "野外采集",
+    "推荐：名椎滩采集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dendrobium.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Item_Dendrobium.png",
+    "nameicon": "UI_ItemIcon_101204"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dendrobium"
+  },
+  "version": ""
+}

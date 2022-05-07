@@ -1,0 +1,311 @@
+{
+  "name": "카츠라기를 벤 나가마사",
+  "description": "과거 타타라스나에서 만든 칼, 무겁고 단단하다",
+  "weapontype": "양손검",
+  "rarity": "4",
+  "baseatk": 42,
+  "substat": "원소 충전 효율",
+  "subvalue": "10",
+  "effectname": "명사의 거동",
+  "effect": [
+    "원소전투 스킬로 가하는 피해가 [6%] 증가한다. 원소전투 스킬이 명중되면, 캐릭터는 원소 에너지를 3pt 잃고, 그 후 6초 동안 2초마다 원소 에너지를 [3]pt 회복한다. 이 효과는 10초마다 최대 1회만 발동하며, 캐릭터가 대기 상태일 때도 발동된다",
+    "원소전투 스킬로 가하는 피해가 [7.5%] 증가한다. 원소전투 스킬이 명중되면, 캐릭터는 원소 에너지를 3pt 잃고, 그 후 6초 동안 2초마다 원소 에너지를 [3.5]pt 회복한다. 이 효과는 10초마다 최대 1회만 발동하며, 캐릭터가 대기 상태일 때도 발동된다",
+    "원소전투 스킬로 가하는 피해가 [9%] 증가한다. 원소전투 스킬이 명중되면, 캐릭터는 원소 에너지를 3pt 잃고, 그 후 6초 동안 2초마다 원소 에너지를 [4]pt 회복한다. 이 효과는 10초마다 최대 1회만 발동하며, 캐릭터가 대기 상태일 때도 발동된다",
+    "원소전투 스킬로 가하는 피해가 [10.5%] 증가한다. 원소전투 스킬이 명중되면, 캐릭터는 원소 에너지를 3pt 잃고, 그 후 6초 동안 2초마다 원소 에너지를 [4.5]pt 회복한다. 이 효과는 10초마다 최대 1회만 발동하며, 캐릭터가 대기 상태일 때도 발동된다",
+    "원소전투 스킬로 가하는 피해가 [12%] 증가한다. 원소전투 스킬이 명중되면, 캐릭터는 원소 에너지를 3pt 잃고, 그 후 6초 동안 2초마다 원소 에너지를 [5]pt 회복한다. 이 효과는 10초마다 최대 1회만 발동하며, 캐릭터가 대기 상태일 때도 발동된다"
+  ],
+  "r1": [
+    "6%",
+    "3"
+  ],
+  "r2": [
+    "7.5%",
+    "3.5"
+  ],
+  "r3": [
+    "9%",
+    "4"
+  ],
+  "r4": [
+    "10.5%",
+    "4.5"
+  ],
+  "r5": [
+    "12%",
+    "5"
+  ],
+  "weaponmaterialtype": "",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "모라",
+        "count": 5000
+      },
+      {
+        "name": "나루카미 어령의 은혜",
+        "count": 3
+      },
+      {
+        "name": "혼돈의 기관",
+        "count": 3
+      },
+      {
+        "name": "오래된 코등이",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "모라",
+        "count": 15000
+      },
+      {
+        "name": "나루카미 어령의 환희",
+        "count": 3
+      },
+      {
+        "name": "혼돈의 기관",
+        "count": 12
+      },
+      {
+        "name": "오래된 코등이",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "모라",
+        "count": 20000
+      },
+      {
+        "name": "나루카미 어령의 환희",
+        "count": 6
+      },
+      {
+        "name": "혼돈의 중추",
+        "count": 6
+      },
+      {
+        "name": "카게우치 코등이",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "모라",
+        "count": 30000
+      },
+      {
+        "name": "나루카미 어령의 친애",
+        "count": 3
+      },
+      {
+        "name": "혼돈의 중추",
+        "count": 12
+      },
+      {
+        "name": "카게우치 코등이",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "모라",
+        "count": 35000
+      },
+      {
+        "name": "나루카미 어령의 친애",
+        "count": 6
+      },
+      {
+        "name": "혼돈의 눈동자",
+        "count": 9
+      },
+      {
+        "name": "명검 코등이",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "모라",
+        "count": 45000
+      },
+      {
+        "name": "나루카미 어령의 용맹",
+        "count": 4
+      },
+      {
+        "name": "혼돈의 눈동자",
+        "count": 18
+      },
+      {
+        "name": "명검 코등이",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Bakufu.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Bakufu_Awaken.png",
+    "nameicon": "UI_EquipIcon_Claymore_Bakufu",
+    "namegacha": "UI_Gacha_EquipIcon_Claymore_Bakufu",
+    "nameawakenicon": "UI_EquipIcon_Claymore_Bakufu_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Katsuragikiri_Nagamasa"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 42.4010009765625,
+      "specialized": 0.10000000149011612
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 56.39333311848168,
+      "specialized": 0.11619999581873408
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 73.9049459961243,
+      "specialized": 0.1363000055596233
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 91.41655381917371,
+      "specialized": 0.1565000080540777
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 108.92817175140954,
+      "specialized": 0.176699998627603
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 134.8281713699398,
+      "specialized": 0.176699998627603
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 152.33978930217563,
+      "specialized": 0.1969000011220574
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 169.80899919744115,
+      "specialized": 0.21710000361651183
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 187.32060702049057,
+      "specialized": 0.2372999941900371
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 204.83221484354,
+      "specialized": 0.25750000860542066
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 230.83221675088862,
+      "specialized": 0.25750000860542066
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 248.34383468312444,
+      "specialized": 0.27769999917894594
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 265.85545261536026,
+      "specialized": 0.2979000135943295
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 291.75545414123917,
+      "specialized": 0.2979000135943295
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 309.267072073475,
+      "specialized": 0.3181000041678548
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 326.7786900057108,
+      "specialized": 0.33829999474138006
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 352.6786839021952,
+      "specialized": 0.33829999474138006
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 370.1478836882743,
+      "specialized": 0.3585000091567636
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 387.6595016205101,
+      "specialized": 0.3786000069767237
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 413.6595016205101,
+      "specialized": 0.3786000069767237
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 431.17111955274595,
+      "specialized": 0.398799997550249
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 448.68271726660896,
+      "specialized": 0.4190000119656325
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 474.5827264218824,
+      "specialized": 0.4190000119656325
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 492.0943443541182,
+      "specialized": 0.4392000263810161
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 509.60596228635404,
+      "specialized": 0.4593999931126831
+    }
+  },
+  "version": "2.0"
+}

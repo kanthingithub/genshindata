@@ -1,0 +1,20 @@
+{
+  "name": "Gancho de lobo",
+  "description": "Una baya con espinas que a menudo se adhiere a la piel de los lobos. Si la miras de cerca, casi podrás escuchar el eco de los gritos de los lobos en el bosque.",
+  "sortorder": 2036,
+  "category": "EXCHANGE",
+  "materialtype": "Objeto típico de Mondstadt",
+  "source": [
+    "Recolectar en la naturaleza",
+    "Recolectar en el Reino de los Lobos"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wolfhook.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Item_Wolfhook.png",
+    "nameicon": "UI_ItemIcon_100021"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Wolfhook"
+  },
+  "version": ""
+}

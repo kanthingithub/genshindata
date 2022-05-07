@@ -1,0 +1,20 @@
+{
+  "name": "絶雲の唐辛子",
+  "description": "璃月特有の唐辛子。匂いを嗅ぐだけで体が熱くなり、水を欲しがる",
+  "sortorder": 2048,
+  "category": "EXCHANGE",
+  "materialtype": "璃月地域の特産",
+  "source": [
+    "野外で採集",
+    "推奨：軽策荘で採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Jueyun_Chili.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/13/Item_Jueyun_Chili.png",
+    "nameicon": "UI_ItemIcon_100027"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Jueyun_Chili"
+  },
+  "version": ""
+}

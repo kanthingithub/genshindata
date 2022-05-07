@@ -1,0 +1,24 @@
+{
+  "name": "Teachings of Diligence",
+  "description": "วัสดุยกระดับพรสวรรค์\nความหมั่นเพียรคือพื้นฐานของ ประเทศแห่งหิน\nความหมั่นเพียรนั้นถูกพิจารณาจากความขยันของเหล่าผู้คนในอดีต ก้าวผ่านเขาสูงและทะเลอันกว้างใหญ่ ความกล้าหาญและเรี่ยวแรงในการ ตามหาความเจริญรุ่งเรืองและทองคำมากมาย",
+  "sortorder": 1863,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุยกระดับพรสวรรค์",
+  "dropdomain": "ดันเจี้ยนแห่งการพัฒนา: ห้วงลึกแห่งเปลวไฟ",
+  "daysofweek": [
+    "วันอังคาร",
+    "วันศุกร์",
+    "วันอาทิตย์"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Diligence.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Item_Teachings_of_Diligence.png",
+    "nameicon": "UI_ItemIcon_104313"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Diligence"
+  },
+  "version": ""
+}

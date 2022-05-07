@@ -1,0 +1,20 @@
+{
+  "name": "Cálice do Vento Norte",
+  "description": "Condensado de gelo vindo do corpo do Grande Lobo do Vento do Norte.\nNeste pedaço de terra, soprou-se o vento do norte congelante. O gelo e a neve rasgam a pele, deixando o sangue se condensar. Embora a força do Grande Lobo do Vento do Norte não seja tão boa quanto costumava ser, ele ainda possui o poder de congelar a terra.",
+  "sortorder": 1789,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Recompensa do Desafio do Lobo do Norte Nv.70+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ring_of_Boreas.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Item_Ring_of_Boreas.png",
+    "nameicon": "UI_ItemIcon_113007"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ring_of_Boreas"
+  },
+  "version": ""
+}

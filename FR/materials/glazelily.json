@@ -1,0 +1,21 @@
+{
+  "name": "Lys verni",
+  "description": "Une fleur qui pousse à Liyue depuis les temps anciens. Elle rassemble les souvenirs de la terre pour les libérer sous forme de parfum à sa fleuraison.",
+  "sortorder": 2051,
+  "category": "EXCHANGE",
+  "materialtype": "Produit de Liyue",
+  "source": [
+    "Dans la nature",
+    "Zone conseillée : Terrasse Yujing, Port de Liyue",
+    "Zone conseillée : Village de Qingce"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Glaze_Lily.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Item_Glaze_Lily.png",
+    "nameicon": "UI_ItemIcon_100030"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Glaze_Lily"
+  },
+  "version": ""
+}

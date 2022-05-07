@@ -1,0 +1,183 @@
+{
+  "name": "Narukami, Comandante da Catástrofe",
+  "specialname": "Raiden Guardiã de Inazuma",
+  "enemytype": "BOSS",
+  "category": "Chefe",
+  "description": "Essa é a forma que a marionete que herdou a autoridade da Shogun Raiden toma quando se confronta com aqueles que se impõem contra seu ideal de Eternidade.\nComo ajudante da Shogun Raiden na busca pela eternidade, ela nunca duvidou, nunca temeu, nunca deu nada menos que seu melhor, nem nunca foi perturbada por pensamentos ociosos.\nUma vez, ela ouviu sobre como Ei foi responsável por um dever parecido quando Makoto também estava presente, sofrendo uma perda terrível durante o processo.\nPorém, quando as duas sombras se sobrepuseram uma vez mais, ela somente conseguia ver as incontáveis fraturas leves, no que deveria ter sido \"sua\" vontade eterna. Visto que o destino é algo cíclico, ela deverá cumprir sua promessa e declarar guerra contra \"ela\".\n\n Minha forma é a forma mais suprema e nobre de todas. Me foi concedido poder sobre todo o reino, e eu sou a essência de tudo que é a \"Shogun Raiden\".\n\"Naturalmente, também herdei a dor das inúmeras perdas de Ei e também sua vontade de alcançar a Eternidade.\"\n\"Determinação, coragem, amor, ódio... Todos esses sentimentos se entrelaçarão sempre no rio do tempo.\"\n\"Mas as regras permanecerão imutáveis para toda a eternidade.\"",
+  "rewardpreview": [
+    {
+      "name": "EXP de Aventura",
+      "count": 300
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "EXP de Amizade"
+    },
+    {
+      "name": "Lasca de Ametista Vajrada"
+    },
+    {
+      "name": "Fragmento de Ametista Vajrada"
+    },
+    {
+      "name": "Pedaço de Ametista Vajrada"
+    },
+    {
+      "name": "Gema de Ametista Vajrada"
+    },
+    {
+      "name": "Solvente dos Sonhos",
+      "count": 0.33
+    },
+    {
+      "name": "Mudra da Shogun Maléfica"
+    },
+    {
+      "name": "Lágrima da Deusa do Desastre"
+    },
+    {
+      "name": "Significado de Éons"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instrutor",
+      "rarity": "3"
+    },
+    {
+      "name": "O Exilado",
+      "rarity": "3"
+    },
+    {
+      "name": "Último Juramento do Gladiador",
+      "rarity": "4"
+    },
+    {
+      "name": "Trupe Itinerante",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instrutor",
+      "rarity": "4"
+    },
+    {
+      "name": "O Exilado",
+      "rarity": "4"
+    },
+    {
+      "name": "Último Juramento do Gladiador",
+      "rarity": "5"
+    },
+    {
+      "name": "Trupe Itinerante",
+      "rarity": "5"
+    },
+    {
+      "name": "Protótipo de Espada do Território do Norte"
+    },
+    {
+      "name": "Protótipo do Arco do Território do Norte"
+    },
+    {
+      "name": "Protótipo de Espadão do Território do Norte"
+    },
+    {
+      "name": "Protótipo de Catalisador do Território do Norte"
+    },
+    {
+      "name": "Protótipo de Lança do Território do Norte"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Shougun_Mitakenarukami"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 264.31200766221446,
+      "attack": 40.60445216221706,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 1041.0084802045167,
+      "attack": 108.48444509163892,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 3064.0500151023734,
+      "attack": 267.60001199199905,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 5705.892238915956,
+      "attack": 437.08268672162376,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 10245.049272354052,
+      "attack": 653.4622327690013,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 18876.71628651896,
+      "attack": 919.1582172315684,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 31892.194473129,
+      "attack": 1227.6749565427017,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 52747.54924129648,
+      "attack": 1632.5942986839218,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 85091.82527925633,
+      "attack": 2371.6078888032935,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 133561.04123643134,
+      "attack": 3045.019701340352,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 199656.0745980749,
+      "attack": 3939.5342839595396,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 252704.63745862618,
+      "attack": 4017.7555502447067,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 292296.9811849538,
+      "attack": 4096.5244767044205,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

@@ -1,0 +1,22 @@
+{
+  "name": "フライムの幽核",
+  "description": "フライムを浮遊させるエネルギー核。\nこの元素生物は特殊な習性を持っているようで、周期的に大量に現れたり、消えたりしている。",
+  "sortorder": 1772,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "キャラクター育成素材",
+  "source": [
+    "合成で獲得",
+    "フライム（Lv.40以上）でドロップ",
+    "スターダスト交換"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Spectral_Heart.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Item_Spectral_Heart.png",
+    "nameicon": "UI_ItemIcon_112054"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Spectral_Heart"
+  },
+  "version": ""
+}

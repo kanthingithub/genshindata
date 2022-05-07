@@ -1,0 +1,207 @@
+{
+  "name": "Loup du Nord, Seigneur du Territoire des loups",
+  "specialname": "Borée",
+  "enemytype": "BOSS",
+  "category": "Boss",
+  "description": "La plus noble et la plus belle des âmes, qui veille sur le lupical du royaume des loups.\nQuand la meute est en péril, il émerge sous la forme d'un loup et montre ses crocs et ses griffes.\n\nLes loups de son territoire sont tels d'effrayants fantômes aux yeux des habitants de Mondstadt : des silhouettes indiscernables qui s'éclipsent dans les bois, des hurlements à glacer le sang qui résonnent au loin et le sentiment oppressant d'un regard fixé sur eux.\nLes humains ont rarement l'occasion de croiser le regard d'un loup, ainsi en a décidé le Loup du Nord.",
+  "rewardpreview": [
+    {
+      "name": "EXP d'aventure",
+      "count": 300
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "EXP d'affinité"
+    },
+    {
+      "name": "Éclat de jade shivada"
+    },
+    {
+      "name": "Fragment de jade shivada"
+    },
+    {
+      "name": "Morceau de jade shivada"
+    },
+    {
+      "name": "Pierre de jade shivada"
+    },
+    {
+      "name": "Éclat de topaze prithiva"
+    },
+    {
+      "name": "Fragment de topaze prithiva"
+    },
+    {
+      "name": "Morceau de topaze prithiva"
+    },
+    {
+      "name": "Pierre de topaze prithiva"
+    },
+    {
+      "name": "Éclat d'agate agnidus"
+    },
+    {
+      "name": "Fragment d'agate agnidus"
+    },
+    {
+      "name": "Morceau d'agate agnidus"
+    },
+    {
+      "name": "Pierre d'agate agnidus"
+    },
+    {
+      "name": "Solvant de rêve",
+      "count": 0.33
+    },
+    {
+      "name": "Queue de Borée"
+    },
+    {
+      "name": "Vertèbre de Borée"
+    },
+    {
+      "name": "Esprit de Borée"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instructeur",
+      "rarity": "3"
+    },
+    {
+      "name": "Exilé",
+      "rarity": "3"
+    },
+    {
+      "name": "Rideau du Gladiateur",
+      "rarity": "4"
+    },
+    {
+      "name": "Bande vagabonde",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructeur",
+      "rarity": "4"
+    },
+    {
+      "name": "Exilé",
+      "rarity": "4"
+    },
+    {
+      "name": "Rideau du Gladiateur",
+      "rarity": "5"
+    },
+    {
+      "name": "Bande vagabonde",
+      "rarity": "5"
+    },
+    {
+      "name": "Base d'épée du nord"
+    },
+    {
+      "name": "Base d'arc du nord"
+    },
+    {
+      "name": "Base d'épée à deux mains du nord"
+    },
+    {
+      "name": "Base de catalyseur du nord"
+    },
+    {
+      "name": "Base de lance du nord"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_LupiBoreas"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 1312.5058767255396,
+      "attack": 152.2663863116577,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 5158.872964498645,
+      "attack": 406.8166587971864,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 15933.600023082923,
+      "attack": 1003.4998039648926,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 26510.40587930032,
+      "attack": 1639.0596025083796,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 48507.29034268297,
+      "attack": 2450.4833108624443,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 89936.71660664678,
+      "attack": 3778.963487027271,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 150862.58663602173,
+      "attack": 5321.546282113646,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 234935.50747301616,
+      "attack": 7346.143133227946,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 334183.09572904184,
+      "attack": 9451.590193737298,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 438373.56019360945,
+      "attack": 11418.823591017863,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 661772.1877217889,
+      "attack": 14773.25319093978,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 963041.6469904929,
+      "attack": 15066.582932085032,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 1295753.7010209113,
+      "attack": 15361.966398832854,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

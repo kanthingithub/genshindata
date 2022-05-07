@@ -1,0 +1,18 @@
+{
+  "name": "Dầu Vua Biển",
+  "description": "Đạo cụ chuyên dùng để tinh luyện Vua Biển Hàng Hiệu. \nMột loại cao thơm, dường như ngưng tụ linh khí của sinh linh trong nước. Bôi lên \"Vua Biển Hàng Hiệu\", sẽ có thể tôi luyện cho thanh kiếm có hình dạng độc đáo này bền chắc hơn.",
+  "sortorder": 2296,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Tinh Luyện",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Emperor's_Balsam.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Item_Emperor%27s_Balsam.png",
+    "nameicon": "UI_ItemIcon_200106"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Emperor's_Balsam"
+  },
+  "version": ""
+}

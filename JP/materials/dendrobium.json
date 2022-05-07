@@ -1,0 +1,20 @@
+{
+  "name": "血石華",
+  "description": "詩の中で「赤蕊」と呼ばれている鮮やかな植物。稲妻列島で一度は絶滅したが、戦場で再び姿を現した。血塗られた戦場ではひときわ輝きを放つと言われている。",
+  "sortorder": 2063,
+  "category": "EXCHANGE",
+  "materialtype": "稲妻地域の特産",
+  "source": [
+    "野外で採集",
+    "推奨：名椎の浜で採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dendrobium.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Item_Dendrobium.png",
+    "nameicon": "UI_ItemIcon_101204"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dendrobium"
+  },
+  "version": ""
+}

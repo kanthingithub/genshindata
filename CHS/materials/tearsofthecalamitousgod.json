@@ -1,0 +1,20 @@
+{
+  "name": "祸神之禊泪",
+  "description": "从净土中取回的人偶关节，这一部分乃是「恶曜之眼」的造型。\n仅仅依靠凝视就可以降下灾祸与诅咒，因此把人生之不顺归咎于「祸神」似乎理所当然。但是好好想想吧，倘若意志足够强大，信念足够坚定…\n万劫太过久远，凶星恶曜亦能以泪涤净自身。",
+  "sortorder": 1815,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培养素材",
+  "source": [
+    "70级以上永恒的守护者挑战奖励"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_113033",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Tears_of_the_Calamitous_God.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Item_Tears_of_the_Calamitous_God.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Tears_of_the_Calamitous_God"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Kinh Nghiệm Kẻ Lang Thang",
+  "description": "Nguyên liệu EXP nhân vật, có 1000 điểm EXP.\nNếu không sống ở 7 đất nước trong đại lục, những EXP này sẽ rất cần thiết.",
+  "sortorder": 1290,
+  "rarity": "2",
+  "category": "EXP_FRUIT",
+  "materialtype": "Nguyên Liệu EXP Nhân Vật",
+  "source": [
+    "Thưởng Mạo Hiểm Và Thám Hiểm"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_104001",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wanderer's_Advice.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Wanderer%27s_Advice.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Wanderer's_Advice"
+  },
+  "version": ""
+}

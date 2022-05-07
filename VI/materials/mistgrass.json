@@ -1,0 +1,22 @@
+{
+  "name": "Túi Cỏ Hư Vô",
+  "description": "Cỏ Hư Vô được bảo quản hoàn hảo. Có người lợi dụng sự yêu thích Cỏ Hư Vô của Cicin để khống chế chúng.",
+  "sortorder": 1745,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Ghép Nhận",
+    "Fatui - Thuật Sĩ Cicin Lôi cấp 40 trở lên rơi",
+    "Đổi từ Tinh Trần"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Grass.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Item_Mist_Grass.png",
+    "nameicon": "UI_ItemIcon_112027"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Grass"
+  },
+  "version": ""
+}

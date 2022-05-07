@@ -1,0 +1,19 @@
+{
+  "name": "海草",
+  "description": "生长在浅海中的植物，能为菜肴增添特殊的风味。",
+  "sortorder": 2012,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "稻妻海域采集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Seagrass.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Item_Seagrass.png",
+    "nameicon": "UI_ItemIcon_101210"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Seagrass"
+  },
+  "version": ""
+}

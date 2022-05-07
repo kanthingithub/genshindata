@@ -1,0 +1,312 @@
+{
+  "name": "Couteau à filets",
+  "description": "Un couteau de pêche à la lame tranchante. Il est très acéré.",
+  "weapontype": "Épée à une main",
+  "rarity": "3",
+  "baseatk": 39,
+  "substat": "ATQ",
+  "subvalue": "7.7",
+  "effectname": "Détermination",
+  "effect": [
+    "Les attaques ont 50 % de chances d'infliger [240 %] de DGT d'ATQ à un ennemi lorsqu'elles touchent. Cet effet peut être déclenché 1 fois toutes les [15] s.",
+    "Les attaques ont 50 % de chances d'infliger [280 %] de DGT d'ATQ à un ennemi lorsqu'elles touchent. Cet effet peut être déclenché 1 fois toutes les [14] s.",
+    "Les attaques ont 50 % de chances d'infliger [320 %] de DGT d'ATQ à un ennemi lorsqu'elles touchent. Cet effet peut être déclenché 1 fois toutes les [13] s.",
+    "Les attaques ont 50 % de chances d'infliger [360 %] de DGT d'ATQ à un ennemi lorsqu'elles touchent. Cet effet peut être déclenché 1 fois toutes les [12] s.",
+    "Les attaques ont 50 % de chances d'infliger [400 %] de DGT d'ATQ à un ennemi lorsqu'elles touchent. Cet effet peut être déclenché 1 fois toutes les [11] s."
+  ],
+  "r1": [
+    "240 %",
+    "15"
+  ],
+  "r2": [
+    "280 %",
+    "14"
+  ],
+  "r3": [
+    "320 %",
+    "13"
+  ],
+  "r4": [
+    "360 %",
+    "12"
+  ],
+  "r5": [
+    "400 %",
+    "11"
+  ],
+  "weaponmaterialtype": "Mist Veiled Elixir",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 5000
+      },
+      {
+        "name": "Plomb karstique",
+        "count": 2
+      },
+      {
+        "name": "Pollen d'herbe brumeuse",
+        "count": 2
+      },
+      {
+        "name": "Insigne du Pilleur",
+        "count": 1
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 10000
+      },
+      {
+        "name": "Mercure karstique",
+        "count": 2
+      },
+      {
+        "name": "Pollen d'herbe brumeuse",
+        "count": 8
+      },
+      {
+        "name": "Insigne du Pilleur",
+        "count": 5
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 15000
+      },
+      {
+        "name": "Mercure karstique",
+        "count": 4
+      },
+      {
+        "name": "Herbe brumeuse",
+        "count": 4
+      },
+      {
+        "name": "Insigne de corbeau en argent",
+        "count": 4
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Argent karstique",
+        "count": 2
+      },
+      {
+        "name": "Herbe brumeuse",
+        "count": 8
+      },
+      {
+        "name": "Insigne de corbeau en argent",
+        "count": 6
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 25000
+      },
+      {
+        "name": "Argent karstique",
+        "count": 4
+      },
+      {
+        "name": "Mèches d'herbe brumeuse",
+        "count": 6
+      },
+      {
+        "name": "Insigne de corbeau en or",
+        "count": 4
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Or karstique",
+        "count": 3
+      },
+      {
+        "name": "Mèches d'herbe brumeuse",
+        "count": 12
+      },
+      {
+        "name": "Insigne de corbeau en or",
+        "count": 8
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Weapon_Fillet_Blade.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Sashimi.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Sashimi_Awaken.png",
+    "nameicon": "UI_EquipIcon_Sword_Sashimi",
+    "namegacha": "UI_Gacha_EquipIcon_Sword_Sashimi",
+    "nameawakenicon": "UI_EquipIcon_Sword_Sashimi_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fillet_Blade"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 38.74129867553711,
+      "specialized": 0.07660000026226044
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 50.47991113972057,
+      "specialized": 0.08900919577555655
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 65.04664125210502,
+      "specialized": 0.10440580306036473
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 79.45840816490272,
+      "specialized": 0.11987900479352476
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 93.75394575052633,
+      "specialized": 0.13535219739525317
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 113.25394575052633,
+      "specialized": 0.13535219739525317
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 127.43325862729853,
+      "specialized": 0.1508253991284132
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 141.45760830448398,
+      "specialized": 0.16629860086157322
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 155.40447176355337,
+      "specialized": 0.18177179346330163
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 169.27385824115208,
+      "specialized": 0.19724500432789327
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 188.673859767031,
+      "specialized": 0.19724500432789327
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 202.42703077242368,
+      "specialized": 0.21271819692962168
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 216.10269708640953,
+      "specialized": 0.22819140779421332
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 235.60269708640953,
+      "specialized": 0.22819140779421332
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 249.20090489221548,
+      "specialized": 0.24366460039594173
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 262.72161724325997,
+      "specialized": 0.25913779299767015
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 282.1216187691389,
+      "specialized": 0.25913779299767015
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 295.60359262944803,
+      "specialized": 0.2746110038622618
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 309.00807103499574,
+      "specialized": 0.29000760201563835
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 328.50807103499574,
+      "specialized": 0.29000760201563835
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 341.9125679138342,
+      "specialized": 0.30548079461736677
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 355.2783078286466,
+      "specialized": 0.3209540054819584
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 374.67830172513095,
+      "specialized": 0.3209540054819584
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 388.005303149208,
+      "specialized": 0.33642721634655004
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 401.2935845558404,
+      "specialized": 0.35190039068541523
+    }
+  },
+  "version": "1.0"
+}

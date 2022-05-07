@@ -1,0 +1,19 @@
+{
+  "name": "마법 수정석 조각",
+  "description": "「단조 의뢰」를 통해 퓨어 레진을 정제하여 무기 경험치 재료를 얻을 수 있다.\n일반적인 방법으론 지맥의 에너지에 침식당한 수정 광석을 처리할 수 없다",
+  "sortorder": 1957,
+  "category": "EXCHANGE",
+  "materialtype": "단조용 광석",
+  "source": [
+    "야외 채집"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Magical_Crystal_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Item_Magical_Crystal_Chunk.png",
+    "nameicon": "UI_ItemIcon_101004"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Magical_Crystal_Chunk"
+  },
+  "version": ""
+}

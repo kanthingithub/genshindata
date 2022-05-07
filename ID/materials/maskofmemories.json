@@ -1,0 +1,18 @@
+{
+  "name": "Mask of Memories",
+  "description": "Topeng yang biasa dipakai Kazari sang Miko. Di bagian dalam terdapat noda yang warnanya sangat gelap.\nDi dalamnya tersimpan beberapa kenangan yang dapat digunakan untuk mempelajari cara menempa Catalyst bernama \"Hakushin Ring\".\nKini Kazari sudah terpisahkan dengan topeng ini, dan Paimon jadinya tidak bisa memanggilnya \"Miko Bertopeng\" lagi, kan?",
+  "sortorder": 2608,
+  "rarity": "4",
+  "category": "CONSUME",
+  "materialtype": "Blueprint untuk Forge",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_100865",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mask_of_Memories.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Mask_of_Memories.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mask_of_Memories"
+  },
+  "version": ""
+}

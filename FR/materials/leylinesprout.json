@@ -1,0 +1,21 @@
+{
+  "name": "Pousse des lignes énergétiques",
+  "description": "Cette pousse a été extraite à partir d'énormes racines qui poussent sous terre. Elle déborde de vitalité comme si elle était encore rattachée à la racine mère et déploie de nouvelles feuilles.",
+  "sortorder": 1740,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Synthèse",
+    "Butin de Mage de l'Abîme (Niv.60+)"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ley_Line_Sprouts.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Item_Ley_Line_Sprout.png",
+    "nameicon": "UI_ItemIcon_112022"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ley_Line_Sprout"
+  },
+  "version": ""
+}

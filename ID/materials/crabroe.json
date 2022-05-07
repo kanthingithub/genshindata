@@ -1,0 +1,19 @@
+{
+  "name": "Crab Roe",
+  "description": "Bahan masakan lezat yang hanya terdapat di dalam kepiting betina. Bahan masakan langka dan berharga, tetapi ada sebagian orang yang tidak menyukainya.",
+  "sortorder": 1994,
+  "category": "EXCHANGE",
+  "materialtype": "Bahan Masak",
+  "source": [
+    "Didapatkan saat proses cooking"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crab_Roe.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/25/Item_Crab_Roe.png",
+    "nameicon": "UI_ItemIcon_110007"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Crab_Roe"
+  },
+  "version": ""
+}

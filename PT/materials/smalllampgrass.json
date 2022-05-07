@@ -1,0 +1,21 @@
+{
+  "name": "Lâmpada de Grama",
+  "description": "Uma flor selvagem que emite luz à noite. Usada na culinária para realçar sabores.",
+  "sortorder": 2041,
+  "category": "EXCHANGE",
+  "materialtype": "Especialidade de Mondstadt",
+  "source": [
+    "Encontrado na natureza à noite",
+    "Recomendação: Encontrado no Reino dos Lobos",
+    "Recomendação: Encontrado no Bosque Sussurrante"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Small_Lamp_Grass.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Small_Lamp_Grass.png",
+    "nameicon": "UI_ItemIcon_100055"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Small_Lamp_Grass"
+  },
+  "version": ""
+}

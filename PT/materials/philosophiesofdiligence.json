@@ -1,0 +1,26 @@
+{
+  "name": "Filosofia de Esforço",
+  "description": "Material de elevação de Talento.\nA indústria é o fundamento da Terra\nA indústria está acreditando na própria capacidade de ganhar um lugar na terra dos deuses através do suor, sabedoria e poder.",
+  "sortorder": 1865,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Talento",
+  "dropdomain": "Domínio da Proficiência: Coração das Chamas",
+  "daysofweek": [
+    "Terça-feira",
+    "Sexta-feira",
+    "Domingo"
+  ],
+  "source": [
+    "Obtido na síntese"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Diligence.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Item_Philosophies_of_Diligence.png",
+    "nameicon": "UI_ItemIcon_104315"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Diligence"
+  },
+  "version": ""
+}

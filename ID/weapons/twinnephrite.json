@@ -1,0 +1,307 @@
+{
+  "name": "Twin Nephrite",
+  "description": "Sebuah kalung giok yang disatukan oleh dua potong giok.",
+  "weapontype": "Catalyst",
+  "rarity": "3",
+  "baseatk": 40,
+  "substat": "CRIT Rate",
+  "subvalue": "3.4",
+  "effectname": "Guerilla Tactic",
+  "effect": [
+    "Mengalahkan musuh meningkatkan [12%] Movement SPD dan ATK selama 15 detik.",
+    "Mengalahkan musuh meningkatkan [14%] Movement SPD dan ATK selama 15 detik.",
+    "Mengalahkan musuh meningkatkan [16%] Movement SPD dan ATK selama 15 detik.",
+    "Mengalahkan musuh meningkatkan [18%] Movement SPD dan ATK selama 15 detik.",
+    "Mengalahkan musuh meningkatkan [20%] Movement SPD dan ATK selama 15 detik."
+  ],
+  "r1": [
+    "12%"
+  ],
+  "r2": [
+    "14%"
+  ],
+  "r3": [
+    "16%"
+  ],
+  "r4": [
+    "18%"
+  ],
+  "r5": [
+    "20%"
+  ],
+  "weaponmaterialtype": "Mist Veiled Elixir",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 5000
+      },
+      {
+        "name": "Mist Veiled Lead Elixir",
+        "count": 2
+      },
+      {
+        "name": "Mist Grass Pollen",
+        "count": 2
+      },
+      {
+        "name": "Recruit's Insignia",
+        "count": 1
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 10000
+      },
+      {
+        "name": "Mist Veiled Mercury Elixir",
+        "count": 2
+      },
+      {
+        "name": "Mist Grass Pollen",
+        "count": 8
+      },
+      {
+        "name": "Recruit's Insignia",
+        "count": 5
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 15000
+      },
+      {
+        "name": "Mist Veiled Mercury Elixir",
+        "count": 4
+      },
+      {
+        "name": "Mist Grass",
+        "count": 4
+      },
+      {
+        "name": "Sergeant's Insignia",
+        "count": 4
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Mist Veiled Gold Elixir",
+        "count": 2
+      },
+      {
+        "name": "Mist Grass",
+        "count": 8
+      },
+      {
+        "name": "Sergeant's Insignia",
+        "count": 6
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 25000
+      },
+      {
+        "name": "Mist Veiled Gold Elixir",
+        "count": 4
+      },
+      {
+        "name": "Mist Grass Wick",
+        "count": 6
+      },
+      {
+        "name": "Lieutenant's Insignia",
+        "count": 4
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Mist Veiled Primo Elixir",
+        "count": 3
+      },
+      {
+        "name": "Mist Grass Wick",
+        "count": 12
+      },
+      {
+        "name": "Lieutenant's Insignia",
+        "count": 8
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Weapon_Twin_Nephrite.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Phoney.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Phoney_Awaken.png",
+    "nameicon": "UI_EquipIcon_Catalyst_Phoney",
+    "namegacha": "UI_Gacha_EquipIcon_Catalyst_Phoney",
+    "nameawakenicon": "UI_EquipIcon_Catalyst_Phoney_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Twin_Nephrite"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 39.875099182128906,
+      "specialized": 0.03400000184774399
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 52.8345083177137,
+      "specialized": 0.039508000136732946
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 69.14342068886435,
+      "specialized": 0.04634200371819741
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 85.53208698510934,
+      "specialized": 0.05321000483721505
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 101.96062549041926,
+      "specialized": 0.06007800190311663
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 121.46062549041926,
+      "specialized": 0.06007800190311663
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 137.88917350269367,
+      "specialized": 0.06694600302213427
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 154.3575842170685,
+      "specialized": 0.07381400414115191
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 170.78612272237842,
+      "specialized": 0.08068200120705349
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 187.21466122768834,
+      "specialized": 0.0875500063791872
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 206.61466275356725,
+      "specialized": 0.0875500063791872
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 223.04321076584165,
+      "specialized": 0.09441800344508877
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 239.47175877811605,
+      "specialized": 0.10128600861722248
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 258.97175877811605,
+      "specialized": 0.10128600861722248
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 275.36041556739656,
+      "specialized": 0.10815400568312405
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 291.74909137060604,
+      "specialized": 0.11502200274902563
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 311.14909289648494,
+      "specialized": 0.11502200274902563
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 327.4978774767005,
+      "specialized": 0.12189000792115934
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 343.886534265981,
+      "specialized": 0.12872400744950774
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 363.386534265981,
+      "specialized": 0.12872400744950774
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 379.7353378601256,
+      "specialized": 0.13559200451540931
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 396.08412244034116,
+      "specialized": 0.14246000968754302
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 415.48411633682554,
+      "specialized": 0.14246000968754302
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 431.87277312610604,
+      "specialized": 0.14932801485967673
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 448.2215767202506,
+      "specialized": 0.15619600381934617
+    }
+  },
+  "version": "1.0"
+}

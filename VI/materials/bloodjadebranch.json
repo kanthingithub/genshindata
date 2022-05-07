@@ -1,0 +1,20 @@
+{
+  "name": "Nhánh Huyết Ngọc",
+  "description": "Nhánh cây bằng xương màu sắc lấp lánh đặc biệt, được nuôi dưỡng từ sức mạnh \"Long Vương\".\nTừ dòng suối căm hận, từ ánh trăng lạnh lẽo đã đúc kết thành...\nCho dù khi chiến đấu có bị chém gãy thì những nhành lá được nuôi dưỡng từ máu rồng vẫn luôn bất diệt.",
+  "sortorder": 1800,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Thưởng khiêu chiến Azhdaha cấp 70 trở lên"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bloodjade_Branch.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Item_Bloodjade_Branch.png",
+    "nameicon": "UI_ItemIcon_113018"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bloodjade_Branch"
+  },
+  "version": ""
+}

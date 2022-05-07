@@ -1,0 +1,25 @@
+{
+  "name": "Máscara Danificada",
+  "description": "Máscara de Ossos quebrada que pertencia a algum Hilichurl.\nHá mais partes danificadas do que intactas, perdendo totalmente a sua utilidade.",
+  "sortorder": 1726,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Dropado por Hilichurls",
+    "Dropado por alguns Hilichurls Arqueiros",
+    "Dropado por alguns Samachurls",
+    "Dropado por alguns Mitachurls",
+    "Dropado por alguns Lawachurls",
+    "Resgate de Poeira Estrelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Damaged_Mask.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Damaged_Mask.png",
+    "nameicon": "UI_ItemIcon_112005"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Damaged_Mask"
+  },
+  "version": ""
+}

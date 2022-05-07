@@ -1,0 +1,312 @@
+{
+  "name": "Favonius-Kodex",
+  "description": "Ein Kodex, der unter den Gelehrten des Ordo Favonius weitergetragen wird. Darin werden die Prinzipien und Kräfte von Elementen und Stoffen erläutert.",
+  "weapontype": "Katalysator",
+  "rarity": "4",
+  "baseatk": 42,
+  "substat": "Aufladerate",
+  "subvalue": "10",
+  "effectname": "Folge dem Wind",
+  "effect": [
+    "Erschafft bei einem KT mit einer Wahrscheinlichkeit von [60 %] einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. [12] s Abklingzeit.",
+    "Erschafft bei einem KT mit einer Wahrscheinlichkeit von [70 %] einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. [10,5] s Abklingzeit.",
+    "Erschafft bei einem KT mit einer Wahrscheinlichkeit von [80 %] einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. [9] s Abklingzeit.",
+    "Erschafft bei einem KT mit einer Wahrscheinlichkeit von [90 %] einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. [7,5] s Abklingzeit.",
+    "Erschafft bei einem KT mit einer Wahrscheinlichkeit von [100 %] einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. [6] s Abklingzeit."
+  ],
+  "r1": [
+    "60 %",
+    "12"
+  ],
+  "r2": [
+    "70 %",
+    "10,5"
+  ],
+  "r3": [
+    "80 %",
+    "9"
+  ],
+  "r4": [
+    "90 %",
+    "7,5"
+  ],
+  "r5": [
+    "100 %",
+    "6"
+  ],
+  "weaponmaterialtype": "Decarabian",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 5000
+      },
+      {
+        "name": "Decabarians zerbrochener Ziegel",
+        "count": 3
+      },
+      {
+        "name": "Schweres Horn",
+        "count": 3
+      },
+      {
+        "name": "Leitende Schriftrolle",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 15000
+      },
+      {
+        "name": "Decabarians zerbröckelter Wall",
+        "count": 3
+      },
+      {
+        "name": "Schweres Horn",
+        "count": 12
+      },
+      {
+        "name": "Leitende Schriftrolle",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Decabarians zerbröckelter Wall",
+        "count": 6
+      },
+      {
+        "name": "Kupferhorn",
+        "count": 6
+      },
+      {
+        "name": "Zaubersiegel-Schriftrolle",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Decabarians Palastfragment",
+        "count": 3
+      },
+      {
+        "name": "Kupferhorn",
+        "count": 12
+      },
+      {
+        "name": "Zaubersiegel-Schriftrolle",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 35000
+      },
+      {
+        "name": "Decabarians Palastfragment",
+        "count": 6
+      },
+      {
+        "name": "Schwarzes Kristallhorn",
+        "count": 9
+      },
+      {
+        "name": "Fluchschriftrolle",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Decabarians zerstörter Traum",
+        "count": 4
+      },
+      {
+        "name": "Schwarzes Kristallhorn",
+        "count": 18
+      },
+      {
+        "name": "Fluchschriftrolle",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/36/Weapon_Favonius_Codex.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus_Awaken.png",
+    "nameicon": "UI_EquipIcon_Catalyst_Zephyrus",
+    "namegacha": "UI_Gacha_EquipIcon_Catalyst_Zephyrus",
+    "nameawakenicon": "UI_EquipIcon_Catalyst_Zephyrus_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Favonius_Codex"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 42.4010009765625,
+      "specialized": 0.10000000149011612
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 56.39333311848168,
+      "specialized": 0.11619999581873408
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 73.9049459961243,
+      "specialized": 0.1363000055596233
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 91.41655381917371,
+      "specialized": 0.1565000080540777
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 108.92817175140954,
+      "specialized": 0.176699998627603
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 134.8281713699398,
+      "specialized": 0.176699998627603
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 152.33978930217563,
+      "specialized": 0.1969000011220574
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 169.80899919744115,
+      "specialized": 0.21710000361651183
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 187.32060702049057,
+      "specialized": 0.2372999941900371
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 204.83221484354,
+      "specialized": 0.25750000860542066
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 230.83221675088862,
+      "specialized": 0.25750000860542066
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 248.34383468312444,
+      "specialized": 0.27769999917894594
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 265.85545261536026,
+      "specialized": 0.2979000135943295
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 291.75545414123917,
+      "specialized": 0.2979000135943295
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 309.267072073475,
+      "specialized": 0.3181000041678548
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 326.7786900057108,
+      "specialized": 0.33829999474138006
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 352.6786839021952,
+      "specialized": 0.33829999474138006
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 370.1478836882743,
+      "specialized": 0.3585000091567636
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 387.6595016205101,
+      "specialized": 0.3786000069767237
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 413.6595016205101,
+      "specialized": 0.3786000069767237
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 431.17111955274595,
+      "specialized": 0.398799997550249
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 448.68271726660896,
+      "specialized": 0.4190000119656325
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 474.5827264218824,
+      "specialized": 0.4190000119656325
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 492.0943443541182,
+      "specialized": 0.4392000263810161
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 509.60596228635404,
+      "specialized": 0.4593999931126831
+    }
+  },
+  "version": "1.0"
+}

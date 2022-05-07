@@ -1,0 +1,26 @@
+{
+  "name": "Hướng Dẫn Của \"Phồn Vinh\"",
+  "description": "Nguyên liệu bồi dưỡng Thiên Phú.\nĐất nước của nham thạch theo đuổi sự phồn hoa.\nPhồn hoa là lời hứa của Liyue với con cháu của mình: Hồi đáp người chăm chỉ bằng sự phồn hoa, dùng hoàng kim để soi sáng mảnh đất này.",
+  "sortorder": 1861,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Thiên Phú",
+  "dropdomain": "Bí Cảnh Tinh Thông: Tế Đàn Rực Lửa",
+  "daysofweek": [
+    "Thứ 2",
+    "Thứ 5",
+    "Chủ Nhật"
+  ],
+  "source": [
+    "Ghép Nhận"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Guide_to_Prosperity.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Item_Guide_to_Prosperity.png",
+    "nameicon": "UI_ItemIcon_104311"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Guide_to_Prosperity"
+  },
+  "version": ""
+}

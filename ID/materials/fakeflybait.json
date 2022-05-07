@@ -1,0 +1,20 @@
+{
+  "name": "Fake Fly Bait",
+  "description": "Umpan yang bentuknya menyerupai lalat, terbuat dari bahan-bahan berwarna cerah. Tidak berbau, dan sangat menarik bagi ikan-ikan besar berpenglihatan tajam. Biasanya umpan ini akan dipadankan dengan teknik memancing yang lebih profesional. Ada beberapa asosiasi memancing yang menggunakan \"menguasai penggunaan Fake Fly Bait\" sebagai syarat untuk menaikkan pangkat keanggotaan.\n\nCocok digunakan untuk ikan jenis Koi, Pufferfish, dan Rays.",
+  "sortorder": 1517,
+  "rarity": "2",
+  "category": "FISH_BAIT",
+  "materialtype": "Umpan Ikan",
+  "source": [
+    "Didapatkan melalui Craft"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_111026",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fake_Fly_Bait.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Item_Fake_Fly_Bait.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fake_Fly_Bait"
+  },
+  "version": ""
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Mist Veiled Mercury Elixir",
+  "description": "Weapon Ascension Material.\nWith Fulu (Sigils), the adepti can store their power in the form of symbols, and with Waijing (Sub-Space Creation) they can fashion a cosmic paradise with the power of their minds. The manufacture of elixirs, however, has always been shrouded in mystery, for certain death follows for any who swallow them.",
+  "sortorder": 2200,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Weapon Ascension Material",
+  "dropdomain": "Domain of Forgery: Thundering Ruins",
+  "daysofweek": [
+    "Tuesday",
+    "Friday",
+    "Sunday"
+  ],
+  "source": [
+    "Crafted"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Veiled_Mercury_Elixir.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Mist_Veiled_Mercury_Elixir.png",
+    "nameicon": "UI_ItemIcon_114018"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Veiled_Mercury_Elixir"
+  },
+  "version": ""
+}

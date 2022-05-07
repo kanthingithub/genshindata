@@ -1,0 +1,23 @@
+{
+  "name": "Fossilized Bone Shard",
+  "description": "A fossilized bone fragment sometimes found after defeating Geovishaps.\nGeovishaps all dream of growing into great dragons one day. They see these fossils as dragon bones and greatly cherish them, perhaps because they too hope to attain the dragons' longevity and power.",
+  "sortorder": 1761,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Crafted",
+    "Dropped by Lv. 60+ geovishap hatchlings",
+    "Dropped by Lv. 60+ geovishaps",
+    "Dropped by Lv. 60+ Bathysmal Vishaps"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fossilized_Bone_Shard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Fossilized_Bone_Shard.png",
+    "nameicon": "UI_ItemIcon_112043"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fossilized_Bone_Shard"
+  },
+  "version": ""
+}

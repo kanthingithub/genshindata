@@ -1,0 +1,20 @@
+{
+  "name": "Fausse mouche",
+  "description": "Un appât en forme de mouche fabriqué avec des matériaux colorés. Inodore, il attire plus particulièrement les grands poissons avec une vue nette et est idéal pour exécuter des techniques de pêche à la ligne plus avancées. Les associations de pêcheurs de toutes les régions évaluent les talents de leurs membres selon leur aptitude à utiliser cet appât.\n\nAdapté pour les poissons de la famille des koï, des poissons-globes et des raies.",
+  "sortorder": 1517,
+  "rarity": "2",
+  "category": "FISH_BAIT",
+  "materialtype": "Appât de pêche",
+  "source": [
+    "Synthèse"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_111026",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fake_Fly_Bait.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Item_Fake_Fly_Bait.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fake_Fly_Bait"
+  },
+  "version": ""
+}

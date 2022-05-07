@@ -1,0 +1,21 @@
+{
+  "name": "Mist Grass Wick",
+  "description": "Segumpal Mist Grass yang menyatu dan menyala redup. Dapat digunakan sebagai lentera, tetapi mudah mengundang Cicin dan mara bahaya.",
+  "sortorder": 1746,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Didapatkan melalui Craft",
+    "Dijatuhkan oleh Fatui Cicin Mage Lv. 60+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Grass_Wick.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Item_Mist_Grass_Wick.png",
+    "nameicon": "UI_ItemIcon_112028"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Grass_Wick"
+  },
+  "version": ""
+}

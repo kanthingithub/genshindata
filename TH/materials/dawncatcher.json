@@ -1,0 +1,20 @@
+{
+  "name": "Dawncatcher",
+  "description": "ปลา Medaka หายากที่มีแสงเรืองรองบนร่างของมัน ดูเผิน ๆ อาจเหมือนปลา Medaka ที่กลายพันธุ์ แต่ไม่ว่าจะเป็นนิสัยหรือรูปลักษณ์ภายนอกของพวกมันก็มีความแตกต่างกันอยู่ไม่น้อยทีเดียว\nชาวบ้านเล่าขานกันว่า ปลาชนิดนี้มีความสามารถในการทำนายสภาพอากาศได้อย่างอัศจรรย์ เมื่อแสงแรกของวันทอดผ่านผืนฟ้า หากพบปลาชนิดนี้กระโจนขึ้นมาเหนือผิวน้ำเพื่ออาบแสงแรกแห่งวันแล้วล่ะก็ หมายความว่าทุกคนจะได้เพลิดเพลินไปกับวันที่ฟ้าสดใสตลอดทั้งวันเลยล่ะ",
+  "sortorder": 2018,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "ปลา",
+  "source": [
+    "ได้รับจากการตกปลา"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dawncatcher.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Item_Dawncatcher.png",
+    "nameicon": "UI_ItemIcon_131004"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dawncatcher"
+  },
+  "version": ""
+}

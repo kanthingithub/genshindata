@@ -1,0 +1,911 @@
+{
+  "name": "Arataki Itto",
+  "fullname": "Arataki Itto",
+  "title": "Hanamizaka Heroics",
+  "description": "The first and greatest head of the Arataki Gang, famed throughout Inazuma City's Hanamizaka... Wait, what? You've never heard of them? Are you trying to be funny here?",
+  "rarity": "5",
+  "element": "Geo",
+  "weapontype": "Claymore",
+  "substat": "CRIT Rate",
+  "gender": "Male",
+  "body": "MALE",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "Arataki Gang",
+  "birthdaymmdd": "6/1",
+  "birthday": "June 1",
+  "constellation": "Taurus Iracundus",
+  "cv": {
+    "english": "Max Mittelman",
+    "chinese": "刘照坤",
+    "japanese": "西川貴教",
+    "korean": "Song Jun-seok"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Prithiva Topaz Sliver",
+        "count": 1
+      },
+      {
+        "name": "Onikabuto",
+        "count": 3
+      },
+      {
+        "name": "Slime Condensate",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Prithiva Topaz Fragment",
+        "count": 3
+      },
+      {
+        "name": "Riftborn Regalia",
+        "count": 2
+      },
+      {
+        "name": "Onikabuto",
+        "count": 10
+      },
+      {
+        "name": "Slime Condensate",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Prithiva Topaz Fragment",
+        "count": 6
+      },
+      {
+        "name": "Riftborn Regalia",
+        "count": 4
+      },
+      {
+        "name": "Onikabuto",
+        "count": 20
+      },
+      {
+        "name": "Slime Secretions",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Prithiva Topaz Chunk",
+        "count": 3
+      },
+      {
+        "name": "Riftborn Regalia",
+        "count": 8
+      },
+      {
+        "name": "Onikabuto",
+        "count": 30
+      },
+      {
+        "name": "Slime Secretions",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Prithiva Topaz Chunk",
+        "count": 6
+      },
+      {
+        "name": "Riftborn Regalia",
+        "count": 12
+      },
+      {
+        "name": "Onikabuto",
+        "count": 45
+      },
+      {
+        "name": "Slime Concentrate",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Prithiva Topaz Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Riftborn Regalia",
+        "count": 20
+      },
+      {
+        "name": "Onikabuto",
+        "count": 60
+      },
+      {
+        "name": "Slime Concentrate",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_AvatarIcon_Itto",
+    "nameiconcard": "UI_AvatarIcon_Itto_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Itto",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Itto",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Itto.png",
+    "namesideicon": "UI_AvatarIcon_Side_Itto",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Itto.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211203/2021120311564937286.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211203/2021120311564391237.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Arataki_Itto"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1000.9860229492188,
+      "attack": 17.68899917602539,
+      "defense": 74.66783905029297,
+      "specialized": 0.05000000074505806
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2596.5578447194275,
+      "attack": 45.88526565078155,
+      "defense": 193.6883820445928,
+      "specialized": 0.05000000074505806
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3454.81284960224,
+      "attack": 61.050875964197076,
+      "defense": 257.71078194693655,
+      "specialized": 0.05000000074505806
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5169.501966100361,
+      "attack": 91.35213259864031,
+      "defense": 385.616794655034,
+      "specialized": 0.05000000074505806
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5779.314710240986,
+      "attack": 102.12769774604021,
+      "defense": 431.10639579028793,
+      "specialized": 0.09800000116229057
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6649.171522180812,
+      "attack": 117.49943728774633,
+      "defense": 495.9927447918053,
+      "specialized": 0.09800000116229057
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7462.255140344874,
+      "attack": 131.8668555769309,
+      "defense": 556.6455386760827,
+      "specialized": 0.1460000015795231
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8341.120650842146,
+      "attack": 147.39779300722512,
+      "defense": 622.2038851266334,
+      "specialized": 0.1460000015795231
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8950.93339498277,
+      "attack": 158.17335910829934,
+      "defense": 667.6934938912818,
+      "specialized": 0.1460000015795231
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9837.807167872583,
+      "attack": 173.84581514486308,
+      "defense": 733.8492109680847,
+      "specialized": 0.1460000015795231
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10447.619912013208,
+      "attack": 184.6213812459373,
+      "defense": 779.3388197327331,
+      "specialized": 0.193999994546175
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11344.5032969327,
+      "attack": 200.4707228881798,
+      "defense": 846.2411966857508,
+      "specialized": 0.193999994546175
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11954.31628521395,
+      "attack": 211.24628898925403,
+      "defense": 891.7307901916101,
+      "specialized": 0.2420000024139881
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12858.207019053749,
+      "attack": 227.2194615206754,
+      "defense": 959.1558753436984,
+      "specialized": 0.2420000024139881
+    }
+  },
+  "version": "2.3",
+  "constellations": {
+    "c1": {
+      "name": "Stay a While and Listen Up",
+      "effect": "After using **Royal Descent: Behold, Itto the Evil!**, Arataki Itto gains 2 stacks of Superlative Superstrength. After 1s, Itto will gain 1 stack of Superlative Superstrength every 0.5s for 1.5s."
+    },
+    "c2": {
+      "name": "Gather 'Round, It's a Brawl!",
+      "effect": "After using **Royal Descent: Behold, Itto the Evil!**, each party member whose Element is Geo will decrease that skill's CD by 1.5s and restore 6 Energy to Arataki Itto.\nCD can be decreased by up to 4.5s in this manner. Max 18 Energy can be restored in this manner."
+    },
+    "c3": {
+      "name": "Horns Lowered, Coming Through",
+      "effect": "Increases the Level of **Masatsu Zetsugi: Akaushi Burst!** by 3.\nMaximum upgrade level is 15."
+    },
+    "c4": {
+      "name": "Jailhouse Bread and Butter",
+      "effect": "When the Raging Oni King state caused by **Royal Descent: Behold, Itto the Evil!** ends, all nearby party members gain 20% DEF and 20% ATK for 10s."
+    },
+    "c5": {
+      "name": "10 Years of Hanamizaka Fame",
+      "effect": "Increases the Level of **Royal Descent: Behold, Itto the Evil!** by 3.\nMaximum upgrade level is 15."
+    },
+    "c6": {
+      "name": "Arataki Itto, Present!",
+      "effect": "Arataki Itto's Charged Attacks deal +70% Crit DMG. Additionally, when he uses Arataki Kesagiri, he has a 50% chance to not consume stacks of Superlative Superstrength."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Itto_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Itto_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_04.png",
+      "constellation": "Eff_UI_Talent_Itto"
+    },
+    "version": "2.3"
+  },
+  "talent": {
+    "name": "Arataki Itto",
+    "combat1": {
+      "name": "Normal Attack: Fight Club Legend",
+      "info": "**Normal Attack**\nPerform up to 4 consecutive strikes.\nWhen the 2nd and 4th strikes hit opponents, Itto will gain 1 or 2 stacks of Superlative Superstrength, respectively.\nMax 5 stacks. Triggering this effect will refresh the current duration of any existing stacks.\n\nAdditionally, Itto's Normal Attack combo does not immediately reset after sprinting or using his Elemental Skill, \"Masatsu Zetsugi: Akaushi Burst!\"\n\n**Charged Attack**\nWhen holding to perform a Charged Attack, Itto unleashes a series of Arataki Kesagiri slashes without consuming Stamina. Instead, each Arataki Kesagiri slash consumes 1 stack of Superlative Superstrength. When the final stack is consumed, Itto delivers a powerful final slash.\nIf no stacks of Superlative Superstrength are available, Itto will perform a single Saichimonji Slash.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "attributes": [
+        {
+          "name": "1-Hit DMG",
+          "parameters": [
+            "79.23%",
+            "85.68%",
+            "92.13%",
+            "101.34%",
+            "107.79%",
+            "115.16%",
+            "125.30%",
+            "135.43%",
+            "145.57%",
+            "156.62%",
+            "169.29%",
+            "184.19%",
+            "199.08%",
+            "213.98%",
+            "230.23%"
+          ]
+        },
+        {
+          "name": "2-Hit DMG",
+          "parameters": [
+            "76.37%",
+            "82.58%",
+            "88.80%",
+            "97.68%",
+            "103.90%",
+            "111.00%",
+            "120.77%",
+            "130.54%",
+            "140.30%",
+            "150.96%",
+            "163.17%",
+            "177.53%",
+            "191.89%",
+            "206.25%",
+            "221.91%"
+          ]
+        },
+        {
+          "name": "3-Hit DMG",
+          "parameters": [
+            "91.64%",
+            "99.10%",
+            "106.56%",
+            "117.22%",
+            "124.68%",
+            "133.20%",
+            "144.92%",
+            "156.64%",
+            "168.36%",
+            "181.15%",
+            "195.80%",
+            "213.03%",
+            "230.27%",
+            "247.50%",
+            "266.29%"
+          ]
+        },
+        {
+          "name": "4-Hit DMG",
+          "parameters": [
+            "117.22%",
+            "126.77%",
+            "136.31%",
+            "149.94%",
+            "159.48%",
+            "170.39%",
+            "185.38%",
+            "200.37%",
+            "215.37%",
+            "231.72%",
+            "250.47%",
+            "272.51%",
+            "294.55%",
+            "316.59%",
+            "340.63%"
+          ]
+        },
+        {
+          "name": "Arataki Kesagiri Combo Slash DMG",
+          "parameters": [
+            "91.16%",
+            "98.58%",
+            "106.00%",
+            "116.60%",
+            "124.02%",
+            "132.50%",
+            "144.16%",
+            "155.82%",
+            "167.48%",
+            "180.20%",
+            "194.77%",
+            "211.92%",
+            "229.06%",
+            "246.20%",
+            "264.89%"
+          ]
+        },
+        {
+          "name": "Arataki Kesagiri Final Slash DMG",
+          "parameters": [
+            "190.92%",
+            "206.46%",
+            "222.00%",
+            "244.20%",
+            "259.74%",
+            "277.50%",
+            "301.92%",
+            "326.34%",
+            "350.76%",
+            "377.40%",
+            "407.92%",
+            "443.82%",
+            "479.72%",
+            "515.62%",
+            "554.78%"
+          ]
+        },
+        {
+          "name": "Superlative Superstrength Duration",
+          "parameters": [
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s"
+          ]
+        },
+        {
+          "name": "Saichimonji Slash DMG",
+          "parameters": [
+            "90.47%",
+            "97.84%",
+            "105.20%",
+            "115.72%",
+            "123.08%",
+            "131.50%",
+            "143.07%",
+            "154.64%",
+            "166.22%",
+            "178.84%",
+            "193.31%",
+            "210.32%",
+            "227.33%",
+            "244.34%",
+            "262.89%"
+          ]
+        },
+        {
+          "name": "Saichimonji Slash Stamina Cost",
+          "parameters": [
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "name": "Plunge DMG",
+          "parameters": [
+            "81.83%",
+            "88.49%",
+            "95.16%",
+            "104.67%",
+            "111.33%",
+            "118.94%",
+            "129.41%",
+            "139.88%",
+            "150.35%",
+            "161.76%",
+            "173.18%",
+            "184.60%",
+            "196.02%",
+            "207.44%",
+            "218.86%"
+          ]
+        },
+        {
+          "name": "Low/High Plunge DMG",
+          "parameters": [
+            "163.63%/204.39%",
+            "176.95%/221.02%",
+            "190.27%/237.66%",
+            "209.30%/261.42%",
+            "222.62%/278.06%",
+            "237.84%/297.07%",
+            "258.77%/323.21%",
+            "279.70%/349.36%",
+            "300.63%/375.50%",
+            "323.46%/404.02%",
+            "346.29%/432.54%",
+            "369.12%/461.06%",
+            "391.96%/489.57%",
+            "414.79%/518.09%",
+            "437.62%/546.61%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Masatsu Zetsugi: Akaushi Burst!",
+      "info": "Hurls Ushi, the young akaushi bull and auxiliary member of the Arataki Gang, dealing Geo DMG to opponents on hit. When Ushi hits opponents, Arataki Itto gains 1 stack of Superlative Superstrength.\n\nUshi will remain on the field and provide support in the following ways:\n· Taunts surrounding opponents and draws their attacks.\n· Inherits HP based on a percentage of Arataki Itto's Max HP.\n· When Ushi takes DMG, Arataki Itto gains 1 stack of Superlative Superstrength. Only 1 stack can be gained in this way every 2s.\n· Ushi will flee when its HP reaches 0 or its duration ends. It will grant Arataki Itto 1 stack of Superlative Superstrength when it leaves.\n\n**Hold**\nAdjust throwing angle.\n\nUshi is considered a Geo construct. Arataki Itto can only deploy 1 Ushi on the field at any one time.",
+      "description": "The name of this technique is derived from Onibudou (a light novel series written by Junkichi). However, calling it \"Onisatsu Zetsugi\" probably constitutes copyright infringement — not to mention how Itto himself is an oni and all...",
+      "attributes": [
+        {
+          "name": "Skill DMG",
+          "parameters": [
+            "307.20%",
+            "330.24%",
+            "353.28%",
+            "384.00%",
+            "407.04%",
+            "430.08%",
+            "460.80%",
+            "491.52%",
+            "522.24%",
+            "552.96%",
+            "583.68%",
+            "614.40%",
+            "652.80%",
+            "691.20%",
+            "729.60%"
+          ]
+        },
+        {
+          "name": "Inherited HP",
+          "parameters": [
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%"
+          ]
+        },
+        {
+          "name": "Duration",
+          "parameters": [
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Royal Descent: Behold, Itto the Evil!",
+      "info": "Time to show 'em the might of the Arataki Gang! For a time, Itto lets out his inner Raging Oni King, wielding his Oni King's Kanabou in battle.\nThis state has the following special properties:\n· Converts Itto's Normal, Charged, and Plunging Attacks to Geo DMG. This cannot be overridden.\n· Increases Itto's Normal Attack SPD. Also increases his ATK based on his DEF.\n· On hit, the 1st and 3rd strikes of his attack combo will each grant Arataki Itto 1 stack of Superlative Superstrength.\n· Decreases Itto's Elemental and Physical RES by 20%.\n\nThe Raging Oni King state will be cleared when Itto leaves the field.",
+      "description": "This is the pinnacle technique of the ultimate fighting style (according to Itto). It would be pointless for Arataki Itto to reference any other fighting styles to improve his own, for he, and no other, is the strongest, most terrible oni in the land.\nShouta thinks it looks really cool.",
+      "attributes": [
+        {
+          "name": "ATK Bonus",
+          "parameters": [
+            "57.60% DEF",
+            "61.92% DEF",
+            "66.24% DEF",
+            "72.00% DEF",
+            "76.32% DEF",
+            "80.64% DEF",
+            "86.40% DEF",
+            "92.16% DEF",
+            "97.92% DEF",
+            "103.68% DEF",
+            "109.44% DEF",
+            "115.20% DEF",
+            "122.40% DEF",
+            "129.60% DEF",
+            "136.80% DEF"
+          ]
+        },
+        {
+          "name": "ATK SPD Bonus",
+          "parameters": [
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%"
+          ]
+        },
+        {
+          "name": "Duration",
+          "parameters": [
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s"
+          ]
+        },
+        {
+          "name": "Energy Cost",
+          "parameters": [
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Arataki Ichiban",
+      "info": "When Arataki Itto uses consecutive Arataki Kesagiri, he obtains the following effects:\n· Each slash increases the ATK SPD of the next slash by 10%. Max ATK SPD increase is 30%.\n· Increases his resistance to interruption.\n\nThese effects will be cleared once he stops performing consecutive slashes."
+    },
+    "passive2": {
+      "name": "Bloodline of the Crimson Oni",
+      "info": "Arataki Kesagiri DMG is increased by 35% of Arataki Itto's DEF."
+    },
+    "passive3": {
+      "name": "Woodchuck Chucked",
+      "info": "When a party member uses attacks to obtain wood from a tree, they have a 25% chance to get an additional log of wood."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of Elegance",
+          "count": 3
+        },
+        {
+          "name": "Slime Condensate",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to Elegance",
+          "count": 2
+        },
+        {
+          "name": "Slime Secretions",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to Elegance",
+          "count": 4
+        },
+        {
+          "name": "Slime Secretions",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to Elegance",
+          "count": 6
+        },
+        {
+          "name": "Slime Secretions",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to Elegance",
+          "count": 9
+        },
+        {
+          "name": "Slime Secretions",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of Elegance",
+          "count": 4
+        },
+        {
+          "name": "Slime Concentrate",
+          "count": 4
+        },
+        {
+          "name": "Ashen Heart",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of Elegance",
+          "count": 6
+        },
+        {
+          "name": "Slime Concentrate",
+          "count": 6
+        },
+        {
+          "name": "Ashen Heart",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of Elegance",
+          "count": 12
+        },
+        {
+          "name": "Slime Concentrate",
+          "count": 9
+        },
+        {
+          "name": "Ashen Heart",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of Elegance",
+          "count": 16
+        },
+        {
+          "name": "Slime Concentrate",
+          "count": 12
+        },
+        {
+          "name": "Ashen Heart",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Itto_01",
+      "combat3": "Skill_E_Itto_01_HD",
+      "passive1": "UI_Talent_S_Itto_05",
+      "passive2": "UI_Talent_S_Itto_06",
+      "passive3": "UI_Talent_S_Itto_07"
+    },
+    "version": "2.3"
+  }
+}

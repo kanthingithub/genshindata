@@ -1,0 +1,23 @@
+{
+  "name": "混沌迴路",
+  "description": "來自不再活動的古代遺蹟構裝體。曾經是驅使它行動的邏輯迴路。其中蘊含的偉大技術，如今已經無人可解。",
+  "sortorder": 1742,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培養素材",
+  "source": [
+    "合成獲得",
+    "40級以上遺蹟守衛掉落",
+    "40級以上遺蹟獵者掉落",
+    "星塵兌換"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Circuit.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Item_Chaos_Circuit.png",
+    "nameicon": "UI_ItemIcon_112024"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chaos_Circuit"
+  },
+  "version": ""
+}

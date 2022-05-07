@@ -1,0 +1,322 @@
+{
+  "name": "Sphäre des Segens: Feuer der Läuterung",
+  "region": "Mondstadt",
+  "domainEntrance": "Mittsommerhof",
+  "domainType": "Artefakt",
+  "description": "In diesem antiken Altar des Segens haben sich viele Monster versammelt, deren Schwäche die Pyro-Kraft ist.\nWenn du die Prüfung darin bestehst, wirst du womöglich wertvolle Artefakte finden.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_1"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Sphäre des Segens: Feuer der Läuterung I",
+      "recommendedLevel": 34,
+      "recommendedElements": [
+        "Pyro"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1525
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 15
+        },
+        {
+          "name": "Abenteurer",
+          "rarity": "2"
+        },
+        {
+          "name": "Fernweh",
+          "rarity": "3"
+        },
+        {
+          "name": "Abenteurer",
+          "rarity": "3"
+        }
+      ],
+      "disorder": [
+        "Beim Auftreten der Reaktion Schmelzen werden Energiestöße verteilt, die den Gegnern in der Umgebung Schaden zufügen."
+      ],
+      "monsterlist": [
+        "Kryo-Schleim",
+        "Großer Kryo-Schleim",
+        "Großer Hydro-Schleim",
+        "Hilichurl mit Holzschild",
+        "Kryo-Abgrundmagier"
+      ]
+    },
+    {
+      "name": "Sphäre des Segens: Feuer der Läuterung II",
+      "recommendedLevel": 47,
+      "recommendedElements": [
+        "Pyro"
+      ],
+      "unlockRank": 25,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1700
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 15
+        },
+        {
+          "name": "Abenteurer",
+          "rarity": "2"
+        },
+        {
+          "name": "Fernweh",
+          "rarity": "3"
+        },
+        {
+          "name": "Abenteurer",
+          "rarity": "3"
+        }
+      ],
+      "disorder": [
+        "Beim Auftreten der Reaktion Überladen werden Energiestöße verteilt, die den Gegnern in der Umgebung Schaden zufügen.",
+        "Beim Auftreten der Reaktion Supraleiter erleidet die Figur einen hochenergetischen Schlag und somit Schaden."
+      ],
+      "monsterlist": [
+        "Elektro-Schleim",
+        "Großer Elektro-Schleim",
+        "Mutierter Elektro-Schleim",
+        "Fatui – Elektro-Cicin-Zauberin"
+      ]
+    },
+    {
+      "name": "Sphäre des Segens: Feuer der Läuterung III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Pyro"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 15
+        },
+        {
+          "name": "Fernweh",
+          "rarity": "3"
+        },
+        {
+          "name": "Abenteurer",
+          "rarity": "3"
+        },
+        {
+          "name": "Donnernder Zorn",
+          "rarity": "4"
+        },
+        {
+          "name": "Donner beruhigender Weiser",
+          "rarity": "4"
+        },
+        {
+          "name": "Fernweh",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Beim Auftreten der Reaktion Schmelzen werden Energiestöße verteilt, die den Gegnern in der Umgebung Schaden zufügen.",
+        "Beim Auftreten der Reaktion Supraleiter erleidet die Figur einen hochenergetischen Schlag und somit Schaden."
+      ],
+      "monsterlist": [
+        "Kryo-Schleim",
+        "Großer Kryo-Schleim",
+        "Kryo-Abgrundmagier"
+      ]
+    },
+    {
+      "name": "Sphäre des Segens: Feuer der Läuterung IV",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "Pyro"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 20
+        },
+        {
+          "name": "Fernweh",
+          "rarity": "3"
+        },
+        {
+          "name": "Abenteurer",
+          "rarity": "3"
+        },
+        {
+          "name": "Donnernder Zorn",
+          "rarity": "4"
+        },
+        {
+          "name": "Donner beruhigender Weiser",
+          "rarity": "4"
+        },
+        {
+          "name": "Fernweh",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Beim Auftreten der Reaktion Verdampfen werden Energiestöße verteilt, die den Gegnern in der Umgebung Schaden zufügen.",
+        "Beim Auftreten der Reaktion Unter Strom erleidet die Figur einen hochenergetischen Schlag und somit Schaden."
+      ],
+      "monsterlist": [
+        "Hydro-Schleim",
+        "Großer Hydro-Schleim",
+        "Hydro-Samachurl",
+        "Hydro-Abgrundmagier"
+      ]
+    },
+    {
+      "name": "Sphäre des Segens: Feuer der Läuterung V",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Pyro"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 20
+        },
+        {
+          "name": "Fernweh",
+          "rarity": "3"
+        },
+        {
+          "name": "Abenteurer",
+          "rarity": "3"
+        },
+        {
+          "name": "Donnernder Zorn",
+          "rarity": "4"
+        },
+        {
+          "name": "Donner beruhigender Weiser",
+          "rarity": "4"
+        },
+        {
+          "name": "Fernweh",
+          "rarity": "4"
+        },
+        {
+          "name": "Donnernder Zorn",
+          "rarity": "5"
+        },
+        {
+          "name": "Donner beruhigender Weiser",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Beim Auftreten der Reaktion Schmelzen werden Energiestöße verteilt, die den Gegnern in der Umgebung Schaden zufügen.",
+        "Beim Auftreten der Reaktion Supraleiter erleidet die Figur einen hochenergetischen Schlag und somit Schaden."
+      ],
+      "monsterlist": [
+        "Großer Kryo-Schleim",
+        "Kryo-Abgrundmagier"
+      ]
+    },
+    {
+      "name": "Sphäre des Segens: Feuer der Läuterung VI",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "Pyro"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 20
+        },
+        {
+          "name": "Fernweh",
+          "rarity": "3"
+        },
+        {
+          "name": "Abenteurer",
+          "rarity": "3"
+        },
+        {
+          "name": "Donnernder Zorn",
+          "rarity": "4"
+        },
+        {
+          "name": "Donner beruhigender Weiser",
+          "rarity": "4"
+        },
+        {
+          "name": "Fernweh",
+          "rarity": "4"
+        },
+        {
+          "name": "Donnernder Zorn",
+          "rarity": "5"
+        },
+        {
+          "name": "Donner beruhigender Weiser",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Beim Auftreten der Reaktion Überladen werden Energiestöße verteilt, die den Gegnern in der Umgebung Schaden zufügen.",
+        "Beim Auftreten der Reaktion Supraleiter erleidet die Figur einen hochenergetischen Schlag und somit Schaden."
+      ],
+      "monsterlist": [
+        "Großer Elektro-Schleim",
+        "Mutierter Elektro-Schleim",
+        "Fatui – Elektro-Cicin-Zauberin"
+      ]
+    }
+  ]
+}

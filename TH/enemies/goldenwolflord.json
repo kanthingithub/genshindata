@@ -1,0 +1,160 @@
+{
+  "name": "Golden Wolflord",
+  "specialname": "Nameless King of the Rift",
+  "enemytype": "BOSS",
+  "category": "Abyss",
+  "description": "ผู้ปกครองกลุ่มหมาป่าดำที่มาจากต่างโลกอันแสนมืดมน มีอำนาจในการสั่งให้ฝูงหมาป่าที่ซ่อนเขี้ยวเล็บที่คมกริบละลายดินแดนเพื่อสร้างทางเดินให้มันได้\nWolflord นั้นไม่มีชื่อ เพราะมันก็เป็นเพียงสิ่งที่ \"Gold\" สร้างขึ้นโดยไม่ใส่ใจก็เท่านั้น และนั่นเป็นเหตุผลว่าทำไมมันจึงหมกมุ่นอยู่กับการบุกรุกโลกที่ไม่ได้เป็นของมัน และสร้างชื่อให้กับตัวมันเอง\nแต่ฝูงหมาป่านั้นห่างไกลจากความโง่เขลา หลังได้รับความพ่ายแพ้จากการรุกรานครั้งก่อน พวกมันได้เลือกเกาะร้างที่ไม่มีมนุษย์หรือผู้พิทักษ์อยู่ เพื่อเตรียมพร้อมสำหรับการมาถึงของ Wolflord",
+  "investigation": {
+    "name": "Golden Wolflord",
+    "category": "Boss",
+    "description": "อสูรร้ายแสนผิดเพี้ยนที่มาจากต่างโลก\\nWolflord ผู้ที่ควบคุม Riftwolf มีอำนาจในการสั่งให้ฝูง Riftwolf ละลายดินแดนได้"
+  },
+  "rewardpreview": [
+    {
+      "name": "Adventure EXP",
+      "count": 200
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Friendship EXP"
+    },
+    {
+      "name": "Prithiva Topaz Silver"
+    },
+    {
+      "name": "Prithiva Topaz Fragment"
+    },
+    {
+      "name": "Prithiva Topaz Chunk"
+    },
+    {
+      "name": "Prithiva Topaz Gemstone"
+    },
+    {
+      "name": "Riftborn Regalia",
+      "count": 2.5556
+    },
+    {
+      "name": "Instructor",
+      "rarity": "3"
+    },
+    {
+      "name": "The Exile",
+      "rarity": "3"
+    },
+    {
+      "name": "Traveling Doctor",
+      "rarity": "3"
+    },
+    {
+      "name": "Gladiator's Finale",
+      "rarity": "4"
+    },
+    {
+      "name": "Wanderer's Troupe",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "4"
+    },
+    {
+      "name": "The Exile",
+      "rarity": "4"
+    },
+    {
+      "name": "Gladiator's Finale",
+      "rarity": "5"
+    },
+    {
+      "name": "Wanderer's Troupe",
+      "rarity": "5"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Hound_Planelurker"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 881.0399843046907,
+      "attack": 203.0218535539916,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 3470.028104937868,
+      "attack": 542.4222254581946,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 10213.499572310597,
+      "attack": 1337.9997724843997,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 19019.639906194992,
+      "attack": 2185.4128586569277,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 34150.1626428226,
+      "attack": 3267.3111638450064,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 62922.38467672281,
+      "attack": 5038.618110229581,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 106307.30993484333,
+      "attack": 7095.395222401421,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 175825.15590836853,
+      "attack": 9794.857758876751,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 283639.40432211757,
+      "attack": 12602.12057727389,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 445203.44995088875,
+      "attack": 15225.098506701761,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 665520.2175113708,
+      "attack": 19697.671419797698,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 842348.7521036267,
+      "attack": 20088.777751223533,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 974323.225014478,
+      "attack": 20482.622383522103,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Gạch Cua",
+  "description": "Mỹ vị chỉ có trong cua cái. Gạch cua quý hiếm là tinh hoa của cua. Nhưng không phải ai cũng thích mùi vị này.",
+  "sortorder": 1994,
+  "category": "EXCHANGE",
+  "materialtype": "Nguyên Liệu Thực Phẩm",
+  "source": [
+    "Nhận khi gia công nấu nướng"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crab_Roe.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/25/Item_Crab_Roe.png",
+    "nameicon": "UI_ItemIcon_110007"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Crab_Roe"
+  },
+  "version": ""
+}

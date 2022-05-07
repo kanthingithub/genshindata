@@ -1,0 +1,21 @@
+{
+  "name": "Whopperflower Nectar",
+  "description": "Nektar yang diekstrak dari benang sari Whopperflower yang mengandung banyak jejak elemental.\nSepintas rasanya mirip seperti Sweet Flower.",
+  "sortorder": 1756,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Dijatuhkan oleh Whopperflower",
+    "Penukaran Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Whopperflower_Nectar.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Item_Whopperflower_Nectar.png",
+    "nameicon": "UI_ItemIcon_112038"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Whopperflower_Nectar"
+  },
+  "version": ""
+}

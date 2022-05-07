@@ -1,0 +1,20 @@
+{
+  "name": "Cecília",
+  "description": "Uma flor bonita com nome adequeado a sua aparência. Cresce apenas em locais com ventos fortes. Muito difícil de ser encontrada.",
+  "sortorder": 2038,
+  "category": "EXCHANGE",
+  "materialtype": "Especialidade de Mondstadt",
+  "source": [
+    "Encontrado na natureza",
+    "Recomendação: Encontrado em Penhascos das Estrelas"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cecilia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Cecilia.png",
+    "nameicon": "UI_ItemIcon_100023"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cecilia"
+  },
+  "version": ""
+}

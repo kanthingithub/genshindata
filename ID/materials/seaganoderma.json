@@ -1,0 +1,19 @@
+{
+  "name": "Sea Ganoderma",
+  "description": "Spesies yang hanya tumbuh di area spesial tertentu di lautan dan pulau-pulau. Sejenis jamur, tetapi sebenarnya ini adalah hasil dari sekresi dan perkembangbiakan organisme makhluk tertentu yang lunak.",
+  "sortorder": 2065,
+  "category": "EXCHANGE",
+  "materialtype": "Produk Khas Inazuma",
+  "source": [
+    "Ditemukan di perairan Inazuma"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sea_Ganoderma.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Item_Sea_Ganoderma.png",
+    "nameicon": "UI_ItemIcon_101206"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sea_Ganoderma"
+  },
+  "version": ""
+}

@@ -1,0 +1,854 @@
+{
+  "name": "Albedo",
+  "fullname": "Albedo",
+  "title": "Kreideprinz",
+  "description": "Der Hauptalchimist des Ordo Favonius und gleichzeitig der Anführer der Ermittlungstruppe. Er ist wahrhaft ein Genie und wird als der „Kreideprinz“ bezeichnet.",
+  "rarity": "5",
+  "element": "Geo",
+  "weapontype": "Einhänder",
+  "substat": "Geo-SCH-Bonus",
+  "gender": "Männlich",
+  "body": "BOY",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Ordo Favonius",
+  "birthdaymmdd": "9/13",
+  "birthday": "13. September",
+  "constellation": "Princeps Cretaceus",
+  "cv": {
+    "english": "Khoi Dao",
+    "chinese": "Mace",
+    "japanese": "野島健児",
+    "korean": "Kim Myeong-joon"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Prithiva-Topas-Splitter",
+        "count": 1
+      },
+      {
+        "name": "Cecilia",
+        "count": 3
+      },
+      {
+        "name": "Leitende Schriftrolle",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Prithiva-Topas-Bruchstück",
+        "count": 3
+      },
+      {
+        "name": "Steinturm",
+        "count": 2
+      },
+      {
+        "name": "Cecilia",
+        "count": 10
+      },
+      {
+        "name": "Leitende Schriftrolle",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Prithiva-Topas-Bruchstück",
+        "count": 6
+      },
+      {
+        "name": "Steinturm",
+        "count": 4
+      },
+      {
+        "name": "Cecilia",
+        "count": 20
+      },
+      {
+        "name": "Zaubersiegel-Schriftrolle",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Prithiva-Topas-Brocken",
+        "count": 3
+      },
+      {
+        "name": "Steinturm",
+        "count": 8
+      },
+      {
+        "name": "Cecilia",
+        "count": 30
+      },
+      {
+        "name": "Zaubersiegel-Schriftrolle",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Prithiva-Topas-Brocken",
+        "count": 6
+      },
+      {
+        "name": "Steinturm",
+        "count": 12
+      },
+      {
+        "name": "Cecilia",
+        "count": 45
+      },
+      {
+        "name": "Fluchschriftrolle",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Prithiva-Topas",
+        "count": 6
+      },
+      {
+        "name": "Steinturm",
+        "count": 20
+      },
+      {
+        "name": "Cecilia",
+        "count": 60
+      },
+      {
+        "name": "Fluchschriftrolle",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Character_Albedo_Card.png",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Character_Albedo_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Albedo.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201216/2020121611204969580.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201216/2020121611271023422.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/94dd9e0cc9d8311e58887a45b9b14861.png",
+    "nameicon": "UI_AvatarIcon_Albedo",
+    "nameiconcard": "UI_AvatarIcon_Albedo_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Albedo",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Albedo",
+    "namesideicon": "UI_AvatarIcon_Side_Albedo"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Albedo"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1029.5855712890625,
+      "attack": 19.551000595092773,
+      "defense": 68.2061996459961,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2670.7450760040956,
+      "attack": 50.71529752007109,
+      "defense": 176.92688877664295,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3553.5216262970644,
+      "attack": 67.47728711357695,
+      "defense": 235.40888722024647,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5317.201770792366,
+      "attack": 100.96815228897867,
+      "defense": 352.24611124672083,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5944.437793741585,
+      "attack": 112.87798810440836,
+      "defense": 393.7991164652267,
+      "specialized": 0.07199999690055847
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6839.14761198865,
+      "attack": 129.86780680115135,
+      "defense": 453.07030109555126,
+      "specialized": 0.07199999690055847
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7675.462187183963,
+      "attack": 145.74758661682517,
+      "defense": 508.47429279477,
+      "specialized": 0.14399999380111694
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8579.438094904996,
+      "attack": 162.91336088819116,
+      "defense": 568.3593212533524,
+      "specialized": 0.14399999380111694
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9206.67417888937,
+      "attack": 174.82319670362085,
+      "defense": 609.9123302865555,
+      "specialized": 0.14399999380111694
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 10118.887156081328,
+      "attack": 192.14538628870014,
+      "defense": 670.3430338405342,
+      "specialized": 0.14399999380111694
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10746.122995925078,
+      "attack": 204.05522210412983,
+      "defense": 711.8960276149483,
+      "specialized": 0.2160000056028366
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11668.631573538703,
+      "attack": 221.5729168473854,
+      "defense": 773.0087762532967,
+      "specialized": 0.2160000056028366
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12295.867657523078,
+      "attack": 233.48275266281507,
+      "defense": 814.5617700277107,
+      "specialized": 0.2879999876022339
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 13225.583793659927,
+      "attack": 251.13731313623066,
+      "defense": 876.1519925053435,
+      "specialized": 0.2879999876022339
+    }
+  },
+  "version": "1.2",
+  "constellations": {
+    "c1": {
+      "name": "Blume von Eden",
+      "effect": "Stellt Albedo beim Erblühen der Blüte der Vergänglichkeit von **Chemische Evolution – Sonnennachbildung** 1,2 Punkte Elementarenergie wieder her."
+    },
+    "c2": {
+      "name": "Zeit des Lebens",
+      "effect": "Verleiht Albedo beim Erblühen der Blüte der Vergänglichkeit von **Chemische Evolution – Sonnennachbildung** 30 s lang den Effekt Tödliche Abrechnung:\n· Beendet den Effekt von Tödliche Abrechnung bei Anwendung von **Fortpflanzung – Tektonische Welle** und erhöht den Explosionsschaden von Fortpflanzung – Tektonische Welle sowie den von Blüten der Sterblichkeit gemäß den Stapelungen des beendeten Effekts.\n· Erhöht den Schaden in Höhe von 30 % von Albedos VTD pro Stapelung von Tödliche Abrechnung.\n· 4-fach stapelbar."
+    },
+    "c3": {
+      "name": "Sonnenkranz",
+      "effect": "Erhöht die Stufe der Fähigkeit **Chemische Evolution – Sonnennachbildung** um 3.\nHöchststufe 15."
+    },
+    "c4": {
+      "name": "Gefallene Gottheit",
+      "effect": "Erhöht den Schaden von Angriffen aus dem Fall von aktuellen Figuren in der Truppe innerhalb des Wirkungsbereichs der Sonnennachbildung um 30 %."
+    },
+    "c5": {
+      "name": "Gezeiten der Unterwelt",
+      "effect": "Erhöht die Stufe der Fähigkeit **Fortpflanzung – Tektonische Welle** um 3.\nHöchststufe 15."
+    },
+    "c6": {
+      "name": "Reine Erde",
+      "effect": "Erhöht den Schaden von aktuellen Figuren in der Truppe im Schutz von durch Kristallisation entstandenen Schilden innerhalb des Wirkungsbereichs der Sonnennachbildung um 17 %."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Albedo_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Albedo_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Albedo_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Albedo_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Albedo_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Albedo_04.png",
+      "constellation": "Eff_UI_Talent_Albedo"
+    },
+    "version": "1.2"
+  },
+  "talent": {
+    "name": "Albedo",
+    "combat1": {
+      "name": "Standardangriff: Favonius-Schwertkunst – Weiß",
+      "info": "**Standardangriff**\nFührt bis zu 5 Schwerthiebe hintereinander aus.\n\n**Heftiger Schlag**\nVerbraucht eine gewisse Menge Ausdauer und schwingt das Schwert zweimal schnell nach vorn.\n\n**Angriff aus dem Fall**\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "attributes": [
+        {
+          "name": "SCH Phase 1",
+          "parameters": [
+            "36.74%",
+            "39.73%",
+            "42.72%",
+            "46.99%",
+            "49.98%",
+            "53.40%",
+            "58.10%",
+            "62.80%",
+            "67.50%",
+            "72.62%",
+            "78.50%",
+            "85.41%",
+            "92.31%",
+            "99.22%",
+            "106.76%"
+          ]
+        },
+        {
+          "name": "SCH Phase 2",
+          "parameters": [
+            "36.74%",
+            "39.73%",
+            "42.72%",
+            "46.99%",
+            "49.98%",
+            "53.40%",
+            "58.10%",
+            "62.80%",
+            "67.50%",
+            "72.62%",
+            "78.50%",
+            "85.41%",
+            "92.31%",
+            "99.22%",
+            "106.76%"
+          ]
+        },
+        {
+          "name": "SCH Phase 3",
+          "parameters": [
+            "47.45%",
+            "51.32%",
+            "55.18%",
+            "60.70%",
+            "64.56%",
+            "68.98%",
+            "75.04%",
+            "81.11%",
+            "87.18%",
+            "93.81%",
+            "101.39%",
+            "110.32%",
+            "119.24%",
+            "128.16%",
+            "137.89%"
+          ]
+        },
+        {
+          "name": "SCH Phase 4",
+          "parameters": [
+            "49.75%",
+            "53.80%",
+            "57.85%",
+            "63.63%",
+            "67.68%",
+            "72.31%",
+            "78.68%",
+            "85.04%",
+            "91.40%",
+            "98.34%",
+            "106.30%",
+            "115.65%",
+            "125.01%",
+            "134.36%",
+            "144.57%"
+          ]
+        },
+        {
+          "name": "SCH Phase 5",
+          "parameters": [
+            "62.07%",
+            "67.13%",
+            "72.18%",
+            "79.40%",
+            "84.45%",
+            "90.22%",
+            "98.16%",
+            "106.10%",
+            "114.04%",
+            "122.70%",
+            "132.63%",
+            "144.30%",
+            "155.97%",
+            "167.64%",
+            "180.38%"
+          ]
+        },
+        {
+          "name": "SCH heftiger Schläge",
+          "parameters": [
+            "47.30% + 60.20%",
+            "51.15% + 65.10%",
+            "55.00% + 70.00%",
+            "60.50% + 77.00%",
+            "64.35% + 81.90%",
+            "68.75% + 87.50%",
+            "74.80% + 95.20%",
+            "80.85% + 102.90%",
+            "86.90% + 110.60%",
+            "93.50% + 119.00%",
+            "101.06% + 128.62%",
+            "109.96% + 139.94%",
+            "118.85% + 151.26%",
+            "127.74% + 162.58%",
+            "137.44% + 174.93%"
+          ]
+        },
+        {
+          "name": "Ausdauerverbrauch heftiger Schläge",
+          "parameters": [
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen aus niedriger/großer Höhe",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Chemische Evolution – Sonnennachbildung",
+      "info": "Schafft eine nachgebildete Sonne und verursacht Geo-Flächenschaden.\n\n**Sonnennachbildung**\nMerkmale:\n· Erschafft eine Blüte der Vergänglichkeit, wenn Gegner im Wirkungsbereich der Sonnennachbildung Schaden erleiden, die beim Erblühen Geo-Flächenschaden verursacht. Der Schaden basiert auf Albedos VTD.\n· 2 s Abklingzeit für Blüte der Vergänglichkeit.\n· Konzentriert die Geo-Kraft, wenn sich die Figur auf der Sonnennachbildung befindet, und erstellt eine Kristallplattform, die die Figur in die Höhe hebt. Zu einem Zeitpunkt kann es nur eine Kristallplattform geben.\n· Zu einem Zeitpunkt kann nur eine von Albedo selbst erschaffene Sonnennachbildung existieren. Sie gilt als Geo-Objekt.\n\n**Gedrückt halten**\nWirkungsbereich der Fähigkeit kann angepasst werden.",
+      "description": "Diese steinerne Blume hat ganz besondere Eigenschaften, die dem Zweck der Alchimie entsprechen. Sie entsteht in der Erde und strebt dennoch nach oben, um schließlich im Himmel zu einer Sonne zu werden.",
+      "attributes": [
+        {
+          "name": "Fähigkeits-SCH",
+          "parameters": [
+            "130.40%",
+            "140.18%",
+            "149.96%",
+            "163.00%",
+            "172.78%",
+            "182.56%",
+            "195.60%",
+            "208.64%",
+            "221.68%",
+            "234.72%",
+            "247.76%",
+            "260.80%",
+            "277.10%",
+            "293.40%",
+            "309.70%"
+          ]
+        },
+        {
+          "name": "SCH der Blüte der Vergänglichkeit",
+          "parameters": [
+            "133.60% VTD",
+            "143.62% VTD",
+            "153.64% VTD",
+            "167.00% VTD",
+            "177.02% VTD",
+            "187.04% VTD",
+            "200.40% VTD",
+            "213.76% VTD",
+            "227.12% VTD",
+            "240.48% VTD",
+            "253.84% VTD",
+            "267.20% VTD",
+            "283.90% VTD",
+            "300.60% VTD",
+            "317.30% VTD"
+          ]
+        },
+        {
+          "name": "Dauer",
+          "parameters": [
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s"
+          ]
+        },
+        {
+          "name": "Abklingzeit der Fähigkeit",
+          "parameters": [
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Fortpflanzung – Tektonische Welle",
+      "info": "Geo-Kristalle rasen auf Albedos Befehl nach vorn und verursachen vor Albedo Geo-Flächenschaden.\nErschafft, wenn eine Sonnennachbildung von Albedo existiert, 7 Blüten der Sterblichkeit im Wirkungsbereich der Sonnennachbildung, die wild erblühen und Geo-Flächenschaden verursachen.\n\nDer vor Albedo entstehende Schaden sowie der Schaden der Blüten der Sterblichkeit führen nicht zur Schaffung von Blüten der Vergänglichkeit.",
+      "description": "Unter Führung des Kreideprinzen bewegt sich die Erde nach seinem Willen.",
+      "attributes": [
+        {
+          "name": "Spezialfähigkeits-SCH",
+          "parameters": [
+            "367.20%",
+            "394.74%",
+            "422.28%",
+            "459.00%",
+            "486.54%",
+            "514.08%",
+            "550.80%",
+            "587.52%",
+            "624.24%",
+            "660.96%",
+            "697.68%",
+            "734.40%",
+            "780.30%",
+            "826.20%",
+            "872.10%"
+          ]
+        },
+        {
+          "name": "SCH von Blüten der Sterblichkeit",
+          "parameters": [
+            "72.00% pro Blüte",
+            "77.40% pro Blüte",
+            "82.80% pro Blüte",
+            "90.00% pro Blüte",
+            "95.40% pro Blüte",
+            "100.80% pro Blüte",
+            "108.00% pro Blüte",
+            "115.20% pro Blüte",
+            "122.40% pro Blüte",
+            "129.60% pro Blüte",
+            "136.80% pro Blüte",
+            "144.00% pro Blüte",
+            "153.00% pro Blüte",
+            "162.00% pro Blüte",
+            "171.00% pro Blüte"
+          ]
+        },
+        {
+          "name": "Abklingzeit",
+          "parameters": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        },
+        {
+          "name": "Elementarenergie",
+          "parameters": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Kreideweiße Macht",
+      "info": "Erhöht den Gegnern mit weniger als 50 % LP mit Blüten der Vergänglichkeit von **Chemische Evolution – Sonnennachbildung** zugefügten Schaden um 25 %."
+    },
+    "passive2": {
+      "name": "Weisheit aus der Flasche",
+      "info": "Erhöht die Elementarkunde der Truppenmitglieder in der Nähe bei Anwendung von **Fortpflanzung – Tektonische Welle** 10 s lang um 125 Punkte."
+    },
+    "passive3": {
+      "name": "Geburt eines Genies",
+      "info": "Stellt beim Zusammensetzen von Material zum Aufstieg von Waffen mit einer Wahrscheinlichkeit von 10 % den 2-fachen Ertrag her."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Lehren der „Poesie“",
+          "count": 3
+        },
+        {
+          "name": "Leitende Schriftrolle",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Anleitung zur „Poesie“",
+          "count": 2
+        },
+        {
+          "name": "Zaubersiegel-Schriftrolle",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Anleitung zur „Poesie“",
+          "count": 4
+        },
+        {
+          "name": "Zaubersiegel-Schriftrolle",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Anleitung zur „Poesie“",
+          "count": 6
+        },
+        {
+          "name": "Zaubersiegel-Schriftrolle",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Anleitung zur „Poesie“",
+          "count": 9
+        },
+        {
+          "name": "Zaubersiegel-Schriftrolle",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie der „Poesie“",
+          "count": 4
+        },
+        {
+          "name": "Fluchschriftrolle",
+          "count": 4
+        },
+        {
+          "name": "Hauer des Monoceros Caeli",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie der „Poesie“",
+          "count": 6
+        },
+        {
+          "name": "Fluchschriftrolle",
+          "count": 6
+        },
+        {
+          "name": "Hauer des Monoceros Caeli",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie der „Poesie“",
+          "count": 12
+        },
+        {
+          "name": "Fluchschriftrolle",
+          "count": 9
+        },
+        {
+          "name": "Hauer des Monoceros Caeli",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie der „Poesie“",
+          "count": 16
+        },
+        {
+          "name": "Fluchschriftrolle",
+          "count": 12
+        },
+        {
+          "name": "Hauer des Monoceros Caeli",
+          "count": 2
+        },
+        {
+          "name": "Krone der Weisheit",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_01",
+      "combat2": "Skill_S_Albedo_01",
+      "combat3": "Skill_E_Albedo_01_HD",
+      "passive1": "UI_Talent_S_Albedo_05",
+      "passive2": "UI_Talent_S_Albedo_06",
+      "passive3": "UI_Talent_Combine_Weapon_Double"
+    },
+    "version": "1.2"
+  }
+}

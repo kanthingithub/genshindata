@@ -1,0 +1,172 @@
+{
+  "name": "Domain of Forgery: Thundercloud Altar",
+  "region": "Liyue",
+  "domainEntrance": "Hidden Palace of Lianshan Formula",
+  "domainType": "Weapon Ascension Materials",
+  "description": "Massive Electro energy is coursing through this thundering ancient sacrificial altar.\nThe dispersed Electro elements constantly dispel Energy.\nYou shall earn Weapon Ascension Materials, if — and only if — you can pass the trial.",
+  "daysOfWeek": [
+    "Monday",
+    "Thursday",
+    "Sunday"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Thunder"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domain of Forgery: Thundercloud Altar I",
+      "recommendedLevel": 15,
+      "recommendedElements": [
+        "Pyro",
+        "Cryo"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1125
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 10
+        },
+        {
+          "name": "Luminous Sands from Guyun"
+        }
+      ],
+      "disorder": [
+        "Your character will be periodically inflicted with Engulfing Storm, continuously draining your Energy until the inflicted Electro element is removed."
+      ],
+      "monsterlist": [
+        "Electro Slime",
+        "Large Electro Slime",
+        "Mutant Electro Slime"
+      ]
+    },
+    {
+      "name": "Domain of Forgery: Thundercloud Altar II",
+      "recommendedLevel": 36,
+      "recommendedElements": [
+        "Pyro",
+        "Cryo"
+      ],
+      "unlockRank": 21,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1550
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 15
+        },
+        {
+          "name": "Luminous Sands from Guyun"
+        },
+        {
+          "name": "Lustrous Stone from Guyun"
+        }
+      ],
+      "disorder": [
+        "Your character will be periodically inflicted with Engulfing Storm, continuously draining your Energy until the inflicted Electro element is removed."
+      ],
+      "monsterlist": [
+        "Electro Slime",
+        "Large Electro Slime",
+        "Mutant Electro Slime"
+      ]
+    },
+    {
+      "name": "Domain of Forgery: Thundercloud Altar III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Pyro",
+        "Cryo"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 15
+        },
+        {
+          "name": "Luminous Sands from Guyun"
+        },
+        {
+          "name": "Lustrous Stone from Guyun"
+        },
+        {
+          "name": "Relic from Guyun"
+        }
+      ],
+      "disorder": [
+        "Your character will be periodically inflicted with Engulfing Storm, continuously draining your Energy until the inflicted Electro element is removed. Lightning bolts will periodically fall from above, dealing Electro DMG and completely draining the hit character's Energy. Lightning bolts may leave ball lightning."
+      ],
+      "monsterlist": [
+        "Large Electro Slime",
+        "Mutant Electro Slime",
+        "Fatui Electro Cicin Mage"
+      ]
+    },
+    {
+      "name": "Domain of Forgery: Thundercloud Altar IV",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Pyro",
+        "Cryo"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 20
+        },
+        {
+          "name": "Luminous Sands from Guyun"
+        },
+        {
+          "name": "Lustrous Stone from Guyun"
+        },
+        {
+          "name": "Relic from Guyun"
+        },
+        {
+          "name": "Divine Body from Guyun"
+        }
+      ],
+      "disorder": [
+        "Your character will be periodically inflicted with Engulfing Storm, continuously draining your Energy until the inflicted Electro element is removed. Lightning bolts will periodically fall from above, dealing Electro DMG and completely draining the hit character's Energy. Lightning bolts may leave ball lightning."
+      ],
+      "monsterlist": [
+        "Large Electro Slime",
+        "Mutant Electro Slime",
+        "Fatui Electro Cicin Mage"
+      ]
+    }
+  ]
+}

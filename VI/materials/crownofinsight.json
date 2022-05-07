@@ -1,0 +1,20 @@
+{
+  "name": "Vương Miện Trí Thức",
+  "description": "Nguyên liệu quý để tăng thiên phú.\nDụng cụ nghi thức dùng để chứa và truyền thụ tri thức ở thời viễn cổ. Cho dù ngày nay, trí tuệ đã được truyền thụ lại trong ngôn ngữ và điển tịch, nhưng sức mạnh và trí tuệ tàn dư trong \"Vương Miện Trí Thức\" vẫn mang đến cho con người thời nay những đột phá vô cùng vĩ đại.",
+  "sortorder": 2182,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Thiên Phú",
+  "source": [
+    "Thưởng Hoạt Động Hạn Giờ"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crown_of_Insight.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Item_Crown_of_Insight.png",
+    "nameicon": "UI_ItemIcon_104319"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Crown_of_Insight"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Mist Flower Corolla",
+  "description": "ดอกไม้ที่ถูกห้อมล้อมด้วยน้ำแข็ง แม้จะถูกเด็ดออกมาแล้วก็ยังสามารถปลดปล่อยความเย็นได้อยู่ดี",
+  "sortorder": 1968,
+  "category": "EXCHANGE",
+  "materialtype": "วัสดุ",
+  "source": [
+    "พบได้ในโลกกว้าง",
+    "คำแนะนำ: หาได้ที่ Dawn Winery"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Flower_Corolla.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Item_Mist_Flower_Corolla.png",
+    "nameicon": "UI_ItemIcon_100052"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Flower_Corolla"
+  },
+  "version": ""
+}

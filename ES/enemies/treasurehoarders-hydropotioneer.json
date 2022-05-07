@@ -1,0 +1,113 @@
+{
+  "name": "Ladrón de Tesoros - Maestro de Pociones Hydro",
+  "specialname": "Cazafortunas",
+  "enemytype": "COMMON",
+  "category": "Humanos",
+  "description": "Un miembro de un grupo poco organizado que ha llegado a todos los rincones del continente, incluso a dominios desconocidos.\nSe dice que, antes de unirse a los Ladrones de Tesoros, algunos de estos Maestros de Pociones eran estafadores que iban vendiendo sus “pociones” y su “agua bendita” por las aldeas. Estos mejunjes parecen dar un mejor resultado en el campo de batalla...",
+  "investigation": {
+    "name": "Ladrón de Tesoros",
+    "category": "Normal",
+    "description": "Una organización informal de ladrones cuyas huellas llegan a todos los rincones del continente, incluso a los dominios desconocidos.\\nAunque su objetivo principal es reunir tesoros, en ocasiones también se deshacen de la gente que atestigua sus robos.\\nSe dice que su fundador, Reed Miller, definió a los Ladrones de Tesoros como “una organización para ayudarse mutuamente”..."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Insignia de cuervo de bronce",
+      "count": 1.2606
+    },
+    {
+      "name": "Insignia de cuervo plateada",
+      "count": 0.3362
+    },
+    {
+      "name": "Insignia de cuervo dorada",
+      "count": 0.084
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Thoarder_Male_Chemist_Water_01"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 116.66719108994585,
+      "attack": 40.60437071079832,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 458.56649378170914,
+      "attack": 108.48444509163892,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 1416.3200269102526,
+      "attack": 267.59995449687995,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 2356.480563964069,
+      "attack": 437.08257173138554,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 4311.759217249346,
+      "attack": 653.4622327690013,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 7994.3749497924,
+      "attack": 1007.7236220459163,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 13410.007936344482,
+      "attack": 1419.0790444802842,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 20883.156586352852,
+      "attack": 1958.9715517753502,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 29705.16458617174,
+      "attack": 2520.424115454778,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 38966.53936779476,
+      "attack": 3045.019701340352,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 58824.19549660757,
+      "attack": 3939.5342839595396,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 85603.70345717762,
+      "attack": 4017.7555502447067,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 115178.10877895448,
+      "attack": 4096.5244767044205,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

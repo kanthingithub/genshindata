@@ -1,0 +1,24 @@
+{
+  "name": "Sergeant's Insignia",
+  "description": "ตราสัญลักษณ์ของทหารนายสิบ มีลักษณะแตกต่างออกไปจากของทหารใหม่ บางทีอาจจะมีความรู้สึกที่ซับซ้อนซ่อนอยู่",
+  "sortorder": 1751,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ได้รับจากการสรรสร้าง",
+    "ดรอปจาก Fatui Skirmisher Lv.40 ขึ้นไป",
+    "ดรอปจาก Fatui - Agent บางตัว Lv.40 ขึ้นไป",
+    "ดรอปจาก Fatui - Cicin Mage บางตัว Lv.40 ขึ้นไป",
+    "แลกเปลี่ยนด้วย Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sergeant's_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Sergeant%27s_Insignia.png",
+    "nameicon": "UI_ItemIcon_112033"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sergeant's_Insignia"
+  },
+  "version": ""
+}

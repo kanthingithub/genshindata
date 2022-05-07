@@ -1,0 +1,18 @@
+{
+  "name": "Vorbestimmtes Schicksal",
+  "description": "Ein Samen, der Hoffnung zwischen den Sternen aufblinken lässt.\nEgal wie weit Menschen voneinander entfernt sind, so wird dieser Schein den Menschen, die füreinander bestimmt sind, den Weg weisen, sodass sie sich unter dem Sternenhimmel treffen.",
+  "sortorder": 499,
+  "rarity": "5",
+  "category": "CONSUME",
+  "materialtype": "Objekt für Gebete",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_224",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Acquaint_Fate.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Item_Acquaint_Fate.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Acquaint_Fate"
+  },
+  "version": ""
+}

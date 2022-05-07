@@ -1,0 +1,26 @@
+{
+  "name": "Trozo de siderita oscura",
+  "description": "Material de ascensión de arma.\nCuando Khaenri'ah fue destruido, un gran criminal creó un sinfín de monstruos cuya sangre oscura no podía ser aceptada por este mundo. Arrasaron todas las tierras y destruyeron todo lo que encontraban a su paso. Se trataba de mutaciones creadas por poderes de más allá de este mundo. De hecho, Durin, el dragón oscuro que atacó Mondstadt en el pasado, también era una mutación.",
+  "sortorder": 2206,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de ascensión de arma",
+  "dropdomain": "Dominio de la forja: Campo de prueba del relámpago milenario",
+  "daysofweek": [
+    "Miércoles",
+    "Sábado",
+    "Domingo"
+  ],
+  "source": [
+    "Sintetizar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chunk_of_Aerosiderite.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Item_Chunk_of_Aerosiderite.png",
+    "nameicon": "UI_ItemIcon_114024"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chunk_of_Aerosiderite"
+  },
+  "version": ""
+}

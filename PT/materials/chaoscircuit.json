@@ -1,0 +1,23 @@
+{
+  "name": "Circuito do Caos",
+  "description": "Vindo de relíquias antigas que não estão mais ativas. Costumava ser o circuito lógico de funcionamento. A grande tecnologia contida é agora é um mistério para todos.",
+  "sortorder": 1742,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Obtido na síntese",
+    "Dropado por Guardas das Ruínas Nv.40+",
+    "Dropado por Caçadores das Ruínas Nv.40+",
+    "Resgate de Poeira Estrelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Circuit.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Item_Chaos_Circuit.png",
+    "nameicon": "UI_ItemIcon_112024"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chaos_Circuit"
+  },
+  "version": ""
+}

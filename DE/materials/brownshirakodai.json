@@ -1,0 +1,20 @@
+{
+  "name": "Brauner Schmetterlingsfisch",
+  "description": "Eine sanfte, elegante Schmetterlingsfisch-Variante.\nEr hat eine schöne, stromlinienförmige Rückenflosse und trägt den Spitznamen „Königin der Gewässer“. Erdfarbene Muster ziehen sich über seinen Körper und auch sein Temperament ist so beständig wie Stein. Sie können jedoch ein wenig zu weit gehen und liegen manchmal am Boden und bewegen sich keinen Zentimeter, genau wie ein Felsen, was dazu führt, dass einige Käufer denken, dass sie einen hoffnungslos todgeweihten alten Fisch gekauft haben.",
+  "sortorder": 2027,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Fisch",
+  "source": [
+    "Beim Angeln zu erhalten"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Brown_Shirakodai.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/43/Item_Brown_Shirakodai.png",
+    "nameicon": "UI_ItemIcon_131013"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Brown_Shirakodai"
+  },
+  "version": ""
+}

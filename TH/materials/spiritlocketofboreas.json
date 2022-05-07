@@ -1,0 +1,20 @@
+{
+  "name": "Spirit Locket of Boreas",
+  "description": "พลังเล็กน้อยที่ได้มาจากวิญญาณของหมาป่าแห่งลมเหนือ\nท้ายที่สุดเขาก็เข้าใจว่า ลมเหนือที่แข็งแกร่งนั้นก็ย่อมต้องมีวันหยุดลง ในตอนท้ายของชีวิตเขาจึงได้ใช้พลังที่หลงเหลืออยู่ในคุ้มครองแผ่นดินและผู้คนที่อาศัยอยู่ในแผ่นดินนี้",
+  "sortorder": 1790,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "รางวัลการท้าทาย Wolf of the North Lv. 70 ขึ้นไป"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Spirit_Locket_of_Boreas.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Item_Spirit_Locket_of_Boreas.png",
+    "nameicon": "UI_ItemIcon_113008"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Spirit_Locket_of_Boreas"
+  },
+  "version": ""
+}

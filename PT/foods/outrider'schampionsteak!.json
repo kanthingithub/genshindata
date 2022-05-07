@@ -1,0 +1,24 @@
+{
+  "name": "Bife da Aventureira Campeã!",
+  "rarity": "1",
+  "foodtype": "SPECIALTY",
+  "foodfilter": "Pratos de Regeneração",
+  "foodcategory": "Recovery_Revive",
+  "effect": "Revive um personagem e restaura 10% da Vida máxima, e então restaura um adicional de 150 de Vida.",
+  "description": "A especialidade de Amber. Um lado claramente mal-passado, e o outro lado um leve aroma de queimado. Feche os olhos e dê uma boa mordida. A Amber vai ficar feliz com isso.",
+  "basedish": "Bife",
+  "character": "Amber",
+  "ingredients": [
+    {
+      "name": "Carne Crua",
+      "count": 2
+    }
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_108010"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Outrider's_Champion_Steak!"
+  },
+  "version": "1.0"
+}

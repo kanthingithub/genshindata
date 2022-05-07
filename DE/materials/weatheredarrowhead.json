@@ -1,0 +1,21 @@
+{
+  "name": "Abgenutzte Bolzenspitze",
+  "description": "Eine alte und verdreckte Bolzenspitze. Da sie schon mehrfach verwendet worden ist, kann man sie mehr schlecht als recht als Waffe gebrauchen.\nSie steht jedoch für den Stolz der Jäger und wird von ihnen als Talisman getragen.",
+  "sortorder": 1734,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Kann hergestellt werden",
+    "Beute von Hilichurl-Schützen ab Stufe 60"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Weathered_Arrowhead.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Item_Weathered_Arrowhead.png",
+    "nameicon": "UI_ItemIcon_112013"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Weathered_Arrowhead"
+  },
+  "version": ""
+}

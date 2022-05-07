@@ -1,0 +1,23 @@
+{
+  "name": "Cuerno de bronce negro",
+  "description": "Un cuerno metálico de monstruo que se puede obtener de los Hilichurls más fuertes, ya que, para tocar este cuerno, se necesita mucha fuerza.",
+  "sortorder": 1736,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Sintetizar",
+    "Obtenido de Mitachurls (Niv. 40+)",
+    "Obtenido de Lawachurls (Niv. 40+)",
+    "Canjear Polvo estelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Black_Bronze_Horn.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/42/Item_Black_Bronze_Horn.png",
+    "nameicon": "UI_ItemIcon_112015"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Black_Bronze_Horn"
+  },
+  "version": ""
+}

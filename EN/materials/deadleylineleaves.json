@@ -1,0 +1,22 @@
+{
+  "name": "Dead Ley Line Leaves",
+  "description": "A twig from deep within the earth. Though it is far from where it once lay, its leaves still pulsate with energy.",
+  "sortorder": 1739,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Crafted",
+    "Dropped by Lv. 40+ Abyss Mages",
+    "Stardust Exchange"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dead_Ley_Line_Leaves.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Item_Dead_Ley_Line_Leaves.png",
+    "nameicon": "UI_ItemIcon_112021"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dead_Ley_Line_Leaves"
+  },
+  "version": ""
+}

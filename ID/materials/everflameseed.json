@@ -1,0 +1,20 @@
+{
+  "name": "Everflame Seed",
+  "description": "Benih yang menyulut Pyro Regisvine dengan api yang tiada habisnya. Mengeluarkan energy Pyro seolah-olah akan membakar semua yang pernah tumbuh dari tanah.\nKeinginan tanpa akhir mengalir di antara energi turbulen jauh di dalam inti bumi. Keinginan macam apa yang bisa menahan api ini agar tetap menyala pada tanaman ini, dan berusaha membakar segala sesuatu dengan api tersebut?",
+  "sortorder": 1793,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Dijatuhkan oleh Pyro Regisvine Lv. 30+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Everflame_Seed.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Item_Everflame_Seed.png",
+    "nameicon": "UI_ItemIcon_113011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Everflame_Seed"
+  },
+  "version": ""
+}

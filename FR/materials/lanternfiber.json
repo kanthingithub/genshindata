@@ -1,0 +1,20 @@
+{
+  "name": "Cellulose de lanterne",
+  "description": "Matériau de fabrication des lanternes célestes utilisé lors du Festival des lanternes.\nCette cellulose commune peut être transformée en habillage pour les lanternes, leur permettant de flotter dans les airs et d'emporter les souhaits de leurs propriétaires au loin.",
+  "sortorder": 2287,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Matériau du Festival des lanternes",
+  "source": [
+    "Collecte de plantes"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lantern_Fiber.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Item_Lantern_Fiber.png",
+    "nameicon": "UI_ItemIcon_200001"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lantern_Fiber"
+  },
+  "version": ""
+}

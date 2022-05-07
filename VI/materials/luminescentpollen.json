@@ -1,0 +1,17 @@
+{
+  "name": "Bột Huỳnh Quang",
+  "description": "Một gói nhỏ bột bào tử nấm huỳnh quang, là dược liệu phổ biến ở xứ sở rừng nhiệt đới, thường được các thương nhân gói trong túi giấy để bán.",
+  "sortorder": 1781,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Nấm Quỷ cấp 40 trở lên rơi",
+    "Ghép Nhận"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_112060",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Luminescent_Pollen.png"
+  },
+  "version": "2.6"
+}

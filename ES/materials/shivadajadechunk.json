@@ -1,0 +1,22 @@
+{
+  "name": "Trozo de jade shivada",
+  "description": "Material de ascensión de personaje.\n“Lo siento...”,\n“... por hacerles cargar a ustedes con las penas del mundo junto a mí”.",
+  "sortorder": 1844,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Obtenido de Regisvid Cryo (Niv. 60+)",
+    "Obtenido de Hipostasis Cryo (Niv. 60+)",
+    "Sintetizar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shivada_Jade_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Item_Shivada_Jade_Chunk.png",
+    "nameicon": "UI_ItemIcon_104163"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shivada_Jade_Chunk"
+  },
+  "version": ""
+}

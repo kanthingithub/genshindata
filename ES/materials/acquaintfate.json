@@ -1,0 +1,18 @@
+{
+  "name": "Encuentro del destino",
+  "description": "Una semilla que ilumina la noche.\nNo importa la distancia, guiadas por el brillo de las piedras, las personas que están destinadas a encontrarse lo harán bajo las estrellas.",
+  "sortorder": 499,
+  "rarity": "5",
+  "category": "CONSUME",
+  "materialtype": "Cupón Gachapón Normal",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_224",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Acquaint_Fate.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Item_Acquaint_Fate.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Acquaint_Fate"
+  },
+  "version": ""
+}

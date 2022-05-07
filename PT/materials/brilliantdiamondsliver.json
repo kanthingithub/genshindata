@@ -1,0 +1,20 @@
+{
+  "name": "Lasca de Diamante Brilhante",
+  "description": "Material de Avanço de Personagem. \n\"Bem-vindo ao Mundo.\"",
+  "sortorder": 1818,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Recompensas de Rank de Aventura"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Brilliant_Diamond_Sliver.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Item_Brilliant_Diamond_Sliver.png",
+    "nameicon": "UI_ItemIcon_104101"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Brilliant_Diamond_Sliver"
+  },
+  "version": ""
+}

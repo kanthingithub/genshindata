@@ -1,0 +1,26 @@
+{
+  "name": "Narukamis Freude",
+  "description": "Waffenaufstiegsmaterial.\nDiejenigen, die zur Bakufu-Verwaltung gehören, sind diejenigen, die die Macht verwalten und ausüben. In den von Monstern erfüllten Geschichten der alten Vergangenheit trugen diejenigen, denen der Shougun zutiefst vertraute, Talismane mit diesem Hakenmuster an sich, und so würden diejenigen, die ihre Gunst erhielten, sie mit Liebe und Loyalität zurückgeben. Doch nach einem bestimmten Zeitpunkt würde nichts mehr so sein, wie es vorher war.",
+  "sortorder": 2212,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zum Aufstieg von Waffen",
+  "dropdomain": "Sphäre der Kriegskunst: Altar des Sandes",
+  "daysofweek": [
+    "Dienstag",
+    "Freitag",
+    "Sonntag"
+  ],
+  "source": [
+    "Kann hergestellt werden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Narukami's_Joy.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Narukami%27s_Joy.png",
+    "nameicon": "UI_ItemIcon_114030"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Narukami's_Joy"
+  },
+  "version": ""
+}

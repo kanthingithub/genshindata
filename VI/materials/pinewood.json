@@ -1,0 +1,21 @@
+{
+  "name": "Gỗ Thông",
+  "description": "Gỗ được lấy từ \"Cây Thông\", màu sắc và vân gỗ không bắt mắt, nhưng chất liệu cứng cáp, khi qua xử lý sẽ chịu được mối mọt.\nCó thể dùng để chế tạo đồ trang trí.",
+  "sortorder": 1951,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Nguyên Liệu",
+  "source": [
+    "Thu Thập Bên Ngoài",
+    "Kiến nghị: Đốn ở Long Tích Tuyết Sơn"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Pine_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Item_Pine_Wood.png",
+    "nameicon": "UI_ItemIcon_101303"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Pine_Wood"
+  },
+  "version": ""
+}

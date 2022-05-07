@@ -1,0 +1,20 @@
+{
+  "name": "Akai maou",
+  "description": "Une épinoche au caractère faisant écho à son apparence féroce, véritable menace vermillon n'hésitant pas à attaquer n'importe quelle créature pour se nourrir. Sa peau rouge est intimement liée à l'élément Pyro, et, bien qu'elle ne puisse générer de chaleur par elle-même, elle est cependant capable de supporter des températures extrêmement élevées, et peut transformer l'énergie trouvée dans sa nourriture pour la concentrer en un seul point de manière aussi dangereuse qu'efficace. Une vraie plaie pour ses voisins aquatiques...\n« Idéal pour allumer un feu. » – « Guide de la pêche sauvage - Akai maou »",
+  "sortorder": 2023,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Poisson",
+  "source": [
+    "Pêche"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Akai_Maou.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Item_Akai_Maou.png",
+    "nameicon": "UI_ItemIcon_131009"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Akai_Maou"
+  },
+  "version": ""
+}

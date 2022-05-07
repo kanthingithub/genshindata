@@ -1,0 +1,19 @@
+{
+  "name": "Noyau cristallin",
+  "description": "Noyau d'un papillon cristallin. Il absorbe l'énergie élémentaire présente dans l'air.",
+  "sortorder": 1975,
+  "category": "EXCHANGE",
+  "materialtype": "Matériau",
+  "source": [
+    "Butin de papillon cristallin"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crystal_Core.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Item_Crystal_Core.png",
+    "nameicon": "UI_ItemIcon_100085"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Crystal_Core"
+  },
+  "version": ""
+}

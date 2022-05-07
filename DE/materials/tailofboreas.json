@@ -1,0 +1,20 @@
+{
+  "name": "Schwanz des Nordwinds",
+  "description": "Einige Schuppen vom Schwanz des großen Wolfs des Nordens.\nAuch nach dem Verlust von Leben und Form hat der Wolf des Nordens noch übermenschliche Kräfte. Seine für den Kampf aus Eis und Wind geformte Hülle kann sein ganzes Wesen nicht fassen. An den Eisschuppen haften im Kampf gefallene Seelen.",
+  "sortorder": 1788,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Belohnung für die Herausforderung des Wolfs des Nordens ab Stufe 70"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Tail_of_Boreas.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/66/Item_Tail_of_Boreas.png",
+    "nameicon": "UI_ItemIcon_113006"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Tail_of_Boreas"
+  },
+  "version": ""
+}

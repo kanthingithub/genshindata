@@ -1,0 +1,32 @@
+{
+  "name": "Beau songe",
+  "rarity": "2",
+  "foodtype": "SPECIALTY",
+  "foodfilter": "Attaque",
+  "foodcategory": "Atk_Add",
+  "effect": "Augmente l'ATQ de tous les personnages de l'équipe de 114 pts pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+  "description": "Spécialité culinaire de Xiao. Les rêves de Xiao sont simples et beaux.",
+  "basedish": "Tofu aux amandes",
+  "character": "Xiao",
+  "ingredients": [
+    {
+      "name": "Lait",
+      "count": 3
+    },
+    {
+      "name": "Sucre",
+      "count": 1
+    },
+    {
+      "name": "Amande",
+      "count": 1
+    }
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_108137"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/\"Sweet_Dream\""
+  },
+  "version": "1.3"
+}

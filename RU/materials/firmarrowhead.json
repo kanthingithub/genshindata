@@ -1,0 +1,21 @@
+{
+  "name": "Прочный наконечник стрелы",
+  "description": "Грубо изготовленный наконечник стрелы. Не сильно впечатляет, однако не стоит его недооценивать. Всё, что ему требуется, - это правильный момент.",
+  "sortorder": 1732,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Хиличурлы-стрелки",
+    "Покупается за Звёздную пыль"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Firm_Arrowhead.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_Firm_Arrowhead.png",
+    "nameicon": "UI_ItemIcon_112011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Firm_Arrowhead"
+  },
+  "version": ""
+}

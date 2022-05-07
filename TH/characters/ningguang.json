@@ -1,0 +1,754 @@
+{
+  "name": "Ningguang",
+  "fullname": "Ningguang",
+  "title": "Tianquan ผู้บดบังดวงเดือน",
+  "description": "Tianquan แห่ง Liyue Qixing ความมั่งคั่งของเธอนั้น ไม่มีผู้ใดเทียบได้ใน Teyvat",
+  "rarity": "4",
+  "element": "หิน",
+  "weapontype": "สื่อเวท",
+  "substat": "โบนัสความเสียหายหิน",
+  "gender": "ผู้หญิง",
+  "body": "LADY",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Liyue Qixing",
+  "birthdaymmdd": "8/26",
+  "birthday": "26 สิงหาคม",
+  "constellation": "Opus Aequilibrium",
+  "cv": {
+    "english": "Erin Ebers",
+    "chinese": "杜冥鸦",
+    "japanese": "大原さやか",
+    "korean": "Kwak Kyu-mi"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Prithiva Topaz Silver",
+        "count": 1
+      },
+      {
+        "name": "Glaze Lily",
+        "count": 3
+      },
+      {
+        "name": "Recruit's Insignia",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Prithiva Topaz Fragment",
+        "count": 3
+      },
+      {
+        "name": "Basalt Pillar",
+        "count": 2
+      },
+      {
+        "name": "Glaze Lily",
+        "count": 10
+      },
+      {
+        "name": "Recruit's Insignia",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Prithiva Topaz Fragment",
+        "count": 6
+      },
+      {
+        "name": "Basalt Pillar",
+        "count": 4
+      },
+      {
+        "name": "Glaze Lily",
+        "count": 20
+      },
+      {
+        "name": "Sergeant's Insignia",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Prithiva Topaz Chunk",
+        "count": 3
+      },
+      {
+        "name": "Basalt Pillar",
+        "count": 8
+      },
+      {
+        "name": "Glaze Lily",
+        "count": 30
+      },
+      {
+        "name": "Sergeant's Insignia",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Prithiva Topaz Chunk",
+        "count": 6
+      },
+      {
+        "name": "Basalt Pillar",
+        "count": 12
+      },
+      {
+        "name": "Glaze Lily",
+        "count": 45
+      },
+      {
+        "name": "Officer's Insignia",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Prithiva Topaz Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Basalt Pillar",
+        "count": 20
+      },
+      {
+        "name": "Glaze Lily",
+        "count": 60
+      },
+      {
+        "name": "Officer's Insignia",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Character_Ningguang_Card.jpg/",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Character_Ningguang_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ningguang.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ningguang.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200305/2020030519413867244.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200305/2020030519431658285.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/498b811beba3fbeb2549a5b362190d43.png",
+    "nameicon": "UI_AvatarIcon_Ningguang",
+    "nameiconcard": "UI_AvatarIcon_Ningguang_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Ningguang",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Ningguang",
+    "namesideicon": "UI_AvatarIcon_Side_Ningguang"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ningguang"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 820.6118774414062,
+      "attack": 17.808000564575195,
+      "defense": 48.069000244140625,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2108.1519178425515,
+      "attack": 45.74875355229187,
+      "defense": 123.48926190225029,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2721.1910413777077,
+      "attack": 59.0525531815033,
+      "defense": 159.3992617496624,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4076.021074166667,
+      "attack": 88.45355827545154,
+      "defense": 238.76117079240794,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4511.601457467448,
+      "attack": 97.90625889038074,
+      "defense": 264.2761701820564,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5189.427043535659,
+      "attack": 112.61567116091919,
+      "defense": 303.9811746523628,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5770.200969316909,
+      "attack": 125.21927070925904,
+      "defense": 338.0011751101265,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6448.02655538512,
+      "attack": 139.9286829797975,
+      "defense": 377.70617958043294,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6883.606999721058,
+      "attack": 149.381384548401,
+      "defense": 403.2211789700814,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7560.611642090924,
+      "attack": 164.07298161756898,
+      "defense": 442.8780950030632,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7996.191964356549,
+      "attack": 173.52567937147523,
+      "defense": 468.3931020221062,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8674.017159126524,
+      "attack": 188.2350831504973,
+      "defense": 508.09808357132715,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 9109.597725532774,
+      "attack": 197.68778471910082,
+      "defense": 533.6130829609756,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9787.423311600985,
+      "attack": 212.39719698963927,
+      "defense": 573.318087431282,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Piercing Fragments",
+      "effect": "เมื่อโจมตีปกติถูกศัตรู จะทำให้ เกิดความเสียหายวงกว้าง"
+    },
+    "c2": {
+      "name": "Shock Effect",
+      "effect": "เมื่อ **Jade Screen** สลายไป จะทำการลบล้าง ช่วงเวลาคูลดาวน์\nซึ่งเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 6 วินาที"
+    },
+    "c3": {
+      "name": "Majesty be the Array of Stars",
+      "effect": "เพิ่มเลเวลสกิลของ **Starshatter** ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ"
+    },
+    "c4": {
+      "name": "Exquisite be the Jade, Outshining All the Beneath",
+      "effect": "**Jade Screen** จะเพิ่ม ความต้านทานธาตุทั้งหมด ของตัวละครที่อยู่โดยรอบขึ้น 10%"
+    },
+    "c5": {
+      "name": "Invincible be the Jade Screen",
+      "effect": "เพิ่มเลเวลสกิลของ **Jade Screen** ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ"
+    },
+    "c6": {
+      "name": "Grandeur be the Seven Stars",
+      "effect": "เมื่อใช้ **Starshatter** จะสร้าง Star Jade ให้ Ningguang เจ็ดดวง"
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ningguang_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ningguang_05.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Ningguang_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ningguang_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Ningguang_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ningguang_04.png",
+      "constellation": "Eff_UI_Talent_Ningguang"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Ningguang",
+    "combat1": {
+      "name": "โจมตีปกติ - Sparkling Scatter",
+      "info": "**โจมตีปกติ**\nยิงอัญมณีออกมาเพื่อสร้าง ความเสียหายหิน\nเมื่อถูกเป้าหมายจะเป็นการมอบ Star Jade ให้แก่ Ningguang 1 ลูก\n\n**ชาร์จโจมตี**\nใช้พลังกายเพื่อยิงหินขนาดใหญ่ออกไป หนึ่งก้อนเพื่อสร้างความเสียหายหิน\nหาก Ningguang ครอบครอง Star Jade อยู่ เมื่อใช้ชาร์จโจมตีจะทำการปล่อย Star Jade ทั้งหมดที่มีอยู่ออกไปในทีเดียว เกิดเป็นความเสียหายเพิ่มเติม\n\n**โจมตีพุ่งลงจากอากาศ**\nรวบรวมพลังแห่งหินและกระโจนจาก กลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะเกิดเป็นความเสียหายหินวงกว้าง เมื่อลงถึงพื้น",
+      "attributes": [
+        {
+          "name": "ความเสียหายการโจมตีปกติ",
+          "parameters": [
+            "28.00%",
+            "30.10%",
+            "32.20%",
+            "35.00%",
+            "37.10%",
+            "39.20%",
+            "42.00%",
+            "44.80%",
+            "47.60%",
+            "50.40%",
+            "53.31%",
+            "57.12%",
+            "60.93%",
+            "64.74%",
+            "68.54%"
+          ]
+        },
+        {
+          "name": "ความเสียหายชาร์จโจมตี",
+          "parameters": [
+            "174.08%",
+            "187.14%",
+            "200.19%",
+            "217.60%",
+            "230.66%",
+            "243.71%",
+            "261.12%",
+            "278.53%",
+            "295.94%",
+            "313.34%",
+            "331.45%",
+            "355.12%",
+            "378.80%",
+            "402.47%",
+            "426.15%"
+          ]
+        },
+        {
+          "name": "ความเสียหาย Star Jade",
+          "parameters": [
+            "49.60% ต่ออัน",
+            "53.32% ต่ออัน",
+            "57.04% ต่ออัน",
+            "62.00% ต่ออัน",
+            "65.72% ต่ออัน",
+            "69.44% ต่ออัน",
+            "74.40% ต่ออัน",
+            "79.36% ต่ออัน",
+            "84.32% ต่ออัน",
+            "89.28% ต่ออัน",
+            "94.44% ต่ออัน",
+            "101.18% ต่ออัน",
+            "107.93% ต่ออัน",
+            "114.68% ต่ออัน",
+            "121.42% ต่ออัน"
+          ]
+        },
+        {
+          "name": "ชาร์จโจมตีใช้พลังกาย",
+          "parameters": [
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย"
+          ]
+        },
+        {
+          "name": "ความเสียหายพุ่งลง",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "ความเสียหายพุ่งถึงพื้นจากที่ต่ำ/สูง",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Jade Screen",
+      "info": "Ningguang อาศัยทองคำ, หินภูเขาไฟ และความแข็งแกร่งอันล้นเหลือของเธอ สร้าง Jade Screen ขึ้นมา และสร้างความเสียหายหินวงกว้าง\n\n**Jade Screen**\n·กันสิ่งของที่ศัตรูโยนเข้ามาใส่;\n·อัตราส่วนความทนทานจะขึ้นกับ พลังชีวิตสูงสุดของ Ningguang\n\nJade Screen จะถูกถือว่าเป็นวัตถุธาตุหิน โดยจะสามารถกันการโจมตีได้ส่วนหนึ่ง และไม่สามารถปีนได้ ซึ่งในช่วงเวลาเดียวกันจะสามารถ มีได้เพียงหนึ่งอัน",
+      "description": "กระจายไปทุกหนแห่งเฉกเช่นดวงดาวบนท้องฟ้า แล้วรวมตัวเป็นหมู่ดาว",
+      "attributes": [
+        {
+          "name": "สืบทอดพลังชีวิต",
+          "parameters": [
+            "50.10%",
+            "53.10%",
+            "56.10%",
+            "60.00%",
+            "63.00%",
+            "66.00%",
+            "69.90%",
+            "73.80%",
+            "77.70%",
+            "81.60%",
+            "85.50%",
+            "89.40%",
+            "93.30%",
+            "97.20%",
+            "101.10%"
+          ]
+        },
+        {
+          "name": "ความเสียหายสกิล",
+          "parameters": [
+            "230.40%",
+            "247.68%",
+            "264.96%",
+            "288.00%",
+            "305.28%",
+            "322.56%",
+            "345.60%",
+            "368.64%",
+            "391.68%",
+            "414.72%",
+            "437.76%",
+            "460.80%",
+            "489.60%",
+            "518.40%",
+            "547.20%"
+          ]
+        },
+        {
+          "name": "คูลดาวน์",
+          "parameters": [
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Starshatter",
+      "info": "Ningguang จะรวบรวมอัญมณีจำนวนมากจากรอบตัวขึ้นมา เพื่อปล่อยออกไปในทีเดียว ซึ่งจะพุ่งเข้าหาศัตรูโดยอัตโนมัติ เพื่อสร้างความเสียหายหินอย่างรุนแรง\nในตอนที่ใช้ Starshatter หากบริเวณใกล้เคียงมี Jade Screen อยู่ Jade Screen จะปล่อยอัญมณี ออกมาโจมตีเพิ่มเติมพร้อมกัน",
+      "description": "ดวงดาวแตกกระจายและร่วงหล่นอย่างเงียบ ๆ",
+      "attributes": [
+        {
+          "name": "ความเสียหายอัญมณี",
+          "parameters": [
+            "86.96% ของแต่ละก้อน",
+            "93.48% ของแต่ละก้อน",
+            "100.00% ของแต่ละก้อน",
+            "108.70% ของแต่ละก้อน",
+            "115.22% ของแต่ละก้อน",
+            "121.74% ของแต่ละก้อน",
+            "130.44% ของแต่ละก้อน",
+            "139.14% ของแต่ละก้อน",
+            "147.83% ของแต่ละก้อน",
+            "156.53% ของแต่ละก้อน",
+            "165.22% ของแต่ละก้อน",
+            "173.92% ของแต่ละก้อน",
+            "184.79% ของแต่ละก้อน",
+            "195.66% ของแต่ละก้อน",
+            "206.53% ของแต่ละก้อน"
+          ]
+        },
+        {
+          "name": "คูลดาวน์",
+          "parameters": [
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ"
+          ]
+        },
+        {
+          "name": "พลังงานธาตุ",
+          "parameters": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Backup Plan",
+      "info": "เมื่อมี Star Jade Ningguang จะชาร์จโจมตีโดยไม่ใช้พลังกาย"
+    },
+    "passive2": {
+      "name": "Strategic Reserve",
+      "info": "ตัวละครที่ผ่าน **Jade Screen** จะได้รับ โบนัสความเสียหายหิน เพิ่ม 12% และมีเวลาต่อเนื่อง 10 วินาที"
+    },
+    "passive3": {
+      "name": "Trove of Marvelous Treasures",
+      "info": "แสดงตำแหน่ง **สายแร่ของแร่ที่ใช้ในการหลอม** ที่อยู่รอบ ๆ ในมินิแมป"
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of Prosperity",
+          "count": 3
+        },
+        {
+          "name": "Recruit's Insignia",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to Prosperity",
+          "count": 2
+        },
+        {
+          "name": "Sergeant's Insignia",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to Prosperity",
+          "count": 4
+        },
+        {
+          "name": "Sergeant's Insignia",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to Prosperity",
+          "count": 6
+        },
+        {
+          "name": "Sergeant's Insignia",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to Prosperity",
+          "count": 9
+        },
+        {
+          "name": "Sergeant's Insignia",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of Prosperity",
+          "count": 4
+        },
+        {
+          "name": "Officer's Insignia",
+          "count": 4
+        },
+        {
+          "name": "Spirit Locket of Boreas",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of Prosperity",
+          "count": 6
+        },
+        {
+          "name": "Officer's Insignia",
+          "count": 6
+        },
+        {
+          "name": "Spirit Locket of Boreas",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of Prosperity",
+          "count": 12
+        },
+        {
+          "name": "Officer's Insignia",
+          "count": 9
+        },
+        {
+          "name": "Spirit Locket of Boreas",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of Prosperity",
+          "count": 16
+        },
+        {
+          "name": "Officer's Insignia",
+          "count": 12
+        },
+        {
+          "name": "Spirit Locket of Boreas",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_Catalyst_MD",
+      "combat2": "Skill_S_Ningguang_01",
+      "combat3": "Skill_E_Ningguang_01_HD",
+      "passive1": "UI_Talent_S_Ningguang_02",
+      "passive2": "UI_Talent_S_Ningguang_06",
+      "passive3": "UI_Talent_Collect_Ore"
+    },
+    "version": "1.0"
+  }
+}

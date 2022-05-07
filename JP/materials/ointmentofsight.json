@@ -1,0 +1,18 @@
+{
+  "name": "明目の油剤",
+  "description": "「誓いの明瞳」専用の精錬アイテム。\n特殊な深海ウナギから精製されたオイルは、かつて淵下宮の神器を輝かせるために使われた。",
+  "sortorder": 2299,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "精錬素材",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_200109",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ointment_of_Sight.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Item_Ointment_of_Sight.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ointment_of_Sight"
+  },
+  "version": ""
+}

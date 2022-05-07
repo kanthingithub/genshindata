@@ -1,0 +1,22 @@
+{
+  "name": "Pierre de jade shivada",
+  "description": "Matériau d'élévation de personnage.\n« Pardon... »\n« Je vous laisse partager la tristesse du monde entier avec moi. »\n« Puisque vous pourriez supporter mon froid glacial, vous devez avoir un fort désir au fond du cœur. »",
+  "sortorder": 1845,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Butin d'Arbre congelé (Niv.75+)",
+    "Butin d'Hypostase Cryo (Niv.75+)",
+    "Synthèse"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shivada_Jade_Gemstone.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Item_Shivada_Jade_Gemstone.png",
+    "nameicon": "UI_ItemIcon_104164"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shivada_Jade_Gemstone"
+  },
+  "version": ""
+}

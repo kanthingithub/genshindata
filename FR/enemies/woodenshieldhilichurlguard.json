@@ -1,0 +1,113 @@
+{
+  "name": "Brutocollinus avec bouclier de bois",
+  "specialname": "Simple créature",
+  "enemytype": "COMMON",
+  "category": "Brutocollinus",
+  "description": "Résident d'origine des contrées sauvages de Teyvat.\nGuerriers Brutocollinus équipés de boucliers en bois. Ces boucliers ne sont pas seulement de solides outils défensifs, mais ils sont également très prisés de la tribu. De nombreux rapports indiquent que les Brutocollinus n'hésitent pas à charger les voyageurs installés à cuisiner devant un feu de camp pour leur arracher le couvercle de la marmite.",
+  "investigation": {
+    "name": "Brutocollinus",
+    "category": "Normal",
+    "description": "Des monstres primitifs qu'on peut trouver partout à travers Teyvat\\nLa plupart des gens n'essaient plus de communiquer avec les Brutocollinus, les jugeant incapables de cette action."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Masque endommagé",
+      "count": 0.4202
+    },
+    {
+      "name": "Masque sale",
+      "count": 0.112
+    },
+    {
+      "name": "Masque sinistre",
+      "count": 0.028
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Hili_None_01"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 72.91699315141886,
+      "attack": 45.67991512273011,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 286.60405358325806,
+      "attack": 122.04499557986401,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 885.2000012823846,
+      "attack": 301.04993610978636,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 1472.8003266277956,
+      "attack": 491.71787245565065,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 2694.8494634823874,
+      "attack": 735.1449808544712,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 4996.484255924821,
+      "attack": 1133.6890269791984,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 8381.254813112319,
+      "attack": 1596.46385769661,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 13051.972637389787,
+      "attack": 2203.8429027824604,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 18565.727540502325,
+      "attack": 2835.4770102775656,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 24354.086677422747,
+      "attack": 3425.6470195036673,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 36765.12154009938,
+      "attack": 4431.9758825002355,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 53502.31372169405,
+      "attack": 4519.974803358986,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 71986.31672338396,
+      "attack": 4608.589841888112,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

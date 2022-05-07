@@ -1,0 +1,19 @@
+{
+  "name": "Sceau Hydro",
+  "description": "Marque de reconnaissance de la part de Mondstadt que vous pouvez échanger contre des objets rares chez certains marchands de la cité.",
+  "sortorder": 501,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "Sceau des sept cités-États",
+  "source": [
+    "Exploration"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_302",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Hydro_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Hydro_Sigil"
+  },
+  "version": ""
+}

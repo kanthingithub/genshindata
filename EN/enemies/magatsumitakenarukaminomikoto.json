@@ -1,0 +1,183 @@
+{
+  "name": "Magatsu Mitake Narukami no Mikoto",
+  "specialname": "Raiden no Inazuma Tono",
+  "enemytype": "BOSS",
+  "category": "Enemies of Note",
+  "description": "This is the form that the puppet that inherited the Raiden Shogun's authority takes when she is opposing those who threaten Eternity.\nAs the Raiden Shogun's assistant in pursuing eternity, she has never doubted, never felt fear, never given anything less than her best, never been disturbed by idle thoughts.\nShe once heard about how Ei had shouldered a similar duty when Makoto was also present, suffering much agonizing loss in the process.\nWhen the two shadows overlapped once more, however, she could only see the countless fine fractures in what should have been \"her\" eternal will. Since fate is destined for cyclicality, she must fulfill her promise and declare war on \"her.\"\n\nMine is the most supreme and noble form. Power over the realm has been vested within me, and I am the essence of all that is the \"Raiden Shogun.\"\n\"Naturally, I have also inherited the pain of Ei's countless losses and her will to attain Eternity.\n\"Resolve, valor, love, hate... They will all twist in the river of time.\n\"But the 'rules' will never change.\"",
+  "rewardpreview": [
+    {
+      "name": "Adventure EXP",
+      "count": 300
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Companionship EXP"
+    },
+    {
+      "name": "Vajrada Amethyst Sliver"
+    },
+    {
+      "name": "Vajrada Amethyst Fragment"
+    },
+    {
+      "name": "Vajrada Amethyst Chunk"
+    },
+    {
+      "name": "Vajrada Amethyst Gemstone"
+    },
+    {
+      "name": "Dream Solvent",
+      "count": 0.33
+    },
+    {
+      "name": "Mudra of the Malefic General"
+    },
+    {
+      "name": "Tears of the Calamitous God"
+    },
+    {
+      "name": "The Meaning of Aeons"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "3"
+    },
+    {
+      "name": "The Exile",
+      "rarity": "3"
+    },
+    {
+      "name": "Gladiator's Finale",
+      "rarity": "4"
+    },
+    {
+      "name": "Wanderer's Troupe",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "4"
+    },
+    {
+      "name": "The Exile",
+      "rarity": "4"
+    },
+    {
+      "name": "Gladiator's Finale",
+      "rarity": "5"
+    },
+    {
+      "name": "Wanderer's Troupe",
+      "rarity": "5"
+    },
+    {
+      "name": "Northlander Sword Billet"
+    },
+    {
+      "name": "Northlander Bow Billet"
+    },
+    {
+      "name": "Northlander Claymore Billet"
+    },
+    {
+      "name": "Northlander Catalyst Billet"
+    },
+    {
+      "name": "Northlander Polearm Billet"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Shougun_Mitakenarukami"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 264.31200766221446,
+      "attack": 40.60445216221706,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 1041.0084802045167,
+      "attack": 108.48444509163892,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 3064.0500151023734,
+      "attack": 267.60001199199905,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 5705.892238915956,
+      "attack": 437.08268672162376,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 10245.049272354052,
+      "attack": 653.4622327690013,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 18876.71628651896,
+      "attack": 919.1582172315684,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 31892.194473129,
+      "attack": 1227.6749565427017,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 52747.54924129648,
+      "attack": 1632.5942986839218,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 85091.82527925633,
+      "attack": 2371.6078888032935,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 133561.04123643134,
+      "attack": 3045.019701340352,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 199656.0745980749,
+      "attack": 3939.5342839595396,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 252704.63745862618,
+      "attack": 4017.7555502447067,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 292296.9811849538,
+      "attack": 4096.5244767044205,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

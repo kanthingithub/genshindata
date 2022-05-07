@@ -1,0 +1,20 @@
+{
+  "name": "Amakumo Fruit",
+  "description": "The fruit of the Amakumo Grass, which grows on Seirai Island. You can hear it crackling with a tiny current if you hold it up to your ear.",
+  "sortorder": 2067,
+  "category": "EXCHANGE",
+  "materialtype": "Local Specialty (Inazuma)",
+  "source": [
+    "Found in the wild",
+    "Recommendation: Found on Seirai Island"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Amakumo_Fruit.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Amakumo_Fruit.png",
+    "nameicon": "UI_ItemIcon_101208"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Amakumo_Fruit"
+  },
+  "version": ""
+}

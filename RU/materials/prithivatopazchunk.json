@@ -1,0 +1,23 @@
+{
+  "name": "Кусок топаза Притхива",
+  "description": "Материал возвышения персонажа.\n«Валютой здесь является кровь.\nЯ гарант усердия, мудрости и будущего народа».",
+  "sortorder": 1848,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Гео гипостазисы Ур. 60+",
+    "Золотой волчий вожак Ур. 60+",
+    "Змеи руин Ур. 60+",
+    "Алхимия"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Prithiva_Topaz_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/4b/Item_Prithiva_Topaz_Chunk.png",
+    "nameicon": "UI_ItemIcon_104173"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Prithiva_Topaz_Chunk"
+  },
+  "version": ""
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Filosofia da Liberdade",
+  "description": "Material para aprimorar o nível de Talento.\nA liberdade é o espírito da Cidade do Vento.\nCantar é uma dessas liberdades. Cantar na terra criada pelo Arconte Anemo é enviar o seu coração para longe com a música ao vento.",
+  "sortorder": 1853,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Talento",
+  "dropdomain": "Domínio da Proficiência: Altar Congelado",
+  "daysofweek": [
+    "Segunda-feira",
+    "Quinta-feira",
+    "Domingo"
+  ],
+  "source": [
+    "Obtido na síntese"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Freedom.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c4/Item_Philosophies_of_Freedom.png",
+    "nameicon": "UI_ItemIcon_104303"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Freedom"
+  },
+  "version": ""
+}

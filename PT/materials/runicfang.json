@@ -1,0 +1,16 @@
+{
+  "name": "Presa Rúnica",
+  "description": "Uma \"presa\" que o mecanismo misterioso antigo em forma de serpente usou para escavar até as profundezas das montanhas. Há algumas runas sinistras esculpidas nela.\nDizem que serpentes gigantes espreitam nas fissuras sombrias das profundezas. Queimando com o eterno ressentimento e malícia em direção ao mundo de cima, elas cavam imensos túneis, mas ninguém sabe quais são seus reais propósitos maliciosos...",
+  "sortorder": 1817,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Dropado por Serpentes das Ruínas de Nv.30+"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_113035",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Runic_Fang.png"
+  },
+  "version": "2.6"
+}

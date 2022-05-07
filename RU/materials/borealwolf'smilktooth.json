@@ -1,0 +1,26 @@
+{
+  "name": "Молочный зуб арктического волка",
+  "description": "Материал возвышения оружия.\nВолчья стая Андриуса - это его благословенный почётный караул, и даже молочные зубы волчат обладают огромной мощью.\nВ древности долгом богов было любить людей. Андриус выделялся из их рядов, он принимал в свою стаю только брошенных детей и бродяг.",
+  "sortorder": 2187,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Возвышение оружия",
+  "dropdomain": "Воля: Затопленное ущелье",
+  "daysofweek": [
+    "Вторник",
+    "Пятница",
+    "Воскресенье"
+  ],
+  "source": [
+    "Сувенирная лавка Мондштадта"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Boreal_Wolf's_Milk_Tooth.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Boreal_Wolf%27s_Milk_Tooth.png",
+    "nameicon": "UI_ItemIcon_114005"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Boreal_Wolf's_Milk_Tooth"
+  },
+  "version": ""
+}

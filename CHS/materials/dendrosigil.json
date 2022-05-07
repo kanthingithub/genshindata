@@ -1,0 +1,19 @@
+{
+  "name": "草之印",
+  "description": "蒙德周围的特殊纪念货币，可在城市商店中兑换珍稀物品",
+  "sortorder": 502,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "七国徽印",
+  "source": [
+    "探索奖励"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_303",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dendro_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dendro_Sigil"
+  },
+  "version": ""
+}

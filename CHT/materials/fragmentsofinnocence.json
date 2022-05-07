@@ -1,0 +1,18 @@
+{
+  "name": "「童真的斷篇」",
+  "description": "「嘟嘟可故事集」專用的精煉道具。\n隨風散落的斷篇，每一頁上都寫滿童趣之事，而尺寸恰好與《嘟嘟可故事集》完美相合。其間滿溢的童心與純真的愛永不褪色，就像書中永無完結的大冒險一樣，熱忱的童話永遠隨著其作者的腳步飛揚。",
+  "sortorder": 2295,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "精煉材料",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragments_of_Innocence.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Item_Fragments_of_Innocence.png",
+    "nameicon": "UI_ItemIcon_200105"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/\"Fragments_of_Innocence\""
+  },
+  "version": ""
+}

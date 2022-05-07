@@ -1,0 +1,18 @@
+{
+  "name": "Опыт дружбы",
+  "description": "Опыт дружбы используется для поднятия уровня дружбы.",
+  "sortorder": 448,
+  "rarity": "3",
+  "category": "ITEM_VIRTUAL",
+  "materialtype": "Укрепление дружбы",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_105",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Companionship_EXP.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Item_Companionship_EXP.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Companionship_EXP"
+  },
+  "version": ""
+}

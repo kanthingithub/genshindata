@@ -1,0 +1,19 @@
+{
+  "name": "Ailes de papillon",
+  "description": "Une jolie paire d'ailes colorées. La poudre scintillante qui en tombe est peut-être ce qui permet aux papillons de voler ?",
+  "sortorder": 1971,
+  "category": "EXCHANGE",
+  "materialtype": "Matériau",
+  "source": [
+    "Dans la nature"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Butterfly_Wings.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Item_Butterfly_Wings.png",
+    "nameicon": "UI_ItemIcon_100072"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Butterfly_Wings"
+  },
+  "version": ""
+}

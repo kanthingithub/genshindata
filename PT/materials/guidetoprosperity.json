@@ -1,0 +1,26 @@
+{
+  "name": "Guia de Prosperidade",
+  "description": "Material de Elevação de Talento.\nA prosperidade é a busca do Reino da Terra.\nProsperidade é a promessa feita por Liyue aos seus filhos: retribuir aos trabalhadores que trabalham com ouro suficiente para iluminar esta terra.",
+  "sortorder": 1861,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Talento",
+  "dropdomain": "Domínio da Proficiência: Altar de Chamas",
+  "daysofweek": [
+    "Segunda-feira",
+    "Quinta-feira",
+    "Domingo"
+  ],
+  "source": [
+    "Obtido na síntese"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Guide_to_Prosperity.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Item_Guide_to_Prosperity.png",
+    "nameicon": "UI_ItemIcon_104311"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Guide_to_Prosperity"
+  },
+  "version": ""
+}

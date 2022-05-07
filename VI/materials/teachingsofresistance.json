@@ -1,0 +1,24 @@
+{
+  "name": "Bài Giảng Của \"Kháng Chiến\"",
+  "description": "Nguyên liệu bồi dưỡng Thiên Phú.\nNền tảng đất nước của gió là kháng chiến.\nLịch sử của Mondstadt là lịch sử của kháng chiến. Kháng chiến để tất cả những trận chiến trong quá khứ Mondstadt không bị lãng quên, giống như cây cỏ đâm xuyên mặt đất, như ngọn gió thổi qua những bức tường bằng đá.",
+  "sortorder": 1854,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Thiên Phú",
+  "dropdomain": "Bí Cảnh Tinh Thông: Vực Sâu Lạnh Giá",
+  "daysofweek": [
+    "Thứ 3",
+    "Thứ 6",
+    "Chủ Nhật"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Resistance.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Teachings_of_Resistance.png",
+    "nameicon": "UI_ItemIcon_104304"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Resistance"
+  },
+  "version": ""
+}

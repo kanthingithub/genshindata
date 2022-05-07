@@ -1,0 +1,230 @@
+{
+  "name": "祝聖秘境：骸館",
+  "region": "稻妻",
+  "domainEntrance": "沉眠之庭",
+  "domainType": "聖遺物",
+  "description": "無主的宅邸如今成為了獸境魔物的棲身之所。\n能利用永恆之雷，成功克服其中試煉者，或許就能獲得珍貴的聖遺物吧。",
+  "daysOfWeek": null,
+  "images": {},
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "祝聖秘境：骸館 I",
+      "recommendedLevel": 59,
+      "recommendedElements": null,
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "冒險閱歷",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 1850
+        },
+        {
+          "name": "好感經驗",
+          "count": 15
+        },
+        {
+          "name": "守護之心",
+          "rarity": "3"
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "3"
+        },
+        {
+          "name": "華館夢醒形骸記",
+          "rarity": "4"
+        },
+        {
+          "name": "海染硨磲",
+          "rarity": "4"
+        },
+        {
+          "name": "守護之心",
+          "rarity": "4"
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "4"
+        }
+      ],
+      "disorder": null,
+      "monsterlist": [
+        "雷斧丘丘暴徒",
+        "大型水史萊姆",
+        "水史萊姆"
+      ]
+    },
+    {
+      "name": "祝聖秘境：骸館 II",
+      "recommendedLevel": 69,
+      "recommendedElements": null,
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "冒險閱歷",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 2025
+        },
+        {
+          "name": "好感經驗",
+          "count": 20
+        },
+        {
+          "name": "守護之心",
+          "rarity": "3"
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "3"
+        },
+        {
+          "name": "華館夢醒形骸記",
+          "rarity": "4"
+        },
+        {
+          "name": "海染硨磲",
+          "rarity": "4"
+        },
+        {
+          "name": "守護之心",
+          "rarity": "4"
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "4"
+        }
+      ],
+      "disorder": null,
+      "monsterlist": [
+        "雷斧丘丘暴徒",
+        "大型水史萊姆",
+        "水史萊姆",
+        "雷箭丘丘人",
+        "衝鋒丘丘人"
+      ]
+    },
+    {
+      "name": "祝聖秘境：骸館 III",
+      "recommendedLevel": 80,
+      "recommendedElements": null,
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "冒險閱歷",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 2200
+        },
+        {
+          "name": "好感經驗",
+          "count": 20
+        },
+        {
+          "name": "守護之心",
+          "rarity": "3"
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "3"
+        },
+        {
+          "name": "華館夢醒形骸記",
+          "rarity": "4"
+        },
+        {
+          "name": "海染硨磲",
+          "rarity": "4"
+        },
+        {
+          "name": "守護之心",
+          "rarity": "4"
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "4"
+        },
+        {
+          "name": "華館夢醒形骸記",
+          "rarity": "5"
+        },
+        {
+          "name": "海染硨磲",
+          "rarity": "5"
+        }
+      ],
+      "disorder": null,
+      "monsterlist": [
+        "嗜雷·獸境獵犬",
+        "嗜雷·獸境幼獸",
+        "雷箭丘丘人"
+      ]
+    },
+    {
+      "name": "祝聖秘境：骸館 IV",
+      "recommendedLevel": 90,
+      "recommendedElements": null,
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "冒險閱歷",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 2525
+        },
+        {
+          "name": "好感經驗",
+          "count": 20
+        },
+        {
+          "name": "守護之心",
+          "rarity": "3"
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "3"
+        },
+        {
+          "name": "華館夢醒形骸記",
+          "rarity": "4"
+        },
+        {
+          "name": "海染硨磲",
+          "rarity": "4"
+        },
+        {
+          "name": "守護之心",
+          "rarity": "4"
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "4"
+        },
+        {
+          "name": "華館夢醒形骸記",
+          "rarity": "5"
+        },
+        {
+          "name": "海染硨磲",
+          "rarity": "5"
+        }
+      ],
+      "disorder": null,
+      "monsterlist": [
+        "嗜雷·獸境獵犬",
+        "嗜雷·獸境幼獸",
+        "雷斧丘丘暴徒"
+      ]
+    }
+  ]
+}

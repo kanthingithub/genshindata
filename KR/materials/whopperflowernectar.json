@@ -1,0 +1,21 @@
+{
+  "name": "구라구라 꽃꿀",
+  "description": "꽃술에서 추출된 꽃꿀엔 소량의 원소가 함유되어 있다.\n먹어보면 달콤달콤꽃과 맛이 미묘하게 비슷하다",
+  "sortorder": 1756,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "캐릭터 육성 소재",
+  "source": [
+    "구라구라꽃 드랍",
+    "스타더스트 교환"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Whopperflower_Nectar.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Item_Whopperflower_Nectar.png",
+    "nameicon": "UI_ItemIcon_112038"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Whopperflower_Nectar"
+  },
+  "version": ""
+}

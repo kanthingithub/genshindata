@@ -1,0 +1,25 @@
+{
+  "name": "Máscara dañada",
+  "description": "Máscara de huesos dañada que perteneció a algún Hilichurl.\nHay más piezas dañadas que intactas, por lo que ha perdido totalmente su utilidad.",
+  "sortorder": 1726,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Obtenido de Hilichurls",
+    "Obtenido de algunos Hilichurls Ballesteros",
+    "Obtenido de algunos Samachurls",
+    "Obtenido de algunos Mitachurls",
+    "Obtenido de Lawachurl",
+    "Canjear Polvo estelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Damaged_Mask.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Damaged_Mask.png",
+    "nameicon": "UI_ItemIcon_112005"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Damaged_Mask"
+  },
+  "version": ""
+}

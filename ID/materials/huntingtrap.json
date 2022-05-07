@@ -1,0 +1,17 @@
+{
+  "name": "Perangkap Berburu",
+  "description": "Digunakan untuk memerangkap binatang dengan ukuran spesifik. Kalau kamu perhatikan dengan seksama di alam liar, kamu masih bisa membuat perangkap seperti itu. Letakkan di tanah dan sembunyikan dengan hati-hati.",
+  "sortorder": 99,
+  "category": "CONSUME",
+  "materialtype": "Konsumsi",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_100225",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Hunting_Trap.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Hunting_Trap.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Hunting_Trap"
+  },
+  "version": ""
+}

@@ -1,0 +1,267 @@
+{
+  "name": "Sphäre des Segens: Frostiger Abschied",
+  "region": "Mondstadt",
+  "domainEntrance": "Vindagnyrs Gipfel",
+  "domainType": "Artefakt",
+  "description": "Dies war einst der Schauplatz vieler Rituale, die dem Himmel nahe durchgeführt wurden. Der herabfallende Frosthimmelsnagel hat ihn aber in den Berg getrieben.\nDiese Kälte ist für die besondere Umwelt hier verantwortlich. Willst du die Prüfung bestehen, musst du dich der bitteren Kälte stellen.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Cold_1"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Sphäre des Segens: Frostiger Abschied I",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Pyro",
+        "Elektro",
+        "Geo",
+        "Anemo"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 15
+        },
+        {
+          "name": "Beschützerinstinkt",
+          "rarity": "3"
+        },
+        {
+          "name": "Glücksspieler",
+          "rarity": "3"
+        },
+        {
+          "name": "Im Schnee irrender Recke",
+          "rarity": "4"
+        },
+        {
+          "name": "Tief im Herzen",
+          "rarity": "4"
+        },
+        {
+          "name": "Beschützerinstinkt",
+          "rarity": "4"
+        },
+        {
+          "name": "Glücksspieler",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Figuren in der Herausforderung sammeln fortlaufend bittere Kälte an und verlieren LP, sobald die bittere Kälte den Höchstwert erreicht.",
+        "Der Boden wechselt während der Herausforderung zwischen „Warm“ und „Kalt“.",
+        "Auf warmem Boden wird das Ansammeln bitterer Kälte verringert, auf kaltem Bodem beschleunigt."
+      ],
+      "monsterlist": [
+        "Kryo-Schleim",
+        "Großer Kryo-Schleim",
+        "Mitachurl mit Eisschild"
+      ]
+    },
+    {
+      "name": "Sphäre des Segens: Frostiger Abschied II",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "Pyro",
+        "Elektro",
+        "Geo",
+        "Anemo"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 20
+        },
+        {
+          "name": "Beschützerinstinkt",
+          "rarity": "3"
+        },
+        {
+          "name": "Glücksspieler",
+          "rarity": "3"
+        },
+        {
+          "name": "Im Schnee irrender Recke",
+          "rarity": "4"
+        },
+        {
+          "name": "Tief im Herzen",
+          "rarity": "4"
+        },
+        {
+          "name": "Beschützerinstinkt",
+          "rarity": "4"
+        },
+        {
+          "name": "Glücksspieler",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Figuren in der Herausforderung sammeln fortlaufend bittere Kälte an und verlieren LP, sobald die bittere Kälte den Höchstwert erreicht.",
+        "Der Boden wechselt während der Herausforderung zwischen „Warm“ und „Kalt“.",
+        "Auf warmem Boden wird das Ansammeln bitterer Kälte verringert, auf kaltem Bodem beschleunigt."
+      ],
+      "monsterlist": [
+        "Kryo-Schleim",
+        "Großer Kryo-Schleim",
+        "Kryo-Hilichurl-Grenadier",
+        "Mitachurl mit Eisschild"
+      ]
+    },
+    {
+      "name": "Sphäre des Segens: Frostiger Abschied III",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Pyro",
+        "Elektro",
+        "Geo",
+        "Anemo"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 20
+        },
+        {
+          "name": "Beschützerinstinkt",
+          "rarity": "3"
+        },
+        {
+          "name": "Glücksspieler",
+          "rarity": "3"
+        },
+        {
+          "name": "Im Schnee irrender Recke",
+          "rarity": "4"
+        },
+        {
+          "name": "Tief im Herzen",
+          "rarity": "4"
+        },
+        {
+          "name": "Beschützerinstinkt",
+          "rarity": "4"
+        },
+        {
+          "name": "Glücksspieler",
+          "rarity": "4"
+        },
+        {
+          "name": "Im Schnee irrender Recke",
+          "rarity": "5"
+        },
+        {
+          "name": "Tief im Herzen",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Figuren in der Herausforderung sammeln fortlaufend bittere Kälte an und verlieren LP, sobald die bittere Kälte den Höchstwert erreicht.",
+        "Der Boden wechselt während der Herausforderung zwischen „Warm“ und „Kalt“.",
+        "Auf warmem Boden wird das Ansammeln bitterer Kälte verringert, auf kaltem Bodem beschleunigt."
+      ],
+      "monsterlist": [
+        "Großer Kryo-Schleim",
+        "Kryo-Hilichurl-Grenadier",
+        "Mitachurl mit Eisschild",
+        "Kryo-Abgrundmagier"
+      ]
+    },
+    {
+      "name": "Sphäre des Segens: Frostiger Abschied IV",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "Pyro",
+        "Elektro",
+        "Geo",
+        "Anemo"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 20
+        },
+        {
+          "name": "Beschützerinstinkt",
+          "rarity": "3"
+        },
+        {
+          "name": "Glücksspieler",
+          "rarity": "3"
+        },
+        {
+          "name": "Im Schnee irrender Recke",
+          "rarity": "4"
+        },
+        {
+          "name": "Tief im Herzen",
+          "rarity": "4"
+        },
+        {
+          "name": "Beschützerinstinkt",
+          "rarity": "4"
+        },
+        {
+          "name": "Glücksspieler",
+          "rarity": "4"
+        },
+        {
+          "name": "Im Schnee irrender Recke",
+          "rarity": "5"
+        },
+        {
+          "name": "Tief im Herzen",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Figuren in der Herausforderung sammeln fortlaufend bittere Kälte an und verlieren LP, sobald die bittere Kälte den Höchstwert erreicht.",
+        "Der Boden wechselt während der Herausforderung zwischen „Warm“ und „Kalt“.",
+        "Auf warmem Boden wird das Ansammeln bitterer Kälte verringert, auf kaltem Bodem beschleunigt."
+      ],
+      "monsterlist": [
+        "Frostarm-Lawachurl",
+        "Kryo-Abgrundmagier"
+      ]
+    }
+  ]
+}

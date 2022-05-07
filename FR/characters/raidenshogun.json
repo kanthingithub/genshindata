@@ -1,0 +1,1112 @@
+{
+  "name": "Shogun Raiden",
+  "fullname": "Shogun Raiden",
+  "title": "Plan euthymique",
+  "description": "Son Excellence, la toute-puissante Narukami Ogosho, qui a promis au peuple d'Inazuma une éternité immuable.",
+  "rarity": "5",
+  "element": "Électro",
+  "weapontype": "Arme d'hast",
+  "substat": "Recharge d'énergie",
+  "gender": "Femme",
+  "body": "LADY",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "Cité d'Inazuma",
+  "birthdaymmdd": "6/26",
+  "birthday": "26 juin",
+  "constellation": "Imperatrix Umbrosa",
+  "cv": {
+    "english": "Anne Yatco",
+    "chinese": "菊花花",
+    "japanese": "沢城みゆき",
+    "korean": "Park Ji-yoon"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Éclat d'améthyste vajrada",
+        "count": 1
+      },
+      {
+        "name": "Fruit d'Amakumo",
+        "count": 3
+      },
+      {
+        "name": "Garde-main ancien",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragment d'améthyste vajrada",
+        "count": 3
+      },
+      {
+        "name": "Perles tempestives",
+        "count": 2
+      },
+      {
+        "name": "Fruit d'Amakumo",
+        "count": 10
+      },
+      {
+        "name": "Garde-main ancien",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragment d'améthyste vajrada",
+        "count": 6
+      },
+      {
+        "name": "Perles tempestives",
+        "count": 4
+      },
+      {
+        "name": "Fruit d'Amakumo",
+        "count": 20
+      },
+      {
+        "name": "Garde-main kageuchi",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Morceau d'améthyste vajrada",
+        "count": 3
+      },
+      {
+        "name": "Perles tempestives",
+        "count": 8
+      },
+      {
+        "name": "Fruit d'Amakumo",
+        "count": 30
+      },
+      {
+        "name": "Garde-main kageuchi",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Morceau d'améthyste vajrada",
+        "count": 6
+      },
+      {
+        "name": "Perles tempestives",
+        "count": 12
+      },
+      {
+        "name": "Fruit d'Amakumo",
+        "count": 45
+      },
+      {
+        "name": "Garde-main célèbre",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Pierre d'améthyste vajrada",
+        "count": 6
+      },
+      {
+        "name": "Perles tempestives",
+        "count": 20
+      },
+      {
+        "name": "Fruit d'Amakumo",
+        "count": 60
+      },
+      {
+        "name": "Garde-main célèbre",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210818/2021081811215218379.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210818/2021081811215958458.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Shougun.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/af8df0bbece1be9ab90d3cf2cb0ee7bd.png",
+    "nameicon": "UI_AvatarIcon_Shougun",
+    "nameiconcard": "UI_AvatarIcon_Shougun_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Shougun",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Shougun",
+    "namesideicon": "UI_AvatarIcon_Side_Shougun"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Raiden_Shogun"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1004.7992553710938,
+      "attack": 26.254199981689453,
+      "defense": 61.445411682128906,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2606.449370007249,
+      "attack": 68.1033974065258,
+      "defense": 159.38940411492695,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3467.9739061400614,
+      "attack": 90.61235622305412,
+      "defense": 212.07450467034687,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5189.195090002322,
+      "attack": 135.58580234404144,
+      "defense": 317.33049851496617,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5801.330954260135,
+      "attack": 151.57901027556,
+      "defense": 354.7646453960697,
+      "specialized": 0.07999999821186066
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6674.50146501456,
+      "attack": 174.39390895797806,
+      "defense": 408.1607055694876,
+      "specialized": 0.07999999821186066
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7490.68261735831,
+      "attack": 195.71818492843704,
+      "defense": 458.072906497222,
+      "specialized": 0.1599999964237213
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8372.896145092847,
+      "attack": 218.76936680370636,
+      "defense": 512.0219645935795,
+      "specialized": 0.1599999964237213
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8985.031887280347,
+      "attack": 234.76257282787628,
+      "defense": 549.4561229187748,
+      "specialized": 0.1599999964237213
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9875.28418469234,
+      "attack": 258.02379811787796,
+      "defense": 603.8967672793624,
+      "specialized": 0.1599999964237213
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10487.420171020465,
+      "attack": 274.01700795674515,
+      "defense": 641.3309103457686,
+      "specialized": 0.23999999463558197
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11387.720211840846,
+      "attack": 297.5407687366951,
+      "defense": 696.3859935874607,
+      "specialized": 0.23999999463558197
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11999.855954028346,
+      "attack": 313.53397094616776,
+      "defense": 733.8201366538669,
+      "specialized": 0.3199999928474426
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12907.190038097906,
+      "attack": 337.24152284375305,
+      "defense": 789.3053652016242,
+      "specialized": 0.3199999928474426
+    }
+  },
+  "version": "2.1",
+  "constellations": {
+    "c1": {
+      "name": "Inscription menaçante",
+      "effect": "**Chakra Desiderata** accumule de la résolution encore plus rapidement. Quand un personnage Électro utilise un déchaînement élémentaire, le gain de résolution augmente de 80 % ; quand un personnage d'un autre type élémentaire utilise un déchaînement élémentaire, le gain de résolution augmente de 20 %."
+    },
+    "c2": {
+      "name": "Brise-acier",
+      "effect": "Lorsqu'elles bénéficient de l'état d'Harmonie d'idéal accordé par **Art secret : Dogme d'idéal**, les attaques de la Shogun Raiden ignorent 60 % de la DÉF des ennemis."
+    },
+    "c3": {
+      "name": "Shinkage du passé",
+      "effect": "Niveau d'aptitude **Art secret : Dogme d'idéal** +3.\nNiveau max : 15"
+    },
+    "c4": {
+      "name": "Serment de droiture",
+      "effect": "Lorsque l'état d'**Harmonie d'idéal** accordé par **Art secret : Dogme d'idéal** prend fin, l'ATQ de tous les membres de l'équipe à proximité (hormis la Shogun Raiden) augmente de 30 % pendant 10 s."
+    },
+    "c5": {
+      "name": "Apparition de la Shogun",
+      "effect": "Niveau d'aptitude **Transcendance : Présage funeste** +3.\nNiveau max : 15"
+    },
+    "c6": {
+      "name": "Porteur de souhaits",
+      "effect": "Lorsqu'elles bénéficient de l'état d'**Harmonie d'idéal** accordé par **Art secret : Dogme d'idéal**, les attaques de la Shogun Raiden qui sont considérées comme faisant partie de son déchaînement élémentaire diminuent le TdR des déchaînements élémentaires de tous les membres de l'équipe à proximité (hormis la Shogun Raiden) de 1 s.\nCet effet peut être déclenché une fois toutes les secondes, et un maximum de 5 fois pendant la durée de cet état."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shougun_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shougun_03.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Shougun_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shougun_02.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Shougun_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shougun_04.png",
+      "constellation": "Eff_UI_Talent_Shougun"
+    },
+    "version": "2.1"
+  },
+  "talent": {
+    "name": "Shogun Raiden",
+    "combat1": {
+      "name": "Attaque normale : Prémisse",
+      "info": "**Attaque normale**\nEnchaîne jusqu'à 5 coups de lance.\n\n**Attaque chargée**\nConsomme de l'endurance pour déclencher une attaque ascendante.\n\n**Attaque descendante**\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT de zone à l'impact.",
+      "attributes": [
+        {
+          "name": "DGT 1er coup",
+          "parameters": [
+            "39.65%",
+            "42.87%",
+            "46.10%",
+            "50.71%",
+            "53.94%",
+            "57.63%",
+            "62.70%",
+            "67.77%",
+            "72.84%",
+            "78.37%",
+            "84.71%",
+            "92.16%",
+            "99.62%",
+            "107.07%",
+            "115.20%"
+          ]
+        },
+        {
+          "name": "DGT 2e coup",
+          "parameters": [
+            "39.73%",
+            "42.97%",
+            "46.20%",
+            "50.82%",
+            "54.05%",
+            "57.75%",
+            "62.83%",
+            "67.91%",
+            "73.00%",
+            "78.54%",
+            "84.89%",
+            "92.36%",
+            "99.83%",
+            "107.30%",
+            "115.45%"
+          ]
+        },
+        {
+          "name": "DGT 3e coup",
+          "parameters": [
+            "49.88%",
+            "53.94%",
+            "58.00%",
+            "63.80%",
+            "67.86%",
+            "72.50%",
+            "78.88%",
+            "85.26%",
+            "91.64%",
+            "98.60%",
+            "106.58%",
+            "115.95%",
+            "125.33%",
+            "134.71%",
+            "144.94%"
+          ]
+        },
+        {
+          "name": "DGT 4e coup",
+          "parameters": [
+            "28.98%+28.98%",
+            "31.34%+31.34%",
+            "33.70%+33.70%",
+            "37.07%+37.07%",
+            "39.43%+39.43%",
+            "42.12%+42.12%",
+            "45.83%+45.83%",
+            "49.54%+49.54%",
+            "53.25%+53.25%",
+            "57.29%+57.29%",
+            "61.92%+61.92%",
+            "67.37%+67.37%",
+            "72.82%+72.82%",
+            "78.27%+78.27%",
+            "84.22%+84.22%"
+          ]
+        },
+        {
+          "name": "DGT 5e coup",
+          "parameters": [
+            "65.45%",
+            "70.77%",
+            "76.10%",
+            "83.71%",
+            "89.04%",
+            "95.13%",
+            "103.50%",
+            "111.87%",
+            "120.24%",
+            "129.37%",
+            "139.83%",
+            "152.14%",
+            "164.44%",
+            "176.75%",
+            "190.17%"
+          ]
+        },
+        {
+          "name": "DGT attaque chargée",
+          "parameters": [
+            "99.59%",
+            "107.69%",
+            "115.80%",
+            "127.38%",
+            "135.49%",
+            "144.75%",
+            "157.49%",
+            "170.23%",
+            "182.96%",
+            "196.86%",
+            "212.78%",
+            "231.51%",
+            "250.23%",
+            "268.96%",
+            "289.38%"
+          ]
+        },
+        {
+          "name": "Coût d'endurance attaque chargée",
+          "parameters": [
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts"
+          ]
+        },
+        {
+          "name": "DGT durant la chute",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "DGT chute basse/élevée",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Transcendance : Présage funeste",
+      "info": "La Shogun Raiden dévoile un fragment de son euthymie, infligeant des DGT Électro aux ennemis proches, et accordant à tous les personnages de l'équipe à proximité un œil de jugement orageux.\n\n**Œil de jugement orageux**\n· Lorsqu'un personnage bénéficiant de cet effet attaque et inflige des DGT à un ennemi, l'œil déclenche une attaque coordonnée, infligeant des DGT Électro de zone à l'emplacement de l'ennemi.\n· Les personnages qui obtiennent un œil de jugement orageux voient les DGT de leurs déchaînements élémentaires augmenter pendant la durée de l'œil, en fonction de l'énergie élémentaire consommée par le déchaînement.\n\nL'œil peut déclencher une attaque coordonnée toutes les 0,9 s par équipe.\nLes attaques coordonnées générées par des personnages hors de votre équipe infligent 20 % des DGT normaux.",
+      "description": "Les êtres d'une grande divinité peuvent affecter tout ce qui les entoure, et l'Archon Électro peut manipuler les étoiles menaçantes pour protéger ses partisans et infliger une sentence fulgurante à ses ennemis.",
+      "attributes": [
+        {
+          "name": "DGT compétence",
+          "parameters": [
+            "117.20%",
+            "125.99%",
+            "134.78%",
+            "146.50%",
+            "155.29%",
+            "164.08%",
+            "175.80%",
+            "187.52%",
+            "199.24%",
+            "210.96%",
+            "222.68%",
+            "234.40%",
+            "249.05%",
+            "263.70%",
+            "278.35%"
+          ]
+        },
+        {
+          "name": "DGT attaque coordonnée",
+          "parameters": [
+            "42.00%",
+            "45.15%",
+            "48.30%",
+            "52.50%",
+            "55.65%",
+            "58.80%",
+            "63.00%",
+            "67.20%",
+            "71.40%",
+            "75.60%",
+            "79.80%",
+            "84.00%",
+            "89.25%",
+            "94.50%",
+            "99.75%"
+          ]
+        },
+        {
+          "name": "Durée",
+          "parameters": [
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s",
+            "25 s"
+          ]
+        },
+        {
+          "name": "Bonus DGT déchaînement élémentaire",
+          "parameters": [
+            "0.22%/pt d'énergie",
+            "0.23%/pt d'énergie",
+            "0.24%/pt d'énergie",
+            "0.25%/pt d'énergie",
+            "0.26%/pt d'énergie",
+            "0.27%/pt d'énergie",
+            "0.28%/pt d'énergie",
+            "0.29%/pt d'énergie",
+            "0.30%/pt d'énergie",
+            "0.30%/pt d'énergie",
+            "0.30%/pt d'énergie",
+            "0.30%/pt d'énergie",
+            "0.30%/pt d'énergie",
+            "0.30%/pt d'énergie",
+            "0.30%/pt d'énergie"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Art secret : Dogme d'idéal",
+      "info": "Rassemblant des vérités innombrables et des souhaits inquantifiables, la Shogun Raiden libère le Kendo d'idéal et inflige des DGT Électro de zone, avant d'utiliser l'Harmonie d'idéal au combat pendant un certain temps. Les DGT infligés par le Kendo d'idéal et ceux infligés par les attaques sous l'Harmonie d'idéal augmentent selon le nombre de charges de résolution de Chakra Desiderata consommées en utilisant l'aptitude.\n\n**Harmonie d'idéal**\nDans cet état, la Shogun Raiden utilisera son tachi au combat, tandis que ses attaques normales, chargées et plongeantes seront imprégnées de DGT Électro ne pouvant pas être enchantés. Lorsque de telles attaques touchent des ennemis, la Shogun restaure l'énergie élémentaire de tous les personnages de l'équipe à proximité. La restauration peut être déclenchée une fois toutes les secondes de cette façon, et un maximum de 5 fois pendant toute la durée de cette aptitude.\nDans cet état, la RÉS à l'interruption de la Shogun Raiden augmente, et elle est immunisée contre les Électrocutions.\nTant que l'Harmonie d'idéal est active, les DGT des attaques normales, chargées et plongeantes de la Shogun Raiden sont considérés comme étant des DGT de déchaînement élémentaire.\n\nLes effets de l'Harmonie d'idéal seront annulés lorsque la Shogun Raiden quitte le champ de bataille.\n\n**Chakra Desiderata**\nLorsque les personnages de l'équipe à proximité utilisent un déchaînement élémentaire (hormis la Shogun Raiden), le Chakra Desiderata de la Shogun Raiden accumule de la résolution en fonction de l'énergie élémentaire consommée par le déchaînement.\nIl est possible de cumuler jusqu'à 60 charges de résolution.\n\nLa résolution obtenue par le Chakra Desiderata sera annulée après 300 s si la Shogun Raiden quitte le combat.",
+      "description": "C'est la nouvelle technique secrète de la Shogun Raiden. Abandonnant son « insouciance » dénuée de substance, elle porte désormais sur ses épaules un nouvel « idéal » : les rêves et les ambitions de tous. Tout comme « dogme », la « vérité », signifie également le « renouveau », Inazuma est aussi entrée dans un nouveau chapitre.",
+      "attributes": [
+        {
+          "name": "DGT de base Kendo d'idéal",
+          "parameters": [
+            "400.80%",
+            "430.86%",
+            "460.92%",
+            "501.00%",
+            "531.06%",
+            "561.12%",
+            "601.20%",
+            "641.28%",
+            "681.36%",
+            "721.44%",
+            "761.52%",
+            "801.60%",
+            "851.70%",
+            "901.80%",
+            "951.90%"
+          ]
+        },
+        {
+          "name": "Bonus de résolution",
+          "parameters": [
+            "3.89% initial/0.73% ATQ par charge",
+            "4.18% initial/0.78% ATQ par charge",
+            "4.47% initial/0.84% ATQ par charge",
+            "4.86% initial/0.91% ATQ par charge",
+            "5.15% initial/0.96% ATQ par charge",
+            "5.44% initial/1.02% ATQ par charge",
+            "5.83% initial/1.09% ATQ par charge",
+            "6.22% initial/1.16% ATQ par charge",
+            "6.61% initial/1.23% ATQ par charge",
+            "7.00% initial/1.31% ATQ par charge",
+            "7.39% initial/1.38% ATQ par charge",
+            "7.78% initial/1.45% ATQ par charge",
+            "8.26% initial/1.54% ATQ par charge",
+            "8.75% initial/1.63% ATQ par charge",
+            "9.23% initial/1.72% ATQ par charge"
+          ]
+        },
+        {
+          "name": "Gain de charges de résolution",
+          "parameters": [
+            "0.15000000596046448/pts d'énergie consommés",
+            "0.1599999964237213/pts d'énergie consommés",
+            "0.1599999964237213/pts d'énergie consommés",
+            "0.17000000178813934/pts d'énergie consommés",
+            "0.17000000178813934/pts d'énergie consommés",
+            "0.18000000715255737/pts d'énergie consommés",
+            "0.18000000715255737/pts d'énergie consommés",
+            "0.1899999976158142/pts d'énergie consommés",
+            "0.1899999976158142/pts d'énergie consommés",
+            "0.20000000298023224/pts d'énergie consommés",
+            "0.20000000298023224/pts d'énergie consommés",
+            "0.20000000298023224/pts d'énergie consommés",
+            "0.20000000298023224/pts d'énergie consommés",
+            "0.20000000298023224/pts d'énergie consommés",
+            "0.20000000298023224/pts d'énergie consommés"
+          ]
+        },
+        {
+          "name": "DGT 1er coup",
+          "parameters": [
+            "44.74%",
+            "47.79%",
+            "50.84%",
+            "54.90%",
+            "57.96%",
+            "61.51%",
+            "66.09%",
+            "70.66%",
+            "75.24%",
+            "79.82%",
+            "84.39%",
+            "88.97%",
+            "93.54%",
+            "98.12%",
+            "102.69%"
+          ]
+        },
+        {
+          "name": "DGT 2e coup",
+          "parameters": [
+            "43.96%",
+            "46.95%",
+            "49.95%",
+            "53.95%",
+            "56.94%",
+            "60.44%",
+            "64.93%",
+            "69.43%",
+            "73.93%",
+            "78.42%",
+            "82.92%",
+            "87.41%",
+            "91.91%",
+            "96.40%",
+            "100.90%"
+          ]
+        },
+        {
+          "name": "DGT 3e coup",
+          "parameters": [
+            "53.82%",
+            "57.49%",
+            "61.16%",
+            "66.05%",
+            "69.72%",
+            "74.00%",
+            "79.51%",
+            "85.01%",
+            "90.52%",
+            "96.02%",
+            "101.53%",
+            "107.03%",
+            "112.54%",
+            "118.04%",
+            "123.55%"
+          ]
+        },
+        {
+          "name": "DGT 4e coup",
+          "parameters": [
+            "30.89%+30.98%",
+            "32.99%+33.09%",
+            "35.10%+35.20%",
+            "37.91%+38.02%",
+            "40.01%+40.13%",
+            "42.47%+42.59%",
+            "45.63%+45.76%",
+            "48.79%+48.93%",
+            "51.95%+52.10%",
+            "55.11%+55.26%",
+            "58.27%+58.43%",
+            "61.43%+61.60%",
+            "64.58%+64.77%",
+            "67.74%+67.94%",
+            "70.90%+71.10%"
+          ]
+        },
+        {
+          "name": "DGT 5e coup",
+          "parameters": [
+            "73.94%",
+            "78.99%",
+            "84.03%",
+            "90.75%",
+            "95.79%",
+            "101.67%",
+            "109.24%",
+            "116.80%",
+            "124.36%",
+            "131.92%",
+            "139.48%",
+            "147.05%",
+            "154.61%",
+            "162.17%",
+            "169.73%"
+          ]
+        },
+        {
+          "name": "Attaque chargée",
+          "parameters": [
+            "61.60%+74.36%",
+            "65.80%+79.43%",
+            "70.00%+84.50%",
+            "75.60%+91.26%",
+            "79.80%+96.33%",
+            "84.70%+102.24%",
+            "91.00%+109.85%",
+            "97.30%+117.46%",
+            "103.60%+125.06%",
+            "109.90%+132.67%",
+            "116.20%+140.27%",
+            "122.50%+147.87%",
+            "128.80%+155.48%",
+            "135.10%+163.08%",
+            "141.40%+170.69%"
+          ]
+        },
+        {
+          "name": "Coût d'endurance attaque chargée",
+          "parameters": [
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts"
+          ]
+        },
+        {
+          "name": "DGT durant la chute",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "DGT Chute basse/élevée",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        },
+        {
+          "name": "Restauration énergie d'Harmonie d'idéal",
+          "parameters": [
+            "1.600000023841858",
+            "1.7000000476837158",
+            "1.7999999523162842",
+            "1.899999976158142",
+            "2",
+            "2.0999999046325684",
+            "2.200000047683716",
+            "2.299999952316284",
+            "2.4000000953674316",
+            "2.5",
+            "2.5",
+            "2.5",
+            "2.5",
+            "2.5",
+            "2.5"
+          ]
+        },
+        {
+          "name": "Durée d'Harmonie d'idéal",
+          "parameters": [
+            "7 s",
+            "7 s",
+            "7 s",
+            "7 s",
+            "7 s",
+            "7 s",
+            "7 s",
+            "7 s",
+            "7 s",
+            "7 s",
+            "7 s",
+            "7 s",
+            "7 s",
+            "7 s",
+            "7 s"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s"
+          ]
+        },
+        {
+          "name": "Énergie élémentaire",
+          "parameters": [
+            "90",
+            "90",
+            "90",
+            "90",
+            "90",
+            "90",
+            "90",
+            "90",
+            "90",
+            "90",
+            "90",
+            "90",
+            "90",
+            "90",
+            "90"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Souhaits innombrables",
+      "info": "Lorsque les personnages de l'équipe à proximité obtiennent un orbe ou une particule élémentaire, le **Chakra Desiderata** accumule 2 charges de résolution.\nCet effet peut être déclenché une fois toutes les 3 s."
+    },
+    "passive2": {
+      "name": "L'illuminée",
+      "info": "Tous les 1 % de recharge d'énergie au-dessus de 100 %, la Shogun Raiden bénéficie des effets suivants :\n· La restauration d'énergie élémentaire accordée par l'**Harmonie d'idéal** augmente de 0,6 % ;\n· Le bonus de DGT Électro augmente de 0,4 %."
+    },
+    "passive3": {
+      "name": "Préservation suprême",
+      "info": "Les moras utilisés lors de l'élévation d'épées à une main et d'armes d'hast sont réduits de 50 %."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseignement de la lumière",
+          "count": 3
+        },
+        {
+          "name": "Garde-main ancien",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide de la Lumière",
+          "count": 2
+        },
+        {
+          "name": "Garde-main kageuchi",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide de la Lumière",
+          "count": 4
+        },
+        {
+          "name": "Garde-main kageuchi",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide de la Lumière",
+          "count": 6
+        },
+        {
+          "name": "Garde-main kageuchi",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide de la Lumière",
+          "count": 9
+        },
+        {
+          "name": "Garde-main kageuchi",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie de la lumière",
+          "count": 4
+        },
+        {
+          "name": "Garde-main célèbre",
+          "count": 4
+        },
+        {
+          "name": "Moment en fusion",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie de la lumière",
+          "count": 6
+        },
+        {
+          "name": "Garde-main célèbre",
+          "count": 6
+        },
+        {
+          "name": "Moment en fusion",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie de la lumière",
+          "count": 12
+        },
+        {
+          "name": "Garde-main célèbre",
+          "count": 9
+        },
+        {
+          "name": "Moment en fusion",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie de la lumière",
+          "count": 16
+        },
+        {
+          "name": "Garde-main célèbre",
+          "count": 12
+        },
+        {
+          "name": "Moment en fusion",
+          "count": 2
+        },
+        {
+          "name": "Couronne de la sagesse",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_03",
+      "combat2": "Skill_S_Shougun_01",
+      "combat3": "Skill_E_Shougun_01_HD",
+      "passive1": "UI_Talent_S_Shougun_05",
+      "passive2": "UI_Talent_S_Shougun_06",
+      "passive3": "UI_Talent_S_Shougun_07"
+    },
+    "version": "2.1"
+  }
+}

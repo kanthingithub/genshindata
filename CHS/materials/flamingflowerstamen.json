@@ -1,0 +1,20 @@
+{
+  "name": "烈焰花花蕊",
+  "description": "火辣辣的花芯。熊熊燃烧的炙热花朵，即使被水浇熄了也隐隐地放出热量。",
+  "sortorder": 1969,
+  "category": "EXCHANGE",
+  "materialtype": "素材",
+  "source": [
+    "野外采集",
+    "推荐：千风神殿采集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Flaming_Flower_Stamen.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Item_Flaming_Flower_Stamen.png",
+    "nameicon": "UI_ItemIcon_100053"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Flaming_Flower_Stamen"
+  },
+  "version": ""
+}

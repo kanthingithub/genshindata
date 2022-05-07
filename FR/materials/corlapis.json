@@ -1,0 +1,20 @@
+{
+  "name": "Cœur de lapis",
+  "description": "Un cristal précieux condensé par l'élément Géo pur qui se développe souvent avec d'autres minéraux. On l'appelle aussi « cœur de rocher ».",
+  "sortorder": 2044,
+  "category": "EXCHANGE",
+  "materialtype": "Produit de Liyue",
+  "source": [
+    "Sous les falaises de Liyue",
+    "Zone conseillée : Mont Hulao"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cor_Lapis.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Item_Cor_Lapis.png",
+    "nameicon": "UI_ItemIcon_100058"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cor_Lapis"
+  },
+  "version": ""
+}

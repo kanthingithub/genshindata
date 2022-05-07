@@ -1,0 +1,20 @@
+{
+  "name": "米",
+  "description": "テイワットで特に見られる作物。何度食べても飽きない、空腹を満たしてくれる最高の食材。",
+  "sortorder": 2007,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "璃月雑貨屋で購入",
+    "稲妻雑貨屋で購入"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Rice.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Item_Rice.png",
+    "nameicon": "UI_ItemIcon_100092"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Rice"
+  },
+  "version": ""
+}

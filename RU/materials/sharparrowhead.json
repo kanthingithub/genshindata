@@ -1,0 +1,22 @@
+{
+  "name": "Острый наконечник стрелы",
+  "description": "Хорошо сделанный наконечник стрелы. Достаточно острый, чтобы проникнуть в тело с легкостью камня, проникающего сквозь поверхность воды.",
+  "sortorder": 1733,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Алхимия",
+    "Хиличурлы-стрелки Ур. 40+",
+    "Покупается за Звёздную пыль"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sharp_Arrowhead.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Item_Sharp_Arrowhead.png",
+    "nameicon": "UI_ItemIcon_112012"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sharp_Arrowhead"
+  },
+  "version": ""
+}

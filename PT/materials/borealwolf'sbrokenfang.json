@@ -1,0 +1,26 @@
+{
+  "name": "Presa Quebrada do Lobo Boreal",
+  "description": "Material de Ascensão de Armas.\nA manada de lobo também entendem que os humanas não são criaturas solitárias. O dente quebrado é presente que dizem trazer proteção e sorte.\nDiz a lenda, que uma loba que suas casas eram conhecidas como a Toca dos Lobos ou Lupercal - tem o mesmo significado que Lupical na terra.",
+  "sortorder": 2189,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Ascensão de Armas",
+  "dropdomain": "Domínio da Forja: Vale Submerso",
+  "daysofweek": [
+    "Terça-feira",
+    "Sexta-feira",
+    "Domingo"
+  ],
+  "source": [
+    "Obtido na síntese"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Boreal_Wolf's_Broken_Fang.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Boreal_Wolf%27s_Broken_Fang.png",
+    "nameicon": "UI_ItemIcon_114007"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Boreal_Wolf's_Broken_Fang"
+  },
+  "version": ""
+}

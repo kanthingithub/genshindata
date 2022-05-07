@@ -1,0 +1,20 @@
+{
+  "name": "Selo Geo",
+  "description": "Uma insígnia que mostra o reconhecimento dos penhascos de Liyue.\nPode ser trocada por itens especiais em Liyue.",
+  "sortorder": 506,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "Selo Elemental",
+  "source": [
+    "Recompensa de Expedição de Liyue"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_307",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Geo_Sigil.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Item_Geo_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Geo_Sigil"
+  },
+  "version": ""
+}

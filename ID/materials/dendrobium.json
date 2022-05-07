@@ -1,0 +1,20 @@
+{
+  "name": "Dendrobium",
+  "description": "Tumbuhan unik yang dinamai \"Lycoris\" oleh para penyair. Tumbuhan ini sempat dinyatakan punah di kepulauan Inazuma, dan kini muncul lagi di medan perang. Dikatakan bahwa tumbuhan ini akan mekar dengan mempesona di lokasi yang penuh dengan pertumpahan darah.",
+  "sortorder": 2063,
+  "category": "EXCHANGE",
+  "materialtype": "Produk Khas Inazuma",
+  "source": [
+    "Ditemukan di alam liar",
+    "Rekomendasi: Ditemukan di Nazuchi Beach"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dendrobium.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Item_Dendrobium.png",
+    "nameicon": "UI_ItemIcon_101204"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dendrobium"
+  },
+  "version": ""
+}

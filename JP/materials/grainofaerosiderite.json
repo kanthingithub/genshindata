@@ -1,0 +1,26 @@
+{
+  "name": "漆黒の隕鉄の一粒",
+  "description": "武器に突破の力を付与する材料。\nかつて魔物を退治するために、璃月雲来の海の外に漆黒の隕石が落ちてきた。しかし汚れた血に染めたため、この材料にはもう純粋な岩王帝君の力がなくなっている。",
+  "sortorder": 2203,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "武器突破素材",
+  "dropdomain": "煉武秘境：雷の試練場",
+  "daysofweek": [
+    "水曜",
+    "土曜",
+    "日曜"
+  ],
+  "source": [
+    "璃月記念品ショップ交換"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Grain_of_Aerosiderite.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Item_Grain_of_Aerosiderite.png",
+    "nameicon": "UI_ItemIcon_114021"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Grain_of_Aerosiderite"
+  },
+  "version": ""
+}

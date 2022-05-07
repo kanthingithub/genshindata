@@ -1,0 +1,19 @@
+{
+  "name": "Schinken",
+  "description": "Geräuchertes Fleisch. Selbst die dünnste Scheibe ist voller Aroma.",
+  "sortorder": 1529,
+  "category": "EXCHANGE",
+  "materialtype": "Zutat",
+  "source": [
+    "Beim Verarbeiten von Gerichten zu erhalten"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ham.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Item_Ham.png",
+    "nameicon": "UI_ItemIcon_110005"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ham"
+  },
+  "version": ""
+}

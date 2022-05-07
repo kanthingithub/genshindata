@@ -1,0 +1,18 @@
+{
+  "name": "아름다운 결정",
+  "description": "합성 추가 생성물",
+  "sortorder": 1588,
+  "category": "CONSUME",
+  "materialtype": "합성 산물",
+  "source": [
+    "합성 획득"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_111021",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Medium_Pretty_Crystal.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Medium_Pretty_Crystal"
+  },
+  "version": ""
+}

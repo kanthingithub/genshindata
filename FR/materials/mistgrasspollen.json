@@ -1,0 +1,21 @@
+{
+  "name": "Pollen d'herbe brumeuse",
+  "description": "De mystérieuses spores produites par l'herbe brumeuse lorsqu'elles sont dans un espace confiné. Il s'agit de la nourriture préférée des lucioles.",
+  "sortorder": 1744,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Butin de Mage luciole des Fatui",
+    "Échange Astrions"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Grass_Pollen.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Mist_Grass_Pollen.png",
+    "nameicon": "UI_ItemIcon_112026"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Grass_Pollen"
+  },
+  "version": ""
+}

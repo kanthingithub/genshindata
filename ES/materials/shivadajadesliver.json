@@ -1,0 +1,22 @@
+{
+  "name": "Pedacito de jade shivada",
+  "description": "Material de ascensión de personaje",
+  "sortorder": 1842,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Obtenido de Regisvid Cryo",
+    "Obtenido de Hipostasis Cryo",
+    "Canjear en la tienda de recuerdos"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shivada_Jade_Sliver.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Item_Shivada_Jade_Sliver.png",
+    "nameicon": "UI_ItemIcon_104161"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shivada_Jade_Sliver"
+  },
+  "version": ""
+}

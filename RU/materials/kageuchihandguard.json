@@ -1,0 +1,22 @@
+{
+  "name": "Гарда кагэути",
+  "description": "Гарда, которая крепится на мечи выдающегося качества.\nТрадиция ковки мечей Инадзумы уходит в глубокую древность. Кузнецы часто изготавливают несколько клинков за раз, чтобы из них выбрать «синути», или лучшее оружие, тогда как остальные называются «кагэути».",
+  "sortorder": 1763,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Алхимия",
+    "Нобуси Ур. 40+",
+    "Покупается за Звёздную пыль"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Kageuchi_Handguard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Kageuchi_Handguard.png",
+    "nameicon": "UI_ItemIcon_112045"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Kageuchi_Handguard"
+  },
+  "version": ""
+}

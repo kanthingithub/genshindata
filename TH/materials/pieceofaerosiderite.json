@@ -1,0 +1,26 @@
+{
+  "name": "Piece of Aerosiderite",
+  "description": "วัสดุเลื่อนขั้นอาวุธ\nดินแดน Liyue นั้นมักจะมีเรื่องเล่ากล่าวถึงอสูรจากทะเล เนื่องจากอีกฝั่งคือพื้นที่ที่ไม่มีใครรู้จักของ Teyvat เมื่อไม่มีเทพทั้งเจ็ดคอยปกป้อง มันก็เป็นเพียงแค่ความวุ่นวายที่ไม่มีใครรู้จักอยู่ข้างนอก มีเพียงพลังที่อยู่นอกเหนืออำนาจของ Teyvat ที่จะสามารถหยุดยั้งพลังความมืดของราชาแห่งหินได้",
+  "sortorder": 2204,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุเลื่อนขั้นอาวุธ",
+  "dropdomain": "ดันเจี้ยนแห่งการต่อสู้: สนามทดลองไฟฟ้า",
+  "daysofweek": [
+    "วันพุธ",
+    "วันเสาร์",
+    "วันอาทิตย์"
+  ],
+  "source": [
+    "ได้รับจากการสรรสร้าง"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Piece_of_Aerosiderite.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Item_Piece_of_Aerosiderite.png",
+    "nameicon": "UI_ItemIcon_114022"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Piece_of_Aerosiderite"
+  },
+  "version": ""
+}

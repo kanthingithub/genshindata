@@ -1,0 +1,17 @@
+{
+  "name": "Blaue Farbe",
+  "description": "Blauer Farbstoff. Er wird sicher bei der Herstellung von Möbeln verwendet.",
+  "sortorder": 1935,
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Blue_Dye.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/62/Item_Blue_Dye.png",
+    "nameicon": "UI_ItemIcon_101404"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Blue_Dye"
+  },
+  "version": ""
+}

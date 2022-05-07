@@ -1,0 +1,21 @@
+{
+  "name": "Miếng Tùng Thạch Tự Tại",
+  "description": "Nguyên liệu đột phá nhân vật.\n\"Nhưng hướng gió sẽ thay đổi.\n\"Sẽ có một ngày, sẽ thổi về hướng có ánh sáng hơn nữa.\"",
+  "sortorder": 1840,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Phong Nguyên Bản cấp 60 trở lên rơi",
+    "Ghép Nhận"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vayuda_Turquoise_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Vayuda_Turquoise_Chunk.png",
+    "nameicon": "UI_ItemIcon_104153"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Vayuda_Turquoise_Chunk"
+  },
+  "version": ""
+}

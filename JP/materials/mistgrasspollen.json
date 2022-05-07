@@ -1,0 +1,21 @@
+{
+  "name": "霧虚ろの花粉",
+  "description": "霧虚ろの草は密閉空間の中では謎の胞子を飛ばす。飛蛍の大好物である。",
+  "sortorder": 1744,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "キャラクター育成素材",
+  "source": [
+    "ファデュイ·蛍術師でドロップ",
+    "スターダスト交換"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Grass_Pollen.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Mist_Grass_Pollen.png",
+    "nameicon": "UI_ItemIcon_112026"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Grass_Pollen"
+  },
+  "version": ""
+}

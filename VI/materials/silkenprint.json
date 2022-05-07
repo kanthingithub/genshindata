@@ -1,0 +1,18 @@
+{
+  "name": "\"Dấu Ấn Sắc Màu\"",
+  "description": "Thẻ cầu nguyện được trang trí bằng tranh, điêu khắc từ Gỗ Mơ Mộng thượng hạng, mô tả phong cảnh tươi đẹp của Inazuma.\nMượn \"sức mạnh ngoại cảnh\" để đưa cảnh sắc tao nhã trong tranh vào trong Ấm Trần Ca...",
+  "sortorder": 2615,
+  "rarity": "4",
+  "category": "CONSUME",
+  "materialtype": "Vật phẩm tiêu hao",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_222001",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Silken_Print.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Item_Silken_Print.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Silken_Print"
+  },
+  "version": ""
+}

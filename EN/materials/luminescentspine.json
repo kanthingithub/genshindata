@@ -1,0 +1,19 @@
+{
+  "name": "Luminescent Spine",
+  "description": "The light-emitting part of a firefly. Used for courtship, and in medicine to help recover strength.",
+  "sortorder": 1973,
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [
+    "Found in the wild"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Luminescent_Spine.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Item_Luminescent_Spine.png",
+    "nameicon": "UI_ItemIcon_100082"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Luminescent_Spine"
+  },
+  "version": ""
+}

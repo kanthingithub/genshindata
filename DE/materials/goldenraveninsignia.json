@@ -1,0 +1,21 @@
+{
+  "name": "Krähenwappen der Goldschätze",
+  "description": "Ein Abzeichen der Schatzräuber, das ihren Stolz sowie ihre einzige Regel symbolisiert. Solange geheime Schätze in den weiten Ländereien, tiefen Abgründen und unbekannten Meeren darauf warten, von den Schatzräubern entdeckt zu werden, wird ihr Geist vor nichts zurückschrecken, um diese Schätze zu bergen.",
+  "sortorder": 1755,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Kann hergestellt werden",
+    "Beute von Schatzräubern ab Stufe 60"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Golden_Raven_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Golden_Raven_Insignia.png",
+    "nameicon": "UI_ItemIcon_112037"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Golden_Raven_Insignia"
+  },
+  "version": ""
+}

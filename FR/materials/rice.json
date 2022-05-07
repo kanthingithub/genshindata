@@ -1,0 +1,20 @@
+{
+  "name": "Riz",
+  "description": "Une céréale commune en Teyvat. Son goût et sa texture sont appréciés des masses.",
+  "sortorder": 2007,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrédient",
+  "source": [
+    "Épiceries de Liyue",
+    "Épicerie d'Inazuma"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Rice.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Item_Rice.png",
+    "nameicon": "UI_ItemIcon_100092"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Rice"
+  },
+  "version": ""
+}

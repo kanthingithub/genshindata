@@ -1,0 +1,19 @@
+{
+  "name": "Драгоценный изумруд Нагадус",
+  "description": "Материал возвышения персонажа.\n«В конце концов жизнь раскрыла свои объятья...\nДав всем свободу жизни.\nЛюди и животные имеют способность выражать свои мысли, а растения - нет. Поэтому им нужен собственный оратор».",
+  "sortorder": 1833,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Алхимия"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Nagadus_Emerald_Gemstone.png",
+    "nameicon": "UI_ItemIcon_104134"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Nagadus_Emerald_Gemstone"
+  },
+  "version": ""
+}

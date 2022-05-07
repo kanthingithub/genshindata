@@ -1,0 +1,20 @@
+{
+  "name": "Dạ Phách Thạch",
+  "description": "Khoáng thạch hiếm, sẽ tỏa sáng trong màn đêm yên tĩnh. Nghe nói là bảo thạch quý được ngưng tụ bởi những Nguyên Tố dị biến trong trời đất.",
+  "sortorder": 2049,
+  "category": "EXCHANGE",
+  "materialtype": "Đặc Sản Khu Vực Liyue",
+  "source": [
+    "Thu thập bên trong sơn động Liyue",
+    "Đề xuất: Thu thập ở Minh Ôn Trấn"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Noctilucous_Jade.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Noctilucous_Jade.png",
+    "nameicon": "UI_ItemIcon_100028"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Noctilucous_Jade"
+  },
+  "version": ""
+}

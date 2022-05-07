@@ -1,0 +1,24 @@
+{
+  "name": "鳴神御霊の恩恵",
+  "description": "武器に突破の力を付与する材料。\nその昔、先人たちは今や影向山と呼ばれる高峰に登り、雷に焼かれた木を鉤形に彫り、闇夜を照らし、大地を振るわす雷に造型を与えた。この形が長い時を経て、「雷の三つ巴」の模様となった。雷の恩恵、知恵、力、およびそれらを象徴する者を表している。",
+  "sortorder": 2211,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "武器突破素材",
+  "dropdomain": "煉武秘境：砂の祭場",
+  "daysofweek": [
+    "火曜",
+    "金曜",
+    "日曜"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Narukami's_Wisdom.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Item_Narukami%27s_Wisdom.png",
+    "nameicon": "UI_ItemIcon_114029"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Narukami's_Wisdom"
+  },
+  "version": ""
+}

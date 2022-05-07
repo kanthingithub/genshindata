@@ -1,0 +1,19 @@
+{
+  "name": "Cogumelo Philanemo",
+  "description": "Um fungo que cresce sobre as carícias do vento. É tão eterno quanto o vento, alimentando a vida.",
+  "sortorder": 2040,
+  "category": "EXCHANGE",
+  "materialtype": "Especialidade de Mondstadt",
+  "source": [
+    "Encontrado sob os beirais das casas"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philanemo_Mushroom.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Philanemo_Mushroom.png",
+    "nameicon": "UI_ItemIcon_100025"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philanemo_Mushroom"
+  },
+  "version": ""
+}

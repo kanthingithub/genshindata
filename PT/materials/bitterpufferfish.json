@@ -1,0 +1,20 @@
+{
+  "name": "Fugu Amargo",
+  "description": "Um baiacu raro. Como o nome sugere, essa criatura espalha amargura onde quer que vá no mundo aquático. Os projéteis de seu canhão de água são mais lentos e fracos que o de suas contrapartidas ordinárias, mas o poder de tais ataques não é menor devido aos feromônios incrivelmente amargos nele. Durante sua fase de acasalamento, um observador pode até mesmo testemunhar a curiosa vista dos machos e fêmeas dessa espécie atirarem uns nos outros com seus jatos d'água. Talvez compartilhar as amarguras da vida também seja uma manifestação de amor.",
+  "sortorder": 2033,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Peixe",
+  "source": [
+    "Obtido ao pescar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bitter_Pufferfish.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Bitter_Pufferfish.png",
+    "nameicon": "UI_ItemIcon_131020"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bitter_Pufferfish"
+  },
+  "version": ""
+}

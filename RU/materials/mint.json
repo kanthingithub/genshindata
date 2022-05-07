@@ -1,0 +1,19 @@
+{
+  "name": "Мята",
+  "description": "Освежающие листья мяты. Помогают справиться с летним зноем.",
+  "sortorder": 1982,
+  "category": "EXCHANGE",
+  "materialtype": "Кухонный ингредиент",
+  "source": [
+    "Дикая природа"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mint.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Mint.png",
+    "nameicon": "UI_ItemIcon_100016"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mint"
+  },
+  "version": ""
+}

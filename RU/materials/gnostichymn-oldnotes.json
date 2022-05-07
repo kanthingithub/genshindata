@@ -1,0 +1,17 @@
+{
+  "name": "Жемчужный гимн - Черновик",
+  "description": "Путевые заметки, рассказывающие о разных интересных вещах, повстречавшихся вам на континенте. Не известно, откуда появился этот черновик. Возможно, вы уже были в этом мире?\n\nИспользование этого предмета даёт вам доступ к текущему Жемчужному гимну.",
+  "sortorder": 608,
+  "rarity": "5",
+  "category": "CONSUME",
+  "materialtype": "Активация",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_1201",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Gnostic_Hymn_-_Old_Notes.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Gnostic_Hymn_-_Old_Notes"
+  },
+  "version": ""
+}

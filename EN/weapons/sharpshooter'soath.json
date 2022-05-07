@@ -1,0 +1,307 @@
+{
+  "name": "Sharpshooter's Oath",
+  "description": "This superior bow once belonged to a master archer. However, it gives off a strong scent, thus making it unsuitable for hunting.",
+  "weapontype": "Bow",
+  "rarity": "3",
+  "baseatk": 39,
+  "substat": "CRIT DMG",
+  "subvalue": "10.2",
+  "effectname": "Precise",
+  "effect": [
+    "Increases DMG against weak spots by [24%].",
+    "Increases DMG against weak spots by [30%].",
+    "Increases DMG against weak spots by [36%].",
+    "Increases DMG against weak spots by [42%].",
+    "Increases DMG against weak spots by [48%]."
+  ],
+  "r1": [
+    "24%"
+  ],
+  "r2": [
+    "30%"
+  ],
+  "r3": [
+    "36%"
+  ],
+  "r4": [
+    "42%"
+  ],
+  "r5": [
+    "48%"
+  ],
+  "weaponmaterialtype": "Boreal Wolf",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 5000
+      },
+      {
+        "name": "Boreal Wolf's Milk Tooth",
+        "count": 2
+      },
+      {
+        "name": "Dead Ley Line Branch",
+        "count": 2
+      },
+      {
+        "name": "Slime Condensate",
+        "count": 1
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 10000
+      },
+      {
+        "name": "Boreal Wolf's Cracked Tooth",
+        "count": 2
+      },
+      {
+        "name": "Dead Ley Line Branch",
+        "count": 8
+      },
+      {
+        "name": "Slime Condensate",
+        "count": 5
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 15000
+      },
+      {
+        "name": "Boreal Wolf's Cracked Tooth",
+        "count": 4
+      },
+      {
+        "name": "Dead Ley Line Leaves",
+        "count": 4
+      },
+      {
+        "name": "Slime Secretions",
+        "count": 4
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Boreal Wolf's Broken Fang",
+        "count": 2
+      },
+      {
+        "name": "Dead Ley Line Leaves",
+        "count": 8
+      },
+      {
+        "name": "Slime Secretions",
+        "count": 6
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 25000
+      },
+      {
+        "name": "Boreal Wolf's Broken Fang",
+        "count": 4
+      },
+      {
+        "name": "Ley Line Sprout",
+        "count": 6
+      },
+      {
+        "name": "Slime Concentrate",
+        "count": 4
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Boreal Wolf's Nostalgia",
+        "count": 3
+      },
+      {
+        "name": "Ley Line Sprout",
+        "count": 12
+      },
+      {
+        "name": "Slime Concentrate",
+        "count": 8
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Weapon_Sharpshooter%27s_Oath.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Arjuna.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Arjuna_Awaken.png",
+    "nameicon": "UI_EquipIcon_Bow_Arjuna",
+    "namegacha": "UI_Gacha_EquipIcon_Bow_Arjuna",
+    "nameawakenicon": "UI_EquipIcon_Bow_Arjuna_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sharpshooter's_Oath"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 38.74129867553711,
+      "specialized": 0.10199999809265137
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 50.47991113972057,
+      "specialized": 0.11852399175262462
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 65.04664125210502,
+      "specialized": 0.13902600099945062
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 79.45840816490272,
+      "specialized": 0.1596300028514861
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 93.75394575052633,
+      "specialized": 0.18023399254417427
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 113.25394575052633,
+      "specialized": 0.18023399254417427
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 127.43325862729853,
+      "specialized": 0.20083799439620975
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 141.45760830448398,
+      "specialized": 0.22144199624824523
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 155.40447176355337,
+      "specialized": 0.2420459859409334
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 169.27385824115208,
+      "specialized": 0.2626499999523162
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 188.673859767031,
+      "specialized": 0.2626499999523162
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 202.42703077242368,
+      "specialized": 0.28325398964500437
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 216.10269708640953,
+      "specialized": 0.30385800365638715
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 235.60269708640953,
+      "specialized": 0.30385800365638715
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 249.20090489221548,
+      "specialized": 0.32446199334907533
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 262.72161724325997,
+      "specialized": 0.3450659830417635
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 282.1216187691389,
+      "specialized": 0.3450659830417635
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 295.60359262944803,
+      "specialized": 0.3656699970531463
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 309.00807103499574,
+      "specialized": 0.386171994140625
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 328.50807103499574,
+      "specialized": 0.386171994140625
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 341.9125679138342,
+      "specialized": 0.40677598383331315
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 355.2783078286466,
+      "specialized": 0.42737999784469594
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 374.67830172513095,
+      "specialized": 0.42737999784469594
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 388.005303149208,
+      "specialized": 0.4479840118560787
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 401.2935845558404,
+      "specialized": 0.4685879772300723
+    }
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Pergamino maldito",
+  "description": "Un libro antiguo transcrito de una imagen antigua. Pocas personas pueden interpretar su significado. Dicen que los estudiosos que han logrado entender su verdadero significado terminan volviéndose locos.",
+  "sortorder": 1731,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Sintetizar",
+    "Obtenido de Samachurls (Niv. 60+)"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Forbidden_Curse_Scroll.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Item_Forbidden_Curse_Scroll.png",
+    "nameicon": "UI_ItemIcon_112010"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Forbidden_Curse_Scroll"
+  },
+  "version": ""
+}

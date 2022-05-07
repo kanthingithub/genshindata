@@ -1,0 +1,874 @@
+{
+  "name": "Keqing",
+  "fullname": "Keqing",
+  "title": "Trovão Condutor",
+  "description": "A Yuheng dos Qixing de Liyue. Tem muito a dizer sobre o Rex Lapis governando Liyue com apenas uma palavra, mas na verdade, esse deus admira muito esses céticos.",
+  "rarity": "5",
+  "element": "Electro",
+  "weapontype": "Espada",
+  "substat": "Dano Crítico",
+  "gender": "Feminino",
+  "body": "GIRL",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Qixing de Liyue",
+  "birthdaymmdd": "11/20",
+  "birthday": "20 de novembro",
+  "constellation": "Trulla Cementarii",
+  "cv": {
+    "english": "Kayli Mills",
+    "chinese": "谢莹",
+    "japanese": "喜多村英梨",
+    "korean": "Lee Bo-hee"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Lasca de Ametista Vajrada",
+        "count": 1
+      },
+      {
+        "name": "Cor Lapis",
+        "count": 3
+      },
+      {
+        "name": "Néctar da Flor Gigante",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de Ametista Vajrada",
+        "count": 3
+      },
+      {
+        "name": "Prisma do Relâmpago",
+        "count": 2
+      },
+      {
+        "name": "Cor Lapis",
+        "count": 10
+      },
+      {
+        "name": "Néctar da Flor Gigante",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de Ametista Vajrada",
+        "count": 6
+      },
+      {
+        "name": "Prisma do Relâmpago",
+        "count": 4
+      },
+      {
+        "name": "Cor Lapis",
+        "count": 20
+      },
+      {
+        "name": "Néctar Brilhante",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Pedaço de Ametista Vajrada",
+        "count": 3
+      },
+      {
+        "name": "Prisma do Relâmpago",
+        "count": 8
+      },
+      {
+        "name": "Cor Lapis",
+        "count": 30
+      },
+      {
+        "name": "Néctar Brilhante",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Pedaço de Ametista Vajrada",
+        "count": 6
+      },
+      {
+        "name": "Prisma do Relâmpago",
+        "count": 12
+      },
+      {
+        "name": "Cor Lapis",
+        "count": 45
+      },
+      {
+        "name": "Néctar Elemental",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Gema de Ametista Vajrada",
+        "count": 6
+      },
+      {
+        "name": "Prisma do Relâmpago",
+        "count": 20
+      },
+      {
+        "name": "Cor Lapis",
+        "count": 60
+      },
+      {
+        "name": "Néctar Elemental",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Character_Keqing_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Character_Keqing_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Keqing.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Keqing.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817192486254.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817205925817.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/40d97fbb1ae120a4d97573aef702d0a3.png",
+    "nameicon": "UI_AvatarIcon_Keqing",
+    "nameiconcard": "UI_AvatarIcon_Keqing_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Keqing",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Keqing",
+    "namesideicon": "UI_AvatarIcon_Side_Keqing"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Keqing"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1020.0524291992188,
+      "attack": 25.136999130249023,
+      "defense": 62.223201751708984,
+      "specialized": 0.5
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2646.0161044593406,
+      "attack": 65.20537828495208,
+      "defense": 161.40699163404406,
+      "specialized": 0.5
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3520.6188266273093,
+      "attack": 86.75650857975188,
+      "defense": 214.7589928242296,
+      "specialized": 0.5
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5267.968698159035,
+      "attack": 129.8161895761641,
+      "defense": 321.3473411040286,
+      "specialized": 0.5
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5889.396859780129,
+      "attack": 145.12883262731157,
+      "defense": 359.2553420500735,
+      "specialized": 0.596000000834465
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6775.822377951146,
+      "attack": 166.9728838167075,
+      "defense": 413.3273017613192,
+      "specialized": 0.596000000834465
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7604.393300802709,
+      "attack": 187.38974630450048,
+      "defense": 463.8713004795809,
+      "specialized": 0.69200000166893
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8499.999111841724,
+      "attack": 209.46002607512673,
+      "defense": 518.5032580879088,
+      "specialized": 0.69200000166893
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9121.427334497974,
+      "attack": 224.77266721892556,
+      "defense": 556.411262848651,
+      "specialized": 0.69200000166893
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 10025.193946307321,
+      "attack": 247.0440523798179,
+      "defense": 611.5410293325349,
+      "specialized": 0.69200000166893
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10646.622413104196,
+      "attack": 262.356697338314,
+      "defense": 649.449018834488,
+      "specialized": 0.7879999876022339
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11560.589296278107,
+      "attack": 284.8794462576561,
+      "defense": 705.201001907315,
+      "specialized": 0.7879999876022339
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12182.017518934357,
+      "attack": 300.1920912161522,
+      "defense": 743.1090066680572,
+      "specialized": 0.8840000033378601
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 13103.125224382035,
+      "attack": 322.890810348541,
+      "defense": 799.2965799245794,
+      "specialized": 0.8840000033378601
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Poder Trovejante",
+      "effect": "Relançar **Restauração Estelar** enquanto um Stiletto de Relâmpago está presente faz com que Keqing cause 50% do seu ATQ como Dano Electro em uma AdE na localização inicial e final de seu Teleporte."
+    },
+    "c2": {
+      "name": "Extração Afiada",
+      "effect": "Quando Ataques Normais e Carregados da Keqing acertam inimigos afetados por Electro eles têm 50% de chance de produzir uma Partícula Elemental.\nEsse efeito pode ocorrer apenas uma vez a cada 5 segundos."
+    },
+    "c3": {
+      "name": "Reforma Prevista",
+      "effect": "Aumenta o nível da **Passeio Celestial** em 3.\nO nível máximo de elevação é 15."
+    },
+    "c4": {
+      "name": "Sintonia",
+      "effect": "Por 10 segundos após Keqing acionar uma Reação Elemental relacionada com Electro, seu ATQ é aumentado em 25%."
+    },
+    "c5": {
+      "name": "Estrelas Viajantes",
+      "effect": "Aumenta o nível da **Restauração Estelar** em 3.\nO nível máximo de elevação é 15."
+    },
+    "c6": {
+      "name": "Estrela Tenaz",
+      "effect": "Ao iniciar um Ataque Normal, um Ataque Carregado, uma Habilidade Elemental ou um Supremo, Keqing ganha 6% de Bônus de Dano Electro por 8 segundos.\nEfeitos ativados por Ataques Normais, Ataques Carregados, Habilidades Elementais e Supremos são considerados entidades independentes."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Keqing_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Keqing_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Keqing_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Keqing_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Keqing_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Keqing_04.png",
+      "constellation": "Eff_UI_Talent_Keqing"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Keqing",
+    "combat1": {
+      "name": "Ataque Normal: Estilo de Yunlai",
+      "info": "**Ataque Normal**\nRealiza até 5 golpes rápidos.\n\n**Ataque Carregado**\nConsome uma certa quantidade de Stamina para desferir 2 golpes rápidos com a espada.\n\n**Ataque Imersivo**\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+      "attributes": [
+        {
+          "name": "Dano do 1° Golpe",
+          "parameters": [
+            "41.02%",
+            "44.36%",
+            "47.70%",
+            "52.47%",
+            "55.81%",
+            "59.62%",
+            "64.87%",
+            "70.12%",
+            "75.37%",
+            "81.09%",
+            "86.81%",
+            "92.54%",
+            "98.26%",
+            "103.99%",
+            "109.71%"
+          ]
+        },
+        {
+          "name": "Dano do 2° Golpe",
+          "parameters": [
+            "41.02%",
+            "44.36%",
+            "47.70%",
+            "52.47%",
+            "55.81%",
+            "59.62%",
+            "64.87%",
+            "70.12%",
+            "75.37%",
+            "81.09%",
+            "86.81%",
+            "92.54%",
+            "98.26%",
+            "103.99%",
+            "109.71%"
+          ]
+        },
+        {
+          "name": "Dano do 3° Golpe",
+          "parameters": [
+            "54.44%",
+            "58.87%",
+            "63.30%",
+            "69.63%",
+            "74.06%",
+            "79.12%",
+            "86.09%",
+            "93.05%",
+            "100.01%",
+            "107.61%",
+            "115.21%",
+            "122.80%",
+            "130.40%",
+            "137.99%",
+            "145.59%"
+          ]
+        },
+        {
+          "name": "Dano do 4° Golpe",
+          "parameters": [
+            "31.48%+34.40%",
+            "34.04%+37.20%",
+            "36.60%+40.00%",
+            "40.26%+44.00%",
+            "42.82%+46.80%",
+            "45.75%+50.00%",
+            "49.78%+54.40%",
+            "53.80%+58.80%",
+            "57.83%+63.20%",
+            "62.22%+68.00%",
+            "66.61%+72.80%",
+            "71.00%+77.60%",
+            "75.40%+82.40%",
+            "79.79%+87.20%",
+            "84.18%+92.00%"
+          ]
+        },
+        {
+          "name": "Dano do 5° Golpe",
+          "parameters": [
+            "66.99%",
+            "72.45%",
+            "77.90%",
+            "85.69%",
+            "91.14%",
+            "97.37%",
+            "105.94%",
+            "114.51%",
+            "123.08%",
+            "132.43%",
+            "141.78%",
+            "151.13%",
+            "160.47%",
+            "169.82%",
+            "179.17%"
+          ]
+        },
+        {
+          "name": "Dano de Ataque Carregado",
+          "parameters": [
+            "76.80%+86.00%",
+            "83.05%+93.00%",
+            "89.30%+100.00%",
+            "98.23%+110.00%",
+            "104.48%+117.00%",
+            "111.63%+125.00%",
+            "121.45%+136.00%",
+            "131.27%+147.00%",
+            "141.09%+158.00%",
+            "151.81%+170.00%",
+            "162.53%+182.00%",
+            "173.24%+194.00%",
+            "183.96%+206.00%",
+            "194.67%+218.00%",
+            "205.39%+230.00%"
+          ]
+        },
+        {
+          "name": "Consumo de Stamina de Ataque Carregado",
+          "parameters": [
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25"
+          ]
+        },
+        {
+          "name": "Dano Durante a Queda",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "Dano de Queda de Baixa/Alta Altitude",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Restauração Estelar",
+      "info": "Arremessa um Relâmpago Stiletto que aniquila seus inimigos como um rápido trovão.\nQuando o Stiletto acerta seu alvo, ele causa Dano Electro nos inimigos em uma pequena AdE e coloca uma Marca de Stiletto no local atingido.\n\n**Manter pressionado**\nMantenha pressionado para ajustar a direção na qual o Stiletto deve ser lançado.\nStilettos lançados pelo modo de Manter pressionado podem ser suspensos em pleno ar, permitindo Keqing saltar neles ao usar Restauração Estelar uma segunda vez.\n\n**Relâmpago Stiletto**\n Se Keqing usar Restauração Estelar novamente ou usar um Ataque Carregado ainda em sua duração, removerá a Marca de Stiletto e produzirá efeitos diferentes:\n se ela usar Restauração Estelar novamente, ela irá teleportar para a localização da Marca e desencadeará um ataque cortante, que causa Dano Electro em AdE. Quando teleportando para um Stiletto que foi lançado com um Ataque Pressionado, Keqing pode ignorar obstruções do terreno.\n Se Keqing usa um Ataque Carregado, ela provocará uma série de cortes estrondosos na localização da Marca, causando Dano Electro em AdE.",
+      "description": "“Humanos são como mariposas, buscando incessantemente a chama que chamamos de deuses e Adepti. Mas essa luz que tenho aqui é a minha.”",
+      "attributes": [
+        {
+          "name": "Dano de Relâmpago Stiletto",
+          "parameters": [
+            "50.40%",
+            "54.18%",
+            "57.96%",
+            "63.00%",
+            "66.78%",
+            "70.56%",
+            "75.60%",
+            "80.64%",
+            "85.68%",
+            "90.72%",
+            "95.76%",
+            "100.80%",
+            "107.10%",
+            "113.40%",
+            "119.70%"
+          ]
+        },
+        {
+          "name": "Dano do Corte",
+          "parameters": [
+            "168.00%",
+            "180.60%",
+            "193.20%",
+            "210.00%",
+            "222.60%",
+            "235.20%",
+            "252.00%",
+            "268.80%",
+            "285.60%",
+            "302.40%",
+            "319.20%",
+            "336.00%",
+            "357.00%",
+            "378.00%",
+            "399.00%"
+          ]
+        },
+        {
+          "name": "Dano do Corte da Tormenta Elétrica",
+          "parameters": [
+            "84.00% x2",
+            "90.30% x2",
+            "96.60% x2",
+            "105.00% x2",
+            "111.30% x2",
+            "117.60% x2",
+            "126.00% x2",
+            "134.40% x2",
+            "142.80% x2",
+            "151.20% x2",
+            "159.60% x2",
+            "168.00% x2",
+            "178.50% x2",
+            "189.00% x2",
+            "199.50% x2"
+          ]
+        },
+        {
+          "name": "Tempo de Recarga",
+          "parameters": [
+            "7.5s",
+            "7.5s",
+            "7.5s",
+            "7.5s",
+            "7.5s",
+            "7.5s",
+            "7.5s",
+            "7.5s",
+            "7.5s",
+            "7.5s",
+            "7.5s",
+            "7.5s",
+            "7.5s",
+            "7.5s",
+            "7.5s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Passeio Celestial",
+      "info": "Keqing desencadeia o poder dos raios, infligindo Dano Electro em uma AdE.\nEla então se mistura na sombra de sua espada, desferindo uma série de golpes trovejantes nos inimigos próximos que simultaneamente infligem múltiplos acertos de Dano Electro. O ataque final inflige um massivo Dano Electro em uma AdE.",
+      "description": "A técnica mais veloz no arsenal pessoal de Keqing é rápida o suficiente para derrubar as estrelas ao chão.",
+      "attributes": [
+        {
+          "name": "Dano de Habilidade",
+          "parameters": [
+            "88.00%",
+            "94.60%",
+            "101.20%",
+            "110.00%",
+            "116.60%",
+            "123.20%",
+            "132.00%",
+            "140.80%",
+            "149.60%",
+            "158.40%",
+            "167.20%",
+            "176.00%",
+            "187.00%",
+            "198.00%",
+            "209.00%"
+          ]
+        },
+        {
+          "name": "Dano de Corte",
+          "parameters": [
+            "24.00% x8",
+            "25.80% x8",
+            "27.60% x8",
+            "30.00% x8",
+            "31.80% x8",
+            "33.60% x8",
+            "36.00% x8",
+            "38.40% x8",
+            "40.80% x8",
+            "43.20% x8",
+            "45.60% x8",
+            "48.00% x8",
+            "51.00% x8",
+            "54.00% x8",
+            "57.00% x8"
+          ]
+        },
+        {
+          "name": "Dano do Último Golpe",
+          "parameters": [
+            "188.80%",
+            "202.96%",
+            "217.12%",
+            "236.00%",
+            "250.16%",
+            "264.32%",
+            "283.20%",
+            "302.08%",
+            "320.96%",
+            "339.84%",
+            "358.72%",
+            "377.60%",
+            "401.20%",
+            "424.80%",
+            "448.40%"
+          ]
+        },
+        {
+          "name": "Tempo de Recarga",
+          "parameters": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        },
+        {
+          "name": "Energia Elemental",
+          "parameters": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Penitência do Trovão",
+      "info": "Após relançar **Restauração Estelar** enquanto um Relâmpago Stiletto está presente, Keqing ganha Encantamento Electro por 5s."
+    },
+    "passive2": {
+      "name": "Dignidade Aristocrática",
+      "info": "Quando lançado **Passeio Celestial**, a Taxa CRIT de Keqing é aumentada em 15%, e sua Recuperação de Energia é aumentada em 15%. Esse efeito dura por 8 segundos."
+    },
+    "passive3": {
+      "name": "Supervisor da Terra",
+      "info": "Quando despachada em uma expedição em Liyue, o tempo consumido é reduzido em 25%"
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Ensinamentos de Prosperidade",
+          "count": 3
+        },
+        {
+          "name": "Néctar da Flor Gigante",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guia de Prosperidade",
+          "count": 2
+        },
+        {
+          "name": "Néctar Brilhante",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guia de Prosperidade",
+          "count": 4
+        },
+        {
+          "name": "Néctar Brilhante",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guia de Prosperidade",
+          "count": 6
+        },
+        {
+          "name": "Néctar Brilhante",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guia de Prosperidade",
+          "count": 9
+        },
+        {
+          "name": "Néctar Brilhante",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofia de Prosperidade",
+          "count": 4
+        },
+        {
+          "name": "Néctar Elemental",
+          "count": 4
+        },
+        {
+          "name": "Cálice do Vento Norte",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofia de Prosperidade",
+          "count": 6
+        },
+        {
+          "name": "Néctar Elemental",
+          "count": 6
+        },
+        {
+          "name": "Cálice do Vento Norte",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofia de Prosperidade",
+          "count": 12
+        },
+        {
+          "name": "Néctar Elemental",
+          "count": 9
+        },
+        {
+          "name": "Cálice do Vento Norte",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofia de Prosperidade",
+          "count": 16
+        },
+        {
+          "name": "Néctar Elemental",
+          "count": 12
+        },
+        {
+          "name": "Cálice do Vento Norte",
+          "count": 2
+        },
+        {
+          "name": "Coroa da Sabedoria",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_01",
+      "combat2": "Skill_S_Keqing_01",
+      "combat3": "Skill_E_Keqing_01_HD",
+      "passive1": "UI_Talent_S_Keqing_05",
+      "passive2": "UI_Talent_S_Keqing_06",
+      "passive3": "UI_Talent_Expedition_Liyue"
+    },
+    "version": "1.0"
+  }
+}

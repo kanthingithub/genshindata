@@ -1,0 +1,20 @@
+{
+  "name": "Wildnis-Angelrute",
+  "description": "Eine eher langweilig aussehende Angelrute aus Holz. Abgesehen davon, dass sie ziemlich stabil ist, sogar so stabil, dass du sie zur Selbstverteidigung benutzen könntest, fehlt es ihr an jeglichen besonderen Eigenschaften. Aber es gilt das alte Sprichwort: „Die Rute des Anfängers ist der Anfang seiner Karriere.“ Selbst die größten Angler haben sicherlich mit diesem einfachen Gerät angefangen.",
+  "sortorder": 2434,
+  "rarity": "4",
+  "category": "FISH_ROD",
+  "materialtype": "Angelrute",
+  "source": [
+    "Bei Aufträgen zu erhalten"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_200900",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wilderness_Rod.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Item_Wilderness_Rod.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Wilderness_Rod"
+  },
+  "version": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Отоги",
+  "description": "Древесина, полученная из отоги. Поскольку она содержит оптимальное количество влаги и масел, ей находится множество применений.\nСлужит для изготовления декора.",
+  "sortorder": 1946,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Материал",
+  "source": [
+    "Дикая природа",
+    "Остров Ясиори"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Otogi_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Item_Otogi_Wood.png",
+    "nameicon": "UI_ItemIcon_101312"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Otogi_Wood"
+  },
+  "version": ""
+}

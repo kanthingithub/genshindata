@@ -1,0 +1,19 @@
+{
+  "name": "Cua",
+  "description": "Động vật giáp xác sống gần biển. Thịt tươi mềm, rất dễ nấu thành món ngon.",
+  "sortorder": 1993,
+  "category": "EXCHANGE",
+  "materialtype": "Nguyên Liệu Thực Phẩm",
+  "source": [
+    "Thu thập ở hồ nước, bờ sông, bờ biển"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crab.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Crab.png",
+    "nameicon": "UI_ItemIcon_100073"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Crab"
+  },
+  "version": ""
+}

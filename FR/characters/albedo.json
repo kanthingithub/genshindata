@@ -1,0 +1,854 @@
+{
+  "name": "Albedo",
+  "fullname": "Albedo",
+  "title": "Kreideprinz",
+  "description": "Génie connu sous le surnom de « Kreideprinz », Albedo est l'alchimiste en chef et le capitaine des enquêteurs de l'Ordre de Favonius.",
+  "rarity": "5",
+  "element": "Géo",
+  "weapontype": "Épée à une main",
+  "substat": "Bonus de DGT Géo",
+  "gender": "Homme",
+  "body": "BOY",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Ordre de Favonius",
+  "birthdaymmdd": "9/13",
+  "birthday": "13 septembre",
+  "constellation": "Princeps Cretaceus",
+  "cv": {
+    "english": "Khoi Dao",
+    "chinese": "Mace",
+    "japanese": "野島健児",
+    "korean": "Kim Myeong-joon"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Éclat de topaze prithiva",
+        "count": 1
+      },
+      {
+        "name": "Cécilia",
+        "count": 3
+      },
+      {
+        "name": "Parchemin divinatoire",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragment de topaze prithiva",
+        "count": 3
+      },
+      {
+        "name": "Pilier de basalte",
+        "count": 2
+      },
+      {
+        "name": "Cécilia",
+        "count": 10
+      },
+      {
+        "name": "Parchemin divinatoire",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragment de topaze prithiva",
+        "count": 6
+      },
+      {
+        "name": "Pilier de basalte",
+        "count": 4
+      },
+      {
+        "name": "Cécilia",
+        "count": 20
+      },
+      {
+        "name": "Parchemin sigillé",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Morceau de topaze prithiva",
+        "count": 3
+      },
+      {
+        "name": "Pilier de basalte",
+        "count": 8
+      },
+      {
+        "name": "Cécilia",
+        "count": 30
+      },
+      {
+        "name": "Parchemin sigillé",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Morceau de topaze prithiva",
+        "count": 6
+      },
+      {
+        "name": "Pilier de basalte",
+        "count": 12
+      },
+      {
+        "name": "Cécilia",
+        "count": 45
+      },
+      {
+        "name": "Parchemin maudit",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Pierre de topaze prithiva",
+        "count": 6
+      },
+      {
+        "name": "Pilier de basalte",
+        "count": 20
+      },
+      {
+        "name": "Cécilia",
+        "count": 60
+      },
+      {
+        "name": "Parchemin maudit",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Character_Albedo_Card.png",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Character_Albedo_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Albedo.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201216/2020121611204969580.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201216/2020121611271023422.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/94dd9e0cc9d8311e58887a45b9b14861.png",
+    "nameicon": "UI_AvatarIcon_Albedo",
+    "nameiconcard": "UI_AvatarIcon_Albedo_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Albedo",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Albedo",
+    "namesideicon": "UI_AvatarIcon_Side_Albedo"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Albedo"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1029.5855712890625,
+      "attack": 19.551000595092773,
+      "defense": 68.2061996459961,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2670.7450760040956,
+      "attack": 50.71529752007109,
+      "defense": 176.92688877664295,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3553.5216262970644,
+      "attack": 67.47728711357695,
+      "defense": 235.40888722024647,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5317.201770792366,
+      "attack": 100.96815228897867,
+      "defense": 352.24611124672083,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5944.437793741585,
+      "attack": 112.87798810440836,
+      "defense": 393.7991164652267,
+      "specialized": 0.07199999690055847
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6839.14761198865,
+      "attack": 129.86780680115135,
+      "defense": 453.07030109555126,
+      "specialized": 0.07199999690055847
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7675.462187183963,
+      "attack": 145.74758661682517,
+      "defense": 508.47429279477,
+      "specialized": 0.14399999380111694
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8579.438094904996,
+      "attack": 162.91336088819116,
+      "defense": 568.3593212533524,
+      "specialized": 0.14399999380111694
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9206.67417888937,
+      "attack": 174.82319670362085,
+      "defense": 609.9123302865555,
+      "specialized": 0.14399999380111694
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 10118.887156081328,
+      "attack": 192.14538628870014,
+      "defense": 670.3430338405342,
+      "specialized": 0.14399999380111694
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10746.122995925078,
+      "attack": 204.05522210412983,
+      "defense": 711.8960276149483,
+      "specialized": 0.2160000056028366
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11668.631573538703,
+      "attack": 221.5729168473854,
+      "defense": 773.0087762532967,
+      "specialized": 0.2160000056028366
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12295.867657523078,
+      "attack": 233.48275266281507,
+      "defense": 814.5617700277107,
+      "specialized": 0.2879999876022339
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 13225.583793659927,
+      "attack": 251.13731313623066,
+      "defense": 876.1519925053435,
+      "specialized": 0.2879999876022339
+    }
+  },
+  "version": "1.2",
+  "constellations": {
+    "c1": {
+      "name": "Fleur d'Éden",
+      "effect": "Albedo récupère 1,2 pts d'énergie élémentaire lorsqu'un Germe éphémère généré par **Genèse : Aura solaire** éclot."
+    },
+    "c2": {
+      "name": "Éon de l'avènement",
+      "effect": "**Genèse : Aura solaire** confère pendant 30 s l'effet Jugement fatal à Albedo lorsque des Germes éphémères sont générés :\n· Tous les cumuls de Jugement dernier sont consommés lors du lancement de **Transformation : Reflux Géo**, conférant aux Germes fatals et aux DGT d'explosion de cette aptitude un bonus de DGT proportionnel au nombre de cumuls.\n· Chaque cumul de Jugement dernier confère un bonus de DGT équivalant à 30 % de la DÉF d'Albedo.\n· Cet effet peut être cumulé 4 fois maximum."
+    },
+    "c3": {
+      "name": "Fleur solaire",
+      "effect": "Niveau d'aptitude **Genèse : Aura solaire** +3.\nNiveau max : 15"
+    },
+    "c4": {
+      "name": "Chute divine",
+      "effect": "Les personnages déployés se trouvant dans la zone de l'Aura solaire infligent 30 % de DGT d'attaque plongeante supplémentaires."
+    },
+    "c5": {
+      "name": "Flux antique",
+      "effect": "Niveau d'aptitude **Transformation : Reflux Géo** +3.\nNiveau max : 15"
+    },
+    "c6": {
+      "name": "Pureté de la terre",
+      "effect": "Les personnages déployés se trouvant dans la zone de l'Aura solaire infligent 17 % de DGT supplémentaires lorsqu'ils sont sous la protection d'un bouclier généré par une Cristallisation."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Albedo_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Albedo_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Albedo_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Albedo_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Albedo_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Albedo_04.png",
+      "constellation": "Eff_UI_Talent_Albedo"
+    },
+    "version": "1.2"
+  },
+  "talent": {
+    "name": "Albedo",
+    "combat1": {
+      "name": "Attaque normale : Escrime de Favonius - Blanche",
+      "info": "**Attaque normale**\nEnchaîne jusqu'à 5 coups d'épée.\n\n**Attaque chargée**\nConsomme de l'endurance pour déclencher deux coups d'épée rapides.\n\n**Attaque plongeante**\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "attributes": [
+        {
+          "name": "DGT 1er coup",
+          "parameters": [
+            "36.74%",
+            "39.73%",
+            "42.72%",
+            "46.99%",
+            "49.98%",
+            "53.40%",
+            "58.10%",
+            "62.80%",
+            "67.50%",
+            "72.62%",
+            "78.50%",
+            "85.41%",
+            "92.31%",
+            "99.22%",
+            "106.76%"
+          ]
+        },
+        {
+          "name": "DGT 2e coup",
+          "parameters": [
+            "36.74%",
+            "39.73%",
+            "42.72%",
+            "46.99%",
+            "49.98%",
+            "53.40%",
+            "58.10%",
+            "62.80%",
+            "67.50%",
+            "72.62%",
+            "78.50%",
+            "85.41%",
+            "92.31%",
+            "99.22%",
+            "106.76%"
+          ]
+        },
+        {
+          "name": "DGT 3e coup",
+          "parameters": [
+            "47.45%",
+            "51.32%",
+            "55.18%",
+            "60.70%",
+            "64.56%",
+            "68.98%",
+            "75.04%",
+            "81.11%",
+            "87.18%",
+            "93.81%",
+            "101.39%",
+            "110.32%",
+            "119.24%",
+            "128.16%",
+            "137.89%"
+          ]
+        },
+        {
+          "name": "DGT 4e coup",
+          "parameters": [
+            "49.75%",
+            "53.80%",
+            "57.85%",
+            "63.63%",
+            "67.68%",
+            "72.31%",
+            "78.68%",
+            "85.04%",
+            "91.40%",
+            "98.34%",
+            "106.30%",
+            "115.65%",
+            "125.01%",
+            "134.36%",
+            "144.57%"
+          ]
+        },
+        {
+          "name": "DGT 5e coup",
+          "parameters": [
+            "62.07%",
+            "67.13%",
+            "72.18%",
+            "79.40%",
+            "84.45%",
+            "90.22%",
+            "98.16%",
+            "106.10%",
+            "114.04%",
+            "122.70%",
+            "132.63%",
+            "144.30%",
+            "155.97%",
+            "167.64%",
+            "180.38%"
+          ]
+        },
+        {
+          "name": "DGT attaque chargée",
+          "parameters": [
+            "47.30%+60.20%",
+            "51.15%+65.10%",
+            "55.00%+70.00%",
+            "60.50%+77.00%",
+            "64.35%+81.90%",
+            "68.75%+87.50%",
+            "74.80%+95.20%",
+            "80.85%+102.90%",
+            "86.90%+110.60%",
+            "93.50%+119.00%",
+            "101.06%+128.62%",
+            "109.96%+139.94%",
+            "118.85%+151.26%",
+            "127.74%+162.58%",
+            "137.44%+174.93%"
+          ]
+        },
+        {
+          "name": "Coût d'endurance attaque chargée",
+          "parameters": [
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts",
+            "20 pts"
+          ]
+        },
+        {
+          "name": "DGT durant la chute",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "DGT chute basse/élevée",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Genèse : Aura solaire",
+      "info": "Génère une Aura solaire, infligeant des DGT Géo de zone.\n\n**Aura solaire**\n· Un Germe éphémère est créé lorsque les ennemis se trouvant dans la zone subissent des DGT, infligeant des DGT Géo de zone proportionnels à la DÉF d'Albedo.\n· Un Germe éphémère peut être généré toutes les 2 s.\n· Lorsqu'un personnage rejoint le centre de l'Aura solaire, l'énergie Géo présente se concentre pour générer un podium ascendant lui permettant de dominer le champ de bataille. Il ne peut exister qu'un seul podium à la fois.\n· L'Aura solaire est considérée comme une construction Géo.\n\n**Appui long**\nAjuste la zone où la compétence sera lancée.",
+      "description": "Cette étrange dispositif rocheux est semblable à l'art même de l'alchimie : né de la terre et aspirant au ciel.",
+      "attributes": [
+        {
+          "name": "DGT compétence",
+          "parameters": [
+            "130.40%",
+            "140.18%",
+            "149.96%",
+            "163.00%",
+            "172.78%",
+            "182.56%",
+            "195.60%",
+            "208.64%",
+            "221.68%",
+            "234.72%",
+            "247.76%",
+            "260.80%",
+            "277.10%",
+            "293.40%",
+            "309.70%"
+          ]
+        },
+        {
+          "name": "DGT Germe éphémère",
+          "parameters": [
+            "133.60% DÉF",
+            "143.62% DÉF",
+            "153.64% DÉF",
+            "167.00% DÉF",
+            "177.02% DÉF",
+            "187.04% DÉF",
+            "200.40% DÉF",
+            "213.76% DÉF",
+            "227.12% DÉF",
+            "240.48% DÉF",
+            "253.84% DÉF",
+            "267.20% DÉF",
+            "283.90% DÉF",
+            "300.60% DÉF",
+            "317.30% DÉF"
+          ]
+        },
+        {
+          "name": "Durée",
+          "parameters": [
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s",
+            "30 s"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Transformation : Reflux Géo",
+      "info": "L'énergie Géo contenue dans le sol explose en émergeant sous les ordres d'Albedo, infligeant des DGT Géo de zone devant lui.\nLorsqu'une Aura solaire générée par Albedo est présente sur le champ de bataille, 7 Germes fatals sont générés, qui fleurissent en explosant, infligeant des DGT Géo de zone.\n\nLes DGT d'explosion et les DGT des Germes fatals ne génèrent pas de Germes éphémères.",
+      "description": "Sous les commandes du Kreideprinz, les forces habitant le sol émergent en une marée implacable.",
+      "attributes": [
+        {
+          "name": "DGT explosion",
+          "parameters": [
+            "367.20%",
+            "394.74%",
+            "422.28%",
+            "459.00%",
+            "486.54%",
+            "514.08%",
+            "550.80%",
+            "587.52%",
+            "624.24%",
+            "660.96%",
+            "697.68%",
+            "734.40%",
+            "780.30%",
+            "826.20%",
+            "872.10%"
+          ]
+        },
+        {
+          "name": "DGT Germe fatal",
+          "parameters": [
+            "72.00% par Germe",
+            "77.40% par Germe",
+            "82.80% par Germe",
+            "90.00% par Germe",
+            "95.40% par Germe",
+            "100.80% par Germe",
+            "108.00% par Germe",
+            "115.20% par Germe",
+            "122.40% par Germe",
+            "129.60% par Germe",
+            "136.80% par Germe",
+            "144.00% par Germe",
+            "153.00% par Germe",
+            "162.00% par Germe",
+            "171.00% par Germe"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        },
+        {
+          "name": "Énergie élémentaire",
+          "parameters": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Menace calcaire",
+      "info": "Les Germes éphémères générés par **Genèse : Aura solaire** infligent 25 % de DGT supplémentaires aux ennemis dont les PV sont inférieurs à 50 %."
+    },
+    "passive2": {
+      "name": "Sagesse en bouteille",
+      "info": "L'activation de **Transformation : Reflux Géo** confère à tous les personnages de l'équipe à proximité un bonus de 125 pts de maîtrise élémentaire pendant 10 s."
+    },
+    "passive3": {
+      "name": "Découverte de génie",
+      "info": "10 % de chances d'obtenir le double de produits lors de la synthèse de matériaux d'élévation d'arme."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseignement de la Poésie",
+          "count": 3
+        },
+        {
+          "name": "Parchemin divinatoire",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide de la Poésie",
+          "count": 2
+        },
+        {
+          "name": "Parchemin sigillé",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide de la Poésie",
+          "count": 4
+        },
+        {
+          "name": "Parchemin sigillé",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide de la Poésie",
+          "count": 6
+        },
+        {
+          "name": "Parchemin sigillé",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide de la Poésie",
+          "count": 9
+        },
+        {
+          "name": "Parchemin sigillé",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie de la Poésie",
+          "count": 4
+        },
+        {
+          "name": "Parchemin maudit",
+          "count": 4
+        },
+        {
+          "name": "Corne de Monoceros Caeli",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie de la Poésie",
+          "count": 6
+        },
+        {
+          "name": "Parchemin maudit",
+          "count": 6
+        },
+        {
+          "name": "Corne de Monoceros Caeli",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie de la Poésie",
+          "count": 12
+        },
+        {
+          "name": "Parchemin maudit",
+          "count": 9
+        },
+        {
+          "name": "Corne de Monoceros Caeli",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie de la Poésie",
+          "count": 16
+        },
+        {
+          "name": "Parchemin maudit",
+          "count": 12
+        },
+        {
+          "name": "Corne de Monoceros Caeli",
+          "count": 2
+        },
+        {
+          "name": "Couronne de la sagesse",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_01",
+      "combat2": "Skill_S_Albedo_01",
+      "combat3": "Skill_E_Albedo_01_HD",
+      "passive1": "UI_Talent_S_Albedo_05",
+      "passive2": "UI_Talent_S_Albedo_06",
+      "passive3": "UI_Talent_Combine_Weapon_Double"
+    },
+    "version": "1.2"
+  }
+}

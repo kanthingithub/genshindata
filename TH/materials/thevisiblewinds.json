@@ -1,0 +1,18 @@
+{
+  "name": "\"Visible Winds\"",
+  "description": "วัสดุสำหรับขัดเกลาอาวุธสำหรับ Windblume Ode\nเครื่องประดับอันงดงามที่เป็นสัญลักษณ์ของกังหันลมและดอก Windblume อีกทั้งยังเป็นของตกแต่งบนคันธนู Windblume Ode อีกด้วย สายลมนั้นมองไม่เห็นและจับต้องไม่ได้ แต่กังหันลมที่หมุนไปเรื่อย ๆ และดอกไม้ที่พลิ้วไหวในทุ่งอันเขียวขจีเหล่านั้นคือ \"ลมที่มองเห็นได้\" ซึ่งแสดงให้ผู้คนเห็นว่าสายลมที่โชยอ่อนจะคอยดูแลทุกชีวิตใน Mondstadt อยู่เสมอ",
+  "sortorder": 2294,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุสำหรับขัดเกลา",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_The_Visible_Winds.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Item_The_Visible_Winds.png",
+    "nameicon": "UI_ItemIcon_200104"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/\"The_Visible_Winds\""
+  },
+  "version": ""
+}

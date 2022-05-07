@@ -1,0 +1,26 @@
+{
+  "name": "Philosophies of Gold",
+  "description": "Talent Level-Up material.\nGold is the symbol of the land of Geo.\nGold is the wealth of Liyue, but Liyue's true wealth is the hearts of its people that shine like gold.",
+  "sortorder": 1868,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Talent Level-Up Material",
+  "dropdomain": "Domain of Mastery: Circle of Embers",
+  "daysofweek": [
+    "Wednesday",
+    "Saturday",
+    "Sunday"
+  ],
+  "source": [
+    "Crafted"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Gold.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_Philosophies_of_Gold.png",
+    "nameicon": "UI_ItemIcon_104318"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Gold"
+  },
+  "version": ""
+}

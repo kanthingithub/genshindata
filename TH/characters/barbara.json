@@ -1,0 +1,834 @@
+{
+  "name": "Barbara",
+  "fullname": "Barbara",
+  "title": "ดาราจรัสแสง",
+  "description": "ชาวเมือง Mondstadt ทุกคนต่างก็เอ็นดู Barbara และเธอเองก็เรียนรู้คำว่า \"ไอดอล\" จากนิตยสารด้วย",
+  "rarity": "4",
+  "element": "น้ำ",
+  "weapontype": "สื่อเวท",
+  "substat": "พลังชีวิต",
+  "gender": "ผู้หญิง",
+  "body": "GIRL",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Favonius Church",
+  "birthdaymmdd": "7/5",
+  "birthday": "5 กรกฎาคม",
+  "constellation": "Crater",
+  "cv": {
+    "english": "Laura Stahl",
+    "chinese": "宋媛媛",
+    "japanese": "鬼頭明里",
+    "korean": "Yoon Ah-young"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Varunada Lazurite Sliver",
+        "count": 1
+      },
+      {
+        "name": "Philanemo Mushroom",
+        "count": 3
+      },
+      {
+        "name": "Divining Scroll",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Varunada Lazurite Fragment",
+        "count": 3
+      },
+      {
+        "name": "Cleansing Heart",
+        "count": 2
+      },
+      {
+        "name": "Philanemo Mushroom",
+        "count": 10
+      },
+      {
+        "name": "Divining Scroll",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Varunada Lazurite Fragment",
+        "count": 6
+      },
+      {
+        "name": "Cleansing Heart",
+        "count": 4
+      },
+      {
+        "name": "Philanemo Mushroom",
+        "count": 20
+      },
+      {
+        "name": "Seal Scroll",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Varunada Lazurite Chunk",
+        "count": 3
+      },
+      {
+        "name": "Cleansing Heart",
+        "count": 8
+      },
+      {
+        "name": "Philanemo Mushroom",
+        "count": 30
+      },
+      {
+        "name": "Seal Scroll",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Varunada Lazurite Chunk",
+        "count": 6
+      },
+      {
+        "name": "Cleansing Heart",
+        "count": 12
+      },
+      {
+        "name": "Philanemo Mushroom",
+        "count": 45
+      },
+      {
+        "name": "Forbidden Curse Scroll",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Varunada Lazurite Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Cleansing Heart",
+        "count": 20
+      },
+      {
+        "name": "Philanemo Mushroom",
+        "count": 60
+      },
+      {
+        "name": "Forbidden Curse Scroll",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Character_Barbara_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Character_Barbara_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Barbara.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200609/2020060915101631868.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200609/2020060915102571828.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityweb/upload/2adac6e4e0195c39d90696955f9a7902.png",
+    "nameicon": "UI_AvatarIcon_Barbara",
+    "nameiconcard": "UI_AvatarIcon_Barbara_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Barbara",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Barbara",
+    "namesideicon": "UI_AvatarIcon_Side_Barbara"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Barbara"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 820.6118774414062,
+      "attack": 13.355999946594238,
+      "defense": 56.080501556396484,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2108.1519178425515,
+      "attack": 34.31156393922424,
+      "defense": 144.07080881927777,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2721.1910413777077,
+      "attack": 44.28941389955139,
+      "defense": 185.96580927704144,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4076.021074166667,
+      "attack": 66.34016693275453,
+      "defense": 278.55470525959936,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4511.601457467448,
+      "attack": 73.42969215553285,
+      "defense": 308.3222032759568,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5189.427043535659,
+      "attack": 84.46175096456909,
+      "defense": 354.6447095416279,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5770.200969316909,
+      "attack": 93.91445062582397,
+      "defense": 394.33471198303414,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6448.02655538512,
+      "attack": 104.94650943486022,
+      "defense": 440.65721824870525,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6883.606999721058,
+      "attack": 112.03603465763854,
+      "defense": 470.4247124503654,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7560.611642090924,
+      "attack": 123.05473206612396,
+      "defense": 516.6911155378857,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7996.191964356549,
+      "attack": 130.14425538155365,
+      "defense": 546.4586173689404,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8674.017159126524,
+      "attack": 141.17630782195283,
+      "defense": 592.7810968933445,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 9109.597725532774,
+      "attack": 148.26583495207979,
+      "defense": 622.5485987243992,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9787.423311600985,
+      "attack": 159.29789376111603,
+      "defense": 668.8711049900703,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Gleeful Songs",
+      "effect": "Barbara จะฟื้นฟูพลังงานธาตุ 1 หน่วย ในทุก 10 วินาที"
+    },
+    "c2": {
+      "name": "Vitality Burst",
+      "effect": "ระยะเวลาคูลดาวน์ของ **Let the Show Begin♪** ลดลง 15%\nตลอดช่วงเวลาที่สกิลคงอยู่ ตัวละครของตนเองที่ต่อสู้อยู่จะได้รับโบนัสความเสียหายน้ำ 15%"
+    },
+    "c3": {
+      "name": "Star of Tomorrow",
+      "effect": "เพิ่มเลเวลสกิลของ **Shining Miracle♪** ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ"
+    },
+    "c4": {
+      "name": "Attentiveness be My Power",
+      "effect": "เมื่อ Barbara ชาร์จโจมตี จะฟื้นฟูพลังงานธาตุ 1 หน่วย ทุกครั้งที่โจมตีโดนศัตรูหนึ่งตัว\nโดย 1 ครั้งจะสามารถฟื้นฟู พลังงานธาตุได้มากสุดไม่เกิน 5 หน่วย"
+    },
+    "c5": {
+      "name": "The Purest Companionship",
+      "effect": "เพิ่มเลเวลสกิลของ **Let the Show Begin♪** ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ"
+    },
+    "c6": {
+      "name": "Dedicating Everything to You",
+      "effect": "เมื่อ Barbara อยู่แนวหลังของทีม หากตัวละครของตนเองในทีมหมดสติ ทันใดนั้นจะทำการ\n·ฟื้นชีวิตตัวละครดังกล่าว;\n·ฟื้นฟูพลังชีวิตให้ตัวละครดังกล่าว 100%\nเอฟเฟกต์นี้จะสามารถใช้ได้ หนึ่งครั้งในทุก 15 นาที"
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Barbara_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Barbara_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Barbara_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Barbara_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Barbara_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Barbara_04.png",
+      "constellation": "Eff_UI_Talent_Barbara"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Barbara",
+    "combat1": {
+      "name": "โจมตีปกติ - Whisper of Water",
+      "info": "**โจมตีปกติ**\nปล่อยการโจมตีน้ำต่อเนื่องมากสุดสี่ครั้ง เพื่อสร้างความเสียหายน้ำ\n\n**ชาร์จโจมตี**\nใช้พลังกายบางส่วน โดยหลังจากร่ายเสร็จจะสร้าง ความเสียหายน้ำเป็นวงกว้าง\n\n**โจมตีพุ่งลงจากอากาศ**\nรวบรวมพลังแห่งธาตุน้ำ กระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายน้ำวงกว้าง เมื่อลงถึงพื้น",
+      "attributes": [
+        {
+          "name": "ความเสียหายขั้น 1",
+          "parameters": [
+            "37.84%",
+            "40.68%",
+            "43.52%",
+            "47.30%",
+            "50.14%",
+            "52.98%",
+            "56.76%",
+            "60.54%",
+            "64.33%",
+            "68.11%",
+            "72.05%",
+            "77.19%",
+            "82.34%",
+            "87.49%",
+            "92.63%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 2",
+          "parameters": [
+            "35.52%",
+            "38.18%",
+            "40.85%",
+            "44.40%",
+            "47.06%",
+            "49.73%",
+            "53.28%",
+            "56.83%",
+            "60.38%",
+            "63.94%",
+            "67.63%",
+            "72.46%",
+            "77.29%",
+            "82.12%",
+            "86.95%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 3",
+          "parameters": [
+            "41.04%",
+            "44.12%",
+            "47.20%",
+            "51.30%",
+            "54.38%",
+            "57.46%",
+            "61.56%",
+            "65.66%",
+            "69.77%",
+            "73.87%",
+            "78.14%",
+            "83.72%",
+            "89.30%",
+            "94.88%",
+            "100.47%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 4",
+          "parameters": [
+            "55.20%",
+            "59.34%",
+            "63.48%",
+            "69.00%",
+            "73.14%",
+            "77.28%",
+            "82.80%",
+            "88.32%",
+            "93.84%",
+            "99.36%",
+            "105.10%",
+            "112.61%",
+            "120.12%",
+            "127.62%",
+            "135.13%"
+          ]
+        },
+        {
+          "name": "ความเสียหายชาร์จโจมตี",
+          "parameters": [
+            "166.24%",
+            "178.71%",
+            "191.18%",
+            "207.80%",
+            "220.27%",
+            "232.74%",
+            "249.36%",
+            "265.98%",
+            "282.61%",
+            "299.23%",
+            "316.52%",
+            "339.13%",
+            "361.74%",
+            "384.35%",
+            "406.96%"
+          ]
+        },
+        {
+          "name": "ชาร์จโจมตีใช้พลังกาย",
+          "parameters": [
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย"
+          ]
+        },
+        {
+          "name": "ความเสียหายพุ่งลง",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "ความเสียหายพุ่งถึงพื้นจากที่ต่ำ/สูง",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Let the Show Begin♪",
+      "info": "เสียงร่ายที่ราวกับบทเพลง เรียกหยดน้ำออกมารวมตัวกลายเป็น วงแหวนดนตรีและสร้างความเสียหายน้ำ แก่ศัตรูโดยรอบและทำให้ติดสถานะ เปียกชุ่ม\n\n**วงแหวนดนตรี**\n·เมื่อการโจมตีปกติของ Barbara ถูกเป้าหมาย จะทำการฟื้นฟูพลังชีวิตให้แก่ตัวละคร ทั้งหมดในทีมรวมไปถึงตัวละครที่เป็น ฝ่ายเดียวกับตนเอง โดยปริมาณการฟื้นฟูจะขึ้นอยู่กับ พลังชีวิตสูงสุดของ Barbara;\n·เมื่อชาร์จโจมตีถูกเป้าหมายจะทำให้เกิด การฟื้นฟู 4 เท่า;\n·จะทำการฟื้นฟูพลังชีวิตให้แก่ตัวละครของตนเองที่เข้าต่อสู้ในขณะนั้นเป็นช่วง ๆ;\n·จะทำให้ตัวละครและศัตรูที่สัมผัสโดน ติดสถานะเปียกชุ่ม",
+      "description": "บทเพลงของ Barbara คือเวทมนตร์ที่คอยรักษาทุก ๆ คน",
+      "attributes": [
+        {
+          "name": "การรักษาเมื่อโจมตี",
+          "parameters": [
+            "0.75% ของ HP สูงสุด +72",
+            "0.81% ของ HP สูงสุด +79",
+            "0.86% ของ HP สูงสุด +87",
+            "0.94% ของ HP สูงสุด +96",
+            "0.99% ของ HP สูงสุด +105",
+            "1.05% ของ HP สูงสุด +114",
+            "1.13% ของ HP สูงสุด +125",
+            "1.20% ของ HP สูงสุด +135",
+            "1.27% ของ HP สูงสุด +147",
+            "1.35% ของ HP สูงสุด +159",
+            "1.43% ของ HP สูงสุด +172",
+            "1.50% ของ HP สูงสุด +185",
+            "1.59% ของ HP สูงสุด +199",
+            "1.69% ของ HP สูงสุด +213",
+            "1.78% ของ HP สูงสุด +228"
+          ]
+        },
+        {
+          "name": "การรักษาต่อเนื่อง",
+          "parameters": [
+            "4.00% ของ HP สูงสุด +385",
+            "4.30% ของ HP สูงสุด +424",
+            "4.60% ของ HP สูงสุด +465",
+            "5.00% ของ HP สูงสุด +510",
+            "5.30% ของ HP สูงสุด +559",
+            "5.60% ของ HP สูงสุด +610",
+            "6.00% ของ HP สูงสุด +664",
+            "6.40% ของ HP สูงสุด +722",
+            "6.80% ของ HP สูงสุด +783",
+            "7.20% ของ HP สูงสุด +847",
+            "7.60% ของ HP สูงสุด +915",
+            "8.00% ของ HP สูงสุด +986",
+            "8.50% ของ HP สูงสุด +1059",
+            "9.00% ของ HP สูงสุด +1136",
+            "9.50% ของ HP สูงสุด +1217"
+          ]
+        },
+        {
+          "name": "ความเสียหายหยดน้ำ",
+          "parameters": [
+            "58.40%",
+            "62.78%",
+            "67.16%",
+            "73.00%",
+            "77.38%",
+            "81.76%",
+            "87.60%",
+            "93.44%",
+            "99.28%",
+            "105.12%",
+            "110.96%",
+            "116.80%",
+            "124.10%",
+            "131.40%",
+            "138.70%"
+          ]
+        },
+        {
+          "name": "ระยะเวลาต่อเนื่อง",
+          "parameters": [
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ"
+          ]
+        },
+        {
+          "name": "คูลดาวน์",
+          "parameters": [
+            "32 วิ",
+            "32 วิ",
+            "32 วิ",
+            "32 วิ",
+            "32 วิ",
+            "32 วิ",
+            "32 วิ",
+            "32 วิ",
+            "32 วิ",
+            "32 วิ",
+            "32 วิ",
+            "32 วิ",
+            "32 วิ",
+            "32 วิ",
+            "32 วิ"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Shining Miracle♪",
+      "info": "ฟื้นฟูพลังชีวิตปริมาณมากให้แก่ ตัวละครฝ่ายเดียวกันที่อยู่ใกล้ และตัวละครของคุณในทีม โดยปริมาณการฟื้นฟูจะขึ้นอยู่กับพลังชีวิตสูงสุดของ Barbara",
+      "description": "พลังที่คอยรักษาทุก ๆ คนตลอดการต่อสู้ ก็คือเสียงเพลงของ Barbara",
+      "attributes": [
+        {
+          "name": "ปริมาณการรักษา",
+          "parameters": [
+            "17.60% ของ HP สูงสุด +1694",
+            "18.92% ของ HP สูงสุด +1864",
+            "20.24% ของ HP สูงสุด +2047",
+            "22.00% ของ HP สูงสุด +2245",
+            "23.32% ของ HP สูงสุด +2457",
+            "24.64% ของ HP สูงสุด +2683",
+            "26.40% ของ HP สูงสุด +2923",
+            "28.16% ของ HP สูงสุด +3177",
+            "29.92% ของ HP สูงสุด +3445",
+            "31.68% ของ HP สูงสุด +3728",
+            "33.44% ของ HP สูงสุด +4024",
+            "35.20% ของ HP สูงสุด +4335",
+            "37.40% ของ HP สูงสุด +4660",
+            "39.60% ของ HP สูงสุด +4999",
+            "41.80% ของ HP สูงสุด +5352"
+          ]
+        },
+        {
+          "name": "คูลดาวน์",
+          "parameters": [
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ"
+          ]
+        },
+        {
+          "name": "พลังงานธาตุ",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Glorious Season",
+      "info": "เมื่อตัวละครใช้วงแหวนเพลง **Let the Show Begin♪** การใช้พลังกายจะลดลง 12%"
+    },
+    "passive2": {
+      "name": "Encore",
+      "info": "เมื่อตัวละครของตนเอง ที่เข้าต่อสู้ในขณะนั้น ได้รับลูกแก้วธาตุหรืออณูธาตุ จะเพิ่มระยะเวลาของวงแหวนดนตรี **Let the Show Begin♪** ขึ้น 1 วินาที \nสามารถเพิ่มเวลาด้วยวิธีนี้ได้มากสุด 5 วินาที"
+    },
+    "passive3": {
+      "name": "With My Whole Heart♪",
+      "info": "เมื่อปรุงอาหารประเภทฟื้นฟูได้ ระดับสมบูรณ์ จะมีโอกาส 12% ที่จะได้รับผลผลิตเพิ่มเป็น 2 เท่า"
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of Freedom",
+          "count": 3
+        },
+        {
+          "name": "Divining Scroll",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to Freedom",
+          "count": 2
+        },
+        {
+          "name": "Seal Scroll",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to Freedom",
+          "count": 4
+        },
+        {
+          "name": "Seal Scroll",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to Freedom",
+          "count": 6
+        },
+        {
+          "name": "Seal Scroll",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to Freedom",
+          "count": 9
+        },
+        {
+          "name": "Seal Scroll",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of Freedom",
+          "count": 4
+        },
+        {
+          "name": "Forbidden Curse Scroll",
+          "count": 4
+        },
+        {
+          "name": "Ring of Boreas",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of Freedom",
+          "count": 6
+        },
+        {
+          "name": "Forbidden Curse Scroll",
+          "count": 6
+        },
+        {
+          "name": "Ring of Boreas",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of Freedom",
+          "count": 12
+        },
+        {
+          "name": "Forbidden Curse Scroll",
+          "count": 9
+        },
+        {
+          "name": "Ring of Boreas",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of Freedom",
+          "count": 16
+        },
+        {
+          "name": "Forbidden Curse Scroll",
+          "count": 12
+        },
+        {
+          "name": "Ring of Boreas",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_Catalyst_MD",
+      "combat2": "Skill_S_Barbara_01",
+      "combat3": "Skill_E_Barbara_01_HD",
+      "passive1": "UI_Talent_S_Barbara_05",
+      "passive2": "UI_Talent_S_Barbara_06",
+      "passive3": "UI_Talent_Cook_Heal"
+    },
+    "version": "1.0"
+  }
+}

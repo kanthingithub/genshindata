@@ -1,0 +1,19 @@
+{
+  "name": "氷の印",
+  "description": "モンド周辺の特殊な記念貨幣。街のショップでレアアイテムと交換できる",
+  "sortorder": 505,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "七国の印",
+  "source": [
+    "探索報酬"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_306",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cryo_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cryo_Sigil"
+  },
+  "version": ""
+}

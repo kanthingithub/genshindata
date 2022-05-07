@@ -1,0 +1,20 @@
+{
+  "name": "Cor lapis",
+  "description": "Un valioso mineral de elemento Geo puro condensado. Suele encontrarse junto a otros minerales. También es conocido como “cor petrae”.",
+  "sortorder": 2044,
+  "category": "EXCHANGE",
+  "materialtype": "Objeto típico de Liyue",
+  "source": [
+    "Recolectar en las montañas de Liyue",
+    "Recolectar en la Montaña Hulao"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cor_Lapis.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Item_Cor_Lapis.png",
+    "nameicon": "UI_ItemIcon_100058"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cor_Lapis"
+  },
+  "version": ""
+}

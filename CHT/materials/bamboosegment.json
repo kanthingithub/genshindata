@@ -1,0 +1,21 @@
+{
+  "name": "竹節",
+  "description": "翠竹的竹段，輕巧而結實，遠比謙遜的外表堅韌，散發著獨特的清幽氣息。\n可用於製作擺設。",
+  "sortorder": 1949,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "素材",
+  "source": [
+    "野外採集",
+    "推薦：碧水原砍伐"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bamboo_Segment.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Bamboo_Segment.png",
+    "nameicon": "UI_ItemIcon_101305"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bamboo_Segment"
+  },
+  "version": ""
+}

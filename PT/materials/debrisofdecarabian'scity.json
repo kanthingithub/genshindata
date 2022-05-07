@@ -1,0 +1,26 @@
+{
+  "name": "Detritos da Cidade de Decarabian",
+  "description": "Material de Ascensão de Armas.\nDecarabian, o Arconte dos Ventos Ferozes, está contente com a capital que ele criou e recebeu o culto das pessoas no topo de sua torre. No entanto, ele não sabia que as pessoas não se curvavam por respeito ou adoração.",
+  "sortorder": 2184,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Ascensão de Armas",
+  "dropdomain": "Domínio da Forja: Cidade das Reflexões",
+  "daysofweek": [
+    "Segunda-feira",
+    "Quinta-feira",
+    "Domingo"
+  ],
+  "source": [
+    "Obtido na síntese"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Debris_of_Decarabian's_City.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/96/Item_Debris_of_Decarabian%27s_City.png",
+    "nameicon": "UI_ItemIcon_114002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Debris_of_Decarabian's_City"
+  },
+  "version": ""
+}

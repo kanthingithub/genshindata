@@ -1,0 +1,19 @@
+{
+  "name": "ベーコン",
+  "description": "燻製にした獣肉のリブ。グラデーションがあり、脂がのっていてもクドくないのが幅広く好まれている理由。",
+  "sortorder": 1533,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "食材加工で獲得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bacon.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/16/Item_Bacon.png",
+    "nameicon": "UI_ItemIcon_110010"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bacon"
+  },
+  "version": ""
+}

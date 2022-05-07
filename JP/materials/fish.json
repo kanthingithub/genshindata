@@ -1,0 +1,19 @@
+{
+  "name": "魚肉",
+  "description": "魚類の新鮮な肉。適切な料理をすると、とても味わい深い食事になる。",
+  "sortorder": 2001,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "魚類を捕まえる"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fish.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Item_Fish.png",
+    "nameicon": "UI_ItemIcon_100084"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fish"
+  },
+  "version": ""
+}

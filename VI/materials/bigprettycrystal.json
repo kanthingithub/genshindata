@@ -1,0 +1,18 @@
+{
+  "name": "Kết Tinh Lớn Xinh Xắn",
+  "description": "Sản Phẩm Ghép Tăng Thêm",
+  "sortorder": 1589,
+  "category": "CONSUME",
+  "materialtype": "Sản Phẩm Ghép",
+  "source": [
+    "Ghép Nhận"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_111022",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Big_Pretty_Crystal.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Big_Pretty_Crystal"
+  },
+  "version": ""
+}

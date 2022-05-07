@@ -1,0 +1,20 @@
+{
+  "name": "Вздох Двалина",
+  "description": "Сила, извлечённая из вихрей, вызванных Драконом Востока.\nПрекрасный и невидимый, ветер следует за ним, он - его голос и свобода.\nИ враги его, сражающиеся с ветром, многочисленны.",
+  "sortorder": 1787,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Ужас Бури Ур. 70+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dvalin's_Sigh.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Dvalin%27s_Sigh.png",
+    "nameicon": "UI_ItemIcon_113005"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dvalin's_Sigh"
+  },
+  "version": ""
+}

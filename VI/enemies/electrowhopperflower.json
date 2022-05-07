@@ -1,0 +1,113 @@
+{
+  "name": "Hoa Lừa Dối - Lôi",
+  "specialname": "Cây Rình Mồi",
+  "enemytype": "COMMON",
+  "category": "Ma Thú Đột Biến",
+  "description": "Quái vật hình thực vật với nguyên khí dồi dào, dùng nguyên tố Lôi tấn công con mồi.\nKhi Năng Lượng Nguyên Tố đầy, thi triển dòng điện lớn từ vòng hoa, cho nên có học giả muốn dùng nó cho việc khác...",
+  "investigation": {
+    "name": "Hoa Lừa Dối",
+    "category": "Thường",
+    "description": "Ma vật tinh quái nguỵ trang thực vật, biết dùng nguyên tố để chiến đấu.\\nCó lúc sẽ ẩn dưới mặt đất, bắt những con thú ngơ ngác. Nếu đủ tuổi, dinh dưỡng và điều kiện, chúng sẽ cắm rễ ở nơi nào đó, lớn thành loài cây phun ra ma lực..."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Mật Hoa Lừa Dối",
+      "count": 4.202
+    },
+    {
+      "name": "Mật Hoa Lấp Lánh",
+      "count": 1.1205
+    },
+    {
+      "name": "Mật Hoa Nguyên Tố",
+      "count": 0.28
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Mimik_Electric"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 218.7509794542566,
+      "attack": 50.7554633884979,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 859.8121607497742,
+      "attack": 135.60555636454865,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 2655.600003847154,
+      "attack": 334.49994312109993,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 4418.400979883387,
+      "attack": 546.3532146642319,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 8084.548390447162,
+      "attack": 816.8277909612516,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 14989.452767774463,
+      "attack": 1259.6545275573953,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 25143.764439336956,
+      "attack": 1773.8488056003553,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 39155.91791216936,
+      "attack": 2448.714439719188,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 55697.182621506974,
+      "attack": 3150.5301443184726,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 73062.26003226824,
+      "attack": 3806.2746266754402,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 110295.36462029815,
+      "attack": 4924.4178549494245,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 160506.94116508216,
+      "attack": 5022.194437805883,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 215958.9501701519,
+      "attack": 5120.655595880526,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

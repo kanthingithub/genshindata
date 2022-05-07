@@ -1,0 +1,19 @@
+{
+  "name": "Морковь",
+  "description": "Здоровый и питательный овощ, который легко вырастить. При откусывании производит характерный хруст.",
+  "sortorder": 1979,
+  "category": "EXCHANGE",
+  "materialtype": "Кухонный ингредиент",
+  "source": [
+    "Дикая природа"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Carrot.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/1e/Item_Carrot.png",
+    "nameicon": "UI_ItemIcon_100013"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Carrot"
+  },
+  "version": ""
+}

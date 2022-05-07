@@ -1,0 +1,19 @@
+{
+  "name": "培根",
+  "description": "經過燻製的肋條獸肉。層次豐富、肥而不膩正是它廣受歡迎的原因。",
+  "sortorder": 1533,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "烹飪加工獲得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bacon.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/16/Item_Bacon.png",
+    "nameicon": "UI_ItemIcon_110010"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bacon"
+  },
+  "version": ""
+}

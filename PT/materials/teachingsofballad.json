@@ -1,0 +1,24 @@
+{
+  "name": "Ensinamentos de Poemas",
+  "description": "Material para aprimorar o nível de Talento.\nA poesia é a alma do Reino do Vento.\nA poesia é a manifestação de sentimentos bonitos. Em um lindo dia, a brisa carrega consigo poesia que toca o coração das pessoas como o vento acariciando as folhas.",
+  "sortorder": 1857,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Talento",
+  "dropdomain": "Domínio da Proficiência: Reino do Sono",
+  "daysofweek": [
+    "Quarta-feira",
+    "Sábado",
+    "Domingo"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Ballad.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Item_Teachings_of_Ballad.png",
+    "nameicon": "UI_ItemIcon_104307"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Ballad"
+  },
+  "version": ""
+}

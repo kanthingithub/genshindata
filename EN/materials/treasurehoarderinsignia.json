@@ -1,0 +1,21 @@
+{
+  "name": "Treasure Hoarder Insignia",
+  "description": "A signet that proudly represents its owner's position as member of the Treasure Hoarders. The pursuit of treasure knows no bounds. That said... Is being a thief something to be proud of?",
+  "sortorder": 1753,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Dropped by Treasure Hoarders",
+    "Stardust Exchange"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Treasure_Hoarder_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Item_Treasure_Hoarder_Insignia.png",
+    "nameicon": "UI_ItemIcon_112035"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Treasure_Hoarder_Insignia"
+  },
+  "version": ""
+}

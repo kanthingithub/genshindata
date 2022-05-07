@@ -1,0 +1,852 @@
+{
+  "name": "Kujou Sara",
+  "fullname": "Kujou Sara",
+  "title": "ศรคำรามแห่งรัตติกาล",
+  "description": "นายพลแห่งสำนัก Tenryou เด็ดเดี่ยว กล้าหาญ และเชี่ยวชาญในการต่อสู้",
+  "rarity": "4",
+  "element": "ไฟฟ้า",
+  "weapontype": "ธนู",
+  "substat": "พลังโจมตี",
+  "gender": "ผู้หญิง",
+  "body": "LADY",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "สำนัก Tenryou",
+  "birthdaymmdd": "7/14",
+  "birthday": "14 กรกฎาคม",
+  "constellation": "Flabellum",
+  "cv": {
+    "english": "Jeannie Tirado",
+    "chinese": "杨梦露",
+    "japanese": "瀬戸麻沙美",
+    "korean": "Moon Ji-young"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vajrada Amethyst Sliver",
+        "count": 1
+      },
+      {
+        "name": "Dendrobium",
+        "count": 3
+      },
+      {
+        "name": "Damaged Mask",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "count": 3
+      },
+      {
+        "name": "Storm Beads",
+        "count": 2
+      },
+      {
+        "name": "Dendrobium",
+        "count": 10
+      },
+      {
+        "name": "Damaged Mask",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "count": 6
+      },
+      {
+        "name": "Storm Beads",
+        "count": 4
+      },
+      {
+        "name": "Dendrobium",
+        "count": 20
+      },
+      {
+        "name": "Stained Mask",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "count": 3
+      },
+      {
+        "name": "Storm Beads",
+        "count": 8
+      },
+      {
+        "name": "Dendrobium",
+        "count": 30
+      },
+      {
+        "name": "Stained Mask",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "count": 6
+      },
+      {
+        "name": "Storm Beads",
+        "count": 12
+      },
+      {
+        "name": "Dendrobium",
+        "count": 45
+      },
+      {
+        "name": "Ominous Mask",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Vajrada Amethyst Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Storm Beads",
+        "count": 20
+      },
+      {
+        "name": "Dendrobium",
+        "count": 60
+      },
+      {
+        "name": "Ominous Mask",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210818/2021081815224386395.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210818/2021081815224926366.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sara.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Sara.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/5ea7bdaf660c0da94ff445221daf483c.png",
+    "nameicon": "UI_AvatarIcon_Sara",
+    "nameiconcard": "UI_AvatarIcon_Sara_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Sara",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Sara",
+    "namesideicon": "UI_AvatarIcon_Side_Sara"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Kujou_Sara"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 802.3760986328125,
+      "attack": 16.383359909057617,
+      "defense": 52.64699935913086,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2061.304201978928,
+      "attack": 42.088851700115356,
+      "defense": 135.25014165485572,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2660.720217603928,
+      "attack": 54.32834793119446,
+      "defense": 174.5801434859104,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 3985.4429835102637,
+      "attack": 81.37727160993654,
+      "defense": 261.50032808080687,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4411.343862416514,
+      "attack": 90.07375522199709,
+      "defense": 289.4453277756311,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5074.106691293244,
+      "attack": 103.60641400674194,
+      "defense": 332.9317604928856,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5641.974489144806,
+      "attack": 115.20172612527222,
+      "defense": 370.19176262911606,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6304.737318021536,
+      "attack": 128.73438491001707,
+      "defense": 413.67819534637056,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6730.638196927786,
+      "attack": 137.43086852207762,
+      "defense": 441.62318741180025,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7392.598325258761,
+      "attack": 150.94713732217224,
+      "defense": 485.056951841465,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7818.499082094699,
+      "attack": 159.64362093423279,
+      "defense": 513.0019591656837,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8481.26152836869,
+      "attack": 173.17627190678286,
+      "defense": 556.4883667788927,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 8907.16240727494,
+      "attack": 181.8727555188434,
+      "defense": 584.4333588443224,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9569.92523615167,
+      "attack": 195.40541430358826,
+      "defense": 627.9197915615769,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "2.1",
+  "constellations": {
+    "c1": {
+      "name": "Crow's Eye",
+      "effect": "เมื่อ Tengu Juurai มอบเอฟเฟกต์เพิ่มพลังโจมตีให้แก่ตัวละคร หรือโจมตีถูกศัตรู ช่วงเวลาคูลดาวน์ของ **Tengu Stormcall** จะลดลง 1 วินาที\nเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้ง ในทุก 3 วินาที"
+    },
+    "c2": {
+      "name": "Dark Wings",
+      "effect": "เมื่อใช้ **Tengu Stormcall** จะปล่อย \"Crowfeather\" ที่สามารถทำให้เกิด Tengu Juurai: Ambush ที่มีพลังเบากว่าของเดิมได้หนึ่งครั้ง ตรงตำแหน่งเดิมของ Kujou Sara โดยจะสร้างความเสียหายเท่ากับ 30% ของความเสียหายเดิม"
+    },
+    "c3": {
+      "name": "The War Within",
+      "effect": "เพิ่มเลเวลของสกิล **Subjugation: Koukou Sendou** ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ"
+    },
+    "c4": {
+      "name": "Conclusive Proof",
+      "effect": "**Subjugation: Koukou Sendou** ปล่อย Tengu Juurai: Stormcluster เพิ่มขึ้นเป็น 6 ครั้ง"
+    },
+    "c5": {
+      "name": "Spellsinger",
+      "effect": "เพิ่มเลเวลสกิลของ **Tengu Stormcall** ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ"
+    },
+    "c6": {
+      "name": "Sin of Pride",
+      "effect": "ความเสียหายไฟฟ้าของตัวละคร ที่อยู่ภายใต้สภาวะของเอฟเฟกต์เพิ่มพลังโจมตีของ Tengu Juurai จะมีความแรงคริเพิ่มขึ้น 60%"
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sara_05.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sara_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Sara_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sara_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Sara_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sara_04.png",
+      "constellation": "Eff_UI_Talent_Sara"
+    },
+    "version": "2.1"
+  },
+  "talent": {
+    "name": "Kujou Sara",
+    "combat1": {
+      "name": "โจมตีปกติ: Tengu Bowmanship",
+      "info": "**โจมตีปกติ**\nยิงธนูโจมตีอย่างต่อเนื่องมากสุดห้าครั้ง\n\n**ชาร์จโจมตี**\nการ**เล็งโจมตี**สร้างความเสียหายเพิ่มขึ้น และแม่นยำยิ่งขึ้น\nเมื่อเล็งโจมตี พลังแห่งสายฟ้าจะรวบรวมอยู่บนหัวลูกศร ซึ่งลูกศรที่ชาร์จพลังงานสายฟ้าจนเต็มแล้ว จะสร้างความเสียหายไฟฟ้าเมื่อโจมตีถูกศัตรู\nเมื่ออยู่ในสภาวะ Crowfeather Cover ลูกศรที่ชาร์จเต็มแล้วจะทิ้ง \"Crowfeather\" ไว้หลังจากที่มันโจมตีถูกเป้าหมาย\n\n**โจมตีพุ่งลงจากอากาศ**\nปล่อยฝนธนูจากกลางอากาศ และพุ่งลงมายังพื้นดินอย่างรวดเร็ว โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "attributes": [
+        {
+          "name": "ความเสียหายขั้น 1",
+          "parameters": [
+            "36.89%",
+            "39.90%",
+            "42.90%",
+            "47.19%",
+            "50.19%",
+            "53.62%",
+            "58.34%",
+            "63.06%",
+            "67.78%",
+            "72.93%",
+            "78.08%",
+            "83.23%",
+            "88.37%",
+            "93.52%",
+            "98.67%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 2",
+          "parameters": [
+            "38.70%",
+            "41.85%",
+            "45.00%",
+            "49.50%",
+            "52.65%",
+            "56.25%",
+            "61.20%",
+            "66.15%",
+            "71.10%",
+            "76.50%",
+            "81.90%",
+            "87.30%",
+            "92.70%",
+            "98.10%",
+            "103.50%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 3",
+          "parameters": [
+            "48.50%",
+            "52.45%",
+            "56.40%",
+            "62.04%",
+            "65.99%",
+            "70.50%",
+            "76.70%",
+            "82.91%",
+            "89.11%",
+            "95.88%",
+            "102.65%",
+            "109.42%",
+            "116.18%",
+            "122.95%",
+            "129.72%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 4",
+          "parameters": [
+            "50.40%",
+            "54.50%",
+            "58.60%",
+            "64.46%",
+            "68.56%",
+            "73.25%",
+            "79.70%",
+            "86.14%",
+            "92.59%",
+            "99.62%",
+            "106.65%",
+            "113.68%",
+            "120.72%",
+            "127.75%",
+            "134.78%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 5",
+          "parameters": [
+            "58.05%",
+            "62.77%",
+            "67.50%",
+            "74.25%",
+            "78.97%",
+            "84.38%",
+            "91.80%",
+            "99.23%",
+            "106.65%",
+            "114.75%",
+            "122.85%",
+            "130.95%",
+            "139.05%",
+            "147.15%",
+            "155.25%"
+          ]
+        },
+        {
+          "name": "เล็งโจมตี",
+          "parameters": [
+            "43.86%",
+            "47.43%",
+            "51.00%",
+            "56.10%",
+            "59.67%",
+            "63.75%",
+            "69.36%",
+            "74.97%",
+            "80.58%",
+            "86.70%",
+            "92.82%",
+            "98.94%",
+            "105.06%",
+            "111.18%",
+            "117.30%"
+          ]
+        },
+        {
+          "name": "เล็งโจมตีเมื่อชาร์จเต็ม",
+          "parameters": [
+            "124.00%",
+            "133.30%",
+            "142.60%",
+            "155.00%",
+            "164.30%",
+            "173.60%",
+            "186.00%",
+            "198.40%",
+            "210.80%",
+            "223.20%",
+            "235.60%",
+            "248.00%",
+            "263.50%",
+            "279.00%",
+            "294.50%"
+          ]
+        },
+        {
+          "name": "ความเสียหายพุ่งลง",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "ความเสียหายพุ่งถึงพื้นจากที่ต่ำ/สูง",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Tengu Stormcall",
+      "info": "ถอยไปด้านหลังด้วยความเร็วของเทพเท็งงุ และเรียกการปกป้องของ Crowfeather ออกมา\nได้รับ \"Crowfeather Cover\" เป็นเวลา 18 วินาที เมื่อ Kujou Sara ยิงธนูที่ชาร์จเต็มแล้วออกมา จะใช้ Crowfeather Cover ที่มีและทิ้ง \"Crowfeather\" ไว้ตรงตำแหน่งที่ถูกเป้าหมาย\nหลังจากนั้นไม่นาน Crowfeather จะทำให้เกิด Tengu Juurai: Ambush เพื่อสร้างความเสียหายไฟฟ้าให้แก่ศัตรูที่อยู่ในพื้นที่ และทำให้ตัวละครในพื้นที่ที่อยู่ในการต่อสู้ในขณะนั้นได้รับโบนัสพลังโจมตีปริมาณหนึ่ง โดยเป็นสัดส่วนขึ้นกับพลังโจมตีพื้นฐานของ Kujou Sara\n\nการเพิ่มพลังโจมตีที่ได้จาก Tengu Juurai แต่ละอย่างนั้นจะไม่ซ้อนทับกัน โดยที่เอฟเฟกต์และช่วงเวลาต่อเนื่องจะขึ้นกับการออกเอฟเฟกต์สุดท้ายของ Tengu Juurai สุดท้ายเป็นหลัก",
+      "description": "เชื้อสายเท็งงุนั้น ไม่เคยไร้ซึ่งผู้ครอบครองวิชั่นสายฟ้า ซึ่งเปี่ยมไปด้วยพรสวรรค์เหนือจินตนาการ เพียงแต่ว่าในตอนที่พวกเขาควบคุมพลังแห่งสายฟ้า จะยังคงร่ายถ้อยคำสรรเสริญเทพเจ้าแห่งสายฟ้าออกมาด้วยความคุ้นชิน โดยจะมีเนื้อหาประมาณนี้:\n\"ท่าน Narukami ผู้ยิ่งใหญ่ แสดงพลังของท่านออกมาและจงมอบสายฟ้าอันทรงพลังนี้ให้แก่ข้า! Sowaka!\"",
+      "attributes": [
+        {
+          "name": "ความเสียหาย Tengu Juurai: Ambush",
+          "parameters": [
+            "125.76%",
+            "135.19%",
+            "144.62%",
+            "157.20%",
+            "166.63%",
+            "176.06%",
+            "188.64%",
+            "201.22%",
+            "213.79%",
+            "226.37%",
+            "238.94%",
+            "251.52%",
+            "267.24%",
+            "282.96%",
+            "298.68%"
+          ]
+        },
+        {
+          "name": "อัตราส่วนโบนัสโจมตี",
+          "parameters": [
+            "42.96%",
+            "46.18%",
+            "49.40%",
+            "53.70%",
+            "56.92%",
+            "60.14%",
+            "64.44%",
+            "68.74%",
+            "73.03%",
+            "77.33%",
+            "81.62%",
+            "85.92%",
+            "91.29%",
+            "96.66%",
+            "102.03%"
+          ]
+        },
+        {
+          "name": "ระยะเวลาโบนัสพลังโจมตี",
+          "parameters": [
+            "6 วิ",
+            "6 วิ",
+            "6 วิ",
+            "6 วิ",
+            "6 วิ",
+            "6 วิ",
+            "6 วิ",
+            "6 วิ",
+            "6 วิ",
+            "6 วิ",
+            "6 วิ",
+            "6 วิ",
+            "6 วิ",
+            "6 วิ",
+            "6 วิ"
+          ]
+        },
+        {
+          "name": "คูลดาวน์",
+          "parameters": [
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ",
+            "10 วิ"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Subjugation: Koukou Sendou",
+      "info": "ปล่อย Tengu Juurai: Titanbreaker ลงมายังตำแหน่งของเป้าหมาย สร้างความเสียหายไฟฟ้าวงกว้าง หลังจากนั้น Tengu Juurai: Titanbreaker จะกระจายออกเป็น Tengu Juurai: Stormcluster 4 ครั้ง ติดต่อกัน สร้างความเสียหายไฟฟ้าวงกว้าง\nTengu Juurai: Titanbreaker และ Tengu Juurai: Stormcluster จะทำให้ตัวละครในพื้นที่ที่อยู่ในการต่อสู้ในขณะนั้นได้รับโบนัสพลังโจมตีเหมือนกันกับสกิลธาตุ \"Tengu Stormcall\"\n\nการเพิ่มพลังโจมตีที่ได้จาก Tengu Juurai แต่ละอย่างนั้นจะไม่ซ้อนทับกัน โดยที่เอฟเฟกต์และช่วงเวลาต่อเนื่องจะขึ้นกับการออกเอฟเฟกต์สุดท้ายของ Tengu Juurai สุดท้ายเป็นหลัก",
+      "description": "Sara แยกตัวออกจากกลุ่มเท็งงุ และสูญเสียความเชื่อที่มีต่อสำนัก Tenryou ไปชั่วระยะเวลาหนึ่ง หลังจากที่ความสับสนในจิตใจสูญสิ้นหายไป เธอก็ได้พบกับประกายแสงของสายฟ้า ที่เป็นของตัวเองอย่างแท้จริง",
+      "attributes": [
+        {
+          "name": "ความเสียหาย Tengu Juurai: Titanbreaker",
+          "parameters": [
+            "409.60%",
+            "440.32%",
+            "471.04%",
+            "512.00%",
+            "542.72%",
+            "573.44%",
+            "614.40%",
+            "655.36%",
+            "696.32%",
+            "737.28%",
+            "778.24%",
+            "819.20%",
+            "870.40%",
+            "921.60%",
+            "972.80%"
+          ]
+        },
+        {
+          "name": "ความเสียหาย Tengu Juurai: Stormcluster",
+          "parameters": [
+            "34.12%",
+            "36.68%",
+            "39.24%",
+            "42.65%",
+            "45.21%",
+            "47.77%",
+            "51.18%",
+            "54.59%",
+            "58.00%",
+            "61.42%",
+            "64.83%",
+            "68.24%",
+            "72.50%",
+            "76.77%",
+            "81.04%"
+          ]
+        },
+        {
+          "name": "คูลดาวน์",
+          "parameters": [
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ",
+            "20 วิ"
+          ]
+        },
+        {
+          "name": "พลังงานธาตุ",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Immovable Will",
+      "info": "เมื่ออยู่ในสภาวะ Crowfeather Cover ของ **Tengu Stormcall** ช่วงเวลาที่ต้องใช้ในการชาร์จ ของการเล็งโจมตีจะลดลง 60%"
+    },
+    "passive2": {
+      "name": "Decorum",
+      "info": "เมื่อการโจมตีของ Tengu Juurai: Ambush ถูกศัตรู Kujou Sara จะทำการฟื้นฟูพลังงานธาตุให้แก่ตัวละครทั้งหมดในทีม 1.2 หน่วยต่อ 100% ของประสิทธิภาพการฟื้นฟูพลังงานของ Kujou Sara โดยที่เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 3 วินาที"
+    },
+    "passive3": {
+      "name": "Land Survey",
+      "info": "เมื่อทำคำขอการออกสำรวจของ Inazuma เวลาที่ใช้จะลดลง 25%"
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of Elegance",
+          "count": 3
+        },
+        {
+          "name": "Damaged Mask",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to Elegance",
+          "count": 2
+        },
+        {
+          "name": "Stained Mask",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to Elegance",
+          "count": 4
+        },
+        {
+          "name": "Stained Mask",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to Elegance",
+          "count": 6
+        },
+        {
+          "name": "Stained Mask",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to Elegance",
+          "count": 9
+        },
+        {
+          "name": "Stained Mask",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of Elegance",
+          "count": 4
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 4
+        },
+        {
+          "name": "Ashen Heart",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of Elegance",
+          "count": 6
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 6
+        },
+        {
+          "name": "Ashen Heart",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of Elegance",
+          "count": 12
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 9
+        },
+        {
+          "name": "Ashen Heart",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of Elegance",
+          "count": 16
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 12
+        },
+        {
+          "name": "Ashen Heart",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_02",
+      "combat2": "Skill_S_Sara_01",
+      "combat3": "Skill_E_Sara_01_HD",
+      "passive1": "UI_Talent_S_Sara_01",
+      "passive2": "UI_Talent_S_Sara_06",
+      "passive3": "UI_Talent_S_Sara_07"
+    },
+    "version": "2.1"
+  }
+}

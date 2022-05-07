@@ -1,0 +1,22 @@
+{
+  "name": "Chaos Axis",
+  "description": "Berasal dari mesin Ruin kuno yang sekarang sudah tidak aktif.\nBahkan teknik yang hebat dan kekuatan yang tidak diketahui dari perangkat ini pun kini sudah tidak ada gunanya setelah mesin yang memuatnya gagal untuk mempertahankan integritas strukturalnya.",
+  "sortorder": 1766,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Didapatkan melalui Craft",
+    "Dijatuhkan oleh Ruin Sentinel Lv. 40+",
+    "Penukaran Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Axis.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Item_Chaos_Axis.png",
+    "nameicon": "UI_ItemIcon_112048"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chaos_Axis"
+  },
+  "version": ""
+}

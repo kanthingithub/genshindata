@@ -1,0 +1,21 @@
+{
+  "name": "Polarizing Prism",
+  "description": "A prism that can bend light.\nIn the darkness, these prisms can spread thin light into a wider area. Perhaps this is due to this quirk that these prisms can grant a measure of peace to those whose hearts are oft shrouded in darkness.",
+  "sortorder": 1770,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Crafted",
+    "Dropped by Lv. 60+ Mirror Maidens"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Polarizing_Prism.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Item_Polarizing_Prism.png",
+    "nameicon": "UI_ItemIcon_112052"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Polarizing_Prism"
+  },
+  "version": ""
+}

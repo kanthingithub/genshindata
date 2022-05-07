@@ -1,0 +1,23 @@
+{
+  "name": "堅牢黃玉碎屑",
+  "description": "角色突破素材。",
+  "sortorder": 1846,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培養素材",
+  "source": [
+    "無相之岩掉落",
+    "黃金王獸掉落",
+    "遺蹟巨蛇掉落",
+    "紀念品商店兌換"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Prithiva_Topaz_Sliver.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Prithiva_Topaz_Sliver.png",
+    "nameicon": "UI_ItemIcon_104171"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Prithiva_Topaz_Sliver"
+  },
+  "version": ""
+}

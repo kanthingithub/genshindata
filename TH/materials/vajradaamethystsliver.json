@@ -1,0 +1,22 @@
+{
+  "name": "Vajrada Amethyst Sliver",
+  "description": "วัสดุเลื่อนขั้นตัวละคร",
+  "sortorder": 1834,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ดรอปจาก Electro Hypostases",
+    "ดรอปจาก Thunder Manifestation",
+    "แลกได้ที่ร้านขายของที่ระลึก"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vajrada_Amethyst_Sliver.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Item_Vajrada_Amethyst_Sliver.png",
+    "nameicon": "UI_ItemIcon_104141"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Vajrada_Amethyst_Sliver"
+  },
+  "version": ""
+}

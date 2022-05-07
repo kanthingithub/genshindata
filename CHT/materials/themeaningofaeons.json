@@ -1,0 +1,20 @@
+{
+  "name": "萬劫之真意",
+  "description": "在一切塵埃落定之後，從淨土帶回的小小頭飾。\n一念則萬劫盡，總有思念可以超越時間。\n百千萬劫，「真」實之意，不知道是否傳達到了。",
+  "sortorder": 1816,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培養素材",
+  "source": [
+    "70級以上永恆的守護者挑戰獎勵"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_113034",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_The_Meaning_of_Aeons.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Item_The_Meaning_of_Aeons.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/The_Meaning_of_Aeons"
+  },
+  "version": ""
+}

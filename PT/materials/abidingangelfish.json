@@ -1,0 +1,20 @@
+{
+  "name": "Acará Devoto",
+  "description": "Um peixe borboleta raro e valiosa de Liyue. No momento, só pode ser encontrado em locais próximos as moradas dos Adepti. Suas linhas pálidas brancas saltam aos olhos, e tem maior longevidade que outros peixes da mesma espécie, dessa forma, é considerado um peixe da sorte abençoado pelos Adepti.\nDevido ao seu respeito pelos Adepti, a maioria das pessoas de Liyue se recusa a comer esse peixe por causa disso, mas alguns não temem essa superstição e dizem que comer esse peixe pode prolongar sua própria vida.",
+  "sortorder": 2030,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Peixe",
+  "source": [
+    "Obtido ao pescar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Abiding_Angelfish.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/66/Item_Abiding_Angelfish.png",
+    "nameicon": "UI_ItemIcon_131016"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Abiding_Angelfish"
+  },
+  "version": ""
+}

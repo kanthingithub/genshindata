@@ -1,0 +1,19 @@
+{
+  "name": "日落果",
+  "description": "遍布提瓦特大陆的自然恩惠，如夕阳般靓丽美好的饱满果实。有着奇异的香甜气味，能让人精神百倍。",
+  "sortorder": 1404,
+  "category": "NOTICE_ADD_HP",
+  "materialtype": "食物",
+  "source": [
+    "野外采集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sunsettia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Item_Sunsettia.png",
+    "nameicon": "UI_ItemIcon_100002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sunsettia"
+  },
+  "version": ""
+}

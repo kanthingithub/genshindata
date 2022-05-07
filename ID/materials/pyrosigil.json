@@ -1,0 +1,19 @@
+{
+  "name": "Pyro Sigil",
+  "description": "Sebuah tanda pengakuan dan tanda penghormatan, di area sekitar Mondstadt. Dapat ditukarkan menjadi item langka di beberapa lokasi tertentu.",
+  "sortorder": 500,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "Sigil Elemental",
+  "source": [
+    "Hadiah Eksplorasi"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_301",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Pyro_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Pyro_Sigil"
+  },
+  "version": ""
+}

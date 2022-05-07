@@ -1,0 +1,21 @@
+{
+  "name": "隠獣の指爪",
+  "description": "獣域ウルブズが残した体の一部。\n通常、このような異常創造生物が駆逐された後、これらの世に相容れないものが残るのは奇怪なことである。",
+  "sortorder": 1774,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "キャラクター育成素材",
+  "source": [
+    "獣域ウルブズでドロップ",
+    "スターダスト交換"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_112056",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Concealed_Claw.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Concealed_Claw.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Concealed_Claw"
+  },
+  "version": ""
+}

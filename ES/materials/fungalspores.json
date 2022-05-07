@@ -1,0 +1,16 @@
+{
+  "name": "Espora fúngica",
+  "description": "Polvo brillante que dejan tras de sí las esporas de los Flotihongos. Solo hace falta un estornudo para que este polvo desaparezca por completo.",
+  "sortorder": 1780,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Obtenido de Flotihongos"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_112059",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fungal_Spores.png"
+  },
+  "version": "2.6"
+}

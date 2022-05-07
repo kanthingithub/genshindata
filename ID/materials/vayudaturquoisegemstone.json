@@ -1,0 +1,21 @@
+{
+  "name": "Vayuda Turquoise Gemstone",
+  "description": "Material Ascension Karakter.\n\"Tapi arah angin bisa berubah.\"\n\"Suatu hari nanti, ia akan bertiup ke masa depan yang lebih cerah ...\"\n\"Terimalah berkatku dan nikmatilah hidupmu mulai hari ini.\"",
+  "sortorder": 1841,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Dijatuhkan oleh Anemo Hypostasis Lv. 75+",
+    "Didapatkan melalui Craft"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vayuda_Turquoise_Gemstone.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Vayuda_Turquoise_Gemstone.png",
+    "nameicon": "UI_ItemIcon_104154"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Vayuda_Turquoise_Gemstone"
+  },
+  "version": ""
+}

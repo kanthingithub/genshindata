@@ -1,0 +1,19 @@
+{
+  "name": "Hạnh Nhân",
+  "description": "Hạt giống có hương thơm đặc biệt. Có thể đem lại mùi vị tươi mới cho món ăn.",
+  "sortorder": 2005,
+  "category": "EXCHANGE",
+  "materialtype": "Nguyên Liệu Thực Phẩm",
+  "source": [
+    "Mua ở Tiệm Tạp Hóa Liyue"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Almond.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Item_Almond.png",
+    "nameicon": "UI_ItemIcon_100089"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Almond"
+  },
+  "version": ""
+}

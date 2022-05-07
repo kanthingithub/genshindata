@@ -1,0 +1,22 @@
+{
+  "name": "Morceau de lazurite varunada",
+  "description": "Matériau d'élévation de personnage.\n« Mes idéaux sont purs. »\n« Je me dois de te corriger : personne ici n'est impur aux yeux des dieux... »",
+  "sortorder": 1828,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Butin d'Océanide (Niv.60+)",
+    "Butin d'Hypostase Hydro (Niv.60+)",
+    "Synthèse"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Varunada_Lazurite_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Item_Varunada_Lazurite_Chunk.png",
+    "nameicon": "UI_ItemIcon_104123"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Varunada_Lazurite_Chunk"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Loach Pearl",
+  "description": "A shiny pearl spat out by a loach that has mystical medicinal properties.\nMinerals and elemental particles ingested by the loach condense into these mildly magical beads. When threatened, the loach spits them out to confuse predators and escape with its life.",
+  "sortorder": 1976,
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [
+    "Found in the wild",
+    "Recommendation: Found in Dihua Marsh"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Loach_Pearl.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Item_Loach_Pearl.png",
+    "nameicon": "UI_ItemIcon_100090"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Loach_Pearl"
+  },
+  "version": ""
+}

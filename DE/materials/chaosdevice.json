@@ -1,0 +1,22 @@
+{
+  "name": "Chaos-Apparat",
+  "description": "Ein Relikt aus uralten Ruinen, das einmal dazu diente, ein Gerät am Laufen zu halten. Die Technik sieht verblüffend aus.",
+  "sortorder": 1741,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Beute von Ruinenwächtern",
+    "Beute von Ruinenjägern",
+    "Mit Sternenstaub kaufen"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Device.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Item_Chaos_Device.png",
+    "nameicon": "UI_ItemIcon_112023"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chaos_Device"
+  },
+  "version": ""
+}

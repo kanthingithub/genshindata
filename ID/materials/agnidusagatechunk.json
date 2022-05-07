@@ -1,0 +1,22 @@
+{
+  "name": "Agnidus Agate Chunk",
+  "description": "Material Ascension Karakter.\n\"Sebuah perjalanan untuk mengabulkan keinginan; sebuah pertempuran untuk mendapatkan ketenaran...\"\n\"Terbakar menjadi abu demi sebuah mimpi.\"",
+  "sortorder": 1824,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Dijatuhkan oleh Pyro Regisvine Lv. 60+",
+    "Dijatuhkan oleh Pyro Hypostasis Lv. 60+",
+    "Didapatkan melalui Craft"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Agnidus_Agate_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Item_Agnidus_Agate_Chunk.png",
+    "nameicon": "UI_ItemIcon_104113"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Agnidus_Agate_Chunk"
+  },
+  "version": ""
+}

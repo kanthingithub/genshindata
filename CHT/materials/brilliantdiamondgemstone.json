@@ -1,0 +1,20 @@
+{
+  "name": "璀璨原鑽",
+  "description": "角色突破素材。\n「歡迎來到世界。」",
+  "sortorder": 1821,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培養素材",
+  "source": [
+    "冒險等階獎勵"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Brilliant_Diamond_Gemstone.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Brilliant_Diamond_Gemstone.png",
+    "nameicon": "UI_ItemIcon_104104"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Brilliant_Diamond_Gemstone"
+  },
+  "version": ""
+}

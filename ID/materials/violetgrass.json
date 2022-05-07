@@ -1,0 +1,19 @@
+{
+  "name": "Violetgrass",
+  "description": "Bunga kecil dengan vitalitas yang kuat. Dikatakan bahwa bunga mekarnya yang menghadap ke bawah mencegah aromanya menghilang.",
+  "sortorder": 2054,
+  "category": "EXCHANGE",
+  "materialtype": "Produk khas Liyue",
+  "source": [
+    "Ditemukan di dekat tebing di Liyue"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Violetgrass.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Violetgrass.png",
+    "nameicon": "UI_ItemIcon_100034"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Violetgrass"
+  },
+  "version": ""
+}

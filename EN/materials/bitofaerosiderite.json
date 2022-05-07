@@ -1,0 +1,26 @@
+{
+  "name": "Bit of Aerosiderite",
+  "description": "Weapon Ascension Material.\nThe coastal nations of Teyvat refer to the region beyond the protection of The Seven as the Dark Sea. It is said that many defeated gods refused to live under the new order of The Seven, so they fled to remote islands and became evil gods. However, their powers came from the same source as Rex Lapis, separate from this all-devouring darkness.",
+  "sortorder": 2205,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Weapon Ascension Material",
+  "dropdomain": "Domain of Forgery: Trial Grounds of Thunder",
+  "daysofweek": [
+    "Wednesday",
+    "Saturday",
+    "Sunday"
+  ],
+  "source": [
+    "Crafted"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bit_of_Aerosiderite.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Bit_of_Aerosiderite.png",
+    "nameicon": "UI_ItemIcon_114023"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bit_of_Aerosiderite"
+  },
+  "version": ""
+}

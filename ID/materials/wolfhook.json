@@ -1,0 +1,20 @@
+{
+  "name": "Wolfhook",
+  "description": "Beri dengan duri yang sering tertancap di kulit serigala. Kalau kamu perhatikan, kamu seperti bisa mendengar lolongan serigala di hutan.",
+  "sortorder": 2036,
+  "category": "EXCHANGE",
+  "materialtype": "Produk khas Mondstadt",
+  "source": [
+    "Ditemukan di alam liar",
+    "Rekomendasi: Ditemukan di Wolvendom"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wolfhook.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Item_Wolfhook.png",
+    "nameicon": "UI_ItemIcon_100021"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Wolfhook"
+  },
+  "version": ""
+}

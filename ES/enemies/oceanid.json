@@ -1,0 +1,168 @@
+{
+  "name": "Oceánida",
+  "specialname": "Oceánida - Acaste",
+  "enemytype": "BOSS",
+  "category": "Seres elementales",
+  "description": "Una forma de vida increíblemente pura creada a partir de la condensación del elemento Hydro. A menudo se encuentra junto al agua.\nSe dice que, a medida que los cuerpos de agua se vuelven más puros, aumentan los elementos Hydro de su interior, lo que hace que las Oceánidas se vuelvan más poderosas. También se dice que, en el pasado, las Oceánidas fueron criaturas marinas de un lugar lejano que llevaron los fragmentos de una diosa que murió hace mucho tiempo a todos los rincones de este mundo. Tal vez lo hicieron para que el amor de su diosa hacia este mundo se extendiera por toda la tierra a través del agua...",
+  "investigation": {
+    "name": "Oceánida",
+    "category": "Jefes",
+    "description": "Una forma de vida increíblemente pura creada a partir de la condensación del elemento Hydro.\\nA menudo se encuentra junto al agua. Se dice que, a medida que los cuerpos de agua se vuelven más puros, aumentan los elementos Hydro de su interior, lo que hace que las Oceánidas se vuelvan más poderosas.\\nTambién se dice que, en el pasado, las Oceánidas fueron criaturas marinas de un lugar lejano que llevaron los fragmentos de un dios que murió hace mucho tiempo a todos los rincones de este mundo. Tal vez lo hicieron para que el amor de su dios hacia este mundo se extendiera por toda la tierra a través del agua..."
+  },
+  "rewardpreview": [
+    {
+      "name": "EXP de Aventura",
+      "count": 200
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "EXP de Amistad"
+    },
+    {
+      "name": "Pedacito de lazurita varunada"
+    },
+    {
+      "name": "Fragmento de lazurita varunada"
+    },
+    {
+      "name": "Trozo de lazurita varunada"
+    },
+    {
+      "name": "Lazurita varunada"
+    },
+    {
+      "name": "Corazón purificador",
+      "count": 2.5556
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Exiliado",
+      "rarity": "3"
+    },
+    {
+      "name": "Ritual del Destino",
+      "rarity": "3"
+    },
+    {
+      "name": "Aventurero",
+      "rarity": "3"
+    },
+    {
+      "name": "Final del Gladiador",
+      "rarity": "4"
+    },
+    {
+      "name": "Orquesta del Errante",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Exiliado",
+      "rarity": "4"
+    },
+    {
+      "name": "Ritual del Destino",
+      "rarity": "4"
+    },
+    {
+      "name": "Final del Gladiador",
+      "rarity": "5"
+    },
+    {
+      "name": "Orquesta del Errante",
+      "rarity": "5"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Oceanid"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 729.1699315141886,
+      "attack": 152.2663863116577,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 2866.0405358325806,
+      "attack": 406.8166587971864,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 8852.000012823846,
+      "attack": 1003.4998039648926,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 14728.003266277956,
+      "attack": 1639.0596025083796,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 26948.494634823874,
+      "attack": 2450.4833108624443,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 49964.84255924821,
+      "attack": 3778.963487027271,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 83812.54813112319,
+      "attack": 5321.546282113646,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 130519.72637389787,
+      "attack": 7346.143133227946,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 185657.27540502325,
+      "attack": 9451.590193737298,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 243540.86677422747,
+      "attack": 11418.823591017863,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 367651.2154009938,
+      "attack": 14773.25319093978,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 535023.1372169405,
+      "attack": 15066.582932085032,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 719863.1672338396,
+      "attack": 15361.966398832854,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

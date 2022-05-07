@@ -1,0 +1,21 @@
+{
+  "name": "雾虚灯芯",
+  "description": "将本就罕见的雾虚草集结成的束，会散发出幽晦的冥光；提着这种灯的人，则会召来飞萤与不幸。",
+  "sortorder": 1746,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培养素材",
+  "source": [
+    "合成获得",
+    "60级以上愚人众·萤术士掉落"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Grass_Wick.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Item_Mist_Grass_Wick.png",
+    "nameicon": "UI_ItemIcon_112028"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Grass_Wick"
+  },
+  "version": ""
+}

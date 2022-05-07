@@ -1,0 +1,230 @@
+{
+  "name": "祈聖秘境：骸館",
+  "region": "稲妻",
+  "domainEntrance": "熟眠ノ庭",
+  "domainType": "聖遺物",
+  "description": "主のいない邸宅には、獣域の魔物たちが住み着いている。\n永遠の雷を駆使し、試練をクリアすることができれば、貴重な聖遺物を手に入れることができるかもしれない。",
+  "daysOfWeek": null,
+  "images": {},
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "祈聖秘境：骸館 I",
+      "recommendedLevel": 59,
+      "recommendedElements": null,
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "冒険経験",
+          "count": 100
+        },
+        {
+          "name": "モラ",
+          "count": 1850
+        },
+        {
+          "name": "好感度経験値",
+          "count": 15
+        },
+        {
+          "name": "守護の心",
+          "rarity": "3"
+        },
+        {
+          "name": "勇士の心",
+          "rarity": "3"
+        },
+        {
+          "name": "華館夢醒形骸記",
+          "rarity": "4"
+        },
+        {
+          "name": "海染硨磲",
+          "rarity": "4"
+        },
+        {
+          "name": "守護の心",
+          "rarity": "4"
+        },
+        {
+          "name": "勇士の心",
+          "rarity": "4"
+        }
+      ],
+      "disorder": null,
+      "monsterlist": [
+        "ヒルチャール暴徒·雷斧",
+        "大型水スライム",
+        "水スライム"
+      ]
+    },
+    {
+      "name": "祈聖秘境：骸館 II",
+      "recommendedLevel": 69,
+      "recommendedElements": null,
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "冒険経験",
+          "count": 100
+        },
+        {
+          "name": "モラ",
+          "count": 2025
+        },
+        {
+          "name": "好感度経験値",
+          "count": 20
+        },
+        {
+          "name": "守護の心",
+          "rarity": "3"
+        },
+        {
+          "name": "勇士の心",
+          "rarity": "3"
+        },
+        {
+          "name": "華館夢醒形骸記",
+          "rarity": "4"
+        },
+        {
+          "name": "海染硨磲",
+          "rarity": "4"
+        },
+        {
+          "name": "守護の心",
+          "rarity": "4"
+        },
+        {
+          "name": "勇士の心",
+          "rarity": "4"
+        }
+      ],
+      "disorder": null,
+      "monsterlist": [
+        "ヒルチャール暴徒·雷斧",
+        "大型水スライム",
+        "水スライム",
+        "ヒルチャール·雷矢",
+        "ヒルチャール·突進"
+      ]
+    },
+    {
+      "name": "祈聖秘境：骸館 III",
+      "recommendedLevel": 80,
+      "recommendedElements": null,
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "冒険経験",
+          "count": 100
+        },
+        {
+          "name": "モラ",
+          "count": 2200
+        },
+        {
+          "name": "好感度経験値",
+          "count": 20
+        },
+        {
+          "name": "守護の心",
+          "rarity": "3"
+        },
+        {
+          "name": "勇士の心",
+          "rarity": "3"
+        },
+        {
+          "name": "華館夢醒形骸記",
+          "rarity": "4"
+        },
+        {
+          "name": "海染硨磲",
+          "rarity": "4"
+        },
+        {
+          "name": "守護の心",
+          "rarity": "4"
+        },
+        {
+          "name": "勇士の心",
+          "rarity": "4"
+        },
+        {
+          "name": "華館夢醒形骸記",
+          "rarity": "5"
+        },
+        {
+          "name": "海染硨磲",
+          "rarity": "5"
+        }
+      ],
+      "disorder": null,
+      "monsterlist": [
+        "獣域ハウンド·雷",
+        "獣域ウェルプ·雷",
+        "ヒルチャール·雷矢"
+      ]
+    },
+    {
+      "name": "祈聖秘境：骸館 IV",
+      "recommendedLevel": 90,
+      "recommendedElements": null,
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "冒険経験",
+          "count": 100
+        },
+        {
+          "name": "モラ",
+          "count": 2525
+        },
+        {
+          "name": "好感度経験値",
+          "count": 20
+        },
+        {
+          "name": "守護の心",
+          "rarity": "3"
+        },
+        {
+          "name": "勇士の心",
+          "rarity": "3"
+        },
+        {
+          "name": "華館夢醒形骸記",
+          "rarity": "4"
+        },
+        {
+          "name": "海染硨磲",
+          "rarity": "4"
+        },
+        {
+          "name": "守護の心",
+          "rarity": "4"
+        },
+        {
+          "name": "勇士の心",
+          "rarity": "4"
+        },
+        {
+          "name": "華館夢醒形骸記",
+          "rarity": "5"
+        },
+        {
+          "name": "海染硨磲",
+          "rarity": "5"
+        }
+      ],
+      "disorder": null,
+      "monsterlist": [
+        "獣域ハウンド·雷",
+        "獣域ウェルプ·雷",
+        "ヒルチャール暴徒·雷斧"
+      ]
+    }
+  ]
+}

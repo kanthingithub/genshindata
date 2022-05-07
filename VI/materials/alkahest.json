@@ -1,0 +1,18 @@
+{
+  "name": "Alkahest",
+  "description": "Đạo cụ tinh luyện dùng cho \"Con Thoi Chu Sa\".\nChất lỏng màu bạc lấp lánh ánh sáng bên ngoài thế giới có lẽ là chất kịch độc ăn mòn xương tủy đối với bất kỳ thứ gì trên mặt đất. Nhưng cũng sở hữu sức mạnh khiến vật chất thăng hoa.",
+  "sortorder": 2298,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Tinh Luyện",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_200108",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Alkahest.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Alkahest.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Alkahest"
+  },
+  "version": ""
+}

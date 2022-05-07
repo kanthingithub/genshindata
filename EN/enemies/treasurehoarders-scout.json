@@ -1,0 +1,113 @@
+{
+  "name": "Treasure Hoarders - Scout",
+  "specialname": "\"Goldfinger\"",
+  "enemytype": "COMMON",
+  "category": "Other Human Factions",
+  "description": "A member of the decentralized criminal organization that has footprints all over the continent and even deep within unknown domains.\nTheirs is the legwork and the tailing of targets. They usually wind up in criminal circles due to poverty or lack of education, but they don't seem to have gotten any richer after choosing a life of crime...",
+  "investigation": {
+    "name": "Treasure Hoarder",
+    "category": "Easy",
+    "description": "A ragtag group of bandits whose traces can be found all across the lands, even in deepest depths of uncharted domains.\\nAlthough their main purpose is hunting treasure, they are also known to get rough with unfortunate bystanders who happen to be nearby.\\nIt's said that the group's founder, Reed Miller, defined the Treasure Hoarders as \"an organization of mutual cooperation.\""
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Treasure Hoarder Insignia",
+      "count": 1.2606
+    },
+    {
+      "name": "Silver Raven Insignia",
+      "count": 0.3362
+    },
+    {
+      "name": "Golden Raven Insignia",
+      "count": 0.084
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Thoarder_Male_Rogue_01"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 87.50039587705396,
+      "attack": 30.453276106180738,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 343.92488039690215,
+      "attack": 81.36332867049941,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 1062.240051255736,
+      "attack": 200.69995317345638,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 1767.3604746725468,
+      "attack": 327.81190805638107,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 3233.819507533917,
+      "attack": 490.09664356609574,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 5995.781387735158,
+      "attack": 755.7926687119798,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 10057.506246464327,
+      "attack": 1064.3092160165033,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 15662.367897926131,
+      "attack": 1469.228570866704,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 22278.874091338832,
+      "attack": 1890.3179669820238,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 29224.90538074402,
+      "attack": 2283.764631501035,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 44118.14791301638,
+      "attack": 2954.650526015408,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 64202.77947096713,
+      "attack": 3013.316472017221,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 86383.58411114104,
+      "attack": 3072.393163123954,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

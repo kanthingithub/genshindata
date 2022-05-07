@@ -1,0 +1,20 @@
+{
+  "name": "Horsetail",
+  "description": "Tumbuhan ungu yang terkadang tumbuh di antara Silvergrass tapi lebih tinggi, lurus, dan gemuk - seperti bangsawan di antara rakyat biasa.",
+  "sortorder": 1967,
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [
+    "Ditemukan di Silvergrass dan lahan basah",
+    "Rekomendasi: Ditemukan di Dihua Marsh"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Horsetail.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Item_Horsetail.png",
+    "nameicon": "UI_ItemIcon_100032"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Horsetail"
+  },
+  "version": ""
+}

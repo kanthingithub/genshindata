@@ -1,0 +1,20 @@
+{
+  "name": "Akai Maou",
+  "description": "Seekor stickleback dengan penampilan yang garang disertai sifatnya yang mendukung. Mereka akan melawan siapa pun dan apa pun di bawah permukaan laut untuk mendapatkan makanan — mereka adalah \"perompak\" berwarna merah yang benar-benar ditakuti. Warnanya yang merah menyala tampaknya banyak kaitannya dengan Pyro, karena mereka memiliki kendali atas suhu tinggi, meskipun mereka tidak bisa menyalakan api secara langsung. Mereka dapat mengubah energi dari makanan yang mereka makan dan memusatkan semua kekuatannya pada ujung moncong mereka yang berbahaya. Hal ini membuat mereka benar-benar seperti preman di dalam air.\n\"Perlu mengebor kayu untuk membuat api? Merekalah sahabat terbaikmu.\" — Angler's Atlas, Chapter Akai Maou",
+  "sortorder": 2023,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Ikan",
+  "source": [
+    "Didapatkan dari memancing ikan"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Akai_Maou.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Item_Akai_Maou.png",
+    "nameicon": "UI_ItemIcon_131009"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Akai_Maou"
+  },
+  "version": ""
+}

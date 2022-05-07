@@ -1,0 +1,168 @@
+{
+  "name": "Hypostase Électro",
+  "specialname": "Alep",
+  "enemytype": "BOSS",
+  "category": "Êtres élémentaires",
+  "description": "Nom de code : « Alep ». Un être supérieur de l'élément Électro.\nLes Hypostases sont des structures élémentaires de la forme la plus aboutie, qui se forment généralement dans les lieux emplis d'énergie élémentaire ou le long de lignes énergétiques congestionnées.\nLes Hypostases élémentaires ont développé chacune différents mécanismes de combat s'appuyant sur leurs attributs élémentaires respectifs.",
+  "investigation": {
+    "name": "Hypostase Électro",
+    "category": "Boss",
+    "description": "Nom de code : « Alep ». Un être supérieur de l'élément Électro.\\nLes Hypostases sont des structures élémentaires de la forme la plus aboutie, qui se forment généralement dans les lieux emplis d'énergie élémentaire ou le long de lignes énergétiques congestionnées.\\nLes Hypostases élémentaires ont développé chacune différents mécanismes défensifs s'appuyant sur leurs attributs élémentaires respectifs."
+  },
+  "rewardpreview": [
+    {
+      "name": "EXP d'aventure",
+      "count": 200
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "EXP d'affinité"
+    },
+    {
+      "name": "Éclat d'améthyste vajrada"
+    },
+    {
+      "name": "Fragment d'améthyste vajrada"
+    },
+    {
+      "name": "Morceau d'améthyste vajrada"
+    },
+    {
+      "name": "Pierre d'améthyste vajrada"
+    },
+    {
+      "name": "Prisme d'éclair",
+      "count": 2.5556
+    },
+    {
+      "name": "Instructeur",
+      "rarity": "3"
+    },
+    {
+      "name": "Exilé",
+      "rarity": "3"
+    },
+    {
+      "name": "Sacrifieur Électro",
+      "rarity": "3"
+    },
+    {
+      "name": "Médecin itinérant",
+      "rarity": "3"
+    },
+    {
+      "name": "Rideau du Gladiateur",
+      "rarity": "4"
+    },
+    {
+      "name": "Bande vagabonde",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructeur",
+      "rarity": "4"
+    },
+    {
+      "name": "Exilé",
+      "rarity": "4"
+    },
+    {
+      "name": "Sacrifieur Électro",
+      "rarity": "4"
+    },
+    {
+      "name": "Rideau du Gladiateur",
+      "rarity": "5"
+    },
+    {
+      "name": "Bande vagabonde",
+      "rarity": "5"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Effigy_Electric"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 510.41895205993205,
+      "attack": 152.2663863116577,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 2006.2283750828065,
+      "attack": 406.8166587971864,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 6196.400008976692,
+      "attack": 1003.4998039648926,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 10309.60228639457,
+      "attack": 1639.0596025083796,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 18863.94624437671,
+      "attack": 2450.4833108624443,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 34975.389791473746,
+      "attack": 3778.963487027271,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 58668.78369178623,
+      "attack": 5321.546282113646,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 91363.8084617285,
+      "attack": 7346.143133227946,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 129960.09278351627,
+      "attack": 9451.590193737298,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 170478.60674195923,
+      "attack": 11418.823591017863,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 257355.85078069568,
+      "attack": 14773.25319093978,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 374516.19605185837,
+      "attack": 15066.582932085032,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 503904.21706368774,
+      "attack": 15361.966398832854,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

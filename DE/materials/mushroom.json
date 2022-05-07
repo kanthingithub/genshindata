@@ -1,0 +1,19 @@
+{
+  "name": "Champignon",
+  "description": "Vor Lebenskraft nur so strotzend und sehr häufig anzutreffen. Er braucht lediglich genug Schatten und Wasser. Ansonsten wächst er fast überall.",
+  "sortorder": 1977,
+  "category": "EXCHANGE",
+  "materialtype": "Zutat",
+  "source": [
+    "In der freien Natur zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mushroom.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Item_Mushroom.png",
+    "nameicon": "UI_ItemIcon_100011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mushroom"
+  },
+  "version": ""
+}

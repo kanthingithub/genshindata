@@ -1,0 +1,17 @@
+{
+  "name": "Tela",
+  "description": "Una tela de excelente calidad. Será útil a la hora de fabricar decoraciones.",
+  "sortorder": 1941,
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fabric.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Item_Fabric.png",
+    "nameicon": "UI_ItemIcon_101401"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fabric"
+  },
+  "version": ""
+}

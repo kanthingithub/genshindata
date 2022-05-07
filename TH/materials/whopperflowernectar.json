@@ -1,0 +1,21 @@
+{
+  "name": "Whopperflower Nectar",
+  "description": "น้ำหวานซึ่งสกัดออกมาจากเกสรดอกไม้ มีธาตุปริมาณเล็กน้อยอยู่ภายใน\nเมื่อชิมดูแล้วให้ความรู้สึกคล้ายกันกับ Sweet Flower อยู่เล็กน้อย",
+  "sortorder": 1756,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ดรอปจาก Whopperflower",
+    "แลกเปลี่ยนด้วย Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Whopperflower_Nectar.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Item_Whopperflower_Nectar.png",
+    "nameicon": "UI_ItemIcon_112038"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Whopperflower_Nectar"
+  },
+  "version": ""
+}

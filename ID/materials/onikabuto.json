@@ -1,0 +1,21 @@
+{
+  "name": "Onikabuto",
+  "description": "Kumbang aneh yang hidup di area yang kaya dengan energi Electro. Temperamennya yang jinak dan tenang sangat bertolak belakang dengan cangkang bajanya yang memiliki tampilan wajah garang seperti iblis.",
+  "sortorder": 2060,
+  "category": "EXCHANGE",
+  "materialtype": "Produk Khas Inazuma",
+  "source": [
+    "Ditemukan di alam liar",
+    "Rekomendasi: Ditemukan di Narukami Island",
+    "Rekomendasi: Ditemukan di Tatarasuna"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Onikabuto.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Onikabuto.png",
+    "nameicon": "UI_ItemIcon_101201"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Onikabuto"
+  },
+  "version": ""
+}

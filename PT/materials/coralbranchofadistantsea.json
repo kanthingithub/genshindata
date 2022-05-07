@@ -1,0 +1,24 @@
+{
+  "name": "Ramo de Coral de um Mar Distante",
+  "description": "Material de Ascensão de Armas.\nA Ilha Watatsumi é a mais distante da Ilha Narukami no arquipélago das ilhas de Inazuma, e seu nome significa \"o deus dos oceanos\" na língua antiga local. Lendas dizem que quando a grande serpente apareceu pela primeira vez na nação abissal da noite eterna, seu corpo fluorescente estava coberto em numa miríade de corais coloridos.",
+  "sortorder": 2207,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Ascensão de Armas",
+  "dropdomain": "Domínio da Forja: Grãos das Profundezas",
+  "daysofweek": [
+    "Segunda-feira",
+    "Quinta-feira",
+    "Domingo"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Coral_Branch_of_a_Distant_Sea.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Item_Coral_Branch_of_a_Distant_Sea.png",
+    "nameicon": "UI_ItemIcon_114025"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Coral_Branch_of_a_Distant_Sea"
+  },
+  "version": ""
+}

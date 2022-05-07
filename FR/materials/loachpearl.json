@@ -1,0 +1,20 @@
+{
+  "name": "Perle de loche",
+  "description": "Une perle brillante crachée par une loche qui a une vertu médicinale magique.\nLes minéraux et les éléments ingérés par la loche se condensent en perles possédant un faible pouvoir magique. En cas d'urgence, la loche crache ces perles pour confondre les chasseurs et se protéger.",
+  "sortorder": 1976,
+  "category": "EXCHANGE",
+  "materialtype": "Matériau",
+  "source": [
+    "Dans la nature",
+    "Zone conseillée : Marais Dihua"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Loach_Pearl.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Item_Loach_Pearl.png",
+    "nameicon": "UI_ItemIcon_100090"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Loach_Pearl"
+  },
+  "version": ""
+}

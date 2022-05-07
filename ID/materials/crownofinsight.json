@@ -1,0 +1,20 @@
+{
+  "name": "Crown of Insight",
+  "description": "Material Penguatan Talenta yang berharga.\nDi zaman kuno, pernah digunakan sebagai instrumen ritual untuk membawa dan menyebarkan ilmu pengetahuan. Sekarang, kebijaksanaan ditemukan dalam teks-teks kuno dan dalam pidato yang mendalam. Namun demikian, Mahkota Kebijaksanaan ini masih tetap dapat memberikan kekuatan dan kebijaksanaan kepada pemiliknya.",
+  "sortorder": 2182,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Talenta",
+  "source": [
+    "Hadiah Event Waktu Terbatas"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crown_of_Insight.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Item_Crown_of_Insight.png",
+    "nameicon": "UI_ItemIcon_104319"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Crown_of_Insight"
+  },
+  "version": ""
+}

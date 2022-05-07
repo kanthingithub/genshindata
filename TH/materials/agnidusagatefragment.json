@@ -1,0 +1,22 @@
+{
+  "name": "Agnidus Agate Fragment",
+  "description": "วัสดุเลื่อนขั้นตัวละคร\n\"เพื่อเติมเต็มความปรารถนาจึงเริ่มเดินทาง เพื่อก้าวสู่ความเป็นหนึ่งจึงเข้าต่อสู้ฟาดฟัน...\"",
+  "sortorder": 1823,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ดรอปจาก Pyro Regisvine Lv.40 ขึ้นไป",
+    "ดรอปจาก Pyro Hypostasis Lv.40 ขึ้นไป",
+    "ได้รับจากการสรรสร้าง"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Agnidus_Agate_Fragment.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Item_Agnidus_Agate_Fragment.png",
+    "nameicon": "UI_ItemIcon_104112"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Agnidus_Agate_Fragment"
+  },
+  "version": ""
+}

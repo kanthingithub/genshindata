@@ -1,0 +1,19 @@
+{
+  "name": "Cogumelo",
+  "description": "Um fungo muito comum com consistência dura. Pode crescer em qualquer lugar com a certa quantidade de sombra e umidade.",
+  "sortorder": 1977,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente",
+  "source": [
+    "Encontrado na natureza"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mushroom.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Item_Mushroom.png",
+    "nameicon": "UI_ItemIcon_100011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mushroom"
+  },
+  "version": ""
+}

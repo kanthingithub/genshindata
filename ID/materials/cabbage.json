@@ -1,0 +1,20 @@
+{
+  "name": "Cabbage",
+  "description": "Sayuran yang memiliki banyak lapisan. Dulunya banyak digunakan sebagai tumbuhan hias. Tidak dapat dipungkiri kalau sayur ini memang terlihat indah saat ditaruh di dalam pot.",
+  "sortorder": 1984,
+  "category": "EXCHANGE",
+  "materialtype": "Bahan Masak",
+  "source": [
+    "Ditemukan di alam liar",
+    "Dijual di toko barang kebutuhan"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cabbage.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Item_Cabbage.png",
+    "nameicon": "UI_ItemIcon_100018"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cabbage"
+  },
+  "version": ""
+}

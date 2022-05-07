@@ -1,0 +1,26 @@
+{
+  "name": "Доблесть Наруками",
+  "description": "Материал возвышения оружия.\nСокровище владычицы грома - величие, которое заключается в её доблести и гневе. Гнев её происходит от сердечной любви, а доблесть его поддерживает. Поэтому любой, кто посмеет встать на её пути к вечности или причинить народу Инадзумы вред, становится её врагом.\nГоворят, что когда-то было четыре великих духа, три божественных кицунэ и два знаменитых меча, но символом её величества всемогущей Наруками Огосё мог быть только один удар, молниеносный и блистательный, как метеор.",
+  "sortorder": 2214,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Возвышение оружия",
+  "dropdomain": "Воля: Песчаный алтарь",
+  "daysofweek": [
+    "Вторник",
+    "Пятница",
+    "Воскресенье"
+  ],
+  "source": [
+    "Алхимия"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Narukami's_Valor.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Narukami%27s_Valor.png",
+    "nameicon": "UI_ItemIcon_114032"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Narukami's_Valor"
+  },
+  "version": ""
+}

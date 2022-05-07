@@ -1,0 +1,19 @@
+{
+  "name": "Zanahoria",
+  "description": "Un vegetal sano y nutritivo. Fácil de cultivar, cosechar y con un buen sabor.",
+  "sortorder": 1979,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente culinario",
+  "source": [
+    "Recolectar en la naturaleza"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Carrot.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/1e/Item_Carrot.png",
+    "nameicon": "UI_ItemIcon_100013"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Carrot"
+  },
+  "version": ""
+}

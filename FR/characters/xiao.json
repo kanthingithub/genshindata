@@ -1,0 +1,854 @@
+{
+  "name": "Xiao",
+  "fullname": "Xiao",
+  "title": "Gardien Yaksha",
+  "description": "Un des Adeptes de Liyue, aussi connu sous le nom de « Dompteur de démons » et « Général des Yakshas ».",
+  "rarity": "5",
+  "element": "Anémo",
+  "weapontype": "Arme d'hast",
+  "substat": "Taux CRIT",
+  "gender": "Homme",
+  "body": "BOY",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Adeptes de Liyue",
+  "birthdaymmdd": "4/17",
+  "birthday": "17 avril",
+  "constellation": "Alatus Nemeseos",
+  "cv": {
+    "english": "Laila Berzins",
+    "chinese": "kinsen",
+    "japanese": "松岡禎丞",
+    "korean": "Shim Kyu-hyeok"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Éclat de turquoise vayuda",
+        "count": 1
+      },
+      {
+        "name": "Fleur de Qingxin",
+        "count": 3
+      },
+      {
+        "name": "Bave de Blob",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragment de turquoise vayuda",
+        "count": 3
+      },
+      {
+        "name": "Jade juvénile",
+        "count": 2
+      },
+      {
+        "name": "Fleur de Qingxin",
+        "count": 10
+      },
+      {
+        "name": "Bave de Blob",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragment de turquoise vayuda",
+        "count": 6
+      },
+      {
+        "name": "Jade juvénile",
+        "count": 4
+      },
+      {
+        "name": "Fleur de Qingxin",
+        "count": 20
+      },
+      {
+        "name": "Mucus de Blob",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Morceau de turquoise vayuda",
+        "count": 3
+      },
+      {
+        "name": "Jade juvénile",
+        "count": 8
+      },
+      {
+        "name": "Fleur de Qingxin",
+        "count": 30
+      },
+      {
+        "name": "Mucus de Blob",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Morceau de turquoise vayuda",
+        "count": 6
+      },
+      {
+        "name": "Jade juvénile",
+        "count": 12
+      },
+      {
+        "name": "Fleur de Qingxin",
+        "count": 45
+      },
+      {
+        "name": "Essence de Blob",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Pierre de turquoise vayuda",
+        "count": 6
+      },
+      {
+        "name": "Jade juvénile",
+        "count": 20
+      },
+      {
+        "name": "Fleur de Qingxin",
+        "count": 60
+      },
+      {
+        "name": "Essence de Blob",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Character_Xiao_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/1/1e/Character_Xiao_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xiao.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210122/2021012215393946486.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210122/2021012210173258296.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/59cb768b56ebc0143d6d2e37385c934c.png",
+    "nameicon": "UI_AvatarIcon_Xiao",
+    "nameiconcard": "UI_AvatarIcon_Xiao_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Xiao",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Xiao",
+    "namesideicon": "UI_AvatarIcon_Side_Xiao"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Xiao"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 991.4528198242188,
+      "attack": 27.185199737548828,
+      "defense": 62.223201751708984,
+      "specialized": 0.05000000074505806
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2571.828714849471,
+      "attack": 70.5184108673393,
+      "defense": 161.40699163404406,
+      "specialized": 0.05000000074505806
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3421.9098305721272,
+      "attack": 93.82555884707563,
+      "defense": 214.7589928242296,
+      "specialized": 0.05000000074505806
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5120.268569553446,
+      "attack": 140.39380760489803,
+      "defense": 321.3473411040286,
+      "specialized": 0.05000000074505806
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5724.273635471414,
+      "attack": 156.95414848624569,
+      "defense": 359.2553420500735,
+      "specialized": 0.09800000116229057
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6585.846094295644,
+      "attack": 180.57808591743924,
+      "defense": 413.3273017613192,
+      "specialized": 0.09800000116229057
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7391.186182186269,
+      "attack": 202.65854169746854,
+      "defense": 463.8713004795809,
+      "specialized": 0.1460000015795231
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8261.681542412669,
+      "attack": 226.5271411559479,
+      "defense": 518.5032580879088,
+      "specialized": 0.1460000015795231
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8865.686425225169,
+      "attack": 243.08748203729556,
+      "defense": 556.411262848651,
+      "specialized": 0.1460000015795231
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9744.113778655214,
+      "attack": 267.1735732565994,
+      "defense": 611.5410293325349,
+      "specialized": 0.1460000015795231
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10348.118905608339,
+      "attack": 283.73391413794707,
+      "defense": 649.449018834488,
+      "specialized": 0.193999994546175
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11236.460541400622,
+      "attack": 308.09185061391145,
+      "defense": 705.201001907315,
+      "specialized": 0.193999994546175
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11840.465424213122,
+      "attack": 324.65219912465363,
+      "defense": 743.1090066680572,
+      "specialized": 0.2420000024139881
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12735.747672248981,
+      "attack": 349.2004441320678,
+      "defense": 799.2965799245794,
+      "specialized": 0.2420000024139881
+    }
+  },
+  "version": "1.3",
+  "constellations": {
+    "c1": {
+      "name": "Dissolution d'éon : Destructeur de mondes",
+      "effect": "Confère une charge supplémentaire pour **Cycle du vent lemniscatique**."
+    },
+    "c2": {
+      "name": "Annihilation d'éon : Fleur du kaléidoscope",
+      "effect": "La recharge d'énergie de Xiao augmente de 25 % lorsqu'il fait partie de l'équipe mais n'est pas déployé."
+    },
+    "c3": {
+      "name": "Dompteur de démons : Déité de la colère",
+      "effect": "Niveau d'aptitude **Cycle du vent lemniscatique** +3.\nNiveau max : 15"
+    },
+    "c4": {
+      "name": "Transcendance : Extinction de la souffrance",
+      "effect": "Xiao bénéficie d'un bonus de DÉF de 100 % quand ses PV sont inférieurs à 50 %."
+    },
+    "c5": {
+      "name": "Évolution d'éon : Origine de l'ignorance",
+      "effect": "Niveau d'aptitude **Fléau du mal** +3.\nNiveau max : 15"
+    },
+    "c6": {
+      "name": "Dompteur de démons : Gardien Yaksha",
+      "effect": "Lorsque **Fléau du mal** est actif, les attaques plongeantes touchant au moins 2 ennemis confèrent immédiatement une charge de **Cycle du vent lemniscatique** supplémentaire, qui peut être activée dans la seconde qui suit, même s'il n'est pas entièrement rechargé."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xiao_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xiao_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Xiao_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xiao_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Xiao_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xiao_04.png",
+      "constellation": "Eff_UI_Talent_Xiao"
+    },
+    "version": "1.3"
+  },
+  "talent": {
+    "name": "Xiao",
+    "combat1": {
+      "name": "Attaque normale : Coup de tourbillon",
+      "info": "**Attaque normale**\nEnchaîne jusqu'à 6 coups de lance.\n\n**Attaque chargée**\nConsomme de l'endurance pour déclencher une attaque ascendante.\n\n**Attaque plongeante**\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.\nXiao ne subit pas de DGT lorsqu'il exécute une attaque plongeante.",
+      "attributes": [
+        {
+          "name": "DGT 1er coup",
+          "parameters": [
+            "27.54%+27.54%",
+            "29.42%+29.42%",
+            "31.30%+31.30%",
+            "33.80%+33.80%",
+            "35.68%+35.68%",
+            "37.87%+37.87%",
+            "40.69%+40.69%",
+            "43.51%+43.51%",
+            "46.32%+46.32%",
+            "49.14%+49.14%",
+            "51.96%+51.96%",
+            "54.77%+54.77%",
+            "57.59%+57.59%",
+            "60.41%+60.41%",
+            "63.23%+63.23%"
+          ]
+        },
+        {
+          "name": "DGT 2e coup",
+          "parameters": [
+            "56.94%",
+            "60.82%",
+            "64.70%",
+            "69.88%",
+            "73.76%",
+            "78.29%",
+            "84.11%",
+            "89.93%",
+            "95.76%",
+            "101.58%",
+            "107.40%",
+            "113.22%",
+            "119.05%",
+            "124.87%",
+            "130.69%"
+          ]
+        },
+        {
+          "name": "DGT 3e coup",
+          "parameters": [
+            "68.55%",
+            "73.23%",
+            "77.90%",
+            "84.13%",
+            "88.81%",
+            "94.26%",
+            "101.27%",
+            "108.28%",
+            "115.29%",
+            "122.30%",
+            "129.31%",
+            "136.33%",
+            "143.34%",
+            "150.35%",
+            "157.36%"
+          ]
+        },
+        {
+          "name": "DGT 4e coup",
+          "parameters": [
+            "37.66%+37.66%",
+            "40.23%+40.23%",
+            "42.80%+42.80%",
+            "46.22%+46.22%",
+            "48.79%+48.79%",
+            "51.79%+51.79%",
+            "55.64%+55.64%",
+            "59.49%+59.49%",
+            "63.34%+63.34%",
+            "67.20%+67.20%",
+            "71.05%+71.05%",
+            "74.90%+74.90%",
+            "78.75%+78.75%",
+            "82.60%+82.60%",
+            "86.46%+86.46%"
+          ]
+        },
+        {
+          "name": "DGT 5e coup",
+          "parameters": [
+            "71.54%",
+            "76.42%",
+            "81.30%",
+            "87.80%",
+            "92.68%",
+            "98.37%",
+            "105.69%",
+            "113.01%",
+            "120.32%",
+            "127.64%",
+            "134.96%",
+            "142.27%",
+            "149.59%",
+            "156.91%",
+            "164.23%"
+          ]
+        },
+        {
+          "name": "DGT 6e coup",
+          "parameters": [
+            "95.83%",
+            "102.37%",
+            "108.90%",
+            "117.61%",
+            "124.15%",
+            "131.77%",
+            "141.57%",
+            "151.37%",
+            "161.17%",
+            "170.97%",
+            "180.77%",
+            "190.58%",
+            "200.38%",
+            "210.18%",
+            "219.98%"
+          ]
+        },
+        {
+          "name": "DGT attaque chargée",
+          "parameters": [
+            "121.09%",
+            "129.34%",
+            "137.60%",
+            "148.61%",
+            "156.86%",
+            "166.50%",
+            "178.88%",
+            "191.26%",
+            "203.65%",
+            "216.03%",
+            "228.42%",
+            "240.80%",
+            "253.18%",
+            "265.57%",
+            "277.95%"
+          ]
+        },
+        {
+          "name": "Coût d'endurance attaque chargée",
+          "parameters": [
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts"
+          ]
+        },
+        {
+          "name": "DGT durant la chute",
+          "parameters": [
+            "81.83%",
+            "88.49%",
+            "95.16%",
+            "104.67%",
+            "111.33%",
+            "118.94%",
+            "129.41%",
+            "139.88%",
+            "150.35%",
+            "161.76%",
+            "173.18%",
+            "184.60%",
+            "196.02%",
+            "207.44%",
+            "218.86%"
+          ]
+        },
+        {
+          "name": "DGT chute basse/élevée",
+          "parameters": [
+            "163.63%/204.39%",
+            "176.95%/221.02%",
+            "190.27%/237.66%",
+            "209.30%/261.42%",
+            "222.62%/278.06%",
+            "237.84%/297.07%",
+            "258.77%/323.21%",
+            "279.70%/349.36%",
+            "300.63%/375.50%",
+            "323.46%/404.02%",
+            "346.29%/432.54%",
+            "369.12%/461.06%",
+            "391.96%/489.57%",
+            "414.79%/518.09%",
+            "437.62%/546.61%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Cycle du vent lemniscatique",
+      "info": "Xiao se précipite vers l'avant, infligeant des DGT Anémo aux ennemis sur sa route.\nFonctionne aussi dans les airs.\nXiao commence avec 2 charges.",
+      "description": "La légende d'un lointain pays raconte qu'un jour, le monde périra entre deux roues à aubes. La maîtrise totale de la lance permet à Xiao d'écraser ses ennemis, à l'image des roues légendaires écrasant le monde.",
+      "attributes": [
+        {
+          "name": "DGT compétence",
+          "parameters": [
+            "252.80%",
+            "271.76%",
+            "290.72%",
+            "316.00%",
+            "334.96%",
+            "353.92%",
+            "379.20%",
+            "404.48%",
+            "429.76%",
+            "455.04%",
+            "480.32%",
+            "505.60%",
+            "537.20%",
+            "568.80%",
+            "600.40%"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Fléau du mal",
+      "info": "Xiao revêt le Masque du Yaksha, qui, il y a bien longtemps, fit trembler dieux et démons.\n\n**Masque du Yaksha**\n· Améliore considérablement la capacité de saut de Xiao.\n· Augmente la portée et les DGT d'attaque.\n· Les DGT d'attaque sont convertis en DGT Anémo ne pouvant pas être enchantés.\n\nCet effet consomme des PV de façon continue.\n\nL'état prend fin lorsque Xiao quitte le champ de bataille.",
+      "description": "En revêtant le Masque du Yaksha, Xiao prend la forme terrifiante du Gardien Yaksha Dompteur de démons. Mais un tel pouvoir a un prix ; aussi l'appelle-t-on : le Fléau du mal.",
+      "attributes": [
+        {
+          "name": "Bonus ATQ normale/chargée/plongeante",
+          "parameters": [
+            "58.45%",
+            "61.95%",
+            "65.45%",
+            "70.00%",
+            "73.50%",
+            "77.00%",
+            "81.55%",
+            "86.10%",
+            "90.65%",
+            "95.20%",
+            "99.75%",
+            "104.30%",
+            "108.85%",
+            "113.40%",
+            "117.95%"
+          ]
+        },
+        {
+          "name": "PV consommés",
+          "parameters": [
+            "3.00% PV actuels/s",
+            "3.00% PV actuels/s",
+            "3.00% PV actuels/s",
+            "2.50% PV actuels/s",
+            "2.50% PV actuels/s",
+            "2.50% PV actuels/s",
+            "2.00% PV actuels/s",
+            "2.00% PV actuels/s",
+            "2.00% PV actuels/s",
+            "2.00% PV actuels/s",
+            "2.00% PV actuels/s",
+            "2.00% PV actuels/s",
+            "2.00% PV actuels/s",
+            "2.00% PV actuels/s",
+            "2.00% PV actuels/s"
+          ]
+        },
+        {
+          "name": "Durée",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s"
+          ]
+        },
+        {
+          "name": "Énergie élémentaire",
+          "parameters": [
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Dompteur de démons : Conquérant du mal",
+      "info": "Xiao inflige 5 % de DGT supplémentaires tant que **Fléau du mal** est actif. Un cumul de 5 % de DGT supplémentaires est ensuite appliqué toutes les 3 s tant que dure la compétence.\nCumul max : 25 % de DGT supplémentaires."
+    },
+    "passive2": {
+      "name": "Dissolution d'éon : Chute des cieux",
+      "info": "**Cycle du vent lemniscatique** inflige 15 % de DGT en plus lorsqu'il est relancé dans les 7 s.\nCet effet dure 7 s et peut être cumulé 3 fois au maximum. Le délai est réinitialisé à chaque nouveau cumul."
+    },
+    "passive3": {
+      "name": "Transcendance : Contrôleur de gravité",
+      "info": "Réduit la consommation d'endurance de vos personnages dans l'équipe de 20 % lors de l'escalade.\nNe peut pas être cumulé avec d'autres aptitudes passives aux effets identiques."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseignement de la Prospérité",
+          "count": 3
+        },
+        {
+          "name": "Bave de Blob",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide de la Prospérité",
+          "count": 2
+        },
+        {
+          "name": "Mucus de Blob",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide de la Prospérité",
+          "count": 4
+        },
+        {
+          "name": "Mucus de Blob",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide de la Prospérité",
+          "count": 6
+        },
+        {
+          "name": "Mucus de Blob",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide de la Prospérité",
+          "count": 9
+        },
+        {
+          "name": "Mucus de Blob",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie de la Prospérité",
+          "count": 4
+        },
+        {
+          "name": "Essence de Blob",
+          "count": 4
+        },
+        {
+          "name": "Ombre du guerrier",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie de la Prospérité",
+          "count": 6
+        },
+        {
+          "name": "Essence de Blob",
+          "count": 6
+        },
+        {
+          "name": "Ombre du guerrier",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie de la Prospérité",
+          "count": 12
+        },
+        {
+          "name": "Essence de Blob",
+          "count": 9
+        },
+        {
+          "name": "Ombre du guerrier",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie de la Prospérité",
+          "count": 16
+        },
+        {
+          "name": "Essence de Blob",
+          "count": 12
+        },
+        {
+          "name": "Ombre du guerrier",
+          "count": 2
+        },
+        {
+          "name": "Couronne de la sagesse",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_03",
+      "combat2": "Skill_S_Xiao_01",
+      "combat3": "Skill_E_Xiao_01_HD",
+      "passive1": "UI_Talent_S_Xiao_05",
+      "passive2": "UI_Talent_S_Xiao_06",
+      "passive3": "UI_Talent_Explosion_Climb"
+    },
+    "version": "1.3"
+  }
+}

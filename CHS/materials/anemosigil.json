@@ -1,0 +1,20 @@
+{
+  "name": "风之印",
+  "description": "受到蒙德大地的千风认可，获授的印记。\n用来在蒙德城内特定的地方兑换特殊道具。",
+  "sortorder": 504,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "七国徽印",
+  "source": [
+    "蒙德地区探索奖励"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_305",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Anemo_Sigil.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Item_Anemo_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Anemo_Sigil"
+  },
+  "version": ""
+}

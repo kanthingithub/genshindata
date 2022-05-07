@@ -1,0 +1,21 @@
+{
+  "name": "Vayuda Turquoise Chunk",
+  "description": "Character Ascension material.\n\"Still, the winds change direction.\nSomeday, they will blow towards a brighter future...\"",
+  "sortorder": 1840,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Dropped by Lv. 60+ Anemo Hypostases",
+    "Crafted"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vayuda_Turquoise_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/33/Item_Vayuda_Turquoise_Chunk.png",
+    "nameicon": "UI_ItemIcon_104153"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Vayuda_Turquoise_Chunk"
+  },
+  "version": ""
+}

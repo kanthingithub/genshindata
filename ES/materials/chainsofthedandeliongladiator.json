@@ -1,0 +1,26 @@
+{
+  "name": "Cadena de Diente de León",
+  "description": "Material de ascensión de arma.\nLas cadenas que una vez ataron a la gran heroína Vennessa. En realidad, todos los gladiadores las debían llevar en aquella época, y la gladiadora del Diente de León no era una excepción.",
+  "sortorder": 2192,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de ascensión de arma",
+  "dropdomain": "Dominio de la forja: Ruinas de la ciudad sedienta",
+  "daysofweek": [
+    "Miércoles",
+    "Sábado",
+    "Domingo"
+  ],
+  "source": [
+    "Sintetizar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chains_of_the_Dandelion_Gladiator.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Item_Chains_of_the_Dandelion_Gladiator.png",
+    "nameicon": "UI_ItemIcon_114010"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chains_of_the_Dandelion_Gladiator"
+  },
+  "version": ""
+}

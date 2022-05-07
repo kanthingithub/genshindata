@@ -1,0 +1,21 @@
+{
+  "name": "Lírio de Vidro",
+  "description": "Uma flor extremamente antiga que dizem ser comumente encontrada em Liyue. Transforma as memórias da terra em sua fragrância durante a florescência.",
+  "sortorder": 2051,
+  "category": "EXCHANGE",
+  "materialtype": "Especialidade de Liyue",
+  "source": [
+    "Encontrado na natureza",
+    "Recomendação: Encontrado no Monte Tianheng",
+    "Recomendação: Encontrado na Vila Qingce"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Glaze_Lily.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Item_Glaze_Lily.png",
+    "nameicon": "UI_ItemIcon_100030"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Glaze_Lily"
+  },
+  "version": ""
+}

@@ -1,0 +1,929 @@
+{
+  "name": "Lumina",
+  "fullname": "Lumina",
+  "title": "",
+  "description": "{F#Una viajera}{M#Un viajero} de otro mundo {F#a la}{M#al} que arrebataron su única familia, y que se vio obligad{F#a}{M#o} a embarcarse en un viaje en busca de Los Siete.",
+  "rarity": "5",
+  "element": "No disponible",
+  "weapontype": "Espada ligera",
+  "substat": "ATQ",
+  "gender": "Femenino",
+  "body": "GIRL",
+  "association": "MAINACTOR",
+  "region": "",
+  "affiliation": "",
+  "birthdaymmdd": "",
+  "birthday": "",
+  "constellation": "Viatrix",
+  "cv": {
+    "english": "Sarah Miller-Crews & Corina Boettger",
+    "chinese": "宴宁&多多poi",
+    "japanese": "悠木碧&古賀葵",
+    "korean": "Lee Sae-ah & Kim Ka-ryoung"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Pedacito de diamante brillante",
+        "count": 1
+      },
+      {
+        "name": "Margarita voladora",
+        "count": 3
+      },
+      {
+        "name": "Máscara dañada",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Trozo de diamante brillante",
+        "count": 3
+      },
+      {
+        "name": "Margarita voladora",
+        "count": 10
+      },
+      {
+        "name": "Máscara dañada",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Trozo de diamante brillante",
+        "count": 6
+      },
+      {
+        "name": "Margarita voladora",
+        "count": 20
+      },
+      {
+        "name": "Máscara sucia",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Fragmento de diamante brillante",
+        "count": 3
+      },
+      {
+        "name": "Margarita voladora",
+        "count": 30
+      },
+      {
+        "name": "Máscara sucia",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Fragmento de diamante brillante",
+        "count": 6
+      },
+      {
+        "name": "Margarita voladora",
+        "count": 45
+      },
+      {
+        "name": "Máscara amenazante",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Diamante brillante",
+        "count": 6
+      },
+      {
+        "name": "Margarita voladora",
+        "count": 60
+      },
+      {
+        "name": "Máscara amenazante",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Traveler_Female_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Character_Traveler_%28Female%29_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_PlayerGirl.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/f11f153ff86acab65e3610f73b0d1728.png",
+    "nameicon": "UI_AvatarIcon_PlayerGirl",
+    "nameiconcard": "UI_AvatarIcon_PlayerGirl_Card",
+    "namesideicon": "UI_AvatarIcon_Side_PlayerGirl"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lumine"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 911.791015625,
+      "attack": 17.808000564575195,
+      "defense": 57.224998474121094,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2342.391124357935,
+      "attack": 45.74875355229187,
+      "defense": 147.01102140746116,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3023.54566537356,
+      "attack": 59.0525531815033,
+      "defense": 189.76102140746116,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4528.912435651757,
+      "attack": 88.45355827545154,
+      "defense": 284.23948155450853,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5012.890707136132,
+      "attack": 97.90625889038074,
+      "defense": 314.61448155450853,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5766.030280821957,
+      "attack": 112.61567116091919,
+      "defense": 361.8823425187111,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6411.334602111019,
+      "attack": 125.21927070925904,
+      "defense": 402.3823425187111,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7164.474175796844,
+      "attack": 139.9286829797975,
+      "defense": 449.65020348291364,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7648.452325210907,
+      "attack": 149.381384548401,
+      "defense": 480.02520348291364,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 8400.679739191197,
+      "attack": 164.07298161756898,
+      "defense": 527.2358163092613,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8884.658010675572,
+      "attack": 173.52567937147523,
+      "defense": 557.6108163092613,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9637.79714958556,
+      "attack": 188.2350831504973,
+      "defense": 604.8786499864582,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 10121.775421069935,
+      "attack": 197.68778471910082,
+      "defense": 635.2536499864582,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10874.91499475576,
+      "attack": 212.39719698963927,
+      "defense": 682.5215109506607,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellationTraveler": [
+    {
+      "c1": {
+        "name": "Torbellino furioso",
+        "effect": "**Espada de vórtice** atrae a los enemigos y objetos en un radio de 5 m."
+      },
+      "c2": {
+        "name": "Torbellino ascendente",
+        "effect": "Recarga de energía +16%."
+      },
+      "c3": {
+        "name": "Torbellino arrebatador",
+        "effect": "Aumenta el nivel de habilidad de **Oleada de ráfagas** +3.\nPuede ser aumentado hasta Niv. 15."
+      },
+      "c4": {
+        "name": "Brisa protectora",
+        "effect": "Mientras **Espada de vórtice** esté activa, el daño recibido se reduce en un 10%."
+      },
+      "c5": {
+        "name": "Vórtice Stellaris",
+        "effect": "Aumenta el nivel de habilidad de **Espada de vórtice** +3.\nPuede ser aumentado hasta Niv. 15."
+      },
+      "c6": {
+        "name": "Vientos entrelazados",
+        "effect": "Reduce en un 20% la RES Anemo de los enemigos que reciban daño con **Oleada de ráfagas** .\nSi ocurre un cambio elemental, la RES elemental del elemento al que se cambió se reducirá en un 20%."
+      },
+      "images": {
+        "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_01.png",
+        "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_02.png",
+        "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerWind_02.png",
+        "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_03.png",
+        "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerWind_01.png",
+        "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_04.png",
+        "constellation": "Eff_UI_Talent_PlayerBoy_Wind",
+        "constellation2": "Eff_UI_Talent_PlayerGirl_Wind"
+      },
+      "version": "1.0"
+    },
+    {
+      "c1": {
+        "name": "Trueno de la cosecha primaveral",
+        "effect": "Aumenta a 3 la cantidad de abalorios de la profusión que se pueden crear mediante **Espada electrosombría**."
+      },
+      "c2": {
+        "name": "Rayo vehemente",
+        "effect": "Cuando un enemigo es golpeado por el rayo temible de **Estallido atronador**, su RES Electro se reduce en un 15% durante 8 s."
+      },
+      "c3": {
+        "name": "Restallido lejano",
+        "effect": "Aumenta el nivel de habilidad de **Estallido atronador** +3.\nPuede ser aumentado hasta Niv. 15."
+      },
+      "c4": {
+        "name": "Relámpago súbito",
+        "effect": "Si la Energía Elemental de un personaje está por debajo del 35% cuando absorbe un abalorio de la profusión creado con **Espada electrosombría**, la cantidad de Energía recuperada por medio del abalorio aumenta en un 100%."
+      },
+      "c5": {
+        "name": "Naturaleza eléctrica",
+        "effect": "Aumenta el nivel de habilidad de **Espada electrosombría** +3.\nPuede ser aumentado hasta Niv. 15."
+      },
+      "c6": {
+        "name": "Sacudida celestial",
+        "effect": "Tras provocar dos rayos temibles con **Estallido atronador**, el daño del siguiente rayo temible aumentará considerablemente para infligir un 200% del daño original y, además, regenerará 1 pt. adicional de Energía Elemental para el personaje en uso."
+      },
+      "images": {
+        "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_01.png",
+        "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_02.png",
+        "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerElectric_01.png",
+        "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_03.png",
+        "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerElectric_02.png",
+        "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_04.png",
+        "constellation": "Eff_UI_Talent_PlayerBoy_Electric",
+        "constellation2": "Eff_UI_Talent_PlayerGirl_Electric"
+      },
+      "version": "2.0"
+    },
+    {
+      "c1": {
+        "name": "Muro inquebrantable",
+        "effect": "Aumenta en un 10% la Prob. CRIT de todos los miembros del equipo que estén en el radio de **Despertar de la Tierra**, y aumenta su RES a interrupción."
+      },
+      "c2": {
+        "name": "Fusión de lava",
+        "effect": "El meteorito de **Espada estrellacaída** explota de nuevo cuando es destruido, causando Daño Geo en el AdE adicional equivalente al daño de Espada estrellacaída."
+      },
+      "c3": {
+        "name": "Voluntad pétrea",
+        "effect": "Aumenta el nivel de habilidad de **Despertar de la Tierra** +3.\nPuede ser aumentado hasta Niv. 15."
+      },
+      "c4": {
+        "name": "Fuerza de reacción",
+        "effect": "Al golpear al enemigo con una onda expansiva de **Despertar de la Tierra**, recuperas 5 pts. de Energía Elemental.\nPuedes recuperar hasta 25 pts. de energía de esta forma."
+      },
+      "c5": {
+        "name": "Impacto meteórico",
+        "effect": "Aumenta el nivel de habilidad de **Espada estrellacaída** +3.\nPuede ser aumentado hasta Niv. 15."
+      },
+      "c6": {
+        "name": "Bloque eterno",
+        "effect": "Extiende la duración del muro de piedra de **Despertar de la Tierra** en 5 s.\nExtiende la duración del meteorito de **Espada estrellacaída** en 10 s."
+      },
+      "images": {
+        "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_01.png",
+        "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_02.png",
+        "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerRock_02.png",
+        "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_03.png",
+        "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerRock_01.png",
+        "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_04.png",
+        "constellation": "Eff_UI_Talent_PlayerBoy_Rock",
+        "constellation2": "Eff_UI_Talent_PlayerGirl_Rock"
+      },
+      "version": "1.0"
+    }
+  ],
+  "talentTraveler": [
+    {
+      "name": "Viajera (Anemo)",
+      "combat1": {
+        "name": "Ataque Normal: Viento metálico extranjero",
+        "info": "**Ataque Normal**\nRealiza hasta 5 ataques rápidos.\n\n**Ataque Cargado**\nConsume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado.\n\n**Ataque Descendente**\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+        "attributes": []
+      },
+      "combat2": {
+        "name": "Espada de vórtice",
+        "info": "Toma el poder del viento para formar un vórtice de vacío en la palma de la mano, infligiendo Daño Anemo continuo a los enemigos que haya enfrente.\nEl vórtice de vacío explota cuando termina la duración de la habilidad, infligiendo aún más cantidad de Daño Anemo en un área más grande.\n\n**Mantener pulsado**\nEl daño y el AdE aumentarán progresivamente.\n\n**Cambio elemental**\nSi el vórtice de vacío entra en contacto con Hydro/Pyro/Cryo/Electro, infligirá un bono de Daño Elemental adicional de ese tipo.\nEl cambio elemental solo puede ocurrir una vez durante la habilidad.",
+        "description": "Hablaste con Paimon de cómo atrapar el viento sin forma.",
+        "attributes": []
+      },
+      "combat3": {
+        "name": "Oleada de ráfagas",
+        "info": "Guía al viento para invocar un tornado que avanza y atrae a los objetos y oponentes, infligiendo Daño Anemo continuo.\n\n**Cambio elemental**\nSi el tornado entra en contacto con Hydro/Pyro/Cryo/Electro, infligirá un bono de Daño Elemental adicional de ese tipo.\nEl cambio elemental solo puede ocurrir una vez durante la habilidad.",
+        "description": "Investigaste con Paimon el aleteo de las mariposas.",
+        "attributes": []
+      },
+      "passive1": {
+        "name": "Viento cortante",
+        "info": "Tras el último golpe de Ataque Normal, se desatará un golpe de viento afilado que inflige un 60% de Daño Anemo a los enemigos enfrente de ti."
+      },
+      "passive2": {
+        "name": "Viento de la resurrección",
+        "info": "Tras derrotar a un enemigo, **Espada de vórtice** regenera un 2% de tu Vida cada 5 s.\nSolo puede ocurrir una vez cada 5 s."
+      },
+      "costs": {
+        "lvl2": [
+          {
+            "name": "Mora",
+            "count": 12500
+          },
+          {
+            "name": "Enseñanzas de la libertad",
+            "count": 3
+          },
+          {
+            "name": "Pergamino guía",
+            "count": 6
+          }
+        ],
+        "lvl3": [
+          {
+            "name": "Mora",
+            "count": 17500
+          },
+          {
+            "name": "Guía de la resistencia",
+            "count": 2
+          },
+          {
+            "name": "Pergamino hechizado",
+            "count": 3
+          }
+        ],
+        "lvl4": [
+          {
+            "name": "Mora",
+            "count": 25000
+          },
+          {
+            "name": "Guía de la poesía",
+            "count": 4
+          },
+          {
+            "name": "Pergamino hechizado",
+            "count": 4
+          }
+        ],
+        "lvl5": [
+          {
+            "name": "Mora",
+            "count": 30000
+          },
+          {
+            "name": "Guía de la libertad",
+            "count": 6
+          },
+          {
+            "name": "Pergamino hechizado",
+            "count": 6
+          }
+        ],
+        "lvl6": [
+          {
+            "name": "Mora",
+            "count": 37500
+          },
+          {
+            "name": "Guía de la resistencia",
+            "count": 9
+          },
+          {
+            "name": "Pergamino hechizado",
+            "count": 9
+          }
+        ],
+        "lvl7": [
+          {
+            "name": "Mora",
+            "count": 120000
+          },
+          {
+            "name": "Filosofía de la poesía",
+            "count": 4
+          },
+          {
+            "name": "Pergamino maldito",
+            "count": 4
+          },
+          {
+            "name": "Suspiro de Stormterror",
+            "count": 1
+          }
+        ],
+        "lvl8": [
+          {
+            "name": "Mora",
+            "count": 260000
+          },
+          {
+            "name": "Filosofía de la libertad",
+            "count": 6
+          },
+          {
+            "name": "Pergamino maldito",
+            "count": 6
+          },
+          {
+            "name": "Suspiro de Stormterror",
+            "count": 1
+          }
+        ],
+        "lvl9": [
+          {
+            "name": "Mora",
+            "count": 450000
+          },
+          {
+            "name": "Filosofía de la resistencia",
+            "count": 12
+          },
+          {
+            "name": "Pergamino maldito",
+            "count": 9
+          },
+          {
+            "name": "Suspiro de Stormterror",
+            "count": 2
+          }
+        ],
+        "lvl10": [
+          {
+            "name": "Mora",
+            "count": 700000
+          },
+          {
+            "name": "Filosofía de la poesía",
+            "count": 16
+          },
+          {
+            "name": "Pergamino maldito",
+            "count": 12
+          },
+          {
+            "name": "Suspiro de Stormterror",
+            "count": 2
+          },
+          {
+            "name": "Corona de la sabiduría",
+            "count": 1
+          }
+        ]
+      },
+      "images": {
+        "combat1": "Skill_A_01",
+        "combat2": "Skill_S_PlayerWind_01",
+        "combat3": "Skill_E_PlayerWind_01_HD",
+        "passive1": "UI_Talent_S_PlayerWind_05",
+        "passive2": "UI_Talent_S_PlayerWind_06"
+      },
+      "version": "1.0"
+    },
+    {
+      "name": "Viajera (Electro)",
+      "combat1": {
+        "name": "Ataque Normal: Relámpago extranjero",
+        "info": "**Ataque Normal**\nRealiza hasta 5 ataques rápidos.\n\n**Ataque Cargado**\nConsume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado.\n\n**Ataque Descendente**\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+        "attributes": []
+      },
+      "combat2": {
+        "name": "Espada electrosombría",
+        "info": "Libera tres rápidos relámpagos sombríos, los cuales infligen Daño Electro contra los enemigos y, al golpearlos, colocan un abalorio de la profusión.\nOriginalmente solo se pueden crear un máximo de 2 abalorios de la profusión. Al usar esta habilidad se reiniciarán todos los abalorios ya creados.\n\n**Abalorio de la profusión**\nCuando un personaje esté cerca de un abalorio de la profusión, lo absorberá y obtendrá los siguientes efectos:\n·Recuperará Energía Elemental.\n·Aumentará la Recarga de Energía.",
+        "description": "Hablaste con Paimon sobre los canales por los que circula la electricidad.",
+        "attributes": []
+      },
+      "combat3": {
+        "name": "Estallido atronador",
+        "info": "Invocas el velo del relámpago para empujar e infligir Daño Electro a los enemigos a tu alrededor.\n\n**Velo del relámpago**\nCuando tu personaje en uso golpea a un enemigo con sus Ataques Normales o Cargados, caerá un rayo temible que inflige Daño Electro.\nAl golpear al enemigo, el rayo hará que dicho personaje recupere Energía Elemental.\nSolo puede caer un rayo temible cada 0.5 s.",
+        "description": "Investigaste con Paimon los destellos de luz que se crean entre las nubes.",
+        "attributes": []
+      },
+      "passive1": {
+        "name": "Trueno centelleante",
+        "info": "Cuando otro personaje cercano del equipo absorbe un abalorio de la profusión creado mediante **Espada electrosombría**, el TdE de esta habilidad se reduce en 1.5 s."
+      },
+      "passive2": {
+        "name": "Relámpago resonante",
+        "info": "Aumenta la Energía recargada por el abalorio de la profusión creado mediante **Espada electrosombría** en una cantidad proporcional al 10% de la Recarga de Energía {F#de la viajera}{M#del viajero}."
+      },
+      "costs": {
+        "lvl2": [
+          {
+            "name": "Mora",
+            "count": 12500
+          },
+          {
+            "name": "Enseñanzas de la transitoriedad",
+            "count": 3
+          },
+          {
+            "name": "Guardamano viejo",
+            "count": 6
+          }
+        ],
+        "lvl3": [
+          {
+            "name": "Mora",
+            "count": 17500
+          },
+          {
+            "name": "Guía de la elegancia",
+            "count": 2
+          },
+          {
+            "name": "Guardamano gemelo",
+            "count": 3
+          }
+        ],
+        "lvl4": [
+          {
+            "name": "Mora",
+            "count": 25000
+          },
+          {
+            "name": "Guía de la luz",
+            "count": 4
+          },
+          {
+            "name": "Guardamano gemelo",
+            "count": 4
+          }
+        ],
+        "lvl5": [
+          {
+            "name": "Mora",
+            "count": 30000
+          },
+          {
+            "name": "Guía de la transitoriedad",
+            "count": 6
+          },
+          {
+            "name": "Guardamano gemelo",
+            "count": 6
+          }
+        ],
+        "lvl6": [
+          {
+            "name": "Mora",
+            "count": 37500
+          },
+          {
+            "name": "Guía de la elegancia",
+            "count": 9
+          },
+          {
+            "name": "Guardamano gemelo",
+            "count": 9
+          }
+        ],
+        "lvl7": [
+          {
+            "name": "Mora",
+            "count": 120000
+          },
+          {
+            "name": "Filosofía de la luz",
+            "count": 4
+          },
+          {
+            "name": "Guardamano célebre",
+            "count": 4
+          },
+          {
+            "name": "Corona del rey dragón",
+            "count": 1
+          }
+        ],
+        "lvl8": [
+          {
+            "name": "Mora",
+            "count": 260000
+          },
+          {
+            "name": "Filosofía de la transitoriedad",
+            "count": 6
+          },
+          {
+            "name": "Guardamano célebre",
+            "count": 6
+          },
+          {
+            "name": "Corona del rey dragón",
+            "count": 1
+          }
+        ],
+        "lvl9": [
+          {
+            "name": "Mora",
+            "count": 450000
+          },
+          {
+            "name": "Filosofía de la elegancia",
+            "count": 12
+          },
+          {
+            "name": "Guardamano célebre",
+            "count": 9
+          },
+          {
+            "name": "Corona del rey dragón",
+            "count": 2
+          }
+        ],
+        "lvl10": [
+          {
+            "name": "Mora",
+            "count": 700000
+          },
+          {
+            "name": "Filosofía de la luz",
+            "count": 16
+          },
+          {
+            "name": "Guardamano célebre",
+            "count": 12
+          },
+          {
+            "name": "Corona del rey dragón",
+            "count": 2
+          },
+          {
+            "name": "Corona de la sabiduría",
+            "count": 1
+          }
+        ]
+      },
+      "images": {
+        "combat1": "Skill_A_01",
+        "combat2": "Skill_S_PlayerElectric_01",
+        "combat3": "Skill_E_PlayerElectric_01_HD",
+        "passive1": "UI_Talent_S_PlayerElectric_05",
+        "passive2": "UI_Talent_S_PlayerElectric_06"
+      },
+      "version": "2.0"
+    },
+    {
+      "name": "Viajera (Geo)",
+      "combat1": {
+        "name": "Ataque Normal: Espada de piedra extranjera",
+        "info": "**Ataque Normal**\nRealiza hasta 5 ataques rápidos.\n\n**Ataque Cargado**\nConsume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado.\n\n**Ataque Descendente**\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+        "attributes": []
+      },
+      "combat2": {
+        "name": "Espada estrellacaída",
+        "info": "Invoca un meteorito de las profundidades de la tierra, infligiendo Daño Geo en el AdE.\nEl meteorito es considerado una creación Geo, y puede escalarse o usarse para bloquear ataques.\n\n**Mantener pulsado**\nAjusta la posición sobre la que se coloca la habilidad",
+        "description": "Hablaste con Paimon sobre el destino final de las estrellas fugaces.",
+        "attributes": []
+      },
+      "combat3": {
+        "name": "Despertar de la Tierra",
+        "info": "Crea una onda expansiva Geo que nace de las profundidades de la tierra.\nInflige Daño Geo en el AdE a todos los enemigos a los que alcanza.\nTras ello, crea una columna de piedra que se levanta abruptamente en el límite de la onda.\nLa columna de piedra se considera una creación Geo, y puede usarse para bloquear ataques.",
+        "description": "Investigaste con Paimon la vibración de las montañas.",
+        "attributes": []
+      },
+      "passive1": {
+        "name": "Roca quebrada",
+        "info": "Disminuye el TdE de **Espada estrellacaída** -2 s."
+      },
+      "passive2": {
+        "name": "Roca turbulenta",
+        "info": "El último golpe del Ataque Normal provoca una destrucción, infligiendo un 60% de Daño Geo a los enemigos dentro del AdE."
+      },
+      "costs": {
+        "lvl2": [
+          {
+            "name": "Mora",
+            "count": 12500
+          },
+          {
+            "name": "Enseñanzas de la prosperidad",
+            "count": 3
+          },
+          {
+            "name": "Flecha robusta",
+            "count": 6
+          }
+        ],
+        "lvl3": [
+          {
+            "name": "Mora",
+            "count": 17500
+          },
+          {
+            "name": "Guía del esfuerzo",
+            "count": 2
+          },
+          {
+            "name": "Flecha afilada",
+            "count": 3
+          }
+        ],
+        "lvl4": [
+          {
+            "name": "Mora",
+            "count": 25000
+          },
+          {
+            "name": "Guía del oro",
+            "count": 4
+          },
+          {
+            "name": "Flecha afilada",
+            "count": 4
+          }
+        ],
+        "lvl5": [
+          {
+            "name": "Mora",
+            "count": 30000
+          },
+          {
+            "name": "Guía de la prosperidad",
+            "count": 6
+          },
+          {
+            "name": "Flecha afilada",
+            "count": 6
+          }
+        ],
+        "lvl6": [
+          {
+            "name": "Mora",
+            "count": 37500
+          },
+          {
+            "name": "Guía del esfuerzo",
+            "count": 9
+          },
+          {
+            "name": "Flecha afilada",
+            "count": 9
+          }
+        ],
+        "lvl7": [
+          {
+            "name": "Mora",
+            "count": 120000
+          },
+          {
+            "name": "Filosofía del oro",
+            "count": 4
+          },
+          {
+            "name": "Flecha veterana",
+            "count": 4
+          },
+          {
+            "name": "Cola de Boreas",
+            "count": 1
+          }
+        ],
+        "lvl8": [
+          {
+            "name": "Mora",
+            "count": 260000
+          },
+          {
+            "name": "Filosofía de la prosperidad",
+            "count": 6
+          },
+          {
+            "name": "Flecha veterana",
+            "count": 6
+          },
+          {
+            "name": "Cola de Boreas",
+            "count": 1
+          }
+        ],
+        "lvl9": [
+          {
+            "name": "Mora",
+            "count": 450000
+          },
+          {
+            "name": "Filosofía del esfuerzo",
+            "count": 12
+          },
+          {
+            "name": "Flecha veterana",
+            "count": 9
+          },
+          {
+            "name": "Cola de Boreas",
+            "count": 2
+          }
+        ],
+        "lvl10": [
+          {
+            "name": "Mora",
+            "count": 700000
+          },
+          {
+            "name": "Filosofía del oro",
+            "count": 16
+          },
+          {
+            "name": "Flecha veterana",
+            "count": 12
+          },
+          {
+            "name": "Cola de Boreas",
+            "count": 2
+          },
+          {
+            "name": "Corona de la sabiduría",
+            "count": 1
+          }
+        ]
+      },
+      "images": {
+        "combat1": "Skill_A_01",
+        "combat2": "Skill_S_PlayerRock_01",
+        "combat3": "Skill_E_PlayerRock_01_HD",
+        "passive1": "UI_Talent_S_PlayerRock_05",
+        "passive2": "UI_Talent_S_PlayerRock_06"
+      },
+      "version": "1.0"
+    }
+  ]
+}

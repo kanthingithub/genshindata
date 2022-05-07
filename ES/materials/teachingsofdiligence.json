@@ -1,0 +1,24 @@
+{
+  "name": "Enseñanzas del esfuerzo",
+  "description": "Material de mejora de talento.\nEl esfuerzo es la base del Reino de Piedra.\nEs conquistar montañas y mares gracias a la diligencia de todos; es la valentía y la fuerza con la que se buscan la prosperidad y la riqueza.",
+  "sortorder": 1863,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de talento",
+  "dropdomain": "Dominio de la maestría: El corazón de las llamas",
+  "daysofweek": [
+    "Martes",
+    "Viernes",
+    "Domingo"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Diligence.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Item_Teachings_of_Diligence.png",
+    "nameicon": "UI_ItemIcon_104313"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Diligence"
+  },
+  "version": ""
+}

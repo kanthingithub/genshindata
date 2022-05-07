@@ -1,0 +1,312 @@
+{
+  "name": "The Black Sword",
+  "description": "Longsword hitam yang haus akan konflik dan pertempuran. Dikatakan bahwa pedang ini bisa membuat pemiliknya menjadi haus darah dan pembantaian.",
+  "weapontype": "Sword",
+  "rarity": "4",
+  "baseatk": 42,
+  "substat": "CRIT Rate",
+  "subvalue": "6",
+  "effectname": "Justice",
+  "effect": [
+    "Meningkatkan [20%] DMG Normal dan Charged Attack. Selain itu saat Normal dan Charged Attack menghasilkan CRIT, akan memulihkan HP sebanyak [60%] dari ATK. Dapat terpicu setiap 5 detik.",
+    "Meningkatkan [25%] DMG Normal dan Charged Attack. Selain itu saat Normal dan Charged Attack menghasilkan CRIT, akan memulihkan HP sebanyak [70%] dari ATK. Dapat terpicu setiap 5 detik.",
+    "Meningkatkan [30%] DMG Normal dan Charged Attack. Selain itu saat Normal dan Charged Attack menghasilkan CRIT, akan memulihkan HP sebanyak [80%] dari ATK. Dapat terpicu setiap 5 detik.",
+    "Meningkatkan [35%] DMG Normal dan Charged Attack. Selain itu saat Normal dan Charged Attack menghasilkan CRIT, akan memulihkan HP sebanyak [90%] dari ATK. Dapat terpicu setiap 5 detik.",
+    "Meningkatkan [40%] DMG Normal dan Charged Attack. Selain itu saat Normal dan Charged Attack menghasilkan CRIT, akan memulihkan HP sebanyak [100%] dari ATK. Dapat terpicu setiap 5 detik."
+  ],
+  "r1": [
+    "20%",
+    "60%"
+  ],
+  "r2": [
+    "25%",
+    "70%"
+  ],
+  "r3": [
+    "30%",
+    "80%"
+  ],
+  "r4": [
+    "35%",
+    "90%"
+  ],
+  "r5": [
+    "40%",
+    "100%"
+  ],
+  "weaponmaterialtype": "Boreal Wolf",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 5000
+      },
+      {
+        "name": "Boreal Wolf's Milk Tooth",
+        "count": 3
+      },
+      {
+        "name": "Dead Ley Line Branches",
+        "count": 3
+      },
+      {
+        "name": "Slime Condensate",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 15000
+      },
+      {
+        "name": "Boreal Wolf's Cracked Tooth",
+        "count": 3
+      },
+      {
+        "name": "Dead Ley Line Branches",
+        "count": 12
+      },
+      {
+        "name": "Slime Condensate",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Boreal Wolf's Cracked Tooth",
+        "count": 6
+      },
+      {
+        "name": "Dead Ley Line Leaves",
+        "count": 6
+      },
+      {
+        "name": "Slime Secretions",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Boreal Wolf's Broken Fang",
+        "count": 3
+      },
+      {
+        "name": "Dead Ley Line Leaves",
+        "count": 12
+      },
+      {
+        "name": "Slime Secretions",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 35000
+      },
+      {
+        "name": "Boreal Wolf's Broken Fang",
+        "count": 6
+      },
+      {
+        "name": "Ley Lines Sprouts",
+        "count": 9
+      },
+      {
+        "name": "Slime Concentrate",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Boreal Wolf's Nostalgia",
+        "count": 4
+      },
+      {
+        "name": "Ley Lines Sprouts",
+        "count": 18
+      },
+      {
+        "name": "Slime Concentrate",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Weapon_The_Black_Sword.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Bloodstained.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Bloodstained_Awaken.png",
+    "nameicon": "UI_EquipIcon_Sword_Bloodstained",
+    "namegacha": "UI_Gacha_EquipIcon_Sword_Bloodstained",
+    "nameawakenicon": "UI_EquipIcon_Sword_Bloodstained_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/The_Black_Sword"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 42.4010009765625,
+      "specialized": 0.05999999865889549
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 56.39333311848168,
+      "specialized": 0.06971999489396818
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 73.9049459961243,
+      "specialized": 0.08178000028923149
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 91.41655381917371,
+      "specialized": 0.09390000133439891
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 108.92817175140954,
+      "specialized": 0.10601999522700911
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 134.8281713699398,
+      "specialized": 0.10601999522700911
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 152.33978930217563,
+      "specialized": 0.11813999627217653
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 169.80899919744115,
+      "specialized": 0.13025999731734395
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 187.32060702049057,
+      "specialized": 0.14237999120995415
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 204.83221484354,
+      "specialized": 0.15449999940767878
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 230.83221675088862,
+      "specialized": 0.15449999940767878
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 248.34383468312444,
+      "specialized": 0.16661999330028898
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 265.85545261536026,
+      "specialized": 0.1787400014980136
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 291.75545414123917,
+      "specialized": 0.1787400014980136
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 309.267072073475,
+      "specialized": 0.19085999539062382
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 326.7786900057108,
+      "specialized": 0.20297998928323402
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 352.6786839021952,
+      "specialized": 0.20297998928323402
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 370.1478836882743,
+      "specialized": 0.21509999748095865
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 387.6595016205101,
+      "specialized": 0.22715999572366474
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 413.6595016205101,
+      "specialized": 0.22715999572366474
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 431.17111955274595,
+      "specialized": 0.23927998961627495
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 448.68271726660896,
+      "specialized": 0.2513999978139996
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 474.5827264218824,
+      "specialized": 0.2513999978139996
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 492.0943443541182,
+      "specialized": 0.2635200060117242
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 509.60596228635404,
+      "specialized": 0.27563998559922
+    }
+  },
+  "version": "1.0"
+}

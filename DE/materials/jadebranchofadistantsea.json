@@ -1,0 +1,26 @@
+{
+  "name": "Jadezweig eines fernen Meeres",
+  "description": "Waffenaufstiegsmaterial.\nAuf der Flucht ins Dunkle Meer traf der Gott, der alles verloren hatte, auf die verlassenen Menschen, die nichts in den Tiefen des Ozeans hatten. So entschied er sich, zu bleiben und ihr „Orobashi no Mikoto“, ihr „Watatsumi Omikami“ zu werden.\nEs heißt, dass der große Schlangengott einst alle Korallenäste an seinem Körper abbrach, um seinen Kindern, die in der Dunkelheit zusammengerollt waren, Licht zu geben. Man sagt auch, dass er diese Korallenzweige benutzte, um eine riesige Leiter zu erschaffen, damit diese Kinder wieder die Oberfläche erreichen und das Licht des Tages sehen konnten.",
+  "sortorder": 2209,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zum Aufstieg von Waffen",
+  "dropdomain": "Sphäre der Kriegskunst: Spuren aus der Tiefe",
+  "daysofweek": [
+    "Montag",
+    "Donnerstag",
+    "Sonntag"
+  ],
+  "source": [
+    "Kann hergestellt werden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Jade_Branch_of_a_Distant_Sea.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/29/Item_Jade_Branch_of_a_Distant_Sea.png",
+    "nameicon": "UI_ItemIcon_114027"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Jade_Branch_of_a_Distant_Sea"
+  },
+  "version": ""
+}

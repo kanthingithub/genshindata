@@ -1,0 +1,19 @@
+{
+  "name": "Светящееся брюшко",
+  "description": "Часть светлячка, которая испускает свет. Популярна среди влюблённых и в качестве медицинского препарата.",
+  "sortorder": 1973,
+  "category": "EXCHANGE",
+  "materialtype": "Материал",
+  "source": [
+    "Дикая природа"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Luminescent_Spine.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Item_Luminescent_Spine.png",
+    "nameicon": "UI_ItemIcon_100082"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Luminescent_Spine"
+  },
+  "version": ""
+}

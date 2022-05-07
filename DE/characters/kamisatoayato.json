@@ -1,0 +1,951 @@
+{
+  "name": "Kamisato Ayato",
+  "fullname": "Kamisato Ayato",
+  "title": "Säule der Stärke",
+  "description": "Das junge und talentierte derzeitige Oberhaupt der Familie Kamisato der Yashiro-Verwaltung ist ein sanfter und höflicher Mann, der seine eigenen Mittel und Wege hat.",
+  "rarity": "5",
+  "element": "Hydro",
+  "weapontype": "Einhänder",
+  "substat": "KSCH",
+  "gender": "Männlich",
+  "body": "MALE",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "Yashiro-Verwaltung",
+  "birthdaymmdd": "3/26",
+  "birthday": "26. März",
+  "constellation": "Cypressus Custos",
+  "cv": {
+    "english": "Chris Hackney",
+    "chinese": "赵路",
+    "japanese": "石田彰",
+    "korean": "Jang Min-hyeok"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Varunada-Lasurit-Splitter",
+        "count": 1
+      },
+      {
+        "name": "Sakura-Blüte",
+        "count": 3
+      },
+      {
+        "name": "Alter Handschutz",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Varunada-Lasurit-Bruchstück",
+        "count": 3
+      },
+      {
+        "name": "Tau der Abstoßung",
+        "count": 2
+      },
+      {
+        "name": "Sakura-Blüte",
+        "count": 10
+      },
+      {
+        "name": "Alter Handschutz",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Varunada-Lasurit-Bruchstück",
+        "count": 6
+      },
+      {
+        "name": "Tau der Abstoßung",
+        "count": 4
+      },
+      {
+        "name": "Sakura-Blüte",
+        "count": 20
+      },
+      {
+        "name": "Kageuchi-Handschutz",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Varunada-Lasurit-Brocken",
+        "count": 3
+      },
+      {
+        "name": "Tau der Abstoßung",
+        "count": 8
+      },
+      {
+        "name": "Sakura-Blüte",
+        "count": 30
+      },
+      {
+        "name": "Kageuchi-Handschutz",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Varunada-Lasurit-Brocken",
+        "count": 6
+      },
+      {
+        "name": "Tau der Abstoßung",
+        "count": 12
+      },
+      {
+        "name": "Sakura-Blüte",
+        "count": 45
+      },
+      {
+        "name": "Berühmter Handschutz",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Varunada-Lasurit",
+        "count": 6
+      },
+      {
+        "name": "Tau der Abstoßung",
+        "count": 20
+      },
+      {
+        "name": "Sakura-Blüte",
+        "count": 60
+      },
+      {
+        "name": "Berühmter Handschutz",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_AvatarIcon_Ayato",
+    "nameiconcard": "UI_AvatarIcon_Ayato_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Ayato",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Ayato",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png",
+    "namesideicon": "UI_AvatarIcon_Side_Ayato",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ayato.png",
+    "cover1": "https://webstatic-sea.hoyoverse.com/upload/contentweb/2022/03/22/ccfce868ab7a930170b38b51347043a6_3309809781103300675.png",
+    "cover2": "https://webstatic-sea.hoyoverse.com/upload/contentweb/2022/03/22/96591f9444dd31afa795df741b890d48_4501703369399728.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Kamisato_Ayato"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1067.7183837890625,
+      "attack": 23.274999618530273,
+      "defense": 59.83000183105469,
+      "specialized": 0.5
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2769.6615954839217,
+      "attack": 60.37535136332508,
+      "defense": 155.19903079793949,
+      "specialized": 0.5
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3685.133580347203,
+      "attack": 80.33010142436024,
+      "defense": 206.49903003500003,
+      "specialized": 0.5
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5514.135234909714,
+      "attack": 120.2001771471023,
+      "defense": 308.98782670921355,
+      "specialized": 0.5
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 6164.602214890183,
+      "attack": 134.37855239124292,
+      "defense": 345.437827472153,
+      "specialized": 0.596000000834465
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 7092.449445599632,
+      "attack": 154.60452608308788,
+      "defense": 397.43009655277274,
+      "specialized": 0.596000000834465
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7959.738752240257,
+      "attack": 173.50902513704295,
+      "defense": 446.03010265628836,
+      "specialized": 0.69200000166893
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8897.195261044777,
+      "attack": 193.94446974124912,
+      "defense": 498.56083125465375,
+      "specialized": 0.69200000166893
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9547.662057919777,
+      "attack": 208.122848800087,
+      "defense": 535.0108282028959,
+      "specialized": 0.69200000166893
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 10493.660712950805,
+      "attack": 228.744502102375,
+      "defense": 588.0202191827775,
+      "specialized": 0.69200000166893
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 11144.12775396643,
+      "attack": 242.92287734651563,
+      "defense": 624.4702161310197,
+      "specialized": 0.7879999876022339
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 12100.803328088892,
+      "attack": 263.7772748738289,
+      "defense": 678.0778922940444,
+      "specialized": 0.7879999876022339
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12751.270124963892,
+      "attack": 277.955642488575,
+      "defense": 714.5278892422866,
+      "specialized": 0.8840000033378601
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 13715.420204316499,
+      "attack": 298.97297540130603,
+      "defense": 768.55440212143,
+      "specialized": 0.8840000033378601
+    }
+  },
+  "version": "2.6",
+  "constellations": {
+    "c1": {
+      "name": "Kyouka Fuushi",
+      "effect": "Erhöht den Gegnern mit bis zu 50 % LP mit **Shunsuiken** zugefügten Schaden um 40 %."
+    },
+    "c2": {
+      "name": "Quelle der Welt",
+      "effect": "Erhöht die Höchstmenge an Stapelungen von **Namisen** auf 5. Erhöht, wenn Kamisato Ayato mindestens 3 Namisen-Stapelungen hat, seine maximalen LP um 50 %."
+    },
+    "c3": {
+      "name": "Bewunderung der Blumen",
+      "effect": "Erhöht die Stufe der Fähigkeit **Kamisato-Stil – Kyouka** um 3.\nHöchststufe 15."
+    },
+    "c4": {
+      "name": "Ewiger Fluss",
+      "effect": "Erhöht nach dem Auslösen von **Kamisato-Stil – Suiyuu** die Angriffs-GSW der Standardangriffe aller Truppenmitglieder in der Nähe 15 s lang um 15 %."
+    },
+    "c5": {
+      "name": "Bansui Ichiro",
+      "effect": "Erhöht die Stufe der Fähigkeit **Kamisato-Stil – Suiyuu** um 3.\nHöchststufe 15."
+    },
+    "c6": {
+      "name": "Unerschöpfliche Quelle",
+      "effect": "Löst, wenn der nächste Angriff von Kamisato Ayato mit Shunsuiken nach Anwendung von **Kamisato-Stil – Kyouka** Gegner trifft, 2 weitere Shunsuiken-Angriffe aus, von denen jeder Schaden in Höhe von 450 % von Ayatos ANG zufügt.\nDiese beiden Shunsuiken-Angriffe erhalten keine Bonuseffekte von Namisen."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ayato_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ayato_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Ayato_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ayato_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Ayato_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ayato_04.png",
+      "constellation": "Eff_UI_Talent_Ayato"
+    },
+    "version": "2.6"
+  },
+  "talent": {
+    "name": "Kamisato Ayato",
+    "combat1": {
+      "name": "Standardangriff: Kamisato-Stil – Marobashi",
+      "info": "**Standardangriff**\nFührt bis zu 5 Schwerthiebe hintereinander aus.\n\n**Heftiger Schlag**\nVerbraucht eine gewisse Menge Ausdauer, um vorwärts zu stürmen und einen Iai auszuführen.\n\n**Angriff aus dem Fall**\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "attributes": [
+        {
+          "name": "SCH Phase 1",
+          "parameters": [
+            "44.96%",
+            "48.62%",
+            "52.28%",
+            "57.51%",
+            "61.17%",
+            "65.35%",
+            "71.10%",
+            "76.85%",
+            "82.60%",
+            "88.88%",
+            "95.15%",
+            "101.43%",
+            "107.70%",
+            "113.97%",
+            "120.25%"
+          ]
+        },
+        {
+          "name": "SCH Phase 2",
+          "parameters": [
+            "47.16%",
+            "51.00%",
+            "54.83%",
+            "60.32%",
+            "64.16%",
+            "68.54%",
+            "74.57%",
+            "80.61%",
+            "86.64%",
+            "93.22%",
+            "99.80%",
+            "106.38%",
+            "112.96%",
+            "119.54%",
+            "126.12%"
+          ]
+        },
+        {
+          "name": "SCH Phase 3",
+          "parameters": [
+            "58.61%",
+            "63.38%",
+            "68.15%",
+            "74.97%",
+            "79.74%",
+            "85.19%",
+            "92.69%",
+            "100.19%",
+            "107.68%",
+            "115.86%",
+            "124.04%",
+            "132.22%",
+            "140.40%",
+            "148.58%",
+            "156.75%"
+          ]
+        },
+        {
+          "name": "SCH Phase 4",
+          "parameters": [
+            "29.45% ×2",
+            "31.85% ×2",
+            "34.24% ×2",
+            "37.67% ×2",
+            "40.06% ×2",
+            "42.80% ×2",
+            "46.57% ×2",
+            "50.34% ×2",
+            "54.10% ×2",
+            "58.21% ×2",
+            "62.32% ×2",
+            "66.43% ×2",
+            "70.54% ×2",
+            "74.65% ×2",
+            "78.76% ×2"
+          ]
+        },
+        {
+          "name": "SCH Phase 5",
+          "parameters": [
+            "75.60%",
+            "81.76%",
+            "87.91%",
+            "96.70%",
+            "102.86%",
+            "109.89%",
+            "119.56%",
+            "129.23%",
+            "138.90%",
+            "149.45%",
+            "160.00%",
+            "170.55%",
+            "181.10%",
+            "191.65%",
+            "202.20%"
+          ]
+        },
+        {
+          "name": "Heftige Schläge",
+          "parameters": [
+            "129.53%",
+            "140.07%",
+            "150.62%",
+            "165.68%",
+            "176.22%",
+            "188.27%",
+            "204.84%",
+            "221.41%",
+            "237.97%",
+            "256.05%",
+            "274.12%",
+            "292.19%",
+            "310.27%",
+            "328.34%",
+            "346.42%"
+          ]
+        },
+        {
+          "name": "Ausdauerverbrauch heftiger Schläge",
+          "parameters": [
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte",
+            "20 Punkte"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen aus niedriger/großer Höhe",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Kamisato-Stil – Kyouka",
+      "info": "Kamisato Ayato wechselt seine Position und tritt in den Zustand „Takimeguri Kanka“ ein.\nHinterlässt danach eine „Wasserillusion“ an seinem ursprünglichen Standort. Sobald sie geformt ist, explodiert die Wasserillusion, wenn Gegner in der Nähe sind, oder nach einer bestimmten Zeit und verursacht Hydro-Flächenschaden.\n\n**Takimeguri Kanka**\nIn diesem Zustand setzt Kamisato Ayato sein Shunsuiken ein, um blitzschnelle Angriffe auszuführen, wodurch der mit seinen Standardangriffen verursachte Schaden in Hydro-Flächenschaden, der nicht von anderen Elementen überdeckt werden kann, umgewandelt wird.\nHat außerdem folgende Effekte:\n· Gewährt Ayato, nachdem ein Shunsuiken-Angriff Gegner getroffen hat, den Effekt Namisen, der den von Shunsuiken verursachten Schaden basierend auf Ayatos aktuellen max. LP erhöht. Namisen-Effekt anfänglich 4-fach stapelbar, höchstens 1 Stapelung alle 0,1 s durch Shunsuiken zu erhalten. Dieser Effekt erlischt, wenn Takimeguri Kanka endet.\n· Erhöht den Unterbrechungs-WDS von Kamisato Ayato.\n· Kann keinen heftigen Schlag oder Angriff aus dem Fall ausführen.\n\nTakimeguri Kanka erlischt, wenn Ayato ausgewechselt wird, sowie bei Anwendung von Kamisato-Stil – Kyouka im bereits bestehenden Zustand Takimeguri Kanka.",
+      "description": "„Wann, frage ich mich, hast du dich der Illusion hingegeben, dass du gewinnen würdest?“\nAyato ist sowohl in Bezug auf kriegerische Fähigkeiten als auch politische Intrigen so, aber um die Würde der Leiter der anderen Verwaltungen zu wahren, sagt er solche Dinge nicht zu ihnen. Daher haben nur Thoma, Itto und Ayaka diesen Satz je gehört.",
+      "attributes": [
+        {
+          "name": "Shunsuiken-SCH Phase 1",
+          "parameters": [
+            "52.89%",
+            "57.20%",
+            "61.50%",
+            "67.65%",
+            "71.96%",
+            "76.88%",
+            "83.64%",
+            "90.40%",
+            "97.17%",
+            "104.55%",
+            "111.93%",
+            "119.31%",
+            "126.69%",
+            "134.07%",
+            "141.45%"
+          ]
+        },
+        {
+          "name": "Shunsuiken-SCH Phase 2",
+          "parameters": [
+            "58.91%",
+            "63.70%",
+            "68.50%",
+            "75.35%",
+            "80.15%",
+            "85.62%",
+            "93.16%",
+            "100.70%",
+            "108.23%",
+            "116.45%",
+            "124.67%",
+            "132.89%",
+            "141.11%",
+            "149.33%",
+            "157.55%"
+          ]
+        },
+        {
+          "name": "Shunsuiken-SCH Phase 3",
+          "parameters": [
+            "64.93%",
+            "70.21%",
+            "75.50%",
+            "83.05%",
+            "88.34%",
+            "94.38%",
+            "102.68%",
+            "110.99%",
+            "119.29%",
+            "128.35%",
+            "137.41%",
+            "146.47%",
+            "155.53%",
+            "164.59%",
+            "173.65%"
+          ]
+        },
+        {
+          "name": "Dauer von Takimeguri Kanka",
+          "parameters": [
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s"
+          ]
+        },
+        {
+          "name": "ANG-Bonus von Namisen",
+          "parameters": [
+            "0.56% der max. LP pro Stapelung",
+            "0.61% der max. LP pro Stapelung",
+            "0.65% der max. LP pro Stapelung",
+            "0.72% der max. LP pro Stapelung",
+            "0.76% der max. LP pro Stapelung",
+            "0.82% der max. LP pro Stapelung",
+            "0.89% der max. LP pro Stapelung",
+            "0.96% der max. LP pro Stapelung",
+            "1.03% der max. LP pro Stapelung",
+            "1.11% der max. LP pro Stapelung",
+            "1.19% der max. LP pro Stapelung",
+            "1.27% der max. LP pro Stapelung",
+            "1.34% der max. LP pro Stapelung",
+            "1.42% der max. LP pro Stapelung",
+            "1.50% der max. LP pro Stapelung"
+          ]
+        },
+        {
+          "name": "Wasserillusions-SCH",
+          "parameters": [
+            "101.48%",
+            "109.74%",
+            "118.00%",
+            "129.80%",
+            "138.06%",
+            "147.50%",
+            "160.48%",
+            "173.46%",
+            "186.44%",
+            "200.60%",
+            "214.76%",
+            "228.92%",
+            "243.08%",
+            "257.24%",
+            "271.40%"
+          ]
+        },
+        {
+          "name": "Wasserillusions-Dauer",
+          "parameters": [
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s"
+          ]
+        },
+        {
+          "name": "Abklingzeit",
+          "parameters": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Kamisato-Stil – Suiyuu",
+      "info": "Erschafft einen Garten der Reinheit, der jeglichen Lärm in seinem Inneren auslöscht.\nLässt während der Wirkungsdauer fortlaufend Wasserblütenklingen fallen, die Gegner im Wirkungsbereich angreifen und ihnen Hydro-Schaden zufügen, und erhöht den mit Standardangriffen der Figuren im Wirkungsbereich verursachten Schaden.",
+      "description": "„Ich kann sie sehen, die Wellen deines schlagenden Herzens in diesem Reich der stillen Wasser.“",
+      "attributes": [
+        {
+          "name": "Wasserblütenklingen-SCH",
+          "parameters": [
+            "66.46%",
+            "71.44%",
+            "76.42%",
+            "83.07%",
+            "88.05%",
+            "93.04%",
+            "99.68%",
+            "106.33%",
+            "112.98%",
+            "119.62%",
+            "126.27%",
+            "132.91%",
+            "141.22%",
+            "149.53%",
+            "157.83%"
+          ]
+        },
+        {
+          "name": "SCH-Bonus für Standardangriffe",
+          "parameters": [
+            "11.00%",
+            "12.00%",
+            "13.00%",
+            "14.00%",
+            "15.00%",
+            "16.00%",
+            "17.00%",
+            "18.00%",
+            "19.00%",
+            "20.00%",
+            "20.00%",
+            "20.00%",
+            "20.00%",
+            "20.00%",
+            "20.00%"
+          ]
+        },
+        {
+          "name": "Dauer",
+          "parameters": [
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s"
+          ]
+        },
+        {
+          "name": "Abklingzeit",
+          "parameters": [
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s"
+          ]
+        },
+        {
+          "name": "Elementarenergie",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Kamisato-Stil – Mine Wo Matoishi Kiyotaki",
+      "info": "**Kamisato-Stil – Kyouka** löst folgende Effekte aus:\n· Kamisato Ayato erhält beim Auslösen 2 Stapelungen des Effekts Namisen.\n· Wenn die Wasserillusion explodiert, erhält Ayato eine Menge an Stapelungen des Effekts Namisen, die der höchstmöglichen Anzahl von Stapelungen entspricht."
+    },
+    "passive2": {
+      "name": "Kamisato-Stil – Michiyuku Hagetsu",
+      "info": "Stellt Kamisato Ayato, wenn er inaktiv in der Truppe ist und weniger als 40 Punkte Elementarenergie hat, pro s 2 Punkte Elementarenergie wieder her."
+    },
+    "passive3": {
+      "name": "Kamisato-Stil – Alltägliche Gerichte",
+      "info": "Stellt bei der perfekten Zubereitung von Gerichten mit einer Wahrscheinlichkeit von 18 % zusätzlich die misslungene Variante des jeweiligen Gerichts her."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Lehren der „Eleganz“",
+          "count": 3
+        },
+        {
+          "name": "Alter Handschutz",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Anleitung zur „Eleganz“",
+          "count": 2
+        },
+        {
+          "name": "Kageuchi-Handschutz",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Anleitung zur „Eleganz“",
+          "count": 4
+        },
+        {
+          "name": "Kageuchi-Handschutz",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Anleitung zur „Eleganz“",
+          "count": 6
+        },
+        {
+          "name": "Kageuchi-Handschutz",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Anleitung zur „Eleganz“",
+          "count": 9
+        },
+        {
+          "name": "Kageuchi-Handschutz",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie der „Eleganz“",
+          "count": 4
+        },
+        {
+          "name": "Berühmter Handschutz",
+          "count": 4
+        },
+        {
+          "name": "Mudra des grimmigen Generals",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie der „Eleganz“",
+          "count": 6
+        },
+        {
+          "name": "Berühmter Handschutz",
+          "count": 6
+        },
+        {
+          "name": "Mudra des grimmigen Generals",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie der „Eleganz“",
+          "count": 12
+        },
+        {
+          "name": "Berühmter Handschutz",
+          "count": 9
+        },
+        {
+          "name": "Mudra des grimmigen Generals",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie der „Eleganz“",
+          "count": 16
+        },
+        {
+          "name": "Berühmter Handschutz",
+          "count": 12
+        },
+        {
+          "name": "Mudra des grimmigen Generals",
+          "count": 2
+        },
+        {
+          "name": "Krone der Weisheit",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_01",
+      "combat2": "Skill_S_Ayato_01",
+      "combat3": "Skill_E_Ayato_01_HD",
+      "passive1": "UI_Talent_S_Ayato_05",
+      "passive2": "UI_Talent_S_Ayato_06",
+      "passive3": "UI_Talent_S_Ayato_07"
+    },
+    "version": "2.6"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Masque endommagé",
+  "description": "Un masque en os fissuré qui a appartenu à un Brutocollinus.\nIl est tellement endommagé qu'on ne peut plus vraiment appeler ça un masque.",
+  "sortorder": 1726,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Butin de Brutocollinus",
+    "Butin de certains Tireurs Brutocollinus",
+    "Butin de certains Brutoshamans",
+    "Butin de certains Brutoviandus",
+    "Butin de certains Chefs Brutorocheux",
+    "Échange Astrions"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Damaged_Mask.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Damaged_Mask.png",
+    "nameicon": "UI_ItemIcon_112005"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Damaged_Mask"
+  },
+  "version": ""
+}

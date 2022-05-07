@@ -1,0 +1,21 @@
+{
+  "name": "霧虛花粉",
+  "description": "霧虛草在密閉空間中會產生的奇妙孢子，是飛螢喜好的食物。",
+  "sortorder": 1744,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培養素材",
+  "source": [
+    "愚人眾·螢術士掉落",
+    "星塵兌換"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Grass_Pollen.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Mist_Grass_Pollen.png",
+    "nameicon": "UI_ItemIcon_112026"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Grass_Pollen"
+  },
+  "version": ""
+}

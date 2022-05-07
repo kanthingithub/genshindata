@@ -1,0 +1,22 @@
+{
+  "name": "Néctar Brilhante",
+  "description": "Néctar que está cheio de elementos puros.\nEstudiosos normalmente consideram que as Flores Gigantes são formas de vida avançada entre as plantas elementais, mas ainda é necessária uma explicação satisfatória para seu hábito predatório.",
+  "sortorder": 1757,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Obtido na síntese",
+    "Dropado por Flores Gigantes Nv.40+",
+    "Resgate de Poeira Estrelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shimmering_Nectar.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Shimmering_Nectar.png",
+    "nameicon": "UI_ItemIcon_112039"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shimmering_Nectar"
+  },
+  "version": ""
+}

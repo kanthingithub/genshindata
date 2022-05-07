@@ -1,0 +1,20 @@
+{
+  "name": "東風の爪",
+  "description": "モンドの東風の主から取った爪。\nかつて魔龍「ドゥリン」の血肉を引き裂いたため、中には恐ろしい猛毒が含まれているが、君が浄化、治癒したおかげで、その毒はようやく落ち着いた。",
+  "sortorder": 1786,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "キャラクター育成素材",
+  "source": [
+    "風魔龍（Lv.70以上）挑戦報酬"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dvalin's_Claw.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Item_Dvalin%27s_Claw.png",
+    "nameicon": "UI_ItemIcon_113004"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dvalin's_Claw"
+  },
+  "version": ""
+}

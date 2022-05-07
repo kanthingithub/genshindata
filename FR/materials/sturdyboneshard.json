@@ -1,0 +1,24 @@
+{
+  "name": "Fragment d'os solide",
+  "description": "Fragment d'os qui semble très apprécié des Élémentosaures.\nL'os doit être assez ancien. Ces créatures cousines du dragon ont beau n'avoir pas de langage à proprement parler, elles semblent malgré tout être très attachées à ce type d'objet.",
+  "sortorder": 1760,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Synthèse",
+    "Butin de Jeune Géosaure (Niv.40+)",
+    "Butin de Géosaure (Niv.40+)",
+    "Butin d'Élémentosaure abyssal (Niv.40+)",
+    "Échange Astrions"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sturdy_Bone_Shard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Item_Sturdy_Bone_Shard.png",
+    "nameicon": "UI_ItemIcon_112042"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sturdy_Bone_Shard"
+  },
+  "version": ""
+}

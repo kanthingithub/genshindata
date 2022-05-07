@@ -1,0 +1,914 @@
+{
+  "name": "Diona",
+  "fullname": "Diona",
+  "title": "Coquetel da Cauda do Gato",
+  "description": "Uma jovem que herdou pequenas quantidades de sangue não humano. Ela é a Barmaid incrivelmente popular da taverna da Cauda do Gato.",
+  "rarity": "4",
+  "element": "Cryo",
+  "weapontype": "Arco",
+  "substat": "Bônus de Dano Cryo",
+  "gender": "Feminino",
+  "body": "LOLI",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "A Cauda do Gato",
+  "birthdaymmdd": "1/18",
+  "birthday": "18 de janeiro",
+  "constellation": "Feles",
+  "cv": {
+    "english": "Dina Sherman",
+    "chinese": "诺亚",
+    "japanese": "井澤詩織",
+    "korean": "Woo Jeong-shin"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Lasca de Jade Shivada",
+        "count": 1
+      },
+      {
+        "name": "Lótus de Leite",
+        "count": 3
+      },
+      {
+        "name": "Ponta de Flecha Robusta",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de Jade Shivada",
+        "count": 3
+      },
+      {
+        "name": "Núcleo de Geada",
+        "count": 2
+      },
+      {
+        "name": "Lótus de Leite",
+        "count": 10
+      },
+      {
+        "name": "Ponta de Flecha Robusta",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de Jade Shivada",
+        "count": 6
+      },
+      {
+        "name": "Núcleo de Geada",
+        "count": 4
+      },
+      {
+        "name": "Lótus de Leite",
+        "count": 20
+      },
+      {
+        "name": "Ponta de Flecha Afiada",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Pedaço de Jade Shivada",
+        "count": 3
+      },
+      {
+        "name": "Núcleo de Geada",
+        "count": 8
+      },
+      {
+        "name": "Lótus de Leite",
+        "count": 30
+      },
+      {
+        "name": "Ponta de Flecha Afiada",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Pedaço de Jade Shivada",
+        "count": 6
+      },
+      {
+        "name": "Núcleo de Geada",
+        "count": 12
+      },
+      {
+        "name": "Lótus de Leite",
+        "count": 45
+      },
+      {
+        "name": "Ponta de Flecha Usada",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Gema de Jade Shivada",
+        "count": 6
+      },
+      {
+        "name": "Núcleo de Geada",
+        "count": 20
+      },
+      {
+        "name": "Lótus de Leite",
+        "count": 60
+      },
+      {
+        "name": "Ponta de Flecha Usada",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/0/08/Character_Diona_Card.png",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Character_Diona_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Diona.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201106/2020110618565219627.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201106/2020110618595613115.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/d4e511080346c2ce43636eeb10dd7226.png",
+    "nameicon": "UI_AvatarIcon_Diona",
+    "nameiconcard": "UI_AvatarIcon_Diona_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Diona",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Diona",
+    "namesideicon": "UI_AvatarIcon_Side_Diona"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Diona"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 802.3760986328125,
+      "attack": 17.808000564575195,
+      "defense": 50.358001708984375,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2061.304201978928,
+      "attack": 45.74875355229187,
+      "defense": 129.36970667853166,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2660.720217603928,
+      "attack": 59.0525531815033,
+      "defense": 166.98970561041642,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 3985.4429835102637,
+      "attack": 88.45355827545154,
+      "defense": 250.1307555782696,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4411.343862416514,
+      "attack": 97.90625889038074,
+      "defense": 276.8607551205059,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5074.106691293244,
+      "attack": 112.61567116091919,
+      "defense": 318.4564752897568,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5641.974489144806,
+      "attack": 125.21927070925904,
+      "defense": 354.0964746794052,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6304.737318021536,
+      "attack": 139.9286829797975,
+      "defense": 395.6921948486561,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6730.638074857474,
+      "attack": 149.381384548401,
+      "defense": 422.42219820558967,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7392.598203188449,
+      "attack": 164.07298161756898,
+      "defense": 463.9675400104752,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7818.499082094699,
+      "attack": 173.52567937147523,
+      "defense": 490.69753573801427,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8481.26152836869,
+      "attack": 188.2350831504973,
+      "defense": 532.2932318946987,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 8907.16240727494,
+      "attack": 197.68778471910082,
+      "defense": 559.0232276222378,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9569.92523615167,
+      "attack": 212.39719698963927,
+      "defense": 600.6189477914886,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.1",
+  "constellations": {
+    "c1": {
+      "name": "Coquetel da Casa",
+      "effect": "Regenera 15 de Energia para Diona depois dos efeitos de **Coquetel Assassino** terminarem."
+    },
+    "c2": {
+      "name": "Garra de Gato Tremendo de Frio",
+      "effect": "Aumenta o dano da **Garra de Gato Gelada** em 15%, e aumenta a Absorção de Dano do escudo em 15%. Quando a habilidade atinge um alvo, cria um escudo para outros personagens nos arredores que absorve até 50% do dano **Garra de Gato Gelada** por 5s."
+    },
+    "c3": {
+      "name": "Q-quer outro copo?",
+      "effect": "Aumenta o nível do **Coquetel Assassino** em 3.\nO nível máximo de elevação é 15."
+    },
+    "c4": {
+      "name": "\"Assassina da indústria do vinho\"",
+      "effect": "Na AdE do **Coquetel Assassino**, o tempo do Disparo com Mira de Diona é reduzido em 60%."
+    },
+    "c5": {
+      "name": "Dose dupla com gelo",
+      "effect": "Aumenta o nível da **Garra de Gato Gelada** em 3.\nO nível máximo de elevação é 15."
+    },
+    "c6": {
+      "name": "Encerrando o Expediente na Cauda do Gato",
+      "effect": "Os personagens dentro da AdE do **Coquetel Assassino** de acordo com a Vida obtém o seguinte efeito:\nQuando a Vida é igual ou inferior a 50%, o Bônus de Cura Recebida aumenta 30%;\nQuando a Vida é superior a 50%, a Proficiência Elemental aumenta 200."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diona_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diona_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Diona_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diona_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Diona_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diona_04.png",
+      "constellation": "Eff_UI_Talent_Diona"
+    },
+    "version": "1.1"
+  },
+  "talent": {
+    "name": "Diona",
+    "combat1": {
+      "name": "Ataque Normal: Pontaria do Caçador",
+      "info": "**Ataque Normal**\nRealiza até 5 disparos consecutivos com o arco.\n\n**Ataque Carregado**\nRealiza um ataque **Disparo com Mira** mais preciso e com mais dano.\nEnquanto mira, gelo será acumulado na flecha. Uma flecha totalmente carregada causará Dano Cryo.\n\n**Ataque Imersivo** Dispara uma chuva de flechas no ar antes de cair e impactar o chão, causando Dano AdE no impacto.",
+      "attributes": [
+        {
+          "name": "Dano do 1° Golpe",
+          "parameters": [
+            "36.12%",
+            "39.06%",
+            "42.00%",
+            "46.20%",
+            "49.14%",
+            "52.50%",
+            "57.12%",
+            "61.74%",
+            "66.36%",
+            "71.40%",
+            "77.17%",
+            "83.97%",
+            "90.76%",
+            "97.55%",
+            "104.96%"
+          ]
+        },
+        {
+          "name": "Dano do 2° Golpe",
+          "parameters": [
+            "33.54%",
+            "36.27%",
+            "39.00%",
+            "42.90%",
+            "45.63%",
+            "48.75%",
+            "53.04%",
+            "57.33%",
+            "61.62%",
+            "66.30%",
+            "71.66%",
+            "77.97%",
+            "84.28%",
+            "90.58%",
+            "97.46%"
+          ]
+        },
+        {
+          "name": "Dano do 3° Golpe",
+          "parameters": [
+            "45.58%",
+            "49.29%",
+            "53.00%",
+            "58.30%",
+            "62.01%",
+            "66.25%",
+            "72.08%",
+            "77.91%",
+            "83.74%",
+            "90.10%",
+            "97.39%",
+            "105.96%",
+            "114.53%",
+            "123.10%",
+            "132.45%"
+          ]
+        },
+        {
+          "name": "Dano do 4° Golpe",
+          "parameters": [
+            "43.00%",
+            "46.50%",
+            "50.00%",
+            "55.00%",
+            "58.50%",
+            "62.50%",
+            "68.00%",
+            "73.50%",
+            "79.00%",
+            "85.00%",
+            "91.87%",
+            "99.96%",
+            "108.05%",
+            "116.13%",
+            "124.95%"
+          ]
+        },
+        {
+          "name": "Dano do 5° Golpe",
+          "parameters": [
+            "53.75%",
+            "58.13%",
+            "62.50%",
+            "68.75%",
+            "73.12%",
+            "78.13%",
+            "85.00%",
+            "91.87%",
+            "98.75%",
+            "106.25%",
+            "114.84%",
+            "124.95%",
+            "135.06%",
+            "145.16%",
+            "156.19%"
+          ]
+        },
+        {
+          "name": "Disparo com Mira",
+          "parameters": [
+            "43.86%",
+            "47.43%",
+            "51.00%",
+            "56.10%",
+            "59.67%",
+            "63.75%",
+            "69.36%",
+            "74.97%",
+            "80.58%",
+            "86.70%",
+            "93.71%",
+            "101.96%",
+            "110.21%",
+            "118.45%",
+            "127.45%"
+          ]
+        },
+        {
+          "name": "Disparo com Mira com Energização Completa",
+          "parameters": [
+            "124.00%",
+            "133.30%",
+            "142.60%",
+            "155.00%",
+            "164.30%",
+            "173.60%",
+            "186.00%",
+            "198.40%",
+            "210.80%",
+            "223.20%",
+            "236.10%",
+            "252.96%",
+            "269.82%",
+            "286.69%",
+            "303.55%"
+          ]
+        },
+        {
+          "name": "Dano Durante a Queda",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "Dano de Queda de Baixa/Alta Altitude",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Garra de Gato Gelada",
+      "info": "Dispara uma Garra de Gato Gelada que causa Dano Cryo e cria um escudo.\nA Absorção de Dano do escudo é baseada na Vida Máxima de Diona, e sua duração depende do número de garras que atingem seu objetivo.\n\n**Tocar**\nDispara rapidamente 2 Garras de Gato Gelada.\n\n**Manter Pressionado** Retrocede rapidamente e dispara 5 Garras de Gato Geladas.\nO escudo criado pelo ataque Manter Pressionado ganhará um bônus de 75% de Absorção de Dano.\n\nO escudo tem um bônus de 250% de Absorção de Dano Cryo, e ao ser formado aplica o Elemento Cryo em seu próprio personagem por uma curta duração.",
+      "description": "Normalmente, nenhuma quantidade de gelo no copo de um bêbado faria mal algum, até que Diona usou sua Visão para criar gelo frio o suficiente para congelar o cérebro. Nota 10!",
+      "attributes": [
+        {
+          "name": "Dano de Garras do Gato",
+          "parameters": [
+            "41.92% cada",
+            "45.06% cada",
+            "48.21% cada",
+            "52.40% cada",
+            "55.54% cada",
+            "58.69% cada",
+            "62.88% cada",
+            "67.07% cada",
+            "71.26% cada",
+            "75.46% cada",
+            "79.65% cada",
+            "83.84% cada",
+            "89.08% cada",
+            "94.32% cada",
+            "99.56% cada"
+          ]
+        },
+        {
+          "name": "Absorção Básica de Escudo",
+          "parameters": [
+            "7.20% da Vida máxima + 693",
+            "7.74% da Vida máxima + 762",
+            "8.28% da Vida máxima + 837",
+            "9.00% da Vida máxima + 918",
+            "9.54% da Vida máxima + 1005",
+            "10.08% da Vida máxima + 1097",
+            "10.80% da Vida máxima + 1195",
+            "11.52% da Vida máxima + 1299",
+            "12.24% da Vida máxima + 1409",
+            "12.96% da Vida máxima + 1524",
+            "13.68% da Vida máxima + 1646",
+            "14.40% da Vida máxima + 1773",
+            "15.30% da Vida máxima + 1905",
+            "16.20% da Vida máxima + 2044",
+            "17.10% da Vida máxima + 2188"
+          ]
+        },
+        {
+          "name": "Duração",
+          "parameters": [
+            "1.7999999523162842s por Garra",
+            "1.899999976158142s por Garra",
+            "2s por Garra",
+            "2.0999999046325684s por Garra",
+            "2.200000047683716s por Garra",
+            "2.299999952316284s por Garra",
+            "2.4000000953674316s por Garra",
+            "2.4000000953674316s por Garra",
+            "2.4000000953674316s por Garra",
+            "2.4000000953674316s por Garra",
+            "2.4000000953674316s por Garra",
+            "2.4000000953674316s por Garra",
+            "2.4000000953674316s por Garra",
+            "2.4000000953674316s por Garra",
+            "2.4000000953674316s por Garra"
+          ]
+        },
+        {
+          "name": "Recarga ao Pressionar",
+          "parameters": [
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s"
+          ]
+        },
+        {
+          "name": "Recarga ao Manter Pressionado",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Coquetel Assassino",
+      "info": "Atira um coquetel gelado especial que causa Dano Cryo em uma AdE e cria uma Névoa Embriagada em uma AdE.\n\n**Névoa Embriagada**\nCausa Dano Cryo contínuo nos inimigos dentro da AdE.\nRegenera continuamente a Vida dos personagens dentro da AdE.",
+      "description": "Uma mistura horrível que até mesmo Diona considera desumana. O gosto horrível deve ser deixado apenas para os inimigos. Tem um sabor muito fresco, mas infelizmente só se pode sentir no nariz e na pele.",
+      "attributes": [
+        {
+          "name": "Dano de Habilidade",
+          "parameters": [
+            "80.00%",
+            "86.00%",
+            "92.00%",
+            "100.00%",
+            "106.00%",
+            "112.00%",
+            "120.00%",
+            "128.00%",
+            "136.00%",
+            "144.00%",
+            "152.00%",
+            "160.00%",
+            "170.00%",
+            "180.00%",
+            "190.00%"
+          ]
+        },
+        {
+          "name": "Dano Contínuo de Área",
+          "parameters": [
+            "52.64%",
+            "56.59%",
+            "60.54%",
+            "65.80%",
+            "69.75%",
+            "73.70%",
+            "78.96%",
+            "84.22%",
+            "89.49%",
+            "94.75%",
+            "100.02%",
+            "105.28%",
+            "111.86%",
+            "118.44%",
+            "125.02%"
+          ]
+        },
+        {
+          "name": "Cura Contínua",
+          "parameters": [
+            "5.34% da Vida Máxima + 513",
+            "5.74% da Vida Máxima + 565",
+            "6.14% da Vida Máxima + 620",
+            "6.67% da Vida Máxima + 680",
+            "7.07% da Vida Máxima + 744",
+            "7.47% da Vida Máxima + 813",
+            "8.00% da Vida Máxima + 885",
+            "8.54% da Vida Máxima + 962",
+            "9.07% da Vida Máxima + 1044",
+            "9.60% da Vida Máxima + 1129",
+            "10.14% da Vida Máxima + 1219",
+            "10.67% da Vida Máxima + 1313",
+            "11.34% da Vida Máxima + 1411",
+            "12.01% da Vida Máxima + 1514",
+            "12.67% da Vida Máxima + 1621"
+          ]
+        },
+        {
+          "name": "Duração",
+          "parameters": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        },
+        {
+          "name": "Tempo de Recarga",
+          "parameters": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "name": "Energia Elemental",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Menu Secreto da Cauda do Gato",
+      "info": "Os personagens protegidos por **Garras de Gato Gelado** têm sua Veloc. Mov. aumentado em 10% e seu Consumo de Stamina diminuído em 10%."
+    },
+    "passive2": {
+      "name": "Diversão dos Bêbados",
+      "info": "Inimigos que entram na AdE do **Coquetel Assassino** tem seu ATQ reduzido em 10% por 15s."
+    },
+    "passive3": {
+      "name": "Aperitivos Grátis",
+      "info": "Quando uma Culinária Perfeita é feita em uma comida com efeito de recuperação, tem uma chance de 12% de receber o dobro de produção."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Ensinamentos de \"Liberdade\"",
+          "count": 3
+        },
+        {
+          "name": "Ponta de Flecha Robusta",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guia da Liberdade",
+          "count": 2
+        },
+        {
+          "name": "Ponta de Flecha Afiada",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guia da Liberdade",
+          "count": 4
+        },
+        {
+          "name": "Ponta de Flecha Afiada",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guia da Liberdade",
+          "count": 6
+        },
+        {
+          "name": "Ponta de Flecha Afiada",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guia da Liberdade",
+          "count": 9
+        },
+        {
+          "name": "Ponta de Flecha Afiada",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofia da Liberdade",
+          "count": 4
+        },
+        {
+          "name": "Ponta de Flecha Usada",
+          "count": 4
+        },
+        {
+          "name": "Fragmento de Espada do Rei Demônio",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofia da Liberdade",
+          "count": 6
+        },
+        {
+          "name": "Ponta de Flecha Usada",
+          "count": 6
+        },
+        {
+          "name": "Fragmento de Espada do Rei Demônio",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofia da Liberdade",
+          "count": 12
+        },
+        {
+          "name": "Ponta de Flecha Usada",
+          "count": 9
+        },
+        {
+          "name": "Fragmento de Espada do Rei Demônio",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofia da Liberdade",
+          "count": 16
+        },
+        {
+          "name": "Ponta de Flecha Usada",
+          "count": 12
+        },
+        {
+          "name": "Fragmento de Espada do Rei Demônio",
+          "count": 2
+        },
+        {
+          "name": "Coroa da Sabedoria",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_02",
+      "combat2": "Skill_S_Diona_01",
+      "combat3": "Skill_E_Diona_01_HD",
+      "passive1": "UI_Talent_S_Diona_05",
+      "passive2": "UI_Talent_S_Diona_06",
+      "passive3": "UI_Talent_Cook_Heal"
+    },
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Осколок изумруда Нагадус",
+  "description": "Материал возвышения персонажа.",
+  "sortorder": 1830,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Nagadus_Emerald_Sliver.png",
+    "nameicon": "UI_ItemIcon_104131"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Nagadus_Emerald_Sliver"
+  },
+  "version": ""
+}

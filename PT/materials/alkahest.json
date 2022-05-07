@@ -1,0 +1,18 @@
+{
+  "name": "Alcaeste",
+  "description": "Material Especializado de Refinamento para a Haste de Cinábrio.\nUma substância prateada brilhante com uma luz estranha que é um veneno corrosivo para as coisas desse mundo. Mas ainda assim, possui a capacidade de sublimar a matéria...",
+  "sortorder": 2298,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Refinamento",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_200108",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Alkahest.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Alkahest.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Alkahest"
+  },
+  "version": ""
+}

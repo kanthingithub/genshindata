@@ -1,0 +1,21 @@
+{
+  "name": "Bois de dulcinier",
+  "description": "Bois obtenu à partir de dulcinier. Il renferme la quantité parfaite d'humidité et d'huile, ce qui lui permet d'avoir de nombreuses utilisations.\nPeut être utilisé pour fabriquer des décorations.",
+  "sortorder": 1946,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Matériau",
+  "source": [
+    "Dans la nature",
+    "Zone conseillée : Île de Yashiori"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Otogi_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Item_Otogi_Wood.png",
+    "nameicon": "UI_ItemIcon_101312"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Otogi_Wood"
+  },
+  "version": ""
+}

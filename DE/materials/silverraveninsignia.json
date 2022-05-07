@@ -1,0 +1,22 @@
+{
+  "name": "Krähenwappen der Silberschätze",
+  "description": "Ein Krähenwappen, mit dem sich die Schatzräuber gegenseitig erkennen. Bei den Schatzräubern ist es egal, wo man herkommt oder wer man ist, solange man mit ganzem Herzen bei der Sache ist. Wer bereit ist, alles dafür zu geben, an die Schätze dieser Welt zu gelangen, kann ein großartiger Schatzräuber werden.",
+  "sortorder": 1754,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Kann hergestellt werden",
+    "Beute von Schatzräubern ab Stufe 40",
+    "Mit Sternenstaub kaufen"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Silver_Raven_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Item_Silver_Raven_Insignia.png",
+    "nameicon": "UI_ItemIcon_112036"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Silver_Raven_Insignia"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Brown Shirakodai",
+  "description": "ปลาผีเสื้อที่อ่อนโยน และสง่างาม มีครีบหลังที่สวยงามและเพรียวบาง และมีชื่อเล่นว่า \"ราชินีแห่งน่านน้ำ\"\nร่างกายล้อมรอบด้วยลวดลายเส้นสีพื้นดิน อารมณ์นั้นสงบเหมือนก้อนหิน อย่างไรก็ตาม ข้อเสียคือมันนิ่งสงบเกินไป บางครั้งก็จมลงสู่ก้นน้ำเหมือนก้อนหินไม่ขยับแม้แต่ครีบเดียว ทำให้คนที่ซื้อมันไปบางคนคิดว่า พวกเขาได้ซื้อปลาแก่ที่ป่วยหนักมาอย่างสิ้นหวัง",
+  "sortorder": 2027,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "ปลา",
+  "source": [
+    "ได้รับจากการตกปลา"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Brown_Shirakodai.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/43/Item_Brown_Shirakodai.png",
+    "nameicon": "UI_ItemIcon_131013"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Brown_Shirakodai"
+  },
+  "version": ""
+}

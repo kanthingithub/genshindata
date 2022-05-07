@@ -1,0 +1,19 @@
+{
+  "name": "Lotos",
+  "description": "Eine Pflanze mit zwei Stängeln, die in stehenden Gewässern rund um Liyue wächst. Ein Stängel duftet angenehm, der andere ist bitter. Eignet sich angeblich gut für Medizin.",
+  "sortorder": 1987,
+  "category": "EXCHANGE",
+  "materialtype": "Zutat",
+  "source": [
+    "An Flussufern und Seen zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lotus_Head.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Item_Lotus_Head.png",
+    "nameicon": "UI_ItemIcon_100026"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lotus_Head"
+  },
+  "version": ""
+}

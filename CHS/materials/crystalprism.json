@@ -1,0 +1,22 @@
+{
+  "name": "水晶棱镜",
+  "description": "能够偏转光线的棱镜。\n利用这种棱镜，可以制造虚幻的影像。从某种意义而言，也因此有着操纵人心的力量。",
+  "sortorder": 1769,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培养素材",
+  "source": [
+    "合成获得",
+    "40级以上愚人众·冬国仕女掉落",
+    "星尘兑换"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crystal_Prism.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Item_Crystal_Prism.png",
+    "nameicon": "UI_ItemIcon_112051"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Crystal_Prism"
+  },
+  "version": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Segmento de bambú",
+  "description": "Segmento de bambú muy ligero y mucho más resistente de lo que parece. Emite una agradable fragancia.\nPuede utilizarse para fabricar decoraciones.",
+  "sortorder": 1949,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Material",
+  "source": [
+    "Recolectar en la naturaleza",
+    "Talando en la Llanura Bishui"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bamboo_Segment.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Bamboo_Segment.png",
+    "nameicon": "UI_ItemIcon_101305"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bamboo_Segment"
+  },
+  "version": ""
+}

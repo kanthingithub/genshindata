@@ -1,0 +1,20 @@
+{
+  "name": "馬尾",
+  "description": "偶然隨荻草生長的紫色植物。比周圍的荻草更為挺拔、飽滿，如同崇高的人。",
+  "sortorder": 1967,
+  "category": "EXCHANGE",
+  "materialtype": "素材",
+  "source": [
+    "荻草叢中，濕地採集",
+    "推薦：荻花洲採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Horsetail.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Item_Horsetail.png",
+    "nameicon": "UI_ItemIcon_100032"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Horsetail"
+  },
+  "version": ""
+}

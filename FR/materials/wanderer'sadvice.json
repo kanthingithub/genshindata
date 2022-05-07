@@ -1,0 +1,20 @@
+{
+  "name": "Astuces du voyageur",
+  "description": "Matériau d'EXP de personnage. Confère 1 000 pts d'EXP.\nCes astuces vous seront toujours utiles si vous ne vivez pas en Teyvat.",
+  "sortorder": 1290,
+  "rarity": "2",
+  "category": "EXP_FRUIT",
+  "materialtype": "Matériau d'EXP de personnage",
+  "source": [
+    "Aventure et exploration"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_104001",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wanderer's_Advice.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Wanderer%27s_Advice.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Wanderer's_Advice"
+  },
+  "version": ""
+}

@@ -1,0 +1,207 @@
+{
+  "name": "Stormterror",
+  "specialname": "Stormterror",
+  "enemytype": "BOSS",
+  "category": "Chefe",
+  "description": "Um dos Quatro Ventos de Mondstadt, Dvalin, o Dragão do Leste.\nApós longos anos e em meio à escuridão infinita, até a gema mais pura ficará manchada pela poeira e um nobre dragão será corrompido e corroído pelo ódio.\nMas nunca se esqueça de que a poeira pode ser removida e o poder da dúvida e do veneno pode ser destruído.\n\"Voe livremente no céu.\nAssim como naqueles dias em que nos conhecíamos, quando eu andava nesta terra e cantava as canções do vento,\nE você voava alto, olhando para o mundo lá de cima.\nHoje, o céu não é mais tocado pelo vento e pela neve. A grama verde cresce em toda a terra e ela é linda.\nSe você também pudesse caminhar pela terra e ouvir as canções dos pastores e o som dos sinos de vento ao longe, se pudesse provar um vinho tão doce como o mel, entenderia.\nComo seria maravilhoso se você fosse como eu, voando pelo céu azul em sua nobre e bela forma.\nEntão você saberia que vale a pena lutar por este céu e esta terra.\"",
+  "rewardpreview": [
+    {
+      "name": "EXP de Aventura",
+      "count": 300
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "EXP de Amizade"
+    },
+    {
+      "name": "Lasca de Turquesa Vayuda"
+    },
+    {
+      "name": "Fragmento de Turquesa Vayuda"
+    },
+    {
+      "name": "Pedaço de Turquesa Vayuda"
+    },
+    {
+      "name": "Gema de Turquesa Vayuda"
+    },
+    {
+      "name": "Lasca de Ametista Vajrada"
+    },
+    {
+      "name": "Fragmento de Ametista Vajrada"
+    },
+    {
+      "name": "Pedaço de Ametista Vajrada"
+    },
+    {
+      "name": "Gema de Ametista Vajrada"
+    },
+    {
+      "name": "Lasca de Lazurita Varunada"
+    },
+    {
+      "name": "Fragmento de Lazurita Varunada"
+    },
+    {
+      "name": "Pedaço de Lazurita Varunada"
+    },
+    {
+      "name": "Gema de Lazurita Varunada"
+    },
+    {
+      "name": "Solvente dos Sonhos",
+      "count": 0.33
+    },
+    {
+      "name": "Plumas do Vento Oriental"
+    },
+    {
+      "name": "Garra do Vento Oriental"
+    },
+    {
+      "name": "Suspiro do Vento Oriental"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instrutor",
+      "rarity": "3"
+    },
+    {
+      "name": "O Exilado",
+      "rarity": "3"
+    },
+    {
+      "name": "Último Juramento do Gladiador",
+      "rarity": "4"
+    },
+    {
+      "name": "Trupe Itinerante",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instrutor",
+      "rarity": "4"
+    },
+    {
+      "name": "O Exilado",
+      "rarity": "4"
+    },
+    {
+      "name": "Último Juramento do Gladiador",
+      "rarity": "5"
+    },
+    {
+      "name": "Trupe Itinerante",
+      "rarity": "5"
+    },
+    {
+      "name": "Protótipo de Espada do Território do Norte"
+    },
+    {
+      "name": "Protótipo do Arco do Território do Norte"
+    },
+    {
+      "name": "Protótipo de Espadão do Território do Norte"
+    },
+    {
+      "name": "Protótipo de Catalisador do Território do Norte"
+    },
+    {
+      "name": "Protótipo de Lança do Território do Norte"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Dvalin"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 656.2529383627698,
+      "attack": 152.2663863116577,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 2579.4364822493226,
+      "attack": 406.8166587971864,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 7966.800011541462,
+      "attack": 1003.4998039648926,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 13255.20293965016,
+      "attack": 1639.0596025083796,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 24253.645171341486,
+      "attack": 2450.4833108624443,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 44968.35830332339,
+      "attack": 3778.963487027271,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 75431.29331801087,
+      "attack": 5321.546282113646,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 117467.75373650808,
+      "attack": 7346.143133227946,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 167091.54786452092,
+      "attack": 9451.590193737298,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 219186.78009680472,
+      "attack": 11418.823591017863,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 330886.09386089444,
+      "attack": 14773.25319093978,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 481520.82349524647,
+      "attack": 15066.582932085032,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 647876.8505104557,
+      "attack": 15361.966398832854,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

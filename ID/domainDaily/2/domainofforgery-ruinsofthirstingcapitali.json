@@ -1,0 +1,175 @@
+{
+  "name": "Domain of Forgery: Reruntuhan Kota Kemarau",
+  "region": "Mondstadt",
+  "domainEntrance": "Cecilia Garden",
+  "domainType": "Material Ascension Senjata",
+  "description": "Kekuatan energi Hydro yang kuat mengalir melalui altar pengorbanan kuno yang lembap ini.\nKelembapan di tempat ini akan meningkatkan durasi Cooldown skill.\nKamu akan berhak mendapatkan item Ascension Senjata, apabila kamu berhasil melewati ujian ini.",
+  "daysOfWeek": [
+    "Rabu",
+    "Sabtu",
+    "Minggu"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Water"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domain of Forgery: Reruntuhan Kota Kemarau I",
+      "recommendedLevel": 15,
+      "recommendedElements": [
+        "Cryo",
+        "Pyro",
+        "Electro"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1125
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 10
+        },
+        {
+          "name": "Fetters of the Dandelion Gladiator"
+        }
+      ],
+      "disorder": [
+        "Setiap beberapa saat, karakter yang bertarung akan terkena Slowing Water, yang menyebabkan durasi Cooldown skill karakter meningkat drastis sampai efek elemen Hydro terhilangkan."
+      ],
+      "monsterlist": [
+        "Hydro Slime",
+        "Large Hydro Slime"
+      ]
+    },
+    {
+      "name": "Domain of Forgery: Reruntuhan Kota Kemarau II",
+      "recommendedLevel": 36,
+      "recommendedElements": [
+        "Cryo",
+        "Pyro",
+        "Electro"
+      ],
+      "unlockRank": 21,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1550
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Fetters of the Dandelion Gladiator"
+        },
+        {
+          "name": "Chains of Dandelion Gladiator"
+        }
+      ],
+      "disorder": [
+        "Setiap beberapa saat, karakter yang bertarung akan terkena Slowing Water, yang menyebabkan durasi Cooldown skill karakter meningkat drastis sampai efek elemen Hydro terhilangkan."
+      ],
+      "monsterlist": [
+        "Hydro Slime",
+        "Large Hydro Slime",
+        "Wooden Shield Hilichurl Guard"
+      ]
+    },
+    {
+      "name": "Domain of Forgery: Reruntuhan Kota Kemarau III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Cryo",
+        "Pyro",
+        "Electro"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Fetters of the Dandelion Gladiator"
+        },
+        {
+          "name": "Chains of Dandelion Gladiator"
+        },
+        {
+          "name": "Shackles of Dandelion Gladiator"
+        }
+      ],
+      "disorder": [
+        "Setiap beberapa saat, karakter yang bertarung akan terkena Slowing Water, yang menyebabkan durasi Cooldown skill karakter meningkat drastis sampai efek elemen Hydro terhilangkan."
+      ],
+      "monsterlist": [
+        "Hydro Slime",
+        "Large Hydro Slime",
+        "Hydro Samachurl",
+        "Hydro Abyss Mage"
+      ]
+    },
+    {
+      "name": "Domain of Forgery: Reruntuhan Kota Kemarau IV",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Cryo",
+        "Pyro",
+        "Electro"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Fetters of the Dandelion Gladiator"
+        },
+        {
+          "name": "Chains of Dandelion Gladiator"
+        },
+        {
+          "name": "Shackles of Dandelion Gladiator"
+        },
+        {
+          "name": "Dream of the Dandelion Gladiator"
+        }
+      ],
+      "disorder": [
+        "Setiap beberapa saat, karakter yang bertarung akan terkena Slowing Water, yang menyebabkan durasi Cooldown skill karakter meningkat drastis sampai efek elemen Hydro terhilangkan."
+      ],
+      "monsterlist": [
+        "Large Hydro Slime",
+        "Hydro Abyss Mage"
+      ]
+    }
+  ]
+}

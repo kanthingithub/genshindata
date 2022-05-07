@@ -1,0 +1,195 @@
+{
+  "name": "La Signora",
+  "specialname": "La Signora",
+  "enemytype": "BOSS",
+  "category": "Einprägsame Gegner",
+  "description": "La Signora, die Achte der Elf der Fatui.\nIm Gegensatz zu anderen Fatui, die die durch Teuflische Augen gewährte Macht ausüben, ist ihr Teuflisches Auge eine Waffe, die eine alles verschlingende Flamme fesselt. Aber im Gegensatz zu einer Waffe, die zum Töten benutzt wird, wäre es eigentlich vielleicht passender, ihr Teuflisches Auge als Werkzeug der Gefangenschaft zu betrachten.\nUnd es war die Glut dieser Flamme, die sich über viele lange Jahre angesammelt hatte, die das frostige Siegel des Teuflischen Auges durchbrechen und einen verzerrten Schatten auf sie werfen würde.\n\nDie karmesinrote Morgendämmerung spiegelte sich in ihren Pupillen und schließlich entfaltete sie ihre flammenden Flügel und flog dem Licht entgegen.\n„Aber dieses Licht ist nicht die Morgendämmerung, liebe Rosalyne. Das ist ein Flammenmeer, das alles verzehren wird.“\nEine Stimme sprach zu ihr inmitten des Lichts.\n\nDoch das spielte keine Rolle, denn sie wusste in ihrem Herzen, dass die Flammen sie schon längst verschlungen hatten.",
+  "rewardpreview": [
+    {
+      "name": "Abenteuer-EP",
+      "count": 300
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Freundschafts-EP"
+    },
+    {
+      "name": "Shivada-Jade-Splitter"
+    },
+    {
+      "name": "Shivada-Jade-Bruchstück"
+    },
+    {
+      "name": "Shivada-Jade-Brocken"
+    },
+    {
+      "name": "Shivada-Jade"
+    },
+    {
+      "name": "Agnidus-Achat-Splitter"
+    },
+    {
+      "name": "Agnidus-Achat-Bruchstück"
+    },
+    {
+      "name": "Agnidus-Achat-Brocken"
+    },
+    {
+      "name": "Agnidus-Achat"
+    },
+    {
+      "name": "Traumlösungsmittel",
+      "count": 0.33
+    },
+    {
+      "name": "Moment der Kernschmelze"
+    },
+    {
+      "name": "Höllenfeuerfalter"
+    },
+    {
+      "name": "Ascheherz"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Ausbilder",
+      "rarity": "3"
+    },
+    {
+      "name": "Verbannter",
+      "rarity": "3"
+    },
+    {
+      "name": "Verbeugung des Gladiators",
+      "rarity": "4"
+    },
+    {
+      "name": "Wanderorchester",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Ausbilder",
+      "rarity": "4"
+    },
+    {
+      "name": "Verbannter",
+      "rarity": "4"
+    },
+    {
+      "name": "Verbeugung des Gladiators",
+      "rarity": "5"
+    },
+    {
+      "name": "Wanderorchester",
+      "rarity": "5"
+    },
+    {
+      "name": "Unbearbeiteter Einhänder des Nordens"
+    },
+    {
+      "name": "Unbearbeiteter Bogen des Nordens"
+    },
+    {
+      "name": "Unbearbeiteter Zweihänder des Nordens"
+    },
+    {
+      "name": "Unbearbeiteter Katalysator des Nordens"
+    },
+    {
+      "name": "Unbearbeitete Stangenwaffe des Nordens"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_LaSignora"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 513.9399908444029,
+      "attack": 76.13319315582885,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 2024.1830612137564,
+      "attack": 203.4083293985932,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 5957.874750514515,
+      "attack": 501.7499019824463,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 11094.789945280412,
+      "attack": 819.5298012541898,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 19920.928208313184,
+      "attack": 1225.2416554312222,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 36704.72439475497,
+      "attack": 1889.4817435136356,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 62012.59746199194,
+      "attack": 2660.773141056823,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 102564.67427988164,
+      "attack": 3673.071566613973,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 165456.3191879019,
+      "attack": 4725.795096868649,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 259702.01247135177,
+      "attack": 5709.411795508931,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 388220.12688163295,
+      "attack": 7386.62659546989,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 491370.10539378226,
+      "attack": 7533.291466042516,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 568355.2145917788,
+      "attack": 7680.983199416427,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

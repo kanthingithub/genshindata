@@ -1,0 +1,26 @@
+{
+  "name": "Juwelenzweig eines fernen Meeres",
+  "description": "Waffenaufstiegsmaterial.\nDiese Koralle kann nirgendwo in Teyvat gefunden werden, sondern war ein Geschenk, das die große Schlange erhielt, als sie in das Dunkle Meer einbrach. Für diese abgrundtiefe Schlange bedeutete es, mit Korallen gefüllt zu sein, mächtig zu sein, und ihre Macht würde schwinden, wenn diese Korallen verloren gingen. Mit anderen Worten, diese Korallen enthalten Macht weit über die Norm hinaus.",
+  "sortorder": 2208,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zum Aufstieg von Waffen",
+  "dropdomain": "Sphäre der Kriegskunst: Spuren aus der Tiefe",
+  "daysofweek": [
+    "Montag",
+    "Donnerstag",
+    "Sonntag"
+  ],
+  "source": [
+    "Kann hergestellt werden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Jeweled_Branch_of_a_Distant_Sea.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Item_Jeweled_Branch_of_a_Distant_Sea.png",
+    "nameicon": "UI_ItemIcon_114026"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Jeweled_Branch_of_a_Distant_Sea"
+  },
+  "version": ""
+}

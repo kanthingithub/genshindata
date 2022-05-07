@@ -1,0 +1,19 @@
+{
+  "name": "Jambon",
+  "description": "Une cuisse d'animal cuite pour en améliorer la conservation. Même la plus fine des tranches est pleine de saveur.",
+  "sortorder": 1529,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrédient",
+  "source": [
+    "Cuisine (préparation)"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ham.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Item_Ham.png",
+    "nameicon": "UI_ItemIcon_110005"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ham"
+  },
+  "version": ""
+}

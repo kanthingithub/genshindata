@@ -1,0 +1,141 @@
+{
+  "name": "Rồng Đất Nham",
+  "specialname": "Mãnh Thú Đá Vững Như Bàn Thạch",
+  "enemytype": "ELITE",
+  "category": "Ma Thú Đột Biến",
+  "description": "Rồng Đất Nham trưởng thành.\nNghe nói, Rồng Đất Nhỏ Nham sau một thời gian, sẽ lột bỏ lớp vỏ giáp của mình và biến thành \"Rồng Đất Nham\". Nhưng hai loại này và cả \"Rồng Đất Cổ - Nham\" cổ xưa, đều đã trốn phía dưới núi từ nhiều năm trước, mãi cho đến gần đây mới bắt đầu hoạt động. Vì vậy những điều này đều không được chứng minh bằng các ghi chép quan sát trực tiếp.",
+  "investigation": {
+    "name": "Rồng Đất Nham",
+    "category": "Tinh Anh",
+    "description": "Rồng Đất Nham trưởng thành.\\nNgười ta nói rằng Rồng Đất Nham nhỏ sẽ lột đi lớp giáp bảo vệ bản thân sau một thời gian dài và trở thành Rồng Đất Nham. Nhưng cả hai loại này và Rồng Đất Nham Cổ già hơn, to lớn hơn đều ngủ yên dưới núi nhiều năm, cho đến gần đây mới bắt đầu hoạt động. Vì vậy những điều này đều không được chứng minh bằng các ghi chép quan sát trực tiếp."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Mảnh Xương Giòn Yếu",
+      "count": 5.2526
+    },
+    {
+      "name": "Mảnh Xương Chắc Chắn",
+      "count": 1.4006
+    },
+    {
+      "name": "Mảnh Xương Hóa Thạch",
+      "count": 0.3502
+    },
+    {
+      "name": "Cuồng Chiến",
+      "rarity": "3"
+    },
+    {
+      "name": "Giáo Quan",
+      "rarity": "3"
+    },
+    {
+      "name": "Kẻ Lưu Đày",
+      "rarity": "3"
+    },
+    {
+      "name": "Thầy Thuốc",
+      "rarity": "3"
+    },
+    {
+      "name": "Cuồng Chiến",
+      "rarity": "4"
+    },
+    {
+      "name": "Giáo Quan",
+      "rarity": "4"
+    },
+    {
+      "name": "Kẻ Lưu Đày",
+      "rarity": "4"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Drake_Rock"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 583.3359452113509,
+      "attack": 76.13319315582885,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 2292.8324286660645,
+      "attack": 203.4083293985932,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 7081.600010259077,
+      "attack": 501.7499019824463,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 11782.402613022365,
+      "attack": 819.5298012541898,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 21558.7957078591,
+      "attack": 1225.2416554312222,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 39971.87404739857,
+      "attack": 1889.4817435136356,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 67050.03850489855,
+      "attack": 2660.773141056823,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 104415.78109911829,
+      "attack": 3673.071566613973,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 148525.8203240186,
+      "attack": 4725.795096868649,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 194832.69341938198,
+      "attack": 5709.411795508931,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 294120.97232079506,
+      "attack": 7386.62659546989,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 428018.5097735524,
+      "attack": 7533.291466042516,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 575890.5337870717,
+      "attack": 7680.983199416427,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

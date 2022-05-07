@@ -1,0 +1,20 @@
+{
+  "name": "Perla de coral",
+  "description": "Una perla de los arrecifes de coral de Watatsumi. Brilla con una luz fría parecida a la de la luna.",
+  "sortorder": 2066,
+  "category": "EXCHANGE",
+  "materialtype": "Objeto típico de Inazuma",
+  "source": [
+    "Recolectar en la naturaleza",
+    "Recolectar en la Isla Watatsumi"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sango_Pearl.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Sango_Pearl.png",
+    "nameicon": "UI_ItemIcon_101207"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sango_Pearl"
+  },
+  "version": ""
+}

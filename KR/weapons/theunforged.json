@@ -1,0 +1,312 @@
+{
+  "name": "무공의 검",
+  "description": "요괴를 물리칠 수 있으며, 신의 힘이 깃든 듯한 날이 없는 대검",
+  "weapontype": "양손검",
+  "rarity": "5",
+  "baseatk": 46,
+  "substat": "공격력",
+  "subvalue": "10.8",
+  "effectname": "금빛의 옥·제군의 길",
+  "effect": [
+    "보호막 강화 효과가 [20%] 증가한다. 공격 명중 후 공격력이 [4%] 증가한다. 지속 시간: 8초. 최대 중첩수: 5회. 해당 효과는 0.3초마다 1번 발동한다. 또한 보호막 존재 시 해당 효과의 공격력 증가 효과가 100% 증가한다",
+    "보호막 강화 효과가 [25%] 증가한다. 공격 명중 후 공격력이 [5%] 증가한다. 지속 시간: 8초. 최대 중첩수: 5회. 해당 효과는 0.3초마다 1번 발동한다. 또한 보호막 존재 시 해당 효과의 공격력 증가 효과가 100% 증가한다",
+    "보호막 강화 효과가 [30%] 증가한다. 공격 명중 후 공격력이 [6%] 증가한다. 지속 시간: 8초. 최대 중첩수: 5회. 해당 효과는 0.3초마다 1번 발동한다. 또한 보호막 존재 시 해당 효과의 공격력 증가 효과가 100% 증가한다",
+    "보호막 강화 효과가 [35%] 증가한다. 공격 명중 후 공격력이 [7%] 증가한다. 지속 시간: 8초. 최대 중첩수: 5회. 해당 효과는 0.3초마다 1번 발동한다. 또한 보호막 존재 시 해당 효과의 공격력 증가 효과가 100% 증가한다",
+    "보호막 강화 효과가 [40%] 증가한다. 공격 명중 후 공격력이 [8%] 증가한다. 지속 시간: 8초. 최대 중첩수: 5회. 해당 효과는 0.3초마다 1번 발동한다. 또한 보호막 존재 시 해당 효과의 공격력 증가 효과가 100% 증가한다"
+  ],
+  "r1": [
+    "20%",
+    "4%"
+  ],
+  "r2": [
+    "25%",
+    "5%"
+  ],
+  "r3": [
+    "30%",
+    "6%"
+  ],
+  "r4": [
+    "35%",
+    "7%"
+  ],
+  "r5": [
+    "40%",
+    "8%"
+  ],
+  "weaponmaterialtype": "Mist Veiled Elixir",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "모라",
+        "count": 10000
+      },
+      {
+        "name": "안개구름 속의 흑연단",
+        "count": 5
+      },
+      {
+        "name": "안개꽃 가루",
+        "count": 5
+      },
+      {
+        "name": "보물찾기 까마귀 휘장",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "모라",
+        "count": 20000
+      },
+      {
+        "name": "안개구름 속의 수은단",
+        "count": 5
+      },
+      {
+        "name": "안개꽃 가루",
+        "count": 18
+      },
+      {
+        "name": "보물찾기 까마귀 휘장",
+        "count": 12
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "모라",
+        "count": 30000
+      },
+      {
+        "name": "안개구름 속의 수은단",
+        "count": 9
+      },
+      {
+        "name": "안개풀 주머니",
+        "count": 9
+      },
+      {
+        "name": "실버 까마귀 휘장",
+        "count": 9
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "모라",
+        "count": 45000
+      },
+      {
+        "name": "안개구름 속의 금단",
+        "count": 5
+      },
+      {
+        "name": "안개풀 주머니",
+        "count": 18
+      },
+      {
+        "name": "실버 까마귀 휘장",
+        "count": 14
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "모라",
+        "count": 55000
+      },
+      {
+        "name": "안개구름 속의 금단",
+        "count": 9
+      },
+      {
+        "name": "안개 등심",
+        "count": 14
+      },
+      {
+        "name": "골드 까마귀 휘장",
+        "count": 9
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "모라",
+        "count": 65000
+      },
+      {
+        "name": "안개구름 속의 전환",
+        "count": 6
+      },
+      {
+        "name": "안개 등심",
+        "count": 27
+      },
+      {
+        "name": "골드 까마귀 휘장",
+        "count": 18
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Weapon_The_Unforged.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Kunwu.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Kunwu_Awaken.png",
+    "nameicon": "UI_EquipIcon_Claymore_Kunwu",
+    "namegacha": "UI_Gacha_EquipIcon_Claymore_Kunwu",
+    "nameawakenicon": "UI_EquipIcon_Claymore_Kunwu_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/The_Unforged"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 45.9364013671875,
+      "specialized": 0.1080000028014183
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 61.692589533209684,
+      "specialized": 0.12549599686944468
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 81.53711133154866,
+      "specialized": 0.14720400762921582
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 101.56538184575038,
+      "specialized": 0.16902001056402938
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 121.73146800388349,
+      "specialized": 0.19083600062423933
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 152.83146838535322,
+      "specialized": 0.19083600062423933
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 173.18128683121176,
+      "specialized": 0.2126520035590529
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 193.66892639704747,
+      "specialized": 0.23446800649386645
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 214.34030920270015,
+      "specialized": 0.2562839965540764
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 235.19542429607827,
+      "specialized": 0.2781000123634936
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 266.295424677548,
+      "specialized": 0.2781000123634936
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 287.2883718429948,
+      "specialized": 0.29991600242370353
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 308.4191182242357,
+      "specialized": 0.3217320182331207
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 339.61911898717517,
+      "specialized": 0.3217320182331207
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 360.97953072807286,
+      "specialized": 0.34354800829333065
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 382.43183051701635,
+      "specialized": 0.3653639983535406
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 413.53182899113744,
+      "specialized": 0.3653639983535406
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 435.16788297198946,
+      "specialized": 0.3871800141629578
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 456.9876692405669,
+      "specialized": 0.4088880120481253
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 488.0876753440825,
+      "specialized": 0.4088880120481253
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 510.0912158045685,
+      "specialized": 0.43070400210833526
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 532.2325773850316,
+      "specialized": 0.4525200179177524
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 563.3325682297582,
+      "specialized": 0.4525200179177524
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 585.6117071218323,
+      "specialized": 0.4743360337271696
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 608.074622109998,
+      "specialized": 0.49615199803817234
+    }
+  },
+  "version": "1.1"
+}

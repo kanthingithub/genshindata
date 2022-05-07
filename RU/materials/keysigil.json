@@ -1,0 +1,16 @@
+{
+  "name": "Знак-ключ",
+  "description": "Распространённый на Ватацуми и в Энканомии узор. Он скрывает какую-то тайну.",
+  "sortorder": 977,
+  "category": "CONSUME",
+  "materialtype": "Расходный предмет",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_100934",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Key_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Key_Sigil"
+  },
+  "version": ""
+}

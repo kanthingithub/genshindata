@@ -1,0 +1,20 @@
+{
+  "name": "雷鳴仙",
+  "description": "稲妻で生息している珍しいチョウチョウウオ。雷元素が集まる水域を好み、電流で愉楽を得ることができるらしい。\n璃月に生息する「長寿仙」と同種族だといわれているが、商人に稲妻に持ち込まれて以来、思わぬ変異が起きた。現在、彼らと雷スライムを使って通電研究をする学者がすでに現れた。\n「シ…シ…シタガ…シビレタ…」——「雷鳴仙」を使った料理を口にしたとある客より。",
+  "sortorder": 2031,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "魚",
+  "source": [
+    "釣りで獲得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Raimei_Angelfish.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Item_Raimei_Angelfish.png",
+    "nameicon": "UI_ItemIcon_131017"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Raimei_Angelfish"
+  },
+  "version": ""
+}

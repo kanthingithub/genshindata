@@ -1,0 +1,34 @@
+{
+  "name": "Teyvat-Spiegelei",
+  "rarity": "1",
+  "foodtype": "NORMAL",
+  "foodfilter": "Gericht zur LP-Wiederherstellung",
+  "foodcategory": "Recovery_Revive",
+  "effect": "Belebt die gewählte Figur wieder.\nStellt 50 bis 150 LP wieder her.",
+  "description": "Ein auf nur einer Seite gebratenes Ei. Das Eigelb ist noch flüssig und lädt ein es aufzupieksen.",
+  "suspicious": {
+    "effect": "Belebt die gewählte Figur wieder und stellt ihr 50 LP wieder her.",
+    "description": "Ein auf nur einer Seite gebratenes Ei. Es ist äußerst gut durchgebraten. Hoffentlich leiden die Inhaltsstoffe nicht darunter."
+  },
+  "normal": {
+    "effect": "Belebt die gewählte Figur wieder und stellt ihr 100 LP wieder her.",
+    "description": "Ein auf nur einer Seite gebratenes Ei. Das Eigelb ist noch flüssig und lädt ein es aufzupieksen."
+  },
+  "delicious": {
+    "effect": "Belebt die gewählte Figur wieder und stellt ihr 150 LP wieder her.",
+    "description": "Ein auf nur einer Seite gebratenes Ei. Das Eigelb gleicht einer Sonne und es belebt dich gleichermaßen schon beim ersten Bissen."
+  },
+  "ingredients": [
+    {
+      "name": "Vogelei",
+      "count": 1
+    }
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_Recipe_2001"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teyvat_Fried_Egg"
+  },
+  "version": "1.0"
+}

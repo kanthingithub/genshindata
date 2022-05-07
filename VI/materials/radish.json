@@ -1,0 +1,19 @@
+{
+  "name": "Củ Cải Trắng",
+  "description": "Là thực vật có nhiều dinh dưỡng. Dễ trồng và thu hoạch, có hàm lượng vitamin cao.",
+  "sortorder": 1980,
+  "category": "EXCHANGE",
+  "materialtype": "Nguyên Liệu Thực Phẩm",
+  "source": [
+    "Thu Thập Bên Ngoài"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Radish.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Item_Radish.png",
+    "nameicon": "UI_ItemIcon_100014"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Radish"
+  },
+  "version": ""
+}

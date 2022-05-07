@@ -1,0 +1,319 @@
+{
+  "name": "Domain of Blessing: Musim Semi",
+  "region": "Liyue",
+  "domainEntrance": "Domain of Guyun",
+  "domainType": "Artefak",
+  "description": "Monolit di dalam Altar Ley Line didamba-dambakan dan ingin dihancurkan oleh monster di sekeliling altar.\nLindungi Monolit dengan kekuatan Electro untuk mendapatkan Artefak yang berharga.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_1"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domain of Blessing: Musim Semi I",
+      "recommendedLevel": 34,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1525
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Lucky Dog",
+          "rarity": "2"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Lucky Dog",
+          "rarity": "3"
+        }
+      ],
+      "disorder": [
+        "Meningkatkan 150% DMG Electro-Charged, meningkatkan 100% lingkup area Electro-Charged."
+      ],
+      "monsterlist": [
+        "Hydro Slime",
+        "Large Hydro Slime",
+        "Hydro Abyss Mage"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Musim Semi II",
+      "recommendedLevel": 47,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 25,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1700
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Lucky Dog",
+          "rarity": "2"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Lucky Dog",
+          "rarity": "3"
+        }
+      ],
+      "disorder": [
+        "Saat Overloaded terpicu, ledakan energi akan tercipta dan mengakibatkan DMG pada musuh di sekitar."
+      ],
+      "monsterlist": [
+        "Pyro Slime",
+        "Large Pyro Slime",
+        "Pyro Abyss Mage"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Musim Semi III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Lucky Dog",
+          "rarity": "3"
+        },
+        {
+          "name": "Archaic Petra",
+          "rarity": "4"
+        },
+        {
+          "name": "Retracing Bolide",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Saat Superconduct terpicu, ledakan energi akan tercipta dan mengakibatkan DMG pada musuh di sekitar."
+      ],
+      "monsterlist": [
+        "Cryo Slime",
+        "Large Cryo Slime",
+        "Cryo Abyss Mage"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Musim Semi IV",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Lucky Dog",
+          "rarity": "3"
+        },
+        {
+          "name": "Archaic Petra",
+          "rarity": "4"
+        },
+        {
+          "name": "Retracing Bolide",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Meningkatkan 150% DMG Electro-Charged, meningkatkan 100% lingkup area Electro-Charged."
+      ],
+      "monsterlist": [
+        "Hydro Slime",
+        "Large Hydro Slime",
+        "Hilichurl Fighter",
+        "Hydro Samachurl",
+        "Hydro Abyss Mage"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Musim Semi V",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Lucky Dog",
+          "rarity": "3"
+        },
+        {
+          "name": "Archaic Petra",
+          "rarity": "4"
+        },
+        {
+          "name": "Retracing Bolide",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        },
+        {
+          "name": "Archaic Petra",
+          "rarity": "5"
+        },
+        {
+          "name": "Retracing Bolide",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Saat Overloaded terpicu, ledakan energi akan tercipta dan mengakibatkan DMG pada musuh di sekitar.",
+        "Saat Melt terpicu, kamu akan terkena serangan berenergi tinggi yang mengakibatkan DMG.",
+        "Saat Vaporize terpicu, kamu akan terkena serangan berenergi tinggi yang mengakibatkan DMG."
+      ],
+      "monsterlist": [
+        "Pyro Abyss Mage",
+        "Ruin Guard"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Musim Semi VI",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Lucky Dog",
+          "rarity": "3"
+        },
+        {
+          "name": "Archaic Petra",
+          "rarity": "4"
+        },
+        {
+          "name": "Retracing Bolide",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        },
+        {
+          "name": "Archaic Petra",
+          "rarity": "5"
+        },
+        {
+          "name": "Retracing Bolide",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Saat Superconduct terpicu, ledakan energi akan tercipta dan mengakibatkan DMG pada musuh di sekitar.",
+        "Saat Melt terpicu, kamu akan terkena serangan berenergi tinggi yang mengakibatkan DMG.",
+        "Saat Vaporize terpicu, kamu akan terkena serangan berenergi tinggi yang mengakibatkan DMG."
+      ],
+      "monsterlist": [
+        "Hilichurl Fighter",
+        "Cryo Abyss Mage",
+        "Ruin Hunter"
+      ]
+    }
+  ]
+}

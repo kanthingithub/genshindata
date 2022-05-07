@@ -1,0 +1,24 @@
+{
+  "name": "Teachings of Light",
+  "description": "วัสดุยกระดับพรสวรรค์\nความปรารถนาของดินแดนแห่งสายฟ้าคือแสงของฟากฟ้า\nผู้ที่มีความอหังการนั้น มักจะพยายามเก็บเกี่ยวแสงบนฟากฟ้าอยู่เสมอ แต่ความปรารถนาที่ไม่เคยแบ่งปัน กลับทำให้ผู้ที่ต้องการมัน ยิ่งดิ้นรนไขว่คว้า ราวกับแมลงเม่าที่บินเข้ากองไฟ",
+  "sortorder": 1875,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุยกระดับพรสวรรค์",
+  "dropdomain": "ดันเจี้ยนแห่งการพัฒนา: เมืองโบราณที่รกร้าง",
+  "daysofweek": [
+    "วันพุธ",
+    "วันเสาร์",
+    "วันอาทิตย์"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Light.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Item_Teachings_of_Light.png",
+    "nameicon": "UI_ItemIcon_104326"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Light"
+  },
+  "version": ""
+}

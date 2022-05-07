@@ -1,0 +1,24 @@
+{
+  "name": "Trứng Chiên Teyvat Cháy",
+  "rarity": "1",
+  "foodtype": "SPECIALTY",
+  "foodfilter": "Món Dạng Hồi Phục",
+  "foodcategory": "Recovery_Revive",
+  "effect": "Hồi 10% giới hạn HP cho nhân vật được chọn hồi sinh, và hồi thêm 150 điểm HP.",
+  "description": "Món ăn đặc biệt của Bennett. Không biết lý do vì sao mỗi phần trứng chiên đều cháy vàng ở viền, có điều hương vị cháy giòn cũng làm nó trở nên đặc biệt.",
+  "basedish": "Trứng Chiên Teyvat",
+  "character": "Bennett",
+  "ingredients": [
+    {
+      "name": "Trứng Chim",
+      "count": 1
+    }
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_108116"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teyvat_Charred_Egg"
+  },
+  "version": "1.0"
+}

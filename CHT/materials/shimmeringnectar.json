@@ -1,0 +1,22 @@
+{
+  "name": "微光花蜜",
+  "description": "元素純度較高的花蜜。\n學界一般認為騙騙花是元素植物的高級生命形態，但始終無法解明它的掠食習性。",
+  "sortorder": 1757,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培養素材",
+  "source": [
+    "合成獲得",
+    "40級以上騙騙花掉落",
+    "星塵兌換"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shimmering_Nectar.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Shimmering_Nectar.png",
+    "nameicon": "UI_ItemIcon_112039"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shimmering_Nectar"
+  },
+  "version": ""
+}

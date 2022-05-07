@@ -1,0 +1,23 @@
+{
+  "name": "Abzeichen für neue Rekruten",
+  "description": "Ein Abzeichen, das anzeigt, dass man noch neu ist. Wer weiß, was der ursprüngliche Besitzer einmal dachte, als er der Kriegsmaschinerie der Fatui beitrat.",
+  "sortorder": 1750,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Beute von Fatui-Plänklern",
+    "Seltene Beute von Schuldeneintreibern der Fatui",
+    "Seltene Beute von Fatui – Cicin-Zauberinnen",
+    "Mit Sternenstaub kaufen"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Recruit's_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Item_Recruit%27s_Insignia.png",
+    "nameicon": "UI_ItemIcon_112032"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Recruit's_Insignia"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "グッピー",
+  "description": "活気のあるグッピー、花びらのような美しい尾ひれで有名。\n観賞魚として楽しそうに生きているが、その旨味たっぷりの魚肉と少ない骨という特徴が人々に気付かれてから、料理として皿に盛られるのも珍しくなくなった。",
+  "sortorder": 2014,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "魚",
+  "source": [
+    "釣りで獲得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Medaka.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Item_Medaka.png",
+    "nameicon": "UI_ItemIcon_131000"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Medaka"
+  },
+  "version": ""
+}

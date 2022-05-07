@@ -1,0 +1,19 @@
+{
+  "name": "Sel",
+  "description": "Une pincée suffit pour rehausser le goût de vos plats.",
+  "sortorder": 1995,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrédient",
+  "source": [
+    "Épiceries"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Salt.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Item_Salt.png",
+    "nameicon": "UI_ItemIcon_100075"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Salt"
+  },
+  "version": ""
+}

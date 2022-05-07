@@ -1,0 +1,19 @@
+{
+  "name": "Campanita de cristal",
+  "description": "Una pequeña flor con mucha vitalidad. Se dice que se abre hacia abajo para impedir que su fragancia se escape.",
+  "sortorder": 2054,
+  "category": "EXCHANGE",
+  "materialtype": "Objeto típico de Liyue",
+  "source": [
+    "Recolectar en peñascos de Liyue"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Violetgrass.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Violetgrass.png",
+    "nameicon": "UI_ItemIcon_100034"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Violetgrass"
+  },
+  "version": ""
+}

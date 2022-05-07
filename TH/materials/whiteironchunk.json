@@ -1,0 +1,21 @@
+{
+  "name": "White Iron Chunk",
+  "description": "ช่างเหล็กที่มีความสามารถ จะเปลี่ยนสิ่งนี้ให้เป็นสิ่งมหัศจรรย์ได้",
+  "sortorder": 1955,
+  "category": "EXCHANGE",
+  "materialtype": "แร่ที่ใช้ในการหลอม",
+  "source": [
+    "พบได้ในโลกกว้าง",
+    "คำแนะนำ: หาได้ที่หุบเขา Stormbearer Mountains",
+    "คำแนะนำ: หาได้ที่ Wolvendom"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_White_Iron_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Item_White_Iron_Chunk.png",
+    "nameicon": "UI_ItemIcon_101002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/White_Iron_Chunk"
+  },
+  "version": ""
+}

@@ -1,0 +1,183 @@
+{
+  "name": "Narukami no Mikoto la destructrice",
+  "specialname": "Raiden-tono d'Inazuma",
+  "enemytype": "BOSS",
+  "category": "Boss",
+  "description": "C'est la forme que prend la marionnette qui a hérité de l'autorité de la Shogun Raiden lorsqu'elle s'oppose à ceux qui menacent l'éternité.\nEn tant qu'assistante de la Shogun Raiden dans la poursuite de l'éternité, elle n'a jamais douté et n'a jamais ressenti de peur. Elle a toujours donné le meilleur d'elle-même et n'a jamais eu de pensée parasite.\nElle a entendu parler une fois de la façon dont Ei avait assumé un devoir similaire quand Makoto était encore là, subissant une perte atroce dans le processus.\nLorsque les deux ombres se sont à nouveau superposées, cependant, elle n'a pu que constater les nombreuses fractures dans ce qui aurait dû être « sa » volonté éternelle. Puisque le destin est destiné à se reproduire, elle doit tenir sa promesse et « lui » déclarer la guerre.\n\n« J'ai pris la forme la plus suprême et la plus noble qui soit. C'est moi qui ai hérité du pouvoir, et je suis l'essence de ce que représente la « Shogun Raiden ».\nC'est naturel que j'aie hérité de la douleur des innombrables pertes qu'a subies Ei et de sa volonté d'atteindre l'éternité.\nRésolution, courage, amour, haine... sont brassés par le fleuve du temps.\nSeules les règles restent immuables pour l'éternité. »",
+  "rewardpreview": [
+    {
+      "name": "EXP d'aventure",
+      "count": 300
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "EXP d'affinité"
+    },
+    {
+      "name": "Éclat d'améthyste vajrada"
+    },
+    {
+      "name": "Fragment d'améthyste vajrada"
+    },
+    {
+      "name": "Morceau d'améthyste vajrada"
+    },
+    {
+      "name": "Pierre d'améthyste vajrada"
+    },
+    {
+      "name": "Solvant de rêve",
+      "count": 0.33
+    },
+    {
+      "name": "Mudra du général maléfique"
+    },
+    {
+      "name": "Larmes de la divinité calamiteuse"
+    },
+    {
+      "name": "Signification d'une éternité"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instructeur",
+      "rarity": "3"
+    },
+    {
+      "name": "Exilé",
+      "rarity": "3"
+    },
+    {
+      "name": "Rideau du Gladiateur",
+      "rarity": "4"
+    },
+    {
+      "name": "Bande vagabonde",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructeur",
+      "rarity": "4"
+    },
+    {
+      "name": "Exilé",
+      "rarity": "4"
+    },
+    {
+      "name": "Rideau du Gladiateur",
+      "rarity": "5"
+    },
+    {
+      "name": "Bande vagabonde",
+      "rarity": "5"
+    },
+    {
+      "name": "Base d'épée du nord"
+    },
+    {
+      "name": "Base d'arc du nord"
+    },
+    {
+      "name": "Base d'épée à deux mains du nord"
+    },
+    {
+      "name": "Base de catalyseur du nord"
+    },
+    {
+      "name": "Base de lance du nord"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Shougun_Mitakenarukami"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 264.31200766221446,
+      "attack": 40.60445216221706,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 1041.0084802045167,
+      "attack": 108.48444509163892,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 3064.0500151023734,
+      "attack": 267.60001199199905,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 5705.892238915956,
+      "attack": 437.08268672162376,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 10245.049272354052,
+      "attack": 653.4622327690013,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 18876.71628651896,
+      "attack": 919.1582172315684,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 31892.194473129,
+      "attack": 1227.6749565427017,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 52747.54924129648,
+      "attack": 1632.5942986839218,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 85091.82527925633,
+      "attack": 2371.6078888032935,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 133561.04123643134,
+      "attack": 3045.019701340352,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 199656.0745980749,
+      "attack": 3939.5342839595396,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 252704.63745862618,
+      "attack": 4017.7555502447067,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 292296.9811849538,
+      "attack": 4096.5244767044205,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

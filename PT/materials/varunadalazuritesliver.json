@@ -1,0 +1,22 @@
+{
+  "name": "Lasca de Lazurita Varunada",
+  "description": "Material de Ascensão de Personagem.",
+  "sortorder": 1826,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Dropado por Oceânides",
+    "Dropado por Hypostasis Hydro",
+    "Comprado na Loja de Lembranças"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Varunada_Lazurite_Sliver.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Item_Varunada_Lazurite_Sliver.png",
+    "nameicon": "UI_ItemIcon_104121"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Varunada_Lazurite_Sliver"
+  },
+  "version": ""
+}

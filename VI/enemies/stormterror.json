@@ -1,0 +1,207 @@
+{
+  "name": "Phong Ma Long Bão Tố",
+  "specialname": "Phong Ma Long",
+  "enemytype": "BOSS",
+  "category": "Kẻ Thù Mạnh Đáng Nhớ",
+  "description": "Một trong \"Tứ Phong Thủ Hộ\" của Mondstadt, Rồng Đông Phong - Dvalin.\nTrong những ngày tháng bất tận và bóng tối vô biên, viên ngọc long lanh cũng sẽ bị cát bụi che phủ và trở nên ảm đạm, loài rồng cao quý cũng sẽ bị ăn mòn và chất chứa đầy oán hận.\nNhưng hãy nhớ, bụi có thể dễ dàng lau đi, nỗi sợ và chất độc cũng có thể bị nghiền nát.\n\n\"Hãy tự do bay lượn trong không gian sâu thẳm. \n\"Giống như ngày chúng ta gặp nhau, tôi đi trên mặt đất, hát vang bài ca của gió;\n\"Bạn thì ở trên bầu trời cao vời vợi, đưa mắt nhìn xuống thế giới.\n\"Bầu trời giờ đây không có gió tuyết, mặt đất phủ đầy cỏ xanh, hẳn là tươi đẹp lắm nhỉ.\n\"Nếu bạn đã từng bước đi trên mặt đất, từng nghe tiếng chuông gió đan xen hòa vào bài ca du mục, từng nếm thử vị rượu ngọt nồng, bạn nhất định sẽ hiểu được. \n\"Nếu bạn đã từng là tôi, từng nhìn thấy tư thế cao ngạo cô độc của bạn bay lượn trên bầu trời, từng nhìn thấy dáng vẻ tuyệt đẹp của bạn. \n\"Như vậy, bạn sẽ hiểu được, bầu trời và mặt đất này, rất đáng để chiến đấu. \"",
+  "rewardpreview": [
+    {
+      "name": "EXP Mạo Hiểm",
+      "count": 300
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "EXP Yêu Thích"
+    },
+    {
+      "name": "Vụn Tùng Thạch Tự Tại"
+    },
+    {
+      "name": "Mảnh Tùng Thạch Tự Tại"
+    },
+    {
+      "name": "Miếng Tùng Thạch Tự Tại"
+    },
+    {
+      "name": "Tùng Thạch Tự Tại"
+    },
+    {
+      "name": "Vụn Tử Tinh Thắng Lợi"
+    },
+    {
+      "name": "Mảnh Tử Tinh Thắng Lợi"
+    },
+    {
+      "name": "Miếng Tử Tinh Thắng Lợi"
+    },
+    {
+      "name": "Tử Tinh Thắng Lợi"
+    },
+    {
+      "name": "Vụn Thanh Kim Sạch"
+    },
+    {
+      "name": "Mảnh Thanh Kim Sạch"
+    },
+    {
+      "name": "Miếng Thanh Kim Sạch"
+    },
+    {
+      "name": "Thanh Kim Sạch"
+    },
+    {
+      "name": "Dung Môi Ảo Mộng",
+      "count": 0.33
+    },
+    {
+      "name": "Lông Vũ Đông Phong"
+    },
+    {
+      "name": "Móng Vuốt Đông Phong"
+    },
+    {
+      "name": "Hơi Thở Đông Phong"
+    },
+    {
+      "name": "Cuồng Chiến",
+      "rarity": "3"
+    },
+    {
+      "name": "Giáo Quan",
+      "rarity": "3"
+    },
+    {
+      "name": "Kẻ Lưu Đày",
+      "rarity": "3"
+    },
+    {
+      "name": "Lễ Bế Mạc Của Giác Đấu Sĩ",
+      "rarity": "4"
+    },
+    {
+      "name": "Đoàn Hát Lang Thang Đại Lục",
+      "rarity": "4"
+    },
+    {
+      "name": "Cuồng Chiến",
+      "rarity": "4"
+    },
+    {
+      "name": "Giáo Quan",
+      "rarity": "4"
+    },
+    {
+      "name": "Kẻ Lưu Đày",
+      "rarity": "4"
+    },
+    {
+      "name": "Lễ Bế Mạc Của Giác Đấu Sĩ",
+      "rarity": "5"
+    },
+    {
+      "name": "Đoàn Hát Lang Thang Đại Lục",
+      "rarity": "5"
+    },
+    {
+      "name": "Phôi Kiếm Đơn Bắc Lục"
+    },
+    {
+      "name": "Phôi Cung Bắc Lục"
+    },
+    {
+      "name": "Phôi Trọng Kiếm Bắc Lục"
+    },
+    {
+      "name": "Phôi Pháp Khí Bắc Lục"
+    },
+    {
+      "name": "Phôi Vũ Khí Cán Dài Bắc Lục"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Dvalin"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 656.2529383627698,
+      "attack": 152.2663863116577,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 2579.4364822493226,
+      "attack": 406.8166587971864,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 7966.800011541462,
+      "attack": 1003.4998039648926,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 13255.20293965016,
+      "attack": 1639.0596025083796,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 24253.645171341486,
+      "attack": 2450.4833108624443,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 44968.35830332339,
+      "attack": 3778.963487027271,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 75431.29331801087,
+      "attack": 5321.546282113646,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 117467.75373650808,
+      "attack": 7346.143133227946,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 167091.54786452092,
+      "attack": 9451.590193737298,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 219186.78009680472,
+      "attack": 11418.823591017863,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 330886.09386089444,
+      "attack": 14773.25319093978,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 481520.82349524647,
+      "attack": 15066.582932085032,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 647876.8505104557,
+      "attack": 15361.966398832854,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

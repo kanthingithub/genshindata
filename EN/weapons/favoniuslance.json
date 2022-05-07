@@ -1,0 +1,312 @@
+{
+  "name": "Favonius Lance",
+  "description": "A polearm made in the style of the Knights of Favonius. Its shaft is straight, and its tip flows lightly like the wind.",
+  "weapontype": "Polearm",
+  "rarity": "4",
+  "baseatk": 44,
+  "substat": "Energy Recharge",
+  "subvalue": "6.7",
+  "effectname": "Windfall",
+  "effect": [
+    "CRIT Hits have a [60%] chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every [12s].",
+    "CRIT Hits have a [70%] chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every [10.5s].",
+    "CRIT Hits have a [80%] chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every [9s].",
+    "CRIT Hits have a [90%] chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every [7.5s].",
+    "CRIT Hits have a [100%] chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every [6s]."
+  ],
+  "r1": [
+    "60%",
+    "12s"
+  ],
+  "r2": [
+    "70%",
+    "10.5s"
+  ],
+  "r3": [
+    "80%",
+    "9s"
+  ],
+  "r4": [
+    "90%",
+    "7.5s"
+  ],
+  "r5": [
+    "100%",
+    "6s"
+  ],
+  "weaponmaterialtype": "Dandelion Gladiator",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 5000
+      },
+      {
+        "name": "Fetters of the Dandelion Gladiator",
+        "count": 3
+      },
+      {
+        "name": "Chaos Device",
+        "count": 3
+      },
+      {
+        "name": "Slime Condensate",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 15000
+      },
+      {
+        "name": "Chains of the Dandelion Gladiator",
+        "count": 3
+      },
+      {
+        "name": "Chaos Device",
+        "count": 12
+      },
+      {
+        "name": "Slime Condensate",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Chains of the Dandelion Gladiator",
+        "count": 6
+      },
+      {
+        "name": "Chaos Circuit",
+        "count": 6
+      },
+      {
+        "name": "Slime Secretions",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Shackles of the Dandelion Gladiator",
+        "count": 3
+      },
+      {
+        "name": "Chaos Circuit",
+        "count": 12
+      },
+      {
+        "name": "Slime Secretions",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 35000
+      },
+      {
+        "name": "Shackles of the Dandelion Gladiator",
+        "count": 6
+      },
+      {
+        "name": "Chaos Core",
+        "count": 9
+      },
+      {
+        "name": "Slime Concentrate",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Dream of the Dandelion Gladiator",
+        "count": 4
+      },
+      {
+        "name": "Chaos Core",
+        "count": 18
+      },
+      {
+        "name": "Slime Concentrate",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Weapon_Favonius_Lance.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus_Awaken.png",
+    "nameicon": "UI_EquipIcon_Pole_Zephyrus",
+    "namegacha": "UI_Gacha_EquipIcon_Pole_Zephyrus",
+    "nameawakenicon": "UI_EquipIcon_Pole_Zephyrus_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Favonius_Lance"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 43.734901428222656,
+      "specialized": 0.06666699796915054
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 59.17332359270131,
+      "specialized": 0.0774670476982795
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 78.72282048535817,
+      "specialized": 0.09086712058436053
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 98.5347338353804,
+      "specialized": 0.10433385563643682
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 118.56531627039294,
+      "specialized": 0.11780058274118765
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 144.46531588892321,
+      "specialized": 0.11780058274118765
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 164.62710394581518,
+      "specialized": 0.13126731779326395
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 184.96383978335507,
+      "specialized": 0.14473405284534024
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 205.43177081556132,
+      "specialized": 0.15820077995009107
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 225.98716531087848,
+      "specialized": 0.17166752294949283
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 251.9871672182271,
+      "specialized": 0.17166752294949283
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 272.6300460310813,
+      "specialized": 0.18513425005424367
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 293.3603883070464,
+      "specialized": 0.19860099305364542
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 319.2603898329253,
+      "specialized": 0.19860099305364542
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 340.0344638404458,
+      "specialized": 0.21206772015839626
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 360.8960221655034,
+      "specialized": 0.2255344472631471
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 386.79601606198776,
+      "specialized": 0.2255344472631471
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 407.70130611860077,
+      "specialized": 0.23900119026254885
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 428.6940596383247,
+      "specialized": 0.2524012552013044
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 454.6940596383247,
+      "specialized": 0.2524012552013044
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 475.6867923036225,
+      "specialized": 0.26586798230605524
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 496.723298409328,
+      "specialized": 0.279334725305457
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 522.6233075646014,
+      "specialized": 0.279334725305457
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 543.7035036930101,
+      "specialized": 0.29280146830485876
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 564.7837415302711,
+      "specialized": 0.30626817951495866
+    }
+  },
+  "version": "1.0"
+}

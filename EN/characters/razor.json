@@ -1,0 +1,994 @@
+{
+  "name": "Razor",
+  "fullname": "Razor",
+  "title": "Wolf Boy",
+  "description": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
+  "rarity": "4",
+  "element": "Electro",
+  "weapontype": "Claymore",
+  "substat": "Physical DMG Bonus",
+  "gender": "Male",
+  "body": "BOY",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Wolvendom",
+  "birthdaymmdd": "9/9",
+  "birthday": "September 9",
+  "constellation": "Lupus Minor",
+  "cv": {
+    "english": "Todd Haberkorn",
+    "chinese": "周帅",
+    "japanese": "内山昂輝",
+    "korean": "Kim Seo-young"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vajrada Amethyst Sliver",
+        "count": 1
+      },
+      {
+        "name": "Wolfhook",
+        "count": 3
+      },
+      {
+        "name": "Damaged Mask",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "count": 3
+      },
+      {
+        "name": "Lightning Prism",
+        "count": 2
+      },
+      {
+        "name": "Wolfhook",
+        "count": 10
+      },
+      {
+        "name": "Damaged Mask",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "count": 6
+      },
+      {
+        "name": "Lightning Prism",
+        "count": 4
+      },
+      {
+        "name": "Wolfhook",
+        "count": 20
+      },
+      {
+        "name": "Stained Mask",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "count": 3
+      },
+      {
+        "name": "Lightning Prism",
+        "count": 8
+      },
+      {
+        "name": "Wolfhook",
+        "count": 30
+      },
+      {
+        "name": "Stained Mask",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "count": 6
+      },
+      {
+        "name": "Lightning Prism",
+        "count": 12
+      },
+      {
+        "name": "Wolfhook",
+        "count": 45
+      },
+      {
+        "name": "Ominous Mask",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Vajrada Amethyst Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Lightning Prism",
+        "count": 20
+      },
+      {
+        "name": "Wolfhook",
+        "count": 60
+      },
+      {
+        "name": "Ominous Mask",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/6/68/Character_Razor_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/1/1e/Character_Razor_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Razor.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Razor.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20191028/2019102814495922891.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20191018/2019101811585976188.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/997709a43b4f8d80a58ac14d412bf2e7.png",
+    "nameicon": "UI_AvatarIcon_Razor",
+    "nameiconcard": "UI_AvatarIcon_Razor_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Razor",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Razor",
+    "namesideicon": "UI_AvatarIcon_Side_Razor"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Razor"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1002.9700927734375,
+      "attack": 19.58880043029785,
+      "defense": 62.9474983215332,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2576.630174074002,
+      "attack": 50.323628417523196,
+      "defense": 161.71212354820727,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3325.900193605252,
+      "attack": 64.95780848649292,
+      "defense": 208.73712507408618,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4981.803600603656,
+      "attack": 97.29891377493277,
+      "defense": 312.6634312358383,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5514.179699236469,
+      "attack": 107.69688397451773,
+      "defense": 346.0759297099594,
+      "specialized": 0.07500000298023224
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6342.633210124855,
+      "attack": 123.87723731456299,
+      "defense": 398.0705767705822,
+      "specialized": 0.07500000298023224
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7052.46792692173,
+      "attack": 137.74119758067627,
+      "defense": 442.62057982234,
+      "specialized": 0.15000000596046448
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7880.921437810117,
+      "attack": 153.92155092072153,
+      "defense": 494.6152268829628,
+      "specialized": 0.15000000596046448
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8413.29753644293,
+      "attack": 164.31951921295786,
+      "defense": 528.0277177276894,
+      "specialized": 0.15000000596046448
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9240.747671679652,
+      "attack": 180.4802758316864,
+      "defense": 579.9593918366718,
+      "specialized": 0.15000000596046448
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 9773.123648242152,
+      "attack": 190.87824793862,
+      "defense": 613.3718979401874,
+      "specialized": 0.22499999403953552
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 10601.57668087713,
+      "attack": 207.05859193799733,
+      "defense": 665.366514985104,
+      "specialized": 0.22499999403953552
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11133.952901580255,
+      "attack": 217.45656023023366,
+      "defense": 698.7790210886196,
+      "specialized": 0.30000001192092896
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 11962.406412468641,
+      "attack": 233.63691357027892,
+      "defense": 750.7736681492424,
+      "specialized": 0.30000001192092896
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Wolf's Instinct",
+      "effect": "Picking up an Elemental Orb or Particle increases Razor's DMG by 10% for 8s."
+    },
+    "c2": {
+      "name": "Suppression",
+      "effect": "Increases CRIT Rate against opponents with less than 30% HP by 10%."
+    },
+    "c3": {
+      "name": "Soul Companion",
+      "effect": "Increases the Level of **Lightning Fang** by 3.\nMaximum upgrade level is 15."
+    },
+    "c4": {
+      "name": "Bite",
+      "effect": "When casting **Claw and Thunder** (Press), opponents hit will have their DEF decreased by 15% for 7s."
+    },
+    "c5": {
+      "name": "Sharpened Claws",
+      "effect": "Increases the Level of **Claw and Thunder** by 3.\nMaximum upgrade level is 15."
+    },
+    "c6": {
+      "name": "Lupus Fulguris",
+      "effect": "Every 10s, Razor's sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor's ATK as Electro DMG.\nWhen Razor is not using **Lightning Fang**, a lightning strike on an opponent will grant Razor an Electro Sigil for **Claw and Thunder**."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Razor_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Razor_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Razor_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Razor_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Razor_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Razor_04.png",
+      "constellation": "Eff_UI_Talent_Razor"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Razor",
+    "combat1": {
+      "name": "Normal Attack: Steel Fang",
+      "info": "**Normal Attack**\nPerform up to 4 consecutive strikes.\n\n**Charged Attack**\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents.\nAt the end of the sequence, perform a more powerful slash. \n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "attributes": [
+        {
+          "name": "1-Hit DMG",
+          "parameters": [
+            "95.92%",
+            "102.46%",
+            "109.00%",
+            "117.72%",
+            "124.26%",
+            "131.89%",
+            "141.70%",
+            "151.51%",
+            "161.32%",
+            "171.13%",
+            "180.94%",
+            "190.75%",
+            "200.56%",
+            "210.37%",
+            "220.18%"
+          ]
+        },
+        {
+          "name": "2-Hit DMG",
+          "parameters": [
+            "82.63%",
+            "88.27%",
+            "93.90%",
+            "101.41%",
+            "107.05%",
+            "113.62%",
+            "122.07%",
+            "130.52%",
+            "138.97%",
+            "147.42%",
+            "155.87%",
+            "164.32%",
+            "172.78%",
+            "181.23%",
+            "189.68%"
+          ]
+        },
+        {
+          "name": "3-Hit DMG",
+          "parameters": [
+            "103.31%",
+            "110.36%",
+            "117.40%",
+            "126.79%",
+            "133.84%",
+            "142.05%",
+            "152.62%",
+            "163.19%",
+            "173.75%",
+            "184.32%",
+            "194.88%",
+            "205.45%",
+            "216.02%",
+            "226.58%",
+            "237.15%"
+          ]
+        },
+        {
+          "name": "4-Hit DMG",
+          "parameters": [
+            "136.05%",
+            "145.32%",
+            "154.60%",
+            "166.97%",
+            "176.24%",
+            "187.07%",
+            "200.98%",
+            "214.89%",
+            "228.81%",
+            "242.72%",
+            "256.64%",
+            "270.55%",
+            "284.46%",
+            "298.38%",
+            "312.29%"
+          ]
+        },
+        {
+          "name": "Charged Attack Spinning DMG",
+          "parameters": [
+            "62.54%",
+            "67.63%",
+            "72.72%",
+            "79.99%",
+            "85.08%",
+            "90.90%",
+            "98.90%",
+            "106.90%",
+            "114.90%",
+            "123.62%",
+            "132.35%",
+            "141.08%",
+            "149.80%",
+            "158.53%",
+            "167.26%"
+          ]
+        },
+        {
+          "name": "Charged Attack Final DMG",
+          "parameters": [
+            "113.09%",
+            "122.29%",
+            "131.50%",
+            "144.65%",
+            "153.86%",
+            "164.37%",
+            "178.84%",
+            "193.31%",
+            "207.77%",
+            "223.55%",
+            "239.33%",
+            "255.11%",
+            "270.89%",
+            "286.67%",
+            "302.45%"
+          ]
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "parameters": [
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s"
+          ]
+        },
+        {
+          "name": "Max Duration",
+          "parameters": [
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s"
+          ]
+        },
+        {
+          "name": "Plunge DMG",
+          "parameters": [
+            "82.05%",
+            "88.72%",
+            "95.40%",
+            "104.94%",
+            "111.62%",
+            "119.25%",
+            "129.75%",
+            "140.24%",
+            "150.74%",
+            "162.19%",
+            "173.63%",
+            "185.08%",
+            "196.53%",
+            "207.98%",
+            "219.43%"
+          ]
+        },
+        {
+          "name": "Low/High Plunge DMG",
+          "parameters": [
+            "164.06%/204.92%",
+            "177.41%/221.60%",
+            "190.77%/238.28%",
+            "209.84%/262.10%",
+            "223.20%/278.78%",
+            "238.46%/297.85%",
+            "259.44%/324.06%",
+            "280.43%/350.27%",
+            "301.41%/376.48%",
+            "324.30%/405.07%",
+            "347.19%/433.66%",
+            "370.09%/462.26%",
+            "392.98%/490.85%",
+            "415.87%/519.44%",
+            "438.76%/548.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Claw and Thunder",
+      "info": "Hunts his prey using the techniques taught to him by his master and his lupical.\n\n**Press**\nSwings the Thunder Wolf Claw, dealing Electro DMG to opponents in front of Razor.\nUpon striking an opponent, Razor will gain an Electro Sigil, which increases his Energy Recharge rate.\nRazor can have up to 3 Electro Sigils simultaneously, and gaining a new Electro Sigil refreshes their duration.\n\n**Hold**\nGathers Electro energy to unleash a lightning storm over a small AoE, causing massive Electro DMG, and clears all of Razor's Electro Sigils.\nEach Electro Sigil cleared in this manner will be converted into Energy for Razor.",
+      "description": "In the moment when lightning strikes, you can sometimes glimpse the look of a predator sizing up his prey deep within Razor's eyes.",
+      "attributes": [
+        {
+          "name": "Press Skill DMG",
+          "parameters": [
+            "199.20%",
+            "214.14%",
+            "229.08%",
+            "249.00%",
+            "263.94%",
+            "278.88%",
+            "298.80%",
+            "318.72%",
+            "338.64%",
+            "358.56%",
+            "378.48%",
+            "398.40%",
+            "423.30%",
+            "448.20%",
+            "473.10%"
+          ]
+        },
+        {
+          "name": "Hold Skill DMG",
+          "parameters": [
+            "295.20%",
+            "317.34%",
+            "339.48%",
+            "369.00%",
+            "391.14%",
+            "413.28%",
+            "442.80%",
+            "472.32%",
+            "501.84%",
+            "531.36%",
+            "560.88%",
+            "590.40%",
+            "627.30%",
+            "664.20%",
+            "701.10%"
+          ]
+        },
+        {
+          "name": "Energy Recharge Bonus",
+          "parameters": [
+            "20.00% per Electro Sigil",
+            "20.00% per Electro Sigil",
+            "20.00% per Electro Sigil",
+            "20.00% per Electro Sigil",
+            "20.00% per Electro Sigil",
+            "20.00% per Electro Sigil",
+            "20.00% per Electro Sigil",
+            "20.00% per Electro Sigil",
+            "20.00% per Electro Sigil",
+            "20.00% per Electro Sigil",
+            "20.00% per Electro Sigil",
+            "20.00% per Electro Sigil",
+            "20.00% per Electro Sigil",
+            "20.00% per Electro Sigil",
+            "20.00% per Electro Sigil"
+          ]
+        },
+        {
+          "name": "Energy Regenerated",
+          "parameters": [
+            "5 per Electro Sigil Absorbed",
+            "5 per Electro Sigil Absorbed",
+            "5 per Electro Sigil Absorbed",
+            "5 per Electro Sigil Absorbed",
+            "5 per Electro Sigil Absorbed",
+            "5 per Electro Sigil Absorbed",
+            "5 per Electro Sigil Absorbed",
+            "5 per Electro Sigil Absorbed",
+            "5 per Electro Sigil Absorbed",
+            "5 per Electro Sigil Absorbed",
+            "5 per Electro Sigil Absorbed",
+            "5 per Electro Sigil Absorbed",
+            "5 per Electro Sigil Absorbed",
+            "5 per Electro Sigil Absorbed",
+            "5 per Electro Sigil Absorbed"
+          ]
+        },
+        {
+          "name": "Electro Sigil duration",
+          "parameters": [
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s"
+          ]
+        },
+        {
+          "name": "Press CD",
+          "parameters": [
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s"
+          ]
+        },
+        {
+          "name": "CD (hold)",
+          "parameters": [
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Lightning Fang",
+      "info": "Summons the Wolf Within, which deals Electro DMG to all nearby opponents. This clears all of Razor's Electro Sigils, which will be converted into Elemental Energy for him.\nThe Wolf Within will fight alongside Razor for the skill's duration.\n\n**The Wolf Within**\n·Strikes alongside Razor's normal attacks, dealing Electro DMG.\n·Raises Razor's ATK SPD and Electro RES.\n·Causes Razor to be immune to DMG inflicted by the Electro-Charged status.\n·Disables Razor's Charged Attacks.\n·Increases Razor's resistance to interruption.\n\nThese effects end when Razor leaves the battlefield.\nWhen Razor leaves the field, a maximum of 10 Energy will be returned to him based off the duration remaining on this skill.",
+      "description": "The wolf has awoken. The hunt is on.",
+      "attributes": [
+        {
+          "name": "Elemental Burst DMG",
+          "parameters": [
+            "160.00%",
+            "172.00%",
+            "184.00%",
+            "200.00%",
+            "212.00%",
+            "224.00%",
+            "240.00%",
+            "256.00%",
+            "272.00%",
+            "288.00%",
+            "304.00%",
+            "320.00%",
+            "340.00%",
+            "360.00%",
+            "380.00%"
+          ]
+        },
+        {
+          "name": "Soul Companion DMG",
+          "parameters": [
+            "24.00% Normal Attack DMG",
+            "25.80% Normal Attack DMG",
+            "27.60% Normal Attack DMG",
+            "30.00% Normal Attack DMG",
+            "31.80% Normal Attack DMG",
+            "33.60% Normal Attack DMG",
+            "36.00% Normal Attack DMG",
+            "38.40% Normal Attack DMG",
+            "40.80% Normal Attack DMG",
+            "43.20% Normal Attack DMG",
+            "45.60% Normal Attack DMG",
+            "48.00% Normal Attack DMG",
+            "51.00% Normal Attack DMG",
+            "54.00% Normal Attack DMG",
+            "57.00% Normal Attack DMG"
+          ]
+        },
+        {
+          "name": "Normal ATK SPD Bonus",
+          "parameters": [
+            "26.00%",
+            "28.00%",
+            "30.00%",
+            "32.00%",
+            "34.00%",
+            "36.00%",
+            "37.00%",
+            "38.00%",
+            "39.00%",
+            "40.00%",
+            "40.00%",
+            "40.00%",
+            "40.00%",
+            "40.00%",
+            "40.00%"
+          ]
+        },
+        {
+          "name": "Electro RES Bonus",
+          "parameters": [
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%",
+            "80.00%"
+          ]
+        },
+        {
+          "name": "Duration",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "name": "Energy Cost",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Awakening",
+      "info": "Decreases **Claw and Thunder**'s CD by 18%.\nUsing **Lightning Fang** resets the CD of **Claw and Thunder**."
+    },
+    "passive2": {
+      "name": "Hunger",
+      "info": "When Razor's Energy is below 50%, increases Energy Recharge by 30%."
+    },
+    "passive3": {
+      "name": "Wolvensprint",
+      "info": "Decreases sprinting Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of Resistance",
+          "count": 3
+        },
+        {
+          "name": "Damaged Mask",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to Resistance",
+          "count": 2
+        },
+        {
+          "name": "Stained Mask",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to Resistance",
+          "count": 4
+        },
+        {
+          "name": "Stained Mask",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to Resistance",
+          "count": 6
+        },
+        {
+          "name": "Stained Mask",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to Resistance",
+          "count": 9
+        },
+        {
+          "name": "Stained Mask",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of Resistance",
+          "count": 4
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 4
+        },
+        {
+          "name": "Dvalin's Claw",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of Resistance",
+          "count": 6
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 6
+        },
+        {
+          "name": "Dvalin's Claw",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of Resistance",
+          "count": 12
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 9
+        },
+        {
+          "name": "Dvalin's Claw",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of Resistance",
+          "count": 16
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 12
+        },
+        {
+          "name": "Dvalin's Claw",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Razor_01",
+      "combat3": "Skill_E_Razor_01_HD",
+      "passive1": "UI_Talent_S_Razor_05",
+      "passive2": "UI_Talent_S_Razor_06",
+      "passive3": "UI_Talent_Explosion_Sprint"
+    },
+    "version": "1.0"
+  }
+}

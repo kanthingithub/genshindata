@@ -1,0 +1,24 @@
+{
+  "name": "「勤劳」的教导",
+  "description": "天赋培养素材。\n岩之国土的根基是勤劳。\n勤劳即为通过人的努力，克服高山与大海，追求繁荣与黄金的勇气与力量。",
+  "sortorder": 1863,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "天赋培养素材",
+  "dropdomain": "精通秘境：深炎之底",
+  "daysofweek": [
+    "周二",
+    "周五",
+    "周日"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Diligence.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a7/Item_Teachings_of_Diligence.png",
+    "nameicon": "UI_ItemIcon_104313"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Diligence"
+  },
+  "version": ""
+}

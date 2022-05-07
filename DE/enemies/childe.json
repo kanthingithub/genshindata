@@ -1,0 +1,207 @@
+{
+  "name": "„Der Graf“",
+  "specialname": "„Der Graf“",
+  "enemytype": "BOSS",
+  "category": "Einprägsame Gegner",
+  "description": "Der „Graf“ Tartaglia ist der letzte unter den Elf der Fatui.\nEr zieht seine Kraft aus der mächtigen Illusion, die er beherrscht, und wendet eine Kampfkunst an, die er im Land der Dunkelheit erlernte.\nEr ist ein reiner Krieger, angetrieben von unstillbarer Kampfeslust.\nJeder blutige Konflikt, jeder Kampf auf Leben und Tod bereitet ihm Vergnügen.\nDer junge Graf ist im gesamten Land für sein Kampfgeschick bekannt.\nDoch derlei Lob bedeutet ihm nicht viel.\nSchließlich ...\n„Sei stets das Auge des Sturms.\nDann wird das Krachen von Stahl auf Stahl dich stets begleiten.\nDie tiefschwarze Erinnerung, in die finsterste Dunkelheit zu treten,\nsoll letztendlich zur Stärke werden, mit der du diese Welt umstürzt.“",
+  "rewardpreview": [
+    {
+      "name": "Abenteuer-EP",
+      "count": 300
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Freundschafts-EP"
+    },
+    {
+      "name": "Varunada-Lasurit-Splitter"
+    },
+    {
+      "name": "Varunada-Lasurit-Bruchstück"
+    },
+    {
+      "name": "Varunada-Lasurit-Brocken"
+    },
+    {
+      "name": "Varunada-Lasurit"
+    },
+    {
+      "name": "Vajrada-Amethyst-Splitter"
+    },
+    {
+      "name": "Vajrada-Amethyst-Bruchstück"
+    },
+    {
+      "name": "Vajrada-Amethyst-Brocken"
+    },
+    {
+      "name": "Vajrada-Amethyst"
+    },
+    {
+      "name": "Shivada-Jade-Splitter"
+    },
+    {
+      "name": "Shivada-Jade-Bruchstück"
+    },
+    {
+      "name": "Shivada-Jade-Brocken"
+    },
+    {
+      "name": "Shivada-Jade"
+    },
+    {
+      "name": "Traumlösungsmittel",
+      "count": 0.33
+    },
+    {
+      "name": "Hauer des Monoceros Caeli"
+    },
+    {
+      "name": "Dämonengewand – Fragment"
+    },
+    {
+      "name": "Seele des Kriegers – Schatten"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Ausbilder",
+      "rarity": "3"
+    },
+    {
+      "name": "Verbannter",
+      "rarity": "3"
+    },
+    {
+      "name": "Verbeugung des Gladiators",
+      "rarity": "4"
+    },
+    {
+      "name": "Wanderorchester",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Ausbilder",
+      "rarity": "4"
+    },
+    {
+      "name": "Verbannter",
+      "rarity": "4"
+    },
+    {
+      "name": "Verbeugung des Gladiators",
+      "rarity": "5"
+    },
+    {
+      "name": "Wanderorchester",
+      "rarity": "5"
+    },
+    {
+      "name": "Unbearbeiteter Einhänder des Nordens"
+    },
+    {
+      "name": "Unbearbeiteter Bogen des Nordens"
+    },
+    {
+      "name": "Unbearbeiteter Zweihänder des Nordens"
+    },
+    {
+      "name": "Unbearbeiteter Katalysator des Nordens"
+    },
+    {
+      "name": "Unbearbeitete Stangenwaffe des Nordens"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Tartaglia"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 437.5019589085132,
+      "attack": 76.13319315582885,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 1719.6243214995484,
+      "attack": 203.4083293985932,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 5311.200007694308,
+      "attack": 501.7499019824463,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 8836.801959766774,
+      "attack": 819.5298012541898,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 16169.096780894324,
+      "attack": 1225.2416554312222,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 29978.905535548925,
+      "attack": 1889.4817435136356,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 50287.52887867391,
+      "attack": 2660.773141056823,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 78311.83582433872,
+      "attack": 3673.071566613973,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 111394.36524301395,
+      "attack": 4725.795096868649,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 146124.52006453648,
+      "attack": 5709.411795508931,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 220590.7292405963,
+      "attack": 7386.62659546989,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 321013.8823301643,
+      "attack": 7533.291466042516,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 431917.9003403038,
+      "attack": 7680.983199416427,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

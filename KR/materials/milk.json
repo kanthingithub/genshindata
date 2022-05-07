@@ -1,0 +1,19 @@
+{
+  "name": "우유",
+  "description": "젖소의 유즙. 한 방울도 놓치고 싶지 않은 고소하고 달달한 맛이다",
+  "sortorder": 1998,
+  "category": "EXCHANGE",
+  "materialtype": "식자재",
+  "source": [
+    "잡화점 구매"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Milk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Item_Milk.png",
+    "nameicon": "UI_ItemIcon_100078"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Milk"
+  },
+  "version": ""
+}

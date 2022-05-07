@@ -1,0 +1,19 @@
+{
+  "name": "「冷鮮肉」",
+  "description": "稀有的鮮美肉類。\n根據記載在數百年前已經滅絕的豬，因為龍脊雪山的極端天候而被保存了下來。對於提瓦特的老饕們而言，是福音般神聖的極佳食材。",
+  "sortorder": 2009,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "動物掉落"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chilled_Meat.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/da/Item_Chilled_Meat.png",
+    "nameicon": "UI_ItemIcon_100094"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chilled_Meat"
+  },
+  "version": ""
+}

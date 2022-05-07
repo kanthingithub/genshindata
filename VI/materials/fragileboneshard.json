@@ -1,0 +1,23 @@
+{
+  "name": "Mảnh Xương Giòn Yếu",
+  "description": "Mảnh xương được tìm thấy trên người rồng đất.\nCho dù rất giòn, nhưng trong đó chứa đựng sức mạnh không thể diễn tả bằng lời.",
+  "sortorder": 1759,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Rồng Đất Nhỏ - Nham rơi",
+    "Rồng Đất Nham rơi",
+    "Rồng Biển Sâu rơi",
+    "Đổi từ Tinh Trần"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragile_Bone_Shard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Item_Fragile_Bone_Shard.png",
+    "nameicon": "UI_ItemIcon_112041"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fragile_Bone_Shard"
+  },
+  "version": ""
+}

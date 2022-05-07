@@ -1,0 +1,26 @@
+{
+  "name": "Mask of the Tiger's Bite",
+  "description": "Material Ascension Senjata.\n\"Sumirezome Sangetsu Kogetsukan\" menggambarkan oni Torachiyo yang ganas sedang menghancurkan naginata Shogun dalam satu gigitan. Karena itulah, banyak topeng Torachiyo yang bagian taringnya dibuat dengan sangat bagus.\nDi akhir kisah ini, oni yang terluka melarikan diri ke hutan, takut untuk menunjukkan dirinya bahkan di tengah sinar bulan yang dingin sekalipun. Angin yang berembus melalui lembah dan jalan sempit terdengar seperti tangisannya yang penuh penderitaan. Dan karena itulah, muncul ungkapan puitis ini di Inazuma: \"Angin Torachiyo\".",
+  "sortorder": 2216,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Ascension Senjata",
+  "dropdomain": "Domain of Forgery: Makam Pasir",
+  "daysofweek": [
+    "Rabu",
+    "Sabtu",
+    "Minggu"
+  ],
+  "source": [
+    "Didapatkan melalui Craft"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mask_of_the_Tiger's_Bite.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Item_Mask_of_the_Tiger%27s_Bite.png",
+    "nameicon": "UI_ItemIcon_114034"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mask_of_the_Tiger's_Bite"
+  },
+  "version": ""
+}

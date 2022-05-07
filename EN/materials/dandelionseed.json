@@ -1,0 +1,20 @@
+{
+  "name": "Dandelion Seed",
+  "description": "A tiny seed that rides on the wind. Even without its feathered wings, it still holds the hope from afar within.",
+  "sortorder": 2043,
+  "category": "EXCHANGE",
+  "materialtype": "Local Specialty (Mondstadt)",
+  "source": [
+    "Found in the wild",
+    "Recommendation: Found at Mondstadt gates"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dandelion_Seed.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Item_Dandelion_Seed.png",
+    "nameicon": "UI_ItemIcon_100057"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dandelion_Seed"
+  },
+  "version": ""
+}

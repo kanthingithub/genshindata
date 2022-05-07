@@ -1,0 +1,20 @@
+{
+  "name": "Thạch Phách",
+  "description": "Tinh thạch quý hiếm được kết tinh từ Nguyên Tố Nham thuần khiết, thường xuất hiện bên cạnh các loại khoáng chất khác. Được gọi là \"Trái Tim Của Đá\".",
+  "sortorder": 2044,
+  "category": "EXCHANGE",
+  "materialtype": "Đặc Sản Khu Vực Liyue",
+  "source": [
+    "Thu thập dưới vách núi Liyue",
+    "Đề xuất: Thu thập ở Hổ Lao Sơn"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cor_Lapis.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Item_Cor_Lapis.png",
+    "nameicon": "UI_ItemIcon_100058"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cor_Lapis"
+  },
+  "version": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "风车菊",
+  "description": "喜好风的植物。对于崇信风、本身也如风一般爽朗自在的蒙德人而言，风车菊便是「看得见的风」。",
+  "sortorder": 2039,
+  "category": "EXCHANGE",
+  "materialtype": "蒙德区域特产",
+  "source": [
+    "风起地七天神像附近采集",
+    "野外树下采集",
+    "推荐：风龙废墟采集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Windwheel_Aster.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Windwheel_Aster.png",
+    "nameicon": "UI_ItemIcon_100024"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Windwheel_Aster"
+  },
+  "version": ""
+}

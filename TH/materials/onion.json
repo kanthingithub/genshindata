@@ -1,0 +1,19 @@
+{
+  "name": "Onion",
+  "description": "พืชทรงกลม เพื่อเป็นการแก้แค้นแก่ผู้ที่หั่นมัน มันจะทำให้ผู้นั้นต้องเสียน้ำตาไม่ว่าอารมณ์ดีหรือไม่ดี",
+  "sortorder": 1996,
+  "category": "EXCHANGE",
+  "materialtype": "วัตถุดิบประกอบอาหาร",
+  "source": [
+    "ซื้อจากร้านขายของชำ"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Onion.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Item_Onion.png",
+    "nameicon": "UI_ItemIcon_100076"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Onion"
+  },
+  "version": ""
+}

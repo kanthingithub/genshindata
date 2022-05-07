@@ -1,0 +1,20 @@
+{
+  "name": "Venomspine Fish",
+  "description": "Ikan yang lincah dan ganas dengan sirip berduri yang mulut runcingnya dapat menembus arus saat berenang dengan kecepatan penuh. Kemampuan tersebut membuatnya dijuluki sebagai \"Ikan Pembelah Arus\" dan \"Ikan Jagoan Kabur\".\nCiri Ikan Venomspine yang paling terkenal adalah duri beracunnya, yang mengandung racun yang dapat berakibat fatal bagi mangsa yang lebih kecil, tetapi terbukti jauh lebih lemah terhadap organisme besar, yang kebanyakan hanya akan menyebabkan kebingungan atau halusinasi ringan.\n\"Ahh, sakit sekali, sial!\" — ujar seorang nelayan dari Liyue yang tertusuk karena ceroboh.",
+  "sortorder": 2022,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Ikan",
+  "source": [
+    "Didapatkan dari memancing ikan"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Venomspine_Fish.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Venomspine_Fish.png",
+    "nameicon": "UI_ItemIcon_131008"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Venomspine_Fish"
+  },
+  "version": ""
+}

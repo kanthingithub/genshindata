@@ -1,0 +1,26 @@
+{
+  "name": "Xiềng Xích Đấu Sĩ Nanh Sư Tử",
+  "description": "Nguyên liệu có sức mạnh đột phá vũ khí.\nMọi người thường nói quá về câu chuyện của anh hùng. Thậm chí xiềng xích từng trói buộc anh hùng cũng bị cho rằng là bản chất của tự do.\nCho nên xiềng xích cũng trở nên có sức mạnh phi phàm.",
+  "sortorder": 2191,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Đột Phá Vũ Khí",
+  "dropdomain": "Bí Cảnh Luyện Võ: Phế Đô Khát Nước",
+  "daysofweek": [
+    "Thứ 4",
+    "Thứ 7",
+    "Chủ Nhật"
+  ],
+  "source": [
+    "Đổi trong Cửa Hàng Lưu Niệm Mondstadt"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fetters_of_the_Dandelion_Gladiator.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Item_Fetters_of_the_Dandelion_Gladiator.png",
+    "nameicon": "UI_ItemIcon_114009"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fetters_of_the_Dandelion_Gladiator"
+  },
+  "version": ""
+}

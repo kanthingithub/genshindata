@@ -1,0 +1,25 @@
+{
+  "name": "Damaged Mask",
+  "description": "หน้ากากที่ทำจากกระดูกชิ้นนี้ เดิมทีเป็นของพวก Hilichurl \nแต่เนื่องจากได้รับความเสียหาย จำนวนมาก เลยทำให้ไม่สามารถใช้งานตามหน้าที่ของมันได้อีก",
+  "sortorder": 1726,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ดรอปจาก Hilichurl",
+    "ดรอปจาก Hilichurl Shooter บางตัว",
+    "ดรอปจาก Samachurl บางตัว",
+    "ดรอปจาก Mitachurl บางตัว",
+    "ดรอปจาก Hilichurl Chieftain บางตัว",
+    "แลกเปลี่ยนด้วย Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Damaged_Mask.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Damaged_Mask.png",
+    "nameicon": "UI_ItemIcon_112005"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Damaged_Mask"
+  },
+  "version": ""
+}

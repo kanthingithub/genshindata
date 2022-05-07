@@ -1,0 +1,951 @@
+{
+  "name": "Shenhe",
+  "fullname": "Shenhe",
+  "title": "Lonesome Transcendence",
+  "description": "Seorang murid Adeptus dengan temperamen yang sedikit unik. Karena sudah lama hidup terisolasi di pegunungan Liyue, sifatnya juga menjadi acuh tak acuh dan menjaga jarak seperti para Adeptus.",
+  "rarity": "5",
+  "element": "Cryo",
+  "weapontype": "Polearm",
+  "substat": "ATK",
+  "gender": "Perempuan",
+  "body": "LADY",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Alam Cloud Retainer",
+  "birthdaymmdd": "3/10",
+  "birthday": "10 Maret",
+  "constellation": "Crista Doloris",
+  "cv": {
+    "english": "Chelsea Kwoka",
+    "chinese": "秦紫翼",
+    "japanese": "川澄綾子",
+    "korean": "Lee Hyeon-jin"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Shivada Jade Sliver",
+        "count": 1
+      },
+      {
+        "name": "Qingxin",
+        "count": 3
+      },
+      {
+        "name": "Whopperflower Nectar",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Shivada Jade Fragment",
+        "count": 3
+      },
+      {
+        "name": "Dragonheir's False Fin",
+        "count": 2
+      },
+      {
+        "name": "Qingxin",
+        "count": 10
+      },
+      {
+        "name": "Whopperflower Nectar",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Shivada Jade Fragment",
+        "count": 6
+      },
+      {
+        "name": "Dragonheir's False Fin",
+        "count": 4
+      },
+      {
+        "name": "Qingxin",
+        "count": 20
+      },
+      {
+        "name": "Shimmering Nectar",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Shivada Jade Chunk",
+        "count": 3
+      },
+      {
+        "name": "Dragonheir's False Fin",
+        "count": 8
+      },
+      {
+        "name": "Qingxin",
+        "count": 30
+      },
+      {
+        "name": "Shimmering Nectar",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Shivada Jade Chunk",
+        "count": 6
+      },
+      {
+        "name": "Dragonheir's False Fin",
+        "count": 12
+      },
+      {
+        "name": "Qingxin",
+        "count": 45
+      },
+      {
+        "name": "Energy Nectar",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Shivada Jade Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Dragonheir's False Fin",
+        "count": 20
+      },
+      {
+        "name": "Qingxin",
+        "count": 60
+      },
+      {
+        "name": "Energy Nectar",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_AvatarIcon_Shenhe",
+    "nameiconcard": "UI_AvatarIcon_Shenhe_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Shenhe",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Shenhe",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png",
+    "namesideicon": "UI_AvatarIcon_Side_Shenhe",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Shenhe.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211226/2021122613552422734.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211226/2021122613553025678.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shenhe"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1011.4725341796875,
+      "attack": 23.64739990234375,
+      "defense": 64.61640167236328,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2623.7598559113394,
+      "attack": 61.34135773718299,
+      "defense": 167.61495247014864,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3491.006071731652,
+      "attack": 81.61538460791053,
+      "defense": 223.01895179876192,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5223.65858258761,
+      "attack": 122.12338203884428,
+      "defense": 333.7068516841464,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5839.8598765329225,
+      "attack": 136.52861160732573,
+      "defense": 373.0728489985995,
+      "specialized": 0.07199999690055847
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6718.829466291994,
+      "attack": 157.07820113017806,
+      "defense": 429.2244993404711,
+      "specialized": 0.07199999690055847
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7540.431028791994,
+      "attack": 176.2851713450218,
+      "defense": 481.7124983028734,
+      "specialized": 0.14399999380111694
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8428.503693869454,
+      "attack": 197.04758331744233,
+      "defense": 538.4456849211638,
+      "specialized": 0.14399999380111694
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9044.705109885079,
+      "attack": 211.4528147932724,
+      "defense": 577.8116822356169,
+      "specialized": 0.14399999380111694
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9940.869933365204,
+      "attack": 232.4044148052635,
+      "defense": 635.0618242235032,
+      "specialized": 0.14399999380111694
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10557.071105240204,
+      "attack": 246.80964246639633,
+      "defense": 674.4278367967454,
+      "specialized": 0.2160000056028366
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11463.350403262128,
+      "attack": 267.9977106139122,
+      "defense": 732.3241267793746,
+      "specialized": 0.2160000056028366
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12079.551575137128,
+      "attack": 282.402938275045,
+      "defense": 771.6901088350387,
+      "specialized": 0.2879999876022339
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12992.911632338306,
+      "attack": 303.7565487761749,
+      "defense": 830.0387424689397,
+      "specialized": 0.2879999876022339
+    }
+  },
+  "version": "2.4",
+  "constellations": {
+    "c1": {
+      "name": "Clarity of Heart",
+      "effect": "Jumlah penggunaan **Spring Spirit Summoning** bertambah 1 kali."
+    },
+    "c2": {
+      "name": "Centered Spirit",
+      "effect": "Durasi **Divine Maiden's Deliverance** diperpanjang 6 detik. CRIT DMG dari Cryo DMG untuk Karakter aktif yang berada di dalam area meningkat 15%."
+    },
+    "c3": {
+      "name": "Seclusion",
+      "effect": "Meningkatkan 3 level **Spring Spirit Summoning**.\nMaksimum: Lv. 15."
+    },
+    "c4": {
+      "name": "Insight",
+      "effect": "Saat Karakter yang berada dalam status **Icy Quill** dari Shenhe sendiri memicu Bonus DMG dari Icy Quill, Shenhe akan mendapatkan 1 lapis Skyfrost Mantra:\n·Saat Shenhe melancarkan **Spring Spirit Summoning**, dia akan mengonsumsi semua lapisan Skyfrost Mantra dan meningkatkan DMG yang diakibatkan oleh Spring Spirit Summoning sebesar 5% untuk setiap lapisan yang dikonsumsi.\n·Efek ini dapat ditumpuk hingga 50 lapis dan berlangsung selama 60 detik."
+    },
+    "c5": {
+      "name": "Divine Attainment",
+      "effect": "Meningkatkan 3 level **Divine Maiden's Deliverance**.\nMaksimum: Lv. 15."
+    },
+    "c6": {
+      "name": "Mystical Abandon",
+      "effect": "Saat Karakter memicu efek **Icy Quill** melalui DMG Normal Attack dan Charged Attack, jumlah lapisan Icy Quill tidak akan berkurang."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shenhe_02.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shenhe_01.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Shenhe_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shenhe_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Shenhe_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shenhe_04.png",
+      "constellation": "Eff_UI_Talent_Shenhe"
+    },
+    "version": "2.4"
+  },
+  "talent": {
+    "name": "Shenhe",
+    "combat1": {
+      "name": "Normal Attack: Dawnstar Piercer",
+      "info": "**Normal Attack**\nMelancarkan hingga 5 serangan tombak berturut-turut.\n\n**Charged Attack**\nMengonsumsi sejumlah Stamina untuk menerjang ke depan, mengakibatkan DMG pada musuh di jalurnya.\n\n**Plunging Attack**\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "attributes": [
+        {
+          "name": "DMG Tahap 1",
+          "parameters": [
+            "43.26%",
+            "46.78%",
+            "50.30%",
+            "55.33%",
+            "58.85%",
+            "62.88%",
+            "68.41%",
+            "73.94%",
+            "79.47%",
+            "85.51%",
+            "91.55%",
+            "97.58%",
+            "103.62%",
+            "109.65%",
+            "115.69%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 2",
+          "parameters": [
+            "40.25%",
+            "43.52%",
+            "46.80%",
+            "51.48%",
+            "54.76%",
+            "58.50%",
+            "63.65%",
+            "68.80%",
+            "73.94%",
+            "79.56%",
+            "85.18%",
+            "90.79%",
+            "96.41%",
+            "102.02%",
+            "107.64%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 3",
+          "parameters": [
+            "53.32%",
+            "57.66%",
+            "62.00%",
+            "68.20%",
+            "72.54%",
+            "77.50%",
+            "84.32%",
+            "91.14%",
+            "97.96%",
+            "105.40%",
+            "112.84%",
+            "120.28%",
+            "127.72%",
+            "135.16%",
+            "142.60%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 4",
+          "parameters": [
+            "26.32%+26.32%",
+            "28.46%+28.46%",
+            "30.60%+30.60%",
+            "33.66%+33.66%",
+            "35.80%+35.80%",
+            "38.25%+38.25%",
+            "41.62%+41.62%",
+            "44.98%+44.98%",
+            "48.35%+48.35%",
+            "52.02%+52.02%",
+            "55.69%+55.69%",
+            "59.36%+59.36%",
+            "63.04%+63.04%",
+            "66.71%+66.71%",
+            "70.38%+70.38%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 5",
+          "parameters": [
+            "65.62%",
+            "70.96%",
+            "76.30%",
+            "83.93%",
+            "89.27%",
+            "95.38%",
+            "103.77%",
+            "112.16%",
+            "120.55%",
+            "129.71%",
+            "138.87%",
+            "148.02%",
+            "157.18%",
+            "166.33%",
+            "175.49%"
+          ]
+        },
+        {
+          "name": "DMG Charged Attack",
+          "parameters": [
+            "110.67%",
+            "119.68%",
+            "128.69%",
+            "141.56%",
+            "150.57%",
+            "160.86%",
+            "175.02%",
+            "189.17%",
+            "203.33%",
+            "218.77%",
+            "234.22%",
+            "249.66%",
+            "265.10%",
+            "280.54%",
+            "295.99%"
+          ]
+        },
+        {
+          "name": "Konsumsi Stamina Charged Attack",
+          "parameters": [
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25"
+          ]
+        },
+        {
+          "name": "DMG Selama Plunging",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "DMG Plunging Attack Min./Maks.",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Spring Spirit Summoning",
+      "info": "Memadatkan embun beku perak untuk mengusir semua iblis.\nMemberikan efek \"Icy Quill\" pada seluruh anggota party di sekitar dan mengakibatkan Cryo DMG berdasarkan cara skill dilancarkan, yaitu ditekan atau ditahan.\n\n**Mode Tekan**\nMenerjang ke arah depan bersama \"Talisman Spirit\" dan mengakibatkan Cryo DMG pada musuh yang berada di jalur serangan.\n\n**Mode Tahan**\nMemerintahkan Talisman Spirit untuk mengakibatkan Cryo DMG Area.\n\n**Icy Quill**\nSaat Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, dan Elemental Burst mengakibatkan Cryo DMG kepada musuh, DMG yang diakibatkan akan meningkat sesuai dengan ATK Shenhe saat ini.\n\nEfek Icy Quill akan hilang setelah durasinya berakhir atau lapisannya terkonsumsi dalam jumlah tertentu. Icy Quill yang dilancarkan dengan Mode Tahan akan memiliki durasi lebih lama dan jumlah lapisan lebih banyak.\nSaat satu serangan Cryo DMG mengenai beberapa musuh secara bersamaan, jumlah lapisan Icy Quill yang dikonsumsi akan disesuaikan dengan jumlah musuh yang terkena serangan. Efek dan jumlah lapisan Icy Quill untuk setiap Karakter dalam party akan dihitung secara terpisah.",
+      "description": "\"Kekuatan roh bukanlah suatu kepalsuan. Gadis suci ini telah diperintahkan untuk segera bergegas!\"",
+      "attributes": [
+        {
+          "name": "DMG Skill (Mode Tekan)",
+          "parameters": [
+            "139.20%",
+            "149.64%",
+            "160.08%",
+            "174.00%",
+            "184.44%",
+            "194.88%",
+            "208.80%",
+            "222.72%",
+            "236.64%",
+            "250.56%",
+            "264.48%",
+            "278.40%",
+            "295.80%",
+            "313.20%",
+            "330.60%"
+          ]
+        },
+        {
+          "name": "DMG Skill (Mode Tahan)",
+          "parameters": [
+            "188.80%",
+            "202.96%",
+            "217.12%",
+            "236.00%",
+            "250.16%",
+            "264.32%",
+            "283.20%",
+            "302.08%",
+            "320.96%",
+            "339.84%",
+            "358.72%",
+            "377.60%",
+            "401.20%",
+            "424.80%",
+            "448.40%"
+          ]
+        },
+        {
+          "name": "Peningkatan DMG",
+          "parameters": [
+            "45.66% ATK",
+            "49.08% ATK",
+            "52.50% ATK",
+            "57.07% ATK",
+            "60.49% ATK",
+            "63.92% ATK",
+            "68.48% ATK",
+            "73.05% ATK",
+            "77.62% ATK",
+            "82.18% ATK",
+            "86.75% ATK",
+            "91.31% ATK",
+            "97.02% ATK",
+            "102.73% ATK",
+            "108.43% ATK"
+          ]
+        },
+        {
+          "name": "Durasi Mode Tekan/Tahan",
+          "parameters": [
+            "10 detik / 15 detik",
+            "10 detik / 15 detik",
+            "10 detik / 15 detik",
+            "10 detik / 15 detik",
+            "10 detik / 15 detik",
+            "10 detik / 15 detik",
+            "10 detik / 15 detik",
+            "10 detik / 15 detik",
+            "10 detik / 15 detik",
+            "10 detik / 15 detik",
+            "10 detik / 15 detik",
+            "10 detik / 15 detik",
+            "10 detik / 15 detik",
+            "10 detik / 15 detik",
+            "10 detik / 15 detik"
+          ]
+        },
+        {
+          "name": "Jumlah Lapisan Mode Tekan/Tahan",
+          "parameters": [
+            "5 lapis/7 lapis",
+            "5 lapis/7 lapis",
+            "5 lapis/7 lapis",
+            "5 lapis/7 lapis",
+            "5 lapis/7 lapis",
+            "5 lapis/7 lapis",
+            "5 lapis/7 lapis",
+            "5 lapis/7 lapis",
+            "5 lapis/7 lapis",
+            "5 lapis/7 lapis",
+            "5 lapis/7 lapis",
+            "5 lapis/7 lapis",
+            "5 lapis/7 lapis",
+            "5 lapis/7 lapis",
+            "5 lapis/7 lapis"
+          ]
+        },
+        {
+          "name": "Cooldown (Mode Tekan)",
+          "parameters": [
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik"
+          ]
+        },
+        {
+          "name": "Cooldown (Mode Tahan)",
+          "parameters": [
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Divine Maiden's Deliverance",
+      "info": "Melepaskan kekuatan Talisman Spirit, membiarkannya bergerak bebas di dunia ini, dan mengakibatkan Cryo DMG Area.\nTalisman Spirit akan menciptakan sebuah area yang mengurangi Cryo RES dan Physical RES musuh yang berada di dalamnya. Selama durasinya, area ini terus mengakibatkan Cryo DMG kepada musuh yang berada di dalamnya.",
+      "description": "\"Jalan Adeptus tidaklah didasarkan pada sesuatu yang abstrak dan misterius. Hanya dengan mengamati perubahan di langit dan bumi, dan memahami hukum sebab akibat di dunia ini, barulah kebenaran dapat dipahami.\"",
+      "attributes": [
+        {
+          "name": "DMG Skill",
+          "parameters": [
+            "100.80%",
+            "108.36%",
+            "115.92%",
+            "126.00%",
+            "133.56%",
+            "141.12%",
+            "151.20%",
+            "161.28%",
+            "171.36%",
+            "181.44%",
+            "191.52%",
+            "201.60%",
+            "214.20%",
+            "226.80%",
+            "239.40%"
+          ]
+        },
+        {
+          "name": "Penurunan RES",
+          "parameters": [
+            "6.00%",
+            "7.00%",
+            "8.00%",
+            "9.00%",
+            "10.00%",
+            "11.00%",
+            "12.00%",
+            "13.00%",
+            "14.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%"
+          ]
+        },
+        {
+          "name": "DMG Berkelanjutan",
+          "parameters": [
+            "33.12%",
+            "35.60%",
+            "38.09%",
+            "41.40%",
+            "43.88%",
+            "46.37%",
+            "49.68%",
+            "52.99%",
+            "56.30%",
+            "59.62%",
+            "62.93%",
+            "66.24%",
+            "70.38%",
+            "74.52%",
+            "78.66%"
+          ]
+        },
+        {
+          "name": "Durasi",
+          "parameters": [
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik"
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "parameters": [
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik"
+          ]
+        },
+        {
+          "name": "Konsumsi Energy",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Deific Embrace",
+      "info": "Karakter aktif yang berada di dalam area **Divine Maiden's Deliverance** akan mendapatkan 15% Cryo DMG Bonus."
+    },
+    "passive2": {
+      "name": "Spirit Communion Seal",
+      "info": "Setelah Shenhe melancarkan **Spring Spirit Summoning**, anggota party di sekitar akan mendapatkan efek berikut:\n·Mode Tekan: Meningkatkan 15% DMG Elemental Skill dan Elemental Burst selama 10 detik.\n·Mode Tahan: Meningkatkan 15% DMG Normal Attack, Charged Attack, dan Plunging Attack selama 15 detik."
+    },
+    "passive3": {
+      "name": "Precise Comings and Goings",
+      "info": "Ketika dikirim untuk melakukan ekspedisi di Liyue selama 20 jam, hadiah yang didapatkan akan bertambah 25%."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of \"Prosperity\"",
+          "count": 3
+        },
+        {
+          "name": "Whopperflower Nectar",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to \"Prosperity\"",
+          "count": 2
+        },
+        {
+          "name": "Shimmering Nectar",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to \"Prosperity\"",
+          "count": 4
+        },
+        {
+          "name": "Shimmering Nectar",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to \"Prosperity\"",
+          "count": 6
+        },
+        {
+          "name": "Shimmering Nectar",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to \"Prosperity\"",
+          "count": 9
+        },
+        {
+          "name": "Shimmering Nectar",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of \"Prosperity\"",
+          "count": 4
+        },
+        {
+          "name": "Energy Nectar",
+          "count": 4
+        },
+        {
+          "name": "Hellfire Butterfly",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of \"Prosperity\"",
+          "count": 6
+        },
+        {
+          "name": "Energy Nectar",
+          "count": 6
+        },
+        {
+          "name": "Hellfire Butterfly",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of \"Prosperity\"",
+          "count": 12
+        },
+        {
+          "name": "Energy Nectar",
+          "count": 9
+        },
+        {
+          "name": "Hellfire Butterfly",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of \"Prosperity\"",
+          "count": 16
+        },
+        {
+          "name": "Energy Nectar",
+          "count": 12
+        },
+        {
+          "name": "Hellfire Butterfly",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_03",
+      "combat2": "Skill_S_Shenhe_01",
+      "combat3": "Skill_E_Shenhe_01_HD",
+      "passive1": "UI_Talent_S_Shenhe_05",
+      "passive2": "UI_Talent_S_Shenhe_06",
+      "passive3": "UI_Talent_Expedition_Liyue"
+    },
+    "version": "2.4"
+  }
+}

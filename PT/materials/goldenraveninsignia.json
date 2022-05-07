@@ -1,0 +1,21 @@
+{
+  "name": "Insígnia de Corvo Dourado",
+  "description": "Uma insígnia de corvo que simboliza o orgulho e o princípio dos Ladrões de Tesouro. Se está escondido entre a vastidão da terra ou nas profundezas dos mares, enquanto houver tesouros a serem caçados, o espírito dos Ladrões de Tesouro, que não se detém em nada para adquiri-los, nunca morrerá.",
+  "sortorder": 1755,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Obtido na síntese",
+    "Dropado pelos Ladrões de Tesouro Nv.60+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Golden_Raven_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Golden_Raven_Insignia.png",
+    "nameicon": "UI_ItemIcon_112037"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Golden_Raven_Insignia"
+  },
+  "version": ""
+}

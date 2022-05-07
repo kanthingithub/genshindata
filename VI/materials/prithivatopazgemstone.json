@@ -1,0 +1,23 @@
+{
+  "name": "Hoàng Ngọc Cứng",
+  "description": "Nguyên liệu đột phá nhân vật.\n\"Tất cả tiền bạc lưu thông trên đại lục này đều là máu thịt của tôi.\"\n\"Tôi dùng cách như vậy, là để đảm bảo cho tất cả mồ hôi, trí tuệ và tương lai của nhân loại.\nĐây là sự tín nhiệm của tôi với chúng sinh, phụ lòng nó chính là làm vấy bẩn máu của tôi.\"",
+  "sortorder": 1849,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Nham Nguyên Bản cấp 75 trở lên rơi",
+    "Vua Thú Hoàng Kim cấp 75 trở lên rơi",
+    "Mãng Xà Di Tích cấp 75 trở lên rơi",
+    "Ghép Nhận"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Prithiva_Topaz_Gemstone.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Item_Prithiva_Topaz_Gemstone.png",
+    "nameicon": "UI_ItemIcon_104174"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Prithiva_Topaz_Gemstone"
+  },
+  "version": ""
+}

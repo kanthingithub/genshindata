@@ -1,0 +1,45 @@
+{
+  "name": "Resolution of Sojourner",
+  "rarity": [
+    "3",
+    "4"
+  ],
+  "2pc": "ATK +18%.",
+  "4pc": "Increases Charged Attack CRIT Rate by 30%.",
+  "flower": {
+    "name": "Heart of Comradeship",
+    "relictype": "Flower of Life",
+    "description": "A small cerulean flower with somebody's ribbon pinned to the stem."
+  },
+  "plume": {
+    "name": "Feather of Homecoming",
+    "relictype": "Plume of Death",
+    "description": "A blue arrow fletching imbued with the sentiment of travelers that had once faded into the horizon."
+  },
+  "sands": {
+    "name": "Sundial of the Sojourner",
+    "relictype": "Sands of Eon",
+    "description": "A sundial that has survived the ages, always silently recording the cycles of the sun and moon as they pass through the sky."
+  },
+  "goblet": {
+    "name": "Goblet of the Sojourner",
+    "relictype": "Goblet of Eonothem",
+    "description": "A plain porcelain goblet that was once brimming with joyous brews."
+  },
+  "circlet": {
+    "name": "Crown of Parting",
+    "relictype": "Circlet of Logos",
+    "description": "A reed coronet that emanates the spring breeze."
+  },
+  "images": {
+    "flower": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_10001_4.png",
+    "plume": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_10001_2.png",
+    "sands": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_10001_5.png",
+    "goblet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_10001_1.png",
+    "circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_10001_3.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Resolution_of_Sojourner"
+  },
+  "version": "1.0"
+}

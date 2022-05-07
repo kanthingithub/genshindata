@@ -1,0 +1,26 @@
+{
+  "name": "汚れた仮面",
+  "description": "汚れまみれで、何とも言えないにおいがする骨の仮面。\nそれでも被るのは、ヒルチャールのこだわりだろうか。",
+  "sortorder": 1727,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "キャラクター育成素材",
+  "source": [
+    "合成で獲得",
+    "ヒルチャール（Lv.40以上）でドロップ",
+    "ヒルチャール·射手（Lv.40以上）でレアドロップ",
+    "ヒルチャールシャーマン（Lv.40以上）でレアドロップ",
+    "ヒルチャール暴徒（Lv.40以上）でレアドロップ",
+    "ヒルチャール王者（Lv.40以上）でレアドロップ",
+    "スターダスト交換"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Stained_Mask.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Stained_Mask.png",
+    "nameicon": "UI_ItemIcon_112006"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Stained_Mask"
+  },
+  "version": ""
+}

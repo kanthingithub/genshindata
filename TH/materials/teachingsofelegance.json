@@ -1,0 +1,24 @@
+{
+  "name": "Teachings of Elegance",
+  "description": "วัสดุยกระดับพรสวรรค์\nรูปลักษณ์ของดินแดนแห่งสายฟ้านั้นสง่างาม\nผู้ที่สง่างามจะไม่สอพลอและมีเกียรติอยู่เสมอ เช่นเดียวกับนกอินทรีตามทะเลที่ต้องการบินให้สูงเพื่อต่อสู้กับพายุฝน การตอบสนองต่อความหยาบคายก็เหมือนกับการเอามงกุฎดอกไม้ไปเกลือกกลั้วโคลน จนทำให้เกียรตินั้นต้องแปดเปื้อน",
+  "sortorder": 1872,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุยกระดับพรสวรรค์",
+  "dropdomain": "ดันเจี้ยนแห่งการพัฒนา: หุบเขาแห่งสายฟ้า",
+  "daysofweek": [
+    "วันอังคาร",
+    "วันศุกร์",
+    "วันอาทิตย์"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Elegance.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Item_Teachings_of_Elegance.png",
+    "nameicon": "UI_ItemIcon_104323"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Elegance"
+  },
+  "version": ""
+}

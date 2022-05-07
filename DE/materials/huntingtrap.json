@@ -1,0 +1,17 @@
+{
+  "name": "Jagdfalle",
+  "description": "Wird zum Fangen wilder Tiere einer gewissen Größe verwendet. Suchst du vorsichtig in der Wildnis danach, kannst du auch eine solche Falle herstellen. Lege sie vorsichtig ab und verstecke sie.",
+  "sortorder": 99,
+  "category": "CONSUME",
+  "materialtype": "Verbrauchsgegenstand",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_100225",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Hunting_Trap.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Hunting_Trap.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Hunting_Trap"
+  },
+  "version": ""
+}

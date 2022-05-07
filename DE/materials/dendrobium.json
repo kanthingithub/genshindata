@@ -1,0 +1,20 @@
+{
+  "name": "Dendrobium",
+  "description": "Eine lebendige Pflanze, die von den Dichtern auch „Lycoris“ genannt wurde. Einst galt sie im Inazuma-Archipel als ausgestorben, nur um jetzt auf den Schlachtfeldern wieder aufzutauchen. Es wird gesagt, dass sie dort am bezauberndsten blüht, wo viel Blut vergossen wurde.",
+  "sortorder": 2063,
+  "category": "EXCHANGE",
+  "materialtype": "Regionale Besonderheit von Inazuma",
+  "source": [
+    "In der freien Natur zu finden",
+    "Empfohlen: Am Nazuchi-Strand zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dendrobium.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Item_Dendrobium.png",
+    "nameicon": "UI_ItemIcon_101204"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dendrobium"
+  },
+  "version": ""
+}

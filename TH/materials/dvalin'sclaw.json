@@ -1,0 +1,20 @@
+{
+  "name": "Dvalin's Claw",
+  "description": "กรงเล็บที่ได้มาจากมังกรแห่งลมตะวันออกแห่ง Mund\nและเพราะในอดีตเคยใช้กรงเล็บนี้ฉีกปีศาจมังกร [Durin] เป็นชิ้นๆ ทำให้ได้รับพิษเล็กน้อย แต่หลังจากการรักษาพิษในอดีตก็ค่อยๆลดลง",
+  "sortorder": 1786,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "รางวัลการท้าทาย Stormterror Lv.70 ขึ้นไป"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dvalin's_Claw.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Item_Dvalin%27s_Claw.png",
+    "nameicon": "UI_ItemIcon_113004"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dvalin's_Claw"
+  },
+  "version": ""
+}

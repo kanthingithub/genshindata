@@ -1,0 +1,894 @@
+{
+  "name": "Lisa",
+  "fullname": "Lisa",
+  "title": "Bruxa das Rosas",
+  "description": "Preguiçosa, mas conhecida como bibliotecária dos Cavaleiros de Favonius, na verdade foi considerada pela Academia Sumeru como a mais graduada dos últimos dois séculos.",
+  "rarity": "4",
+  "element": "Electro",
+  "weapontype": "Catalisador",
+  "substat": "Proficiência Elemental",
+  "gender": "Feminino",
+  "body": "LADY",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Cavaleiros de Favonius",
+  "birthdaymmdd": "6/9",
+  "birthday": "9 de junho",
+  "constellation": "Tempus Fugit",
+  "cv": {
+    "english": "Mara Junot",
+    "chinese": "钟可",
+    "japanese": "田中理恵",
+    "korean": "Lee Yoo-ri"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Lasca de Ametista Vajrada",
+        "count": 1
+      },
+      {
+        "name": "Valberry",
+        "count": 3
+      },
+      {
+        "name": "Condensado de Slime",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de Ametista Vajrada",
+        "count": 3
+      },
+      {
+        "name": "Prisma do Relâmpago",
+        "count": 2
+      },
+      {
+        "name": "Valberry",
+        "count": 10
+      },
+      {
+        "name": "Condensado de Slime",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de Ametista Vajrada",
+        "count": 6
+      },
+      {
+        "name": "Prisma do Relâmpago",
+        "count": 4
+      },
+      {
+        "name": "Valberry",
+        "count": 20
+      },
+      {
+        "name": "Secreção de Slime",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Pedaço de Ametista Vajrada",
+        "count": 3
+      },
+      {
+        "name": "Prisma do Relâmpago",
+        "count": 8
+      },
+      {
+        "name": "Valberry",
+        "count": 30
+      },
+      {
+        "name": "Secreção de Slime",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Pedaço de Ametista Vajrada",
+        "count": 6
+      },
+      {
+        "name": "Prisma do Relâmpago",
+        "count": 12
+      },
+      {
+        "name": "Valberry",
+        "count": 45
+      },
+      {
+        "name": "Essência de Slime",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Gema de Ametista Vajrada",
+        "count": 6
+      },
+      {
+        "name": "Prisma do Relâmpago",
+        "count": 20
+      },
+      {
+        "name": "Valberry",
+        "count": 60
+      },
+      {
+        "name": "Essência de Slime",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Character_Lisa_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Character_Lisa_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Lisa.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Lisa.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20191009/2019100915122465321.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20191009/2019100915140016827.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/06b5a07d8f98649e5e09c58aa7904752.png",
+    "nameicon": "UI_AvatarIcon_Lisa",
+    "nameiconcard": "UI_AvatarIcon_Lisa_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Lisa",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Lisa",
+    "namesideicon": "UI_AvatarIcon_Side_Lisa"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lisa"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 802.3760986328125,
+      "attack": 19.410720825195312,
+      "defense": 48.069000244140625,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2061.304201978928,
+      "attack": 49.86614191099579,
+      "defense": 123.48926190225029,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2660.720217603928,
+      "attack": 64.36728345915253,
+      "defense": 159.3992617496624,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 3985.4429835102637,
+      "attack": 96.41437935794966,
+      "defense": 238.76117079240794,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4411.343862416514,
+      "attack": 106.71782231296675,
+      "defense": 264.2761701820564,
+      "specialized": 24
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5074.106691293244,
+      "attack": 122.7510818611554,
+      "defense": 303.9811746523628,
+      "specialized": 24
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5641.974489144806,
+      "attack": 136.48900452961243,
+      "defense": 338.0011751101265,
+      "specialized": 48
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6304.737318021536,
+      "attack": 152.52226407780108,
+      "defense": 377.70617958043294,
+      "specialized": 48
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6730.638196927786,
+      "attack": 162.8257079864925,
+      "defense": 403.2211789700814,
+      "specialized": 48
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7392.598325258761,
+      "attack": 178.83954896497744,
+      "defense": 442.8780950030632,
+      "specialized": 48
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7818.499082094699,
+      "attack": 189.14299287366885,
+      "defense": 468.3931020221062,
+      "specialized": 72
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8481.26152836869,
+      "attack": 205.17624316610454,
+      "defense": 508.09808357132715,
+      "specialized": 72
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 8907.16240727494,
+      "attack": 215.47968326009868,
+      "defense": 533.6130829609756,
+      "specialized": 96
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9569.92523615167,
+      "attack": 231.51294280828733,
+      "defense": 573.318087431282,
+      "specialized": 96
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Circuito Infinito",
+      "effect": "Lisa regenera 2 de Energia para cada oponente atingido ao manter o **Arco Violeta** pressionado.\nÉ possível regenerar um máximo de 10 de Energia desta maneira por vez."
+    },
+    "c2": {
+      "name": "Campo Eletromagnético",
+      "effect": "Mantendo pressionado o **Arco Violeta** possui os seguintes efeitos:\nAumenta a DEF em 25%\nAumenta a RES a interrupção de Lisa."
+    },
+    "c3": {
+      "name": "Relâmpago Ressonante",
+      "effect": "Aumenta o nível da **Rosa do Relâmpago** em 3.\nO nível máximo de elevação é 15."
+    },
+    "c4": {
+      "name": "Erupção de Plasma",
+      "effect": "Aumenta o número de raios lançados pela **Rosa do Relâmpago** em 1 a 3."
+    },
+    "c5": {
+      "name": "Eletrocutar",
+      "effect": "Aumenta o nível do **Arco Violeta** em 3.\nO nível máximo de elevação é 15."
+    },
+    "c6": {
+      "name": "Bruxa Pulsante",
+      "effect": "Quando a Lisa entra em campo, ela aplica 3 cargas do estado de Condução do **Arco Violeta** nos inimigos ao redor.\nEste efeito pode ser ativado uma vez a cada 5s."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Lisa_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Lisa_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Lisa_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Lisa_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Lisa_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Lisa_04.png",
+      "constellation": "Eff_UI_Talent_Lisa"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Lisa",
+    "combat1": {
+      "name": "Ataque Normal: Toque do Relâmpago",
+      "info": "**Ataque Normal**\nRealiza até 4 ataques de relâmpago que infligem Dano Electro.\n\n**Ataque Carregado**\nConsome uma certa quantidade de Stamina que inflige Dano Electro em uma AdE após um curto período de canalização.\n\n**Ataque Imersivo**\nReunindo o poder do Electro, Lisa mergulha ao chão em pleno ar, infligindo dano a todos os inimigos em seu caminho. Inflige Dano Electro em uma AdE durante o impacto com o chão.",
+      "attributes": [
+        {
+          "name": "Dano do 1° Golpe",
+          "parameters": [
+            "39.60%",
+            "42.57%",
+            "45.54%",
+            "49.50%",
+            "52.47%",
+            "55.44%",
+            "59.40%",
+            "63.36%",
+            "67.32%",
+            "71.28%",
+            "75.40%",
+            "80.78%",
+            "86.17%",
+            "91.56%",
+            "96.94%"
+          ]
+        },
+        {
+          "name": "Dano do 2° Golpe",
+          "parameters": [
+            "35.92%",
+            "38.61%",
+            "41.31%",
+            "44.90%",
+            "47.59%",
+            "50.29%",
+            "53.88%",
+            "57.47%",
+            "61.06%",
+            "64.66%",
+            "68.39%",
+            "73.28%",
+            "78.16%",
+            "83.05%",
+            "87.93%"
+          ]
+        },
+        {
+          "name": "Dano do 3° Golpe",
+          "parameters": [
+            "42.80%",
+            "46.01%",
+            "49.22%",
+            "53.50%",
+            "56.71%",
+            "59.92%",
+            "64.20%",
+            "68.48%",
+            "72.76%",
+            "77.04%",
+            "81.49%",
+            "87.31%",
+            "93.13%",
+            "98.95%",
+            "104.77%"
+          ]
+        },
+        {
+          "name": "Dano do 4° Golpe",
+          "parameters": [
+            "54.96%",
+            "59.08%",
+            "63.20%",
+            "68.70%",
+            "72.82%",
+            "76.94%",
+            "82.44%",
+            "87.94%",
+            "93.43%",
+            "98.93%",
+            "104.64%",
+            "112.12%",
+            "119.59%",
+            "127.07%",
+            "134.54%"
+          ]
+        },
+        {
+          "name": "Dano de Ataque Carregado",
+          "parameters": [
+            "177.12%",
+            "190.40%",
+            "203.69%",
+            "221.40%",
+            "234.68%",
+            "247.97%",
+            "265.68%",
+            "283.39%",
+            "301.10%",
+            "318.82%",
+            "337.24%",
+            "361.32%",
+            "385.41%",
+            "409.50%",
+            "433.59%"
+          ]
+        },
+        {
+          "name": "Consumo de Stamina de Ataque Carregado",
+          "parameters": [
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50",
+            "50"
+          ]
+        },
+        {
+          "name": "Dano Durante a Queda",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "Dano de Queda de Baixa/Alta Altitude",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Arco Violeta",
+      "info": "Canaliza o poder dos relâmpagos para se livrar de coisas incômodas.\n\n**Pressionar**\nLibera uma esfera relâmpago perseguidora.\nAo acertar, inflige Dano Electro e aplica um acúmulo do efeito Condutor (máximo de 3 acúmulos) nos inimigos em uma pequena AdE\n\n**Manter pressionado**\nApós um longo período de canalização, convoca os relâmpagos dos céus, infligindo Dano Electro massivo em todos os inimigos próximos baseado no número de acúmulos do efeito Condução aplicados neles, e remove seus efeitos de Condução.",
+      "description": "O Electro Púrpura é a vestimenta de uma Bruxa das Rosas",
+      "attributes": [
+        {
+          "name": "Dano de Toque",
+          "parameters": [
+            "80.00%",
+            "86.00%",
+            "92.00%",
+            "100.00%",
+            "106.00%",
+            "112.00%",
+            "120.00%",
+            "128.00%",
+            "136.00%",
+            "144.00%",
+            "152.00%",
+            "160.00%",
+            "170.00%",
+            "180.00%",
+            "190.00%"
+          ]
+        },
+        {
+          "name": "Recarga ao Pressionar",
+          "parameters": [
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s",
+            "1s"
+          ]
+        },
+        {
+          "name": "Dano não Condutor ao Manter Pressionado",
+          "parameters": [
+            "320.00%",
+            "344.00%",
+            "368.00%",
+            "400.00%",
+            "424.00%",
+            "448.00%",
+            "480.00%",
+            "512.00%",
+            "544.00%",
+            "576.00%",
+            "608.00%",
+            "640.00%",
+            "680.00%",
+            "720.00%",
+            "760.00%"
+          ]
+        },
+        {
+          "name": "Dano Condutor ao Manter Pressionado Camada 1",
+          "parameters": [
+            "368.00%",
+            "395.60%",
+            "423.20%",
+            "460.00%",
+            "487.60%",
+            "515.20%",
+            "552.00%",
+            "588.80%",
+            "625.60%",
+            "662.40%",
+            "699.20%",
+            "736.00%",
+            "782.00%",
+            "828.00%",
+            "874.00%"
+          ]
+        },
+        {
+          "name": "Dano Condutor ao Manter Pressionado Camada 2",
+          "parameters": [
+            "424.00%",
+            "455.80%",
+            "487.60%",
+            "530.00%",
+            "561.80%",
+            "593.60%",
+            "636.00%",
+            "678.40%",
+            "720.80%",
+            "763.20%",
+            "805.60%",
+            "848.00%",
+            "901.00%",
+            "954.00%",
+            "1007.00%"
+          ]
+        },
+        {
+          "name": "Dano Condutor ao Manter Pressionado Camada 3",
+          "parameters": [
+            "487.20%",
+            "523.74%",
+            "560.28%",
+            "609.00%",
+            "645.54%",
+            "682.08%",
+            "730.80%",
+            "779.52%",
+            "828.24%",
+            "876.96%",
+            "925.68%",
+            "974.40%",
+            "1035.30%",
+            "1096.20%",
+            "1157.10%"
+          ]
+        },
+        {
+          "name": "Recarga ao Manter Pressionado",
+          "parameters": [
+            "16s",
+            "16s",
+            "16s",
+            "16s",
+            "16s",
+            "16s",
+            "16s",
+            "16s",
+            "16s",
+            "16s",
+            "16s",
+            "16s",
+            "16s",
+            "16s",
+            "16s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Rosa do Relâmpago",
+      "info": "Evoca uma Rosa Elétrica que desfere poderosos relâmpagos, lançando inimigos próximos e infligindo Dano Electro.\nA Rosa Elétrica irá continuamente emitir raios que empurram os inimigos e infligem Dano Electro enquanto ela permanecer.",
+      "description": "Essa rosa é linda, mas tenha cuidado com seus espinhos mortais.",
+      "attributes": [
+        {
+          "name": "Dano de Descarga",
+          "parameters": [
+            "36.56%",
+            "39.30%",
+            "42.04%",
+            "45.70%",
+            "48.44%",
+            "51.18%",
+            "54.84%",
+            "58.50%",
+            "62.15%",
+            "65.81%",
+            "69.46%",
+            "73.12%",
+            "77.69%",
+            "82.26%",
+            "86.83%"
+          ]
+        },
+        {
+          "name": "Duração",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "Tempo de Recarga",
+          "parameters": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "name": "Energia Elemental",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Indução Pós-Choque",
+      "info": "Ao ser atingida por Ataques aplica o estado de Condutividade de **Arco Violeta** aos inimigos."
+    },
+    "passive2": {
+      "name": "Campo de Eletricidade Estática",
+      "info": "Inimigos acertados por **Rosa do Relâmpago** têm sua DEF diminuída em 15% por 10 segundos."
+    },
+    "passive3": {
+      "name": "Conhecimentos Farmacêuticos",
+      "info": "Quando a Lisa cria uma poção, ela possui 20% de chance de retornar uma porção dos materiais usados."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Ensinamentos de Poemas",
+          "count": 3
+        },
+        {
+          "name": "Condensado de Slime",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guia de Poemas",
+          "count": 2
+        },
+        {
+          "name": "Secreção de Slime",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guia de Poemas",
+          "count": 4
+        },
+        {
+          "name": "Secreção de Slime",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guia de Poemas",
+          "count": 6
+        },
+        {
+          "name": "Secreção de Slime",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guia de Poemas",
+          "count": 9
+        },
+        {
+          "name": "Secreção de Slime",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofia de Poemas",
+          "count": 4
+        },
+        {
+          "name": "Essência de Slime",
+          "count": 4
+        },
+        {
+          "name": "Garra do Vento Oriental",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofia de Poemas",
+          "count": 6
+        },
+        {
+          "name": "Essência de Slime",
+          "count": 6
+        },
+        {
+          "name": "Garra do Vento Oriental",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofia de Poemas",
+          "count": 12
+        },
+        {
+          "name": "Essência de Slime",
+          "count": 9
+        },
+        {
+          "name": "Garra do Vento Oriental",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofia de Poemas",
+          "count": 16
+        },
+        {
+          "name": "Essência de Slime",
+          "count": 12
+        },
+        {
+          "name": "Garra do Vento Oriental",
+          "count": 2
+        },
+        {
+          "name": "Coroa da Sabedoria",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_Catalyst_MD",
+      "combat2": "Skill_S_Lisa_01",
+      "combat3": "Skill_E_Lisa_01_HD",
+      "passive1": "UI_Talent_S_Lisa_05",
+      "passive2": "UI_Talent_S_Lisa_06",
+      "passive3": "UI_Talent_Combine_Potion"
+    },
+    "version": "1.0"
+  }
+}

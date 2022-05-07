@@ -1,0 +1,21 @@
+{
+  "name": "Prisme sombre",
+  "description": "Ce prisme pouvait autrefois polariser la lumière, mais il s'est assombri au fil des ans.",
+  "sortorder": 1768,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Butin de Suivante des Fatui",
+    "Échange Astrions"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dismal_Prism.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Dismal_Prism.png",
+    "nameicon": "UI_ItemIcon_112050"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dismal_Prism"
+  },
+  "version": ""
+}

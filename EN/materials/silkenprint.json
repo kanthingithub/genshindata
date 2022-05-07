@@ -1,0 +1,18 @@
+{
+  "name": "Silken Print",
+  "description": "A prayer plaque that displays lovely Inazuman scenery, carved upon exquisite Yumemiru Wood in full color.\nYou can use Sub-Space Creation to imprint this elegant scene upon your Serenitea Pot...",
+  "sortorder": 2615,
+  "rarity": "4",
+  "category": "CONSUME",
+  "materialtype": "Consumable",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_222001",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Silken_Print.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Item_Silken_Print.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Silken_Print"
+  },
+  "version": ""
+}

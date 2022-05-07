@@ -1,0 +1,26 @@
+{
+  "name": "Hướng Dẫn Của \"Kháng Chiến\"",
+  "description": "Nguyên liệu bồi dưỡng Thiên Phú.\nNền tảng đất nước của gió là kháng chiến.\nLịch sử của Mondstadt là lịch sử của kháng chiến. Kháng chiến là để người dân Mondstadt có thể tự do, như việc Phong Thần thổi tan những đám băng, như Vennessa đứng lên kháng chiến.",
+  "sortorder": 1855,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Thiên Phú",
+  "dropdomain": "Bí Cảnh Tinh Thông: Vực Sâu Lạnh Giá",
+  "daysofweek": [
+    "Thứ 3",
+    "Thứ 6",
+    "Chủ Nhật"
+  ],
+  "source": [
+    "Ghép Nhận"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Guide_to_Resistance.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Item_Guide_to_Resistance.png",
+    "nameicon": "UI_ItemIcon_104305"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Guide_to_Resistance"
+  },
+  "version": ""
+}

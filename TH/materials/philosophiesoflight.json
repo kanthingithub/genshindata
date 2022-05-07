@@ -1,0 +1,26 @@
+{
+  "name": "Philosophies of Light",
+  "description": "วัสดุยกระดับพรสวรรค์\nความปรารถนาของดินแดนแห่งสายฟ้าคือแสงของฟากฟ้า\nแม้ว่าจะอาศัยอยู่ใต้ดิน แต่มนุษย์ก็ยังคงเฝ้าปรารถนาแต่แสงแห่งฟากฟ้า และไล่ตามอย่างไม่หยุดยั้ง ถึงแม้ความเป็นนิรันดร์จะปิดนิ่งและเงียบสงบ แต่จริง ๆ แล้วแก่นแท้ของมันก็คือความตายนั่นเอง",
+  "sortorder": 1877,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุยกระดับพรสวรรค์",
+  "dropdomain": "ดันเจี้ยนแห่งการพัฒนา: เมืองโบราณที่รกร้าง",
+  "daysofweek": [
+    "วันพุธ",
+    "วันเสาร์",
+    "วันอาทิตย์"
+  ],
+  "source": [
+    "ได้รับจากการสรรสร้าง"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Light.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Item_Philosophies_of_Light.png",
+    "nameicon": "UI_ItemIcon_104328"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Light"
+  },
+  "version": ""
+}

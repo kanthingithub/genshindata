@@ -1,0 +1,311 @@
+{
+  "name": "진주를 문 해황",
+  "description": "바다의 황제, 건조 과정을 거치면 병기와 비상식량으로 사용할 수 있다",
+  "weapontype": "양손검",
+  "rarity": "4",
+  "baseatk": 41,
+  "substat": "공격력",
+  "subvalue": "12",
+  "effectname": "바다의 승리",
+  "effect": [
+    "원소폭발로 가하는 피해가 [12%] 증가한다. 원소폭발이 적을 명중하면, 100% 확률로 참다랑어를 소환해 공격력 [100%]의 범위 피해를 준다. 해당 효과는 15초마다 최대 1회 발동한다",
+    "원소폭발로 가하는 피해가 [15%] 증가한다. 원소폭발이 적을 명중하면, 100% 확률로 참다랑어를 소환해 공격력 [125%]의 범위 피해를 준다. 해당 효과는 15초마다 최대 1회 발동한다",
+    "원소폭발로 가하는 피해가 [18%] 증가한다. 원소폭발이 적을 명중하면, 100% 확률로 참다랑어를 소환해 공격력 [150%]의 범위 피해를 준다. 해당 효과는 15초마다 최대 1회 발동한다",
+    "원소폭발로 가하는 피해가 [21%] 증가한다. 원소폭발이 적을 명중하면, 100% 확률로 참다랑어를 소환해 공격력 [175%]의 범위 피해를 준다. 해당 효과는 15초마다 최대 1회 발동한다",
+    "원소폭발로 가하는 피해가 [24%] 증가한다. 원소폭발이 적을 명중하면, 100% 확률로 참다랑어를 소환해 공격력 [200%]의 범위 피해를 준다. 해당 효과는 15초마다 최대 1회 발동한다"
+  ],
+  "r1": [
+    "12%",
+    "100%"
+  ],
+  "r2": [
+    "15%",
+    "125%"
+  ],
+  "r3": [
+    "18%",
+    "150%"
+  ],
+  "r4": [
+    "21%",
+    "175%"
+  ],
+  "r5": [
+    "24%",
+    "200%"
+  ],
+  "weaponmaterialtype": "",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "모라",
+        "count": 5000
+      },
+      {
+        "name": "흑운철 한 알",
+        "count": 3
+      },
+      {
+        "name": "약한 뼛조각",
+        "count": 3
+      },
+      {
+        "name": "슬라임 응축액",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "모라",
+        "count": 15000
+      },
+      {
+        "name": "흑운철 조각",
+        "count": 3
+      },
+      {
+        "name": "약한 뼛조각",
+        "count": 12
+      },
+      {
+        "name": "슬라임 응축액",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "모라",
+        "count": 20000
+      },
+      {
+        "name": "흑운철 조각",
+        "count": 6
+      },
+      {
+        "name": "단단한 뼛조각",
+        "count": 6
+      },
+      {
+        "name": "슬라임청",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "모라",
+        "count": 30000
+      },
+      {
+        "name": "흑운철 일각",
+        "count": 3
+      },
+      {
+        "name": "단단한 뼛조각",
+        "count": 12
+      },
+      {
+        "name": "슬라임청",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "모라",
+        "count": 35000
+      },
+      {
+        "name": "흑운철 일각",
+        "count": 6
+      },
+      {
+        "name": "석화한 뼛조각",
+        "count": 9
+      },
+      {
+        "name": "슬라임 원액",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "모라",
+        "count": 45000
+      },
+      {
+        "name": "흑운철 덩이",
+        "count": 4
+      },
+      {
+        "name": "석화한 뼛조각",
+        "count": 18
+      },
+      {
+        "name": "슬라임 원액",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_MillenniaTuna.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_MillenniaTuna_Awaken.png",
+    "nameicon": "UI_EquipIcon_Claymore_MillenniaTuna",
+    "namegacha": "UI_Gacha_EquipIcon_Claymore_MillenniaTuna",
+    "nameawakenicon": "UI_EquipIcon_Claymore_MillenniaTuna_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Luxurious_Sea-Lord"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 41.067100524902344,
+      "specialized": 0.11999999731779099
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 53.63363305053463,
+      "specialized": 0.13943998978793637
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 69.07486476696522,
+      "specialized": 0.16356000057846298
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 84.26969215700228,
+      "specialized": 0.18780000266879782
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 99.25918424023803,
+      "specialized": 0.21203999045401822
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 125.1591838587683,
+      "specialized": 0.21203999045401822
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 139.98440965479494,
+      "specialized": 0.23627999254435306
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 154.68642349646507,
+      "specialized": 0.2605199946346879
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 169.22418084208584,
+      "specialized": 0.2847599824199083
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 183.6798001485222,
+      "specialized": 0.30899999881535756
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 209.67980205587082,
+      "specialized": 0.30899999881535756
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 224.05328332312274,
+      "specialized": 0.33323998660057796
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 238.34463634235,
+      "specialized": 0.3574800029960272
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 264.2446378682289,
+      "specialized": 0.3574800029960272
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 278.45386263943146,
+      "specialized": 0.38171999078124763
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 292.6220037043022,
+      "specialized": 0.40595997856646804
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 318.52199760078656,
+      "specialized": 0.40595997856646804
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 332.6080104176326,
+      "specialized": 0.4301999949619173
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 346.6529591104663,
+      "specialized": 0.4543199914473295
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 372.6529591104663,
+      "specialized": 0.4543199914473295
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 386.6568436792877,
+      "specialized": 0.4785599792325499
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 400.6607282481091,
+      "specialized": 0.5027999956279992
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 426.5607374033825,
+      "specialized": 0.5027999956279992
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 440.4824741418597,
+      "specialized": 0.5270400120234484
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 454.3631663386441,
+      "specialized": 0.55127997119844
+    }
+  },
+  "version": "2.1"
+}

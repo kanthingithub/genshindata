@@ -1,0 +1,19 @@
+{
+  "name": "Rana",
+  "description": "Una rana común que se encuentra en ambientes húmedos. Llena de energía, segrega una sustancia que vigoriza enormemente a cualquiera.",
+  "sortorder": 1972,
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [
+    "Recolectar en cuerpos de agua dulce"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Frog.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Item_Frog.png",
+    "nameicon": "UI_ItemIcon_100081"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Frog"
+  },
+  "version": ""
+}

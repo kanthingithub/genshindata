@@ -1,0 +1,21 @@
+{
+  "name": "Silk Flower",
+  "description": "Bunga merah dari Liyue yang mekar seperti awan. Bisa dijadikan kain sehalus sutra.",
+  "sortorder": 2050,
+  "category": "EXCHANGE",
+  "materialtype": "Produk khas Liyue",
+  "source": [
+    "Ditemukan di dekat Yujing Terrace, Liyue Harbor",
+    "Ditemukan di sekitar Wangshu Inn",
+    "Rekomendasi: Ditemukan di Liyue Harbor"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Silk_Flower.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Item_Silk_Flower.png",
+    "nameicon": "UI_ItemIcon_100029"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Silk_Flower"
+  },
+  "version": ""
+}

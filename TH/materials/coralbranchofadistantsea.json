@@ -1,0 +1,24 @@
+{
+  "name": "Coral Branch of a Distant Sea",
+  "description": "วัสดุเลื่อนขั้นอาวุธ\nในบรรดาหมู่เกาะของ Inazuma นั้น Watatsumi เป็นเกาะที่อยู่ห่างจากเกาะ Narukami มากที่สุด และชื่อของเกาะ Watatsumi ในภาษาโบราณนั้นมีความหมายว่า \"เทพผู้ปกครองแห่งท้องทะเล\" ตำนานเล่าว่า เมื่อครั้งที่อสรพิษยักษ์ได้ปรากฏตัวในดินแดนใต้ห้วงลึกเป็นครั้งแรกนั้น ตัวของมันปกคลุมไปด้วยกิ่งปะการังหลากสีสัน และเปล่งแสงออกมาอย่างสวยงาม",
+  "sortorder": 2207,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุเลื่อนขั้นอาวุธ",
+  "dropdomain": "ดันเจี้ยนแห่งการต่อสู้: ห้วงทรายในเหวลึก",
+  "daysofweek": [
+    "วันจันทร์",
+    "วันพฤหัสบดี",
+    "วันอาทิตย์"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Coral_Branch_of_a_Distant_Sea.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Item_Coral_Branch_of_a_Distant_Sea.png",
+    "nameicon": "UI_ItemIcon_114025"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Coral_Branch_of_a_Distant_Sea"
+  },
+  "version": ""
+}

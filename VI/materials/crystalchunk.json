@@ -1,0 +1,20 @@
+{
+  "name": "Mảnh Pha Lê",
+  "description": "Tinh thể chưa qua gọt giũa. Sau khi xử lý mới có thể tỏ rõ giá trị.",
+  "sortorder": 1956,
+  "category": "EXCHANGE",
+  "materialtype": "Quặng Đúc",
+  "source": [
+    "Thu Thập Bên Ngoài",
+    "Kiến nghị: Thu thập trong Phế Tích Phong Long"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crystal_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/Item_Crystal_Chunk.png",
+    "nameicon": "UI_ItemIcon_101003"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Crystal_Chunk"
+  },
+  "version": ""
+}

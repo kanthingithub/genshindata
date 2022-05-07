@@ -1,0 +1,20 @@
+{
+  "name": "Осколок дьявольского меча",
+  "description": "Осколок оружия, доставшийся вам после победы над Чайльдом, выпустившим на волю силу своего Глаза Порчи. \nКогда перед глазами мальчика предстала земля бескрайней тьмы, меч окрасился густым потусторонним цветом. \nХотя это и не имеет отношения к Глазу Порчи, но, как говорится, оружие походит на владельца...",
+  "sortorder": 1796,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Чайльд Ур. 70+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shard_of_a_Foul_Legacy.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Item_Shard_of_a_Foul_Legacy.png",
+    "nameicon": "UI_ItemIcon_113014"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shard_of_a_Foul_Legacy"
+  },
+  "version": ""
+}

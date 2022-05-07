@@ -1,0 +1,20 @@
+{
+  "name": "Giftstichling",
+  "description": "Ein schneller, grimmiger Fisch mit stacheligen Flossen, dessen stacheliges Maul die Strömung durchbohren kann, wenn er mit voller Geschwindigkeit schwimmt. Seine Fähigkeiten haben ihm die Spitznamen „Wasserdorn“ und „Bachpfeil“ eingebracht.\nDas bekannteste Merkmal des Giftstichlings sind seine giftigen Stacheln, die ein Nervengift enthalten, das für kleinere Beutetiere tödlich ist, sich aber bei großen Organismen als weitaus schwächer erweist und meist nur leichte Verwirrung oder Halluzinationen hervorruft.\n„Mach ihn voll, Rex Lapis, mein guter Junge! Füll ihn bis zum Rand für mich!“ – Ein gewisser Fischer aus Liyue, der von dem Giftstachel versehentlich gestochen wurde.",
+  "sortorder": 2022,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Fisch",
+  "source": [
+    "Beim Angeln zu erhalten"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Venomspine_Fish.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Venomspine_Fish.png",
+    "nameicon": "UI_ItemIcon_131008"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Venomspine_Fish"
+  },
+  "version": ""
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Rama enjoyada del mar distante",
+  "description": "Material de ascensión de arma.\nEste tipo de coral no puede encontrarse en ningún lugar de Teyvat. Es un regalo que obtuvo la gran serpiente cuando irrumpió en el mar oscuro. Para esta, que su cuerpo estuviera envuelto en coral simbolizaba el poder, por lo que cuando perdiera las ramas de coral, su poder también se desvanecería. En otras palabras, en las ramas de coral se esconde un poder extraordinario.",
+  "sortorder": 2208,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de ascensión de arma",
+  "dropdomain": "Dominio de la forja: Vestigios de las profundidades",
+  "daysofweek": [
+    "Lunes",
+    "Jueves",
+    "Domingo"
+  ],
+  "source": [
+    "Sintetizar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Jeweled_Branch_of_a_Distant_Sea.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Item_Jeweled_Branch_of_a_Distant_Sea.png",
+    "nameicon": "UI_ItemIcon_114026"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Jeweled_Branch_of_a_Distant_Sea"
+  },
+  "version": ""
+}

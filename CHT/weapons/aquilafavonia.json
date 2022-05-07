@@ -1,0 +1,317 @@
+{
+  "name": "風鷹劍",
+  "description": "西風騎士團的靈魂。歷經千年仍在呼喚{F#妳}{M#你}捲起正義之風，拔除奸邪，一如上一位揮舞此劍的女傑。",
+  "weapontype": "單手劍",
+  "rarity": "5",
+  "baseatk": 48,
+  "substat": "物理傷害加成",
+  "subvalue": "9",
+  "effectname": "西風之鷹的抗爭",
+  "effect": [
+    "攻擊力提高[20%]；受到傷害時觸發：高揚抗爭旗號的西風鷹之魂甦醒，恢復等同於攻擊力的[100%]的生命值，並對周圍的敵人造成[200%]攻擊力的傷害。該效果每15秒只能觸發一次。",
+    "攻擊力提高[25%]；受到傷害時觸發：高揚抗爭旗號的西風鷹之魂甦醒，恢復等同於攻擊力的[115%]的生命值，並對周圍的敵人造成[230%]攻擊力的傷害。該效果每15秒只能觸發一次。",
+    "攻擊力提高[30%]；受到傷害時觸發：高揚抗爭旗號的西風鷹之魂甦醒，恢復等同於攻擊力的[130%]的生命值，並對周圍的敵人造成[260%]攻擊力的傷害。該效果每15秒只能觸發一次。",
+    "攻擊力提高[35%]；受到傷害時觸發：高揚抗爭旗號的西風鷹之魂甦醒，恢復等同於攻擊力的[145%]的生命值，並對周圍的敵人造成[290%]攻擊力的傷害。該效果每15秒只能觸發一次。",
+    "攻擊力提高[40%]；受到傷害時觸發：高揚抗爭旗號的西風鷹之魂甦醒，恢復等同於攻擊力的[160%]的生命值，並對周圍的敵人造成[320%]攻擊力的傷害。該效果每15秒只能觸發一次。"
+  ],
+  "r1": [
+    "20%",
+    "100%",
+    "200%"
+  ],
+  "r2": [
+    "25%",
+    "115%",
+    "230%"
+  ],
+  "r3": [
+    "30%",
+    "130%",
+    "260%"
+  ],
+  "r4": [
+    "35%",
+    "145%",
+    "290%"
+  ],
+  "r5": [
+    "40%",
+    "160%",
+    "320%"
+  ],
+  "weaponmaterialtype": "Decarabian",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "摩拉",
+        "count": 10000
+      },
+      {
+        "name": "高塔孤王的破瓦",
+        "count": 5
+      },
+      {
+        "name": "沉重號角",
+        "count": 5
+      },
+      {
+        "name": "牢固的箭鏃",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "摩拉",
+        "count": 20000
+      },
+      {
+        "name": "高塔孤王的殘垣",
+        "count": 5
+      },
+      {
+        "name": "沉重號角",
+        "count": 18
+      },
+      {
+        "name": "牢固的箭鏃",
+        "count": 12
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "摩拉",
+        "count": 30000
+      },
+      {
+        "name": "高塔孤王的殘垣",
+        "count": 9
+      },
+      {
+        "name": "黑銅號角",
+        "count": 9
+      },
+      {
+        "name": "銳利的箭鏃",
+        "count": 9
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "摩拉",
+        "count": 45000
+      },
+      {
+        "name": "高塔孤王的斷片",
+        "count": 5
+      },
+      {
+        "name": "黑銅號角",
+        "count": 18
+      },
+      {
+        "name": "銳利的箭鏃",
+        "count": 14
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "摩拉",
+        "count": 55000
+      },
+      {
+        "name": "高塔孤王的斷片",
+        "count": 9
+      },
+      {
+        "name": "黑晶號角",
+        "count": 14
+      },
+      {
+        "name": "歷戰的箭鏃",
+        "count": 9
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "摩拉",
+        "count": 65000
+      },
+      {
+        "name": "高塔孤王的碎夢",
+        "count": 6
+      },
+      {
+        "name": "黑晶號角",
+        "count": 27
+      },
+      {
+        "name": "歷戰的箭鏃",
+        "count": 18
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Weapon_Aquila_Favonia.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Falcon.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Falcon_Awaken.png",
+    "nameicon": "UI_EquipIcon_Sword_Falcon",
+    "namegacha": "UI_Gacha_EquipIcon_Sword_Falcon",
+    "nameawakenicon": "UI_EquipIcon_Sword_Falcon_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Aquila_Favonia"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 47.5369987487793,
+      "specialized": 0.09000000357627869
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 65.03061573904415,
+      "specialized": 0.10457999883413294
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 87.32546729086016,
+      "specialized": 0.12267000805020345
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 110.14322193011867,
+      "specialized": 0.14085001074671766
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 133.2937397767564,
+      "specialized": 0.15903000271439538
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 164.39374015822614,
+      "specialized": 0.15903000271439538
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 187.97209398570067,
+      "specialized": 0.1772100054109096
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 211.88320535370258,
+      "specialized": 0.1953900081074238
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 236.07952937522532,
+      "specialized": 0.21357000007510152
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 260.56110005138,
+      "specialized": 0.2317500135004522
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 291.6611004328497,
+      "specialized": 0.2317500135004522
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 316.4278724288215,
+      "specialized": 0.24993000546812993
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 341.43233485871497,
+      "specialized": 0.26811001889348063
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 372.6323356216544,
+      "specialized": 0.26811001889348063
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 397.9220220387724,
+      "specialized": 0.28629001086115835
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 423.4018426691018,
+      "specialized": 0.3044700028288361
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 454.5018411432229,
+      "specialized": 0.3044700028288361
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 480.26690842818425,
+      "specialized": 0.32265001625418677
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 506.2220872589496,
+      "specialized": 0.3407400147414208
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 537.3220933624652,
+      "specialized": 0.3407400147414208
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 563.4674517412568,
+      "specialized": 0.3589200067090985
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 589.85050055397,
+      "specialized": 0.3771000201344492
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 620.9504913986966,
+      "specialized": 0.3771000201344492
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 647.5236744246213,
+      "specialized": 0.3952800335597999
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 674.3345478844676,
+      "specialized": 0.41346000406980465
+    }
+  },
+  "version": "1.0"
+}

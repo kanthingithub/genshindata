@@ -1,0 +1,311 @@
+{
+  "name": "Rothorn-Steinbrecher",
+  "description": "Seinem Vorbesitzer zufolge ist dies die Waffe des „mächtigen Rothorn-Löwenfürsten, der Stein und Gold brechen kann“ und jedes Monster in die Flucht schlägt.",
+  "weapontype": "Zweihänder",
+  "rarity": "5",
+  "baseatk": 44,
+  "substat": "KSCH",
+  "subvalue": "19.2",
+  "effectname": "Gokadaiou Otogibanashi",
+  "effect": [
+    "Erhöht die VTD um [28 %]. Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um [40 %] VTD.",
+    "Erhöht die VTD um [35 %]. Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um [50 %] VTD.",
+    "Erhöht die VTD um [42 %]. Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um [60 %] VTD.",
+    "Erhöht die VTD um [49 %]. Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um [70 %] VTD.",
+    "Erhöht die VTD um [56 %]. Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um [80 %] VTD."
+  ],
+  "r1": [
+    "28 %",
+    "40 %"
+  ],
+  "r2": [
+    "35 %",
+    "50 %"
+  ],
+  "r3": [
+    "42 %",
+    "60 %"
+  ],
+  "r4": [
+    "49 %",
+    "70 %"
+  ],
+  "r5": [
+    "56 %",
+    "80 %"
+  ],
+  "weaponmaterialtype": "",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 10000
+      },
+      {
+        "name": "Narukamis Weisheit",
+        "count": 5
+      },
+      {
+        "name": "Kralle der versteckten Monster",
+        "count": 5
+      },
+      {
+        "name": "Alter Handschutz",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Narukamis Freude",
+        "count": 5
+      },
+      {
+        "name": "Kralle der versteckten Monster",
+        "count": 18
+      },
+      {
+        "name": "Alter Handschutz",
+        "count": 12
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Narukamis Freude",
+        "count": 9
+      },
+      {
+        "name": "Versteckte Monsterklauen",
+        "count": 9
+      },
+      {
+        "name": "Kageuchi-Handschutz",
+        "count": 9
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Narukamis Zuneigung",
+        "count": 5
+      },
+      {
+        "name": "Versteckte Monsterklauen",
+        "count": 18
+      },
+      {
+        "name": "Kageuchi-Handschutz",
+        "count": 14
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 55000
+      },
+      {
+        "name": "Narukamis Zuneigung",
+        "count": 9
+      },
+      {
+        "name": "Versteckte Monsterkrallen",
+        "count": 14
+      },
+      {
+        "name": "Berühmter Handschutz",
+        "count": 9
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 65000
+      },
+      {
+        "name": "Narukamis Tapferkeit",
+        "count": 6
+      },
+      {
+        "name": "Versteckte Monsterkrallen",
+        "count": 27
+      },
+      {
+        "name": "Berühmter Handschutz",
+        "count": 18
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_EquipIcon_Claymore_Itadorimaru",
+    "namegacha": "UI_Gacha_EquipIcon_Claymore_Itadorimaru",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Itadorimaru.png",
+    "nameawakenicon": "UI_EquipIcon_Claymore_Itadorimaru_Awaken",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Itadorimaru_Awaken.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Redhorn_Stonethresher"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 44.33580017089844,
+      "specialized": 0.19200000166893005
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 58.3902502203764,
+      "specialized": 0.22310399058675756
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 75.7698821115282,
+      "specialized": 0.26169600904965407
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 93.01651095720445,
+      "specialized": 0.30048001359820375
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 110.17445877367209,
+      "specialized": 0.33926399525856965
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 141.2744591551418,
+      "specialized": 0.33926399525856965
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 158.3880849553425,
+      "specialized": 0.37804799980711934
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 175.5017001850647,
+      "specialized": 0.41683200435566903
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 192.6596585720108,
+      "specialized": 0.4556159860160349
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 209.81761695895693,
+      "specialized": 0.4944000134527684
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 240.91761734042666,
+      "specialized": 0.4944000134527684
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 258.1199083141182,
+      "specialized": 0.5331839951131343
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 275.4551970480461,
+      "specialized": 0.5719680225498678
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 306.65519781098556,
+      "specialized": 0.5719680225498678
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 323.9905076858704,
+      "specialized": 0.6107520042102337
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 341.4587941800346,
+      "specialized": 0.6495359858705996
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 372.5587926541557,
+      "specialized": 0.6495359858705996
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 390.1157866037247,
+      "specialized": 0.6883200133073331
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 407.80575717257307,
+      "specialized": 0.7269120088820458
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 438.9057632760887,
+      "specialized": 0.7269120088820458
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 456.6844201593849,
+      "specialized": 0.7656959905424117
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 474.551742216172,
+      "specialized": 0.8044800179791451
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 505.65173306089855,
+      "specialized": 0.8044800179791451
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 523.6964066056244,
+      "specialized": 0.8432640454158786
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 541.829766464798,
+      "specialized": 0.8820479812998769
+    }
+  },
+  "version": "2.3"
+}

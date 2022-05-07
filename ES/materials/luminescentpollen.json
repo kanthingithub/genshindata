@@ -1,0 +1,17 @@
+{
+  "name": "Polen fluorescente",
+  "description": "Pequeño montón de polvo brillante de las Esporas fúngicas. Es un ingrediente medicinal muy frecuente en la nación de las selvas tropicales. Los comerciantes suelen venderlo en bolsitas de papel.",
+  "sortorder": 1781,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Obtenido de Flotihongos (Niv. 40+)",
+    "Sintetizar"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_112060",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Luminescent_Pollen.png"
+  },
+  "version": "2.6"
+}

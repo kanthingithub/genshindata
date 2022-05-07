@@ -1,0 +1,261 @@
+{
+  "name": "Dominio de la bendición: La búsqueda de los arces",
+  "region": "Inazuma",
+  "domainEntrance": "Jardín del otoño",
+  "domainType": "Artefacto",
+  "description": "En este altar donde las hojas rojas revolotean en el viento, el verano y el otoño se separan en dos reinos que favorecen a Cryo y a Pyro respectivamente.\nAquellos capaces de superar la prueba tendrán la oportunidad de obtener valiosos artefactos y recibir ayuda en la búsqueda del destino que alguna vez fue truncado.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_ThunderCave_Dq"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Dominio de la bendición: La búsqueda de los arces I",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Pyro",
+        "Cryo"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "EXP de Amistad",
+          "count": 15
+        },
+        {
+          "name": "Corazón del Viajero",
+          "rarity": "3"
+        },
+        {
+          "name": "Milagro",
+          "rarity": "3"
+        },
+        {
+          "name": "Reminiscencia de la Purificación",
+          "rarity": "4"
+        },
+        {
+          "name": "Emblema del Destino",
+          "rarity": "4"
+        },
+        {
+          "name": "Corazón del Viajero",
+          "rarity": "4"
+        },
+        {
+          "name": "Milagro",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "La superficie de la plataforma del desafío cambiará de forma intermitente entre los estados “Oración a las llamas” y “Oración a la escarcha”. Dependiendo del estado, el personaje que esté parado sobre la plataforma obtendrá diferentes efectos.",
+        "Oración a las llamas: el personaje en uso obtiene un 60% de Bono de Daño Pyro.",
+        "Oración a la escarcha: el personaje en uso obtiene un 60% de Bono de Daño Cryo."
+      ],
+      "monsterlist": [
+        "Hilichurl Berserker",
+        "Hilichurl Lanzagranadas Electro",
+        "Hilichurl Ballestero Electro",
+        "Slime Electro",
+        "Mitachurl con Hacha Electro"
+      ]
+    },
+    {
+      "name": "Dominio de la bendición: La búsqueda de los arces II",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "Pyro",
+        "Cryo"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "EXP de Amistad",
+          "count": 20
+        },
+        {
+          "name": "Corazón del Viajero",
+          "rarity": "3"
+        },
+        {
+          "name": "Milagro",
+          "rarity": "3"
+        },
+        {
+          "name": "Reminiscencia de la Purificación",
+          "rarity": "4"
+        },
+        {
+          "name": "Emblema del Destino",
+          "rarity": "4"
+        },
+        {
+          "name": "Corazón del Viajero",
+          "rarity": "4"
+        },
+        {
+          "name": "Milagro",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "La superficie de la plataforma del desafío cambiará de forma intermitente entre los estados “Oración a las llamas” y “Oración a la escarcha”. Dependiendo del estado, el personaje que esté parado sobre la plataforma obtendrá diferentes efectos.",
+        "Oración a las llamas: el personaje en uso obtiene un 60% de Bono de Daño Pyro.",
+        "Oración a la escarcha: el personaje en uso obtiene un 60% de Bono de Daño Cryo."
+      ],
+      "monsterlist": [
+        "Hilichurl Lanzagranadas Electro",
+        "Slime Gigante Electro",
+        "Slime Mutante Electro",
+        "Mitachurl con Hacha Electro"
+      ]
+    },
+    {
+      "name": "Dominio de la bendición: La búsqueda de los arces III",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Pyro",
+        "Cryo"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "EXP de Amistad",
+          "count": 20
+        },
+        {
+          "name": "Corazón del Viajero",
+          "rarity": "3"
+        },
+        {
+          "name": "Milagro",
+          "rarity": "3"
+        },
+        {
+          "name": "Reminiscencia de la Purificación",
+          "rarity": "4"
+        },
+        {
+          "name": "Emblema del Destino",
+          "rarity": "4"
+        },
+        {
+          "name": "Corazón del Viajero",
+          "rarity": "4"
+        },
+        {
+          "name": "Milagro",
+          "rarity": "4"
+        },
+        {
+          "name": "Reminiscencia de la Purificación",
+          "rarity": "5"
+        },
+        {
+          "name": "Emblema del Destino",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "La superficie de la plataforma del desafío cambiará de forma intermitente entre los estados “Oración a las llamas” y “Oración a la escarcha”. Dependiendo del estado, el personaje que esté parado sobre la plataforma obtendrá diferentes efectos.",
+        "Oración a las llamas: el personaje en uso obtiene un 60% de Bono de Daño Pyro.",
+        "Oración a la escarcha: el personaje en uso obtiene un 60% de Bono de Daño Cryo."
+      ],
+      "monsterlist": [
+        "Slime Gigante Electro",
+        "Slime Mutante Electro",
+        "Mago del Abismo Electro"
+      ]
+    },
+    {
+      "name": "Dominio de la bendición: La búsqueda de los arces IV",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "Pyro",
+        "Cryo"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "EXP de Amistad",
+          "count": 20
+        },
+        {
+          "name": "Corazón del Viajero",
+          "rarity": "3"
+        },
+        {
+          "name": "Milagro",
+          "rarity": "3"
+        },
+        {
+          "name": "Reminiscencia de la Purificación",
+          "rarity": "4"
+        },
+        {
+          "name": "Emblema del Destino",
+          "rarity": "4"
+        },
+        {
+          "name": "Corazón del Viajero",
+          "rarity": "4"
+        },
+        {
+          "name": "Milagro",
+          "rarity": "4"
+        },
+        {
+          "name": "Reminiscencia de la Purificación",
+          "rarity": "5"
+        },
+        {
+          "name": "Emblema del Destino",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "La superficie de la plataforma del desafío cambiará de forma intermitente entre los estados “Oración a las llamas” y “Oración a la escarcha”. Dependiendo del estado, el personaje que esté parado sobre la plataforma obtendrá diferentes efectos.",
+        "Oración a las llamas: el personaje en uso obtiene un 60% de Bono de Daño Pyro.",
+        "Oración a la escarcha: el personaje en uso obtiene un 60% de Bono de Daño Cryo."
+      ],
+      "monsterlist": [
+        "Slime Gigante Electro",
+        "Mago del Abismo Electro",
+        "Lawachurl Electroyelmo"
+      ]
+    }
+  ]
+}

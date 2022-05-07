@@ -1,0 +1,20 @@
+{
+  "name": "Abiding Angelfish",
+  "description": "ปลาผีเสื้อหายากสุดล้ำค่าที่อาศัยอยู่ใน Liyue ปัจจุบันพบได้เฉพาะในแหล่งน้ำใกล้ที่พำนักของเซียนเท่านั้น ลายเส้นสีขาวบนผิวของมันโดดเด่นเป็นอย่างมาก เมื่อเทียบกับสายพันธุ์อื่น ๆ ที่คล้ายคลึงกันพวกมันมีช่วงชีวิตที่ยาวกว่า ถือได้ว่าเป็นปลานำโชคที่ได้รับพรจากเซียน\nเนื่องจากความเคารพที่มีต่อเหล่าเซียน ทำให้ชาว Liyue ส่วนใหญ่ปฏิเสธที่จะกินปลาผีเสื้อชนิดนี้ แต่ก็มีคนส่วนน้อยที่ไม่เชื่อเรื่องโชคลาง และอ้างว่าการกินปลาผีเสื้อชนิดนี้สามารถทำให้อายุยืนได้",
+  "sortorder": 2030,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "ปลา",
+  "source": [
+    "ได้รับจากการตกปลา"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Abiding_Angelfish.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/66/Item_Abiding_Angelfish.png",
+    "nameicon": "UI_ItemIcon_131016"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Abiding_Angelfish"
+  },
+  "version": ""
+}

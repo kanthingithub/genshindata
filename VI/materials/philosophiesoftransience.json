@@ -1,0 +1,26 @@
+{
+  "name": "Triết Học Của \"Phù Thế\"",
+  "description": "Nguyên liệu bồi dưỡng thiên phú.\nGiấc mơ của Lôi Quốc là khoảnh khắc nơi trần thế.\nSự ngắn ngủi của khoảnh khắc phù du lại là vẻ đẹp vốn có của con người. Con người trên thế gian này chẳng phải cũng giống như ánh sáng sao? Giây phút thần uy lóe sáng ấy thật rực rỡ, còn tiếng gọi uy nghiêm của vĩnh hằng chẳng biết mấy ai có thể chịu được đây?",
+  "sortorder": 1871,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Thiên Phú",
+  "dropdomain": "Bí Cảnh Tinh Thông: Vương Triều Tím",
+  "daysofweek": [
+    "Thứ 2",
+    "Thứ 5",
+    "Chủ Nhật"
+  ],
+  "source": [
+    "Ghép Nhận"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Transience.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Item_Philosophies_of_Transience.png",
+    "nameicon": "UI_ItemIcon_104322"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Transience"
+  },
+  "version": ""
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Философия о «Золоте»",
+  "description": "Материал повышения таланта.\nЗолото - это символ царства земли.\nЗолото - это богатство Ли Юэ, но истинное богатство Ли Юэ - это сердца его народа, которые сияют ярче золота.",
+  "sortorder": 1868,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Повышение талантов",
+  "dropdomain": "Мастерство: Палящий круг",
+  "daysofweek": [
+    "Среда",
+    "Суббота",
+    "Воскресенье"
+  ],
+  "source": [
+    "Алхимия"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Gold.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_Philosophies_of_Gold.png",
+    "nameicon": "UI_ItemIcon_104318"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Gold"
+  },
+  "version": ""
+}

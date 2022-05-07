@@ -1,0 +1,19 @@
+{
+  "name": "흰 무",
+  "description": "섬유질이 풍부한 초본식물. 쉽게 재배할 수 있으며, 섬유질과 영양가가 풍부하다",
+  "sortorder": 1980,
+  "category": "EXCHANGE",
+  "materialtype": "식자재",
+  "source": [
+    "야외 채집"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Radish.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Item_Radish.png",
+    "nameicon": "UI_ItemIcon_100014"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Radish"
+  },
+  "version": ""
+}

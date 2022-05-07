@@ -1,0 +1,19 @@
+{
+  "name": "Zucker",
+  "description": "Ein Extrakt aus Zuckerblumen. Dieser süße Stoff, reich an Energie, belebt Körper und Seele.",
+  "sortorder": 1530,
+  "category": "EXCHANGE",
+  "materialtype": "Zutat",
+  "source": [
+    "Beim Verarbeiten von Gerichten zu erhalten"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sugar.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Item_Sugar.png",
+    "nameicon": "UI_ItemIcon_110006"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sugar"
+  },
+  "version": ""
+}

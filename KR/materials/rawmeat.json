@@ -1,0 +1,19 @@
+{
+  "name": "짐승고기",
+  "description": "짐승의 신선한 고깃덩이. 적절히 조리하면 원기를 충전할 수 있는 맛있는 요리가 된다",
+  "sortorder": 1989,
+  "category": "EXCHANGE",
+  "materialtype": "식자재",
+  "source": [
+    "동물 드랍"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Raw_Meat.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Item_Raw_Meat.png",
+    "nameicon": "UI_ItemIcon_100061"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Raw_Meat"
+  },
+  "version": ""
+}

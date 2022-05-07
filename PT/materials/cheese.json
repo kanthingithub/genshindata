@@ -1,0 +1,19 @@
+{
+  "name": "Queijo",
+  "description": "Feito com leite fermentado. Fornece grande quantidade de energia e inúmeras possibilidades de uso. É usado em grande diversidade de pratos.",
+  "sortorder": 1532,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente",
+  "source": [
+    "Processado"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cheese.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Item_Cheese.png",
+    "nameicon": "UI_ItemIcon_110009"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cheese"
+  },
+  "version": ""
+}

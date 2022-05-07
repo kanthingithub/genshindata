@@ -1,0 +1,19 @@
+{
+  "name": "Lait",
+  "description": "Du lait de vache riche et frais. N'en perdez pas une goutte, même pas celle qui coule sur votre menton.",
+  "sortorder": 1998,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrédient",
+  "source": [
+    "Épiceries"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Milk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Item_Milk.png",
+    "nameicon": "UI_ItemIcon_100078"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Milk"
+  },
+  "version": ""
+}

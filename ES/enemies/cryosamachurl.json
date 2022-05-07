@@ -1,0 +1,125 @@
+{
+  "name": "Samachurl Cryo",
+  "specialname": "Lata Sada",
+  "enemytype": "COMMON",
+  "category": "Hilichurls",
+  "description": "Un Hilichurl anciano que utiliza el elemento Cryo y siempre está mascullando entre dientes.\nLa capacidad de los Hilichurls para controlar los elementos suele alcanzar su punto máximo en la vejez. Este chamán conoce en profundidad los secretos del hielo y es experto en usarlos contra sus oponentes.",
+  "investigation": {
+    "name": "Samachurl",
+    "category": "Normal",
+    "description": "Un chamán o sacerdote de los Hilichurls. Puede obtener hasta cierto punto la ayuda de los elementos.\\n“El diseño de su máscara tiene la finalidad de intimidar a sus enemigos, pero en realidad les da un aspecto amistoso”. (Cita de Jacob Musk)"
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Pergamino guía",
+      "count": 2.5212
+    },
+    {
+      "name": "Pergamino hechizado",
+      "count": 0.6723
+    },
+    {
+      "name": "Pergamino maldito",
+      "count": 0.168
+    },
+    {
+      "name": "Máscara dañada",
+      "count": 0.1681
+    },
+    {
+      "name": "Máscara sucia",
+      "count": 0.0448
+    },
+    {
+      "name": "Máscara amenazante",
+      "count": 0.0112
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Shaman_Ice_01"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 72.91699315141886,
+      "attack": 50.7554633884979,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 286.60405358325806,
+      "attack": 135.60555636454865,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 885.2000012823846,
+      "attack": 334.49994312109993,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 1472.8003266277956,
+      "attack": 546.3532146642319,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 2694.8494634823874,
+      "attack": 816.8277909612516,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 4996.484255924821,
+      "attack": 1259.6545275573953,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 8381.254813112319,
+      "attack": 1773.8488056003553,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 13051.972637389787,
+      "attack": 2448.714439719188,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 18565.727540502325,
+      "attack": 3150.5301443184726,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 24354.086677422747,
+      "attack": 3806.2746266754402,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 36765.12154009938,
+      "attack": 4924.4178549494245,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 53502.31372169405,
+      "attack": 5022.194437805883,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 71986.31672338396,
+      "attack": 5120.655595880526,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

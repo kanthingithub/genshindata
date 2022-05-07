@@ -1,0 +1,22 @@
+{
+  "name": "重い角笛",
+  "description": "ざらざらした角笛、ヒルチャールが仲間に警告を送るための道具。破損箇所が多いため、音を出す機能は失われている。",
+  "sortorder": 1735,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "キャラクター育成素材",
+  "source": [
+    "ヒルチャール暴徒でドロップ",
+    "ヒルチャール王者でドロップ",
+    "スターダスト交換"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Heavy_Horn.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c0/Item_Heavy_Horn.png",
+    "nameicon": "UI_ItemIcon_112014"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Heavy_Horn"
+  },
+  "version": ""
+}

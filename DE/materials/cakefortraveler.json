@@ -1,0 +1,18 @@
+{
+  "name": "#Torte für {F#die Reisende}{M#den Reisenden}",
+  "description": "Ein Geschenk für einen ganz besonderen Menschen an einem ganz besonderen Tag.\n\nAuf dich, {F#die}{M#der} du in diesem Land viel zu tun hast.\nWir wünschen dir eine fröhliche Reise in dieser großen Welt.\n\n„Jede Woche werden die empfohlenen Gerichte aktualisiert. Jeden Monat schickt der Mond neue Segnungen herab. Aber oh, es wird noch fast neuntausend Stunden dauern, bis wir diesen Tag wieder feiern können! Und damit meint Paimon, dass sie dich den ganzen Weg begleiten wird, {F#Reisende}{M#Reisender}!“",
+  "sortorder": 2277,
+  "rarity": "4",
+  "category": "CONSUME",
+  "materialtype": "Wertvolles Objekt",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_118003",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cake_for_Traveler.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Item_Cake_for_Traveler.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cake_for_Traveler"
+  },
+  "version": ""
+}

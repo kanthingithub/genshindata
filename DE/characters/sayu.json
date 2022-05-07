@@ -1,0 +1,992 @@
+{
+  "name": "Sayu",
+  "fullname": "Sayu",
+  "title": "Mujina-Ninja",
+  "description": "Ein winziger Ninja, der zum Shuumatsuban gehört und immer unter Schlafmangel zu leiden scheint.",
+  "rarity": "4",
+  "element": "Anemo",
+  "weapontype": "Zweihänder",
+  "substat": "Elementarkunde",
+  "gender": "Weiblich",
+  "body": "LOLI",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "Shuumatsuban",
+  "birthdaymmdd": "10/19",
+  "birthday": "19. Oktober",
+  "constellation": "Nyctereutes Minor",
+  "cv": {
+    "english": "Lilypichu (Lily Ki)",
+    "chinese": "Sakula小舞",
+    "japanese": "洲崎綾",
+    "korean": "Lee Ji-hyeon"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vayuda-Türkis-Splitter",
+        "count": 1
+      },
+      {
+        "name": "Kristallmark",
+        "count": 3
+      },
+      {
+        "name": "Vaniloqua-Nektar",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Vayuda-Türkis-Bruchstück",
+        "count": 3
+      },
+      {
+        "name": "Marionettenkern",
+        "count": 2
+      },
+      {
+        "name": "Kristallmark",
+        "count": 10
+      },
+      {
+        "name": "Vaniloqua-Nektar",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Vayuda-Türkis-Bruchstück",
+        "count": 6
+      },
+      {
+        "name": "Marionettenkern",
+        "count": 4
+      },
+      {
+        "name": "Kristallmark",
+        "count": 20
+      },
+      {
+        "name": "Leuchtender Nektar",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Vayuda-Türkis-Brocken",
+        "count": 3
+      },
+      {
+        "name": "Marionettenkern",
+        "count": 8
+      },
+      {
+        "name": "Kristallmark",
+        "count": 30
+      },
+      {
+        "name": "Leuchtender Nektar",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Vayuda-Türkis-Brocken",
+        "count": 6
+      },
+      {
+        "name": "Marionettenkern",
+        "count": 12
+      },
+      {
+        "name": "Kristallmark",
+        "count": 45
+      },
+      {
+        "name": "Elementarnektar",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Vayuda-Türkis",
+        "count": 6
+      },
+      {
+        "name": "Marionettenkern",
+        "count": 20
+      },
+      {
+        "name": "Kristallmark",
+        "count": 60
+      },
+      {
+        "name": "Elementarnektar",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sayu.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Sayu.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210730/2021073014304964016.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210803/2021080312080918753.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/94b60ed23cb102d39f99335e9658b17d.png",
+    "nameicon": "UI_AvatarIcon_Sayu",
+    "nameiconcard": "UI_AvatarIcon_Sayu_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Sayu",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Sayu",
+    "namesideicon": "UI_AvatarIcon_Side_Sayu"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sayu"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 993.8521728515625,
+      "attack": 20.47920036315918,
+      "defense": 62.43247604370117,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2553.206237742532,
+      "attack": 52.61106585013886,
+      "defense": 160.3890313135098,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3295.664733836282,
+      "attack": 67.91043566215058,
+      "defense": 207.02928247317777,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4936.51445700886,
+      "attack": 101.72159104783623,
+      "defense": 310.10528696523215,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5464.050711891672,
+      "attack": 112.59219651658623,
+      "defense": 343.2444089745095,
+      "specialized": 24
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6284.972818976792,
+      "attack": 129.5080203913849,
+      "defense": 394.8136475236224,
+      "specialized": 24
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6988.3545328439795,
+      "attack": 144.0021610163849,
+      "defense": 438.99914862225523,
+      "specialized": 48
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7809.2766399290995,
+      "attack": 160.91798489118355,
+      "defense": 490.56838717136816,
+      "specialized": 48
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8336.813016882224,
+      "attack": 171.78859035993355,
+      "defense": 523.70751681004,
+      "specialized": 48
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9156.740869922505,
+      "attack": 188.6839267534424,
+      "defense": 575.2142976380437,
+      "specialized": 48
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 9684.277002735005,
+      "attack": 199.5545322221924,
+      "defense": 608.3534120179265,
+      "specialized": 72
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 10505.19863591448,
+      "attack": 216.47034633174735,
+      "defense": 659.922620796915,
+      "specialized": 72
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11032.735012867604,
+      "attack": 227.34095180049735,
+      "defense": 693.0617504355869,
+      "specialized": 96
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 11853.657119952724,
+      "attack": 244.256775675296,
+      "defense": 744.6309889846998,
+      "specialized": 96
+    }
+  },
+  "version": "2.0",
+  "constellations": {
+    "c1": {
+      "name": "Konzentrationstechnik",
+      "effect": "Der Mujimuji-Daruma von **Juhu-Stil – Mujina-Wirrsal** ignoriert die LP-Beschränkungen und kann somit gleichzeitig Gegner in der Nähe angreifen und die LP von Figuren wiederherstellen."
+    },
+    "c2": {
+      "name": "Fluchtweg",
+      "effect": "Gewährt **Juhu-Stil – Fuuin-Stoß** folgende Effekte:\n· Erhöht den mit dem Fuufuu-Windradtritt beim Drücken verursachten Schaden um 3,3 %.\n· Erhöht den mit dem Fuufuu-Windradtritt im Fuufuu-Windradmodus beim Gedrückthalten verursachten Schaden für dieses Mal alle 0,5 s um 3,3 %. Erhöhung des mit dem Fuufuu-Windraftritt verursachten Schadens um bis zu 66 % auf diese Weise möglich."
+    },
+    "c3": {
+      "name": "Ein Fall für Doppelgänger",
+      "effect": "Erhöht die Stufe der Fähigkeit **Juhu-Stil – Mujina-Wirrsal** um 3.\nHöchststufe 15."
+    },
+    "c4": {
+      "name": "Profischwänzen",
+      "effect": "Stellt 1,2 Punkte Elementarenergie wieder her, wenn Sayu auf dem Schlachtfeld eine Verwirbelung auslöst.\n2 s Abklingzeit."
+    },
+    "c5": {
+      "name": "Schneller ist besser",
+      "effect": "Erhöht die Stufe der Fähigkeit **Juhu-Stil – Fuuin-Stoß** um 3.\nHöchststufe 15."
+    },
+    "c6": {
+      "name": "Schlafenszeit",
+      "effect": "Erhöht den ANG und die Heilung des von Sayu selbst mit **Juhu-Stil – Mujina-Wirrsal** beschworenen Mujimuji-Daruma basierend auf Sayus Elementarkunde. Löst für jeden einzelnen Punkt Elementarkunde folgende Boni aus:\n· Erhöht den mit Angriffen von Mujimuji-Daruma verursachten Schaden zusätzlich um 0,2 % ANG. Zusätzlicher Schaden in Höhe von bis zu 400 % ANG auf diese Weise möglich.\n· Erhöht die Heilung von Mujimuji-Daruma um 3 LP. Zusätzliche Heilung von bis zu 6.000 LP auf diese Weise möglich."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sayu_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sayu_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Sayu_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sayu_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Sayu_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sayu_04.png",
+      "constellation": "Eff_UI_Talent_Sayu"
+    },
+    "version": "2.0"
+  },
+  "talent": {
+    "name": "Sayu",
+    "combat1": {
+      "name": "Standardangriff: Ninja-Klinge des Shuumatsuban",
+      "info": "**Standardangriff**\nFührt bis zu 4 Schwünge mit dem Schwert hintereinander aus.\n\n**Heftiger Schlag**\nVerbraucht fortlaufend Ausdauer, wirbelt das Großschwert und greift Gegner in der Umgebung an.\nSchwingt das Schwert am Ende mit besonders großer Wucht.\n\n**Angriff aus dem Fall**\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "attributes": [
+        {
+          "name": "SCH Phase 1",
+          "parameters": [
+            "72.24%",
+            "78.12%",
+            "84.00%",
+            "92.40%",
+            "98.28%",
+            "105.00%",
+            "114.24%",
+            "123.48%",
+            "132.72%",
+            "142.80%",
+            "154.35%",
+            "167.93%",
+            "181.52%",
+            "195.10%",
+            "209.92%"
+          ]
+        },
+        {
+          "name": "SCH Phase 2",
+          "parameters": [
+            "71.38%",
+            "77.19%",
+            "83.00%",
+            "91.30%",
+            "97.11%",
+            "103.75%",
+            "112.88%",
+            "122.01%",
+            "131.14%",
+            "141.10%",
+            "152.51%",
+            "165.93%",
+            "179.35%",
+            "192.78%",
+            "207.42%"
+          ]
+        },
+        {
+          "name": "SCH Phase 3",
+          "parameters": [
+            "43.43% + 43.43%",
+            "46.97% + 46.97%",
+            "50.50% + 50.50%",
+            "55.55% + 55.55%",
+            "59.08% + 59.08%",
+            "63.13% + 63.13%",
+            "68.68% + 68.68%",
+            "74.23% + 74.23%",
+            "79.79% + 79.79%",
+            "85.85% + 85.85%",
+            "92.79% + 92.79%",
+            "100.96% + 100.96%",
+            "109.13% + 109.13%",
+            "117.29% + 117.29%",
+            "126.20% + 126.20%"
+          ]
+        },
+        {
+          "name": "SCH Phase 4",
+          "parameters": [
+            "98.13%",
+            "106.11%",
+            "114.10%",
+            "125.51%",
+            "133.50%",
+            "142.62%",
+            "155.18%",
+            "167.73%",
+            "180.28%",
+            "193.97%",
+            "209.66%",
+            "228.11%",
+            "246.56%",
+            "265.01%",
+            "285.14%"
+          ]
+        },
+        {
+          "name": "SCH heftiger Schläge pro Runde",
+          "parameters": [
+            "62.55%",
+            "67.64%",
+            "72.73%",
+            "80.00%",
+            "85.09%",
+            "90.91%",
+            "98.91%",
+            "106.91%",
+            "114.91%",
+            "123.64%",
+            "133.64%",
+            "145.40%",
+            "157.16%",
+            "168.92%",
+            "181.75%"
+          ]
+        },
+        {
+          "name": "SCH heftiger Schläge am Ende",
+          "parameters": [
+            "113.09%",
+            "122.29%",
+            "131.50%",
+            "144.65%",
+            "153.86%",
+            "164.37%",
+            "178.84%",
+            "193.31%",
+            "207.77%",
+            "223.55%",
+            "241.63%",
+            "262.89%",
+            "284.16%",
+            "305.42%",
+            "328.62%"
+          ]
+        },
+        {
+          "name": "Ausdauerverbrauch heftiger Schläge",
+          "parameters": [
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s"
+          ]
+        },
+        {
+          "name": "Höchstdauer",
+          "parameters": [
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen",
+          "parameters": [
+            "74.59%",
+            "80.66%",
+            "86.73%",
+            "95.40%",
+            "101.47%",
+            "108.41%",
+            "117.95%",
+            "127.49%",
+            "137.03%",
+            "147.44%",
+            "157.85%",
+            "168.26%",
+            "178.66%",
+            "189.07%",
+            "199.48%"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen aus niedriger/großer Höhe",
+          "parameters": [
+            "149.14%/186.29%",
+            "161.28%/201.45%",
+            "173.42%/216.62%",
+            "190.77%/238.28%",
+            "202.91%/253.44%",
+            "216.78%/270.77%",
+            "235.86%/294.60%",
+            "254.93%/318.42%",
+            "274.01%/342.25%",
+            "294.82%/368.25%",
+            "315.63%/394.24%",
+            "336.44%/420.23%",
+            "357.25%/446.23%",
+            "378.06%/472.22%",
+            "398.87%/498.21%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Juhu-Stil – Fuuin-Stoß",
+      "info": "Die Spezialtechnik der Ninja-Kunst des Juhu-Stils in einem über das Schlachtfeld rollenden Fuufuu-Windrad!\nRollt in einem Windrad mit hoher Geschwindigkeit umher, stößt gegen Gegner und verursacht Anemo-Schaden. Löst am Ende einen Windradtritt aus und verursacht Anemo-Flächenschaden.\n\n**Drücken**\nStartet den Windradmodus und rollt kurz nach vorn, bis ein Windradtritt ausgelöst wird.\n\n**Gedrückt halten**\nRollt fortlaufend in Windradform und erhöht Sayus Unterbrechungs-WDS in diesem Zustand.\nSayu kann während der Wirkungsdauer die Rollrichtung steuern und diesen Zustand durch erneutes Auslösen der Fähigkeit vorzeitig beenden, wodurch ein im Vergleich zum Drücken der Fähigkeit noch stärkerer Fuufuu-Windradtritt ausgelöst wird.\nBeim Gedrückthalten dieser Fähigkeit kann eine Elementarumwandlung stattfinden.\n\nHält bis zu 10 s. Startet am Ende des Effekts eine Abklingphase. Je länger der Zustand des Windradmodus anhält, desto länger wird die Abklingphase.\n\n**Elementarumwandlung**\nVerleiht Sayu beim Treffen auf Hydro-, Pyro-, Kryo- oder Elektro-Effekte im Windradmodus das jeweilige Element und verursacht mit dem Windrad sowie dem Windradtritt dementsprechend zusätzlichen Schaden.\nElementarumwandlung nur einmal während der Wirkungsdauer möglich.",
+      "description": "Sayu ist so geübt in dieser Fähigkeit, dass sie sie mit geschlossenen Augen anwenden könnte. Eigentlich war sie als Mittel zur Flucht gedacht. Jetzt, da sie ein Göttliches Auge hat, kann sie ihren Feinden dabei wenigstens ordentlich zusetzen.",
+      "attributes": [
+        {
+          "name": "SCH durch Fuufuu-Windrad",
+          "parameters": [
+            "36.00%",
+            "38.70%",
+            "41.40%",
+            "45.00%",
+            "47.70%",
+            "50.40%",
+            "54.00%",
+            "57.60%",
+            "61.20%",
+            "64.80%",
+            "68.40%",
+            "72.00%",
+            "76.50%",
+            "81.00%",
+            "85.50%"
+          ]
+        },
+        {
+          "name": "SCH bei Drücken des Fuufuu-Windradtritts",
+          "parameters": [
+            "158.40%",
+            "170.28%",
+            "182.16%",
+            "198.00%",
+            "209.88%",
+            "221.76%",
+            "237.60%",
+            "253.44%",
+            "269.28%",
+            "285.12%",
+            "300.96%",
+            "316.80%",
+            "336.60%",
+            "356.40%",
+            "376.20%"
+          ]
+        },
+        {
+          "name": "SCH bei Gedrückthalten des Fuufuu-Windradtritts",
+          "parameters": [
+            "217.60%",
+            "233.92%",
+            "250.24%",
+            "272.00%",
+            "288.32%",
+            "304.64%",
+            "326.40%",
+            "348.16%",
+            "369.92%",
+            "391.68%",
+            "413.44%",
+            "435.20%",
+            "462.40%",
+            "489.60%",
+            "516.80%"
+          ]
+        },
+        {
+          "name": "Elementar-SCH durch Fuufuu-Windrad",
+          "parameters": [
+            "16.80%",
+            "18.06%",
+            "19.32%",
+            "21.00%",
+            "22.26%",
+            "23.52%",
+            "25.20%",
+            "26.88%",
+            "28.56%",
+            "30.24%",
+            "31.92%",
+            "33.60%",
+            "35.70%",
+            "37.80%",
+            "39.90%"
+          ]
+        },
+        {
+          "name": "Elementar-SCH bei Gedrückthalten des Fuufuu-Windradtritts",
+          "parameters": [
+            "76.16%",
+            "81.87%",
+            "87.58%",
+            "95.20%",
+            "100.91%",
+            "106.62%",
+            "114.24%",
+            "121.86%",
+            "129.47%",
+            "137.09%",
+            "144.70%",
+            "152.32%",
+            "161.84%",
+            "171.36%",
+            "180.88%"
+          ]
+        },
+        {
+          "name": "Höchstdauer beim Gedrückthalten",
+          "parameters": [
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s"
+          ]
+        },
+        {
+          "name": "Abklingzeit",
+          "parameters": [
+            "6 bis 11 s",
+            "6 bis 11 s",
+            "6 bis 11 s",
+            "6 bis 11 s",
+            "6 bis 11 s",
+            "6 bis 11 s",
+            "6 bis 11 s",
+            "6 bis 11 s",
+            "6 bis 11 s",
+            "6 bis 11 s",
+            "6 bis 11 s",
+            "6 bis 11 s",
+            "6 bis 11 s",
+            "6 bis 11 s",
+            "6 bis 11 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Juhu-Stil – Mujina-Wirrsal",
+      "info": "Die andere Spezialtechnik der Ninja-Kunst des Juhu-Stils, wodurch Sayu ein Paar helfende Hände erhält!\nFügt Gegnern in der Nähe Anemo-Schaden zu, stellt Truppenmitgliedern in der Nähe LP basierend auf Sayus ANG wieder her und beschwört einen „Mujimuji-Daruma“.\n\n**Mujimuji-Daruma**\nFührt in bestimmten Zeitabständen je nach Situation in der Nähe verschiedenen Handlungen aus:\n· Greift bei Anwesenheit von Figuren ausschließlich mit mehr als 70 % LP einen Gegner in der Nähe an und verursacht Anemo-Schaden.\n· Stellt bei Anwesenheit von Figuren auf dem Feld mit bis zu 70 % LP der Figur mit den prozentual wenigsten LP ihre LP basierend auf Sayus ANG wieder her. Stellt einer Figur in der Nähe auch bei mehr als 70 % LP ihre LP wieder her, wenn in der Nähe kein Gegner ist.",
+      "description": "Leute, die keine Ahnung von Ninja-Künsten haben, sehen Sayu häufig gern zu, wie sie diese demonstriert. Der ein oder andere will sich auch eine Technik abschauen. Am liebsten würde Sayu aber einfach nur schlafen und nicht gestört werden.",
+      "attributes": [
+        {
+          "name": "SCH bei Anwendung der Fähigkeit",
+          "parameters": [
+            "116.80%",
+            "125.56%",
+            "134.32%",
+            "146.00%",
+            "154.76%",
+            "163.52%",
+            "175.20%",
+            "186.88%",
+            "198.56%",
+            "210.24%",
+            "221.92%",
+            "233.60%",
+            "248.20%",
+            "262.80%",
+            "277.40%"
+          ]
+        },
+        {
+          "name": "Heilung bei Anwendung der Fähigkeit",
+          "parameters": [
+            "92.16% ANG +577",
+            "99.07% ANG +635",
+            "105.98% ANG +698",
+            "115.20% ANG +765",
+            "122.11% ANG +837",
+            "129.02% ANG +914",
+            "138.24% ANG +996",
+            "147.46% ANG +1083",
+            "156.67% ANG +1174",
+            "165.89% ANG +1270",
+            "175.10% ANG +1371",
+            "184.32% ANG +1477",
+            "195.84% ANG +1588",
+            "207.36% ANG +1703",
+            "218.88% ANG +1824"
+          ]
+        },
+        {
+          "name": "Mujimuji-Daruma-SCH",
+          "parameters": [
+            "52.00%",
+            "55.90%",
+            "59.80%",
+            "65.00%",
+            "68.90%",
+            "72.80%",
+            "78.00%",
+            "83.20%",
+            "88.40%",
+            "93.60%",
+            "98.80%",
+            "104.00%",
+            "110.50%",
+            "117.00%",
+            "123.50%"
+          ]
+        },
+        {
+          "name": "Mujimuji-Daruma-Heilung",
+          "parameters": [
+            "79.87% ANG +500",
+            "85.86% ANG +550",
+            "91.85% ANG +605",
+            "99.84% ANG +663",
+            "105.83% ANG +726",
+            "111.82% ANG +792",
+            "119.81% ANG +863",
+            "127.80% ANG +938",
+            "135.78% ANG +1017",
+            "143.77% ANG +1101",
+            "151.76% ANG +1188",
+            "159.74% ANG +1280",
+            "169.73% ANG +1376",
+            "179.71% ANG +1476",
+            "189.70% ANG +1580"
+          ]
+        },
+        {
+          "name": "Dauer",
+          "parameters": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        },
+        {
+          "name": "Abklingzeit",
+          "parameters": [
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s"
+          ]
+        },
+        {
+          "name": "Elementarenergie",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Bessere Wahl",
+      "info": "Stellt der eigenen Figur in der Truppe sowie befreundeten Figuren in der Nähe 300 LP wieder her, wenn Sayu auf dem Schlachtfeld eine Verwirbelung auslöst. Stellt für jeden Punkt von Sayus Elementarkunde zusätzlich 1,2 LP wieder her.\n2 s Abklingzeit."
+    },
+    "passive2": {
+      "name": "Feierabend",
+      "info": "Verleiht dem Mujimuji-Daruma von **Juhu-Stil – Mujina-Wirrsal** folgende Effekte:\n· Stellt den anderen Figuren in der Nähe der von Mujimuji-Daruma geheilten Figuren während der Heilung LP in Höhe von 20 % der eigentlichen Heilung wieder her.\n· Erhöht beim Angreifen von Gegnern durch Mujimuji-Daruma den Wirkungsbereich, indem Schaden verursacht wird."
+    },
+    "passive3": {
+      "name": "Juhu-Stil – Leise Schritte",
+      "info": "Eigene Figuren in der Truppe scheuchen Kristallschmetterlinge und einige andere Lebewesen nicht auf, wenn sie sich ihnen nähern, solange Sayu in der Truppe ist.\nSieh unter „Andere“ bei „Lebewesen – Wilde Tiere“ im Handbuch nach, um Genaueres über die Lebewesen, bei denen diese Fähigkeit wirkt, zu erfahren."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Lehren des „Lichts“",
+          "count": 3
+        },
+        {
+          "name": "Vaniloqua-Nektar",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Anleitung zum „Licht“",
+          "count": 2
+        },
+        {
+          "name": "Leuchtender Nektar",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Anleitung zum „Licht“",
+          "count": 4
+        },
+        {
+          "name": "Leuchtender Nektar",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Anleitung zum „Licht“",
+          "count": 6
+        },
+        {
+          "name": "Leuchtender Nektar",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Anleitung zum „Licht“",
+          "count": 9
+        },
+        {
+          "name": "Leuchtender Nektar",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie des „Lichts“",
+          "count": 4
+        },
+        {
+          "name": "Elementarnektar",
+          "count": 4
+        },
+        {
+          "name": "Schuppe der Vergoldung",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie des „Lichts“",
+          "count": 6
+        },
+        {
+          "name": "Elementarnektar",
+          "count": 6
+        },
+        {
+          "name": "Schuppe der Vergoldung",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie des „Lichts“",
+          "count": 12
+        },
+        {
+          "name": "Elementarnektar",
+          "count": 9
+        },
+        {
+          "name": "Schuppe der Vergoldung",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie des „Lichts“",
+          "count": 16
+        },
+        {
+          "name": "Elementarnektar",
+          "count": 12
+        },
+        {
+          "name": "Schuppe der Vergoldung",
+          "count": 2
+        },
+        {
+          "name": "Krone der Weisheit",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Sayu_01",
+      "combat3": "Skill_E_Sayu_01_HD",
+      "passive1": "UI_Talent_S_Sayu_05",
+      "passive2": "UI_Talent_S_Sayu_06",
+      "passive3": "UI_Talent_S_Sayu_07"
+    },
+    "version": "2.0"
+  }
+}

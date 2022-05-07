@@ -1,0 +1,854 @@
+{
+  "name": "Albedo",
+  "fullname": "Albedo",
+  "title": "Kreideprinz",
+  "description": "Seorang jenius yang dikenal dengan julukan Kreideprinz, dia adalah Kepala Alkemis dan Kapten Tim Investigasi Knights of Favonius.",
+  "rarity": "5",
+  "element": "Geo",
+  "weapontype": "Sword",
+  "substat": "Geo DMG Bonus",
+  "gender": "Pria",
+  "body": "BOY",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Knights of Favonius",
+  "birthdaymmdd": "9/13",
+  "birthday": "13 September",
+  "constellation": "Princeps Cretaceus",
+  "cv": {
+    "english": "Khoi Dao",
+    "chinese": "Mace",
+    "japanese": "野島健児",
+    "korean": "Kim Myeong-joon"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Prithiva Topaz Silver",
+        "count": 1
+      },
+      {
+        "name": "Cecilia",
+        "count": 3
+      },
+      {
+        "name": "Divining Scroll",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Prithiva Topaz Fragment",
+        "count": 3
+      },
+      {
+        "name": "Basalt Pillar",
+        "count": 2
+      },
+      {
+        "name": "Cecilia",
+        "count": 10
+      },
+      {
+        "name": "Divining Scroll",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Prithiva Topaz Fragment",
+        "count": 6
+      },
+      {
+        "name": "Basalt Pillar",
+        "count": 4
+      },
+      {
+        "name": "Cecilia",
+        "count": 20
+      },
+      {
+        "name": "Sealed Scroll",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Prithiva Topaz Chunk",
+        "count": 3
+      },
+      {
+        "name": "Basalt Pillar",
+        "count": 8
+      },
+      {
+        "name": "Cecilia",
+        "count": 30
+      },
+      {
+        "name": "Sealed Scroll",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Prithiva Topaz Chunk",
+        "count": 6
+      },
+      {
+        "name": "Basalt Pillar",
+        "count": 12
+      },
+      {
+        "name": "Cecilia",
+        "count": 45
+      },
+      {
+        "name": "Forbidden Curse Scroll",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Prithiva Topaz Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Basalt Pillar",
+        "count": 20
+      },
+      {
+        "name": "Cecilia",
+        "count": 60
+      },
+      {
+        "name": "Forbidden Curse Scroll",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Character_Albedo_Card.png",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Character_Albedo_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Albedo.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201216/2020121611204969580.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201216/2020121611271023422.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/94dd9e0cc9d8311e58887a45b9b14861.png",
+    "nameicon": "UI_AvatarIcon_Albedo",
+    "nameiconcard": "UI_AvatarIcon_Albedo_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Albedo",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Albedo",
+    "namesideicon": "UI_AvatarIcon_Side_Albedo"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Albedo"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1029.5855712890625,
+      "attack": 19.551000595092773,
+      "defense": 68.2061996459961,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2670.7450760040956,
+      "attack": 50.71529752007109,
+      "defense": 176.92688877664295,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3553.5216262970644,
+      "attack": 67.47728711357695,
+      "defense": 235.40888722024647,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5317.201770792366,
+      "attack": 100.96815228897867,
+      "defense": 352.24611124672083,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5944.437793741585,
+      "attack": 112.87798810440836,
+      "defense": 393.7991164652267,
+      "specialized": 0.07199999690055847
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6839.14761198865,
+      "attack": 129.86780680115135,
+      "defense": 453.07030109555126,
+      "specialized": 0.07199999690055847
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7675.462187183963,
+      "attack": 145.74758661682517,
+      "defense": 508.47429279477,
+      "specialized": 0.14399999380111694
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8579.438094904996,
+      "attack": 162.91336088819116,
+      "defense": 568.3593212533524,
+      "specialized": 0.14399999380111694
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9206.67417888937,
+      "attack": 174.82319670362085,
+      "defense": 609.9123302865555,
+      "specialized": 0.14399999380111694
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 10118.887156081328,
+      "attack": 192.14538628870014,
+      "defense": 670.3430338405342,
+      "specialized": 0.14399999380111694
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10746.122995925078,
+      "attack": 204.05522210412983,
+      "defense": 711.8960276149483,
+      "specialized": 0.2160000056028366
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11668.631573538703,
+      "attack": 221.5729168473854,
+      "defense": 773.0087762532967,
+      "specialized": 0.2160000056028366
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12295.867657523078,
+      "attack": 233.48275266281507,
+      "defense": 814.5617700277107,
+      "specialized": 0.2879999876022339
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 13225.583793659927,
+      "attack": 251.13731313623066,
+      "defense": 876.1519925053435,
+      "specialized": 0.2879999876022339
+    }
+  },
+  "version": "1.2",
+  "constellations": {
+    "c1": {
+      "name": "Flower of Eden",
+      "effect": "Transient Blossom yang muncul dari skill **Abiogenesis: Solar Isotoma** akan memulihkan 1,2 Energy Albedo."
+    },
+    "c2": {
+      "name": "Opening of Phanerozoic",
+      "effect": "Transient Blossom yang dihasilkan oleh **Abiogenesis: Solar Isotoma** memberikan Albedo Fatal Reckoning selama 30 detik:\n·Melancarkan skill **Rite of Progeniture: Tectonic Tide** akan mengonsumsi seluruh lapisan Fatal Reckoning, meningkatkan DMG yang diakibatkan oleh Tectonic Tide dan Fatal Blossom berdasarkan jumlah lapisan yang dikonsumsi.\n·Setiap lapis Fatal Reckoning akan meningkatkan DMG sebesar 30% DEF Albedo.\nEfek ini dapat ditumpuk hingga 4 kali."
+    },
+    "c3": {
+      "name": "Grace of Helios",
+      "effect": "Meningkatkan 3 level **Abiogenesis: Solar Isotoma**.\nMaksimum: Lv. 15."
+    },
+    "c4": {
+      "name": "Descent of Divinity",
+      "effect": "Solar Isotoma meningkatkan 30% DMG Plunging Attack untuk Karakter yang berada di dalam area Solar Isotoma."
+    },
+    "c5": {
+      "name": "Tide of Hadean",
+      "effect": "Meningkatkan 3 level **Rite of Progeniture: Tectonic Tide**.\nMaksimum: Lv. 15."
+    },
+    "c6": {
+      "name": "Dust of Purification",
+      "effect": "Solar Isotoma akan meningkatkan 17% DMG Karakter aktif yang berada dalam lingkup areanya dan dilindungi oleh perisai yang terbuat dari Crystallize."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Albedo_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Albedo_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Albedo_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Albedo_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Albedo_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Albedo_04.png",
+      "constellation": "Eff_UI_Talent_Albedo"
+    },
+    "version": "1.2"
+  },
+  "talent": {
+    "name": "Albedo",
+    "combat1": {
+      "name": "Normal Attack: Favonius Bladework - Weiss",
+      "info": "**Normal Attack**\nMelancarkan hingga 5 tebasan pedang berturut-turut.\n\n**Charged Attack**\nMengonsumsi sejumlah Stamina untuk melancarkan dua tebasan pedang ke depan.\n\n**Plunging Attack**\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "attributes": [
+        {
+          "name": "DMG Tahap 1",
+          "parameters": [
+            "36.74%",
+            "39.73%",
+            "42.72%",
+            "46.99%",
+            "49.98%",
+            "53.40%",
+            "58.10%",
+            "62.80%",
+            "67.50%",
+            "72.62%",
+            "78.50%",
+            "85.41%",
+            "92.31%",
+            "99.22%",
+            "106.76%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 2",
+          "parameters": [
+            "36.74%",
+            "39.73%",
+            "42.72%",
+            "46.99%",
+            "49.98%",
+            "53.40%",
+            "58.10%",
+            "62.80%",
+            "67.50%",
+            "72.62%",
+            "78.50%",
+            "85.41%",
+            "92.31%",
+            "99.22%",
+            "106.76%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 3",
+          "parameters": [
+            "47.45%",
+            "51.32%",
+            "55.18%",
+            "60.70%",
+            "64.56%",
+            "68.98%",
+            "75.04%",
+            "81.11%",
+            "87.18%",
+            "93.81%",
+            "101.39%",
+            "110.32%",
+            "119.24%",
+            "128.16%",
+            "137.89%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 4",
+          "parameters": [
+            "49.75%",
+            "53.80%",
+            "57.85%",
+            "63.63%",
+            "67.68%",
+            "72.31%",
+            "78.68%",
+            "85.04%",
+            "91.40%",
+            "98.34%",
+            "106.30%",
+            "115.65%",
+            "125.01%",
+            "134.36%",
+            "144.57%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 5",
+          "parameters": [
+            "62.07%",
+            "67.13%",
+            "72.18%",
+            "79.40%",
+            "84.45%",
+            "90.22%",
+            "98.16%",
+            "106.10%",
+            "114.04%",
+            "122.70%",
+            "132.63%",
+            "144.30%",
+            "155.97%",
+            "167.64%",
+            "180.38%"
+          ]
+        },
+        {
+          "name": "DMG Charged Attack",
+          "parameters": [
+            "47.30%+60.20%",
+            "51.15%+65.10%",
+            "55.00%+70.00%",
+            "60.50%+77.00%",
+            "64.35%+81.90%",
+            "68.75%+87.50%",
+            "74.80%+95.20%",
+            "80.85%+102.90%",
+            "86.90%+110.60%",
+            "93.50%+119.00%",
+            "101.06%+128.62%",
+            "109.96%+139.94%",
+            "118.85%+151.26%",
+            "127.74%+162.58%",
+            "137.44%+174.93%"
+          ]
+        },
+        {
+          "name": "Konsumsi Stamina Charged Attack",
+          "parameters": [
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "name": "DMG Selama Plunging",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "DMG Plunging Attack Min./Maks.",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Abiogenesis: Solar Isotoma",
+      "info": "Albedo menciptakan Solar Isotoma yang mengakibatkan Geo DMG area.\n\n**Solar Isotoma**\nMempunyai efek sebagai berikut:\n·Saat musuh yang berada dalam area Solar Isotoma menerima DMG, Solar Isotoma akan menghasilkan Transient Blossom yang mengakibatkan Geo DMG area. DMG yang diakibatkan akan berdasarkan pada DEF Albedo.\n·Transient Blossom hanya dapat muncul setiap 2 detik.\n·Saat Karakter berada di atas Solar Isotoma, Solar Isotoma akan mengakumulasi kekuatan Geo dan mengangkat Karakter ke atas platform kristal. Hanya bisa terdapat satu platform kristal dalam waktu bersamaan.\n·Hanya bisa terdapat satu Solar Isotoma yang diciptakan Albedo di waktu yang bersamaan. Solar Isotoma dianggap sebagai Geo Construct.\n\n**Tahan**\nUntuk mengatur lokasi skill.",
+      "description": "Bunga Geo ini mempunyai ciri khas yang mencerminkan tujuan utama ilmu alkimia: Lahir dari bumi dan naik ke langit, untuk menjadi matahari.",
+      "attributes": [
+        {
+          "name": "DMG Skill",
+          "parameters": [
+            "130.40%",
+            "140.18%",
+            "149.96%",
+            "163.00%",
+            "172.78%",
+            "182.56%",
+            "195.60%",
+            "208.64%",
+            "221.68%",
+            "234.72%",
+            "247.76%",
+            "260.80%",
+            "277.10%",
+            "293.40%",
+            "309.70%"
+          ]
+        },
+        {
+          "name": "DMG Transient Blossom",
+          "parameters": [
+            "133.60% DEF",
+            "143.62% DEF",
+            "153.64% DEF",
+            "167.00% DEF",
+            "177.02% DEF",
+            "187.04% DEF",
+            "200.40% DEF",
+            "213.76% DEF",
+            "227.12% DEF",
+            "240.48% DEF",
+            "253.84% DEF",
+            "267.20% DEF",
+            "283.90% DEF",
+            "300.60% DEF",
+            "317.30% DEF"
+          ]
+        },
+        {
+          "name": "Durasi",
+          "parameters": [
+            "30 detik",
+            "30 detik",
+            "30 detik",
+            "30 detik",
+            "30 detik",
+            "30 detik",
+            "30 detik",
+            "30 detik",
+            "30 detik",
+            "30 detik",
+            "30 detik",
+            "30 detik",
+            "30 detik",
+            "30 detik",
+            "30 detik"
+          ]
+        },
+        {
+          "name": "Cooldown Skill",
+          "parameters": [
+            "4 detik",
+            "4 detik",
+            "4 detik",
+            "4 detik",
+            "4 detik",
+            "4 detik",
+            "4 detik",
+            "4 detik",
+            "4 detik",
+            "4 detik",
+            "4 detik",
+            "4 detik",
+            "4 detik",
+            "4 detik",
+            "4 detik"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Rite of Progeniture: Tectonic Tide",
+      "info": "Di bawah perintah Albedo, kristal Geo melonjak dan meledak, mengakibatkan Geo DMG area di hadapan Albedo.\nJika Solar Isotoma yang dibuat oleh Albedo sendiri ada di sekitarnya, maka 7 Fatal Blossom akan muncul di area sekitar Solar Isotoma dan menyebabkan ledakan yang mengakibatkan Geo DMG area.\n\nDMG Tectonic Tide dan DMG Fatal Blossom tidak akan menghasilkan Transient Blossom.",
+      "description": "Di bawah perintah Kreideprinz, gelombang tektonik penciptaan akan menghasilkan kehidupan.",
+      "attributes": [
+        {
+          "name": "DMG Elemental Burst",
+          "parameters": [
+            "367.20%",
+            "394.74%",
+            "422.28%",
+            "459.00%",
+            "486.54%",
+            "514.08%",
+            "550.80%",
+            "587.52%",
+            "624.24%",
+            "660.96%",
+            "697.68%",
+            "734.40%",
+            "780.30%",
+            "826.20%",
+            "872.10%"
+          ]
+        },
+        {
+          "name": "DMG Fatal Blossom",
+          "parameters": [
+            "masing-masing 72.00%",
+            "masing-masing 77.40%",
+            "masing-masing 82.80%",
+            "masing-masing 90.00%",
+            "masing-masing 95.40%",
+            "masing-masing 100.80%",
+            "masing-masing 108.00%",
+            "masing-masing 115.20%",
+            "masing-masing 122.40%",
+            "masing-masing 129.60%",
+            "masing-masing 136.80%",
+            "masing-masing 144.00%",
+            "masing-masing 153.00%",
+            "masing-masing 162.00%",
+            "masing-masing 171.00%"
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "parameters": [
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik"
+          ]
+        },
+        {
+          "name": "Konsumsi Energy",
+          "parameters": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Calcite Might",
+      "info": "Transient Blossom yang muncul karena **Abiogenesis: Solar Isotoma** mengakibatkan 25% DMG lebih besar kepada musuh dengan HP kurang dari 50%."
+    },
+    "passive2": {
+      "name": "Homuncular Nature",
+      "info": "**Rite of Progeniture: Tectonic Tide** akan meningkatkan 125 Elemental Mastery bagi anggota party di sekitarnya selama 10 detik."
+    },
+    "passive3": {
+      "name": "Flash of Genius",
+      "info": "Saat membuat Material Ascension Senjata, memiliki 10% kemungkinan untuk mendapatkan hasil 2 kali lipat."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of \"Ballad\"",
+          "count": 3
+        },
+        {
+          "name": "Divining Scroll",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to \"Ballad\"",
+          "count": 2
+        },
+        {
+          "name": "Sealed Scroll",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to \"Ballad\"",
+          "count": 4
+        },
+        {
+          "name": "Sealed Scroll",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to \"Ballad\"",
+          "count": 6
+        },
+        {
+          "name": "Sealed Scroll",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to \"Ballad\"",
+          "count": 9
+        },
+        {
+          "name": "Sealed Scroll",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of \"Ballad\"",
+          "count": 4
+        },
+        {
+          "name": "Forbidden Curse Scroll",
+          "count": 4
+        },
+        {
+          "name": "Tusk of Monoceros Caeli",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of \"Ballad\"",
+          "count": 6
+        },
+        {
+          "name": "Forbidden Curse Scroll",
+          "count": 6
+        },
+        {
+          "name": "Tusk of Monoceros Caeli",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of \"Ballad\"",
+          "count": 12
+        },
+        {
+          "name": "Forbidden Curse Scroll",
+          "count": 9
+        },
+        {
+          "name": "Tusk of Monoceros Caeli",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of \"Ballad\"",
+          "count": 16
+        },
+        {
+          "name": "Forbidden Curse Scroll",
+          "count": 12
+        },
+        {
+          "name": "Tusk of Monoceros Caeli",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_01",
+      "combat2": "Skill_S_Albedo_01",
+      "combat3": "Skill_E_Albedo_01_HD",
+      "passive1": "UI_Talent_S_Albedo_05",
+      "passive2": "UI_Talent_S_Albedo_06",
+      "passive3": "UI_Talent_Combine_Weapon_Double"
+    },
+    "version": "1.2"
+  }
+}

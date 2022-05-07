@@ -1,0 +1,24 @@
+{
+  "name": "Bài Giảng Của \"Hoàng Kim\"",
+  "description": "Nguyên liệu bồi dưỡng Thiên Phú.\nHoàng kim tượng trưng cho đất nước nham thạch.\nHoàng kim là huyết mạch chảy sâu trong lòng đất Liyue, giúp cho trái tim Liyue điều khiển được cơ bắp, là xương cốt giúp Liyue đứng vững.",
+  "sortorder": 1866,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Thiên Phú",
+  "dropdomain": "Bí Cảnh Tinh Thông: Vòng Tròn Rực Lửa",
+  "daysofweek": [
+    "Thứ 4",
+    "Thứ 7",
+    "Chủ Nhật"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Gold.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Item_Teachings_of_Gold.png",
+    "nameicon": "UI_ItemIcon_104316"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Gold"
+  },
+  "version": ""
+}

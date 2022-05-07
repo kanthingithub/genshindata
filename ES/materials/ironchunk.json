@@ -1,0 +1,19 @@
+{
+  "name": "Pedazo de hierro",
+  "description": "Un pedazo de hierro que se puede transformar en muchos objetos distintos si se deja en manos de un herrero habilidoso.",
+  "sortorder": 1954,
+  "category": "EXCHANGE",
+  "materialtype": "Mineral de forja",
+  "source": [
+    "Recolectar en la naturaleza"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Iron_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Item_Iron_Chunk.png",
+    "nameicon": "UI_ItemIcon_101001"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Iron_Chunk"
+  },
+  "version": ""
+}

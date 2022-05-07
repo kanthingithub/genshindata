@@ -1,0 +1,26 @@
+{
+  "name": "Philosophie der „Poesie“",
+  "description": "Material zum Verbessern von Talenten.\nPoesie ist die Seele des Reiches des Windes.\nDie Poesie ist die Darstellung der Überlieferung. Selbst wenn alles vergangen ist, nichts mehr existiert, wird der Wind die Gedichte weitertragen, wird alles Schöne weiter durch den Himmel, das Land und das Meer treiben.",
+  "sortorder": 1859,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Talenten",
+  "dropdomain": "Sphäre des Verständnisses: Reich des Schlafs",
+  "daysofweek": [
+    "Mittwoch",
+    "Samstag",
+    "Sonntag"
+  ],
+  "source": [
+    "Kann hergestellt werden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Ballad.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Item_Philosophies_of_Ballad.png",
+    "nameicon": "UI_ItemIcon_104309"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Ballad"
+  },
+  "version": ""
+}

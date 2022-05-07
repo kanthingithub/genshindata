@@ -1,0 +1,19 @@
+{
+  "name": "Farine",
+  "description": "Poudre moulue à partir de blé. Peu importe le type de plat qui l'utilise, elle permet de remplir le ventre efficacement.",
+  "sortorder": 1525,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrédient",
+  "source": [
+    "Cuisine (préparation)"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Flour.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Item_Flour.png",
+    "nameicon": "UI_ItemIcon_110001"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Flour"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Northlander Catalyst Billet",
+  "description": "วัสดุสำหรับสร้างอาวุธ สามารถใช้เพื่อสร้างสื่อเวทระดับ 4 ดาวได้\nในทางปรัชญานั้นคิดว่าหินอ่อนแฝง ไปด้วยศักยภาพของประติมากรรม ที่สวยงาม ซึ่งต้นแบบเหล่านี้ ยังมีความเป็นไปได้อีกมากมาย ไม่สิ้นสุด ช่างน่าสนใจจริง ๆ",
+  "sortorder": 1965,
+  "rarity": "4",
+  "category": "EXCHANGE",
+  "materialtype": "วัสดุ",
+  "source": [
+    "ดรอปจาก BOSS"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Northlander_Catalyst_Billet.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3b/Item_Northlander_Catalyst_Billet.png",
+    "nameicon": "UI_ItemIcon_101104"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Northlander_Catalyst_Billet"
+  },
+  "version": ""
+}

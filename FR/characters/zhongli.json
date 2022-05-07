@@ -1,0 +1,934 @@
+{
+  "name": "Zhongli",
+  "fullname": "Zhongli",
+  "title": "Vagabond du monde mortel",
+  "description": "Une mystérieuse relation du Funérarium Wangsheng, aux connaissances aussi variées qu'étendues.",
+  "rarity": "5",
+  "element": "Géo",
+  "weapontype": "Arme d'hast",
+  "substat": "Bonus de DGT Géo",
+  "gender": "Homme",
+  "body": "MALE",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Port de Liyue",
+  "birthdaymmdd": "12/31",
+  "birthday": "31 décembre",
+  "constellation": "Lapis Dei",
+  "cv": {
+    "english": "Keith Silverstein",
+    "chinese": "彭博",
+    "japanese": "前野智昭",
+    "korean": "Pyo Young-jae"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Éclat de topaze prithiva",
+        "count": 1
+      },
+      {
+        "name": "Cœur de lapis",
+        "count": 3
+      },
+      {
+        "name": "Bave de Blob",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragment de topaze prithiva",
+        "count": 3
+      },
+      {
+        "name": "Pilier de basalte",
+        "count": 2
+      },
+      {
+        "name": "Cœur de lapis",
+        "count": 10
+      },
+      {
+        "name": "Bave de Blob",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragment de topaze prithiva",
+        "count": 6
+      },
+      {
+        "name": "Pilier de basalte",
+        "count": 4
+      },
+      {
+        "name": "Cœur de lapis",
+        "count": 20
+      },
+      {
+        "name": "Mucus de Blob",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Morceau de topaze prithiva",
+        "count": 3
+      },
+      {
+        "name": "Pilier de basalte",
+        "count": 8
+      },
+      {
+        "name": "Cœur de lapis",
+        "count": 30
+      },
+      {
+        "name": "Mucus de Blob",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Morceau de topaze prithiva",
+        "count": 6
+      },
+      {
+        "name": "Pilier de basalte",
+        "count": 12
+      },
+      {
+        "name": "Cœur de lapis",
+        "count": 45
+      },
+      {
+        "name": "Essence de Blob",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Pierre de topaze prithiva",
+        "count": 6
+      },
+      {
+        "name": "Pilier de basalte",
+        "count": 20
+      },
+      {
+        "name": "Cœur de lapis",
+        "count": 60
+      },
+      {
+        "name": "Essence de Blob",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Character_Zhongli_Card.png",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/7/7d/Character_Zhongli_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Zhongli.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201123/2020112310503599073.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201123/2020112310504363585.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/693b8a54de3e9ea43854615c14a5032b.png",
+    "nameicon": "UI_AvatarIcon_Zhongli",
+    "nameiconcard": "UI_AvatarIcon_Zhongli_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Zhongli",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Zhongli",
+    "namesideicon": "UI_AvatarIcon_Side_Zhongli"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Zhongli"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1143.9840087890625,
+      "attack": 19.551000595092773,
+      "defense": 57.436798095703125,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2967.494634443574,
+      "attack": 50.71529752007109,
+      "defense": 148.99106006650982,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3948.357427412324,
+      "attack": 67.47729665032011,
+      "defense": 198.23906116514263,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5908.002102109254,
+      "attack": 100.96816182572184,
+      "defense": 296.62829969919403,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 6604.931057187379,
+      "attack": 112.87796330887613,
+      "defense": 331.62029646433075,
+      "specialized": 0.07199999690055847
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 7599.053112821595,
+      "attack": 129.86778200561912,
+      "defense": 381.5328715993528,
+      "specialized": 0.07199999690055847
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 8528.29163821222,
+      "attack": 145.7475828021279,
+      "defense": 428.18886982933327,
+      "specialized": 0.14399999380111694
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 9532.709349183715,
+      "attack": 162.9133570734939,
+      "defense": 478.6183660684328,
+      "specialized": 0.14399999380111694
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 10229.638060121215,
+      "attack": 174.82315474195093,
+      "defense": 513.610370462964,
+      "specialized": 0.14399999380111694
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 11243.208070830384,
+      "attack": 192.14534432703022,
+      "defense": 564.4993825590209,
+      "specialized": 0.14399999380111694
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 11940.137025908509,
+      "attack": 204.05524499231342,
+      "defense": 599.4913869535521,
+      "specialized": 0.2160000056028366
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 12965.146593048645,
+      "attack": 221.57293973556898,
+      "defense": 650.9547527888062,
+      "specialized": 0.2160000056028366
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 13662.07554812677,
+      "attack": 233.482737404026,
+      "defense": 685.9467419245484,
+      "specialized": 0.2879999876022339
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 14695.093513910891,
+      "attack": 251.1372978774416,
+      "defense": 737.81219098164,
+      "specialized": 0.2879999876022339
+    }
+  },
+  "version": "1.1",
+  "constellations": {
+    "c1": {
+      "name": "Roche, le squelette de la terre",
+      "effect": "2 Dorsales de **Dominus Lapidis** peuvent exister en même temps."
+    },
+    "c2": {
+      "name": "Pierre, le berceau du jade",
+      "effect": "Les personnages déployés à proximité sont protégés par un bouclier de jade lors de **Chute de météore**."
+    },
+    "c3": {
+      "name": "Jade, brillant à travers les ténèbres",
+      "effect": "Niveau d'aptitude **Dominus Lapidis** +3.\nNiveau max : 15"
+    },
+    "c4": {
+      "name": "Topaze, incassable et intrépide",
+      "effect": "Augmente la zone d'effet de **Chute de météore** de 20 %.\nProlonge de plus la durée de la pétrification de 2 s."
+    },
+    "c5": {
+      "name": "Lazulite, le héraut de l'ordre divin",
+      "effect": "Niveau d'aptitude **Chute de météore** +3.\nNiveau max : 15"
+    },
+    "c6": {
+      "name": "Or, la générosité du dominateur",
+      "effect": "40 % des DGT subis par le bouclier de jade sont convertis en PV pour le personnage déployé.\nLa quantité de PV restaurés en une fois ne peut pas dépasser 8 % des PV max du personnage."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Zhongli_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Zhongli_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Zhongli_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Zhongli_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Zhongli_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Zhongli_04.png",
+      "constellation": "Eff_UI_Talent_Zhongli"
+    },
+    "version": "1.1"
+  },
+  "talent": {
+    "name": "Zhongli",
+    "combat1": {
+      "name": "Attaque normale : Pluie de pierres",
+      "info": "**Attaque normale**\nEnchaîne jusqu'à 6 coups de lance.\n\n**Attaque chargée**\nConsomme de l'endurance pour charger vers l'avant, faisant pleuvoir des lances de roche sur la route.\n\n**Attaque plongeante**\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "attributes": [
+        {
+          "name": "DGT 1er coup",
+          "parameters": [
+            "30.77%",
+            "33.27%",
+            "35.78%",
+            "39.36%",
+            "41.86%",
+            "44.72%",
+            "48.66%",
+            "52.59%",
+            "56.53%",
+            "60.82%",
+            "65.74%",
+            "71.53%",
+            "77.31%",
+            "83.10%",
+            "89.41%"
+          ]
+        },
+        {
+          "name": "DGT 2e coup",
+          "parameters": [
+            "31.15%",
+            "33.69%",
+            "36.22%",
+            "39.85%",
+            "42.38%",
+            "45.28%",
+            "49.26%",
+            "53.25%",
+            "57.23%",
+            "61.58%",
+            "66.56%",
+            "72.42%",
+            "78.27%",
+            "84.13%",
+            "90.52%"
+          ]
+        },
+        {
+          "name": "DGT 3e coup",
+          "parameters": [
+            "38.58%",
+            "41.72%",
+            "44.86%",
+            "49.34%",
+            "52.48%",
+            "56.07%",
+            "61.00%",
+            "65.94%",
+            "70.87%",
+            "76.26%",
+            "82.42%",
+            "89.68%",
+            "96.93%",
+            "104.18%",
+            "112.10%"
+          ]
+        },
+        {
+          "name": "DGT 4e coup",
+          "parameters": [
+            "42.94%",
+            "46.43%",
+            "49.93%",
+            "54.92%",
+            "58.42%",
+            "62.41%",
+            "67.90%",
+            "73.40%",
+            "78.89%",
+            "84.88%",
+            "91.74%",
+            "99.82%",
+            "107.89%",
+            "115.97%",
+            "124.77%"
+          ]
+        },
+        {
+          "name": "DGT 5e coup",
+          "parameters": [
+            "10.75% ×4",
+            "11.63% ×4",
+            "12.50% ×4",
+            "13.75% ×4",
+            "14.62% ×4",
+            "15.63% ×4",
+            "17.00% ×4",
+            "18.38% ×4",
+            "19.75% ×4",
+            "21.25% ×4",
+            "22.97% ×4",
+            "24.99% ×4",
+            "27.01% ×4",
+            "29.03% ×4",
+            "31.24% ×4"
+          ]
+        },
+        {
+          "name": "DGT 6e coup",
+          "parameters": [
+            "54.50%",
+            "58.93%",
+            "63.37%",
+            "69.70%",
+            "74.14%",
+            "79.21%",
+            "86.18%",
+            "93.15%",
+            "100.12%",
+            "107.73%",
+            "116.44%",
+            "126.69%",
+            "136.93%",
+            "147.18%",
+            "158.36%"
+          ]
+        },
+        {
+          "name": "DGT attaque chargée",
+          "parameters": [
+            "111.03%",
+            "120.06%",
+            "129.10%",
+            "142.01%",
+            "151.05%",
+            "161.37%",
+            "175.58%",
+            "189.78%",
+            "203.98%",
+            "219.47%",
+            "237.22%",
+            "258.10%",
+            "278.97%",
+            "299.85%",
+            "322.62%"
+          ]
+        },
+        {
+          "name": "Coût d'endurance attaque chargée",
+          "parameters": [
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts"
+          ]
+        },
+        {
+          "name": "DGT durant la chute",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "DGT chute basse/élevée",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Dominus Lapidis",
+      "info": "Le pouvoir Géo est présent dans les montagnes, sur la terre comme dans les profondeurs, et jusque dans les fissures rocailleuses. Mais rares sont ceux capables de maîtriser une telle puissance.\n\n**Appui simple**\nZhongli matérialise une Dorsale rocheuse.\n\n**Appui long**\nZhongli fait exploser l'élément Géo contenu dans les environs, entraînant les effets suivants :\n· Une Dorsale rocheuse est créée si le nombre maximum de Dorsales rocheuses sur le terrain n'est pas atteint.\n· Un bouclier de jade capable d'absorber une quantité de DGT proportionnelle aux PV max de Zhongli est généré.\n· Inflige des DGT Géo de zone.\n· Absorbe l'élément Géo des cibles proches affectées par l'élément Géo (jusqu'à 2 cibles max). Cet effet n'inflige pas de DGT.\n\n**Dorsale rocheuse**\nUne Dorsale rocheuse inflige des DGT Géo de zone lorsqu'elle est matérialisée.\nLa Dorsale entre en résonance avec les autres constructions Géo présentes.\nL'amas rocheux libère l'écho de la pierre originelle de façon intermittente, infligeant des DGT Géo aux ennemis à proximité.\nLa Dorsale rocheuse est une construction Géo qui bloque les attaques et peut être escaladée. Il ne peut exister qu'une seule dorsale à la fois.\n\n**Bouclier de jade**\nLe bouclier de jade est efficaces à 150 % contre les DGT élémentaires et physiques.\nLorsqu'un bouclier de jade protège un personnage, les RÉS élémentaires et physique des ennemis proches sont réduites de 20 %. Cet effet n'est pas cumulable.",
+      "description": "Un vrai maître de la roche doit savoir sculpter le jade et l'or.",
+      "attributes": [
+        {
+          "name": "DGT Dorsale/résonance",
+          "parameters": [
+            "16.00%/32.00%",
+            "17.20%/34.40%",
+            "18.40%/36.80%",
+            "20.00%/40.00%",
+            "21.20%/42.40%",
+            "22.40%/44.80%",
+            "24.00%/48.00%",
+            "25.60%/51.20%",
+            "27.20%/54.40%",
+            "28.80%/57.60%",
+            "30.40%/60.80%",
+            "32.00%/64.00%",
+            "34.00%/68.00%",
+            "36.00%/72.00%",
+            "38.00%/76.00%"
+          ]
+        },
+        {
+          "name": "TdR appui simple",
+          "parameters": [
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s"
+          ]
+        },
+        {
+          "name": "DGT appui long",
+          "parameters": [
+            "80.00%",
+            "86.00%",
+            "92.00%",
+            "100.00%",
+            "106.00%",
+            "112.00%",
+            "120.00%",
+            "128.00%",
+            "136.00%",
+            "144.00%",
+            "152.00%",
+            "160.00%",
+            "170.00%",
+            "180.00%",
+            "190.00%"
+          ]
+        },
+        {
+          "name": "PV de base du bouclier",
+          "parameters": [
+            "1232",
+            "1356",
+            "1489",
+            "1633",
+            "1787",
+            "1951",
+            "2126",
+            "2311",
+            "2506",
+            "2712",
+            "2927",
+            "3153",
+            "3389",
+            "3636",
+            "3893"
+          ]
+        },
+        {
+          "name": "Bonus de PV du bouclier",
+          "parameters": [
+            "12.80% PV max",
+            "13.76% PV max",
+            "14.72% PV max",
+            "16.00% PV max",
+            "16.96% PV max",
+            "17.92% PV max",
+            "19.20% PV max",
+            "20.48% PV max",
+            "21.76% PV max",
+            "23.04% PV max",
+            "24.32% PV max",
+            "25.60% PV max",
+            "27.20% PV max",
+            "28.80% PV max",
+            "30.40% PV max"
+          ]
+        },
+        {
+          "name": "Durée du bouclier",
+          "parameters": [
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s"
+          ]
+        },
+        {
+          "name": "TdR appui long",
+          "parameters": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Chute de météore",
+      "info": "Zhongli fait tomber des cieux un gigantesque météore, infligeant d'importants DGT Géo à l'impact et pétrifie les ennemis.\n\n**Pétrification**\nLes ennemis pétrifiés sont immobilisés.",
+      "description": "Que le météore qui transperce la voûte illumine les ténèbres de ce monde.",
+      "attributes": [
+        {
+          "name": "DGT compétence",
+          "parameters": [
+            "401.08%",
+            "444.44%",
+            "487.80%",
+            "542.00%",
+            "590.78%",
+            "639.56%",
+            "704.60%",
+            "769.64%",
+            "834.68%",
+            "899.72%",
+            "964.76%",
+            "1029.80%",
+            "1084.00%",
+            "1138.20%",
+            "1192.40%"
+          ]
+        },
+        {
+          "name": "Durée pétrification",
+          "parameters": [
+            "3.0999999046325684 s",
+            "3.200000047683716 s",
+            "3.299999952316284 s",
+            "3.4000000953674316 s",
+            "3.5 s",
+            "3.5999999046325684 s",
+            "3.700000047683716 s",
+            "3.799999952316284 s",
+            "3.9000000953674316 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s",
+            "4 s"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        },
+        {
+          "name": "Énergie élémentaire",
+          "parameters": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Ondes résonnantes",
+      "info": "Chaque attaque touchant le bouclier de jade génère les effets suivants :\n· Augmente la force du bouclier de 5 %.\n· Cet effet peut être cumulé 5 fois maximum et dure jusqu'à la fin du bouclier."
+    },
+    "passive2": {
+      "name": "Domination de la Terre",
+      "info": "Augmente les DGT infligés par les attaques de Zhongli citées ci-dessous en fonction de ses PV max :\n· Augmentation de DGT des attaques normales, chargées et plongeantes : 1,39 % des PV max.\n· Augmentation de DGT de dorsale rocheuse, de DGT de résonance et de DGT de l'appui long de **Dominus Lapidis** : 1,9 % des PV max.\n·Augmentation de DGT de **Chute de météore** : 33 % des PV max."
+    },
+    "passive3": {
+      "name": "Cristal du destin",
+      "info": "Lorsque vous forgez une arme d'hast, 15 % du minerai utilisé vous sera rendu."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseignement de l'Or",
+          "count": 3
+        },
+        {
+          "name": "Bave de Blob",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide de l'Or",
+          "count": 2
+        },
+        {
+          "name": "Mucus de Blob",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide de l'Or",
+          "count": 4
+        },
+        {
+          "name": "Mucus de Blob",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide de l'Or",
+          "count": 6
+        },
+        {
+          "name": "Mucus de Blob",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide de l'Or",
+          "count": 9
+        },
+        {
+          "name": "Mucus de Blob",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie de l'Or",
+          "count": 4
+        },
+        {
+          "name": "Essence de Blob",
+          "count": 4
+        },
+        {
+          "name": "Corne de Monoceros Caeli",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie de l'Or",
+          "count": 6
+        },
+        {
+          "name": "Essence de Blob",
+          "count": 6
+        },
+        {
+          "name": "Corne de Monoceros Caeli",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie de l'Or",
+          "count": 12
+        },
+        {
+          "name": "Essence de Blob",
+          "count": 9
+        },
+        {
+          "name": "Corne de Monoceros Caeli",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie de l'Or",
+          "count": 16
+        },
+        {
+          "name": "Essence de Blob",
+          "count": 12
+        },
+        {
+          "name": "Corne de Monoceros Caeli",
+          "count": 2
+        },
+        {
+          "name": "Couronne de la sagesse",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_03",
+      "combat2": "Skill_S_Zhongli_01",
+      "combat3": "Skill_E_Zhongli_01_HD",
+      "passive1": "UI_Talent_S_Zhongli_05",
+      "passive2": "UI_Talent_S_Zhongli_06",
+      "passive3": "UI_Talent_Forge_Pole"
+    },
+    "version": "1.1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Teachings of \"Freedom\"",
+  "description": "Material Penguatan Talenta.\nKebebasan adalah gairah Kerajaan Angin.\nKebebasan hidup adalah salah satunya, kebebasan untuk hidup dengan leluasa dan sehat tanpa perlu mengkhawatirkan keamanan seseorang.",
+  "sortorder": 1851,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Talenta",
+  "dropdomain": "Domain of Mastery: Altar Salju",
+  "daysofweek": [
+    "Senin",
+    "Kamis",
+    "Minggu"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Freedom.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Item_Teachings_of_Freedom.png",
+    "nameicon": "UI_ItemIcon_104301"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Freedom"
+  },
+  "version": ""
+}

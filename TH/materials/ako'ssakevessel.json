@@ -1,0 +1,18 @@
+{
+  "name": "Ako's Sake Vessel",
+  "description": "วัสดุขัดเกลาสำหรับ The Catch\nมันเคยเป็นภาชนะใส่สาเกที่ Ako Domeki ผู้ที่ครั้งหนึ่งเคยปกครองพื้นที่ Seirai ชื่นชอบ มันถูกน้ำทะเลพัดมาติดเบ็ดของนักตกปลา",
+  "sortorder": 2297,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุสำหรับขัดเกลา",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ako's_Sake_Vessel.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Item_Ako%27s_Sake_Vessel.png",
+    "nameicon": "UI_ItemIcon_200107"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ako's_Sake_Vessel"
+  },
+  "version": ""
+}

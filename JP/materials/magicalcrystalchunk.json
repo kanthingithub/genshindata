@@ -1,0 +1,19 @@
+{
+  "name": "魔晶の塊",
+  "description": "「鍛造依頼」において天然樹脂を消費して武器強化素材を精錬することができます。\n地脈のエネルギーに侵蝕された水晶鉱は普通の方法では処理できません。",
+  "sortorder": 1957,
+  "category": "EXCHANGE",
+  "materialtype": "鍛造用鉱石",
+  "source": [
+    "野外で採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Magical_Crystal_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Item_Magical_Crystal_Chunk.png",
+    "nameicon": "UI_ItemIcon_101004"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Magical_Crystal_Chunk"
+  },
+  "version": ""
+}

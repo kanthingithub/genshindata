@@ -1,0 +1,113 @@
+{
+  "name": "Nobushi: Jintou-Ban",
+  "specialname": "\"Samanosuke Sombrio\"",
+  "enemytype": "COMMON",
+  "category": "Outras facções humanas",
+  "description": "Samurai que caiu no banditismo. Embora sejam chamados de Nobushi, eles não têm uma organização centralizada.\nTendo perseguido o caminho de um artista marcial por muito tempo, eles possuem habilidades de espada altamente avançadas, mas não as usam mais para o bem.\nÀs vezes, eles até conspiram com os Ladrões de Tesouros ou Fatui por ganância por riqueza, ou simplesmente para sobreviver.",
+  "investigation": {
+    "name": "Nobushi",
+    "category": "Comum",
+    "description": "Apesar de serem coletivamente chamados de Nobushi, eles não faz parte de um único grupo. Às vezes com base dos seus crimes cometidos ou sua personalidade, eles se dividem em \"sem tetos\", \"vagantes\", \"Kairagi\", \"canalhas\", \"revoltosos\" ou simplesmente bandidos.\\nA maioria deles são samurais ou guerreiros fugitivos, e muitas vezes, em sua busca pela vida ou pela riqueza, eles até cooperam com Ladrões de Tesouro e Fatui."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Protetor de Mão Velho",
+      "count": 0.8404
+    },
+    {
+      "name": "Protetor de Mão Kageuchi",
+      "count": 0.2241
+    },
+    {
+      "name": "Protetor de Mão Famoso",
+      "count": 0.056
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Samurai_Ronin_01"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 146.83999738411512,
+      "attack": 50.7554633884979,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 578.3380174896447,
+      "attack": 135.60555636454865,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 1702.2499287184328,
+      "attack": 334.49994312109993,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 3169.939984365832,
+      "attack": 546.3532146642319,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 5691.693773803767,
+      "attack": 816.8277909612516,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 10487.064112787135,
+      "attack": 1259.6545275573953,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 17717.884989140555,
+      "attack": 1773.8488056003553,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 29304.192651394755,
+      "attack": 2448.714439719188,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 47273.23405368626,
+      "attack": 3150.5301443184726,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 74200.57499181479,
+      "attack": 3806.2746266754402,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 110920.03625189513,
+      "attack": 4924.4178549494245,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 140391.4586839378,
+      "attack": 5022.194437805883,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 162387.20416907966,
+      "attack": 5120.655595880526,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

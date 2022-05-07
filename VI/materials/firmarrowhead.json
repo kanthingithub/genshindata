@@ -1,0 +1,21 @@
+{
+  "name": "Mũi Tên Chắc Chắn",
+  "description": "Mũi tên được làm sơ sài. Cho dù như vậy cũng không thể xem thường: Nỏ là một vũ khí nguy hiểm, cho dù là kỵ sĩ cao quý cũng có thể bị đánh ngã từ phía sau.",
+  "sortorder": 1732,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Xạ thủ Hilichurl rơi",
+    "Đổi từ Tinh Trần"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Firm_Arrowhead.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_Firm_Arrowhead.png",
+    "nameicon": "UI_ItemIcon_112011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Firm_Arrowhead"
+  },
+  "version": ""
+}

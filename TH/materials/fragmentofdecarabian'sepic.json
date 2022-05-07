@@ -1,0 +1,26 @@
+{
+  "name": "Fragment of Decarabian's Epic",
+  "description": "วัสดุเลื่อนขั้นอาวุธ\nAndrius นั้นครั้งหนึ่งเคยประกาศสงครามกับ Hightower Uniking แต่ก็ไม่สามารถทำอะไรได้แม้แต่จะสร้างความเสียหายให้แก่เมือง ถ้าไม่ใช่เพราะเพื่อบทเพลงแห่งอิสรภาพที่ทำให้เมืองแตกออกเป็นเสี่ยง ๆ แล้วล่ะก็ ฝันนี้ก็จะคงอยู่ไปตลอดกาล",
+  "sortorder": 2185,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุเลื่อนขั้นอาวุธ",
+  "dropdomain": "ดันเจี้ยนแห่งการต่อสู้: เมืองแห่งประกายน้ำ",
+  "daysofweek": [
+    "วันจันทร์",
+    "วันพฤหัสบดี",
+    "วันอาทิตย์"
+  ],
+  "source": [
+    "ได้รับจากการสรรสร้าง"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragment_of_Decarabian's_Epic.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Fragment_of_Decarabian%27s_Epic.png",
+    "nameicon": "UI_ItemIcon_114003"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fragment_of_Decarabian's_Epic"
+  },
+  "version": ""
+}

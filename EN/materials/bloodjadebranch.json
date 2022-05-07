@@ -1,0 +1,20 @@
+{
+  "name": "Bloodjade Branch",
+  "description": "Nurtured by the might of the dragon king, these bone branches glitter with strange, unique colors.\nHatred coursed through the natural streams and kissed the cold moonlight, and from them were these crystalline branches born and grown...\nEven though they were severed in battle, these branches steeped in dragon blood rustle as if eternally ill-at-ease.",
+  "sortorder": 1800,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Lv. 70+ Azhdaha Challenge Reward"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bloodjade_Branch.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Item_Bloodjade_Branch.png",
+    "nameicon": "UI_ItemIcon_113018"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bloodjade_Branch"
+  },
+  "version": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Ấn Quạ Trộm Vàng",
+  "description": "Huân chương tượng trưng cho nguyên tắc và ngạo khí duy nhất của Đạo Bảo Đoàn. Chừng nào vẫn còn có những kho báu được phát hiện ở vùng đất rộng lớn, nơi vực thẳm hẻo lánh hay vùng biển vô danh, thì ngọn lửa trong tim của những kẻ trộm muốn chinh phục kho báu sẽ không bao giờ tắt.",
+  "sortorder": 1755,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Ghép Nhận",
+    "Đạo Bảo Đoàn cấp 60 trở lên rơi"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Golden_Raven_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Golden_Raven_Insignia.png",
+    "nameicon": "UI_ItemIcon_112037"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Golden_Raven_Insignia"
+  },
+  "version": ""
+}

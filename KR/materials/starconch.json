@@ -1,0 +1,19 @@
+{
+  "name": "별소라",
+  "description": "해류를 타고 바닷가로 떠밀려 온 소라. 빈 껍데기를 귓가에 대면 무언가를 그리워하는 듯한 바다의 소리를 들을 수 있다",
+  "sortorder": 2053,
+  "category": "EXCHANGE",
+  "materialtype": "리월 지역 특산물",
+  "source": [
+    "리월 해안 채집"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Starconch.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Starconch.png",
+    "nameicon": "UI_ItemIcon_100033"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Starconch"
+  },
+  "version": ""
+}

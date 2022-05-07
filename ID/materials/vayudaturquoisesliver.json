@@ -1,0 +1,21 @@
+{
+  "name": "Vayuda Turquoise Sliver",
+  "description": "Material Ascension Karakter.",
+  "sortorder": 1838,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Dijatuhkan oleh Anemo Hypostasis",
+    "Dibeli dari Toko Suvenir"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vayuda_Turquoise_Sliver.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Item_Vayuda_Turquoise_Sliver.png",
+    "nameicon": "UI_ItemIcon_104151"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Vayuda_Turquoise_Sliver"
+  },
+  "version": ""
+}

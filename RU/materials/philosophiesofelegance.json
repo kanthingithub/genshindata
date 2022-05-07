@@ -1,0 +1,26 @@
+{
+  "name": "Философия об «Изяществе»",
+  "description": "Материал повышения таланта.\nИзящество - это облик царства гроз.\nИзящество презирает вульгарность, а изящные люди всегда идут своим путём. Противление заурядному злу, безразличие к заурядной любви, отказ прятаться за заурядным невежеством - вот та пропасть, что отделяет изящное от ничтожного.",
+  "sortorder": 1874,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Повышение талантов",
+  "dropdomain": "Мастерство: Ущелье весеннего грома",
+  "daysofweek": [
+    "Вторник",
+    "Пятница",
+    "Воскресенье"
+  ],
+  "source": [
+    "Алхимия"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Elegance.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Item_Philosophies_of_Elegance.png",
+    "nameicon": "UI_ItemIcon_104325"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Elegance"
+  },
+  "version": ""
+}

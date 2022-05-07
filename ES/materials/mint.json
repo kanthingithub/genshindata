@@ -1,0 +1,19 @@
+{
+  "name": "Menta",
+  "description": "Un ingrediente extremadamente refrescante. Su fresco e intenso sabor puede apaciguar el picante de muchos platos.",
+  "sortorder": 1982,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente culinario",
+  "source": [
+    "Recolectar en la naturaleza"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mint.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Mint.png",
+    "nameicon": "UI_ItemIcon_100016"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mint"
+  },
+  "version": ""
+}

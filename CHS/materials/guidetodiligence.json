@@ -1,0 +1,26 @@
+{
+  "name": "「勤劳」的指引",
+  "description": "天赋培养素材。\n岩之国土的根基是勤劳。\n勤劳是流传在璃月人血脉中的催化剂，能将岩石化为黄金，是伟大商港之所以为伟大商港的原因。",
+  "sortorder": 1864,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "天赋培养素材",
+  "dropdomain": "精通秘境：深炎之底",
+  "daysofweek": [
+    "周二",
+    "周五",
+    "周日"
+  ],
+  "source": [
+    "合成获得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Guide_to_Diligence.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/9f/Item_Guide_to_Diligence.png",
+    "nameicon": "UI_ItemIcon_104314"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Guide_to_Diligence"
+  },
+  "version": ""
+}

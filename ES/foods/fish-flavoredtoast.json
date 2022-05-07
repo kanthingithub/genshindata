@@ -1,0 +1,36 @@
+{
+  "name": "Tostada de mariscos",
+  "rarity": "2",
+  "foodtype": "SPECIALTY",
+  "foodfilter": "Platos que mejoran la defensa",
+  "foodcategory": "Def_Add",
+  "effect": "Aumenta la DEF de todos los miembros del equipo en 151 pts. durante 300 s. En modo multijugador, solo tendrá efecto en tus propios personajes.",
+  "description": "La especialidad de Klee. A modo de disculpa por usar sus bombas para ahuyentar a los peces, Jean enseñó a Klee a hacer esta tostada para los pescadores. Sacia y está deliciosa. Desde entonces, Klee nunca ha vuelto a pasar hambre, ni siquiera después de un día entero de pesca con bombas.",
+  "basedish": "Tostada del pescador",
+  "character": "Klee",
+  "ingredients": [
+    {
+      "name": "Harina",
+      "count": 3
+    },
+    {
+      "name": "Tomate",
+      "count": 2
+    },
+    {
+      "name": "Cebolla",
+      "count": 1
+    },
+    {
+      "name": "Leche",
+      "count": 1
+    }
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_108115"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fish-Flavored_Toast"
+  },
+  "version": "1.0"
+}

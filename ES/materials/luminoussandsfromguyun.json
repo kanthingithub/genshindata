@@ -1,0 +1,26 @@
+{
+  "name": "Arena brillante de Guyun",
+  "description": "Material de ascensión de arma.\nLos imponentes pilares rocosos del Bosque de Piedra Guyun fueron una vez las lanzas de piedra que Morax usó para derrotar a sus enemigos. Con el paso del tiempo, el cuerpo del Arconte penetró en los pilares, otorgándoles una naturaleza divina. En la actualidad, de ellos a veces se derraman pedazos de odio y maldiciones.",
+  "sortorder": 2195,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de ascensión de arma",
+  "dropdomain": "Dominio de la forja: Altar de las nubes eléctricas",
+  "daysofweek": [
+    "Lunes",
+    "Jueves",
+    "Domingo"
+  ],
+  "source": [
+    "Comprado en la Tienda de recuerdos de Liyue"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Luminous_Sands_from_Guyun.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Luminous_Sands_from_Guyun.png",
+    "nameicon": "UI_ItemIcon_114013"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Luminous_Sands_from_Guyun"
+  },
+  "version": ""
+}

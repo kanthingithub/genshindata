@@ -1,0 +1,311 @@
+{
+  "name": "Reflet de tranche-brume",
+  "description": "Une épée qui flamboie d'une vive lumière violacée. Son nom de « Reflet » lui vient des étincelles qu'elle a une fois projetées dans les airs lorsqu'un malheureux choc la brisa autrefois.",
+  "weapontype": "Épée à une main",
+  "rarity": "5",
+  "baseatk": 48,
+  "substat": "DGT CRIT",
+  "subvalue": "9.6",
+  "effectname": "Fourreau de tranche-brume",
+  "effect": [
+    "Confère un bonus de DGT élémentaires de [12 %], et confère la puissance du sceau de tranche-brume. 1/2/3 charges de sceau de tranche-brume accordent au personnage respectivement [8/16/28 %] de bonus de DGT de son élément. Le personnage peut obtenir 1 charge de sceau de tranche-brume dans chacune des situations suivantes : si son attaque normale inflige des DGT élémentaires, il obtient une charge de 5 s ; s'il utilise son déchaînement élémentaire, il obtient une charge de 10 s ; si son énergie élémentaire est inférieure à 100 %, il obtient une charge qui disparaît lorsque l'énergie redevient pleine. La durée de chaque charge est calculée indépendamment.",
+    "Confère un bonus de DGT élémentaires de [15 %], et confère la puissance du sceau de tranche-brume. 1/2/3 charges de sceau de tranche-brume accordent au personnage respectivement [10/20/35 %] de bonus de DGT de son élément. Le personnage peut obtenir 1 charge de sceau de tranche-brume dans chacune des situations suivantes : si son attaque normale inflige des DGT élémentaires, il obtient une charge de 5 s ; s'il utilise son déchaînement élémentaire, il obtient une charge de 10 s ; si son énergie élémentaire est inférieure à 100 %, il obtient une charge qui disparaît lorsque l'énergie redevient pleine. La durée de chaque charge est calculée indépendamment.",
+    "Confère un bonus de DGT élémentaires de [18 %], et confère la puissance du sceau de tranche-brume. 1/2/3 charges de sceau de tranche-brume accordent au personnage respectivement [12/24/42 %] de bonus de DGT de son élément. Le personnage peut obtenir 1 charge de sceau de tranche-brume dans chacune des situations suivantes : si son attaque normale inflige des DGT élémentaires, il obtient une charge de 5 s ; s'il utilise son déchaînement élémentaire, il obtient une charge de 10 s ; si son énergie élémentaire est inférieure à 100 %, il obtient une charge qui disparaît lorsque l'énergie redevient pleine. La durée de chaque charge est calculée indépendamment.",
+    "Confère un bonus de DGT élémentaires de [21 %], et confère la puissance du sceau de tranche-brume. 1/2/3 charges de sceau de tranche-brume accordent au personnage respectivement [14/28/49 %] de bonus de DGT de son élément. Le personnage peut obtenir 1 charge de sceau de tranche-brume dans chacune des situations suivantes : si son attaque normale inflige des DGT élémentaires, il obtient une charge de 5 s ; s'il utilise son déchaînement élémentaire, il obtient une charge de 10 s ; si son énergie élémentaire est inférieure à 100 %, il obtient une charge qui disparaît lorsque l'énergie redevient pleine. La durée de chaque charge est calculée indépendamment.",
+    "Confère un bonus de DGT élémentaires de [24 %], et confère la puissance du sceau de tranche-brume. 1/2/3 charges de sceau de tranche-brume accordent au personnage respectivement [16/32/56 %] de bonus de DGT de son élément. Le personnage peut obtenir 1 charge de sceau de tranche-brume dans chacune des situations suivantes : si son attaque normale inflige des DGT élémentaires, il obtient une charge de 5 s ; s'il utilise son déchaînement élémentaire, il obtient une charge de 10 s ; si son énergie élémentaire est inférieure à 100 %, il obtient une charge qui disparaît lorsque l'énergie redevient pleine. La durée de chaque charge est calculée indépendamment."
+  ],
+  "r1": [
+    "12 %",
+    "8/16/28 %"
+  ],
+  "r2": [
+    "15 %",
+    "10/20/35 %"
+  ],
+  "r3": [
+    "18 %",
+    "12/24/42 %"
+  ],
+  "r4": [
+    "21 %",
+    "14/28/49 %"
+  ],
+  "r5": [
+    "24 %",
+    "16/32/56 %"
+  ],
+  "weaponmaterialtype": "",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 10000
+      },
+      {
+        "name": "Branche marine de corail",
+        "count": 5
+      },
+      {
+        "name": "Engrenage du chaos",
+        "count": 5
+      },
+      {
+        "name": "Garde-main ancien",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Branche marine de gemme",
+        "count": 5
+      },
+      {
+        "name": "Engrenage du chaos",
+        "count": 18
+      },
+      {
+        "name": "Garde-main ancien",
+        "count": 12
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Branche marine de gemme",
+        "count": 9
+      },
+      {
+        "name": "Axe du chaos",
+        "count": 9
+      },
+      {
+        "name": "Garde-main kageuchi",
+        "count": 9
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Branche marine de jade",
+        "count": 5
+      },
+      {
+        "name": "Axe du chaos",
+        "count": 18
+      },
+      {
+        "name": "Garde-main kageuchi",
+        "count": 14
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 55000
+      },
+      {
+        "name": "Branche marine de jade",
+        "count": 9
+      },
+      {
+        "name": "Œil du chaos",
+        "count": 14
+      },
+      {
+        "name": "Garde-main célèbre",
+        "count": 9
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 65000
+      },
+      {
+        "name": "Branche marine d'or",
+        "count": 6
+      },
+      {
+        "name": "Œil du chaos",
+        "count": 27
+      },
+      {
+        "name": "Garde-main célèbre",
+        "count": 18
+      }
+    ]
+  },
+  "images": {
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Narukami.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Narukami_Awaken.png",
+    "nameicon": "UI_EquipIcon_Sword_Narukami",
+    "namegacha": "UI_Gacha_EquipIcon_Sword_Narukami",
+    "nameawakenicon": "UI_EquipIcon_Sword_Narukami_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mistsplitter_Reforged"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 47.5369987487793,
+      "specialized": 0.09600000083446503
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 65.03061573904415,
+      "specialized": 0.11155199529337878
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 87.32546729086016,
+      "specialized": 0.13084800452482703
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 110.14322193011867,
+      "specialized": 0.15024000679910188
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 133.2937397767564,
+      "specialized": 0.16963199762928483
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 164.39374015822614,
+      "specialized": 0.16963199762928483
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 187.97209398570067,
+      "specialized": 0.18902399990355967
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 211.88320535370258,
+      "specialized": 0.20841600217783451
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 236.07952937522532,
+      "specialized": 0.22780799300801746
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 260.56110005138,
+      "specialized": 0.2472000067263842
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 291.6611004328497,
+      "specialized": 0.2472000067263842
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 316.4278724288215,
+      "specialized": 0.26659199755656715
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 341.43233485871497,
+      "specialized": 0.2859840112749339
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 372.6323356216544,
+      "specialized": 0.2859840112749339
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 397.9220220387724,
+      "specialized": 0.30537600210511684
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 423.4018426691018,
+      "specialized": 0.3247679929352998
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 454.5018411432229,
+      "specialized": 0.3247679929352998
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 480.26690842818425,
+      "specialized": 0.34416000665366653
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 506.2220872589496,
+      "specialized": 0.3634560044410229
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 537.3220933624652,
+      "specialized": 0.3634560044410229
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 563.4674517412568,
+      "specialized": 0.38284799527120583
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 589.85050055397,
+      "specialized": 0.4022400089895726
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 620.9504913986966,
+      "specialized": 0.4022400089895726
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 647.5236744246213,
+      "specialized": 0.4216320227079393
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 674.3345478844676,
+      "specialized": 0.44102399064993847
+    }
+  },
+  "version": "2.0"
+}

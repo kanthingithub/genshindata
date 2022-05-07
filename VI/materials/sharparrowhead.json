@@ -1,0 +1,22 @@
+{
+  "name": "Mũi Tên Sắc Bén",
+  "description": "Mũi tên tinh xảo. Đầu nhọn sắc bén có thể xuyên qua giáp kẻ địch như ném đá vào nước, đâm thẳng vào cơ thể thú săn.",
+  "sortorder": 1733,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Ghép Nhận",
+    "Xạ thủ Hilichurl cấp 40 trở lên rơi",
+    "Đổi từ Tinh Trần"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sharp_Arrowhead.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Item_Sharp_Arrowhead.png",
+    "nameicon": "UI_ItemIcon_112012"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sharp_Arrowhead"
+  },
+  "version": ""
+}

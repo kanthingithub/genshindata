@@ -1,0 +1,19 @@
+{
+  "name": "Rohes Geflügel",
+  "description": "Ein frisches Stück rohes Geflügel, das seinen Geschmack mit der richtigen Zubereitung besonders entfaltet.",
+  "sortorder": 1992,
+  "category": "EXCHANGE",
+  "materialtype": "Zutat",
+  "source": [
+    "Beute von Tieren"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fowl.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Item_Fowl.png",
+    "nameicon": "UI_ItemIcon_100064"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fowl"
+  },
+  "version": ""
+}

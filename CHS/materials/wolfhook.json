@@ -1,0 +1,20 @@
+{
+  "name": "钩钩果",
+  "description": "带着勾刺的莓果，会挂在狼的毛皮上来迁徙。看见它时，仿佛能听见狼的凄嚎在林间回荡…",
+  "sortorder": 2036,
+  "category": "EXCHANGE",
+  "materialtype": "蒙德区域特产",
+  "source": [
+    "野外采集",
+    "推荐：奔狼领采集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wolfhook.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/57/Item_Wolfhook.png",
+    "nameicon": "UI_ItemIcon_100021"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Wolfhook"
+  },
+  "version": ""
+}

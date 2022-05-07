@@ -1,0 +1,24 @@
+{
+  "name": "Teachings of Transience",
+  "description": "วัสดุยกระดับพรสวรรค์\nความฝันของดินแดนแห่งสายฟ้าคือความเป็นนิรันดร์\nความรุ่งโรจน์ของความเป็นนิรันดร์คือสิ่งที่ยิ่งใหญ่ที่สุดของความงามแห่งมนุษย์ ผู้คนในโลกนั้นคล้ายกับสายฟ้าไม่ใช่หรือ? สวยงามราวกับความฝันหรือดอกไม้ไฟที่ทิ้งร่องรอยเอาไว้ภายใต้ค่ำคืนอันเป็นนิรันดร์",
+  "sortorder": 1869,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุยกระดับพรสวรรค์",
+  "dropdomain": "ดันเจี้ยนแห่งการพัฒนา: ดินแดนแห่งสีม่วง",
+  "daysofweek": [
+    "วันจันทร์",
+    "วันพฤหัสบดี",
+    "วันอาทิตย์"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Transience.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Item_Teachings_of_Transience.png",
+    "nameicon": "UI_ItemIcon_104320"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Transience"
+  },
+  "version": ""
+}

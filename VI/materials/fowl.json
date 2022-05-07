@@ -1,0 +1,19 @@
+{
+  "name": "Thịt Gia Cầm",
+  "description": "Thịt gia cầm tươi ngon, khi qua xử lý sẽ tạo nên món ngon khó cưỡng.",
+  "sortorder": 1992,
+  "category": "EXCHANGE",
+  "materialtype": "Nguyên Liệu Thực Phẩm",
+  "source": [
+    "Động Vật Rơi Ra"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fowl.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Item_Fowl.png",
+    "nameicon": "UI_ItemIcon_100064"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fowl"
+  },
+  "version": ""
+}

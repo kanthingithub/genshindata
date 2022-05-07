@@ -1,0 +1,22 @@
+{
+  "name": "哀敘冰玉斷片",
+  "description": "角色突破素材。\n「…抱歉…」",
+  "sortorder": 1843,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培養素材",
+  "source": [
+    "40級以上急凍樹掉落",
+    "40級以上無相之冰掉落",
+    "合成獲得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shivada_Jade_Fragment.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Item_Shivada_Jade_Fragment.png",
+    "nameicon": "UI_ItemIcon_104162"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shivada_Jade_Fragment"
+  },
+  "version": ""
+}

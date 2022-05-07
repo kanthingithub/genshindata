@@ -1,0 +1,21 @@
+{
+  "name": "Ponta de Flecha Robusta",
+  "description": "Ponta de Flecha feita de modo rústico. Contudo, não deve ser subestimada. Os arcos são armas poderosas, mesmo que você seja {F#uma}{M#um} cavaleir{F#a}{M#o}, pode ser atingid{F#a}{M#o} por detrás.",
+  "sortorder": 1732,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Dropado por Hilichurls Arqueiros",
+    "Resgate de Poeira Estrelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Firm_Arrowhead.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_Firm_Arrowhead.png",
+    "nameicon": "UI_ItemIcon_112011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Firm_Arrowhead"
+  },
+  "version": ""
+}

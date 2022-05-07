@@ -1,0 +1,20 @@
+{
+  "name": "Condensed Resin",
+  "description": "Kamu bisa memiliki maksimal 5 buah dalam satu waktu.\nDapat digunakan sebagai pengganti Original Resin untuk mendapatkan lebih banyak hadiah dari Petrified Tree dan Ley Line Blossom.\nKristal yang mengandung banyak energi.\nPohon dan bunga yang berwarna perak ini terhubung ke Ley Line dengan menggunakan energi di dalam Resin, dan memurnikan endapan yang ada di dalamnya.",
+  "sortorder": 2594,
+  "rarity": "4",
+  "category": "CONSUME",
+  "materialtype": "Konsumsi",
+  "source": [
+    "Didapatkan melalui Craft"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_211",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Condensed_Resin.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Item_Condensed_Resin.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Condensed_Resin"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Corazón de la eternidad",
+  "description": "El núcleo que permite moverse de manera autónoma a la Maquinaria Eterna.\nSegún algunas teorías, los patrones de estos núcleos tienen la sabiduría y la lógica inscritas en ellos mediante un lenguaje imperceptible para el ojo humano. Algunas personas van más allá y creen que, debido al enorme tamaño de estos núcleos y sus complicadas inscripciones, estas máquinas decidieron abandonar su forma biomimética en pos de un mayor poder y funcionalidad.",
+  "sortorder": 1805,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Obtenido de Maquinarias Eternas (Niv. 30+)"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Perpetual_Heart.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Item_Perpetual_Heart.png",
+    "nameicon": "UI_ItemIcon_113023"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Perpetual_Heart"
+  },
+  "version": ""
+}

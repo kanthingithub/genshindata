@@ -1,0 +1,20 @@
+{
+  "name": "Núcleo de Marionete",
+  "description": "Um núcleo que propele o Maguu Kenki. Seu uso é o que permite que ele branda uma espada como se fosse uma criatura viva.\nNão importa o quão exímio seja nas artes marciais, ou quantas belas memórias possua, seu corpo inevitavelmente se deteriorará com o tempo, tal como a carne humana.\nTeme-se que só é possível se aproximar da eternidade se os quatro membros do corpo forem trocados por firmes engrenagens, e se o coração for substituído por um preciso mecanismo.",
+  "sortorder": 1804,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Dropado por Maguu Kenki Nv.30+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Marionette_Core.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/1d/Item_Marionette_Core.png",
+    "nameicon": "UI_ItemIcon_113022"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Marionette_Core"
+  },
+  "version": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Margarita voladora",
+  "description": "Una planta que adora el viento. Para los orgullosos hijos del viento, o los habitantes de Mondstadt, las margaritas voladoras son los “vientos visibles”.",
+  "sortorder": 2039,
+  "category": "EXCHANGE",
+  "materialtype": "Objeto típico de Mondstadt",
+  "source": [
+    "Recolectar cerca de la Estatua de Los Siete de Levantaviento",
+    "Recolectar bajo árboles en la naturaleza",
+    "Recolectar en la Guarida de Stormterror"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Windwheel_Aster.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Windwheel_Aster.png",
+    "nameicon": "UI_ItemIcon_100024"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Windwheel_Aster"
+  },
+  "version": ""
+}

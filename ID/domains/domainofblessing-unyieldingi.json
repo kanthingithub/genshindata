@@ -1,0 +1,252 @@
+{
+  "name": "Domain of Blessing: Tak Tergoyahkan",
+  "region": "Mondstadt",
+  "domainEntrance": "Ridge Watch",
+  "domainType": "Artefak",
+  "description": "yang bisa mendapatkan berkah dari tempat ritual ini hanyalah orang-orang yang berjiwa dan bertubuh kuat, serta tidak takut menghadapi penderitaan.\nSiapa pun yang berhasil melewati cobaan di dalam akan mendapatkan Artefak berharga. Dengan kekuatan Artefak ini, mungkin kamu bisa mencapai mimpi yang terlihat mustahil.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_4"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domain of Blessing: Tak Tergoyahkan I",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Hydro",
+        "Cryo",
+        "Geo"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "3"
+        },
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": "4"
+        },
+        {
+          "name": "Pale Flame",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Serangan musuh akan terpental saat menyerang Karakter yang dilindungi perisai, menciptakan serangan gelombang di posisi musuh berada dan mengakibatkan satu kali DMG area. Dapat terpicu setiap 2 detik."
+      ],
+      "monsterlist": [
+        "Pyro Slime",
+        "Large Pyro Slime",
+        "Hilichurl Berserker"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Tak Tergoyahkan II",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "Hydro",
+        "Cryo",
+        "Geo"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "3"
+        },
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": "4"
+        },
+        {
+          "name": "Pale Flame",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Serangan musuh akan terpental saat menyerang Karakter yang dilindungi perisai, menciptakan serangan gelombang di posisi musuh berada dan mengakibatkan satu kali DMG area. Dapat terpicu setiap 2 detik."
+      ],
+      "monsterlist": [
+        "Large Pyro Slime",
+        "Hilichurl Berserker",
+        "Blazing Axe Mitachurl"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Tak Tergoyahkan III",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Hydro",
+        "Cryo",
+        "Geo"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "3"
+        },
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": "4"
+        },
+        {
+          "name": "Pale Flame",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "4"
+        },
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": "5"
+        },
+        {
+          "name": "Pale Flame",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Serangan musuh akan terpental saat menyerang Karakter yang dilindungi perisai, menciptakan serangan gelombang di posisi musuh berada dan mengakibatkan satu kali DMG area. Dapat terpicu setiap 2 detik.",
+        ""
+      ],
+      "monsterlist": [
+        "Large Pyro Slime",
+        "Blazing Axe Mitachurl",
+        "Rock Shieldwall Mitachurl"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Tak Tergoyahkan IV",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "Geo"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "3"
+        },
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": "4"
+        },
+        {
+          "name": "Pale Flame",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "4"
+        },
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": "5"
+        },
+        {
+          "name": "Pale Flame",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Serangan musuh akan terpental saat menyerang Karakter yang dilindungi perisai, menciptakan serangan gelombang di posisi musuh berada dan mengakibatkan satu kali DMG area. Dapat terpicu setiap 2 detik.",
+        ""
+      ],
+      "monsterlist": [
+        "Geovishap"
+      ]
+    }
+  ]
+}

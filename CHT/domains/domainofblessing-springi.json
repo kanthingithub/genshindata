@@ -1,0 +1,319 @@
+{
+  "name": "祝聖秘境：驚蟄",
+  "region": "璃月",
+  "domainEntrance": "孤雲凌霄之處",
+  "domainType": "聖遺物",
+  "description": "這座遠古地脈祭壇中，聚集著覬覦著其中地脈鎮石的魔物。\n若能驅使雷元素的力量粉碎魔物，保護鎮石不被破壞，或許能獲得珍貴的聖遺物。",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_1"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "祝聖秘境：驚蟄 I",
+      "recommendedLevel": 34,
+      "recommendedElements": [
+        "雷元素"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "冒險閱歷",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 1525
+        },
+        {
+          "name": "好感經驗",
+          "count": 15
+        },
+        {
+          "name": "幸運兒",
+          "rarity": "2"
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "3"
+        },
+        {
+          "name": "幸運兒",
+          "rarity": "3"
+        }
+      ],
+      "disorder": [
+        "感電反應造成的傷害提高150%，影響範圍擴大100%。"
+      ],
+      "monsterlist": [
+        "水史萊姆",
+        "大型水史萊姆",
+        "水深淵法師"
+      ]
+    },
+    {
+      "name": "祝聖秘境：驚蟄 II",
+      "recommendedLevel": 47,
+      "recommendedElements": [
+        "雷元素"
+      ],
+      "unlockRank": 25,
+      "rewardPreview": [
+        {
+          "name": "冒險閱歷",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 1700
+        },
+        {
+          "name": "好感經驗",
+          "count": 15
+        },
+        {
+          "name": "幸運兒",
+          "rarity": "2"
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "3"
+        },
+        {
+          "name": "幸運兒",
+          "rarity": "3"
+        }
+      ],
+      "disorder": [
+        "引發超載反應時，會釋放能量衝擊，對周圍的敵人造成傷害。"
+      ],
+      "monsterlist": [
+        "火史萊姆",
+        "大型火史萊姆",
+        "火深淵法師"
+      ]
+    },
+    {
+      "name": "祝聖秘境：驚蟄 III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "雷元素"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "冒險閱歷",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 1850
+        },
+        {
+          "name": "好感經驗",
+          "count": 15
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "3"
+        },
+        {
+          "name": "幸運兒",
+          "rarity": "3"
+        },
+        {
+          "name": "悠古的磐岩",
+          "rarity": "4"
+        },
+        {
+          "name": "逆飛的流星",
+          "rarity": "4"
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "引發超導反應時，會釋放能量衝擊，對周圍的敵人造成傷害。"
+      ],
+      "monsterlist": [
+        "冰史萊姆",
+        "大型冰史萊姆",
+        "冰深淵法師"
+      ]
+    },
+    {
+      "name": "祝聖秘境：驚蟄 IV",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "雷元素"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "冒險閱歷",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 2025
+        },
+        {
+          "name": "好感經驗",
+          "count": 20
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "3"
+        },
+        {
+          "name": "幸運兒",
+          "rarity": "3"
+        },
+        {
+          "name": "悠古的磐岩",
+          "rarity": "4"
+        },
+        {
+          "name": "逆飛的流星",
+          "rarity": "4"
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "感電反應造成的傷害提高150%，影響範圍擴大100%。"
+      ],
+      "monsterlist": [
+        "水史萊姆",
+        "大型水史萊姆",
+        "打手丘丘人",
+        "水丘丘薩滿",
+        "水深淵法師"
+      ]
+    },
+    {
+      "name": "祝聖秘境：驚蟄 V",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "雷元素"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "冒險閱歷",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 2200
+        },
+        {
+          "name": "好感經驗",
+          "count": 20
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "3"
+        },
+        {
+          "name": "幸運兒",
+          "rarity": "3"
+        },
+        {
+          "name": "悠古的磐岩",
+          "rarity": "4"
+        },
+        {
+          "name": "逆飛的流星",
+          "rarity": "4"
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "4"
+        },
+        {
+          "name": "悠古的磐岩",
+          "rarity": "5"
+        },
+        {
+          "name": "逆飛的流星",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "引發超載反應時，會釋放能量衝擊，對周圍的敵人造成傷害。",
+        "引發融化反應時，會受到能量打擊，承受傷害。",
+        "引發蒸發反應時，會受到能量打擊，承受傷害。"
+      ],
+      "monsterlist": [
+        "火深淵法師",
+        "遺蹟守衛"
+      ]
+    },
+    {
+      "name": "祝聖秘境：驚蟄 VI",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "雷元素"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "冒險閱歷",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 2525
+        },
+        {
+          "name": "好感經驗",
+          "count": 20
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "3"
+        },
+        {
+          "name": "幸運兒",
+          "rarity": "3"
+        },
+        {
+          "name": "悠古的磐岩",
+          "rarity": "4"
+        },
+        {
+          "name": "逆飛的流星",
+          "rarity": "4"
+        },
+        {
+          "name": "勇士之心",
+          "rarity": "4"
+        },
+        {
+          "name": "悠古的磐岩",
+          "rarity": "5"
+        },
+        {
+          "name": "逆飛的流星",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "引發超導反應時，會釋放能量衝擊，對周圍的敵人造成傷害。",
+        "引發融化反應時，會受到能量打擊，承受傷害。",
+        "引發蒸發反應時，會受到能量打擊，承受傷害。"
+      ],
+      "monsterlist": [
+        "打手丘丘人",
+        "冰深淵法師",
+        "遺蹟獵者"
+      ]
+    }
+  ]
+}

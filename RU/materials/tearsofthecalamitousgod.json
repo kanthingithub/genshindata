@@ -1,0 +1,20 @@
+{
+  "name": "Слезы очищения божества бедствий",
+  "description": "Деталь марионетки, добытая из Царства эвтюмии. Жест выполнен в форме зловещего Глаза наказания.\nПоскольку проклятые божества способны одним лишь взглядом наложить проклятие и ниспослать бедствия, может показаться вполне естественным обвинять их во всех жизненных невзгодах. Однако если хорошенько подумать, будь твоя воля достаточно сильна, а убеждения тверды...\nБедствия продолжаются слишком долго. Даже свирепый Глаз наказания омоется слезами.",
+  "sortorder": 1815,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Защитник вечности Ур. 70+"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_113033",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Tears_of_the_Calamitous_God.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Item_Tears_of_the_Calamitous_God.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Tears_of_the_Calamitous_God"
+  },
+  "version": ""
+}

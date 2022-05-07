@@ -1,0 +1,306 @@
+{
+  "name": "뒷골목의 섬광",
+  "description": "어두운색의 곧은 장검. 뒷골목을 누비던 도적이 사용하던 검이다",
+  "weapontype": "한손검",
+  "rarity": "4",
+  "baseatk": 45,
+  "substat": "원소 마스터리",
+  "subvalue": "12",
+  "effectname": "골목의 레인저",
+  "effect": [
+    "캐릭터가 가하는 피해가 [12%] 증가한다. 피해를 받은 후, 피해 증가 효과가 5초 동안 사라진다",
+    "캐릭터가 가하는 피해가 [15%] 증가한다. 피해를 받은 후, 피해 증가 효과가 5초 동안 사라진다",
+    "캐릭터가 가하는 피해가 [18%] 증가한다. 피해를 받은 후, 피해 증가 효과가 5초 동안 사라진다",
+    "캐릭터가 가하는 피해가 [21%] 증가한다. 피해를 받은 후, 피해 증가 효과가 5초 동안 사라진다",
+    "캐릭터가 가하는 피해가 [24%] 증가한다. 피해를 받은 후, 피해 증가 효과가 5초 동안 사라진다"
+  ],
+  "r1": [
+    "12%"
+  ],
+  "r2": [
+    "15%"
+  ],
+  "r3": [
+    "18%"
+  ],
+  "r4": [
+    "21%"
+  ],
+  "r5": [
+    "24%"
+  ],
+  "weaponmaterialtype": "",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "모라",
+        "count": 5000
+      },
+      {
+        "name": "고탑 왕의 잔해",
+        "count": 3
+      },
+      {
+        "name": "무거운 나팔",
+        "count": 3
+      },
+      {
+        "name": "이능 두루마리",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "모라",
+        "count": 15000
+      },
+      {
+        "name": "고탑 왕의 절망",
+        "count": 3
+      },
+      {
+        "name": "무거운 나팔",
+        "count": 12
+      },
+      {
+        "name": "이능 두루마리",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "모라",
+        "count": 20000
+      },
+      {
+        "name": "고탑 왕의 절망",
+        "count": 6
+      },
+      {
+        "name": "흑동 나팔",
+        "count": 6
+      },
+      {
+        "name": "봉마의 두루마리",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "모라",
+        "count": 30000
+      },
+      {
+        "name": "고탑 왕의 조각",
+        "count": 3
+      },
+      {
+        "name": "흑동 나팔",
+        "count": 12
+      },
+      {
+        "name": "봉마의 두루마리",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "모라",
+        "count": 35000
+      },
+      {
+        "name": "고탑 왕의 조각",
+        "count": 6
+      },
+      {
+        "name": "흑수정 나팔",
+        "count": 9
+      },
+      {
+        "name": "금주의 두루마리",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "모라",
+        "count": 45000
+      },
+      {
+        "name": "고탑 왕의 깨진 꿈",
+        "count": 4
+      },
+      {
+        "name": "흑수정 나팔",
+        "count": 18
+      },
+      {
+        "name": "금주의 두루마리",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Outlaw.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Outlaw_Awaken.png",
+    "nameicon": "UI_EquipIcon_Sword_Outlaw",
+    "namegacha": "UI_Gacha_EquipIcon_Sword_Outlaw",
+    "nameawakenicon": "UI_EquipIcon_Sword_Outlaw_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/The_Alley_Flash"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 45.06869888305664,
+      "specialized": 11.999987602233887
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 61.924390159257655,
+      "specialized": 13.943984884262818
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 83.55736648274205,
+      "specialized": 16.355983525275747
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 105.68610017019364,
+      "specialized": 18.77998128414083
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 128.22044961172196,
+      "specialized": 21.20397761249592
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 154.12044923025223,
+      "specialized": 21.20397761249592
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 176.9702781885744,
+      "specialized": 23.627975371361003
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 200.13558666369045,
+      "specialized": 26.051973130226088
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 223.5262545361402,
+      "specialized": 28.475969458581176
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 247.14223882506303,
+      "specialized": 30.899968647956257
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 273.14224073241166,
+      "specialized": 30.899968647956257
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 296.89344280877776,
+      "specialized": 33.323964976311345
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 320.8699935372624,
+      "specialized": 35.747964165686426
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 346.7699950631413,
+      "specialized": 35.747964165686426
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 370.8366766563013,
+      "specialized": 38.171960494041514
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 395.0385760369045,
+      "specialized": 40.5959568223966
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 420.93856993338886,
+      "specialized": 40.5959568223966
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 445.275665611005,
+      "specialized": 43.01995601177168
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 469.65782672095884,
+      "specialized": 45.431953222274615
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 495.65782672095884,
+      "specialized": 45.431953222274615
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 520.1751841279256,
+      "specialized": 47.8559495506297
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 544.7376284576603,
+      "specialized": 50.279948740004784
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 570.6376376129338,
+      "specialized": 50.279948740004784
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 595.2902128073438,
+      "specialized": 52.703947929379865
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 620.0329618472897,
+      "specialized": 55.12794139671496
+    }
+  },
+  "version": "1.4"
+}

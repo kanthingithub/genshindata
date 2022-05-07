@@ -1,0 +1,22 @@
+{
+  "name": "Vajrada-Amethyst-Brocken",
+  "description": "Material für den Figurenaufstieg.\n„Dieser Körper ist einzigartig auf dieser Welt.“\n„Er sollte diese Welt beherrschen.“",
+  "sortorder": 1836,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Beute von Elektro-Hypostasen ab Stufe 60",
+    "Beute von Verkörperungen des Donners ab Stufe 60",
+    "Kann hergestellt werden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vajrada_Amethyst_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Item_Vajrada_Amethyst_Chunk.png",
+    "nameicon": "UI_ItemIcon_104143"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Vajrada_Amethyst_Chunk"
+  },
+  "version": ""
+}

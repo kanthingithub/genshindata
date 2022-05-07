@@ -1,0 +1,21 @@
+{
+  "name": "Dismal Prism",
+  "description": "Prisma yang awalnya dapat memantulkan polarisasi cahaya, tapi menjadi kusam setelah bertahun-tahun.",
+  "sortorder": 1768,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Dijatuhkan oleh Mirror Maidens",
+    "Penukaran Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dismal_Prism.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Dismal_Prism.png",
+    "nameicon": "UI_ItemIcon_112050"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dismal_Prism"
+  },
+  "version": ""
+}

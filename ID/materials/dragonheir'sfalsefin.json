@@ -1,0 +1,20 @@
+{
+  "name": "Dragonheir's False Fin",
+  "description": "Sepotong jaringan biologis yang kamu temukan setelah mengalahkan Bathysmal Vishap.\nMeskipun terlihat seperti semacam sirip, namun sebenarnya ia tidak punya fungsi apa pun.\nOrang-orang Byakuyakoku pernah melakukan penelitian yang mendalam terhadap Bathysmal Vishap. Ciri paling khas yang mereka miliki adalah kemampuan untuk memilih sifat genetis apa yang ingin diturunkan oleh mereka kepada keturunannya. Karena kebencian mereka yang besar terhadap umat manusia, para vishap ini akan kehilangan ketajaman visualnya pada saat mereka mencapai usia dewasa. Pada saat yang sama, mereka juga telah mengembangkan tingkat keberagaman struktur atom dalam unsur tertentu untuk tujuan pertempuran.",
+  "sortorder": 1813,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Dijatuhkan oleh Bathysmal Vishap Herd Lv. 30+"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_113031",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dragonheir's_False_Fin.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Item_Dragonheir%27s_False_Fin.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dragonheir's_False_Fin"
+  },
+  "version": ""
+}

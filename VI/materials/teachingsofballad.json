@@ -1,0 +1,24 @@
+{
+  "name": "Bài Giảng Của \"Thơ Văn\"",
+  "description": "Nguyên liệu bồi dưỡng Thiên Phú.\nLinh hồn đất nước của gió là thơ văn.\nThơ văn là tấm lòng tốt đẹp nhất. Trong khoảng thời gian vui vẻ, gió nơi thảo nguyên mang đầy ý thơ thổi khắp cánh đồng, giống như gió lay động cỏ cây, lay động lòng người.",
+  "sortorder": 1857,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Thiên Phú",
+  "dropdomain": "Bí Cảnh Tinh Thông: Đất Nước Ngủ Say",
+  "daysofweek": [
+    "Thứ 4",
+    "Thứ 7",
+    "Chủ Nhật"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Ballad.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Item_Teachings_of_Ballad.png",
+    "nameicon": "UI_ItemIcon_104307"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Ballad"
+  },
+  "version": ""
+}

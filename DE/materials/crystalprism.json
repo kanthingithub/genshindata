@@ -1,0 +1,22 @@
+{
+  "name": "Kristallprisma",
+  "description": "Ein Prisma, das Licht biegen kann.\nMit solchen Prismen können Trugbilder erzeugt werden, was solchen Geräten – sozusagen – die Macht gibt, die Herzen der Menschen zu beeinflussen.",
+  "sortorder": 1769,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Kann hergestellt werden",
+    "Beute von Jungfrauen aus Snezhnaya von den Fatui ab Stufe 40",
+    "Mit Sternenstaub kaufen"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crystal_Prism.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Item_Crystal_Prism.png",
+    "nameicon": "UI_ItemIcon_112051"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Crystal_Prism"
+  },
+  "version": ""
+}

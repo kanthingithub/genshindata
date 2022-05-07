@@ -1,0 +1,18 @@
+{
+  "name": "Переплетающиеся судьбы",
+  "description": "Судьбоносный камень, который соединяет мечты.\nЕго блёклое свечение переплетает судьбы и соединяет мечты так же, как звёзды соединяются в созвездия.",
+  "sortorder": 498,
+  "rarity": "5",
+  "category": "CONSUME",
+  "materialtype": "Лимитированный предмет Молитвы",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_223",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Intertwined_Fate.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Item_Intertwined_Fate.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Intertwined_Fate"
+  },
+  "version": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Old Handguard",
+  "description": "ส่วนป้องกันที่ติดอยู่บนดาบ Inazuma ซึ่งได้ผ่านการต่อสู้มาอย่างมากมาย\nสำหรับผู้ที่เชี่ยวชาญในเรื่องดาบนั้น กะบังดาบสามารถช่วยป้องกันมือจากดาบของฝ่ายตรงข้ามได้ แต่สำหรับซามูไรมือใหม่แล้ว กะบังดาบคงเป็นส่วนสำคัญในการป้องกันมือขวาของตัวเองซะมากกว่า",
+  "sortorder": 1762,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ดรอปจาก Nobushi",
+    "แลกเปลี่ยนด้วย Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Old_Handguard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Item_Old_Handguard.png",
+    "nameicon": "UI_ItemIcon_112044"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Old_Handguard"
+  },
+  "version": ""
+}

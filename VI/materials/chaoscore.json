@@ -1,0 +1,22 @@
+{
+  "name": "Trái Tim Hỗn Độn",
+  "description": "Là một phần trong di tích không còn hoạt động. Là trái tim năng lượng. Nếu có thể hiểu và tái tạo kỹ thuật này, không chừng có thể thay đổi thế giới.",
+  "sortorder": 1743,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Ghép Nhận",
+    "Thủ Vệ Di Tích cấp 60 trở lên rơi",
+    "Thợ Săn Di Tích cấp 60 trở lên rơi"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Core.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Chaos_Core.png",
+    "nameicon": "UI_ItemIcon_112025"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chaos_Core"
+  },
+  "version": ""
+}

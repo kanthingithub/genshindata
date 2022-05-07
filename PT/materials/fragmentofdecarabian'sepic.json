@@ -1,0 +1,26 @@
+{
+  "name": "Fragmentos Épicos da Decarabian",
+  "description": "Material de Avanço da Arma.\nAndrius uma vez declarou guerra contra Decarabian, mas falhou em sequer arranhar a capital do Lorde da Torre. Se não fosse pela canção da liberdade que despedaçou a cidade em um instante, os sonhos de Decarabian continuariam para sempre.",
+  "sortorder": 2185,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Ascensão de Armas",
+  "dropdomain": "Domínio da Forja: Cidade das Reflexões",
+  "daysofweek": [
+    "Segunda-feira",
+    "Quinta-feira",
+    "Domingo"
+  ],
+  "source": [
+    "Obtido na síntese"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragment_of_Decarabian's_Epic.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Fragment_of_Decarabian%27s_Epic.png",
+    "nameicon": "UI_ItemIcon_114003"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fragment_of_Decarabian's_Epic"
+  },
+  "version": ""
+}

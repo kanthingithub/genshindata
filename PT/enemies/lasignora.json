@@ -1,0 +1,195 @@
+{
+  "name": "La Signora",
+  "specialname": "La Signora",
+  "enemytype": "BOSS",
+  "category": "Chefe",
+  "description": "Signora, a Oitava dos Onze Mensageiros dos Fatui.\nAo contrário dos demais Fatui que usam de sua autoridade concedida pelas Ilusões para fins pessoais, a dela é uma Ilusão que acorrenta uma chama que devorará tudo. Diferentemente de uma arma usada para matar, poderia ser mais adequado considerar isto como uma ferramenta de encarceramento.\nE foram as brasas daquela chama, que se acumularam durante muitos anos, que romperiam o selo gelado da Ilusão que criou um aspecto retorcido em seu rosto.\n\nO amanhecer carmesim se refletiu em suas pupilas e, finalmente, ela abriu suas asas flamejantes e voou em direção à luz.\n\"Mas essa luz não é o amanhecer, querida Rosalyne. É um mar de chamas que vai consumir tudo.\"\nUma voz falou com ela em meio à luz.\n\nNo entanto, não importava, pois ela sabia em seu coração que as chamas a haviam devorado há muito tempo.",
+  "rewardpreview": [
+    {
+      "name": "EXP de Aventura",
+      "count": 300
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "EXP de Amizade"
+    },
+    {
+      "name": "Lasca de Jade Shivada"
+    },
+    {
+      "name": "Fragmento de Jade Shivada"
+    },
+    {
+      "name": "Pedaço de Jade Shivada"
+    },
+    {
+      "name": "Gema de Jade Shivada"
+    },
+    {
+      "name": "Lasca de Ágata Agnidus"
+    },
+    {
+      "name": "Fragmento de Ágata Agnidus"
+    },
+    {
+      "name": "Pedaço de Ágata Agnidus"
+    },
+    {
+      "name": "Gema de Ágata Agnidus"
+    },
+    {
+      "name": "Solvente dos Sonhos",
+      "count": 0.33
+    },
+    {
+      "name": "Momento Derretido"
+    },
+    {
+      "name": "Borboleta das Chamas Infernais"
+    },
+    {
+      "name": "Coração das Cinzas"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instrutor",
+      "rarity": "3"
+    },
+    {
+      "name": "O Exilado",
+      "rarity": "3"
+    },
+    {
+      "name": "Último Juramento do Gladiador",
+      "rarity": "4"
+    },
+    {
+      "name": "Trupe Itinerante",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instrutor",
+      "rarity": "4"
+    },
+    {
+      "name": "O Exilado",
+      "rarity": "4"
+    },
+    {
+      "name": "Último Juramento do Gladiador",
+      "rarity": "5"
+    },
+    {
+      "name": "Trupe Itinerante",
+      "rarity": "5"
+    },
+    {
+      "name": "Protótipo de Espada do Território do Norte"
+    },
+    {
+      "name": "Protótipo do Arco do Território do Norte"
+    },
+    {
+      "name": "Protótipo de Espadão do Território do Norte"
+    },
+    {
+      "name": "Protótipo de Catalisador do Território do Norte"
+    },
+    {
+      "name": "Protótipo de Lança do Território do Norte"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_LaSignora"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 513.9399908444029,
+      "attack": 76.13319315582885,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 2024.1830612137564,
+      "attack": 203.4083293985932,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 5957.874750514515,
+      "attack": 501.7499019824463,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 11094.789945280412,
+      "attack": 819.5298012541898,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 19920.928208313184,
+      "attack": 1225.2416554312222,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 36704.72439475497,
+      "attack": 1889.4817435136356,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 62012.59746199194,
+      "attack": 2660.773141056823,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 102564.67427988164,
+      "attack": 3673.071566613973,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 165456.3191879019,
+      "attack": 4725.795096868649,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 259702.01247135177,
+      "attack": 5709.411795508931,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 388220.12688163295,
+      "attack": 7386.62659546989,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 491370.10539378226,
+      "attack": 7533.291466042516,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 568355.2145917788,
+      "attack": 7680.983199416427,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

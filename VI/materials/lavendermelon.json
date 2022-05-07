@@ -1,0 +1,19 @@
+{
+  "name": "Dưa Tím",
+  "description": "Một loại trái cây có vỏ tươi sáng đẹp đẽ, phần thịt sau khi được nấu chín có hương vị vô cùng độc đáo.",
+  "sortorder": 2013,
+  "category": "EXCHANGE",
+  "materialtype": "Nguyên Liệu",
+  "source": [
+    "Thu thập ở ngoại thành Inazuma"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lavender_Melon.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Lavender_Melon.png",
+    "nameicon": "UI_ItemIcon_101211"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lavender_Melon"
+  },
+  "version": ""
+}

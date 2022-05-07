@@ -1,0 +1,21 @@
+{
+  "name": "Onikabuto",
+  "description": "Um escaravelho estranho que habita áreas ricas em energia Electro. Seu temperamento dócil e sedentário não poderia ser mais diferente da visão feroz e demoníaca exibida em sua casca blindada.",
+  "sortorder": 2060,
+  "category": "EXCHANGE",
+  "materialtype": "Especialidade de Inazuma",
+  "source": [
+    "Encontrado na natureza",
+    "Recomendação: Encontrado na Ilha Narukami",
+    "Recomendação: Encontrado em Tatarasuna"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Onikabuto.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Onikabuto.png",
+    "nameicon": "UI_ItemIcon_101201"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Onikabuto"
+  },
+  "version": ""
+}

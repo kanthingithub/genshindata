@@ -1,0 +1,17 @@
+{
+  "name": "Poeira Cristalina de Cisto",
+  "description": "Um enorme bloco de esporos em pó coletado de um cisto de esporos com uma estrutura completa. Coloque-o em um ambiente apropriado, e a área mais tarde poderá ser totalmente preenchida com uma próspera aglomeração de Cogumelos Flutuantes...",
+  "sortorder": 1782,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Dropado por Cogumelos Flutuantes Nv.60+",
+    "Obtido na síntese"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_112061",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crystalline_Cyst_Dust.png"
+  },
+  "version": "2.6"
+}

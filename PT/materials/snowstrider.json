@@ -1,0 +1,20 @@
+{
+  "name": "Rei da Neve",
+  "description": "Um Esgana-Gato raro que só habita em regiões nevadas e montanhosas. É bem possível que isto se deva ao seu temperamento muito mais frio em comparação com outros Esgana-Gatos. Esta espécie tem um grande amor pelo frio cruel, quase como se eles fossem pais e filhos. Embora possam viver em águas mais quentes, mas qualquer remoção de tais condições é como dar um golpe espiritual neles, e eles ficarão deprimidos e se recusarão a se multiplicar.\n\"Não é uma captura recomendada\". - Guia de Pesca Selvagem, Capítulo das Neves",
+  "sortorder": 2024,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Peixe",
+  "source": [
+    "Obtido ao pescar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Snowstrider.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Item_Snowstrider.png",
+    "nameicon": "UI_ItemIcon_131010"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Snowstrider"
+  },
+  "version": ""
+}

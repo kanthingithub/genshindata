@@ -1,0 +1,20 @@
+{
+  "name": "Очищающее сердце",
+  "description": "Вечные воды, оставленные духом океана.\nЭти воды уже давно растеклись по глубинам озёр, но они всё ещё сохраняют свою чистоту. Почему же существо столь чистое, как океан, принимает форму растения, рождённого на земле? Ведь им не нужно ни дыхание, ни питание...",
+  "sortorder": 1794,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Океаниды Ур. 30+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cleansing_Heart.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Item_Cleansing_Heart.png",
+    "nameicon": "UI_ItemIcon_113012"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cleansing_Heart"
+  },
+  "version": ""
+}

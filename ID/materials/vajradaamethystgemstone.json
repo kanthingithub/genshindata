@@ -1,0 +1,22 @@
+{
+  "name": "Vajrada Amethyst Gemstone",
+  "description": "Material Ascension Karakter.\n\"Tubuh ini adalah yang paling mulia dan agung dari semua di dunia ini.\"\n\"Ia harus memegang kendali semua di dunia ini.\"\n\"Ia dulunya menjanjikan orang-orangnya sebuah mimpi: kekekalan yang tidak pernah berubah.\"",
+  "sortorder": 1837,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Dijatuhkan oleh Electro Hypostasis Lv. 75+",
+    "Dijatuhkan oleh Thunder Manifestation Lv. 75+",
+    "Didapatkan melalui Craft"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vajrada_Amethyst_Gemstone.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Item_Vajrada_Amethyst_Gemstone.png",
+    "nameicon": "UI_ItemIcon_104144"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Vajrada_Amethyst_Gemstone"
+  },
+  "version": ""
+}

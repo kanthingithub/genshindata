@@ -1,0 +1,20 @@
+{
+  "name": "Entrelazavientos",
+  "description": "Si logras mantenerte en la zona de tensión ideal cuando estés pescando, esta caña reducirá el tiempo de forcejeo de los peces y tus posibilidades de éxito aumentarán. Este efecto solo funciona en Mondstadt.\n\nUna caña larga y brillante creada por un bardo de Mondstadt. Para usar el poder de Anemo y, así, levantar la caña, el bardo diseñó ingeniosamente un carrete de pesca hecho con las hojas de las margaritas voladoras, lo que refleja el carácter romántico del viento. No se sabe si hubo problemas con la fabricación o el propio diseño, pero el producto terminado no giraba tan libremente como se esperaba. Quizá esto es lo que llaman “intrusismo laboral”...",
+  "sortorder": 2435,
+  "rarity": "4",
+  "category": "FISH_ROD",
+  "materialtype": "Caña de pescar",
+  "source": [
+    "Gremio de Pescadores de Mondstadt"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_200901",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Windtangler.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Item_Windtangler.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Windtangler"
+  },
+  "version": ""
+}

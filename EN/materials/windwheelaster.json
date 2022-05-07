@@ -1,0 +1,21 @@
+{
+  "name": "Windwheel Aster",
+  "description": "A plant that adores the wind. To the proud children of the wind, or the citizens of Mondstadt, the Windwheel Asters are \"the visible winds.\"",
+  "sortorder": 2039,
+  "category": "EXCHANGE",
+  "materialtype": "Local Specialty (Mondstadt)",
+  "source": [
+    "Found near the Statue of The Seven at Windrise",
+    "Found under trees in the wild",
+    "Recommendation: Found in Stormterror's Lair"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Windwheel_Aster.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Windwheel_Aster.png",
+    "nameicon": "UI_ItemIcon_100024"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Windwheel_Aster"
+  },
+  "version": ""
+}

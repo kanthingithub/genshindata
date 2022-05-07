@@ -1,0 +1,20 @@
+{
+  "name": "바위의 인장",
+  "description": "리월 대지의 암석의 허락을 받아 부여받은 표식.\n리월항의 특정 장소에서 특수한 아이템을 교환할 수 있다",
+  "sortorder": 506,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "칠국의 인장",
+  "source": [
+    "리월 지역 탐사 보상"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_307",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Geo_Sigil.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Item_Geo_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Geo_Sigil"
+  },
+  "version": ""
+}

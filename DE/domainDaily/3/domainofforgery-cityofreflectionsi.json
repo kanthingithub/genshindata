@@ -1,0 +1,175 @@
+{
+  "name": "Sphäre der Kriegskunst: Stadt des glänzendes Wassers",
+  "region": "Mondstadt",
+  "domainEntrance": "Ceciliagarten",
+  "domainType": "Material zum Aufstieg von Waffen",
+  "description": "In diesem nassen Altar aus der Vergangenheit konzentriert sich enorme Hydro-Kraft.\nDie stickige und schwüle Luft verlängert die Abklingzeit von Fähigkeiten.\nSolltest du es schaffen, diese Prüfung zu bestehen, wirst du sicher etwas bekommen, womit du deine Waffen verstärken kannst.",
+  "daysOfWeek": [
+    "Montag",
+    "Donnerstag",
+    "Sonntag"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Water"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Sphäre der Kriegskunst: Stadt des glänzendes Wassers I",
+      "recommendedLevel": 15,
+      "recommendedElements": [
+        "Kryo",
+        "Pyro",
+        "Elektro"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1125
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 10
+        },
+        {
+          "name": "Decabarians zerbrochener Ziegel"
+        }
+      ],
+      "disorder": [
+        "Die Figur erleidet in regelmäßigen Abständen „Zähflüssige Bremse“: Verleiht der Figur das Hydro-Attribut und verlängert die Abklingzeit ihrer Fähigkeiten sehr."
+      ],
+      "monsterlist": [
+        "Hydro-Schleim",
+        "Großer Hydro-Schleim"
+      ]
+    },
+    {
+      "name": "Sphäre der Kriegskunst: Stadt des glänzendes Wassers II",
+      "recommendedLevel": 36,
+      "recommendedElements": [
+        "Kryo",
+        "Pyro",
+        "Elektro"
+      ],
+      "unlockRank": 21,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1550
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 15
+        },
+        {
+          "name": "Decabarians zerbrochener Ziegel"
+        },
+        {
+          "name": "Decabarians zerbröckelter Wall"
+        }
+      ],
+      "disorder": [
+        "Die Figur erleidet in regelmäßigen Abständen „Zähflüssige Bremse“: Verleiht der Figur das Hydro-Attribut und verlängert die Abklingzeit ihrer Fähigkeiten sehr."
+      ],
+      "monsterlist": [
+        "Hydro-Schleim",
+        "Großer Hydro-Schleim",
+        "Hilichurl mit Holzschild"
+      ]
+    },
+    {
+      "name": "Sphäre der Kriegskunst: Stadt des glänzendes Wassers III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Kryo",
+        "Pyro",
+        "Elektro"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 15
+        },
+        {
+          "name": "Decabarians zerbrochener Ziegel"
+        },
+        {
+          "name": "Decabarians zerbröckelter Wall"
+        },
+        {
+          "name": "Decabarians Palastfragment"
+        }
+      ],
+      "disorder": [
+        "Die Figur erleidet in regelmäßigen Abständen „Zähflüssige Bremse“: Verleiht der Figur das Hydro-Attribut und verlängert die Abklingzeit ihrer Fähigkeiten sehr."
+      ],
+      "monsterlist": [
+        "Hydro-Schleim",
+        "Großer Hydro-Schleim",
+        "Hydro-Samachurl",
+        "Hydro-Abgrundmagier"
+      ]
+    },
+    {
+      "name": "Sphäre der Kriegskunst: Stadt des glänzendes Wassers IV",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Kryo",
+        "Pyro",
+        "Elektro"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 20
+        },
+        {
+          "name": "Decabarians zerbrochener Ziegel"
+        },
+        {
+          "name": "Decabarians zerbröckelter Wall"
+        },
+        {
+          "name": "Decabarians Palastfragment"
+        },
+        {
+          "name": "Decabarians zerstörter Traum"
+        }
+      ],
+      "disorder": [
+        "Die Figur erleidet in regelmäßigen Abständen „Zähflüssige Bremse“: Verleiht der Figur das Hydro-Attribut und verlängert die Abklingzeit ihrer Fähigkeiten sehr."
+      ],
+      "monsterlist": [
+        "Großer Hydro-Schleim",
+        "Hydro-Abgrundmagier"
+      ]
+    }
+  ]
+}

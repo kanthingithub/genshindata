@@ -1,0 +1,21 @@
+{
+  "name": "ไม้ Aralia",
+  "description": "ไม้จาก \"ต้น Inazuman Cedar\" มีเนื้อที่นุ่มและลวดลายที่ตรงเป็นแนว ส่งกลิ่นหอมอันบางเบา\nสามารถนำมาใช้สร้างเฟอร์นิเจอร์ได้",
+  "sortorder": 1945,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "วัสดุ",
+  "source": [
+    "พบได้ในโลกกว้าง",
+    "แนะนำ: ตัดบริเวณเกาะ Narukami"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Aralia_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Item_Aralia_Wood.png",
+    "nameicon": "UI_ItemIcon_101311"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Aralia_Wood"
+  },
+  "version": ""
+}

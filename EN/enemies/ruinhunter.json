@@ -1,0 +1,141 @@
+{
+  "name": "Ruin Hunter",
+  "specialname": "Fo-74931",
+  "enemytype": "ELITE",
+  "category": "Automatons",
+  "description": "A giant alien-looking war machine.\nThey are said to be remnants from a lost ancient nation. It seems that the creators opted to forgo the low-performing humanoid-design in pursuit of improved combat effectiveness. They are extremely dangerous both in melee and ranged combat.\nConsidering these mere relics possess such extraordinary power, one cannot help but wonder what the civilization that produced them must have looked like at its height.",
+  "investigation": {
+    "name": "Ruin Hunter",
+    "category": "Elite Enemies",
+    "description": "A giant alien war machine.\\nThey are said to be remnants from a lost ancient nation. Apparently, the creators opted to forgo the low-performing humanoid-design in pursuit of improved combat effectiveness. They are extremely dangerous both in melee and ranged combat.\\nConsidering these mere relics possess such extraordinary power, one cannot help but wonder what the civilization that produced them must have looked like at its height."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Chaos Device",
+      "count": 2.6263
+    },
+    {
+      "name": "Chaos Circuit",
+      "count": 0.7003
+    },
+    {
+      "name": "Chaos Core",
+      "count": 0.1751
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "3"
+    },
+    {
+      "name": "The Exile",
+      "rarity": "3"
+    },
+    {
+      "name": "Traveling Doctor",
+      "rarity": "3"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "4"
+    },
+    {
+      "name": "The Exile",
+      "rarity": "4"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Formathr_None"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 437.5019589085132,
+      "attack": 177.64411222515264,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 1719.6243214995484,
+      "attack": 474.6194215347714,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 5311.200007694308,
+      "attack": 1170.7497374278319,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 8836.801959766774,
+      "attack": 1912.2361476140213,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 16169.096780894324,
+      "attack": 2858.8971133111045,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 29978.905535548925,
+      "attack": 4408.790607338597,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 50287.52887867391,
+      "attack": 6208.470482882694,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 78311.83582433872,
+      "attack": 8570.500074193114,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 111394.36524301395,
+      "attack": 11026.854907069355,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 146124.52006453648,
+      "attack": 13321.960470842896,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 220590.7292405963,
+      "attack": 17235.461557551753,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 321013.8823301643,
+      "attack": 17577.679578989046,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 431917.9003403038,
+      "attack": 17922.293613560032,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Enseñanzas del oro",
+  "description": "Material de mejora de talento.\nEl oro es el símbolo del Reino de Piedra.\nEs la sangre que fluye en las profundidades de la tierra de Liyue, los músculos que bombean su corazón y los huesos que hacen que pueda levantarse con orgullo.",
+  "sortorder": 1866,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de talento",
+  "dropdomain": "Dominio de la maestría: Aro de fuego",
+  "daysofweek": [
+    "Miércoles",
+    "Sábado",
+    "Domingo"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Gold.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Item_Teachings_of_Gold.png",
+    "nameicon": "UI_ItemIcon_104316"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Gold"
+  },
+  "version": ""
+}

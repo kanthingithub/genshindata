@@ -1,0 +1,21 @@
+{
+  "name": "Yumemiru Wood",
+  "description": "Kayu yang diperoleh dari pohon Sakura. Sangat berkualitas dan penuh kelembapan. Konon kayu ini dapat membawakan mimpi semanis musim semi kepada orang-orang.\nDapat digunakan untuk membuat perabotan.",
+  "sortorder": 1943,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Material",
+  "source": [
+    "Ditemukan di alam liar",
+    "Rekomendasi: Hasil Tebang dari Narukami Island"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Yumemiru_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/61/Item_Yumemiru_Wood.png",
+    "nameicon": "UI_ItemIcon_101309"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Yumemiru_Wood"
+  },
+  "version": ""
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Philosophie des „Golds“",
+  "description": "Material zum Verbessern von Talenten.\nGold ist das Symbol des Reiches des Gesteins.\nDas Gold ist Liyues Reichtum. Was Liyue zu diesem Reichtum verhilft, ist jedoch der wie Gold funkelnde Geist der Menschen.",
+  "sortorder": 1868,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Talenten",
+  "dropdomain": "Sphäre des Verständnisses: Ring aus glimmender Asche",
+  "daysofweek": [
+    "Mittwoch",
+    "Samstag",
+    "Sonntag"
+  ],
+  "source": [
+    "Kann hergestellt werden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Gold.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Item_Philosophies_of_Gold.png",
+    "nameicon": "UI_ItemIcon_104318"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Gold"
+  },
+  "version": ""
+}

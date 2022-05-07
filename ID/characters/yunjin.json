@@ -1,0 +1,911 @@
+{
+  "name": "Yun Jin",
+  "fullname": "Yun Jin",
+  "title": "Stage Lucida",
+  "description": "Seorang penyanyi opera Liyue yang mahir bernyanyi dan pintar menulis sandiwara. Gayanya lain dari yang lain — elegan dan lembut, persis seperti karakternya.",
+  "rarity": "4",
+  "element": "Geo",
+  "weapontype": "Polearm",
+  "substat": "Energy Recharge",
+  "gender": "Perempuan",
+  "body": "GIRL",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Yun-Han Opera Troupe",
+  "birthdaymmdd": "5/21",
+  "birthday": "21 Mei",
+  "constellation": "Opera Grandis",
+  "cv": {
+    "english": "Judy Alice Lee & Yang Yang",
+    "chinese": "贺文潇&杨扬",
+    "japanese": "小岩井ことり & Yang Yang",
+    "korean": "Sah Moon-young & Yang Yang"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Prithiva Topaz Silver",
+        "count": 1
+      },
+      {
+        "name": "Glaze Lily",
+        "count": 3
+      },
+      {
+        "name": "Damaged Mask",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Prithiva Topaz Fragment",
+        "count": 3
+      },
+      {
+        "name": "Riftborn Regalia",
+        "count": 2
+      },
+      {
+        "name": "Glaze Lily",
+        "count": 10
+      },
+      {
+        "name": "Damaged Mask",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Prithiva Topaz Fragment",
+        "count": 6
+      },
+      {
+        "name": "Riftborn Regalia",
+        "count": 4
+      },
+      {
+        "name": "Glaze Lily",
+        "count": 20
+      },
+      {
+        "name": "Stained Mask",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Prithiva Topaz Chunk",
+        "count": 3
+      },
+      {
+        "name": "Riftborn Regalia",
+        "count": 8
+      },
+      {
+        "name": "Glaze Lily",
+        "count": 30
+      },
+      {
+        "name": "Stained Mask",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Prithiva Topaz Chunk",
+        "count": 6
+      },
+      {
+        "name": "Riftborn Regalia",
+        "count": 12
+      },
+      {
+        "name": "Glaze Lily",
+        "count": 45
+      },
+      {
+        "name": "Ominous Mask",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Prithiva Topaz Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Riftborn Regalia",
+        "count": 20
+      },
+      {
+        "name": "Glaze Lily",
+        "count": 60
+      },
+      {
+        "name": "Ominous Mask",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_AvatarIcon_Yunjin",
+    "nameiconcard": "UI_AvatarIcon_Yunjin_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Yunjin",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Yunjin",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yunjin.png",
+    "namesideicon": "UI_AvatarIcon_Side_Yunjin",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Yunjin.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211226/2021122614194093504.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211226/2021122614194555292.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Yun_Jin"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 893.55517578125,
+      "attack": 16.02720069885254,
+      "defense": 61.574100494384766,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2295.543251694995,
+      "attack": 41.17387868706055,
+      "defense": 158.1838645224043,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2963.07474583562,
+      "attack": 53.14729883018799,
+      "defense": 204.1828650717207,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4438.334148462163,
+      "attack": 79.60820372964463,
+      "defense": 305.8416917168597,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4912.632854516851,
+      "attack": 88.11563380624375,
+      "defense": 338.52519391412534,
+      "specialized": 0.06669999659061432
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5650.7096205961425,
+      "attack": 101.3541050072754,
+      "defense": 389.3854140761341,
+      "specialized": 0.06669999659061432
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6283.1078139555175,
+      "attack": 112.6973438378418,
+      "defense": 432.9634093764271,
+      "specialized": 0.13330000638961792
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7021.184580034809,
+      "attack": 125.93581503887344,
+      "defense": 483.82362953843585,
+      "specialized": 0.13330000638961792
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7495.483286089497,
+      "attack": 134.44324606914688,
+      "defense": 516.5071317357015,
+      "specialized": 0.13330000638961792
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 8232.666135676904,
+      "attack": 147.6656835887543,
+      "defense": 567.3057528992413,
+      "specialized": 0.13330000638961792
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8706.964719661279,
+      "attack": 156.17311461902773,
+      "defense": 599.9892550965069,
+      "specialized": 0.20000000298023224
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9445.04105966026,
+      "attack": 169.41157817769454,
+      "defense": 650.8494458976966,
+      "specialized": 0.20000000298023224
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 9919.33988778526,
+      "attack": 177.9190053932707,
+      "defense": 683.5329480949622,
+      "specialized": 0.26669999957084656
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10657.416653864551,
+      "attack": 191.15747659430235,
+      "defense": 734.393168256971,
+      "specialized": 0.26669999957084656
+    }
+  },
+  "version": "2.4",
+  "constellations": {
+    "c1": {
+      "name": "Thespian Gallop",
+      "effect": "Mengurangi 18% CD **Opening Flourish**."
+    },
+    "c2": {
+      "name": "Myriad Mise-En-Scène",
+      "effect": "Setelah melancarkan **Cliffbreaker's Banner**, DMG Normal Attack seluruh anggota party di sekitar meningkat 15% selama 12 detik."
+    },
+    "c3": {
+      "name": "Seafaring General",
+      "effect": "Meningkatkan 3 level **Cliffbreaker's Banner**.\nMaksimum: Lv. 15."
+    },
+    "c4": {
+      "name": "Flower and a Fighter",
+      "effect": "Setelah Yun Jin memicu reaksi Crystallize, DEF Yun Jin meningkat 20% selama 12 detik."
+    },
+    "c5": {
+      "name": "Famed Throughout the Land",
+      "effect": "Meningkatkan 3 level **Opening Flourish**.\nMaksimum: Lv. 15."
+    },
+    "c6": {
+      "name": "Decorous Harmony",
+      "effect": "Meningkatkan 12% Normal ATK SPD Karakter yang berada dalam status **Flying Cloud Flag Formation**."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yunjin_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yunjin_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Yunjin_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yunjin_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Yunjin_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Yunjin_04.png",
+      "constellation": "Eff_UI_Talent_Yunjin"
+    },
+    "version": "2.4"
+  },
+  "talent": {
+    "name": "Yun Jin",
+    "combat1": {
+      "name": "Normal Attack: Cloud-Grazing Strike",
+      "info": "**Normal Attack**\nMelancarkan hingga 5 serangan tombak berturut-turut.\n\n**Charged Attack**\nMengonsumsi sejumlah Stamina untuk menerjang ke depan, mengakibatkan DMG pada musuh di jalurnya.\n\n**Plunging Attack**\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "attributes": [
+        {
+          "name": "DMG Tahap 1",
+          "parameters": [
+            "40.51%",
+            "43.80%",
+            "47.10%",
+            "51.81%",
+            "55.11%",
+            "58.88%",
+            "64.06%",
+            "69.24%",
+            "74.42%",
+            "80.07%",
+            "85.72%",
+            "91.37%",
+            "97.03%",
+            "102.68%",
+            "108.33%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 2",
+          "parameters": [
+            "40.25%",
+            "43.52%",
+            "46.80%",
+            "51.48%",
+            "54.76%",
+            "58.50%",
+            "63.65%",
+            "68.80%",
+            "73.94%",
+            "79.56%",
+            "85.18%",
+            "90.79%",
+            "96.41%",
+            "102.02%",
+            "107.64%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 3",
+          "parameters": [
+            "22.96%+27.52%",
+            "24.83%+29.76%",
+            "26.70%+32.00%",
+            "29.37%+35.20%",
+            "31.24%+37.44%",
+            "33.38%+40.00%",
+            "36.31%+43.52%",
+            "39.25%+47.04%",
+            "42.19%+50.56%",
+            "45.39%+54.40%",
+            "48.59%+58.24%",
+            "51.80%+62.08%",
+            "55.00%+65.92%",
+            "58.21%+69.76%",
+            "61.41%+73.60%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 4",
+          "parameters": [
+            "23.99%+28.81%",
+            "25.95%+31.15%",
+            "27.90%+33.50%",
+            "30.69%+36.85%",
+            "32.64%+39.20%",
+            "34.87%+41.87%",
+            "37.94%+45.56%",
+            "41.01%+49.24%",
+            "44.08%+52.93%",
+            "47.43%+56.95%",
+            "50.78%+60.97%",
+            "54.13%+64.99%",
+            "57.47%+69.01%",
+            "60.82%+73.03%",
+            "64.17%+77.05%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 5",
+          "parameters": [
+            "67.34%",
+            "72.82%",
+            "78.30%",
+            "86.13%",
+            "91.61%",
+            "97.87%",
+            "106.49%",
+            "115.10%",
+            "123.71%",
+            "133.11%",
+            "142.51%",
+            "151.90%",
+            "161.30%",
+            "170.69%",
+            "180.09%"
+          ]
+        },
+        {
+          "name": "DMG Charged Attack",
+          "parameters": [
+            "121.69%",
+            "131.60%",
+            "141.50%",
+            "155.65%",
+            "165.56%",
+            "176.87%",
+            "192.44%",
+            "208.00%",
+            "223.57%",
+            "240.55%",
+            "260.01%",
+            "282.89%",
+            "305.77%",
+            "328.65%",
+            "353.61%"
+          ]
+        },
+        {
+          "name": "Konsumsi Stamina Charged Attack",
+          "parameters": [
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25"
+          ]
+        },
+        {
+          "name": "DMG Selama Plunging",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "DMG Plunging Attack Min./Maks.",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Opening Flourish",
+      "info": "Yun Jin dapat menggunakan kuda-kuda bela dirinya untuk melawan para musuh.\n\n**Mode Tekan**\nMemutar tombak dengan kuda-kuda pembelah awan dan mengakibatkan Geo DMG.\n\n**Mode Tahan**\nMemasang kuda-kuda Opening Flourish dan melakukan charge untuk menciptakan sebuah perisai. Jumlah DMG yang dapat ditahan perisai didasarkan pada Max HP Yun Jin dan memiliki 150% efek penahanan terhadap semua Elemental DMG dan Physical DMG. Perisai akan berakhir saat Elemental Skill selesai dilancarkan.\nSaat melancarkan skill dengan melepas tombol, durasinya berakhir, atau perisainya hancur, Yun Jin akan menyerang dengan ayunan tombaknya dan melepaskan energi yang tersimpan untuk mengakibatkan Geo DMG.\nYun Jin akan melancarkan serangan Charge Tahap 1 atau Charge Tahap 2 berdasarkan durasi charge-nya.",
+      "description": "Di balik satu momen kejayaan di atas panggung, terdapat kerja keras selama sepuluh tahun.",
+      "attributes": [
+        {
+          "name": "DMG Mode Tekan",
+          "parameters": [
+            "149.12% DEF",
+            "160.30% DEF",
+            "171.49% DEF",
+            "186.40% DEF",
+            "197.58% DEF",
+            "208.77% DEF",
+            "223.68% DEF",
+            "238.59% DEF",
+            "253.50% DEF",
+            "268.42% DEF",
+            "283.33% DEF",
+            "298.24% DEF",
+            "316.88% DEF",
+            "335.52% DEF",
+            "354.16% DEF"
+          ]
+        },
+        {
+          "name": "DMG Charge Tahap 1",
+          "parameters": [
+            "260.96% DEF",
+            "280.53% DEF",
+            "300.10% DEF",
+            "326.20% DEF",
+            "345.77% DEF",
+            "365.34% DEF",
+            "391.44% DEF",
+            "417.54% DEF",
+            "443.63% DEF",
+            "469.73% DEF",
+            "495.82% DEF",
+            "521.92% DEF",
+            "554.54% DEF",
+            "587.16% DEF",
+            "619.78% DEF"
+          ]
+        },
+        {
+          "name": "DMG Charge Tahap 2",
+          "parameters": [
+            "372.80% DEF",
+            "400.76% DEF",
+            "428.72% DEF",
+            "466.00% DEF",
+            "493.96% DEF",
+            "521.92% DEF",
+            "559.20% DEF",
+            "596.48% DEF",
+            "633.76% DEF",
+            "671.04% DEF",
+            "708.32% DEF",
+            "745.60% DEF",
+            "792.20% DEF",
+            "838.80% DEF",
+            "885.40% DEF"
+          ]
+        },
+        {
+          "name": "Pertahanan Perisai",
+          "parameters": [
+            "12.00%Max HP+1155",
+            "12.90%Max HP+1271",
+            "13.80%Max HP+1396",
+            "15.00%Max HP+1531",
+            "15.90%Max HP+1675",
+            "16.80%Max HP+1830",
+            "18.00%Max HP+1993",
+            "19.20%Max HP+2167",
+            "20.40%Max HP+2350",
+            "21.60%Max HP+2542",
+            "22.80%Max HP+2744",
+            "24.00%Max HP+2956",
+            "25.50%Max HP+3178",
+            "27.00%Max HP+3409",
+            "28.50%Max HP+3650"
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "parameters": [
+            "9 detik",
+            "9 detik",
+            "9 detik",
+            "9 detik",
+            "9 detik",
+            "9 detik",
+            "9 detik",
+            "9 detik",
+            "9 detik",
+            "9 detik",
+            "9 detik",
+            "9 detik",
+            "9 detik",
+            "9 detik",
+            "9 detik"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Cliffbreaker's Banner",
+      "info": "Mengakibatkan Geo DMG Area dan memberikan efek Flying Cloud Flag Formation kepada seluruh anggota party di sekitar.\n\n**Flying Cloud Flag Formation**\nSaat mengakibatkan DMG kepada musuh dengan Normal Attack, DMG yang diakibatkan akan meningkat sesuai dengan DEF Yun Jin saat ini.\n\nEfek Flying Cloud Flag Formation akan hilang setelah durasinya berakhir atau lapisannya terkonsumsi dalam jumlah tertentu.\nSaat satu Normal Attack mengenai beberapa musuh secara bersamaan, jumlah lapisan Flying Cloud Flag Formation yang dikonsumsi akan disesuaikan dengan jumlah musuh yang terkena serangan. Efek dan jumlah lapisan Flying Cloud Flag Formation untuk setiap Karakter dalam party akan dihitung secara terpisah.",
+      "description": "\"Di tengah suara genderang perang, tombak dan pedang saling berayun, sang wanita cantik berubah menjadi jenderal yang membawa panji perang.\"\n\"Saat instrumen di atas panggung berbunyi serempak, lihatlah bagaimana dia mengalahkan para iblis ini!\"",
+      "attributes": [
+        {
+          "name": "DMG Skill",
+          "parameters": [
+            "244.00%",
+            "262.30%",
+            "280.60%",
+            "305.00%",
+            "323.30%",
+            "341.60%",
+            "366.00%",
+            "390.40%",
+            "414.80%",
+            "439.20%",
+            "463.60%",
+            "488.00%",
+            "518.50%",
+            "549.00%",
+            "579.50%"
+          ]
+        },
+        {
+          "name": "Peningkatan DMG",
+          "parameters": [
+            "32.16% DEF",
+            "34.57% DEF",
+            "36.98% DEF",
+            "40.20% DEF",
+            "42.61% DEF",
+            "45.02% DEF",
+            "48.24% DEF",
+            "51.46% DEF",
+            "54.67% DEF",
+            "57.89% DEF",
+            "61.10% DEF",
+            "64.32% DEF",
+            "68.34% DEF",
+            "72.36% DEF",
+            "76.38% DEF"
+          ]
+        },
+        {
+          "name": "Durasi",
+          "parameters": [
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik"
+          ]
+        },
+        {
+          "name": "Jumlah Lapisan",
+          "parameters": [
+            "30 lapis",
+            "30 lapis",
+            "30 lapis",
+            "30 lapis",
+            "30 lapis",
+            "30 lapis",
+            "30 lapis",
+            "30 lapis",
+            "30 lapis",
+            "30 lapis",
+            "30 lapis",
+            "30 lapis",
+            "30 lapis",
+            "30 lapis",
+            "30 lapis"
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "parameters": [
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik"
+          ]
+        },
+        {
+          "name": "Konsumsi Energy",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "True to Oneself",
+      "info": "Menggunakan **Opening Flourish** tepat saat Yun Jin terkena serangan akan melancarkan bentuk Charge Tahap 2 (Mode Tahan)-nya."
+    },
+    "passive2": {
+      "name": "Breaking Conventions",
+      "info": "Bonus DMG Normal Attack dari **Flying Cloud Flag Formation** akan meningkat lagi sebesar 2,5%/5%/7,5%/11,5% dari DEF Yun Jin saat party berisi Karakter dengan 1/2/3/4 jenis elemen berbeda."
+    },
+    "passive3": {
+      "name": "Light Nourishment",
+      "info": "Saat masakan jenis petualangan dimasak dengan sempurna, terdapat 12% kemungkinan mendapatkan hasil 2 kali lipat."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of \"Diligence\"",
+          "count": 3
+        },
+        {
+          "name": "Damaged Mask",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to \"Diligence\"",
+          "count": 2
+        },
+        {
+          "name": "Stained Mask",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to \"Diligence\"",
+          "count": 4
+        },
+        {
+          "name": "Stained Mask",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to \"Diligence\"",
+          "count": 6
+        },
+        {
+          "name": "Stained Mask",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to \"Diligence\"",
+          "count": 9
+        },
+        {
+          "name": "Stained Mask",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of \"Diligence\"",
+          "count": 4
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 4
+        },
+        {
+          "name": "Ashen Heart",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of \"Diligence\"",
+          "count": 6
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 6
+        },
+        {
+          "name": "Ashen Heart",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of \"Diligence\"",
+          "count": 12
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 9
+        },
+        {
+          "name": "Ashen Heart",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of \"Diligence\"",
+          "count": 16
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 12
+        },
+        {
+          "name": "Ashen Heart",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_03",
+      "combat2": "Skill_S_Yunjin_01",
+      "combat3": "Skill_E_Yunjin_01_HD",
+      "passive1": "UI_Talent_S_Yunjin_05",
+      "passive2": "UI_Talent_S_Yunjin_06",
+      "passive3": "UI_Talent_S_Yunjin_07"
+    },
+    "version": "2.4"
+  }
+}

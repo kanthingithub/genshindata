@@ -1,0 +1,20 @@
+{
+  "name": "北陸法器原胚",
+  "description": "生產武器的原素材。透過鍛造，可以生產出4星的法器。\n哲學中認為大理石蘊藏著成為美麗雕塑的潛能。這些原胚也孕育了無限可能。真讓人期待。",
+  "sortorder": 1965,
+  "rarity": "4",
+  "category": "EXCHANGE",
+  "materialtype": "素材",
+  "source": [
+    "BOSS掉落"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Northlander_Catalyst_Billet.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3b/Item_Northlander_Catalyst_Billet.png",
+    "nameicon": "UI_ItemIcon_101104"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Northlander_Catalyst_Billet"
+  },
+  "version": ""
+}

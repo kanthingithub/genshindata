@@ -1,0 +1,20 @@
+{
+  "name": "Tears of the Calamitous God",
+  "description": "ข้อต่อของหุ่นเชิดที่ได้มาจากดินแดนแห่งใจที่บริสุทธิ์ ชิ้นส่วนนี้เป็นรูปทรงของ Eye of Stormy Judgment\nเพียงแค่อาศัยการจ้องมองก็สามารถสร้างหายนะและคำสาปขึ้นได้ ด้วยเหตุเช่นนั้น การโทษว่าความโชคร้ายในชีวิตต่างเป็นเพราะเทพแห่งความหายนะจึงกลายเป็นเรื่องปกติ แต่ลองไตร่ตรองดูให้ดีเถิด ถ้ามีเจตจำนงแข็งแกร่งและศรัทธาที่มั่นคงเพียงพอแล้วละก็...\nอย่างไรก็ตาม ภัยพิบัตินับไม่ถ้วนนั้นเกิดขึ้นเมื่อนานแสนนานมาแล้ว แม้แต่การจ้องมองที่กราดเกรี้ยวก็ยังต้องชโลมตัวเองด้วยน้ำตา",
+  "sortorder": 1815,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "รางวัลการท้าทาย Sentinel of Eternity Lv. 70 ขึ้นไป"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_113033",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Tears_of_the_Calamitous_God.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Item_Tears_of_the_Calamitous_God.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Tears_of_the_Calamitous_God"
+  },
+  "version": ""
+}

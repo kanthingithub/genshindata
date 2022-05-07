@@ -1,0 +1,20 @@
+{
+  "name": "Médaka",
+  "description": "Un sémillant petit médaka, connu pour sa queue en forme de pétale.\nLe médaka est souvent gardé en vie dans un but purement ornemental, mais une fois qu'on goûte à sa chair, riche en saveurs et avec peu d'arêtes, il n'est pas rare de le retrouver dans une assiette pour le dîner.",
+  "sortorder": 2014,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Poisson",
+  "source": [
+    "Pêche"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Medaka.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Item_Medaka.png",
+    "nameicon": "UI_ItemIcon_131000"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Medaka"
+  },
+  "version": ""
+}

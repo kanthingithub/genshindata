@@ -1,0 +1,20 @@
+{
+  "name": "晶化骨髓",
+  "description": "蘊含著「祟神」力量的晶體。冶煉時加入這種物質的話，能極大地提高鋼鐵製品的強度與韌性。",
+  "sortorder": 2062,
+  "category": "EXCHANGE",
+  "materialtype": "稻妻區域特產",
+  "source": [
+    "野外採集",
+    "推薦：八醞島採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crystal_Marrow.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Crystal_Marrow.png",
+    "nameicon": "UI_ItemIcon_101203"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Crystal_Marrow"
+  },
+  "version": ""
+}

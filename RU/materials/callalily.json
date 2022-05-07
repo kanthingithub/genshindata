@@ -1,0 +1,20 @@
+{
+  "name": "Лилия калла",
+  "description": "Цветок, растущий у воды. Его лепестки достаточно твёрдые, но после приготовления становятся мягкими, сладкими и немножко горьковатыми на вкус.",
+  "sortorder": 2042,
+  "category": "EXCHANGE",
+  "materialtype": "Диковина Мондштадта",
+  "source": [
+    "У озёр",
+    "Спрингвейл"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Calla_Lily.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Item_Calla_Lily.png",
+    "nameicon": "UI_ItemIcon_100056"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Calla_Lily"
+  },
+  "version": ""
+}

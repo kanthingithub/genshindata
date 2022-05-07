@@ -1,0 +1,26 @@
+{
+  "name": "Mist Veiled Lead Elixir",
+  "description": "Weapon Ascension Material.\nJueyun Karst is the realm of the mighty and illuminated adepti. But other than the ability to control the elements of the world, Jueyun Karst is also home to three other untold secrets: Alchemy, Sigils, and Sub-Space Creation.",
+  "sortorder": 2199,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Weapon Ascension Material",
+  "dropdomain": "Domain of Forgery: Thundering Ruins",
+  "daysofweek": [
+    "Tuesday",
+    "Friday",
+    "Sunday"
+  ],
+  "source": [
+    "Purchase from the Souvenir Shop in Liyue"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Veiled_Lead_Elixir.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Mist_Veiled_Lead_Elixir.png",
+    "nameicon": "UI_ItemIcon_114017"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Veiled_Lead_Elixir"
+  },
+  "version": ""
+}

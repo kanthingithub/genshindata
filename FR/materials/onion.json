@@ -1,0 +1,19 @@
+{
+  "name": "Oignon",
+  "description": "Un légume rond qui fait pleurer tout le monde, même les durs à cuire.",
+  "sortorder": 1996,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrédient",
+  "source": [
+    "Épiceries"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Onion.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Item_Onion.png",
+    "nameicon": "UI_ItemIcon_100076"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Onion"
+  },
+  "version": ""
+}

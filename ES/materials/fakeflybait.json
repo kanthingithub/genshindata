@@ -1,0 +1,20 @@
+{
+  "name": "Cebo de mosca falsa",
+  "description": "Cebo que imita a una mosca fabricado con materiales de colores vivos. No tiene ningún olor y es especialmente eficaz para atraer a peces grandes con buena vista. Adecuado para las técnicas de pesca más avanzadas. Los Gremios de Pescadores de algunas regiones consideran que el buen uso de este cebo es uno de los requisitos para que sus miembros asciendan de categoría.\n\nPerfecto para pescar peces koi, peces globo y rayas.",
+  "sortorder": 1517,
+  "rarity": "2",
+  "category": "FISH_BAIT",
+  "materialtype": "Cebo",
+  "source": [
+    "Sintetizar"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_111026",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fake_Fly_Bait.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Item_Fake_Fly_Bait.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fake_Fly_Bait"
+  },
+  "version": ""
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Varunada Lazurite Gemstone",
+  "description": "Material Ascension Karakter.\n\"Ideologiku tidak bernoda.\"\n\"Aku harus membenarkanmu. Orang-orang di sini tidak berdosa di mata para Dewa... hanya hukum dan Tribunal yang bisa menghakimi seseorang.\"\n\"Mereka bahkan dapat menghakimiku. Jadi pujalah keindahan dan kemurnianku.\"",
+  "sortorder": 1829,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Dijatuhkan oleh Oceanid Lv. 75+",
+    "Dijatuhkan oleh Hydro Hypostasis Lv. 75",
+    "Didapatkan melalui Craft"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Varunada_Lazurite_Gemstone.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a4/Item_Varunada_Lazurite_Gemstone.png",
+    "nameicon": "UI_ItemIcon_104124"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Varunada_Lazurite_Gemstone"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Золотой лжедракон",
+  "description": "Изначально считалось, что эта большая рыба - потомок драконов.\nДлинные рога на голове, отсутствие чешуи, красно-золотое одеяние - настоящий подводный правитель. На самом деле они очень далеки от драконов. У них нет ни способности призывать дождь, ни навыков доминирования, из-за чего их часто лишают пищи другие хищные рыбы. Следовательно, их можно лишить титула «потомков драконов» и причислить к «ложным драконам».",
+  "sortorder": 2025,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Рыба",
+  "source": [
+    "Рыбалка"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Golden_Koi.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Golden_Koi.png",
+    "nameicon": "UI_ItemIcon_131011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Golden_Koi"
+  },
+  "version": ""
+}

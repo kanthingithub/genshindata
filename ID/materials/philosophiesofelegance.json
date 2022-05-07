@@ -1,0 +1,26 @@
+{
+  "name": "Philosophies of Elegance",
+  "description": "Material Penguatan Talenta.\n\"Elegance\" adalah wujud bangsa petir.\nKeanggunan membenci hal-hal yang vulgar. Seseorang yang anggun akan selalu berjalan di jalan kebenarannya sendiri. Ia melawan kejahatan sekecil apa pun, tidak mudah diperdaya oleh cinta yang murahan, dan tidak pernah berlindung di balik pembenaran diri — itulah cara-cara yang digunakannya untuk membuat dirinya yang anggun terpisah dari mereka yang tidak terhormat.",
+  "sortorder": 1874,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Talenta",
+  "dropdomain": "Domain of Mastery: Lembah Petir",
+  "daysofweek": [
+    "Selasa",
+    "Jumat",
+    "Minggu"
+  ],
+  "source": [
+    "Didapatkan melalui Craft"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Elegance.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Item_Philosophies_of_Elegance.png",
+    "nameicon": "UI_ItemIcon_104325"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Elegance"
+  },
+  "version": ""
+}

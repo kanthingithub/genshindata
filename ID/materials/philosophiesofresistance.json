@@ -1,0 +1,26 @@
+{
+  "name": "Philosophies of \"Resistance\"",
+  "description": "Material Penguatan Talenta.\nPerlawanan adalah tulang punggung Kerajaan Angin.\nSejarah Mondstadt adalah sejarah perlawanan. Rakyat bangkit untuk membiarkan puisi Mondstadt di masa depan bebas seperti angin yang menyebar ke seluruh negeri.",
+  "sortorder": 1856,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Talenta",
+  "dropdomain": "Domain of Mastery: Belenggu Jurang Es",
+  "daysofweek": [
+    "Selasa",
+    "Jumat",
+    "Minggu"
+  ],
+  "source": [
+    "Didapatkan melalui Craft"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Resistance.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Philosophies_of_Resistance.png",
+    "nameicon": "UI_ItemIcon_104306"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Resistance"
+  },
+  "version": ""
+}

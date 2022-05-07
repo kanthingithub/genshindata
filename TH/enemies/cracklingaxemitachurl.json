@@ -1,0 +1,153 @@
+{
+  "name": "Crackling Axe Mitachurl",
+  "specialname": "Dada Kundala",
+  "enemytype": "ELITE",
+  "category": "ชนเผ่า Hilichurl",
+  "description": "Hilichurl ร่างกายบึกบึนผู้กวัดแกว่งขวานขนาดยักษ์\nโจมตีอย่างรุนแรงโดยใช้ประโยชน์จาก Electro Slime ในการทำให้ขวานติดสถานะธาตุไฟฟ้า ซึ่งทำให้มีพลังทำลายล้างที่รุนแรง\nหัวขวานที่หลอมจากเหล็กกล้านั้น เป็นวัสดุที่ตรวจจับประจุไฟฟ้าได้ดีมาก Crackling Axe Mitachurl ที่ทั้งสูงและแข็งแรง จะชูขวานเพื่อเรียกสายฟ้า ซึ่งถือเป็นภาพที่ดูน่าเกรงขามมากสำหรับ Hilichurl",
+  "investigation": {
+    "name": "Mitachurl",
+    "category": "ระดับสูง",
+    "description": "หนึ่งในชนเผ่าของพวก Hilichurl นักรบผู้แข็งแกร่งซึ่งถูกคัดเลือกจากหนึ่งในร้อย\\nสำหรับพวก Hilichurl แล้ว สิ่งที่สำคัญที่สุดก็คือการได้กินเนื้อ และต่อสู้เพื่อให้ร่างกายแข็งแกร่งขึ้น หากสามารถเปลี่ยนเป็นนักรบที่ทั้งใหญ่และแข็งแกร่งอย่าง Mitachurl ได้ล่ะก็ จะได้กินเนื้อมากมายและก็ต่อสู้ได้มากขึ้นอีกด้วย"
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Heavy Horn",
+      "count": 1.5758
+    },
+    {
+      "name": "Black Bronze Horn",
+      "count": 0.4202
+    },
+    {
+      "name": "Black Crystal Horn",
+      "count": 0.1051
+    },
+    {
+      "name": "Damaged Mask",
+      "count": 0.5253
+    },
+    {
+      "name": "Stained Mask",
+      "count": 0.1401
+    },
+    {
+      "name": "Ominous Mask",
+      "count": 0.035
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "3"
+    },
+    {
+      "name": "The Exile",
+      "rarity": "3"
+    },
+    {
+      "name": "Traveling Doctor",
+      "rarity": "3"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "4"
+    },
+    {
+      "name": "The Exile",
+      "rarity": "4"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Brute_None_01"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 218.7509794542566,
+      "attack": 60.906552212361476,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 859.8121607497742,
+      "attack": 162.72665734099883,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 2655.600003847154,
+      "attack": 401.39990634691276,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 4418.400979883387,
+      "attack": 655.6238161127621,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 8084.548390447162,
+      "attack": 980.1932871321915,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 14989.452767774463,
+      "attack": 1511.5853374239596,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 25143.764439336956,
+      "attack": 2128.6184320330067,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 39155.91791216936,
+      "attack": 2938.457141733408,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 55697.182621506974,
+      "attack": 3780.6359339640476,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 73062.26003226824,
+      "attack": 4567.52926300207,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 110295.36462029815,
+      "attack": 5909.301052030816,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 160506.94116508216,
+      "attack": 6026.632944034442,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 215958.9501701519,
+      "attack": 6144.786326247908,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

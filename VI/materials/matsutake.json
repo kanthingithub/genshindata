@@ -1,0 +1,19 @@
+{
+  "name": "Nhung Tùng",
+  "description": "Nấm quý mọc trên cây thông, mùi hương thoang thoảng phát ra đã khiến nó bị phát hiện.",
+  "sortorder": 1991,
+  "category": "EXCHANGE",
+  "materialtype": "Nguyên Liệu Thực Phẩm",
+  "source": [
+    "Thu Thập Bên Ngoài"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Matsutake.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Item_Matsutake.png",
+    "nameicon": "UI_ItemIcon_100063"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Matsutake"
+  },
+  "version": ""
+}

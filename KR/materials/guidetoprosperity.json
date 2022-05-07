@@ -1,0 +1,26 @@
+{
+  "name": "「번영」의 인도",
+  "description": "특성 육성 소재.\n바위의 나라는 번영을 추구한다.\n번영은 리월이 자녀에게 한 약속이다: 번영으로 근로자에게 보답하고 황금으로 이 땅을 비추리라",
+  "sortorder": 1861,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "특성 육성 소재",
+  "dropdomain": "숙달 비경: 뜨거운 화염의 제단",
+  "daysofweek": [
+    "월요일",
+    "목요일",
+    "일요일"
+  ],
+  "source": [
+    "합성 획득"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Guide_to_Prosperity.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Item_Guide_to_Prosperity.png",
+    "nameicon": "UI_ItemIcon_104311"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Guide_to_Prosperity"
+  },
+  "version": ""
+}

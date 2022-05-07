@@ -1,0 +1,934 @@
+{
+  "name": "Beidou",
+  "fullname": "Beidou",
+  "title": "Uncrowned Lord of Ocean",
+  "description": "Pemimpin dari armada laut Crux Fleet. Bos wanita yang tegas dan berpendirian teguh.",
+  "rarity": "4",
+  "element": "Electro",
+  "weapontype": "Claymore",
+  "substat": "Electro DMG Bonus",
+  "gender": "Perempuan",
+  "body": "LADY",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Crux Fleet",
+  "birthdaymmdd": "2/14",
+  "birthday": "14 Februari",
+  "constellation": "Victor Mare",
+  "cv": {
+    "english": "Allegra Clark",
+    "chinese": "唐雅菁",
+    "japanese": "小清水亜美",
+    "korean": "Jung Yoo-mi"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Vajrada Amethyst Sliver",
+        "count": 1
+      },
+      {
+        "name": "Noctilucous Jade",
+        "count": 3
+      },
+      {
+        "name": "Treasure Hoarder Insignia",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "count": 3
+      },
+      {
+        "name": "Lightning Prism",
+        "count": 2
+      },
+      {
+        "name": "Noctilucous Jade",
+        "count": 10
+      },
+      {
+        "name": "Treasure Hoarder Insignia",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Vajrada Amethyst Fragment",
+        "count": 6
+      },
+      {
+        "name": "Lightning Prism",
+        "count": 4
+      },
+      {
+        "name": "Noctilucous Jade",
+        "count": 20
+      },
+      {
+        "name": "Silver Raven Insignia",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "count": 3
+      },
+      {
+        "name": "Lightning Prism",
+        "count": 8
+      },
+      {
+        "name": "Noctilucous Jade",
+        "count": 30
+      },
+      {
+        "name": "Silver Raven Insignia",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Vajrada Amethyst Chunk",
+        "count": 6
+      },
+      {
+        "name": "Lightning Prism",
+        "count": 12
+      },
+      {
+        "name": "Noctilucous Jade",
+        "count": 45
+      },
+      {
+        "name": "Golden Raven Insignia",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Vajrada Amethyst Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Lightning Prism",
+        "count": 20
+      },
+      {
+        "name": "Noctilucous Jade",
+        "count": 60
+      },
+      {
+        "name": "Golden Raven Insignia",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Character_Beidou_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Character_Beidou_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Beidou.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Beidou.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200227/2020022720085973518.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200227/2020022720104965706.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/515effa5bfabb8fc03a52cbf76a4a79e.png",
+    "nameicon": "UI_AvatarIcon_Beidou",
+    "nameiconcard": "UI_AvatarIcon_Beidou_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Beidou",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Beidou",
+    "namesideicon": "UI_AvatarIcon_Side_Beidou"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Beidou"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1094.149169921875,
+      "attack": 18.876480102539062,
+      "defense": 54.36375045776367,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2810.8692237900686,
+      "attack": 48.49367749143494,
+      "defense": 139.66047523706675,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3628.2547218369436,
+      "attack": 62.59570538450134,
+      "defense": 180.2729744741273,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5434.694765555556,
+      "attack": 93.76076996533811,
+      "defense": 270.0275147628545,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 6015.468569266493,
+      "attack": 103.78063118665159,
+      "defense": 298.88376552579393,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6919.236017357442,
+      "attack": 119.37260778380005,
+      "defense": 343.78823501725674,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7693.601373802754,
+      "attack": 132.73242338133423,
+      "defense": 382.26323349137783,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8597.368821893702,
+      "attack": 148.3243999784827,
+      "defense": 427.16770298284064,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9178.142503534327,
+      "attack": 158.3442631071448,
+      "defense": 456.02395756047736,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 10080.815360027482,
+      "attack": 173.91735559133667,
+      "defense": 500.8740413190699,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10661.589285808732,
+      "attack": 183.93721871999878,
+      "defense": 529.7302882673121,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11565.3562121687,
+      "attack": 199.5291863161401,
+      "defense": 574.6347318361186,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12146.13013794995,
+      "attack": 209.54904563010496,
+      "defense": 603.4909787843608,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 13049.897586040897,
+      "attack": 225.14102222725342,
+      "defense": 648.3954482758236,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Sea Beast's Scourge",
+      "effect": "Saat **Stormbreaker** digunakan:\nMembentuk perisai yang menahan DMG sebesar 16% dari Max HP Beidou selama 15 detik.\nPerisai ini juga menahan Electro DMG 250% lebih efektif."
+    },
+    "c2": {
+      "name": "Upon the Turbulent Sea, the Thunder Arises",
+      "effect": "Sambaran listrik **Stormbreaker** menyambar 2 musuh lebih banyak."
+    },
+    "c3": {
+      "name": "Summoner of Storm",
+      "effect": "Meningkatkan 3 level **Tidecaller**.\nMaksimum: Lv. 15."
+    },
+    "c4": {
+      "name": "Stunning Revenge",
+      "effect": "Setelah terkena serangan, Normal Attack Beidou memperoleh 20% Electro DMG tambahan selama 10 detik."
+    },
+    "c5": {
+      "name": "Crimson Tidewalker",
+      "effect": "Meningkatkan 3 level **Stormbreaker**.\nMaksimum: Lv. 15."
+    },
+    "c6": {
+      "name": "Bane of Evil",
+      "effect": "Selama durasi **Stormbreaker**, Electro RES musuh di sekitar berkurang 15%."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Beidou_02.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Beidou_01.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Beidou_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Beidou_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Beidou_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Beidou_04.png",
+      "constellation": "Eff_UI_Talent_Beidou"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Beidou",
+    "combat1": {
+      "name": "Oceanborne",
+      "info": "**Normal Attack**\nMelancarkan hingga 5 serangan berturut-turut.\n\n**Charged Attack**\nTerus menguras Stamina untuk melancarkan tebasan berkelanjutan.\nDiakhiri dengan sebuah tebasan yang kuat.\n\n**Plunging Attack**\nMenerjang dari udara untuk menghantam tanah, menyerang semua musuh di jalurnya dan mengakibatkan DMG area saat mendarat.",
+      "attributes": [
+        {
+          "name": "DMG Tahap 1",
+          "parameters": [
+            "71.12%",
+            "76.91%",
+            "82.70%",
+            "90.97%",
+            "96.76%",
+            "103.38%",
+            "112.47%",
+            "121.57%",
+            "130.67%",
+            "140.59%",
+            "151.96%",
+            "165.33%",
+            "178.71%",
+            "192.08%",
+            "206.67%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 2",
+          "parameters": [
+            "70.86%",
+            "76.63%",
+            "82.40%",
+            "90.64%",
+            "96.41%",
+            "103.00%",
+            "112.06%",
+            "121.13%",
+            "130.19%",
+            "140.08%",
+            "151.41%",
+            "164.73%",
+            "178.06%",
+            "191.38%",
+            "205.92%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 3",
+          "parameters": [
+            "88.32%",
+            "95.51%",
+            "102.70%",
+            "112.97%",
+            "120.16%",
+            "128.38%",
+            "139.67%",
+            "150.97%",
+            "162.27%",
+            "174.59%",
+            "188.71%",
+            "205.32%",
+            "221.92%",
+            "238.53%",
+            "256.65%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 4",
+          "parameters": [
+            "86.52%",
+            "93.56%",
+            "100.60%",
+            "110.66%",
+            "117.70%",
+            "125.75%",
+            "136.82%",
+            "147.88%",
+            "158.95%",
+            "171.02%",
+            "184.85%",
+            "201.12%",
+            "217.39%",
+            "233.65%",
+            "251.40%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 5",
+          "parameters": [
+            "112.14%",
+            "121.27%",
+            "130.40%",
+            "143.44%",
+            "152.57%",
+            "163.00%",
+            "177.34%",
+            "191.69%",
+            "206.03%",
+            "221.68%",
+            "239.61%",
+            "260.70%",
+            "281.78%",
+            "302.87%",
+            "325.87%"
+          ]
+        },
+        {
+          "name": "DMG Berputar Charged Attack",
+          "parameters": [
+            "56.24%",
+            "60.82%",
+            "65.40%",
+            "71.94%",
+            "76.52%",
+            "81.75%",
+            "88.94%",
+            "96.14%",
+            "103.33%",
+            "111.18%",
+            "120.17%",
+            "130.75%",
+            "141.32%",
+            "151.90%",
+            "163.43%"
+          ]
+        },
+        {
+          "name": "DMG Akhir Charged Attack",
+          "parameters": [
+            "101.82%",
+            "110.11%",
+            "118.40%",
+            "130.24%",
+            "138.53%",
+            "148.00%",
+            "161.02%",
+            "174.05%",
+            "187.07%",
+            "201.28%",
+            "217.56%",
+            "236.71%",
+            "255.85%",
+            "275.00%",
+            "295.88%"
+          ]
+        },
+        {
+          "name": "Konsumsi Stamina Charged Attack",
+          "parameters": [
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk",
+            "40/dtk"
+          ]
+        },
+        {
+          "name": "Durasi Maksimum",
+          "parameters": [
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik",
+            "5 detik"
+          ]
+        },
+        {
+          "name": "DMG Selama Plunging",
+          "parameters": [
+            "74.59%",
+            "80.66%",
+            "86.73%",
+            "95.40%",
+            "101.47%",
+            "108.41%",
+            "117.95%",
+            "127.49%",
+            "137.03%",
+            "147.44%",
+            "157.85%",
+            "168.26%",
+            "178.66%",
+            "189.07%",
+            "199.48%"
+          ]
+        },
+        {
+          "name": "DMG Plunging Attack Min./Maks.",
+          "parameters": [
+            "149.14%/186.29%",
+            "161.28%/201.45%",
+            "173.42%/216.62%",
+            "190.77%/238.28%",
+            "202.91%/253.44%",
+            "216.78%/270.77%",
+            "235.86%/294.60%",
+            "254.93%/318.42%",
+            "274.01%/342.25%",
+            "294.82%/368.25%",
+            "315.63%/394.24%",
+            "336.44%/420.23%",
+            "357.25%/446.23%",
+            "378.06%/472.22%",
+            "398.87%/498.21%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Tidecaller",
+      "info": "Tidak ada yang perlu dikhawatirkan. Jika ada yang mengangkat tangan melawan dia atau anak buahnya, dia akan membalasnya sepuluh kali lipat dengan pedang dan petir.\n\n**Tekan**\nDengan akumulasi listrik, Beidou mengayunkan pedangnya dengan garang, mengakibatkan Electro DMG.\n\n**Tahan**\nMengangkat senjata dan menggunakannya sebagai perisai. Max DMG yang tertahan meningkat seiring dengan Max HP Beidou.\nSaat dilepas atau saat durasi skill selesai, menyerang dengan energi yang tersimpan di dalam pedang, mengakibatkan Electro DMG.\nDMG serangan meningkat berdasarkan jumlah serangan yang diterima selama skill berlangsung. Bonus DMG akan tercapai saat skill terpicu dua kali.\nPerisainya memiliki efek berikut:\n·Memiliki 250% ketahanan terhadap Electro DMG.\n·Memberikan elemen Electro kepada Beidou saat skill diaktifkan.",
+      "description": "Taklukkan deru lautan! Kendarai ombak dan terjanglah badai!",
+      "attributes": [
+        {
+          "name": "Pertahanan Perisai",
+          "parameters": [
+            "14.40% Max HP+1386",
+            "15.48% Max HP+1525",
+            "16.56% Max HP+1675",
+            "18.00% Max HP+1837",
+            "19.08% Max HP+2010",
+            "20.16% Max HP+2195",
+            "21.60% Max HP+2392",
+            "23.04% Max HP+2600",
+            "24.48% Max HP+2819",
+            "25.92% Max HP+3050",
+            "27.36% Max HP+3293",
+            "28.80% Max HP+3547",
+            "30.60% Max HP+3813",
+            "32.40% Max HP+4090",
+            "34.20% Max HP+4379"
+          ]
+        },
+        {
+          "name": "Base DMG",
+          "parameters": [
+            "121.60%",
+            "130.72%",
+            "139.84%",
+            "152.00%",
+            "161.12%",
+            "170.24%",
+            "182.40%",
+            "194.56%",
+            "206.72%",
+            "218.88%",
+            "231.04%",
+            "243.20%",
+            "258.40%",
+            "273.60%",
+            "288.80%"
+          ]
+        },
+        {
+          "name": "Bonus DMG saat menerima DMG",
+          "parameters": [
+            "160.00%",
+            "172.00%",
+            "184.00%",
+            "200.00%",
+            "212.00%",
+            "224.00%",
+            "240.00%",
+            "256.00%",
+            "272.00%",
+            "288.00%",
+            "304.00%",
+            "320.00%",
+            "340.00%",
+            "360.00%",
+            "380.00%"
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "parameters": [
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik",
+            "7.5 detik"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Stormbreaker",
+      "info": "Dengan memanggil kembali semangat tarung saat di tengah pertarungan sengit melawan Haishan, Beidou memanggil petir dan kekuatan yang luar biasa untuk menciptakan Thunderbeast's Targe di sekelilingnya, mengakibatkan Electro DMG kepada musuh di sekitarnya.\n\n**Thunderbeast's Targe**\n·Saat Normal dan Charged Attack mengenai musuh, memanggil 1 sambaran petir yang dapat melompat di antara musuh, mengakibatkan Electro DMG.\n·Meningkatkan ketahanan Beidou terhadap interupsi, dan mengurangi DMG yang diterima.\n\nSambaran petir terpicu maksimum 1 kali setiap detik.",
+      "description": "Dengan gemuruh petir, Haishan pun ditaklukkan.",
+      "attributes": [
+        {
+          "name": "DMG Skill",
+          "parameters": [
+            "121.60%",
+            "130.72%",
+            "139.84%",
+            "152.00%",
+            "161.12%",
+            "170.24%",
+            "182.40%",
+            "194.56%",
+            "206.72%",
+            "218.88%",
+            "231.04%",
+            "243.20%",
+            "258.40%",
+            "273.60%",
+            "288.80%"
+          ]
+        },
+        {
+          "name": "DMG Lightning",
+          "parameters": [
+            "96.00%",
+            "103.20%",
+            "110.40%",
+            "120.00%",
+            "127.20%",
+            "134.40%",
+            "144.00%",
+            "153.60%",
+            "163.20%",
+            "172.80%",
+            "182.40%",
+            "192.00%",
+            "204.00%",
+            "216.00%",
+            "228.00%"
+          ]
+        },
+        {
+          "name": "Pengurangan DMG",
+          "parameters": [
+            "20.00%",
+            "21.00%",
+            "22.00%",
+            "24.00%",
+            "25.00%",
+            "26.00%",
+            "28.00%",
+            "30.00%",
+            "32.00%",
+            "34.00%",
+            "35.00%",
+            "36.00%",
+            "37.00%",
+            "38.00%",
+            "39.00%"
+          ]
+        },
+        {
+          "name": "Durasi",
+          "parameters": [
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik",
+            "15 detik"
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "parameters": [
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik"
+          ]
+        },
+        {
+          "name": "Konsumsi Energy",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Retribution",
+      "info": "Membalas serangan menggunakan **Tidecaller** tepat saat serangan mengenai karakter akan memberikan Bonus DMG maksimum."
+    },
+    "passive2": {
+      "name": "Lightning Storm",
+      "info": "Selama 10 detik setelah menggunakan skill **Tidecaller** dengan Bonus DMG maksimum, Beidou akan mendapatkan efek:\n·Meningkatkan 15% DMG yang diakibatkan oleh Normal Attack dan Charged Attack. Meningkatkan 15% ATK SPD Normal Attack dan Charged Attack.\n·Mengurangi waktu persiapan Charged Attack secara pesat."
+    },
+    "passive3": {
+      "name": "Conqueror of Tides",
+      "info": "Mengurangi 20% konsumsi Stamina Karakter sendiri saat berenang.\nEfek tidak dapat ditumpuk dengan Talenta Pasif lain dengan efek yang sama."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of \"Gold\"",
+          "count": 3
+        },
+        {
+          "name": "Treasure Hoarder Insignia",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to \"Gold\"",
+          "count": 2
+        },
+        {
+          "name": "Silver Raven Insignia",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to \"Gold\"",
+          "count": 4
+        },
+        {
+          "name": "Silver Raven Insignia",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to \"Gold\"",
+          "count": 6
+        },
+        {
+          "name": "Silver Raven Insignia",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to \"Gold\"",
+          "count": 9
+        },
+        {
+          "name": "Silver Raven Insignia",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of \"Gold\"",
+          "count": 4
+        },
+        {
+          "name": "Golden Raven Insignia",
+          "count": 4
+        },
+        {
+          "name": "Dvalin's Sigh",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of \"Gold\"",
+          "count": 6
+        },
+        {
+          "name": "Golden Raven Insignia",
+          "count": 6
+        },
+        {
+          "name": "Dvalin's Sigh",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of \"Gold\"",
+          "count": 12
+        },
+        {
+          "name": "Golden Raven Insignia",
+          "count": 9
+        },
+        {
+          "name": "Dvalin's Sigh",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of \"Gold\"",
+          "count": 16
+        },
+        {
+          "name": "Golden Raven Insignia",
+          "count": 12
+        },
+        {
+          "name": "Dvalin's Sigh",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Beidou_01",
+      "combat3": "Skill_E_Beidou_01_HD",
+      "passive1": "UI_Talent_S_Beidou_05",
+      "passive2": "UI_Talent_S_Beidou_06",
+      "passive3": "UI_Talent_Explosion_Swim"
+    },
+    "version": "1.0"
+  }
+}

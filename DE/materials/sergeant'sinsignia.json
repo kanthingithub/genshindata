@@ -1,0 +1,24 @@
+{
+  "name": "Abzeichen für Unteroffiziere",
+  "description": "Ein Abzeichen, das den Unterschied zu normalen Soldaten anzeigt. In das ungewöhnliche Muster könnte man vielerlei Gefühle interpretieren.",
+  "sortorder": 1751,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Kann hergestellt werden",
+    "Beute von Fatui-Plänklern ab Stufe 40",
+    "Seltene Beute von Schuldeneintreibern der Fatui ab Stufe 40",
+    "Seltene Beute von Cicin-Zauberinnen der Fatui ab Stufe 40",
+    "Mit Sternenstaub kaufen"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sergeant's_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Sergeant%27s_Insignia.png",
+    "nameicon": "UI_ItemIcon_112033"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sergeant's_Insignia"
+  },
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Carne congelada",
+  "description": "Un tipo de carne fresca muy poco común.\nSegún los registros escritos, proviene de una especie ya extinta parecida al jabalí. Su carne ha podido conservarse hasta la actualidad gracias al clima extremo de Espinadragón. Es considerado un ingrediente prácticamente celestial por los amantes de la gastronomía de Teyvat.",
+  "sortorder": 2009,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente culinario",
+  "source": [
+    "Recolectado de animales"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chilled_Meat.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/da/Item_Chilled_Meat.png",
+    "nameicon": "UI_ItemIcon_100094"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chilled_Meat"
+  },
+  "version": ""
+}

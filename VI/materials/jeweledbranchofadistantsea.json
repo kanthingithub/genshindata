@@ -1,0 +1,26 @@
+{
+  "name": "Nhánh Ngọc Của Biển Xa",
+  "description": "Nguyên liệu có sức mạnh đột phá vũ khí.\nLoại san hô này không thể nhìn thấy được trên vùng đất Teyvat, và nó là món quà mà con rắn có được khi nó đột nhập vào \"Biển Đen\". Vì vậy, đối với loài rắn lớn dưới biển sâu, mang theo một nhánh san hô là biểu tượng của sức mạnh, khi nhánh san hô bị mất đi thì sức mạnh cũng sẽ mất đi. Nói cách khác, nhánh san hô bị gãy cũng ẩn chứa sức mạnh phi thường.",
+  "sortorder": 2208,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Đột Phá Vũ Khí",
+  "dropdomain": "Bí Cảnh Luyện Võ: Vực Trầm Sa",
+  "daysofweek": [
+    "Thứ 2",
+    "Thứ 5",
+    "Chủ Nhật"
+  ],
+  "source": [
+    "Ghép Nhận"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Jeweled_Branch_of_a_Distant_Sea.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Item_Jeweled_Branch_of_a_Distant_Sea.png",
+    "nameicon": "UI_ItemIcon_114026"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Jeweled_Branch_of_a_Distant_Sea"
+  },
+  "version": ""
+}

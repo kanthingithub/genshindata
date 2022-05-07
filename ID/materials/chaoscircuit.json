@@ -1,0 +1,23 @@
+{
+  "name": "Chaos Circuit",
+  "description": "Bagian dari mesin kuno yang sudah tidak lagi bekerja. Bagian ini terlihat seperti sirkuit yang menggerakkan tubuh mesin, sayangnya tidak ada yang dapat menebak bagaimana alat ini bekerja.",
+  "sortorder": 1742,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Didapatkan melalui Craft",
+    "Dijatuhkan oleh Ruin Guard Lv. 40+",
+    "Dijatuhkan oleh Ruin Hunter Lv. 40+",
+    "Penukaran Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Circuit.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Item_Chaos_Circuit.png",
+    "nameicon": "UI_ItemIcon_112024"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chaos_Circuit"
+  },
+  "version": ""
+}

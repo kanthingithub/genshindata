@@ -1,0 +1,319 @@
+{
+  "name": "Sphäre des Segens: Frühjahr",
+  "region": "Liyue",
+  "domainEntrance": "Stätte der einsamen Wolken",
+  "domainType": "Artefakt",
+  "description": "In diesem antiken Altar des Flusses der Elemente haben sich viele Monster versammelt, die es auf den Elementarmonolithen darin abgesehen haben.\nWenn du die Monster mithilfe der Elektro-Kraft vertreibst und den Monolithen vor der Zerstörung bewahrst, wirst du womöglich wertvolle Artefakte finden.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_1"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Sphäre des Segens: Frühjahr I",
+      "recommendedLevel": 34,
+      "recommendedElements": [
+        "Elektro"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1525
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 15
+        },
+        {
+          "name": "Glückspilz",
+          "rarity": "2"
+        },
+        {
+          "name": "Wagemut",
+          "rarity": "3"
+        },
+        {
+          "name": "Glückspilz",
+          "rarity": "3"
+        }
+      ],
+      "disorder": [
+        "Erhöht den mit der Reaktion Unter Strom verursachten Schaden um 150 % und vergrößert den Wirkungsbereich um 100 %."
+      ],
+      "monsterlist": [
+        "Hydro-Schleim",
+        "Großer Hydro-Schleim",
+        "Hydro-Abgrundmagier"
+      ]
+    },
+    {
+      "name": "Sphäre des Segens: Frühjahr II",
+      "recommendedLevel": 47,
+      "recommendedElements": [
+        "Elektro"
+      ],
+      "unlockRank": 25,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1700
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 15
+        },
+        {
+          "name": "Glückspilz",
+          "rarity": "2"
+        },
+        {
+          "name": "Wagemut",
+          "rarity": "3"
+        },
+        {
+          "name": "Glückspilz",
+          "rarity": "3"
+        }
+      ],
+      "disorder": [
+        "Beim Auftreten der Reaktion Überladen werden Energiestöße verteilt, die den Gegnern in der Umgebung Schaden zufügen."
+      ],
+      "monsterlist": [
+        "Pyro-Schleim",
+        "Großer Pyro-Schleim",
+        "Pyro-Abgrundmagier"
+      ]
+    },
+    {
+      "name": "Sphäre des Segens: Frühjahr III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Elektro"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 15
+        },
+        {
+          "name": "Wagemut",
+          "rarity": "3"
+        },
+        {
+          "name": "Glückspilz",
+          "rarity": "3"
+        },
+        {
+          "name": "Archaischer Fels",
+          "rarity": "4"
+        },
+        {
+          "name": "Umgekehrter Meteor",
+          "rarity": "4"
+        },
+        {
+          "name": "Wagemut",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Beim Auftreten der Reaktion Supraleiter werden Energiestöße verteilt, die den Gegnern in der Umgebung Schaden zufügen."
+      ],
+      "monsterlist": [
+        "Kryo-Schleim",
+        "Großer Kryo-Schleim",
+        "Kryo-Abgrundmagier"
+      ]
+    },
+    {
+      "name": "Sphäre des Segens: Frühjahr IV",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "Elektro"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 20
+        },
+        {
+          "name": "Wagemut",
+          "rarity": "3"
+        },
+        {
+          "name": "Glückspilz",
+          "rarity": "3"
+        },
+        {
+          "name": "Archaischer Fels",
+          "rarity": "4"
+        },
+        {
+          "name": "Umgekehrter Meteor",
+          "rarity": "4"
+        },
+        {
+          "name": "Wagemut",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Erhöht den mit der Reaktion Unter Strom verursachten Schaden um 150 % und vergrößert den Wirkungsbereich um 100 %."
+      ],
+      "monsterlist": [
+        "Hydro-Schleim",
+        "Großer Hydro-Schleim",
+        "Hilichurl-Kämpfer",
+        "Hydro-Samachurl",
+        "Hydro-Abgrundmagier"
+      ]
+    },
+    {
+      "name": "Sphäre des Segens: Frühjahr V",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Elektro"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 20
+        },
+        {
+          "name": "Wagemut",
+          "rarity": "3"
+        },
+        {
+          "name": "Glückspilz",
+          "rarity": "3"
+        },
+        {
+          "name": "Archaischer Fels",
+          "rarity": "4"
+        },
+        {
+          "name": "Umgekehrter Meteor",
+          "rarity": "4"
+        },
+        {
+          "name": "Wagemut",
+          "rarity": "4"
+        },
+        {
+          "name": "Archaischer Fels",
+          "rarity": "5"
+        },
+        {
+          "name": "Umgekehrter Meteor",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Beim Auftreten der Reaktion Überladen werden Energiestöße verteilt, die den Gegnern in der Umgebung Schaden zufügen.",
+        "Beim Auftreten der Reaktion Schmelzen erleidet die Figur einen hochenergetischen Schlag und somit Schaden.",
+        "Beim Auftreten der Reaktion Verdampfen erleidet die Figur einen hochenergetischen Schlag und somit Schaden."
+      ],
+      "monsterlist": [
+        "Pyro-Abgrundmagier",
+        "Ruinenwächter"
+      ]
+    },
+    {
+      "name": "Sphäre des Segens: Frühjahr VI",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "Elektro"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 20
+        },
+        {
+          "name": "Wagemut",
+          "rarity": "3"
+        },
+        {
+          "name": "Glückspilz",
+          "rarity": "3"
+        },
+        {
+          "name": "Archaischer Fels",
+          "rarity": "4"
+        },
+        {
+          "name": "Umgekehrter Meteor",
+          "rarity": "4"
+        },
+        {
+          "name": "Wagemut",
+          "rarity": "4"
+        },
+        {
+          "name": "Archaischer Fels",
+          "rarity": "5"
+        },
+        {
+          "name": "Umgekehrter Meteor",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Beim Auftreten der Reaktion Supraleiter werden Energiestöße verteilt, die den Gegnern in der Umgebung Schaden zufügen.",
+        "Beim Auftreten der Reaktion Schmelzen erleidet die Figur einen hochenergetischen Schlag und somit Schaden.",
+        "Beim Auftreten der Reaktion Verdampfen erleidet die Figur einen hochenergetischen Schlag und somit Schaden."
+      ],
+      "monsterlist": [
+        "Hilichurl-Kämpfer",
+        "Kryo-Abgrundmagier",
+        "Ruinenjäger"
+      ]
+    }
+  ]
+}

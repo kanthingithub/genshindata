@@ -1,0 +1,20 @@
+{
+  "name": "Fruto amakumo",
+  "description": "El fruto de la planta amakumo, que crece en la Isla Seirai. Si te lo acercas a la oreja, podrás oír la minúscula corriente eléctrica que restalla en su interior.",
+  "sortorder": 2067,
+  "category": "EXCHANGE",
+  "materialtype": "Objeto típico de Inazuma",
+  "source": [
+    "Recolectar en la naturaleza",
+    "Recolectar en la Isla Seirai"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Amakumo_Fruit.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Amakumo_Fruit.png",
+    "nameicon": "UI_ItemIcon_101208"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Amakumo_Fruit"
+  },
+  "version": ""
+}

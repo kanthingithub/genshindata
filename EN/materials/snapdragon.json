@@ -1,0 +1,19 @@
+{
+  "name": "Snapdragon",
+  "description": "Can be eaten once cooked. As a spice, it can bring wonderful flavor to dishes.",
+  "sortorder": 1981,
+  "category": "EXCHANGE",
+  "materialtype": "Cooking Ingredient",
+  "source": [
+    "Found near lakes and river banks"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Snapdragon.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Item_Snapdragon.png",
+    "nameicon": "UI_ItemIcon_100015"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Snapdragon"
+  },
+  "version": ""
+}

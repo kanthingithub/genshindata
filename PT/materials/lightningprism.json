@@ -1,0 +1,20 @@
+{
+  "name": "Prisma do Relâmpago",
+  "description": "Uma Hypostasis Electro canaliza energia elemental para curar entidades elementais danificadas. Ela contém a essência da energia elétrica.\nUm prisma comum separa a luz branca em suas cores componentes. Um prisma relâmpago, no entanto, canaliza a energia que flui e as transforma em raios. Isso continuará assim mesmo após a derrota da Hypostasis Electro.",
+  "sortorder": 1784,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Dropado pelo Hypostasis Electro Nv.30+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lightning_Prism.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Item_Lightning_Prism.png",
+    "nameicon": "UI_ItemIcon_113002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lightning_Prism"
+  },
+  "version": ""
+}

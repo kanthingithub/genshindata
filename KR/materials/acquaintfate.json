@@ -1,0 +1,18 @@
+{
+  "name": "만남의 인연",
+  "description": "밤하늘을 밝혀주는 희망의 씨앗.\n아무리 멀리 떨어져 있어도 운명의 사람들은 인연석의 빛에 이끌려 별빛 아래에서 만나게 된다",
+  "sortorder": 499,
+  "rarity": "5",
+  "category": "CONSUME",
+  "materialtype": "기원 아이템",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_224",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Acquaint_Fate.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Item_Acquaint_Fate.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Acquaint_Fate"
+  },
+  "version": ""
+}

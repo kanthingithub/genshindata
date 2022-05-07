@@ -1,0 +1,19 @@
+{
+  "name": "Frog",
+  "description": "Kodok yang mudah ditemui di tempat basah. Penuh dengan tenaga, di dalam tubuhnya terdapat nutrisi yang dapat memulihkan kebugaran tubuh.",
+  "sortorder": 1972,
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [
+    "Ditemukan di dekat perairan air tawar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Frog.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Item_Frog.png",
+    "nameicon": "UI_ItemIcon_100081"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Frog"
+  },
+  "version": ""
+}

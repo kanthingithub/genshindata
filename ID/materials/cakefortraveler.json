@@ -1,0 +1,18 @@
+{
+  "name": "Cake for Traveler",
+  "description": "Hadiah yang diberikan kepada seseorang yang sangat istimewa di hari yang sangat istimewa.\n\nIni untukmu, untukmu yang sibuk sekali.\nSemoga kamu menjalani perjalanan yang menyenangkan di dunia luas yang mengagumkan ini.\n\n\"Hidangan rekomendasi akan diperbarui setiap minggu, sementara berkah baru akan dikirimkan setiap bulan — tapi wow, hampir sembilan ribu jam lagi sebelum kita bisa merayakan hari ini kembali! Dan itu artinya... selama itu juga Paimon akan menemani kalian semua, Traveler!\"",
+  "sortorder": 2277,
+  "rarity": "4",
+  "category": "CONSUME",
+  "materialtype": "Item Spesial",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_118003",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cake_for_Traveler.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Item_Cake_for_Traveler.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cake_for_Traveler"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Fragmento de espada de Legado del mal",
+  "description": "Fragmento roto de arma obtenido tras derrotar a Nobile después de que este liberara el poder de su Engaño.\nDebido a la infinita oscuridad del lugar que vio el joven con sus propios ojos, está teñido irreversiblemente de un color tan profundo que no debería pertenecer a este mundo.\nAunque el poder del Engaño no tiene nada que ver con este fragmento, el objeto ha tomado la forma de su dueño...",
+  "sortorder": 1796,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Recompensa del reto de Nobile (Niv. 70+)"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shard_of_a_Foul_Legacy.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Item_Shard_of_a_Foul_Legacy.png",
+    "nameicon": "UI_ItemIcon_113014"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shard_of_a_Foul_Legacy"
+  },
+  "version": ""
+}

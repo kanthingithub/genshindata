@@ -1,0 +1,22 @@
+{
+  "name": "Corne à cristal noir",
+  "description": "Une corne en métal ornée d'un cristal noir. Probablement utilisée par les Brutocollinus lors de rituels, elle se trouve dans un état quasiment neuf.",
+  "sortorder": 1737,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Synthèse",
+    "Butin de Brutoviandu (Niv.60+)",
+    "Butin de Chef Brutorocheux (Niv.60+)"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Black_Crystal_Horn.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Item_Black_Crystal_Horn.png",
+    "nameicon": "UI_ItemIcon_112016"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Black_Crystal_Horn"
+  },
+  "version": ""
+}

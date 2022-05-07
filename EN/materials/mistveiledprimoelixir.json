@@ -1,0 +1,26 @@
+{
+  "name": "Mist Veiled Primo Elixir",
+  "description": "Weapon Ascension Material.\nAn elixir of the highest quality. It embodies a state of intertwining order and chaos, and is said to mirror how the world was when it was first created. Of course, a certain someone knows that this was not the case.",
+  "sortorder": 2202,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Weapon Ascension Material",
+  "dropdomain": "Domain of Forgery: Thundering Ruins",
+  "daysofweek": [
+    "Tuesday",
+    "Friday",
+    "Sunday"
+  ],
+  "source": [
+    "Crafted"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Veiled_Primo_Elixir.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a3/Item_Mist_Veiled_Primo_Elixir.png",
+    "nameicon": "UI_ItemIcon_114020"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Veiled_Primo_Elixir"
+  },
+  "version": ""
+}

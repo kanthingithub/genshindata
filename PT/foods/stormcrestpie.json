@@ -1,0 +1,36 @@
+{
+  "name": "Torta da Tempestade",
+  "rarity": "4",
+  "foodtype": "SPECIALTY",
+  "foodfilter": "Pratos de DEF",
+  "foodcategory": "Def_Add",
+  "effect": "Aumenta a Força do Escudo em 40% e a DEF em 282 por 300s. No modo multijogador, terá efeito apenas em si mesmo.",
+  "description": "A especialidade de Eula. É difícil dizer se a forma de meia-lua é para desrespeitar a tradição ou expressar sua filosofia de \"olho por olho, dente por dente\". Um sabor salgado, fresco e defumado emana sob a crosta externa dourada, dificilmente qualquer outra pessoa em Mondstadt saberia fazer essa iguaria da mesma forma... no entanto, é melhor não dizer isso a ela, para que ela não \"se vingue\" disso.",
+  "basedish": "Torta da Lua",
+  "character": "Eula",
+  "ingredients": [
+    {
+      "name": "Carne Crua",
+      "count": 4
+    },
+    {
+      "name": "Ovo de Pássaro",
+      "count": 4
+    },
+    {
+      "name": "Manteiga",
+      "count": 3
+    },
+    {
+      "name": "Farinha",
+      "count": 2
+    }
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_108245"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Stormcrest_Pie"
+  },
+  "version": "1.5"
+}

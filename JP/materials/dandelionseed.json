@@ -1,0 +1,20 @@
+{
+  "name": "蒲公英の種",
+  "description": "風に乗って移動する小さい種。旅するための羽を抜いても、そこには遠くへの希望が宿っている。",
+  "sortorder": 2043,
+  "category": "EXCHANGE",
+  "materialtype": "モンド地域の特産",
+  "source": [
+    "野外で採集",
+    "推奨：モンド城門で採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dandelion_Seed.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Item_Dandelion_Seed.png",
+    "nameicon": "UI_ItemIcon_100057"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dandelion_Seed"
+  },
+  "version": ""
+}

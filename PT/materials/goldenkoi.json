@@ -1,0 +1,20 @@
+{
+  "name": "Koi Dourado",
+  "description": "Um peixe grande que dizem ser descendente de dragões.\nParece um rei sob a água com um chifre em sua cabeça e um corpo dourado sem espinhas. Na verdade, sua linhagem e comportamento não poderiam ser mais diferentes de um dragão. Não pode nem chamar o vento e a chuva, nem o poder da dominação, na verdade, comumente é vítima de lhe roubarem a comida a sua frente devido ao seu corpo frágil. É uma pena, pois sua aparência é majestosa. Dessa forma, perdeu o apelido \"Descendente de Dragões\" e agora é chamado de \"Dragão Falso\".",
+  "sortorder": 2025,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Peixe",
+  "source": [
+    "Obtido ao pescar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Golden_Koi.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Golden_Koi.png",
+    "nameicon": "UI_ItemIcon_131011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Golden_Koi"
+  },
+  "version": ""
+}

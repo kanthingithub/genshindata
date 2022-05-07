@@ -1,0 +1,14 @@
+{
+  "name": "Duftende Würze",
+  "description": "Dieses Gewürz wurde nach dem Rezept von Nazafarin hergestellt. Es hat ein würziges Aroma und unterstreicht den Geschmack jedes Gerichts, dem es zugefügt wird.",
+  "sortorder": 1232,
+  "rarity": "1",
+  "category": "CONSUME",
+  "materialtype": "Verbrauchsgegenstand",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_101714",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragrant_Seasoning.png"
+  },
+  "version": "2.6"
+}

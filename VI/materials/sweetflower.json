@@ -1,0 +1,19 @@
+{
+  "name": "Hoa Ngọt",
+  "description": "Mùi hương thơm nồng, cho dù là trong đêm cũng có thể lần theo mùi hoa mà tìm.",
+  "sortorder": 1978,
+  "category": "EXCHANGE",
+  "materialtype": "Nguyên Liệu Thực Phẩm",
+  "source": [
+    "Thu Thập Bên Ngoài"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sweet_Flower.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Item_Sweet_Flower.png",
+    "nameicon": "UI_ItemIcon_100012"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sweet_Flower"
+  },
+  "version": ""
+}

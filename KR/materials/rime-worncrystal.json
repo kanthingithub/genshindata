@@ -1,0 +1,18 @@
+{
+  "name": "서리에 삼켜진 결정",
+  "description": "드래곤 스파인의 마물에게서 얻어낸 결정 덩어리.\n특수한 시기에만 생성된다",
+  "sortorder": 2292,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "설산 재료",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_200102",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Rime-Worn_Crystal.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Item_Rime-Worn_Crystal.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Rime-Worn_Crystal"
+  },
+  "version": ""
+}

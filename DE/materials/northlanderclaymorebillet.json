@@ -1,0 +1,20 @@
+{
+  "name": "Unbearbeiteter Zweihänder des Nordens",
+  "description": "Rohmaterial zum Herstellen von Waffen. Kann zu einem 4-Sterne-Zweihänder geschmiedet werden.\nIn der Philosophie spricht man dem Marmor großes Potenzial zu, weil es sich zu den schönsten Figuren machen lässt. Auch dieses Rohmaterial birgt unzählige Möglichkeiten. Was wohl einmal daraus wird?",
+  "sortorder": 1964,
+  "rarity": "4",
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [
+    "Beute von Bossen"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Northlander_Claymore_Billet.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Item_Northlander_Claymore_Billet.png",
+    "nameicon": "UI_ItemIcon_101103"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Northlander_Claymore_Billet"
+  },
+  "version": ""
+}

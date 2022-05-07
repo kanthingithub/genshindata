@@ -1,0 +1,20 @@
+{
+  "name": "石珀",
+  "description": "極純的岩元素凝成的珍稀晶石，常與其他礦物伴生。也被稱為「岩之心」。",
+  "sortorder": 2044,
+  "category": "EXCHANGE",
+  "materialtype": "璃月區域特產",
+  "source": [
+    "璃月山壁下採集",
+    "推薦：琥牢山採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cor_Lapis.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Item_Cor_Lapis.png",
+    "nameicon": "UI_ItemIcon_100058"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cor_Lapis"
+  },
+  "version": ""
+}

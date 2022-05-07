@@ -1,0 +1,18 @@
+{
+  "name": "Cristal de escarcha",
+  "description": "Un cristal obtenido en el hábitat de los monstruos en Espinadragón.\nSolo se produce en momentos especiales.",
+  "sortorder": 2292,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "Material de Espinadragón",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_200102",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Rime-Worn_Crystal.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Item_Rime-Worn_Crystal.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Rime-Worn_Crystal"
+  },
+  "version": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Gỗ Thùy Hương",
+  "description": "Vốn là gỗ Thương Bách, vì có nhiều dầu, hương thơm khác biệt mà được gọi với tên khác là Gỗ Thùy Hương.\nCó thể dùng để chế tạo đồ trang trí.",
+  "sortorder": 1947,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Nguyên Liệu",
+  "source": [
+    "Thu Thập Bên Ngoài",
+    "Kiến nghị: Đốn ở Vực Sao Rơi"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragrant_Cedar_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/65/Item_Fragrant_Cedar_Wood.png",
+    "nameicon": "UI_ItemIcon_101307"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fragrant_Cedar_Wood"
+  },
+  "version": ""
+}

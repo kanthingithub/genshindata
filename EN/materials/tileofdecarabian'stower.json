@@ -1,0 +1,26 @@
+{
+  "name": "Tile of Decarabian's Tower",
+  "description": "Weapon Ascension Material.\nThe place now known as Stormterror's Lair was once the capital city of Decarabian, the God of Storms. Since this dream of prosperity was created entirely by his divine might, the broken pieces left behind by the shattering of that dream still possess great power.",
+  "sortorder": 2183,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Weapon Ascension Material",
+  "dropdomain": "Domain of Forgery: City of Reflections",
+  "daysofweek": [
+    "Monday",
+    "Thursday",
+    "Sunday"
+  ],
+  "source": [
+    "Purchase from the Souvenir Shop in Mondstadt"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Tile_of_Decarabian's_Tower.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Item_Tile_of_Decarabian%27s_Tower.png",
+    "nameicon": "UI_ItemIcon_114001"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Tile_of_Decarabian's_Tower"
+  },
+  "version": ""
+}

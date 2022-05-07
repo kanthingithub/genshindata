@@ -1,0 +1,22 @@
+{
+  "name": "Cuihua Wood",
+  "description": "Timber obtained from Cuihua Trees. With its lovely color and unique make, it will surely be able to take on myriad uses upon undergoing suitable workmanship.\nCan be used to create furnishings.",
+  "sortorder": 1952,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Material",
+  "source": [
+    "Found in the wild",
+    "Recommendation: Cut from Starfell Valley",
+    "Recommendation: Cut from Bishui Plain"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cuihua_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c5/Item_Cuihua_Wood.png",
+    "nameicon": "UI_ItemIcon_101302"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cuihua_Wood"
+  },
+  "version": ""
+}

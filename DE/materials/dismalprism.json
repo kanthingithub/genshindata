@@ -1,0 +1,21 @@
+{
+  "name": "Düsteres Prisma",
+  "description": "Dies war einst ein Prisma, das Licht polarisieren konnte, aber im Laufe der Jahre ist es stumpf geworden.",
+  "sortorder": 1768,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Beute von Jungfrauen aus Snezhnaya von den Fatui",
+    "Mit Sternenstaub kaufen"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dismal_Prism.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Dismal_Prism.png",
+    "nameicon": "UI_ItemIcon_112050"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dismal_Prism"
+  },
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "スミレウリ",
+  "description": "鮮やかな色合いの果実。果肉を調理すると独特な食感の料理になる。",
+  "sortorder": 2013,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "稲妻野外で採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lavender_Melon.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Lavender_Melon.png",
+    "nameicon": "UI_ItemIcon_101211"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lavender_Melon"
+  },
+  "version": ""
+}

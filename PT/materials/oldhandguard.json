@@ -1,0 +1,21 @@
+{
+  "name": "Protetor de Mão Velho",
+  "description": "Um protetor de mão gasto que estava em uma lâmina de Inazuma.\nPara aqueles que são adeptos na esgrima, o tsuba é a defesa contra  a lâmina de um oponente. Para iniciantes, é uma defesa contra eles mesmos.",
+  "sortorder": 1762,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Dropado pelos Nobushi",
+    "Resgate de Poeira Estrelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Old_Handguard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Item_Old_Handguard.png",
+    "nameicon": "UI_ItemIcon_112044"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Old_Handguard"
+  },
+  "version": ""
+}

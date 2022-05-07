@@ -1,0 +1,22 @@
+{
+  "name": "Fir Wood",
+  "description": "Kayu dari Pohon \"Faber's Fir\". Sangat populer karena kualitas dan serat kayunya yang menarik.\nDapat digunakan untuk membuat perabotan.",
+  "sortorder": 1942,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Material",
+  "source": [
+    "Ditemukan di alam liar",
+    "Rekomendasi: Ditebang dari Starfell Valley",
+    "Rekomendasi: Ditebang dari Galesong Hill"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fir_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Item_Fir_Wood.png",
+    "nameicon": "UI_ItemIcon_101308"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fir_Wood"
+  },
+  "version": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Бамбук",
+  "description": "Сегменты бамбука, лёгкие и намного более прочные, чем можно предположить, глядя на их скромный внешний вид. Источают лёгкий аромат.\nСлужит для изготовления декора.",
+  "sortorder": 1949,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Материал",
+  "source": [
+    "Дикая природа",
+    "Долина Бишуй"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bamboo_Segment.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Bamboo_Segment.png",
+    "nameicon": "UI_ItemIcon_101305"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bamboo_Segment"
+  },
+  "version": ""
+}

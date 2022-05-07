@@ -1,0 +1,22 @@
+{
+  "name": "Eje del caos",
+  "description": "Un objeto procedente de una máquina de las ruinas inactiva.\nEn el momento en el que la integridad del mecanismo de este aparato se desmoronó, las grandiosas técnicas y la energía desconocida que albergaban en su interior también se esfumaron.",
+  "sortorder": 1766,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Sintetizar",
+    "Obtenido de Centinelas de las Ruinas (Niv. 40+)",
+    "Canjear Polvo estelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Axis.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Item_Chaos_Axis.png",
+    "nameicon": "UI_ItemIcon_112048"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chaos_Axis"
+  },
+  "version": ""
+}

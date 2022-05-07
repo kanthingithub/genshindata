@@ -1,0 +1,20 @@
+{
+  "name": "Everflame Seed",
+  "description": "A seed that fuels the unending flames of the Pyro Regisvine. It emits Pyro energy as if it will burn all that has ever sprouted from the ground.\nEndless desires flow among turbulent energy deep within the earth. What desire could steadily hold such fire to the plants and long so eagerly to bathe everything in unquenchable flames?",
+  "sortorder": 1793,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Dropped by Lv. 30+ Pyro Regisvines"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Everflame_Seed.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Item_Everflame_Seed.png",
+    "nameicon": "UI_ItemIcon_113011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Everflame_Seed"
+  },
+  "version": ""
+}

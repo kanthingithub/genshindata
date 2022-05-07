@@ -1,0 +1,19 @@
+{
+  "name": "玉ねぎ",
+  "description": "球状の草本植物。みじん切りにした人に復讐するため、機嫌の良し悪しに関わらず涙を流させる。",
+  "sortorder": 1996,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "雑貨屋で購入"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Onion.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Item_Onion.png",
+    "nameicon": "UI_ItemIcon_100076"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Onion"
+  },
+  "version": ""
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Сломанный клык арктического волка",
+  "description": "Материал возвышения оружия.\nВолчья стая понимает, что люди - не существа одиночества. Почётный сломанный зуб - это такой подарок на память, который приносит защиту и удачу.\nЛегенды далёкого мира рассказывают историю о волчице, усыновившей двух великих людей. Их домом была волчья пещера, которую они называли словом Луперкал, имевшим то же значение в их мире, что и Лупикал в этом.",
+  "sortorder": 2189,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Возвышение оружия",
+  "dropdomain": "Воля: Затопленное ущелье",
+  "daysofweek": [
+    "Вторник",
+    "Пятница",
+    "Воскресенье"
+  ],
+  "source": [
+    "Алхимия"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Boreal_Wolf's_Broken_Fang.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Boreal_Wolf%27s_Broken_Fang.png",
+    "nameicon": "UI_ItemIcon_114007"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Boreal_Wolf's_Broken_Fang"
+  },
+  "version": ""
+}

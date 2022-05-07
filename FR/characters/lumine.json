@@ -1,0 +1,929 @@
+{
+  "name": "Lumine",
+  "fullname": "Lumine",
+  "title": "",
+  "description": "{M#Un voyageur}{F#Une voyageuse} venant d'un autre monde qui a été {M#séparé}{F#séparée} de {M#sa sœur}{F#son frère}. {M#Il}{F#Elle} débute son périple à la recherche des Sept Archons de Teyvat dans l'espoir de {M#la}{F#le} retrouver.",
+  "rarity": "5",
+  "element": "Aucun",
+  "weapontype": "Épée à une main",
+  "substat": "ATQ",
+  "gender": "Femme",
+  "body": "GIRL",
+  "association": "MAINACTOR",
+  "region": "",
+  "affiliation": "",
+  "birthdaymmdd": "",
+  "birthday": "",
+  "constellation": "Viatrix",
+  "cv": {
+    "english": "Sarah Miller-Crews & Corina Boettger",
+    "chinese": "宴宁&多多poi",
+    "japanese": "悠木碧&古賀葵",
+    "korean": "Lee Sae-ah & Kim Ka-ryoung"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Éclat de diamant scintillant",
+        "count": 1
+      },
+      {
+        "name": "Chrysanthème à aubes",
+        "count": 3
+      },
+      {
+        "name": "Masque endommagé",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragment de diamant scintillant",
+        "count": 3
+      },
+      {
+        "name": "Chrysanthème à aubes",
+        "count": 10
+      },
+      {
+        "name": "Masque endommagé",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragment de diamant scintillant",
+        "count": 6
+      },
+      {
+        "name": "Chrysanthème à aubes",
+        "count": 20
+      },
+      {
+        "name": "Masque sale",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Morceau de diamant scintillant",
+        "count": 3
+      },
+      {
+        "name": "Chrysanthème à aubes",
+        "count": 30
+      },
+      {
+        "name": "Masque sale",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Morceau de diamant scintillant",
+        "count": 6
+      },
+      {
+        "name": "Chrysanthème à aubes",
+        "count": 45
+      },
+      {
+        "name": "Masque sinistre",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Diamant scintillant",
+        "count": 6
+      },
+      {
+        "name": "Chrysanthème à aubes",
+        "count": 60
+      },
+      {
+        "name": "Masque sinistre",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Traveler_Female_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Character_Traveler_%28Female%29_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_PlayerGirl.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/f11f153ff86acab65e3610f73b0d1728.png",
+    "nameicon": "UI_AvatarIcon_PlayerGirl",
+    "nameiconcard": "UI_AvatarIcon_PlayerGirl_Card",
+    "namesideicon": "UI_AvatarIcon_Side_PlayerGirl"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lumine"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 911.791015625,
+      "attack": 17.808000564575195,
+      "defense": 57.224998474121094,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2342.391124357935,
+      "attack": 45.74875355229187,
+      "defense": 147.01102140746116,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3023.54566537356,
+      "attack": 59.0525531815033,
+      "defense": 189.76102140746116,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4528.912435651757,
+      "attack": 88.45355827545154,
+      "defense": 284.23948155450853,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5012.890707136132,
+      "attack": 97.90625889038074,
+      "defense": 314.61448155450853,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5766.030280821957,
+      "attack": 112.61567116091919,
+      "defense": 361.8823425187111,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6411.334602111019,
+      "attack": 125.21927070925904,
+      "defense": 402.3823425187111,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7164.474175796844,
+      "attack": 139.9286829797975,
+      "defense": 449.65020348291364,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7648.452325210907,
+      "attack": 149.381384548401,
+      "defense": 480.02520348291364,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 8400.679739191197,
+      "attack": 164.07298161756898,
+      "defense": 527.2358163092613,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8884.658010675572,
+      "attack": 173.52567937147523,
+      "defense": 557.6108163092613,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9637.79714958556,
+      "attack": 188.2350831504973,
+      "defense": 604.8786499864582,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 10121.775421069935,
+      "attack": 197.68778471910082,
+      "defense": 635.2536499864582,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10874.91499475576,
+      "attack": 212.39719698963927,
+      "defense": 682.5215109506607,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellationTraveler": [
+    {
+      "c1": {
+        "name": "Vortex déchaîné",
+        "effect": "**Vortex destructeur** attire les ennemis et les objets dans un rayon de 5 mètres autour du personnage."
+      },
+      "c2": {
+        "name": "Tornade de la rébellion",
+        "effect": "Augmente la recharge d'énergie de 16 %."
+      },
+      "c3": {
+        "name": "Rafale de balayage",
+        "effect": "Niveau d'aptitude **Rafale de vent** +3.\nNiveau max : 15"
+      },
+      "c4": {
+        "name": "Prévenance de brise",
+        "effect": "Les DGT subis sont réduits de 10 % tant que **Vortex destructeur** est actif."
+      },
+      "c5": {
+        "name": "Vortex stellaire",
+        "effect": "Niveau d'aptitude **Vortex destructeur** +3.\nNiveau max : 15"
+      },
+      "c6": {
+        "name": "Vents enlacés",
+        "effect": "La RÉS Anémo des ennemis touchés par **Rafale de vent** est réduite de 20 %.\nEn cas d'absorption élémentaire, leur RÉS à l'élément correspondant est également réduite de 20 %."
+      },
+      "images": {
+        "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_01.png",
+        "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_02.png",
+        "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerWind_02.png",
+        "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_03.png",
+        "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerWind_01.png",
+        "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_04.png",
+        "constellation": "Eff_UI_Talent_PlayerBoy_Wind",
+        "constellation2": "Eff_UI_Talent_PlayerGirl_Wind"
+      },
+      "version": "1.0"
+    },
+    {
+      "c1": {
+        "name": "Orage de récolte printanière",
+        "effect": "Augmente le nombre d'amulettes d'abondance pouvant être générées avec **Lame d'éclair** à 3."
+      },
+      "c2": {
+        "name": "Véhémence pourpre",
+        "effect": "Réduit de 15 % pendant 8 s la RÉS Électro des ennemis ayant été touchés par la Foudre majestueuse de **Tonnerre hurlant**."
+      },
+      "c3": {
+        "name": "Grondement lointain",
+        "effect": "Niveau d'aptitude **Tonnerre hurlant** +3.\nNiveau max : 15"
+      },
+      "c4": {
+        "name": "Cumulonimbus imprévisible",
+        "effect": "Si l'énergie élémentaire d'un personnage obtenant une amulette d'abondance générée par **Lame d'éclair** est inférieure à 35 %, l'énergie restaurée par l'amulette d'abondance augmente de 100 %."
+      },
+      "c5": {
+        "name": "Clameurs de la nature",
+        "effect": "Niveau d'aptitude **Lame d'éclair** +3.\nNiveau max : 15"
+      },
+      "c6": {
+        "name": "Secousse céleste",
+        "effect": "Toutes les 2 Foudres majestueuses déclenchées par **Tonnerre hurlant**, la Foudre majestueuse suivante inflige 200 % de ses DGT d'origine et le personnage actuel récupère 1 pt d'énergie élémentaire supplémentaire."
+      },
+      "images": {
+        "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_01.png",
+        "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_02.png",
+        "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerElectric_01.png",
+        "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_03.png",
+        "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerElectric_02.png",
+        "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_04.png",
+        "constellation": "Eff_UI_Talent_PlayerBoy_Electric",
+        "constellation2": "Eff_UI_Talent_PlayerGirl_Electric"
+      },
+      "version": "2.0"
+    },
+    {
+      "c1": {
+        "name": "Mur de roche incassable",
+        "effect": "Le taux CRIT des personnages de l'équipe se trouvant entourés par le mur de roche de **Réveil de la terre** augmente de 10 % ; leur RÉS à l'interruption augmente également."
+      },
+      "c2": {
+        "name": "Enfondrement de lave",
+        "effect": "La météorite d'**Épée d'étoile déchue** explose lorsqu'elle est détruite, et inflige un bonus de DGT Géo de zone équivalant aux DGT d'Épée d'étoile déchue."
+      },
+      "c3": {
+        "name": "Volonté de roche",
+        "effect": "Niveau d'aptitude **Réveil de la terre** +3.\nNiveau max : 15"
+      },
+      "c4": {
+        "name": "Force de réaction",
+        "effect": "Chaque onde de choc de **Réveil de la terre** restaure 5 pts d'énergie élémentaire à chaque ennemi touché.\nJusqu'à 25 pts d'énergie élémentaire peuvent être restaurés de cette manière."
+      },
+      "c5": {
+        "name": "Impact de météorite",
+        "effect": "Niveau d'aptitude **Épée d'étoile déchue** +3.\nNiveau max : 15"
+      },
+      "c6": {
+        "name": "Roche de l'éternité",
+        "effect": "Prolonge la durée du mur de roche de **Réveil de la terre** de 5 s.\nProlonge la durée de la météorite d'**Épée d'étoile déchue** de 10 s."
+      },
+      "images": {
+        "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_01.png",
+        "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_02.png",
+        "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerRock_02.png",
+        "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_03.png",
+        "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerRock_01.png",
+        "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_04.png",
+        "constellation": "Eff_UI_Talent_PlayerBoy_Rock",
+        "constellation2": "Eff_UI_Talent_PlayerGirl_Rock"
+      },
+      "version": "1.0"
+    }
+  ],
+  "talentTraveler": [
+    {
+      "name": "Voyageuse (Anémo)",
+      "combat1": {
+        "name": "Attaque normale : Vents de la discorde",
+        "info": "**Attaque normale**\nEnchaîne jusqu'à 5 coups d'épée.\n\n**Attaque chargée**\nConsomme de l'endurance pour déclencher deux coups d'épée rapides.\n\n**Attaque plongeante**\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+        "attributes": []
+      },
+      "combat2": {
+        "name": "Vortex destructeur",
+        "info": "Un vortex de vent, tournant et tranchant, se forme dans la paume de votre main, infligeant des DGT Anémo continus aux ennemis en face.\nLe vortex finit par exploser à la fin de la compétence ; l'explosion couvre une zone plus large, et inflige des DGT Anémo plus importants.\n\n**Appui long**\nAugmente les DGT et la zone d'effet.\n\n**Absorption élémentaire**\nLe vortex absorbe les éléments Hydro, Pyro, Cryo et Électro avec lesquels il entre en contact ; ceux-ci lui confèrent un bonus de DGT de l'élément correspondant.\nUne seule réaction d'absorption élémentaire peut avoir lieu par utilisation.",
+        "description": "Vous avez discuté de la maîtrise de vos nouveaux pouvoirs Anémo avec Paimon.",
+        "attributes": []
+      },
+      "combat3": {
+        "name": "Rafale de vent",
+        "info": "Vous invoquez une tornade qui attire les objets et les ennemis en avançant, et qui inflige des DGT Anémo continus.\n\n**Absorption élémentaire**\nLa tornade absorbe les éléments Hydro, Pyro, Cryo et Électro avec lesquels elle entre en contact ; ceux-ci lui confèrent leurs attributs, et infligent un bonus de DGT de l'élément correspondant.\nUn seul élément peut être absorbé à la fois.",
+        "description": "Vous avez étudié le battement des ailes du papillon avec Paimon.",
+        "attributes": []
+      },
+      "passive1": {
+        "name": "Vent du ciel déchiré",
+        "info": "Le dernier coup d'attaque normale libère une lame de vent, qui inflige une quantité de DGT Anémo équivalant à 60 % de l'ATQ aux ennemis sur sa route."
+      },
+      "passive2": {
+        "name": "Vent de guérison",
+        "info": "**Vortex destructeur** restaure 2 % des PV par seconde pendant 5 s lorsqu'il élimine un ennemi.\nCet effet peut être déclenché une fois toutes les 5 s."
+      },
+      "costs": {
+        "lvl2": [
+          {
+            "name": "Mora",
+            "count": 12500
+          },
+          {
+            "name": "Enseignement de la Liberté",
+            "count": 3
+          },
+          {
+            "name": "Parchemin divinatoire",
+            "count": 6
+          }
+        ],
+        "lvl3": [
+          {
+            "name": "Mora",
+            "count": 17500
+          },
+          {
+            "name": "Guide de la Résistance",
+            "count": 2
+          },
+          {
+            "name": "Parchemin sigillé",
+            "count": 3
+          }
+        ],
+        "lvl4": [
+          {
+            "name": "Mora",
+            "count": 25000
+          },
+          {
+            "name": "Guide de la Poésie",
+            "count": 4
+          },
+          {
+            "name": "Parchemin sigillé",
+            "count": 4
+          }
+        ],
+        "lvl5": [
+          {
+            "name": "Mora",
+            "count": 30000
+          },
+          {
+            "name": "Guide de la Liberté",
+            "count": 6
+          },
+          {
+            "name": "Parchemin sigillé",
+            "count": 6
+          }
+        ],
+        "lvl6": [
+          {
+            "name": "Mora",
+            "count": 37500
+          },
+          {
+            "name": "Guide de la Résistance",
+            "count": 9
+          },
+          {
+            "name": "Parchemin sigillé",
+            "count": 9
+          }
+        ],
+        "lvl7": [
+          {
+            "name": "Mora",
+            "count": 120000
+          },
+          {
+            "name": "Philosophie de la Poésie",
+            "count": 4
+          },
+          {
+            "name": "Parchemin maudit",
+            "count": 4
+          },
+          {
+            "name": "Souffle de Stormterror",
+            "count": 1
+          }
+        ],
+        "lvl8": [
+          {
+            "name": "Mora",
+            "count": 260000
+          },
+          {
+            "name": "Philosophie de la Liberté",
+            "count": 6
+          },
+          {
+            "name": "Parchemin maudit",
+            "count": 6
+          },
+          {
+            "name": "Souffle de Stormterror",
+            "count": 1
+          }
+        ],
+        "lvl9": [
+          {
+            "name": "Mora",
+            "count": 450000
+          },
+          {
+            "name": "Philosophie de la Résistance",
+            "count": 12
+          },
+          {
+            "name": "Parchemin maudit",
+            "count": 9
+          },
+          {
+            "name": "Souffle de Stormterror",
+            "count": 2
+          }
+        ],
+        "lvl10": [
+          {
+            "name": "Mora",
+            "count": 700000
+          },
+          {
+            "name": "Philosophie de la Poésie",
+            "count": 16
+          },
+          {
+            "name": "Parchemin maudit",
+            "count": 12
+          },
+          {
+            "name": "Souffle de Stormterror",
+            "count": 2
+          },
+          {
+            "name": "Couronne de la sagesse",
+            "count": 1
+          }
+        ]
+      },
+      "images": {
+        "combat1": "Skill_A_01",
+        "combat2": "Skill_S_PlayerWind_01",
+        "combat3": "Skill_E_PlayerWind_01_HD",
+        "passive1": "UI_Talent_S_PlayerWind_05",
+        "passive2": "UI_Talent_S_PlayerWind_06"
+      },
+      "version": "1.0"
+    },
+    {
+      "name": "Voyageuse (Électro)",
+      "combat1": {
+        "name": "Attaque normale : Tonnerre venu d'ailleurs",
+        "info": "**Attaque normale**\nEnchaîne jusqu'à 5 coups d'épée.\n\n**Attaque chargée**\nConsomme de l'endurance pour déclencher deux coups d'épée rapides.\n\n**Attaque plongeante**\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+        "attributes": []
+      },
+      "combat2": {
+        "name": "Lame d'éclair",
+        "info": "Libère trois ombres de foudre rapides, qui infligent des DGT Électro aux ennemis, et laissent une amulette d'abondance lorsqu'elles touchent un ennemi.\nJusqu'à 2 amulettes d'abondance peuvent être ainsi générées. Réutiliser la compétence annule les amulettes d'abondance générées.\n\n**Amulettes d'abondance**\nLorsqu'un personnage s'approche d'une amulette d'abondance, il l'absorbe et obtient les effets suivants :\nSon énergie élémentaire se régénère ;\nSa recharge d'énergie élémentaire augmente.",
+        "description": "Vous discutez des différents chemins que peut prendre l'électricité avec Paimon.",
+        "attributes": []
+      },
+      "combat3": {
+        "name": "Tonnerre hurlant",
+        "info": "Vous invoquez la protection de la foudre, qui repousse les ennemis proches et leur inflige des DGT Électro.\n\n**Voile de foudre**\nLes attaques chargées ou normales du personnage déployé font pleuvoir la Foudre majestueuse lorsqu'elles touchent, qui inflige des DGT Électro.\nLorsque la Foudre majestueuse touche un ennemi, elle fait récupérer de l'énergie élémentaire à ce personnage.\nJusqu'à 1 Foudre majestueuse peut être déclenchée toutes les 0,5 s.",
+        "description": "Paimon et vous avez étudié la lumière qui traverse les nuages.",
+        "attributes": []
+      },
+      "passive1": {
+        "name": "Éclair soudain",
+        "info": "Réduit de 1,5 s le TdR de **Lame d'éclair** lorsqu'un autre personnage proche absorbe l'amulette d'abondance générée par **Lame d'éclair**."
+      },
+      "passive2": {
+        "name": "Tonnerre retentissant",
+        "info": "Confère un bonus supplémentaire de recharge d'énergie à l'amulette d'abondance générée par **Lame d'éclair** équivalant à 10 % de la recharge d'énergie {M#du voyageur}{F#de la voyageuse}."
+      },
+      "costs": {
+        "lvl2": [
+          {
+            "name": "Mora",
+            "count": 12500
+          },
+          {
+            "name": "Enseignement de l'éphémère",
+            "count": 3
+          },
+          {
+            "name": "Garde-main ancien",
+            "count": 6
+          }
+        ],
+        "lvl3": [
+          {
+            "name": "Mora",
+            "count": 17500
+          },
+          {
+            "name": "Guide de l'Élégance",
+            "count": 2
+          },
+          {
+            "name": "Garde-main kageuchi",
+            "count": 3
+          }
+        ],
+        "lvl4": [
+          {
+            "name": "Mora",
+            "count": 25000
+          },
+          {
+            "name": "Guide de la Lumière",
+            "count": 4
+          },
+          {
+            "name": "Garde-main kageuchi",
+            "count": 4
+          }
+        ],
+        "lvl5": [
+          {
+            "name": "Mora",
+            "count": 30000
+          },
+          {
+            "name": "Guide de l'Éphémère",
+            "count": 6
+          },
+          {
+            "name": "Garde-main kageuchi",
+            "count": 6
+          }
+        ],
+        "lvl6": [
+          {
+            "name": "Mora",
+            "count": 37500
+          },
+          {
+            "name": "Guide de l'Élégance",
+            "count": 9
+          },
+          {
+            "name": "Garde-main kageuchi",
+            "count": 9
+          }
+        ],
+        "lvl7": [
+          {
+            "name": "Mora",
+            "count": 120000
+          },
+          {
+            "name": "Philosophie de la lumière",
+            "count": 4
+          },
+          {
+            "name": "Garde-main célèbre",
+            "count": 4
+          },
+          {
+            "name": "Couronne du roi dragon",
+            "count": 1
+          }
+        ],
+        "lvl8": [
+          {
+            "name": "Mora",
+            "count": 260000
+          },
+          {
+            "name": "Philosophie de l'éphémère",
+            "count": 6
+          },
+          {
+            "name": "Garde-main célèbre",
+            "count": 6
+          },
+          {
+            "name": "Couronne du roi dragon",
+            "count": 1
+          }
+        ],
+        "lvl9": [
+          {
+            "name": "Mora",
+            "count": 450000
+          },
+          {
+            "name": "Philosophie de l'élégance",
+            "count": 12
+          },
+          {
+            "name": "Garde-main célèbre",
+            "count": 9
+          },
+          {
+            "name": "Couronne du roi dragon",
+            "count": 2
+          }
+        ],
+        "lvl10": [
+          {
+            "name": "Mora",
+            "count": 700000
+          },
+          {
+            "name": "Philosophie de la lumière",
+            "count": 16
+          },
+          {
+            "name": "Garde-main célèbre",
+            "count": 12
+          },
+          {
+            "name": "Couronne du roi dragon",
+            "count": 2
+          },
+          {
+            "name": "Couronne de la sagesse",
+            "count": 1
+          }
+        ]
+      },
+      "images": {
+        "combat1": "Skill_A_01",
+        "combat2": "Skill_S_PlayerElectric_01",
+        "combat3": "Skill_E_PlayerElectric_01_HD",
+        "passive1": "UI_Talent_S_PlayerElectric_05",
+        "passive2": "UI_Talent_S_PlayerElectric_06"
+      },
+      "version": "2.0"
+    },
+    {
+      "name": "Voyageuse (Géo)",
+      "combat1": {
+        "name": "Attaque normale : Lame de roche",
+        "info": "**Attaque normale**\nEnchaîne jusqu'à 5 coups d'épée.\n\n**Attaque chargée**\nConsomme de l'endurance pour déclencher deux coups d'épée rapides.\n\n**Attaque plongeante**\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+        "attributes": []
+      },
+      "combat2": {
+        "name": "Épée d'étoile déchue",
+        "info": "Vous faites jaillir des profondeurs de la terre une météorite qui explose et inflige des DGT Géo de zone.\nLa météorite est une construction Géo qui bloque les attaques et peut être escaladée.\n\n**Appui long**\nAjuste la zone où la compétence sera lancée.",
+        "description": "Vous avez parlé avec Paimon de la destination finale des étoiles filantes.",
+        "attributes": []
+      },
+      "combat3": {
+        "name": "Réveil de la terre",
+        "info": "Réveille les éléments Géo qu'abritent les profondeurs de la terre, provoquant une vague d'ondes de choc.\nRepousse les ennemis proches et inflige des DGT Géo de zone.\nUn mur de roche s'érige ensuite autour des ondes de choc.\nLe mur de roche est une construction Géo qui bloque les attaques et peut être escaladé.",
+        "description": "Vous avez étudié le pouls des montagnes avec Paimon.",
+        "attributes": []
+      },
+      "passive1": {
+        "name": "Roche brisée",
+        "info": "Réduit le TdR d'**Épée d'étoile déchue** de 2 s."
+      },
+      "passive2": {
+        "name": "Roche turbulente",
+        "info": "Le dernier coup d'attaque normale provoque un effondrement, qui inflige une quantité de DGT Géo équivalant à 60 % de l'ATQ aux ennemis dans la zone."
+      },
+      "costs": {
+        "lvl2": [
+          {
+            "name": "Mora",
+            "count": 12500
+          },
+          {
+            "name": "Enseignement de la Prospérité",
+            "count": 3
+          },
+          {
+            "name": "Pointe de flèche robuste",
+            "count": 6
+          }
+        ],
+        "lvl3": [
+          {
+            "name": "Mora",
+            "count": 17500
+          },
+          {
+            "name": "Guide de la Diligence",
+            "count": 2
+          },
+          {
+            "name": "Pointe de flèche aiguisée",
+            "count": 3
+          }
+        ],
+        "lvl4": [
+          {
+            "name": "Mora",
+            "count": 25000
+          },
+          {
+            "name": "Guide de l'Or",
+            "count": 4
+          },
+          {
+            "name": "Pointe de flèche aiguisée",
+            "count": 4
+          }
+        ],
+        "lvl5": [
+          {
+            "name": "Mora",
+            "count": 30000
+          },
+          {
+            "name": "Guide de la Prospérité",
+            "count": 6
+          },
+          {
+            "name": "Pointe de flèche aiguisée",
+            "count": 6
+          }
+        ],
+        "lvl6": [
+          {
+            "name": "Mora",
+            "count": 37500
+          },
+          {
+            "name": "Guide de la Diligence",
+            "count": 9
+          },
+          {
+            "name": "Pointe de flèche aiguisée",
+            "count": 9
+          }
+        ],
+        "lvl7": [
+          {
+            "name": "Mora",
+            "count": 120000
+          },
+          {
+            "name": "Philosophie de l'Or",
+            "count": 4
+          },
+          {
+            "name": "Pointe de flèche usée",
+            "count": 4
+          },
+          {
+            "name": "Queue de Borée",
+            "count": 1
+          }
+        ],
+        "lvl8": [
+          {
+            "name": "Mora",
+            "count": 260000
+          },
+          {
+            "name": "Philosophie de la Prospérité",
+            "count": 6
+          },
+          {
+            "name": "Pointe de flèche usée",
+            "count": 6
+          },
+          {
+            "name": "Queue de Borée",
+            "count": 1
+          }
+        ],
+        "lvl9": [
+          {
+            "name": "Mora",
+            "count": 450000
+          },
+          {
+            "name": "Philosophie de la Diligence",
+            "count": 12
+          },
+          {
+            "name": "Pointe de flèche usée",
+            "count": 9
+          },
+          {
+            "name": "Queue de Borée",
+            "count": 2
+          }
+        ],
+        "lvl10": [
+          {
+            "name": "Mora",
+            "count": 700000
+          },
+          {
+            "name": "Philosophie de l'Or",
+            "count": 16
+          },
+          {
+            "name": "Pointe de flèche usée",
+            "count": 12
+          },
+          {
+            "name": "Queue de Borée",
+            "count": 2
+          },
+          {
+            "name": "Couronne de la sagesse",
+            "count": 1
+          }
+        ]
+      },
+      "images": {
+        "combat1": "Skill_A_01",
+        "combat2": "Skill_S_PlayerRock_01",
+        "combat3": "Skill_E_PlayerRock_01_HD",
+        "passive1": "UI_Talent_S_PlayerRock_05",
+        "passive2": "UI_Talent_S_PlayerRock_06"
+      },
+      "version": "1.0"
+    }
+  ]
+}

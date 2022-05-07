@@ -1,0 +1,20 @@
+{
+  "name": "北陸両手剣の原型",
+  "description": "武器鍛造に必要な材料。鍛造により、★4の両手剣が製造できる。\n大理石は美しい彫刻になる可能性が秘められているように、この原型にも無限の可能性がある。",
+  "sortorder": 1964,
+  "rarity": "4",
+  "category": "EXCHANGE",
+  "materialtype": "素材",
+  "source": [
+    "BOSSドロップ"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Northlander_Claymore_Billet.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Item_Northlander_Claymore_Billet.png",
+    "nameicon": "UI_ItemIcon_101103"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Northlander_Claymore_Billet"
+  },
+  "version": ""
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Fragile Bone Shard",
+  "description": "Sebuah pecahan tulang yang pernah dibawa oleh Geovishap.\nWalaupun cukup rapuh, mereka sepertinya masih memiliki kekuatan yang luar biasa.",
+  "sortorder": 1759,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Dijatuhkan oleh Geovishap Hatchling",
+    "Dijatuhkan oleh Geovishap",
+    "Dijatuhkan oleh Bathysmal Vishap",
+    "Penukaran Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragile_Bone_Shard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Item_Fragile_Bone_Shard.png",
+    "nameicon": "UI_ItemIcon_112041"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fragile_Bone_Shard"
+  },
+  "version": ""
+}

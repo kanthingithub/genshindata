@@ -1,0 +1,20 @@
+{
+  "name": "Dendrobium sanglant",
+  "description": "Une plante magnifique qui est également appelée « lycoris » par les poètes. On la croyait autrefois éteinte dans l'archipel d'Inazuma, avant de réapparaître sur les champs de bataille. On dit qu'elle fleurit d'un rouge d'autant plus vif là où le sang a été versé.",
+  "sortorder": 2063,
+  "category": "EXCHANGE",
+  "materialtype": "Produit d'Inazuma",
+  "source": [
+    "Dans la nature",
+    "Zone conseillée : Plage de Nazuchi"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dendrobium.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Item_Dendrobium.png",
+    "nameicon": "UI_ItemIcon_101204"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dendrobium"
+  },
+  "version": ""
+}

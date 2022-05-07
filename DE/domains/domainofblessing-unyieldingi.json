@@ -1,0 +1,252 @@
+{
+  "name": "Sphäre des Segens: Beständigkeit",
+  "region": "Mondstadt",
+  "domainEntrance": "Gratwache",
+  "domainType": "Artefakt",
+  "description": "Wer geistig und körperlich zäh genug ist und sich tapfer gegen Schmerzen aufbäumt, wird den Segen dieses Altars erlangen.\nDiejenigen, die die Prüfungen bestehen, können vielleicht seltene Artefakte erhalten und damit die Kraft, noch weit entfernte Träume zu verwirklichen.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_4"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Sphäre des Segens: Beständigkeit I",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Hydro",
+        "Kryo",
+        "Geo"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 15
+        },
+        {
+          "name": "Wagemut",
+          "rarity": "3"
+        },
+        {
+          "name": "Kampfkünstler",
+          "rarity": "3"
+        },
+        {
+          "name": "Zähigkeit der Millelithen",
+          "rarity": "4"
+        },
+        {
+          "name": "Fahle Flammen",
+          "rarity": "4"
+        },
+        {
+          "name": "Wagemut",
+          "rarity": "4"
+        },
+        {
+          "name": "Kampfkünstler",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Schlägt beim Treffen von Figuren im Schutz von Schilden durch gegnerische Angriffe zurück: Löst eine Druckwelle beim angreifenden Gegner aus, die Flächenschaden verursacht. 2 s Abklingzeit."
+      ],
+      "monsterlist": [
+        "Pyro-Schleim",
+        "Großer Pyro-Schleim",
+        "Hilichurl-Berserker"
+      ]
+    },
+    {
+      "name": "Sphäre des Segens: Beständigkeit II",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "Hydro",
+        "Kryo",
+        "Geo"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 20
+        },
+        {
+          "name": "Wagemut",
+          "rarity": "3"
+        },
+        {
+          "name": "Kampfkünstler",
+          "rarity": "3"
+        },
+        {
+          "name": "Zähigkeit der Millelithen",
+          "rarity": "4"
+        },
+        {
+          "name": "Fahle Flammen",
+          "rarity": "4"
+        },
+        {
+          "name": "Wagemut",
+          "rarity": "4"
+        },
+        {
+          "name": "Kampfkünstler",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Schlägt beim Treffen von Figuren im Schutz von Schilden durch gegnerische Angriffe zurück: Löst eine Druckwelle beim angreifenden Gegner aus, die Flächenschaden verursacht. 2 s Abklingzeit."
+      ],
+      "monsterlist": [
+        "Großer Pyro-Schleim",
+        "Hilichurl-Berserker",
+        "Mitachurl mit Feueraxt"
+      ]
+    },
+    {
+      "name": "Sphäre des Segens: Beständigkeit III",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Hydro",
+        "Kryo",
+        "Geo"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 20
+        },
+        {
+          "name": "Wagemut",
+          "rarity": "3"
+        },
+        {
+          "name": "Kampfkünstler",
+          "rarity": "3"
+        },
+        {
+          "name": "Zähigkeit der Millelithen",
+          "rarity": "4"
+        },
+        {
+          "name": "Fahle Flammen",
+          "rarity": "4"
+        },
+        {
+          "name": "Wagemut",
+          "rarity": "4"
+        },
+        {
+          "name": "Kampfkünstler",
+          "rarity": "4"
+        },
+        {
+          "name": "Zähigkeit der Millelithen",
+          "rarity": "5"
+        },
+        {
+          "name": "Fahle Flammen",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Schlägt beim Treffen von Figuren im Schutz von Schilden durch gegnerische Angriffe zurück: Löst eine Druckwelle beim angreifenden Gegner aus, die Flächenschaden verursacht. 2 s Abklingzeit.",
+        ""
+      ],
+      "monsterlist": [
+        "Großer Pyro-Schleim",
+        "Mitachurl mit Feueraxt",
+        "Mitachurl mit Steinschild"
+      ]
+    },
+    {
+      "name": "Sphäre des Segens: Beständigkeit IV",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "Geo"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Abenteuer-EP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "Freundschafts-EP",
+          "count": 20
+        },
+        {
+          "name": "Wagemut",
+          "rarity": "3"
+        },
+        {
+          "name": "Kampfkünstler",
+          "rarity": "3"
+        },
+        {
+          "name": "Zähigkeit der Millelithen",
+          "rarity": "4"
+        },
+        {
+          "name": "Fahle Flammen",
+          "rarity": "4"
+        },
+        {
+          "name": "Wagemut",
+          "rarity": "4"
+        },
+        {
+          "name": "Kampfkünstler",
+          "rarity": "4"
+        },
+        {
+          "name": "Zähigkeit der Millelithen",
+          "rarity": "5"
+        },
+        {
+          "name": "Fahle Flammen",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Schlägt beim Treffen von Figuren im Schutz von Schilden durch gegnerische Angriffe zurück: Löst eine Druckwelle beim angreifenden Gegner aus, die Flächenschaden verursacht. 2 s Abklingzeit.",
+        ""
+      ],
+      "monsterlist": [
+        "Geo-Drachenechse"
+      ]
+    }
+  ]
+}

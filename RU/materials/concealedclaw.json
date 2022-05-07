@@ -1,0 +1,21 @@
+{
+  "name": "Скрытый коготь",
+  "description": "Остатки телесных тканей, принадлежавших одному из волков Разрыва.\nПо законам логики, столь чуждые этому миру предметы не должны были сохраниться после того, как эти существа были изгнаны.",
+  "sortorder": 1774,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Волки Разрыва",
+    "Покупается за Звёздную пыль"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_112056",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Concealed_Claw.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Concealed_Claw.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Concealed_Claw"
+  },
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Conque d'étoile",
+  "description": "Un coquillage creux échoué sur la plage. Plaquez-le contre votre oreille et vous entendrez l'appel de la mer.",
+  "sortorder": 2053,
+  "category": "EXCHANGE",
+  "materialtype": "Produit de Liyue",
+  "source": [
+    "Plages de Liyue"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Starconch.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Starconch.png",
+    "nameicon": "UI_ItemIcon_100033"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Starconch"
+  },
+  "version": ""
+}

@@ -1,0 +1,92 @@
+{
+  "name": "Abyss Lector: Violet Lightning",
+  "specialname": "Alberthonar",
+  "enemytype": "ELITE",
+  "category": "Abyss",
+  "description": "Monster yang melayani Abyss Order, mampu menggunakan kekuatan petir dan melantunkan nyanyian kegelapan.\nMereka adalah para pengikut Abyss. Petir ganas mereka menghantam hati orang-orang yang bertentangan dengan kegelapan, disertai dengan kegelapan malam yang abadi, cahaya ungu mereka seolah memproklamirkan keberadaan kekuatan besar yang mampu merusak manusia.",
+  "rewardpreview": [],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Invoker_Deacon_Electric_01"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 583.3359452113509,
+      "attack": 76.13319315582885,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 2292.8324286660645,
+      "attack": 203.4083293985932,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 7081.600010259077,
+      "attack": 501.7499019824463,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 11782.402613022365,
+      "attack": 819.5298012541898,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 21558.7957078591,
+      "attack": 1225.2416554312222,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 39971.87404739857,
+      "attack": 1889.4817435136356,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 67050.03850489855,
+      "attack": 2660.773141056823,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 104415.78109911829,
+      "attack": 3673.071566613973,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 148525.8203240186,
+      "attack": 4725.795096868649,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 194832.69341938198,
+      "attack": 5709.411795508931,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 294120.97232079506,
+      "attack": 7386.62659546989,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 428018.5097735524,
+      "attack": 7533.291466042516,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 575890.5337870717,
+      "attack": 7680.983199416427,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

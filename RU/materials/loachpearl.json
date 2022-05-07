@@ -1,0 +1,20 @@
+{
+  "name": "Жемчужина аксолотля",
+  "description": "Сверкающая жемчужина, произведённая аксолотлем. Обладает удивительными лечебными свойствами. \nМинералы и частички элементов, поглощаемые аксолотлем, застывают в виде маленьких магических жемчужин. Когда аксолотлю угрожает опасность, он выплёвывает их, чтобы отвлечь хищников и скрыться.",
+  "sortorder": 1976,
+  "category": "EXCHANGE",
+  "materialtype": "Материал",
+  "source": [
+    "Дикая природа",
+    "Тростниковые острова"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Loach_Pearl.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Item_Loach_Pearl.png",
+    "nameicon": "UI_ItemIcon_100090"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Loach_Pearl"
+  },
+  "version": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Ma Khoáng Tinh Đúc",
+  "description": "Nguyên liệu EXP vũ khí, có chứa 10000 điểm EXP.\nTrong truyền thuyết, khoáng thạch tinh luyện đã ngưng đọng thành dòng ký ức chiến đấu trên mặt đất. Các binh khí hấp thu các ký ức này sẽ trở nên có linh hồn.",
+  "sortorder": 659,
+  "rarity": "3",
+  "category": "WEAPON_EXP_STONE",
+  "materialtype": "Nguyên Liệu Cường Hóa Vũ Khí",
+  "source": [
+    "Rèn Nhận Được",
+    "Thù Lao Giải Quyết Công Việc"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_104013",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mystic_Enhancement_Ore.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mystic_Enhancement_Ore"
+  },
+  "version": ""
+}

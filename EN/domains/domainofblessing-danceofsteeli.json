@@ -1,0 +1,278 @@
+{
+  "name": "Domain of Blessing: Dance of Steel",
+  "region": "Mondstadt",
+  "domainEntrance": "Valley of Remembrance",
+  "domainType": "Artifacts",
+  "description": "This ancient blessed altar is filled with monsters that fear pure, brute force.\nYou shall earn priceless Artifacts, if — and only if — you can pass the trial.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_3"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domain of Blessing: Dance of Steel I",
+      "recommendedLevel": 47,
+      "recommendedElements": [],
+      "unlockRank": 25,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1700
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 15
+        },
+        {
+          "name": "Traveling Doctor",
+          "rarity": "2"
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "3"
+        },
+        {
+          "name": "Traveling Doctor",
+          "rarity": "3"
+        }
+      ],
+      "disorder": [
+        "Physical DMG dealt by all party members increased by 75%."
+      ],
+      "monsterlist": [
+        "Treasure Hoarders: Cryo Potioneer",
+        "Treasure Hoarders: Handyman",
+        "Treasure Hoarders: Gravedigger",
+        "Treasure Hoarders - Seaman",
+        "Treasure Hoarders - Pugilist"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Dance of Steel II",
+      "recommendedLevel": 59,
+      "recommendedElements": [],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 15
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "3"
+        },
+        {
+          "name": "Traveling Doctor",
+          "rarity": "3"
+        },
+        {
+          "name": "Viridescent Venerer",
+          "rarity": "4"
+        },
+        {
+          "name": "Maiden Beloved",
+          "rarity": "4"
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Physical DMG dealt by all party members increased by 75%."
+      ],
+      "monsterlist": [
+        "Fatui Pyro Agent",
+        "Treasure Hoarders - Scout",
+        "Treasure Hoarders: Pyro Potioneer",
+        "Treasure Hoarders: Hydro Potioneer",
+        "Treasure Hoarders: Handyman",
+        "Treasure Hoarders - Pugilist",
+        "Treasure Hoarders - Crusher"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Dance of Steel III",
+      "recommendedLevel": 69,
+      "recommendedElements": [],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 20
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "3"
+        },
+        {
+          "name": "Traveling Doctor",
+          "rarity": "3"
+        },
+        {
+          "name": "Viridescent Venerer",
+          "rarity": "4"
+        },
+        {
+          "name": "Maiden Beloved",
+          "rarity": "4"
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Physical DMG dealt by all party members increased by 75%."
+      ],
+      "monsterlist": [
+        "Fatui Pyro Agent",
+        "Fatui Electro Cicin Mage",
+        "Treasure Hoarders - Scout",
+        "Treasure Hoarders: Pyro Potioneer",
+        "Treasure Hoarders: Electro Potioneer",
+        "Treasure Hoarders: Handyman",
+        "Treasure Hoarders: Gravedigger",
+        "Treasure Hoarders - Pugilist",
+        "Treasure Hoarders - Crusher"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Dance of Steel IV",
+      "recommendedLevel": 80,
+      "recommendedElements": [],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 20
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "3"
+        },
+        {
+          "name": "Traveling Doctor",
+          "rarity": "3"
+        },
+        {
+          "name": "Viridescent Venerer",
+          "rarity": "4"
+        },
+        {
+          "name": "Maiden Beloved",
+          "rarity": "4"
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "4"
+        },
+        {
+          "name": "Viridescent Venerer",
+          "rarity": "5"
+        },
+        {
+          "name": "Maiden Beloved",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Physical DMG dealt by all party members increased by 75%."
+      ],
+      "monsterlist": [
+        "Fatui Pyro Agent",
+        "Fatui Electro Cicin Mage",
+        "Treasure Hoarders: Pyro Potioneer",
+        "Treasure Hoarders: Hydro Potioneer",
+        "Treasure Hoarders: Electro Potioneer",
+        "Treasure Hoarders: Cryo Potioneer",
+        "Treasure Hoarders - Seaman"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Dance of Steel V",
+      "recommendedLevel": 90,
+      "recommendedElements": [],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 20
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "3"
+        },
+        {
+          "name": "Traveling Doctor",
+          "rarity": "3"
+        },
+        {
+          "name": "Viridescent Venerer",
+          "rarity": "4"
+        },
+        {
+          "name": "Maiden Beloved",
+          "rarity": "4"
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "4"
+        },
+        {
+          "name": "Viridescent Venerer",
+          "rarity": "5"
+        },
+        {
+          "name": "Maiden Beloved",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Physical DMG dealt by all party members increased by 75%."
+      ],
+      "monsterlist": [
+        "Fatui Pyro Agent",
+        "Fatui Electro Cicin Mage",
+        "Treasure Hoarders: Cryo Potioneer"
+      ]
+    }
+  ]
+}

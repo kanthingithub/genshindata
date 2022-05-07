@@ -1,0 +1,20 @@
+{
+  "name": "Brillo estelar sin dueño",
+  "description": "Intercambiable por artículos poco comunes en la Tienda.\nExcedente de Brillo estelar. Tal vez pueda iluminar otras partes del universo.",
+  "sortorder": 496,
+  "rarity": "5",
+  "category": "CONSUME",
+  "materialtype": "Cupón de Intercambio Avanzado",
+  "source": [
+    "Gachapón"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_221",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Masterless_Starglitter.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Masterless_Starglitter.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Masterless_Starglitter"
+  },
+  "version": ""
+}

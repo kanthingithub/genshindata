@@ -1,0 +1,20 @@
+{
+  "name": "岩の印",
+  "description": "璃月の岩に認められ、授かった印記。\n璃月港の記念品ショップで特別なアイテムと交換できる。",
+  "sortorder": 506,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "七国の印",
+  "source": [
+    "璃月地域探索報酬"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_307",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Geo_Sigil.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Item_Geo_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Geo_Sigil"
+  },
+  "version": ""
+}

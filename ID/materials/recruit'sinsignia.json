@@ -1,0 +1,23 @@
+{
+  "name": "Recruit's Insignia",
+  "description": "Sebuah lencana untuk menandai anggota baru. Entah siapa pemilik lencana ini, dan apa logika yang mereka miliki sampai mau bergabung dengan mesin perang Fatui.",
+  "sortorder": 1750,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Dijatuhkan oleh Fatui Skirmisher",
+    "Kadang dijatuhkan oleh Fatui Agent",
+    "Kadang dijatuhkan oleh Fatui Cicin Mage",
+    "Penukaran Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Recruit's_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Item_Recruit%27s_Insignia.png",
+    "nameicon": "UI_ItemIcon_112032"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Recruit's_Insignia"
+  },
+  "version": ""
+}

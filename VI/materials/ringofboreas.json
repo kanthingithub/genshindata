@@ -1,0 +1,20 @@
+{
+  "name": "Móng Vuốt Bắc Phong",
+  "description": "Một chút băng lấy từ trên người Vua Sói Bắc Phong.\nNơi này từng có gió bắc lạnh giá thổi qua, khiến cho người ta lạnh buốt da khi bay. Hiện nay sức mạnh Vua Sói tuy không được như trước, nhưng vẫn đủ để khiến nơi này đóng băng.",
+  "sortorder": 1789,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Thưởng khiêu chiến Sói Bắc Phong cấp 70 trở lên"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ring_of_Boreas.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Item_Ring_of_Boreas.png",
+    "nameicon": "UI_ItemIcon_113007"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ring_of_Boreas"
+  },
+  "version": ""
+}

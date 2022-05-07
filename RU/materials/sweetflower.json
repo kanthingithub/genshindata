@@ -1,0 +1,19 @@
+{
+  "name": "Цветок-сахарок",
+  "description": "Цветок со сладким ароматом. Его можно найти по запаху даже в темнейшей тьме.",
+  "sortorder": 1978,
+  "category": "EXCHANGE",
+  "materialtype": "Кухонный ингредиент",
+  "source": [
+    "Дикая природа"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sweet_Flower.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3a/Item_Sweet_Flower.png",
+    "nameicon": "UI_ItemIcon_100012"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sweet_Flower"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Fausse nageoire de l'héritier du dragon",
+  "description": "Un morceau de tissu biologique que vous avez trouvé après avoir vaincu un Élémentosaure abyssal.\nBien qu'il ressemble à une sorte de nageoire, il n'a en fait aucune fonction.\nLes habitants de Byakuyakoku ont déjà mené des études approfondies sur les Élémentosaures abyssaux. Leur caractéristique la plus distinctive est la possibilité de choisir les traits qu'ils souhaitent transmettre à leur progéniture. En raison de leur grande haine envers l'humanité, ces Élémentosaures perdent toute acuité visuelle quand ils atteignent l'âge adulte. Dans le même temps, ils ont également développé un certain degré de polymorphisme élémentaire à des fins de combat.",
+  "sortorder": 1813,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Butin de Harde d'Élémentosaures abyssaux (Niv.30+)"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_113031",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dragonheir's_False_Fin.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Item_Dragonheir%27s_False_Fin.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dragonheir's_False_Fin"
+  },
+  "version": ""
+}

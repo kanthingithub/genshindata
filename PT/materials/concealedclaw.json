@@ -1,0 +1,21 @@
+{
+  "name": "Garra Escondida",
+  "description": "Tecido corporal deixado para trás por um dos Caninos da Fenda.\nPor lógica ordinária, esses objetos, tão alienígenas para esse mundo, não deveriam ter ficado para trás após essas criaturas anormais terem sido expurgadas dessa terra.",
+  "sortorder": 1774,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Dropado por Caninos da Fenda",
+    "Resgate de Poeira Estrelar"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_112056",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Concealed_Claw.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Concealed_Claw.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Concealed_Claw"
+  },
+  "version": ""
+}

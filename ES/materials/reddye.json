@@ -1,0 +1,17 @@
+{
+  "name": "Tinte rojo",
+  "description": "Tinte rojo. Será útil a la hora de fabricar decoraciones.",
+  "sortorder": 1940,
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Red_Dye.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Item_Red_Dye.png",
+    "nameicon": "UI_ItemIcon_101402"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Red_Dye"
+  },
+  "version": ""
+}

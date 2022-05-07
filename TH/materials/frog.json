@@ -1,0 +1,19 @@
+{
+  "name": "Frog",
+  "description": "กบที่พบเห็นได้ทั่วๆไป ชอบใช้ชีวิตท่ามกลางที่ที่มีความชื้น อุดมไปด้วยพลังงาน เป็นสิ่งที่เติมเต็มพลังงานให้แก่ผู้คนได้",
+  "sortorder": 1972,
+  "category": "EXCHANGE",
+  "materialtype": "วัสดุ",
+  "source": [
+    "หาได้ที่บริเวณน้ำจืด"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Frog.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Item_Frog.png",
+    "nameicon": "UI_ItemIcon_100081"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Frog"
+  },
+  "version": ""
+}

@@ -1,0 +1,230 @@
+{
+  "name": "축성 비경: 유해의 관",
+  "region": "이나즈마",
+  "domainEntrance": "깊이 잠든 정원",
+  "domainType": "성유물",
+  "description": "주인이 사라져버린 저택은 수계 마물의 서식지가 되어 버렸다.\n영원의 번개를 이용해 시련을 극복한 자는 진귀한 성유물을 찾을 수 있을지도 모른다",
+  "daysOfWeek": null,
+  "images": {},
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "축성 비경: 유해의 관 I",
+      "recommendedLevel": 59,
+      "recommendedElements": null,
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "모험 경력",
+          "count": 100
+        },
+        {
+          "name": "모라",
+          "count": 1850
+        },
+        {
+          "name": "호감도 경험치",
+          "count": 15
+        },
+        {
+          "name": "수호자의 마음",
+          "rarity": "3"
+        },
+        {
+          "name": "용사의 마음",
+          "rarity": "3"
+        },
+        {
+          "name": "풍요로운 꿈의 껍데기",
+          "rarity": "4"
+        },
+        {
+          "name": "바다에 물든 거대 조개",
+          "rarity": "4"
+        },
+        {
+          "name": "수호자의 마음",
+          "rarity": "4"
+        },
+        {
+          "name": "용사의 마음",
+          "rarity": "4"
+        }
+      ],
+      "disorder": null,
+      "monsterlist": [
+        "번개도끼 츄츄 폭도",
+        "거대 물 슬라임",
+        "물 슬라임"
+      ]
+    },
+    {
+      "name": "축성 비경: 유해의 관 II",
+      "recommendedLevel": 69,
+      "recommendedElements": null,
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "모험 경력",
+          "count": 100
+        },
+        {
+          "name": "모라",
+          "count": 2025
+        },
+        {
+          "name": "호감도 경험치",
+          "count": 20
+        },
+        {
+          "name": "수호자의 마음",
+          "rarity": "3"
+        },
+        {
+          "name": "용사의 마음",
+          "rarity": "3"
+        },
+        {
+          "name": "풍요로운 꿈의 껍데기",
+          "rarity": "4"
+        },
+        {
+          "name": "바다에 물든 거대 조개",
+          "rarity": "4"
+        },
+        {
+          "name": "수호자의 마음",
+          "rarity": "4"
+        },
+        {
+          "name": "용사의 마음",
+          "rarity": "4"
+        }
+      ],
+      "disorder": null,
+      "monsterlist": [
+        "번개도끼 츄츄 폭도",
+        "거대 물 슬라임",
+        "물 슬라임",
+        "츄츄 번개 궁수",
+        "츄츄 돌격병"
+      ]
+    },
+    {
+      "name": "축성 비경: 유해의 관 III",
+      "recommendedLevel": 80,
+      "recommendedElements": null,
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "모험 경력",
+          "count": 100
+        },
+        {
+          "name": "모라",
+          "count": 2200
+        },
+        {
+          "name": "호감도 경험치",
+          "count": 20
+        },
+        {
+          "name": "수호자의 마음",
+          "rarity": "3"
+        },
+        {
+          "name": "용사의 마음",
+          "rarity": "3"
+        },
+        {
+          "name": "풍요로운 꿈의 껍데기",
+          "rarity": "4"
+        },
+        {
+          "name": "바다에 물든 거대 조개",
+          "rarity": "4"
+        },
+        {
+          "name": "수호자의 마음",
+          "rarity": "4"
+        },
+        {
+          "name": "용사의 마음",
+          "rarity": "4"
+        },
+        {
+          "name": "풍요로운 꿈의 껍데기",
+          "rarity": "5"
+        },
+        {
+          "name": "바다에 물든 거대 조개",
+          "rarity": "5"
+        }
+      ],
+      "disorder": null,
+      "monsterlist": [
+        "기뢰·수계(獸界) 사냥개",
+        "기뢰·수계(獸界) 유견",
+        "츄츄 번개 궁수"
+      ]
+    },
+    {
+      "name": "축성 비경: 유해의 관 IV",
+      "recommendedLevel": 90,
+      "recommendedElements": null,
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "모험 경력",
+          "count": 100
+        },
+        {
+          "name": "모라",
+          "count": 2525
+        },
+        {
+          "name": "호감도 경험치",
+          "count": 20
+        },
+        {
+          "name": "수호자의 마음",
+          "rarity": "3"
+        },
+        {
+          "name": "용사의 마음",
+          "rarity": "3"
+        },
+        {
+          "name": "풍요로운 꿈의 껍데기",
+          "rarity": "4"
+        },
+        {
+          "name": "바다에 물든 거대 조개",
+          "rarity": "4"
+        },
+        {
+          "name": "수호자의 마음",
+          "rarity": "4"
+        },
+        {
+          "name": "용사의 마음",
+          "rarity": "4"
+        },
+        {
+          "name": "풍요로운 꿈의 껍데기",
+          "rarity": "5"
+        },
+        {
+          "name": "바다에 물든 거대 조개",
+          "rarity": "5"
+        }
+      ],
+      "disorder": null,
+      "monsterlist": [
+        "기뢰·수계(獸界) 사냥개",
+        "기뢰·수계(獸界) 유견",
+        "번개도끼 츄츄 폭도"
+      ]
+    }
+  ]
+}

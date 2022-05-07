@@ -1,0 +1,19 @@
+{
+  "name": "Smoked Fowl",
+  "description": "Daging unggas yang diasapi. Teksturnya yang keras memberikan rasa baru pada hidangan.",
+  "sortorder": 1527,
+  "category": "EXCHANGE",
+  "materialtype": "Bahan Masak",
+  "source": [
+    "Didapatkan saat proses cooking"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Smoked_Fowl.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Smoked_Fowl.png",
+    "nameicon": "UI_ItemIcon_110003"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Smoked_Fowl"
+  },
+  "version": ""
+}

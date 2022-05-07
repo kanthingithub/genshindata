@@ -1,0 +1,929 @@
+{
+  "name": "熒",
+  "fullname": "熒",
+  "title": "",
+  "description": "從世界之外漂流而來的旅行者，被神帶走血親，自此踏上尋找七神之路。",
+  "rarity": "5",
+  "element": "無",
+  "weapontype": "單手劍",
+  "substat": "攻擊力",
+  "gender": "女",
+  "body": "GIRL",
+  "association": "MAINACTOR",
+  "region": "",
+  "affiliation": "",
+  "birthdaymmdd": "",
+  "birthday": "",
+  "constellation": "旅人座",
+  "cv": {
+    "english": "Sarah Miller-Crews & Corina Boettger",
+    "chinese": "宴宁&多多poi",
+    "japanese": "悠木碧&古賀葵",
+    "korean": "李诗雅&金佳泠"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "摩拉",
+        "count": 20000
+      },
+      {
+        "name": "璀璨原鑽碎屑",
+        "count": 1
+      },
+      {
+        "name": "風車菊",
+        "count": 3
+      },
+      {
+        "name": "破損的面具",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "摩拉",
+        "count": 40000
+      },
+      {
+        "name": "璀璨原鑽斷片",
+        "count": 3
+      },
+      {
+        "name": "風車菊",
+        "count": 10
+      },
+      {
+        "name": "破損的面具",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "摩拉",
+        "count": 60000
+      },
+      {
+        "name": "璀璨原鑽斷片",
+        "count": 6
+      },
+      {
+        "name": "風車菊",
+        "count": 20
+      },
+      {
+        "name": "汙穢的面具",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "摩拉",
+        "count": 80000
+      },
+      {
+        "name": "璀璨原鑽塊",
+        "count": 3
+      },
+      {
+        "name": "風車菊",
+        "count": 30
+      },
+      {
+        "name": "汙穢的面具",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "摩拉",
+        "count": 100000
+      },
+      {
+        "name": "璀璨原鑽塊",
+        "count": 6
+      },
+      {
+        "name": "風車菊",
+        "count": 45
+      },
+      {
+        "name": "不祥的面具",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "摩拉",
+        "count": 120000
+      },
+      {
+        "name": "璀璨原鑽",
+        "count": 6
+      },
+      {
+        "name": "風車菊",
+        "count": 60
+      },
+      {
+        "name": "不祥的面具",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Traveler_Female_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Character_Traveler_%28Female%29_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_PlayerGirl.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/f11f153ff86acab65e3610f73b0d1728.png",
+    "nameicon": "UI_AvatarIcon_PlayerGirl",
+    "nameiconcard": "UI_AvatarIcon_PlayerGirl_Card",
+    "namesideicon": "UI_AvatarIcon_Side_PlayerGirl"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lumine"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 911.791015625,
+      "attack": 17.808000564575195,
+      "defense": 57.224998474121094,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2342.391124357935,
+      "attack": 45.74875355229187,
+      "defense": 147.01102140746116,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3023.54566537356,
+      "attack": 59.0525531815033,
+      "defense": 189.76102140746116,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4528.912435651757,
+      "attack": 88.45355827545154,
+      "defense": 284.23948155450853,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5012.890707136132,
+      "attack": 97.90625889038074,
+      "defense": 314.61448155450853,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5766.030280821957,
+      "attack": 112.61567116091919,
+      "defense": 361.8823425187111,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6411.334602111019,
+      "attack": 125.21927070925904,
+      "defense": 402.3823425187111,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7164.474175796844,
+      "attack": 139.9286829797975,
+      "defense": 449.65020348291364,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7648.452325210907,
+      "attack": 149.381384548401,
+      "defense": 480.02520348291364,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 8400.679739191197,
+      "attack": 164.07298161756898,
+      "defense": 527.2358163092613,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8884.658010675572,
+      "attack": 173.52567937147523,
+      "defense": 557.6108163092613,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9637.79714958556,
+      "attack": 188.2350831504973,
+      "defense": 604.8786499864582,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 10121.775421069935,
+      "attack": 197.68778471910082,
+      "defense": 635.2536499864582,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10874.91499475576,
+      "attack": 212.39719698963927,
+      "defense": 682.5215109506607,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellationTraveler": [
+    {
+      "c1": {
+        "name": "迴轉的怒風",
+        "effect": "**風渦劍**可將周圍5公尺內的敵人與物體緩慢牽引到角色面前。"
+      },
+      "c2": {
+        "name": "革新的旋風",
+        "effect": "元素充能效率提升16%。"
+      },
+      "c3": {
+        "name": "天地的剛風",
+        "effect": "**風息激盪**的技能等級提高3級。\n至多提升至15級。"
+      },
+      "c4": {
+        "name": "眷顧的和風",
+        "effect": "**風渦劍**持續期間，受到的傷害降低10%。"
+      },
+      "c5": {
+        "name": "群星的渦風",
+        "effect": "**風渦劍**的技能等級提高3級。\n至多提升至15級。"
+      },
+      "c6": {
+        "name": "糾纏的信風",
+        "effect": "受到**風息激盪**傷害的目標，風元素抗性下降20%。\n如果產生了元素轉化，那麼對應元素抗性也下降20%。"
+      },
+      "images": {
+        "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_01.png",
+        "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_02.png",
+        "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerWind_02.png",
+        "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_03.png",
+        "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerWind_01.png",
+        "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerWind_04.png",
+        "constellation": "Eff_UI_Talent_PlayerBoy_Wind",
+        "constellation2": "Eff_UI_Talent_PlayerGirl_Wind"
+      },
+      "version": "1.0"
+    },
+    {
+      "c1": {
+        "name": "豐穰的春雷",
+        "effect": "施放**雷影劍**能產生的豐穰勾玉數量提升至3枚。"
+      },
+      "c2": {
+        "name": "震怒的蒼雷",
+        "effect": "**雷轟電轉**的威光落雷命中敵人後，會使敵人的雷元素抗性降低15%，持續8秒。"
+      },
+      "c3": {
+        "name": "連延的遠雷",
+        "effect": "**雷轟電轉**的技能等級提高3級。\n至多提升至15級。"
+      },
+      "c4": {
+        "name": "難測的雲雷",
+        "effect": "角色獲得**雷影劍**產生的豐穰勾玉時，若該角色現有的元素能量低於35%，豐穰勾玉恢復的元素能量提高100%。"
+      },
+      "c5": {
+        "name": "荒野的霆雷",
+        "effect": "**雷影劍**的技能等級提高3級。\n至多提升至15級。"
+      },
+      "c6": {
+        "name": "撼世的神雷",
+        "effect": "**雷轟電轉**每引發2次威光落雷，則大幅增強下一次威光落雷，造成原本200%的傷害，並為目前角色額外恢復1點元素能量。"
+      },
+      "images": {
+        "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_01.png",
+        "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_02.png",
+        "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerElectric_01.png",
+        "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_03.png",
+        "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerElectric_02.png",
+        "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerElectric_04.png",
+        "constellation": "Eff_UI_Talent_PlayerBoy_Electric",
+        "constellation2": "Eff_UI_Talent_PlayerGirl_Electric"
+      },
+      "version": "2.0"
+    },
+    {
+      "c1": {
+        "name": "巍然的青岩",
+        "effect": "隊伍中角色處於**岩潮疊嶂**的岩嶂包圍中時，暴擊率提升10%，並提高抗打斷能力。"
+      },
+      "c2": {
+        "name": "不穩的熔岩",
+        "effect": "**星隕劍**的荒星被摧毀時會再度發生爆炸，造成等同於星隕劍傷害的額外岩元素範圍傷害。"
+      },
+      "c3": {
+        "name": "八方之岩",
+        "effect": "**岩潮疊嶂**的技能等級提高3級。\n至多提升至15級。"
+      },
+      "c4": {
+        "name": "險峻的重岩",
+        "effect": "**岩潮疊嶂**引發的震盪波每擊中一個敵人，都會恢復5點元素能量。\n通過這種方式，一次至多恢復25點元素能量。"
+      },
+      "c5": {
+        "name": "天墜之岩",
+        "effect": "**星隕劍**的技能等級提高3級。\n至多提升至15級。"
+      },
+      "c6": {
+        "name": "永世的磐岩",
+        "effect": "**岩潮疊嶂**的岩嶂持續時間延長5秒；\n**星隕劍**的荒星持續時間延長10秒。"
+      },
+      "images": {
+        "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_01.png",
+        "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_02.png",
+        "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerRock_02.png",
+        "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_03.png",
+        "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_PlayerRock_01.png",
+        "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_PlayerRock_04.png",
+        "constellation": "Eff_UI_Talent_PlayerBoy_Rock",
+        "constellation2": "Eff_UI_Talent_PlayerGirl_Rock"
+      },
+      "version": "1.0"
+    }
+  ],
+  "talentTraveler": [
+    {
+      "name": "旅行者 (風元素)",
+      "combat1": {
+        "name": "普通攻擊·異邦鐵風",
+        "info": "**普通攻擊**\n進行至多五段的連續劍擊。\n\n**重擊**\n消耗一定體力，瞬間向前方揮出兩劍。\n\n**下落攻擊**\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+        "attributes": []
+      },
+      "combat2": {
+        "name": "風渦劍",
+        "info": "緊握風的力量，在掌中匯聚真空渦流，對前方的敵人持續造成風元素傷害。\n技能結束時真空渦流會炸裂，造成範圍更大、威力更強的風元素傷害。\n\n**長按**\n傷害與影響範圍會逐漸提升。\n\n**元素轉化**\n若真空渦流在技能持續期間接觸了水元素/火元素/冰元素/雷元素，則會獲得對應元素屬性，額外造成該元素的附加傷害。\n元素轉化在技能持續期間僅會發生一次。",
+        "description": "和派蒙討論過如何握住無形的風。",
+        "attributes": []
+      },
+      "combat3": {
+        "name": "風息激盪",
+        "info": "導引風行進的路途，喚出持續前進的龍捲風，將沿途的物體與敵人捲入，持續造成風元素傷害。\n\n**元素轉化**\n若龍捲風在技能持續期間接觸了水元素/火元素/冰元素/雷元素，則會獲得對應元素屬性，額外造成該元素附加傷害。\n這種轉化在技能持續期間僅會發生一次。",
+        "description": "和派蒙一起研究過蝴蝶的振翅。",
+        "attributes": []
+      },
+      "passive1": {
+        "name": "裂空之風",
+        "info": "普通攻擊的最後一擊會打出一道風刃，對沿途敵人造成60%攻擊力的風元素傷害。"
+      },
+      "passive2": {
+        "name": "復甦之風",
+        "info": "用**風渦劍**打敗敵人後的5秒內，每秒恢復2%生命值。\n該效果每5秒只能觸發一次。"
+      },
+      "costs": {
+        "lvl2": [
+          {
+            "name": "摩拉",
+            "count": 12500
+          },
+          {
+            "name": "「自由」的教導",
+            "count": 3
+          },
+          {
+            "name": "導能繪卷",
+            "count": 6
+          }
+        ],
+        "lvl3": [
+          {
+            "name": "摩拉",
+            "count": 17500
+          },
+          {
+            "name": "「抗爭」的指引",
+            "count": 2
+          },
+          {
+            "name": "封魔繪卷",
+            "count": 3
+          }
+        ],
+        "lvl4": [
+          {
+            "name": "摩拉",
+            "count": 25000
+          },
+          {
+            "name": "「詩文」的指引",
+            "count": 4
+          },
+          {
+            "name": "封魔繪卷",
+            "count": 4
+          }
+        ],
+        "lvl5": [
+          {
+            "name": "摩拉",
+            "count": 30000
+          },
+          {
+            "name": "「自由」的指引",
+            "count": 6
+          },
+          {
+            "name": "封魔繪卷",
+            "count": 6
+          }
+        ],
+        "lvl6": [
+          {
+            "name": "摩拉",
+            "count": 37500
+          },
+          {
+            "name": "「抗爭」的指引",
+            "count": 9
+          },
+          {
+            "name": "封魔繪卷",
+            "count": 9
+          }
+        ],
+        "lvl7": [
+          {
+            "name": "摩拉",
+            "count": 120000
+          },
+          {
+            "name": "「詩文」的哲學",
+            "count": 4
+          },
+          {
+            "name": "禁咒繪卷",
+            "count": 4
+          },
+          {
+            "name": "東風的吐息",
+            "count": 1
+          }
+        ],
+        "lvl8": [
+          {
+            "name": "摩拉",
+            "count": 260000
+          },
+          {
+            "name": "「自由」的哲學",
+            "count": 6
+          },
+          {
+            "name": "禁咒繪卷",
+            "count": 6
+          },
+          {
+            "name": "東風的吐息",
+            "count": 1
+          }
+        ],
+        "lvl9": [
+          {
+            "name": "摩拉",
+            "count": 450000
+          },
+          {
+            "name": "「抗爭」的哲學",
+            "count": 12
+          },
+          {
+            "name": "禁咒繪卷",
+            "count": 9
+          },
+          {
+            "name": "東風的吐息",
+            "count": 2
+          }
+        ],
+        "lvl10": [
+          {
+            "name": "摩拉",
+            "count": 700000
+          },
+          {
+            "name": "「詩文」的哲學",
+            "count": 16
+          },
+          {
+            "name": "禁咒繪卷",
+            "count": 12
+          },
+          {
+            "name": "東風的吐息",
+            "count": 2
+          },
+          {
+            "name": "智識之冕",
+            "count": 1
+          }
+        ]
+      },
+      "images": {
+        "combat1": "Skill_A_01",
+        "combat2": "Skill_S_PlayerWind_01",
+        "combat3": "Skill_E_PlayerWind_01_HD",
+        "passive1": "UI_Talent_S_PlayerWind_05",
+        "passive2": "UI_Talent_S_PlayerWind_06"
+      },
+      "version": "1.0"
+    },
+    {
+      "name": "旅行者 (雷元素)",
+      "combat1": {
+        "name": "普通攻擊·異邦驚雷",
+        "info": "**普通攻擊**\n進行至多五段的連續劍擊。\n\n**重擊**\n消耗一定體力，瞬間向前方揮出兩劍。\n\n**下落攻擊**\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+        "attributes": []
+      },
+      "combat2": {
+        "name": "雷影劍",
+        "info": "斬出三道迅捷的雷影。雷影會對敵人造成雷元素傷害，並在命中敵人時留下豐穰勾玉。\n初始至多產生2枚豐穰勾玉。施放技能時，會清除自己產生的豐穰勾玉。\n\n**豐穰勾玉**\n角色接近時會吸收豐穰勾玉，獲得以下效果：\n·恢復元素能量。\n·在持續時間內，提高元素充能效率。",
+        "description": "和派蒙討論通電的所有可能路徑。",
+        "attributes": []
+      },
+      "combat3": {
+        "name": "雷轟電轉",
+        "info": "喚來雷霆繞身的加護，擊退周圍的敵人並造成雷元素傷害。\n\n**雷霆繞身**\n場上自己角色的普通攻擊或重擊命中敵人時，會召喚威光落雷，對敵人造成雷元素傷害。\n威光落雷命中敵人時，會為該角色恢復元素能量。\n每0.5秒至多產生一次威光落雷。",
+        "description": "和派蒙一起研究過叢雲間忽閃的光。",
+        "attributes": []
+      },
+      "passive1": {
+        "name": "轉瞬的迅雷",
+        "info": "隊伍中附近的其他角色獲得**雷影劍**產生的豐穰勾玉時，**雷影劍**的冷卻時間減少1.5秒。"
+      },
+      "passive2": {
+        "name": "迴響的轟雷",
+        "info": "基於旅行者自己元素充能效率的10%，提升**雷影劍**的豐穰勾玉提供的元素充能效率。"
+      },
+      "costs": {
+        "lvl2": [
+          {
+            "name": "摩拉",
+            "count": 12500
+          },
+          {
+            "name": "「浮世」的教導",
+            "count": 3
+          },
+          {
+            "name": "破舊的刀鐔",
+            "count": 6
+          }
+        ],
+        "lvl3": [
+          {
+            "name": "摩拉",
+            "count": 17500
+          },
+          {
+            "name": "「風雅」的指引",
+            "count": 2
+          },
+          {
+            "name": "影打刀鐔",
+            "count": 3
+          }
+        ],
+        "lvl4": [
+          {
+            "name": "摩拉",
+            "count": 25000
+          },
+          {
+            "name": "「天光」的指引",
+            "count": 4
+          },
+          {
+            "name": "影打刀鐔",
+            "count": 4
+          }
+        ],
+        "lvl5": [
+          {
+            "name": "摩拉",
+            "count": 30000
+          },
+          {
+            "name": "「浮世」的指引",
+            "count": 6
+          },
+          {
+            "name": "影打刀鐔",
+            "count": 6
+          }
+        ],
+        "lvl6": [
+          {
+            "name": "摩拉",
+            "count": 37500
+          },
+          {
+            "name": "「風雅」的指引",
+            "count": 9
+          },
+          {
+            "name": "影打刀鐔",
+            "count": 9
+          }
+        ],
+        "lvl7": [
+          {
+            "name": "摩拉",
+            "count": 120000
+          },
+          {
+            "name": "「天光」的哲學",
+            "count": 4
+          },
+          {
+            "name": "名刀鐔",
+            "count": 4
+          },
+          {
+            "name": "龍王之冕",
+            "count": 1
+          }
+        ],
+        "lvl8": [
+          {
+            "name": "摩拉",
+            "count": 260000
+          },
+          {
+            "name": "「浮世」的哲學",
+            "count": 6
+          },
+          {
+            "name": "名刀鐔",
+            "count": 6
+          },
+          {
+            "name": "龍王之冕",
+            "count": 1
+          }
+        ],
+        "lvl9": [
+          {
+            "name": "摩拉",
+            "count": 450000
+          },
+          {
+            "name": "「風雅」的哲學",
+            "count": 12
+          },
+          {
+            "name": "名刀鐔",
+            "count": 9
+          },
+          {
+            "name": "龍王之冕",
+            "count": 2
+          }
+        ],
+        "lvl10": [
+          {
+            "name": "摩拉",
+            "count": 700000
+          },
+          {
+            "name": "「天光」的哲學",
+            "count": 16
+          },
+          {
+            "name": "名刀鐔",
+            "count": 12
+          },
+          {
+            "name": "龍王之冕",
+            "count": 2
+          },
+          {
+            "name": "智識之冕",
+            "count": 1
+          }
+        ]
+      },
+      "images": {
+        "combat1": "Skill_A_01",
+        "combat2": "Skill_S_PlayerElectric_01",
+        "combat3": "Skill_E_PlayerElectric_01_HD",
+        "passive1": "UI_Talent_S_PlayerElectric_05",
+        "passive2": "UI_Talent_S_PlayerElectric_06"
+      },
+      "version": "2.0"
+    },
+    {
+      "name": "旅行者 (岩元素)",
+      "combat1": {
+        "name": "普通攻擊·異邦岩鋒",
+        "info": "**普通攻擊**\n進行至多五段的連續劍擊。\n\n**重擊**\n消耗一定體力，瞬間向前方揮出兩劍。\n\n**下落攻擊**\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+        "attributes": []
+      },
+      "combat2": {
+        "name": "星隕劍",
+        "info": "從大地深處升起荒星，引發爆炸，造成岩元素範圍傷害。\n荒星被視為岩元素創造物，可以阻攔攻擊，可以攀爬。\n\n**長按**\n可以調整技能施放位置。",
+        "description": "和派蒙討論過流星的終點。",
+        "attributes": []
+      },
+      "combat3": {
+        "name": "岩潮疊嶂",
+        "info": "啟動大地深處的岩元素，引發擴散的震盪波。\n擊退周圍的敵人，造成岩元素範圍傷害。\n此後，在震盪波的周邊形成突起的岩嶂。\n岩嶂視為岩元素創造物，可以阻攔攻擊。",
+        "description": "和派蒙一起研究過群山深處的脈動。",
+        "attributes": []
+      },
+      "passive1": {
+        "name": "破碎的絕岩",
+        "info": "**星隕劍**的冷卻時間減少2秒。"
+      },
+      "passive2": {
+        "name": "狂亂的崩岩",
+        "info": "普通攻擊的最後一擊會附帶崩毀，對範圍內的敵人造成60%攻擊力的岩元素傷害。"
+      },
+      "costs": {
+        "lvl2": [
+          {
+            "name": "摩拉",
+            "count": 12500
+          },
+          {
+            "name": "「繁榮」的教導",
+            "count": 3
+          },
+          {
+            "name": "牢固的箭鏃",
+            "count": 6
+          }
+        ],
+        "lvl3": [
+          {
+            "name": "摩拉",
+            "count": 17500
+          },
+          {
+            "name": "「勤勞」的指引",
+            "count": 2
+          },
+          {
+            "name": "銳利的箭鏃",
+            "count": 3
+          }
+        ],
+        "lvl4": [
+          {
+            "name": "摩拉",
+            "count": 25000
+          },
+          {
+            "name": "「黃金」的指引",
+            "count": 4
+          },
+          {
+            "name": "銳利的箭鏃",
+            "count": 4
+          }
+        ],
+        "lvl5": [
+          {
+            "name": "摩拉",
+            "count": 30000
+          },
+          {
+            "name": "「繁榮」的指引",
+            "count": 6
+          },
+          {
+            "name": "銳利的箭鏃",
+            "count": 6
+          }
+        ],
+        "lvl6": [
+          {
+            "name": "摩拉",
+            "count": 37500
+          },
+          {
+            "name": "「勤勞」的指引",
+            "count": 9
+          },
+          {
+            "name": "銳利的箭鏃",
+            "count": 9
+          }
+        ],
+        "lvl7": [
+          {
+            "name": "摩拉",
+            "count": 120000
+          },
+          {
+            "name": "「黃金」的哲學",
+            "count": 4
+          },
+          {
+            "name": "歷戰的箭鏃",
+            "count": 4
+          },
+          {
+            "name": "北風之尾",
+            "count": 1
+          }
+        ],
+        "lvl8": [
+          {
+            "name": "摩拉",
+            "count": 260000
+          },
+          {
+            "name": "「繁榮」的哲學",
+            "count": 6
+          },
+          {
+            "name": "歷戰的箭鏃",
+            "count": 6
+          },
+          {
+            "name": "北風之尾",
+            "count": 1
+          }
+        ],
+        "lvl9": [
+          {
+            "name": "摩拉",
+            "count": 450000
+          },
+          {
+            "name": "「勤勞」的哲學",
+            "count": 12
+          },
+          {
+            "name": "歷戰的箭鏃",
+            "count": 9
+          },
+          {
+            "name": "北風之尾",
+            "count": 2
+          }
+        ],
+        "lvl10": [
+          {
+            "name": "摩拉",
+            "count": 700000
+          },
+          {
+            "name": "「黃金」的哲學",
+            "count": 16
+          },
+          {
+            "name": "歷戰的箭鏃",
+            "count": 12
+          },
+          {
+            "name": "北風之尾",
+            "count": 2
+          },
+          {
+            "name": "智識之冕",
+            "count": 1
+          }
+        ]
+      },
+      "images": {
+        "combat1": "Skill_A_01",
+        "combat2": "Skill_S_PlayerRock_01",
+        "combat3": "Skill_E_PlayerRock_01_HD",
+        "passive1": "UI_Talent_S_PlayerRock_05",
+        "passive2": "UI_Talent_S_PlayerRock_06"
+      },
+      "version": "1.0"
+    }
+  ]
+}

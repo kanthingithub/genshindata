@@ -1,0 +1,113 @@
+{
+  "name": "Pyro Specter",
+  "specialname": "Wandering Elemental Spirit",
+  "enemytype": "COMMON",
+  "category": "Elemental Lifeforms",
+  "description": "A monster born from highly-concentrated Pyro elements that can float in the air.\nThere was once an Academia student who conducted research into their behavior. He believed that Specters were a form of Crystalfly; since they both had powers of flight and both were birthed in areas saturated with elemental energy. He has not graduated yet.",
+  "investigation": {
+    "name": "Specter",
+    "category": "Easy",
+    "description": "A monster born from highly-concentrated elements that can float in the air.\\nOn the whole, they are little sprites that have a gentle temperament, much like Slimes, but they can sometimes explode into a rage."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Spectral Husk",
+      "count": 1.2606
+    },
+    {
+      "name": "Spectral Heart",
+      "count": 0.3362
+    },
+    {
+      "name": "Spectral Nucleus",
+      "count": 0.084
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Sylph_Fire_01"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 146.83999738411512,
+      "attack": 35.52882244503053,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 578.3380174896447,
+      "attack": 94.92388430695428,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 1702.2499287184328,
+      "attack": 234.14994748556637,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 3169.939984365832,
+      "attack": 382.44722952280426,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 5691.693773803767,
+      "attack": 571.7794226622209,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 10487.064112787135,
+      "attack": 881.7581214677193,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 17717.884989140555,
+      "attack": 1241.6940965765389,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 29304.192651394755,
+      "attack": 1714.1000148386229,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 47273.23405368626,
+      "attack": 2205.370981413871,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 74200.57499181479,
+      "attack": 2664.392094168579,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 110920.03625189513,
+      "attack": 3447.0923115103506,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 140391.4586839378,
+      "attack": 3515.535915797809,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 162387.20416907966,
+      "attack": 3584.4587227120064,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

@@ -1,0 +1,24 @@
+{
+  "name": "「번영」의 가르침",
+  "description": "특성 육성 소재.\n바위의 나라는 번영을 추구한다.\n번영은 리월의 은혜이자, 리월의 신과 사람들이 함께 건설한 위대한 도시이며, 리월의 안전과 평화의 원천이다",
+  "sortorder": 1860,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "특성 육성 소재",
+  "dropdomain": "숙달 비경: 뜨거운 화염의 제단",
+  "daysofweek": [
+    "월요일",
+    "목요일",
+    "일요일"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Prosperity.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/9e/Item_Teachings_of_Prosperity.png",
+    "nameicon": "UI_ItemIcon_104310"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Prosperity"
+  },
+  "version": ""
+}

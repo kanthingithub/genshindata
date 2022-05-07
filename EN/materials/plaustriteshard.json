@@ -1,0 +1,22 @@
+{
+  "name": "Plaustrite Shard",
+  "description": "Used in Lantern Rite as material with which to construct Xiao Lanterns.\nA mysterious shard of elemental rock that can float by itself. It is the secret to the flying lanterns. It is also said to be the thing that powers the Jade Chamber's floating mechanism.",
+  "sortorder": 2289,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Lantern Rite Material",
+  "source": [
+    "Obtained from harvestable ores",
+    "Found on Geovishap Hatchlings and Geovishaps",
+    "Produced by Stonehide Lawachurls"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Plaustrite_Shard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/78/Item_Plaustrite_Shard.png",
+    "nameicon": "UI_ItemIcon_200003"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Plaustrite_Shard"
+  },
+  "version": ""
+}

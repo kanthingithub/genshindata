@@ -1,0 +1,20 @@
+{
+  "name": "Insignia Anemo",
+  "description": "Una insignia que muestra el reconocimiento de los vientos de Mondstadt.\nPuede ser intercambiada por objetos especiales en Mondstadt.",
+  "sortorder": 504,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "Insignia Elemental",
+  "source": [
+    "Recompensa de expedición en Mondstadt"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_305",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Anemo_Sigil.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Item_Anemo_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Anemo_Sigil"
+  },
+  "version": ""
+}

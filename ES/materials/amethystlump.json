@@ -1,0 +1,20 @@
+{
+  "name": "Trozo de amatista",
+  "description": "Cristal mineral bruto. Obtenible únicamente en las islas de Inazuma. Solo un profesional podrá sacar su auténtico valor.",
+  "sortorder": 1961,
+  "category": "EXCHANGE",
+  "materialtype": "Mineral de forja",
+  "source": [
+    "Recolectar en la naturaleza",
+    "Recolectar en la Isla Narukami"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Amethyst_Lump.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7d/Item_Amethyst_Lump.png",
+    "nameicon": "UI_ItemIcon_101008"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Amethyst_Lump"
+  },
+  "version": ""
+}

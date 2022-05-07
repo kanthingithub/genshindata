@@ -1,0 +1,20 @@
+{
+  "name": "Prototipo de mandoble del Norte",
+  "description": "Material de fabricación de armas. Puede utilizarse para forjar mandobles de 4★.\nLos filósofos creen que el mármol tiene el potencial de convertirse en una hermosa escultura. Estos prototipos también tienen un potencial ilimitado.",
+  "sortorder": 1964,
+  "rarity": "4",
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [
+    "Derrotar un Jefe"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Northlander_Claymore_Billet.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Item_Northlander_Claymore_Billet.png",
+    "nameicon": "UI_ItemIcon_101103"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Northlander_Claymore_Billet"
+  },
+  "version": ""
+}

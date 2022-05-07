@@ -1,0 +1,26 @@
+{
+  "name": "Ramo de Jade de um Mar Distante",
+  "description": "Material de Ascensão de Armas.\nPerdendo-se no Mar Sombrio, o deus que perdeu tudo encontrou o povo abandonado que nada tinha nas profundezas do oceano. Por isso foi eleito para ficar e se tornar seu \"Orobashi no Mikoto\", seu \"Watatsumi Omikami\".\nDizem que o grande deus serpente se livrou e quebrou todos os corais em seu corpo para dar luz às suas crianças que estavam envoltas na sua escuridão. Também dizem que usou esses corais para criar uma enorme escada para permitir essas crianças novamente alcançarem a superfície e ver a luz do dia.",
+  "sortorder": 2209,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Ascensão de Armas",
+  "dropdomain": "Domínio da Forja: Grãos das Profundezas",
+  "daysofweek": [
+    "Segunda-feira",
+    "Quinta-feira",
+    "Domingo"
+  ],
+  "source": [
+    "Obtido na síntese"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Jade_Branch_of_a_Distant_Sea.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/29/Item_Jade_Branch_of_a_Distant_Sea.png",
+    "nameicon": "UI_ItemIcon_114027"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Jade_Branch_of_a_Distant_Sea"
+  },
+  "version": ""
+}

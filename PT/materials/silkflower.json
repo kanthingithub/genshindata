@@ -1,0 +1,21 @@
+{
+  "name": "Flor de Seda",
+  "description": "Uma flor carmesim que floresce como nuvens de arco-íris em Liyue. Pode ser usada para confeccionar tecidos suaves como a seda.",
+  "sortorder": 2050,
+  "category": "EXCHANGE",
+  "materialtype": "Especialidade de Liyue",
+  "source": [
+    "Encontrado perto do Terraço Yujing em Liyue",
+    "Encontrado perto do Albergue Wangshu",
+    "Recomendação: Encontrado no Porto de Liyue"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Silk_Flower.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Item_Silk_Flower.png",
+    "nameicon": "UI_ItemIcon_100029"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Silk_Flower"
+  },
+  "version": ""
+}

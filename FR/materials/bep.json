@@ -1,0 +1,17 @@
+{
+  "name": "EXP PB",
+  "description": "Votre carnet de voyage contient tout ce que vous avez vécu au cours de votre périple. Ces expériences deviendront un jour matière à chansons.",
+  "sortorder": 2256,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "EXP PB",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_116001",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_BEP.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/BEP"
+  },
+  "version": ""
+}

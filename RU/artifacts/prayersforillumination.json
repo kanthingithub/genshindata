@@ -1,0 +1,20 @@
+{
+  "name": "Шаман огня",
+  "rarity": [
+    "3",
+    "4"
+  ],
+  "1pc": "Уменьшает длительность полученного Пиро эффекта на 40%.",
+  "circlet": {
+    "name": "Тиара огня",
+    "relictype": "Корона разума",
+    "description": "Ритуальный головной убор того, кому в древние времена доверяли церемонию жертвоприношения. Он обладает высоким сопротивлением к огню благодаря многолетнему контакту с ритуальным пламенем."
+  },
+  "images": {
+    "circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15009_3.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Prayers_for_Illumination"
+  },
+  "version": "1.0"
+}

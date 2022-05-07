@@ -1,0 +1,252 @@
+{
+  "name": "Domain of Blessing: Embun Beku",
+  "region": "Liyue",
+  "domainEntrance": "Hidden Palace of Zhou Formula",
+  "domainType": "Artefak",
+  "description": "Monolit di dalam Altar Ley Line didamba-dambakan dan ingin dihancurkan oleh monster di sekeliling altar.\nLindungi Monolit dengan kekuatan Cryo untuk mendapatkan Artefak yang berharga.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_1"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domain of Blessing: Embun Beku I",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Cryo"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "3"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "3"
+        },
+        {
+          "name": "Crimson Witch of Flames",
+          "rarity": "4"
+        },
+        {
+          "name": "Lavawalker",
+          "rarity": "4"
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "4"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Meningkatkan durasi Frozen secara drastis.",
+        "Saat Superconduct terpicu, ledakan energi akan tercipta dan mengakibatkan DMG pada musuh di sekitar."
+      ],
+      "monsterlist": [
+        "Large Electro Slime",
+        "Mutant Electro Slime",
+        "Hydro Slime",
+        "Large Hydro Slime"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Embun Beku II",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "Cryo"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "3"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "3"
+        },
+        {
+          "name": "Crimson Witch of Flames",
+          "rarity": "4"
+        },
+        {
+          "name": "Lavawalker",
+          "rarity": "4"
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "4"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Saat Melt terpicu, ledakan energi akan tercipta dan mengakibatkan DMG pada musuh di sekitar.",
+        "Saat Overloaded terpicu, kamu akan terkena serangan berenergi tinggi yang mengakibatkan DMG."
+      ],
+      "monsterlist": [
+        "Large Pyro Slime",
+        "Blazing Axe Mitachurl",
+        "Pyro Abyss Mage"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Embun Beku III",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Cryo"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "3"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "3"
+        },
+        {
+          "name": "Crimson Witch of Flames",
+          "rarity": "4"
+        },
+        {
+          "name": "Lavawalker",
+          "rarity": "4"
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "4"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "4"
+        },
+        {
+          "name": "Crimson Witch of Flames",
+          "rarity": "5"
+        },
+        {
+          "name": "Lavawalker",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Saat Superconduct terpicu, ledakan energi akan tercipta dan mengakibatkan DMG pada musuh di sekitar.",
+        "Saat Overloaded terpicu, kamu akan terkena serangan berenergi tinggi yang mengakibatkan DMG."
+      ],
+      "monsterlist": [
+        "Large Electro Slime",
+        "Mutant Electro Slime",
+        "Hilichurl Fighter",
+        "Fatui - Electro Cicin Mage"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Embun Beku IV",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "Cryo"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "3"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "3"
+        },
+        {
+          "name": "Crimson Witch of Flames",
+          "rarity": "4"
+        },
+        {
+          "name": "Lavawalker",
+          "rarity": "4"
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "4"
+        },
+        {
+          "name": "Martial Artist",
+          "rarity": "4"
+        },
+        {
+          "name": "Crimson Witch of Flames",
+          "rarity": "5"
+        },
+        {
+          "name": "Lavawalker",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Saat Melt terpicu, ledakan energi akan tercipta dan mengakibatkan DMG pada musuh di sekitar.",
+        "Saat Overloaded terpicu, kamu akan terkena serangan berenergi tinggi yang mengakibatkan DMG."
+      ],
+      "monsterlist": [
+        "Large Pyro Slime",
+        "Blazing Axe Mitachurl",
+        "Pyro Abyss Mage"
+      ]
+    }
+  ]
+}

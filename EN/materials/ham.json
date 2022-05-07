@@ -1,0 +1,19 @@
+{
+  "name": "Ham",
+  "description": "Smoked leg meat. Even the thinnest slice is packed full of flavor.",
+  "sortorder": 1529,
+  "category": "EXCHANGE",
+  "materialtype": "Cooking Ingredient",
+  "source": [
+    "Processed"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ham.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Item_Ham.png",
+    "nameicon": "UI_ItemIcon_110005"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ham"
+  },
+  "version": ""
+}

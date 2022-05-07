@@ -1,0 +1,18 @@
+{
+  "name": "Trockenfisch",
+  "description": "",
+  "sortorder": 1536,
+  "category": "EXCHANGE",
+  "materialtype": "Zutat",
+  "source": [
+    "Beim Verarbeiten von Gerichten zu erhalten"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dried_Fish.png",
+    "nameicon": "UI_ItemIcon_110013"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dried_Fish"
+  },
+  "version": ""
+}

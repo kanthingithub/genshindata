@@ -1,0 +1,166 @@
+{
+  "name": "ดันเจี้ยนแห่งการพัฒนา: ดินแดนนิทรา",
+  "region": "Mondstadt",
+  "domainEntrance": "หุบเขาแห่งการลืมเลือน",
+  "domainType": "วัสดุยกระดับพรสวรรค์",
+  "description": "ที่แท่นบูชายัญอันแสนหนาวเหน็บนี้ มีพลังของธาตุน้ำแข็ง อันมากมายมหาศาลอัดแน่นอยู่\nความเย็นที่เสียดแทงเข้าไป ในกระดูกของมันนั้น ทำให้แม้จะแค่เดินก็ทำได้ยังยาก\nหากว่าสามารถผ่านการทดสอบได้ล่ะก็ บางทีอาจจะได้รับวัตถุ ที่สามารถพัฒนาพรสวรรค์ได้ก็เป็นได้",
+  "daysOfWeek": [
+    "วันพุธ",
+    "วันเสาร์",
+    "วันอาทิตย์"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Ice"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "ดันเจี้ยนแห่งการพัฒนา: ดินแดนนิทรา I",
+      "recommendedLevel": 38,
+      "recommendedElements": [
+        "ไฟฟ้า",
+        "ไฟ"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1575
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Teachings of Ballad"
+        }
+      ],
+      "disorder": [
+        "ตัวละครของคุณจะถูกโจมตีด้วย \"Condensed Ice\" เป็นช่วง ๆ : ทำให้การใช้พลังกายเพิ่มขึ้น จนกว่าจะกำจัดธาตุน้ำแข็งที่ติดอยู่กับตัวละครได้"
+      ],
+      "monsterlist": [
+        "Cryo Slime",
+        "Large Cryo Slime",
+        "Cryo Abyss Mage"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งการพัฒนา: ดินแดนนิทรา II",
+      "recommendedLevel": 54,
+      "recommendedElements": [
+        "ไฟฟ้า",
+        "ไฟ"
+      ],
+      "unlockRank": 28,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1800
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Teachings of Ballad"
+        },
+        {
+          "name": "Guide to Ballad"
+        }
+      ],
+      "disorder": [
+        "ตัวละครของคุณจะถูกโจมตีด้วย \"Condensed Ice\" เป็นช่วง ๆ : ทำให้การใช้พลังกายเพิ่มขึ้น จนกว่าจะกำจัดธาตุน้ำแข็งที่ติดอยู่กับตัวละครได้"
+      ],
+      "monsterlist": [
+        "Cryo Slime",
+        "Large Cryo Slime",
+        "Hilichurl Fighter",
+        "Cryo Abyss Mage"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งการพัฒนา: ดินแดนนิทรา III",
+      "recommendedLevel": 71,
+      "recommendedElements": [
+        "ไฟฟ้า",
+        "ไฟ"
+      ],
+      "unlockRank": 36,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2050
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Teachings of Ballad"
+        },
+        {
+          "name": "Guide to Ballad"
+        }
+      ],
+      "disorder": [
+        "ตัวละครของคุณจะถูกโจมตีด้วย \"Condensed Ice\" เป็นช่วง ๆ : ทำให้การใช้พลังกายเพิ่มขึ้น จนกว่าจะกำจัดธาตุน้ำแข็งที่ติดอยู่กับตัวละครได้ จะมีแท่งน้ำแข็งสุ่มตกลงมาในพื้นที่เพื่อสร้างความเสียหายน้ำแข็ง"
+      ],
+      "monsterlist": [
+        "Cryo Slime",
+        "Large Cryo Slime",
+        "Cryo Abyss Mage"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งการพัฒนา: ดินแดนนิทรา IV",
+      "recommendedLevel": 88,
+      "recommendedElements": [
+        "ไฟฟ้า",
+        "ไฟ"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2375
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Teachings of Ballad"
+        },
+        {
+          "name": "Guide to Ballad"
+        },
+        {
+          "name": "Philosophies of Ballad"
+        }
+      ],
+      "disorder": [
+        "ตัวละครของคุณจะถูกโจมตีด้วย \"Condensed Ice\" เป็นช่วง ๆ : ทำให้การใช้พลังกายเพิ่มขึ้น จนกว่าจะกำจัดธาตุน้ำแข็งที่ติดอยู่กับตัวละครได้ จะมีแท่งน้ำแข็งสุ่มตกลงมาในพื้นที่เพื่อสร้างความเสียหายน้ำแข็ง"
+      ],
+      "monsterlist": [
+        "Large Cryo Slime",
+        "Cryo Abyss Mage"
+      ]
+    }
+  ]
+}

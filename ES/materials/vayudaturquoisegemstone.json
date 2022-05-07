@@ -1,0 +1,21 @@
+{
+  "name": "Turquesa vayuda",
+  "description": "Material de ascensión de personaje.\n“Aun así, los vientos cambian de dirección”.\n“Algún día, soplarán hacia un futuro más brillante...”\n“Acepta mis bendiciones y vive desde ahora en sosiego”.",
+  "sortorder": 1841,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Obtenido de Hipostasis Anemo (Niv. 75+)",
+    "Sintetizar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vayuda_Turquoise_Gemstone.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Item_Vayuda_Turquoise_Gemstone.png",
+    "nameicon": "UI_ItemIcon_104154"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Vayuda_Turquoise_Gemstone"
+  },
+  "version": ""
+}

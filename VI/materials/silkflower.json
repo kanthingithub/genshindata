@@ -1,0 +1,21 @@
+{
+  "name": "Hoa Nghê Thường",
+  "description": "Hoa đỏ thắm nở rực rỡ như những đám mây ở Liyue, có thể tạo thành vải dệt mỏng manh như nước.",
+  "sortorder": 2050,
+  "category": "EXCHANGE",
+  "materialtype": "Đặc Sản Khu Vực Liyue",
+  "source": [
+    "Thu thập gần Ngọc Kinh Đài ở Cảng Liyue",
+    "Thu thập gần Nhà Trọ Vọng Thư",
+    "Đề xuất: Thu thập ở Cảng Liyue"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Silk_Flower.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Item_Silk_Flower.png",
+    "nameicon": "UI_ItemIcon_100029"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Silk_Flower"
+  },
+  "version": ""
+}

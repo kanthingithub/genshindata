@@ -1,0 +1,20 @@
+{
+  "name": "Ring of Boreas",
+  "description": "Sebongkah es kristal dari Great Wolf King of the North.\nDaratan ini sebelumnya merupakan tempat yang selalu dilanda badai salju dan dipenuhi potongan es yang tajam, semuanya bergerak atas kehendak Boreas. Meskipun kekuatannya sudah meredup, tetapi angin dingin masih berembus di daratan ini.",
+  "sortorder": 1789,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Hadiah tantangan Wolf of the North Lv. 70+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ring_of_Boreas.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Item_Ring_of_Boreas.png",
+    "nameicon": "UI_ItemIcon_113007"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ring_of_Boreas"
+  },
+  "version": ""
+}

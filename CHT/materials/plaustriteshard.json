@@ -1,0 +1,22 @@
+{
+  "name": "浮生石片",
+  "description": "海燈節期間，用以製作「霄燈」的材料。\n能自行懸浮的神秘元素石片，是霄燈飛往遙遠天際線的秘密，傳說也是「群玉閣」漂浮的動力來源。",
+  "sortorder": 2289,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "海燈節素材",
+  "source": [
+    "礦物類採集物中取得",
+    "幼岩龍蜥、岩龍蜥產出",
+    "丘丘岩盔王產出"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Plaustrite_Shard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/78/Item_Plaustrite_Shard.png",
+    "nameicon": "UI_ItemIcon_200003"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Plaustrite_Shard"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Наживка блескушка",
+  "description": "Особая наживка из магической кристальной руды и морской водоросли, которая светится в темноте и привлекает тех, кто жаждет света.\nЕсли наживка закончится, вы можете получить новую у Кудзирай Момидзи.\n\nПодходит для ловли всех видов рыбы.",
+  "sortorder": 1518,
+  "rarity": "2",
+  "category": "FISH_BAIT",
+  "materialtype": "Наживка",
+  "source": [
+    "Задание Кудзирай Момидзи"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_111027",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Glowgrass_Bait.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Item_Glowgrass_Bait.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Glowgrass_Bait"
+  },
+  "version": ""
+}

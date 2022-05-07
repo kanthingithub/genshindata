@@ -1,0 +1,16 @@
+{
+  "name": "Sporen der Pilzbestie",
+  "description": "Eine kleine Menge glitzerndes Sporenpulver, das von Pilzbestien zurückgelassen wurde. Es scheint, als würde ein Niesen genügen, um es spurlos verschwinden zu lassen.",
+  "sortorder": 1780,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Beute von Pilzbestien"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_112059",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fungal_Spores.png"
+  },
+  "version": "2.6"
+}

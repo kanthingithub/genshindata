@@ -1,0 +1,278 @@
+{
+  "name": "祝圣秘境：钢铁之舞",
+  "region": "蒙德",
+  "domainEntrance": "铭记之谷",
+  "domainType": "圣遗物",
+  "description": "这座远古祝圣祭坛中，聚集着畏惧纯粹武力的魔物。\n若能通过其中的试炼，或许能获得珍贵的圣遗物。",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_3"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "祝圣秘境：钢铁之舞 I",
+      "recommendedLevel": 47,
+      "recommendedElements": [],
+      "unlockRank": 25,
+      "rewardPreview": [
+        {
+          "name": "冒险阅历",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 1700
+        },
+        {
+          "name": "好感经验",
+          "count": 15
+        },
+        {
+          "name": "游医",
+          "rarity": "2"
+        },
+        {
+          "name": "奇迹",
+          "rarity": "3"
+        },
+        {
+          "name": "游医",
+          "rarity": "3"
+        }
+      ],
+      "disorder": [
+        "队伍中所有角色造成的物理伤害提高75%。"
+      ],
+      "monsterlist": [
+        "盗宝团·冰之药剂师",
+        "盗宝团·杂工",
+        "盗宝团·掘墓者",
+        "盗宝团·海上男儿",
+        "盗宝团·拳术家"
+      ]
+    },
+    {
+      "name": "祝圣秘境：钢铁之舞 II",
+      "recommendedLevel": 59,
+      "recommendedElements": [],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "冒险阅历",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 1850
+        },
+        {
+          "name": "好感经验",
+          "count": 15
+        },
+        {
+          "name": "奇迹",
+          "rarity": "3"
+        },
+        {
+          "name": "游医",
+          "rarity": "3"
+        },
+        {
+          "name": "翠绿之影",
+          "rarity": "4"
+        },
+        {
+          "name": "被怜爱的少女",
+          "rarity": "4"
+        },
+        {
+          "name": "奇迹",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "队伍中所有角色造成的物理伤害提高75%。"
+      ],
+      "monsterlist": [
+        "愚人众·火之债务处理人",
+        "盗宝团·斥候",
+        "盗宝团·火之药剂师",
+        "盗宝团·水之药剂师",
+        "盗宝团·杂工",
+        "盗宝团·拳术家",
+        "盗宝团·粉碎者"
+      ]
+    },
+    {
+      "name": "祝圣秘境：钢铁之舞 III",
+      "recommendedLevel": 69,
+      "recommendedElements": [],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "冒险阅历",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 2025
+        },
+        {
+          "name": "好感经验",
+          "count": 20
+        },
+        {
+          "name": "奇迹",
+          "rarity": "3"
+        },
+        {
+          "name": "游医",
+          "rarity": "3"
+        },
+        {
+          "name": "翠绿之影",
+          "rarity": "4"
+        },
+        {
+          "name": "被怜爱的少女",
+          "rarity": "4"
+        },
+        {
+          "name": "奇迹",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "队伍中所有角色造成的物理伤害提高75%。"
+      ],
+      "monsterlist": [
+        "愚人众·火之债务处理人",
+        "愚人众·雷萤术士",
+        "盗宝团·斥候",
+        "盗宝团·火之药剂师",
+        "盗宝团·雷之药剂师",
+        "盗宝团·杂工",
+        "盗宝团·掘墓者",
+        "盗宝团·拳术家",
+        "盗宝团·粉碎者"
+      ]
+    },
+    {
+      "name": "祝圣秘境：钢铁之舞 IV",
+      "recommendedLevel": 80,
+      "recommendedElements": [],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "冒险阅历",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 2200
+        },
+        {
+          "name": "好感经验",
+          "count": 20
+        },
+        {
+          "name": "奇迹",
+          "rarity": "3"
+        },
+        {
+          "name": "游医",
+          "rarity": "3"
+        },
+        {
+          "name": "翠绿之影",
+          "rarity": "4"
+        },
+        {
+          "name": "被怜爱的少女",
+          "rarity": "4"
+        },
+        {
+          "name": "奇迹",
+          "rarity": "4"
+        },
+        {
+          "name": "翠绿之影",
+          "rarity": "5"
+        },
+        {
+          "name": "被怜爱的少女",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "队伍中所有角色造成的物理伤害提高75%。"
+      ],
+      "monsterlist": [
+        "愚人众·火之债务处理人",
+        "愚人众·雷萤术士",
+        "盗宝团·火之药剂师",
+        "盗宝团·水之药剂师",
+        "盗宝团·雷之药剂师",
+        "盗宝团·冰之药剂师",
+        "盗宝团·海上男儿"
+      ]
+    },
+    {
+      "name": "祝圣秘境：钢铁之舞 V",
+      "recommendedLevel": 90,
+      "recommendedElements": [],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "冒险阅历",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 2525
+        },
+        {
+          "name": "好感经验",
+          "count": 20
+        },
+        {
+          "name": "奇迹",
+          "rarity": "3"
+        },
+        {
+          "name": "游医",
+          "rarity": "3"
+        },
+        {
+          "name": "翠绿之影",
+          "rarity": "4"
+        },
+        {
+          "name": "被怜爱的少女",
+          "rarity": "4"
+        },
+        {
+          "name": "奇迹",
+          "rarity": "4"
+        },
+        {
+          "name": "翠绿之影",
+          "rarity": "5"
+        },
+        {
+          "name": "被怜爱的少女",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "队伍中所有角色造成的物理伤害提高75%。"
+      ],
+      "monsterlist": [
+        "愚人众·火之债务处理人",
+        "愚人众·雷萤术士",
+        "盗宝团·冰之药剂师"
+      ]
+    }
+  ]
+}

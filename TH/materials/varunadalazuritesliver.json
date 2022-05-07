@@ -1,0 +1,22 @@
+{
+  "name": "Varunada Lazurite Sliver",
+  "description": "วัสดุเลื่อนขั้นตัวละคร",
+  "sortorder": 1826,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ดรอปจาก Oceanid",
+    "ดรอปจาก Hydro Hypostasis",
+    "แลกได้ที่ร้านขายของที่ระลึก"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Varunada_Lazurite_Sliver.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Item_Varunada_Lazurite_Sliver.png",
+    "nameicon": "UI_ItemIcon_104121"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Varunada_Lazurite_Sliver"
+  },
+  "version": ""
+}

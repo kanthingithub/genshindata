@@ -1,0 +1,954 @@
+{
+  "name": "Xinyan",
+  "fullname": "Xinyan",
+  "title": "Melodia Incandescente",
+  "description": "A única roqueira do Porto de Liyue, ela usa sua música e canções apaixonadas para resistir aos preconceitos.",
+  "rarity": "4",
+  "element": "Pyro",
+  "weapontype": "Espadão",
+  "substat": "ATQ",
+  "gender": "Feminino",
+  "body": "GIRL",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Corda Vermelha",
+  "birthdaymmdd": "10/16",
+  "birthday": "16 de outubro",
+  "constellation": "Fila Ignium",
+  "cv": {
+    "english": "Laura Stahl",
+    "chinese": "王雅欣",
+    "japanese": "たかはし智秋",
+    "korean": "Kim Chae-ha"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Lasca de Ágata Agnidus",
+        "count": 1
+      },
+      {
+        "name": "Violeta",
+        "count": 3
+      },
+      {
+        "name": "Insígnia dos Ladrões de Tesouro",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de Ágata Agnidus",
+        "count": 3
+      },
+      {
+        "name": "Semente de Fogo Eterno",
+        "count": 2
+      },
+      {
+        "name": "Violeta",
+        "count": 10
+      },
+      {
+        "name": "Insígnia dos Ladrões de Tesouro",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de Ágata Agnidus",
+        "count": 6
+      },
+      {
+        "name": "Semente de Fogo Eterno",
+        "count": 4
+      },
+      {
+        "name": "Violeta",
+        "count": 20
+      },
+      {
+        "name": "Insígnia do Corvo Prateado",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Pedaço de Ágata Agnidus",
+        "count": 3
+      },
+      {
+        "name": "Semente de Fogo Eterno",
+        "count": 8
+      },
+      {
+        "name": "Violeta",
+        "count": 30
+      },
+      {
+        "name": "Insígnia do Corvo Prateado",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Pedaço de Ágata Agnidus",
+        "count": 6
+      },
+      {
+        "name": "Semente de Fogo Eterno",
+        "count": 12
+      },
+      {
+        "name": "Violeta",
+        "count": 45
+      },
+      {
+        "name": "Insígnia de Corvo Dourado",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Gema de Ágata Agnidus",
+        "count": 6
+      },
+      {
+        "name": "Semente de Fogo Eterno",
+        "count": 20
+      },
+      {
+        "name": "Violeta",
+        "count": 60
+      },
+      {
+        "name": "Insígnia de Corvo Dourado",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Xinyan_Card.jpeg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Character_Xinyan_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xinyan.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xinyan.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201125/2020112516015894679.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201125/2020112516125848571.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/1a30faffb4b122f778b1ab4c7c39d6bf.png",
+    "nameicon": "UI_AvatarIcon_Xinyan",
+    "nameiconcard": "UI_AvatarIcon_Xinyan_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Xinyan",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Xinyan",
+    "namesideicon": "UI_AvatarIcon_Side_Xinyan"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Xinyan"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 939.1447143554688,
+      "attack": 20.835359573364258,
+      "defense": 66.9532470703125,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2412.6627765530284,
+      "attack": 53.52603886319366,
+      "defense": 172.00289210674237,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3114.2519489163096,
+      "attack": 69.09148476315704,
+      "defense": 222.02039393779705,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4664.779669902957,
+      "attack": 103.49065892812814,
+      "defense": 332.56019042042317,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5163.277289531863,
+      "attack": 114.55031793233957,
+      "defense": 368.0989401152474,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5939.011024212436,
+      "attack": 131.76032939085144,
+      "defense": 423.40233649808215,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6603.674476360873,
+      "attack": 146.5065433038153,
+      "defense": 470.7873386343126,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7379.408211041446,
+      "attack": 163.71655476232718,
+      "defense": 526.0907350171474,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7877.905769635196,
+      "attack": 174.7762128128643,
+      "defense": 561.6294770825771,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 8652.699979850819,
+      "attack": 191.96538048686034,
+      "defense": 616.8658931452665,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 9151.197538444569,
+      "attack": 203.02503853739745,
+      "defense": 652.4046504694852,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9926.930825306044,
+      "attack": 220.23504006083567,
+      "defense": 707.7080149265239,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 10425.428383899794,
+      "attack": 231.29469811137278,
+      "defense": 743.2467569919536,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 11201.162118580367,
+      "attack": 248.50470956988465,
+      "defense": 798.5501533747884,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.1",
+  "constellations": {
+    "c1": {
+      "name": "Aceleração Fatal",
+      "effect": "5s após Xinyan causar um CRIT, a Vel. de ATQ do Ataque Normal e Ataque Carregado aumenta 12%.\nEsse efeito pode ocorrer apenas uma vez a cada 5 segundos."
+    },
+    "c2": {
+      "name": "Começo Improvisado",
+      "effect": "Taxa CRIT de Dano Físico causado pela **Melodia da Rebelião** aumenta em 100%, e ao lançar, formará um escudo Nv.3: Rave."
+    },
+    "c3": {
+      "name": "Duplo-Stop",
+      "effect": "Aumenta o nível da **Fervor Arrebatador** em 3.\nO nível máximo de elevação é 15."
+    },
+    "c4": {
+      "name": "Ritmo Contagiante",
+      "effect": "O Dano de Balanço de **Fervor Arrebatador** irá diminuir a RES Física do inimigo em 15% por 12s."
+    },
+    "c5": {
+      "name": "Gritos de Bis",
+      "effect": "Aumenta o nível da **Melodia da Rebelião** em 3.\nO nível máximo de elevação é 15."
+    },
+    "c6": {
+      "name": "Rockeando no inferno",
+      "effect": "Diminui o Consumo de Stamina do Ataque Carregado de Xinyan em 30%. Ao usar Ataques Carregados, Xinyan ganha um Bônus de Ataque baseado em 50% de sua defesa."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xinyan_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xinyan_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Xinyan_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xinyan_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Xinyan_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xinyan_04.png",
+      "constellation": "Eff_UI_Talent_Xinyan"
+    },
+    "version": "1.1"
+  },
+  "talent": {
+    "name": "Xinyan",
+    "combat1": {
+      "name": "Ataque Normal: Dança do Fogo",
+      "info": "**Ataque Normal**\nRealiza até 4 golpes consecutivos.\n\n**Ataque Carregado**\nDrena Stamina ao longo do tempo para realizar um ataque giratório contínuo contra todos os inimigos próximos.\nAo final da sequência, realiza um corte poderoso.\n\n**Ataque Imersivo**\nMergulha em pleno ar para golpear o chão, danificando inimigos em seu caminho e infligindo Dano em uma AdE durante o impacto.",
+      "attributes": [
+        {
+          "name": "Dano do 1° Golpe",
+          "parameters": [
+            "76.54%",
+            "82.77%",
+            "89.00%",
+            "97.90%",
+            "104.13%",
+            "111.25%",
+            "121.04%",
+            "130.83%",
+            "140.62%",
+            "151.30%",
+            "161.98%",
+            "172.66%",
+            "183.34%",
+            "194.02%",
+            "204.70%"
+          ]
+        },
+        {
+          "name": "Dano do 2° Golpe",
+          "parameters": [
+            "73.96%",
+            "79.98%",
+            "86.00%",
+            "94.60%",
+            "100.62%",
+            "107.50%",
+            "116.96%",
+            "126.42%",
+            "135.88%",
+            "146.20%",
+            "156.52%",
+            "166.84%",
+            "177.16%",
+            "187.48%",
+            "197.80%"
+          ]
+        },
+        {
+          "name": "Dano do 3° Golpe",
+          "parameters": [
+            "95.46%",
+            "103.23%",
+            "111.00%",
+            "122.10%",
+            "129.87%",
+            "138.75%",
+            "150.96%",
+            "163.17%",
+            "175.38%",
+            "188.70%",
+            "202.02%",
+            "215.34%",
+            "228.66%",
+            "241.98%",
+            "255.30%"
+          ]
+        },
+        {
+          "name": "Dano do 4° Golpe",
+          "parameters": [
+            "115.84%",
+            "125.27%",
+            "134.70%",
+            "148.17%",
+            "157.60%",
+            "168.38%",
+            "183.19%",
+            "198.01%",
+            "212.83%",
+            "228.99%",
+            "245.15%",
+            "261.32%",
+            "277.48%",
+            "293.65%",
+            "309.81%"
+          ]
+        },
+        {
+          "name": "Dano de Loop de Ataque Carregado",
+          "parameters": [
+            "62.55%",
+            "67.64%",
+            "72.73%",
+            "80.00%",
+            "85.09%",
+            "90.91%",
+            "98.91%",
+            "106.91%",
+            "114.91%",
+            "123.64%",
+            "132.36%",
+            "141.09%",
+            "149.82%",
+            "158.55%",
+            "167.27%"
+          ]
+        },
+        {
+          "name": "Dano Final de Ataque Carregado",
+          "parameters": [
+            "113.09%",
+            "122.29%",
+            "131.50%",
+            "144.65%",
+            "153.86%",
+            "164.37%",
+            "178.84%",
+            "193.31%",
+            "207.77%",
+            "223.55%",
+            "239.33%",
+            "255.11%",
+            "270.89%",
+            "286.67%",
+            "302.45%"
+          ]
+        },
+        {
+          "name": "Consumo de Stamina de Ataque Carregado",
+          "parameters": [
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s"
+          ]
+        },
+        {
+          "name": "Duração Máxima",
+          "parameters": [
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s"
+          ]
+        },
+        {
+          "name": "Dano Durante a Queda",
+          "parameters": [
+            "74.59%",
+            "80.66%",
+            "86.73%",
+            "95.40%",
+            "101.47%",
+            "108.41%",
+            "117.95%",
+            "127.49%",
+            "137.03%",
+            "147.44%",
+            "157.85%",
+            "168.26%",
+            "178.66%",
+            "189.07%",
+            "199.48%"
+          ]
+        },
+        {
+          "name": "Dano de Queda de Baixa/Alta Altitude",
+          "parameters": [
+            "149.14%/186.29%",
+            "161.28%/201.45%",
+            "173.42%/216.62%",
+            "190.77%/238.28%",
+            "202.91%/253.44%",
+            "216.78%/270.77%",
+            "235.86%/294.60%",
+            "254.93%/318.42%",
+            "274.01%/342.25%",
+            "294.82%/368.25%",
+            "315.63%/394.24%",
+            "336.44%/420.23%",
+            "357.25%/446.23%",
+            "378.06%/472.22%",
+            "398.87%/498.21%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Fervor Arrebatador",
+      "info": "Xinyan brande seu instrumento, causando Dano Pyro em inimigos próximos, criando um escudo feito a partir da paixão de seu público.\nA absorção de Dano do escudo aumenta com base na DEF de Xinyan e no número de inimigos atingidos.\nAtingir de 0-1 inimigo concede Escudo Nível 1: Improviso.\nAtingir 2 inimigos concede Escudo Nível 2: Introdução.\nAtingir 3 ou mais inimigos concede Escudo Nível 3: Rave, que também causará Dano Pyro periodicamente aos inimigos próximos.\n\nO escudo tem as seguintes propriedades especiais:\nQuando ativado, ele aplica o elemento Pyro em Xinyan.\nTem 250% de eficácia de absorção de Dano contra Dano Pyro.",
+      "description": "Xinyan insiste que essas pirotecnias representam o ápice da arte da performance e que são fenômenos físicos que nada têm a ver com sua Visão.",
+      "attributes": [
+        {
+          "name": "Dano de Balanço",
+          "parameters": [
+            "169.60%",
+            "182.32%",
+            "195.04%",
+            "212.00%",
+            "224.72%",
+            "237.44%",
+            "254.40%",
+            "271.36%",
+            "288.32%",
+            "305.28%",
+            "322.24%",
+            "339.20%",
+            "360.40%",
+            "381.60%",
+            "402.80%"
+          ]
+        },
+        {
+          "name": "Absorção de Escudo Nv.1",
+          "parameters": [
+            "104.04% da DEF + 501",
+            "111.84% da DEF + 551",
+            "119.65% da DEF + 605",
+            "130.05% da DEF + 663",
+            "137.85% da DEF + 726",
+            "145.66% da DEF + 793",
+            "156.06% da DEF + 864",
+            "166.46% da DEF + 939",
+            "176.87% da DEF + 1018",
+            "187.27% da DEF + 1101",
+            "197.68% da DEF + 1189",
+            "208.08% da DEF + 1281",
+            "221.09% da DEF + 1377",
+            "234.09% da DEF + 1477",
+            "247.09% da DEF + 1581"
+          ]
+        },
+        {
+          "name": "Absorção de Escudo Nv.2",
+          "parameters": [
+            "122.40% da DEF + 589",
+            "131.58% da DEF + 648",
+            "140.76% da DEF + 712",
+            "153.00% da DEF + 780",
+            "162.18% da DEF + 854",
+            "171.36% da DEF + 932",
+            "183.60% da DEF + 1016",
+            "195.84% da DEF + 1104",
+            "208.08% da DEF + 1197",
+            "220.32% da DEF + 1296",
+            "232.56% da DEF + 1399",
+            "244.80% da DEF + 1507",
+            "260.10% da DEF + 1620",
+            "275.40% da DEF + 1737",
+            "290.70% da DEF + 1860"
+          ]
+        },
+        {
+          "name": "Absorção de Escudo Nv.3",
+          "parameters": [
+            "144.00% da DEF + 693",
+            "154.80% da DEF + 762",
+            "165.60% da DEF + 837",
+            "180.00% da DEF + 918",
+            "190.80% da DEF + 1005",
+            "201.60% da DEF + 1097",
+            "216.00% da DEF + 1195",
+            "230.40% da DEF + 1299",
+            "244.80% da DEF + 1409",
+            "259.20% da DEF + 1524",
+            "273.60% da DEF + 1646",
+            "288.00% da DEF + 1773",
+            "306.00% da DEF + 1905",
+            "324.00% da DEF + 2044",
+            "342.00% da DEF + 2188"
+          ]
+        },
+        {
+          "name": "Dano Contínuo",
+          "parameters": [
+            "33.60%",
+            "36.12%",
+            "38.64%",
+            "42.00%",
+            "44.52%",
+            "47.04%",
+            "50.40%",
+            "53.76%",
+            "57.12%",
+            "60.48%",
+            "63.84%",
+            "67.20%",
+            "71.40%",
+            "75.60%",
+            "79.80%"
+          ]
+        },
+        {
+          "name": "Duração do Escudo",
+          "parameters": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        },
+        {
+          "name": "Recarga",
+          "parameters": [
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Melodia da Rebelião",
+      "info": "Tocando sua música rapidamente, Xinyan lança os inimigos próximos e causa Dano Físico neles, hipnotizando a multidão.\nA pura intensidade da atmosfera causará explosões que causam Dano Pyro aos inimigos próximos.",
+      "description": "Xinyan costumava terminar todas as suas performances com esse movimento. Ela não parou porque era perigoso, mas sim porque ela não tinha um final mais épico no caso de alguém gritar \"Mais!\".",
+      "attributes": [
+        {
+          "name": "Dano de Habilidade",
+          "parameters": [
+            "340.80%",
+            "366.36%",
+            "391.92%",
+            "426.00%",
+            "451.56%",
+            "477.12%",
+            "511.20%",
+            "545.28%",
+            "579.36%",
+            "613.44%",
+            "647.52%",
+            "681.60%",
+            "724.20%",
+            "766.80%",
+            "809.40%"
+          ]
+        },
+        {
+          "name": "Dano Contínuo Pyro",
+          "parameters": [
+            "40.00%",
+            "43.00%",
+            "46.00%",
+            "50.00%",
+            "53.00%",
+            "56.00%",
+            "60.00%",
+            "64.00%",
+            "68.00%",
+            "72.00%",
+            "76.00%",
+            "80.00%",
+            "85.00%",
+            "90.00%",
+            "95.00%"
+          ]
+        },
+        {
+          "name": "Duração",
+          "parameters": [
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s",
+            "2s"
+          ]
+        },
+        {
+          "name": "Tempo de Recarga",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        },
+        {
+          "name": "Energia Elemental",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "\"O espetáculo deve continuar...\"",
+      "info": "Diminui o número de inimigos que **Fervor Arrebatador** precisa acertar para acionar cada nível do escudo.\nEscudo Nível 2: Introdução, requerimento reduzido a 1 inimigo atingido.\nEscudo Nível 3: Rave, requerimento reduzido a 2 inimigos atingidos ou mais."
+    },
+    "passive2": {
+      "name": "\"...Isso sim é Rock 'n' Roll!\"",
+      "info": "Personagens protegidos por **Fervor Arrebatador** causam 15% mais Dano Físico."
+    },
+    "passive3": {
+      "name": "Uma Receita Radical",
+      "info": "Quando uma Culinária Perfeita é feita em uma comida de aumento de DEF, Xinyan tem uma chance de 12% de receber o dobro de produção."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Ensinamentos de Ouro",
+          "count": 3
+        },
+        {
+          "name": "Insígnia dos Ladrões de Tesouro",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guia de Ouro",
+          "count": 2
+        },
+        {
+          "name": "Insígnia do Corvo Prateado",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guia de Ouro",
+          "count": 4
+        },
+        {
+          "name": "Insígnia do Corvo Prateado",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guia de Ouro",
+          "count": 6
+        },
+        {
+          "name": "Insígnia do Corvo Prateado",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guia de Ouro",
+          "count": 9
+        },
+        {
+          "name": "Insígnia do Corvo Prateado",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofia de Ouro",
+          "count": 4
+        },
+        {
+          "name": "Insígnia de Corvo Dourado",
+          "count": 4
+        },
+        {
+          "name": "Chifre de Baleia Come-Céu",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofia de Ouro",
+          "count": 6
+        },
+        {
+          "name": "Insígnia de Corvo Dourado",
+          "count": 6
+        },
+        {
+          "name": "Chifre de Baleia Come-Céu",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofia de Ouro",
+          "count": 12
+        },
+        {
+          "name": "Insígnia de Corvo Dourado",
+          "count": 9
+        },
+        {
+          "name": "Chifre de Baleia Come-Céu",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofia de Ouro",
+          "count": 16
+        },
+        {
+          "name": "Insígnia de Corvo Dourado",
+          "count": 12
+        },
+        {
+          "name": "Chifre de Baleia Come-Céu",
+          "count": 2
+        },
+        {
+          "name": "Coroa da Sabedoria",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Xinyan_01",
+      "combat3": "Skill_E_Xinyan_01_HD",
+      "passive1": "UI_Talent_S_Xinyan_05",
+      "passive2": "UI_Talent_S_Xinyan_06",
+      "passive3": "UI_Talent_Cook_Defense"
+    },
+    "version": "1.1"
+  }
+}

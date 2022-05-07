@@ -1,0 +1,26 @@
+{
+  "name": "Wunderkugel des Nebelschleiers",
+  "description": "Material mit der Kraft, Waffen aufsteigen zu lassen.\nDiese edelste Form der Goldkugel bildet das ursprüngliche Chaos, die Zeit, in der alles eins war und Himmel und Erde noch nicht getrennt waren, nach. Es ist wie eine Miniatur von der Schaffung der Welt. Natürlich wissen nur wenige, dass die Wiedererschaffung der Welt anders abgelaufen ist.",
+  "sortorder": 2202,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zum Aufstieg von Waffen",
+  "dropdomain": "Sphäre der Kriegskunst: Verfallene Stadt des Donnerklangs",
+  "daysofweek": [
+    "Dienstag",
+    "Freitag",
+    "Sonntag"
+  ],
+  "source": [
+    "Kann hergestellt werden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Veiled_Primo_Elixir.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a3/Item_Mist_Veiled_Primo_Elixir.png",
+    "nameicon": "UI_ItemIcon_114020"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Veiled_Primo_Elixir"
+  },
+  "version": ""
+}

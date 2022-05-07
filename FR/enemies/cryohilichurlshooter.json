@@ -1,0 +1,125 @@
+{
+  "name": "Arbalétrier Brutocollinus Cryo",
+  "specialname": "Simple créature",
+  "enemytype": "COMMON",
+  "category": "Brutocollinus",
+  "description": "Résident d'origine des contrées sauvages de Teyvat.\nCes tireurs manient de simples arbalètes et recouvrent la tête de leur flèches de glace. On dit que les blessures causées par ces flèches soignent moins bien, le froid ralentissant la circulation du sang.",
+  "investigation": {
+    "name": "Tireur Brutocollinus",
+    "category": "Normal",
+    "description": "Des Brutocollinus qui attaquent à distance avec des arbalètes.\\nÉtant donné leurs capacités intellectuelles limitées, apprendre à manier une arbalète leur demande des efforts considérables, sans parler de fabriquer des armes aussi raffinées. Peut-être qu'une organisation s'occupe de fournir des armes et d'entraîner ces créatures qu'on trouve à peu près partout en Teyvat..."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Pointe de flèche robuste",
+      "count": 0.8404
+    },
+    {
+      "name": "Pointe de flèche aiguisée",
+      "count": 0.2241
+    },
+    {
+      "name": "Pointe de flèche usée",
+      "count": 0.056
+    },
+    {
+      "name": "Masque endommagé",
+      "count": 0.1681
+    },
+    {
+      "name": "Masque sale",
+      "count": 0.0448
+    },
+    {
+      "name": "Masque sinistre",
+      "count": 0.0112
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Hili_Ice_Range"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 58.33359554497292,
+      "attack": 22.839957561365054,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 229.28324689085457,
+      "attack": 61.022497789932004,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 708.1600134551263,
+      "attack": 150.52496805489318,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 1178.2402819820345,
+      "attack": 245.85893622782532,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 2155.879608624673,
+      "attack": 367.5724904272356,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 3997.1874748962,
+      "attack": 566.8445134895992,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 6705.003968172241,
+      "attack": 798.231928848305,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 10441.578293176426,
+      "attack": 1101.9214513912302,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 14852.58229308587,
+      "attack": 1417.7385051387828,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 19483.26968389738,
+      "attack": 1712.8235097518336,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 29412.097748303786,
+      "attack": 2215.9879412501177,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 42801.85172858881,
+      "attack": 2259.987401679493,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 57589.05438947724,
+      "attack": 2304.294920944056,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

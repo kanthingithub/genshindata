@@ -1,0 +1,18 @@
+{
+  "name": "Vial of Adeptal Speed",
+  "description": "A small bottle that seals some adeptal energy within. Will immediately complete a furnishing when used.",
+  "sortorder": 1586,
+  "rarity": "4",
+  "category": "CONSUME",
+  "materialtype": "Consumable",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_107013",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vial_of_Adeptal_Speed.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Item_Vial_of_Adeptal_Speed.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Vial_of_Adeptal_Speed"
+  },
+  "version": ""
+}

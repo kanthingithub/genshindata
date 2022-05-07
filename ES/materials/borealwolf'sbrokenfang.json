@@ -1,0 +1,26 @@
+{
+  "name": "Colmillo roto de lobo boreal",
+  "description": "Material de ascensión de arma.\nLa manada de lobos entiende que los humanos no son criaturas solitarias. Un colmillo roto es un honorable regalo de despedida que, según se dice, trae protección y buena suerte.\nEn las leyendas de otro mundo, una loba adoptó dos gemelos humanos, y su madriguera era conocida como “Lupercal”, palabra que guarda el mismo significado que el “Lupical” de este mundo.",
+  "sortorder": 2189,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de ascensión de arma",
+  "dropdomain": "Dominio de la forja: Valle sumergido",
+  "daysofweek": [
+    "Martes",
+    "Viernes",
+    "Domingo"
+  ],
+  "source": [
+    "Sintetizar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Boreal_Wolf's_Broken_Fang.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Boreal_Wolf%27s_Broken_Fang.png",
+    "nameicon": "UI_ItemIcon_114007"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Boreal_Wolf's_Broken_Fang"
+  },
+  "version": ""
+}

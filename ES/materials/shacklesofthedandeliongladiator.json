@@ -1,0 +1,26 @@
+{
+  "name": "Esposas de Diente de León",
+  "description": "Material de ascensión de arma.\nEn realidad, Vennessa no estaba atada por unas esposas o unas cadenas. Si ella hubiese querido, ninguna restricción física de Mondstadt podría haberla detenido.\nEn cambio, era más bien presa de la responsabilidad de cuidar a su pueblo.",
+  "sortorder": 2193,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de ascensión de arma",
+  "dropdomain": "Dominio de la forja: Ruinas de la ciudad sedienta",
+  "daysofweek": [
+    "Miércoles",
+    "Sábado",
+    "Domingo"
+  ],
+  "source": [
+    "Sintetizar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shackles_of_the_Dandelion_Gladiator.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Item_Shackles_of_the_Dandelion_Gladiator.png",
+    "nameicon": "UI_ItemIcon_114011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shackles_of_the_Dandelion_Gladiator"
+  },
+  "version": ""
+}

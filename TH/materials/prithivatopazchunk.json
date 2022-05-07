@@ -1,0 +1,23 @@
+{
+  "name": "Prithiva Topaz Chunk",
+  "description": "วัสดุเลื่อนขั้นตัวละคร\nเงินทั้งหมดที่หมุนเวียนอยู่ในแผ่นดิน ใหญ่คือเนื้อและเลือดของฉัน\n\"ด้วยวิธีนี้ฉันเป็นผู้รับประกันหยาดเหงื่อ ปัญญา และอนาคตของมนุษยชาติทั้งหมด\"",
+  "sortorder": 1848,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ดรอปจาก Geo Hypostases Lv.60 ขึ้นไป",
+    "ดรอปจาก Golden Wolflord Lv.60 ขึ้นไป",
+    "ดรอปจาก Ruin Serpent Lv.60 ขึ้นไป",
+    "ได้รับจากการสรรสร้าง"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Prithiva_Topaz_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/4b/Item_Prithiva_Topaz_Chunk.png",
+    "nameicon": "UI_ItemIcon_104173"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Prithiva_Topaz_Chunk"
+  },
+  "version": ""
+}

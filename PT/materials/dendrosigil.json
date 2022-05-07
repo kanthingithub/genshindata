@@ -1,0 +1,19 @@
+{
+  "name": "Selo Dendro",
+  "description": "Um selo de reconhecimento e apreciação concedido pelos ventos que favorecem e vigiam Mondstadt. Pode ser trocado por itens raros em certos locais.",
+  "sortorder": 502,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "Selo Elemental",
+  "source": [
+    "Recompensa de Expedição"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_303",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dendro_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dendro_Sigil"
+  },
+  "version": ""
+}

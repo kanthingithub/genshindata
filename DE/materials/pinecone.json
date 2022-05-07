@@ -1,0 +1,19 @@
+{
+  "name": "Kiefernzapfen",
+  "description": "Enthält viele ölhaltige Kerne, die natürlich nicht zu einem gewaltigen Baum im Magen eines Eichhörnchens heranwachsen.",
+  "sortorder": 1986,
+  "category": "EXCHANGE",
+  "materialtype": "Zutat",
+  "source": [
+    "In der freien Natur zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Pinecone.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Item_Pinecone.png",
+    "nameicon": "UI_ItemIcon_100020"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Pinecone"
+  },
+  "version": ""
+}

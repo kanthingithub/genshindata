@@ -1,0 +1,20 @@
+{
+  "name": "Cleansing Heart",
+  "description": "น้ำที่ใสตลอดกาลซึ่งถูกทิ้งไว้โดย Oceanid\nแม้ว่ามันจะถูกห้อมล้อมด้วยน้ำของทะเลสาบ ความบริสุทธิ์ของมันก็จะไม่เจือจาง แต่ Oceanid ที่แสนบริสุทธิ์ขนาดนี้ เหตุใดจึงมีความกระตือรือร้นที่จะดูเหมือนสิ่งมีชีวิตบนพื้นดิน และอาศัยน้ำอันบริสุทธิ์เพื่อเลียนแบบรูปร่างของสิ่งมีชีวิตกันนะ ในเมื่อไม่ต้องการหายใจ และไม่ต้องการอาหาร...",
+  "sortorder": 1794,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ดรอปจาก Oceanid Lv.30 ขึ้นไป"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cleansing_Heart.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Item_Cleansing_Heart.png",
+    "nameicon": "UI_ItemIcon_113012"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cleansing_Heart"
+  },
+  "version": ""
+}

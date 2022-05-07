@@ -1,0 +1,19 @@
+{
+  "name": "Butter",
+  "description": "ครีมที่สกัดจากน้ำนม ต้องใช้เครื่องมือที่เหมาะสม จึงจะสามารถดึงเอากลิ่นที่หอมออกมาได้ แม้วัตถุดิบที่ใช้จะเป็นของทั่วไป",
+  "sortorder": 1528,
+  "category": "EXCHANGE",
+  "materialtype": "วัตถุดิบประกอบอาหาร",
+  "source": [
+    "ได้จากการทำอาหาร"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Butter.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/78/Item_Butter.png",
+    "nameicon": "UI_ItemIcon_110004"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Butter"
+  },
+  "version": ""
+}

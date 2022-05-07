@@ -1,0 +1,317 @@
+{
+  "name": "Falcão",
+  "description": "A alma dos Cavaleiros de Favonius. Milênios depois, ainda chama pelos ventos para expulsar todo o mal - assim como a última heroína que a manejava.",
+  "weapontype": "Espada",
+  "rarity": "5",
+  "baseatk": 48,
+  "substat": "Bônus de Dano Físico",
+  "subvalue": "9",
+  "effectname": "Resistência do Falcão do Oeste",
+  "effect": [
+    "O ATQ aumenta em [20%]; Ativa ao receber Dano: A alma do Falcão do Leste desperta, segurando a bandeira da resistência no alto, regenerando Vida equivalente a [100%] do ATQ e causando [200%] do ATQ como Dano aos inimigos ao redor. Esta habilidade pode ser ativada uma vez a cada 15s.",
+    "O ATQ aumenta em [25%]; Ativa ao receber Dano: A alma do Falcão do Leste desperta, segurando a bandeira da resistência no alto, regenerando Vida equivalente a [115%] do ATQ e causando [230%] do ATQ como Dano aos inimigos ao redor. Esta habilidade pode ser ativada uma vez a cada 15s.",
+    "O ATQ aumenta em [30%]; Ativa ao receber Dano: A alma do Falcão do Leste desperta, segurando a bandeira da resistência no alto, regenerando Vida equivalente a [130%] do ATQ e causando [260%] do ATQ como Dano aos inimigos ao redor. Esta habilidade pode ser ativada uma vez a cada 15s.",
+    "O ATQ aumenta em [35%]; Ativa ao receber Dano: A alma do Falcão do Leste desperta, segurando a bandeira da resistência no alto, regenerando Vida equivalente a [145%] do ATQ e causando [290%] do ATQ como Dano aos inimigos ao redor. Esta habilidade pode ser ativada uma vez a cada 15s.",
+    "O ATQ aumenta em [40%]; Ativa ao receber Dano: A alma do Falcão do Leste desperta, segurando a bandeira da resistência no alto, regenerando Vida equivalente a [160%] do ATQ e causando [320%] do ATQ como Dano aos inimigos ao redor. Esta habilidade pode ser ativada uma vez a cada 15s."
+  ],
+  "r1": [
+    "20%",
+    "100%",
+    "200%"
+  ],
+  "r2": [
+    "25%",
+    "115%",
+    "230%"
+  ],
+  "r3": [
+    "30%",
+    "130%",
+    "260%"
+  ],
+  "r4": [
+    "35%",
+    "145%",
+    "290%"
+  ],
+  "r5": [
+    "40%",
+    "160%",
+    "320%"
+  ],
+  "weaponmaterialtype": "Decarabian",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 10000
+      },
+      {
+        "name": "Fragmento de Azulejo de Decarabian",
+        "count": 5
+      },
+      {
+        "name": "Chifre Pesado",
+        "count": 5
+      },
+      {
+        "name": "Ponta de Flecha Robusta",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Detritos da Cidade de Decarabian",
+        "count": 5
+      },
+      {
+        "name": "Chifre Pesado",
+        "count": 18
+      },
+      {
+        "name": "Ponta de Flecha Robusta",
+        "count": 12
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Detritos da Cidade de Decarabian",
+        "count": 9
+      },
+      {
+        "name": "Chifre de Bronze Negro",
+        "count": 9
+      },
+      {
+        "name": "Ponta de Flecha Afiada",
+        "count": 9
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Fragmentos Épicos da Decarabian",
+        "count": 5
+      },
+      {
+        "name": "Chifre de Bronze Negro",
+        "count": 18
+      },
+      {
+        "name": "Ponta de Flecha Afiada",
+        "count": 14
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 55000
+      },
+      {
+        "name": "Fragmentos Épicos da Decarabian",
+        "count": 9
+      },
+      {
+        "name": "Chifre de Cristal Preto",
+        "count": 14
+      },
+      {
+        "name": "Ponta de Flecha Usada",
+        "count": 9
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 65000
+      },
+      {
+        "name": "Pedaços de Sonho da Decarabian",
+        "count": 6
+      },
+      {
+        "name": "Chifre de Cristal Preto",
+        "count": 27
+      },
+      {
+        "name": "Ponta de Flecha Usada",
+        "count": 18
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Weapon_Aquila_Favonia.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Falcon.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Falcon_Awaken.png",
+    "nameicon": "UI_EquipIcon_Sword_Falcon",
+    "namegacha": "UI_Gacha_EquipIcon_Sword_Falcon",
+    "nameawakenicon": "UI_EquipIcon_Sword_Falcon_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Aquila_Favonia"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 47.5369987487793,
+      "specialized": 0.09000000357627869
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 65.03061573904415,
+      "specialized": 0.10457999883413294
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 87.32546729086016,
+      "specialized": 0.12267000805020345
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 110.14322193011867,
+      "specialized": 0.14085001074671766
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 133.2937397767564,
+      "specialized": 0.15903000271439538
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 164.39374015822614,
+      "specialized": 0.15903000271439538
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 187.97209398570067,
+      "specialized": 0.1772100054109096
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 211.88320535370258,
+      "specialized": 0.1953900081074238
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 236.07952937522532,
+      "specialized": 0.21357000007510152
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 260.56110005138,
+      "specialized": 0.2317500135004522
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 291.6611004328497,
+      "specialized": 0.2317500135004522
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 316.4278724288215,
+      "specialized": 0.24993000546812993
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 341.43233485871497,
+      "specialized": 0.26811001889348063
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 372.6323356216544,
+      "specialized": 0.26811001889348063
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 397.9220220387724,
+      "specialized": 0.28629001086115835
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 423.4018426691018,
+      "specialized": 0.3044700028288361
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 454.5018411432229,
+      "specialized": 0.3044700028288361
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 480.26690842818425,
+      "specialized": 0.32265001625418677
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 506.2220872589496,
+      "specialized": 0.3407400147414208
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 537.3220933624652,
+      "specialized": 0.3407400147414208
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 563.4674517412568,
+      "specialized": 0.3589200067090985
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 589.85050055397,
+      "specialized": 0.3771000201344492
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 620.9504913986966,
+      "specialized": 0.3771000201344492
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 647.5236744246213,
+      "specialized": 0.3952800335597999
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 674.3345478844676,
+      "specialized": 0.41346000406980465
+    }
+  },
+  "version": "1.0"
+}

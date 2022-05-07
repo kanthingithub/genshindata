@@ -1,0 +1,168 @@
+{
+  "name": "精通秘境：焚尽之环",
+  "region": "璃月",
+  "domainEntrance": "太山府",
+  "domainType": "天赋培养素材",
+  "description": "这座炽热的古代祭祀场中，聚积了大量的火元素之力。\n置身其中会受到持续的高热灼烧。\n若能通过其中的试炼，或许能获得令人天赋成长的物质。",
+  "daysOfWeek": [
+    "周三",
+    "周六",
+    "周日"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Fire"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "精通秘境：焚尽之环 I",
+      "recommendedLevel": 38,
+      "recommendedElements": [
+        "水元素",
+        "冰元素",
+        "雷元素"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "冒险阅历",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 1575
+        },
+        {
+          "name": "好感经验",
+          "count": 15
+        },
+        {
+          "name": "「黄金」的教导"
+        }
+      ],
+      "disorder": [
+        "周期性为角色施加「阴燃之火」：在附着的火元素消除之前，持续受到火元素伤害。"
+      ],
+      "monsterlist": [
+        "火史莱姆",
+        "大型火史莱姆",
+        "火深渊法师"
+      ]
+    },
+    {
+      "name": "精通秘境：焚尽之环 II",
+      "recommendedLevel": 54,
+      "recommendedElements": [
+        "水元素",
+        "冰元素",
+        "雷元素"
+      ],
+      "unlockRank": 28,
+      "rewardPreview": [
+        {
+          "name": "冒险阅历",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 1800
+        },
+        {
+          "name": "好感经验",
+          "count": 15
+        },
+        {
+          "name": "「黄金」的教导"
+        },
+        {
+          "name": "「黄金」的指引"
+        }
+      ],
+      "disorder": [
+        "周期性为角色施加「阴燃之火」：在附着的火元素消除之前，持续受到火元素伤害。"
+      ],
+      "monsterlist": [
+        "火史莱姆",
+        "大型火史莱姆",
+        "火深渊法师"
+      ]
+    },
+    {
+      "name": "精通秘境：焚尽之环 III",
+      "recommendedLevel": 71,
+      "recommendedElements": [
+        "水元素",
+        "冰元素",
+        "雷元素"
+      ],
+      "unlockRank": 36,
+      "rewardPreview": [
+        {
+          "name": "冒险阅历",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 2050
+        },
+        {
+          "name": "好感经验",
+          "count": 20
+        },
+        {
+          "name": "「黄金」的教导"
+        },
+        {
+          "name": "「黄金」的指引"
+        }
+      ],
+      "disorder": [
+        "周期性为角色施加「阴燃之火」：在附着的火元素消除之前，持续受到火元素伤害。"
+      ],
+      "monsterlist": [
+        "大型火史莱姆",
+        "火深渊法师"
+      ]
+    },
+    {
+      "name": "精通秘境：焚尽之环 IV",
+      "recommendedLevel": 88,
+      "recommendedElements": [
+        "水元素",
+        "冰元素",
+        "雷元素"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "冒险阅历",
+          "count": 100
+        },
+        {
+          "name": "摩拉",
+          "count": 2375
+        },
+        {
+          "name": "好感经验",
+          "count": 20
+        },
+        {
+          "name": "「黄金」的教导"
+        },
+        {
+          "name": "「黄金」的指引"
+        },
+        {
+          "name": "「黄金」的哲学"
+        }
+      ],
+      "disorder": [
+        "周期性为角色施加「阴燃之火」：在附着的火元素消除之前，持续受到火元素伤害。"
+      ],
+      "monsterlist": [
+        "火斧丘丘暴徒",
+        "愚人众·火之债务处理人"
+      ]
+    }
+  ]
+}

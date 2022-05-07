@@ -1,0 +1,19 @@
+{
+  "name": "Azúcar",
+  "description": "Un condimento derivado de las flores dulces. Tiene el poder de dar energía y felicidad.",
+  "sortorder": 1530,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente culinario",
+  "source": [
+    "Procesar comida"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sugar.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Item_Sugar.png",
+    "nameicon": "UI_ItemIcon_110006"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sugar"
+  },
+  "version": ""
+}

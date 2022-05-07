@@ -1,0 +1,18 @@
+{
+  "name": "赤穗酒枡",
+  "description": "「渔获」专用的精炼道具。\n过去称霸清籁地方的赤穗百目鬼一众爱用的酒具。被海水带到了渔师的钓钩上。",
+  "sortorder": 2297,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "精炼材料",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ako's_Sake_Vessel.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Item_Ako%27s_Sake_Vessel.png",
+    "nameicon": "UI_ItemIcon_200107"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ako's_Sake_Vessel"
+  },
+  "version": ""
+}

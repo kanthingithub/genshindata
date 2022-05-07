@@ -1,0 +1,20 @@
+{
+  "name": "Crown of Insight",
+  "description": "วัสดุล้ำค่าที่ใช้ในการยกระดับพรสวรรค์\nในสมัยโบราณจะใช้ของประกอบพิธีในการถ่ายทอดวิชาความรู้ ส่วนทุกวันนี้ภูมิปัญญานั้นอาศัยคำพูดและตำรา แต่พลังและภูมิปัญญาที่ยังหลงเหลืออยู่ใน \"มงกุฎแห่งความรู้\" ยังสามารถนำความก้าวหน้าที่ยิ่งใหญ่มาสู่ผู้คนในปัจจุบันได้",
+  "sortorder": 2182,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุยกระดับพรสวรรค์",
+  "source": [
+    "รางวัลกิจกรรมท้าทายจำกัดเวลา"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crown_of_Insight.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Item_Crown_of_Insight.png",
+    "nameicon": "UI_ItemIcon_104319"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Crown_of_Insight"
+  },
+  "version": ""
+}

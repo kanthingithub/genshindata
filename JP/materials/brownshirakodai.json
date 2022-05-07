@@ -1,0 +1,20 @@
+{
+  "name": "褐チョウチョウウオ",
+  "description": "温厚な性格と優雅な姿を持つチョウチョウウオ。流線形の背びれが美しく、「水中の女王」という名を持つ。\n体の表面に大地の色の模様があり、気性も岩石のように落ち着いている。逆に落ち着きすぎてのが欠点になり、時折岩のように水底に沈んでいるように見える。そのため、買い手はよく死にかけた年をとった魚でも買ったのかと疑っている。",
+  "sortorder": 2027,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "魚",
+  "source": [
+    "釣りで獲得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Brown_Shirakodai.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/43/Item_Brown_Shirakodai.png",
+    "nameicon": "UI_ItemIcon_131013"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Brown_Shirakodai"
+  },
+  "version": ""
+}

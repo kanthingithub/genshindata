@@ -1,0 +1,175 @@
+{
+  "name": "Domínio da Forja: A Cidade das Reflexões",
+  "region": "Mondstadt",
+  "domainEntrance": "Jardim de Cecilia",
+  "domainType": "Material de Ascensão de Armas",
+  "description": "Uma energia massiva Hydro está fluindo através deste altar de sacrifício antigo úmido.\nA umidade intensa aumentará o Tempo de Recarga das suas habilidades.\nVocê ganhará materiais de fortalecimento de equipamentos, apenas se você puder passar no teste.",
+  "daysOfWeek": [
+    "Segunda-feira",
+    "Quinta-feira",
+    "Domingo"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Water"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domínio da Forja: A Cidade das Reflexões I",
+      "recommendedLevel": 15,
+      "recommendedElements": [
+        "Cryo",
+        "Pyro",
+        "Electro"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1125
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 10
+        },
+        {
+          "name": "Fragmento de Azulejo de Decarabian"
+        }
+      ],
+      "disorder": [
+        "Seu personagem será infligido periodicamente com Águas Lentas, aumentando consideravelmente a duração da Recarga de suas habilidades até que o elemento Hydro infligido seja removido."
+      ],
+      "monsterlist": [
+        "Slime Hydro",
+        "Grande Slime Hydro"
+      ]
+    },
+    {
+      "name": "Domínio da Forja: A Cidade das Reflexões II",
+      "recommendedLevel": 36,
+      "recommendedElements": [
+        "Cryo",
+        "Pyro",
+        "Electro"
+      ],
+      "unlockRank": 21,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1550
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 15
+        },
+        {
+          "name": "Fragmento de Azulejo de Decarabian"
+        },
+        {
+          "name": "Detritos da Cidade de Decarabian"
+        }
+      ],
+      "disorder": [
+        "Seu personagem será infligido periodicamente com Águas Lentas, aumentando consideravelmente a duração da Recarga de suas habilidades até que o elemento Hydro infligido seja removido."
+      ],
+      "monsterlist": [
+        "Slime Hydro",
+        "Grande Slime Hydro",
+        "Hilichurl Guarda de Escudo de Madeira"
+      ]
+    },
+    {
+      "name": "Domínio da Forja: A Cidade das Reflexões III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Cryo",
+        "Pyro",
+        "Electro"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 15
+        },
+        {
+          "name": "Fragmento de Azulejo de Decarabian"
+        },
+        {
+          "name": "Detritos da Cidade de Decarabian"
+        },
+        {
+          "name": "Fragmentos Épicos da Decarabian"
+        }
+      ],
+      "disorder": [
+        "Seu personagem será infligido periodicamente com Águas Lentas, aumentando consideravelmente a duração da Recarga de suas habilidades até que o elemento Hydro infligido seja removido."
+      ],
+      "monsterlist": [
+        "Slime Hydro",
+        "Grande Slime Hydro",
+        "Samachurl Hydro",
+        "Feiticeiro do Abismo Hydro"
+      ]
+    },
+    {
+      "name": "Domínio da Forja: A Cidade das Reflexões IV",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Cryo",
+        "Pyro",
+        "Electro"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 20
+        },
+        {
+          "name": "Fragmento de Azulejo de Decarabian"
+        },
+        {
+          "name": "Detritos da Cidade de Decarabian"
+        },
+        {
+          "name": "Fragmentos Épicos da Decarabian"
+        },
+        {
+          "name": "Pedaços de Sonho da Decarabian"
+        }
+      ],
+      "disorder": [
+        "Seu personagem será infligido periodicamente com Águas Lentas, aumentando consideravelmente a duração da Recarga de suas habilidades até que o elemento Hydro infligido seja removido."
+      ],
+      "monsterlist": [
+        "Grande Slime Hydro",
+        "Feiticeiro do Abismo Hydro"
+      ]
+    }
+  ]
+}

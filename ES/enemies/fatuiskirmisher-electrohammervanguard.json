@@ -1,0 +1,113 @@
+{
+  "name": "Soldado Fatui - Electromartillador de Vanguardia",
+  "specialname": "Fatui - Decord",
+  "enemytype": "COMMON",
+  "category": "Fatui",
+  "description": "Un robusto soldado armado con un martillo de guerra Electro.\nLos soldados Fatui tienen acceso a muchos recursos, como altos salarios, armamento y suministros.\nPero, al mismo tiempo, ello también conlleva pasar mucho tiempo fuera de casa y lejos de la familia, así como confiarle la vida a personas desconocidas.",
+  "investigation": {
+    "name": "Soldado Fatui",
+    "category": "Normal",
+    "description": "Un soldado en una máquina de guerra Fatui.\\nEstos soldados no se cuestionan si vivirán o morirán; solo caminan hacia naciones lejanas para completar misiones y sentar las bases para operaciones futuras.\\nA diferencia de los Recaudadores y las Magas de Cicin, los soldados Fatui son más débiles individualmente.\\nPara completar sus misiones y reducir las pérdidas humanas y de material, sus tácticas dependen más del trabajo en equipo."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Insignia del recluta",
+      "count": 4.202
+    },
+    {
+      "name": "Insignia del sargento",
+      "count": 1.1205
+    },
+    {
+      "name": "Insignia del oficial",
+      "count": 0.28
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Skirmisher_Male_Strong_GreatHammer_Electric_01"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 291.66797260567546,
+      "attack": 101.5109267769958,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 1146.4162143330323,
+      "attack": 271.2111127290973,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 3540.8000051295385,
+      "attack": 668.9998862421999,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 5891.201306511182,
+      "attack": 1092.7064293284639,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 10779.39785392955,
+      "attack": 1633.6555819225032,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 19985.937023699284,
+      "attack": 2519.3090551147907,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 33525.019252449274,
+      "attack": 3547.6976112007105,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 52207.890549559146,
+      "attack": 4897.428879438376,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 74262.9101620093,
+      "attack": 6301.060288636945,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 97416.34670969099,
+      "attack": 7612.5492533508805,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 147060.48616039753,
+      "attack": 9848.835709898849,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 214009.2548867762,
+      "attack": 10044.388875611767,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 287945.26689353585,
+      "attack": 10241.311191761051,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "사냥꾼의 제도",
+  "description": "날카로운 합금 무기. 원래의 주인을 잃었지만 여전히 섬뜩하고 차가운 빛을 내뿜는다",
+  "sortorder": 1747,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "캐릭터 육성 소재",
+  "source": [
+    "우인단·채무 처리인 드랍",
+    "스타더스트 교환"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Hunter's_Sacrificial_Knife.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Item_Hunter%27s_Sacrificial_Knife.png",
+    "nameicon": "UI_ItemIcon_112029"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Hunter's_Sacrificial_Knife"
+  },
+  "version": ""
+}

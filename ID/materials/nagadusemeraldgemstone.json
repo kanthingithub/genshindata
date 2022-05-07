@@ -1,0 +1,19 @@
+{
+  "name": "Nagadus Emerald Gemstone",
+  "description": "Material Ascension Karakter.\n\"Pada akhirnya, hidup melepas tangannya...\"\n\"Memberikan kebebasan hidup kepada semuanya.\"\n\"Manusia dan binatang memiliki kebebasan mengekspresikan diri mereka, tapi tidak bagi tumbuhan. Karena itu, mereka membutuhkan juru bicara.\"",
+  "sortorder": 1833,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Didapatkan melalui Craft"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Nagadus_Emerald_Gemstone.png",
+    "nameicon": "UI_ItemIcon_104134"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Nagadus_Emerald_Gemstone"
+  },
+  "version": ""
+}

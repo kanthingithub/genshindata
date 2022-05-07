@@ -1,0 +1,19 @@
+{
+  "name": "Salt",
+  "description": "Bumbu dengan rasa asin. Selama jumlah yang tepat dimasukkan ke dalam makanan, kualitas hidangan dapat ditingkatkan.",
+  "sortorder": 1995,
+  "category": "EXCHANGE",
+  "materialtype": "Bahan Masak",
+  "source": [
+    "Dijual di toko barang kebutuhan"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Salt.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Item_Salt.png",
+    "nameicon": "UI_ItemIcon_100075"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Salt"
+  },
+  "version": ""
+}

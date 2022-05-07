@@ -1,0 +1,21 @@
+{
+  "name": "Krähenwappen der Schatzsuche",
+  "description": "Dieses Zeichen deutet stolz auf die Zugehörigkeit zu den Schatzräubern hin. Es steht für die ewige Suche nach den größten Schätzen. Aber mal ganz ehrlich ... Ist das wirklich ein Grund stolz auf sich zu sein?",
+  "sortorder": 1753,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Beute von Schatzräubern",
+    "Mit Sternenstaub kaufen"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Treasure_Hoarder_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Item_Treasure_Hoarder_Insignia.png",
+    "nameicon": "UI_ItemIcon_112035"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Treasure_Hoarder_Insignia"
+  },
+  "version": ""
+}

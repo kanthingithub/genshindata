@@ -1,0 +1,20 @@
+{
+  "name": "Astrion libre",
+  "description": "Une monnaie qui peut être échangée contre des ressources précieuses dans la boutique.\nLa poussière d'étoile du destin. Peut-être qu'elle peut créer de nouveaux destins en l'accumulant.",
+  "sortorder": 497,
+  "rarity": "4",
+  "category": "CONSUME",
+  "materialtype": "Coupon d'échange commun",
+  "source": [
+    "Vœux"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_222",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Masterless_Stardust.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7c/Item_Masterless_Stardust.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Masterless_Stardust"
+  },
+  "version": ""
+}

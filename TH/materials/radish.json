@@ -1,0 +1,19 @@
+{
+  "name": "Radish",
+  "description": "พืชหัวที่สามารถเพาะปลูก และเก็บเกี่ยวได้ง่าย อุดมไปด้วย เส้นใยและสารอาหาร",
+  "sortorder": 1980,
+  "category": "EXCHANGE",
+  "materialtype": "วัตถุดิบประกอบอาหาร",
+  "source": [
+    "พบได้ในโลกกว้าง"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Radish.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Item_Radish.png",
+    "nameicon": "UI_ItemIcon_100014"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Radish"
+  },
+  "version": ""
+}

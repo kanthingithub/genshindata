@@ -1,0 +1,20 @@
+{
+  "name": "Anguila",
+  "description": "Carne de anguila fresca. Si se prepara correctamente, puede usarse para hacer un plato muy sabroso.",
+  "sortorder": 2010,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente culinario",
+  "source": [
+    "Recolectar en la naturaleza",
+    "Recolectar en la Isla Watatsumi"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Unagi_Meat.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0c/Item_Unagi_Meat.png",
+    "nameicon": "UI_ItemIcon_100095"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Unagi_Meat"
+  },
+  "version": ""
+}

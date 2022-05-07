@@ -1,0 +1,954 @@
+{
+  "name": "Hu Tao",
+  "fullname": "Hu Tao",
+  "title": "La Guía del Más Allá",
+  "description": "77.ª directora de la Funeraria El Camino. Pese a su corta edad, ya es la principal encargada de todos los asuntos funerarios de Liyue.",
+  "rarity": "5",
+  "element": "Pyro",
+  "weapontype": "Lanza",
+  "substat": "Daño CRIT",
+  "gender": "Femenino",
+  "body": "GIRL",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Funeraria El Camino",
+  "birthdaymmdd": "7/15",
+  "birthday": "15 de julio",
+  "constellation": "Papilio Charontis",
+  "cv": {
+    "english": "Brianna Knickerbocker",
+    "chinese": "陶典",
+    "japanese": "高橋李依",
+    "korean": "Kim Ha-ru"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Pedacito de ágata agnidus",
+        "count": 1
+      },
+      {
+        "name": "Flor de seda",
+        "count": 3
+      },
+      {
+        "name": "Néctar de Megaflora",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de ágata agnidus",
+        "count": 3
+      },
+      {
+        "name": "Jade inmaduro",
+        "count": 2
+      },
+      {
+        "name": "Flor de seda",
+        "count": 10
+      },
+      {
+        "name": "Néctar de Megaflora",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de ágata agnidus",
+        "count": 6
+      },
+      {
+        "name": "Jade inmaduro",
+        "count": 4
+      },
+      {
+        "name": "Flor de seda",
+        "count": 20
+      },
+      {
+        "name": "Néctar brillante",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Trozo de ágata agnidus",
+        "count": 3
+      },
+      {
+        "name": "Jade inmaduro",
+        "count": 8
+      },
+      {
+        "name": "Flor de seda",
+        "count": 30
+      },
+      {
+        "name": "Néctar brillante",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Trozo de ágata agnidus",
+        "count": 6
+      },
+      {
+        "name": "Jade inmaduro",
+        "count": 12
+      },
+      {
+        "name": "Flor de seda",
+        "count": 45
+      },
+      {
+        "name": "Néctar energético",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Ágata agnidus",
+        "count": 6
+      },
+      {
+        "name": "Jade inmaduro",
+        "count": 20
+      },
+      {
+        "name": "Flor de seda",
+        "count": 60
+      },
+      {
+        "name": "Néctar energético",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Character_Hu_Tao_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Character_Hu_Tao_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Hutao.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210224/2021022411345864283.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210224/2021022411361082980.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/e160b5fac097d628f5b2227fd507373b.png",
+    "nameicon": "UI_AvatarIcon_Hutao",
+    "nameiconcard": "UI_AvatarIcon_Hutao_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Hutao",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Hutao",
+    "namesideicon": "UI_AvatarIcon_Side_Hutao"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Hu_Tao"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1210.7164306640625,
+      "attack": 8.285900115966797,
+      "defense": 68.2061996459961,
+      "specialized": 0.5
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 3140.5985435332695,
+      "attack": 21.493625738435185,
+      "defense": 176.92688877664295,
+      "specialized": 0.5
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 4178.678377517645,
+      "attack": 28.59751663427869,
+      "defense": 235.40888722024647,
+      "specialized": 0.5
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 6252.635694832192,
+      "attack": 42.79126402285692,
+      "defense": 352.24611124672083,
+      "specialized": 0.5
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 6990.218702644692,
+      "attack": 47.83876606371996,
+      "defense": 393.7991164652267,
+      "specialized": 0.596000000834465
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 8042.331230088079,
+      "attack": 55.0392129168049,
+      "defense": 453.07030109555126,
+      "specialized": 0.596000000834465
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 9025.775321884954,
+      "attack": 61.769213412715544,
+      "defense": 508.47429279477,
+      "specialized": 0.69200000166893
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 10088.784084752551,
+      "attack": 69.04423191286696,
+      "defense": 568.3593212533524,
+      "specialized": 0.69200000166893
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 10826.367092565051,
+      "attack": 74.09173443056716,
+      "defense": 609.9123302865555,
+      "specialized": 0.69200000166893
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 11899.062039492594,
+      "attack": 81.43304322924996,
+      "defense": 670.3430338405342,
+      "specialized": 0.69200000166893
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 12636.645047305094,
+      "attack": 86.48054574695016,
+      "defense": 711.8960276149483,
+      "specialized": 0.7879999876022339
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 13721.446858335694,
+      "attack": 93.9047114922596,
+      "defense": 773.0087762532967,
+      "specialized": 0.7879999876022339
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 14459.029866148194,
+      "attack": 98.95221210261116,
+      "defense": 814.5617700277107,
+      "specialized": 0.8840000033378601
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 15552.307232559891,
+      "attack": 106.43438284689182,
+      "defense": 876.1519925053435,
+      "specialized": 0.8840000033378601
+    }
+  },
+  "version": "1.3",
+  "constellations": {
+    "c1": {
+      "name": "Florecimiento carmesí",
+      "effect": "Al estar bajo los efectos de **mariposa excelsa** aplicados por **Guía hacia el más allá**, el Ataque Cargado de Hu Tao no consumirá Aguante."
+    },
+    "c2": {
+      "name": "Mal presagio",
+      "effect": "Aumenta el daño infligido por **pétalos sangrientos** en una cantidad equivalente al 10% de la Vida Máx. que tenía Hu Tao al aplicar dicho efecto.\nAdemás, **Calma de los espíritus** aplicará sobre los enemigos atacados el efecto de **pétalos sangrientos**."
+    },
+    "c3": {
+      "name": "Persistencia escarlata",
+      "effect": "Aumenta el nivel de habilidad de **Guía hacia el más allá** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c4": {
+      "name": "Jardín del reposo eterno",
+      "effect": "Al derrotar a un enemigo que está bajo los efectos de **pétalos sangrientos** aplicados por Hu Tao, la Prob. CRIT de todos los miembros del equipo (a excepción de Hu Tao) aumenta en un 12% durante 15 s."
+    },
+    "c5": {
+      "name": "Ofrenda de incienso",
+      "effect": "Aumenta el nivel de habilidad de **Calma de los espíritus** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c6": {
+      "name": "Último suspiro",
+      "effect": "Cuando la Vida de Hu Tao esté por debajo del 25% o cuando vaya a recibir una cantidad de daño suficiente como para ser derrotada, esta habilidad se activará y tendrá los siguientes efectos:\n·Dicho daño no hará que Hu Tao sea derrotada, y durante 10 s aumentará en un 200% todas sus RES Elementales y su RES Física, así como su Prob. CRIT en un 100%. Además, su RES a interrupción se incrementará en gran medida.\n·Este efecto se activará automáticamente cuando Hu Tao tenga 1 pt. de Vida.\nSolo puede ocurrir una vez cada 60 s."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Hutao_03.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Hutao_01.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Hutao_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Hutao_02.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Hutao_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Hutao_04.png",
+      "constellation": "Eff_UI_Talent_Hutao"
+    },
+    "version": "1.3"
+  },
+  "talent": {
+    "name": "Hu Tao",
+    "combat1": {
+      "name": "Ataque Normal: Técnica de lanza de El Camino",
+      "info": "**Ataque Normal**\nRealiza hasta 6 ataques rápidos con lanza.\n\n**Ataque Cargado**\nConsume una cierta cantidad de Aguante para lanzarse al frente e inflige daño a los enemigos en el camino.\n\n**Ataque Descendente**\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "attributes": [
+        {
+          "name": "Daño de 1er golpe",
+          "parameters": [
+            "46.89%",
+            "50.08%",
+            "53.28%",
+            "57.54%",
+            "60.74%",
+            "64.47%",
+            "69.26%",
+            "74.06%",
+            "78.85%",
+            "83.65%",
+            "88.44%",
+            "93.24%",
+            "98.04%",
+            "102.83%",
+            "107.63%"
+          ]
+        },
+        {
+          "name": "Daño de 2.º golpe",
+          "parameters": [
+            "48.25%",
+            "51.54%",
+            "54.83%",
+            "59.22%",
+            "62.51%",
+            "66.35%",
+            "71.28%",
+            "76.22%",
+            "81.15%",
+            "86.09%",
+            "91.02%",
+            "95.96%",
+            "100.89%",
+            "105.83%",
+            "110.76%"
+          ]
+        },
+        {
+          "name": "Daño de 3er golpe",
+          "parameters": [
+            "61.05%",
+            "65.21%",
+            "69.38%",
+            "74.92%",
+            "79.09%",
+            "83.94%",
+            "90.19%",
+            "96.43%",
+            "102.67%",
+            "108.92%",
+            "115.16%",
+            "121.41%",
+            "127.65%",
+            "133.89%",
+            "140.14%"
+          ]
+        },
+        {
+          "name": "Daño de 4.º golpe",
+          "parameters": [
+            "65.64%",
+            "70.12%",
+            "74.59%",
+            "80.56%",
+            "85.03%",
+            "90.26%",
+            "96.97%",
+            "103.68%",
+            "110.40%",
+            "117.11%",
+            "123.82%",
+            "130.54%",
+            "137.25%",
+            "143.96%",
+            "150.68%"
+          ]
+        },
+        {
+          "name": "Daño de 5.º golpe",
+          "parameters": [
+            "33.27%+35.20%",
+            "35.54%+37.60%",
+            "37.81%+40.00%",
+            "40.84%+43.20%",
+            "43.10%+45.60%",
+            "45.75%+48.40%",
+            "49.15%+52.00%",
+            "52.56%+55.60%",
+            "55.96%+59.20%",
+            "59.36%+62.80%",
+            "62.77%+66.40%",
+            "66.17%+70.00%",
+            "69.57%+73.60%",
+            "72.98%+77.20%",
+            "76.38%+80.80%"
+          ]
+        },
+        {
+          "name": "Daño de 6.º golpe",
+          "parameters": [
+            "85.96%",
+            "91.82%",
+            "97.68%",
+            "105.49%",
+            "111.36%",
+            "118.19%",
+            "126.98%",
+            "135.78%",
+            "144.57%",
+            "153.36%",
+            "162.15%",
+            "170.94%",
+            "179.73%",
+            "188.52%",
+            "197.31%"
+          ]
+        },
+        {
+          "name": "Ataque Cargado",
+          "parameters": [
+            "135.96%",
+            "145.23%",
+            "154.50%",
+            "166.86%",
+            "176.13%",
+            "186.94%",
+            "200.85%",
+            "214.76%",
+            "228.66%",
+            "242.56%",
+            "256.47%",
+            "270.37%",
+            "284.28%",
+            "298.18%",
+            "312.09%"
+          ]
+        },
+        {
+          "name": "Coste de Aguante de ATQ Cargado",
+          "parameters": [
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts."
+          ]
+        },
+        {
+          "name": "Daño de Caída",
+          "parameters": [
+            "65.42%",
+            "69.88%",
+            "74.34%",
+            "80.29%",
+            "84.75%",
+            "89.95%",
+            "96.64%",
+            "103.33%",
+            "110.02%",
+            "116.71%",
+            "123.40%",
+            "130.10%",
+            "136.79%",
+            "143.48%",
+            "150.17%"
+          ]
+        },
+        {
+          "name": "Daño de impacto de caída baja/alta",
+          "parameters": [
+            "130.81%/163.39%",
+            "139.73%/174.53%",
+            "148.65%/185.67%",
+            "160.54%/200.52%",
+            "169.46%/211.66%",
+            "179.86%/224.66%",
+            "193.24%/241.37%",
+            "206.62%/258.08%",
+            "220.00%/274.79%",
+            "233.38%/291.50%",
+            "246.76%/308.21%",
+            "260.13%/324.92%",
+            "273.51%/341.63%",
+            "286.89%/358.34%",
+            "300.27%/375.05%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Guía hacia el más allá",
+      "info": "Solo las llamas eternas pueden purificar las impurezas de este mundo.\nHu Tao consume una parte de su Vida para empujar a sus enemigos y entrar en el estado de mariposa excelsa.\n\n**Mariposa excelsa**\n·Aumenta el ATQ de Hu Tao en función de la Vida Máx. que tenía al entrar en este estado. El bono de ATQ obtenido de esta forma no podrá ser superior al 400% del ATQ Básico de Hu Tao.\n·El daño de ATQ se convierte en Daño Pyro. Este cambio elemental no puede sustituirse imbuyéndose de otro elemento.\n·Al atacar a sus enemigos con Ataques Cargados, aplicará sobre ellos el efecto de pétalos sangrientos.\n·Aumenta la RES a interrupción de Hu Tao.\n\n**Pétalos sangrientos**\nLos enemigos afectados por pétalos sangrientos recibirán Daño Pyro cada 4 s. Este daño se considera daño de Habilidad Elemental.\nCada enemigo solo puede ser afectado por un único pétalo sangriento al mismo tiempo, y dicho efecto solamente podrá ser reiniciado por Hu Tao.\n\nEl estado de **mariposa excelsa** se disipará cuando su duración termine, o cuando Hu Tao se retire del combate o sea derrotada.",
+      "description": "La primera regla para aprender la técnica de lanza de Hu Tao es: “Las lanzas abren el camino hacia el inframundo, mientras que las mariposas hacen de puente con él”.",
+      "attributes": [
+        {
+          "name": "Consumo de habilidad",
+          "parameters": [
+            "30.00% de la Vida actual",
+            "30.00% de la Vida actual",
+            "30.00% de la Vida actual",
+            "30.00% de la Vida actual",
+            "30.00% de la Vida actual",
+            "30.00% de la Vida actual",
+            "30.00% de la Vida actual",
+            "30.00% de la Vida actual",
+            "30.00% de la Vida actual",
+            "30.00% de la Vida actual",
+            "30.00% de la Vida actual",
+            "30.00% de la Vida actual",
+            "30.00% de la Vida actual",
+            "30.00% de la Vida actual",
+            "30.00% de la Vida actual"
+          ]
+        },
+        {
+          "name": "Aumento de ATQ",
+          "parameters": [
+            "3.84% de Vida Máx.",
+            "4.07% de Vida Máx.",
+            "4.30% de Vida Máx.",
+            "4.60% de Vida Máx.",
+            "4.83% de Vida Máx.",
+            "5.06% de Vida Máx.",
+            "5.36% de Vida Máx.",
+            "5.66% de Vida Máx.",
+            "5.96% de Vida Máx.",
+            "6.26% de Vida Máx.",
+            "6.55% de Vida Máx.",
+            "6.85% de Vida Máx.",
+            "7.15% de Vida Máx.",
+            "7.45% de Vida Máx.",
+            "7.75% de Vida Máx."
+          ]
+        },
+        {
+          "name": "Daño de pétalos sangrientos",
+          "parameters": [
+            "64.00%",
+            "68.80%",
+            "73.60%",
+            "80.00%",
+            "84.80%",
+            "89.60%",
+            "96.00%",
+            "102.40%",
+            "108.80%",
+            "115.20%",
+            "121.60%",
+            "128.00%",
+            "136.00%",
+            "144.00%",
+            "152.00%"
+          ]
+        },
+        {
+          "name": "Duración de pétalos sangrientos",
+          "parameters": [
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s"
+          ]
+        },
+        {
+          "name": "Duración de habilidad",
+          "parameters": [
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s"
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Calma de los espíritus",
+      "info": "Hu Tao ordena a un espíritu en llamas que ataque, e inflige Daño Pyro en una gran AdE.\nAl golpear a sus enemigos, Hu Tao regenera Vida en proporción a su Vida Máx. Este efecto solo puede tener lugar contra un máximo de 5 enemigos.\nSi la Vida de Hu Tao es inferior o igual al 50% al atacar con esta habilidad, infligirá mayor daño y regenerará más Vida.",
+      "description": "Si un alma que ya ha dejado este mundo sigue revoloteando por él a sus anchas, causará una gran preocupación a la Funeraria El Camino. La cremación es el método que más tranquiliza a Hu Tao, ya que cuanto más nerviosa está, más grandes son sus llamas.",
+      "attributes": [
+        {
+          "name": "Daño de habilidad",
+          "parameters": [
+            "303.27%",
+            "321.43%",
+            "339.59%",
+            "363.20%",
+            "381.36%",
+            "399.52%",
+            "423.13%",
+            "446.74%",
+            "470.34%",
+            "493.95%",
+            "517.56%",
+            "541.17%",
+            "564.78%",
+            "588.38%",
+            "611.99%"
+          ]
+        },
+        {
+          "name": "Daño de habilidad con Vida baja",
+          "parameters": [
+            "379.09%",
+            "401.79%",
+            "424.49%",
+            "454.00%",
+            "476.70%",
+            "499.40%",
+            "528.91%",
+            "558.42%",
+            "587.93%",
+            "617.44%",
+            "646.95%",
+            "676.46%",
+            "705.97%",
+            "735.48%",
+            "764.99%"
+          ]
+        },
+        {
+          "name": "Regeneración",
+          "parameters": [
+            "6.26% de Vida Máx.",
+            "6.64% de Vida Máx.",
+            "7.01% de Vida Máx.",
+            "7.50% de Vida Máx.",
+            "7.87% de Vida Máx.",
+            "8.25% de Vida Máx.",
+            "8.74% de Vida Máx.",
+            "9.22% de Vida Máx.",
+            "9.71% de Vida Máx.",
+            "10.20% de Vida Máx.",
+            "10.69% de Vida Máx.",
+            "11.17% de Vida Máx.",
+            "11.66% de Vida Máx.",
+            "12.15% de Vida Máx.",
+            "12.64% de Vida Máx."
+          ]
+        },
+        {
+          "name": "Regeneración con Vida baja",
+          "parameters": [
+            "8.35% de Vida Máx.",
+            "8.85% de Vida Máx.",
+            "9.35% de Vida Máx.",
+            "10.00% de Vida Máx.",
+            "10.50% de Vida Máx.",
+            "11.00% de Vida Máx.",
+            "11.65% de Vida Máx.",
+            "12.30% de Vida Máx.",
+            "12.95% de Vida Máx.",
+            "13.60% de Vida Máx.",
+            "14.25% de Vida Máx.",
+            "14.90% de Vida Máx.",
+            "15.55% de Vida Máx.",
+            "16.20% de Vida Máx.",
+            "16.85% de Vida Máx."
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "Energía Elemental",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Aleteo sutil",
+      "info": "Al terminar la duración del estado de **mariposa excelsa** aplicado mediante **Guía hacia el más allá**, la Prob. CRIT de todos los miembros del equipo (a excepción de Hu Tao) aumenta en un 12% durante 8 s."
+    },
+    "passive2": {
+      "name": "Baño de sangre",
+      "info": "Cuando su Vida es inferior o igual al 50%, Hu Tao obtiene un 33% de Bono de Daño Pyro."
+    },
+    "passive3": {
+      "name": "Cuanto más, mejor",
+      "info": "Al lograr un “Perfecto” al cocinar un plato, hay una probabilidad del 18% de obtener ese mismo plato con calidad “extraña”."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseñanzas del esfuerzo",
+          "count": 3
+        },
+        {
+          "name": "Néctar de Megaflora",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guía del esfuerzo",
+          "count": 2
+        },
+        {
+          "name": "Néctar brillante",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guía del esfuerzo",
+          "count": 4
+        },
+        {
+          "name": "Néctar brillante",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guía del esfuerzo",
+          "count": 6
+        },
+        {
+          "name": "Néctar brillante",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guía del esfuerzo",
+          "count": 9
+        },
+        {
+          "name": "Néctar brillante",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofía del esfuerzo",
+          "count": 4
+        },
+        {
+          "name": "Néctar energético",
+          "count": 4
+        },
+        {
+          "name": "Fragmento de espada de Legado del mal",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofía del esfuerzo",
+          "count": 6
+        },
+        {
+          "name": "Néctar energético",
+          "count": 6
+        },
+        {
+          "name": "Fragmento de espada de Legado del mal",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofía del esfuerzo",
+          "count": 12
+        },
+        {
+          "name": "Néctar energético",
+          "count": 9
+        },
+        {
+          "name": "Fragmento de espada de Legado del mal",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofía del esfuerzo",
+          "count": 16
+        },
+        {
+          "name": "Néctar energético",
+          "count": 12
+        },
+        {
+          "name": "Fragmento de espada de Legado del mal",
+          "count": 2
+        },
+        {
+          "name": "Corona de la sabiduría",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_03",
+      "combat2": "Skill_S_Hutao_01",
+      "combat3": "Skill_E_Hutao_01_HD",
+      "passive1": "UI_Talent_S_Hutao_05",
+      "passive2": "UI_Talent_S_Hutao_06",
+      "passive3": "UI_Talent_Cook_ExtraFailedItem"
+    },
+    "version": "1.3"
+  }
+}

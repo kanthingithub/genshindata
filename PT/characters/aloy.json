@@ -1,0 +1,891 @@
+{
+  "name": "Aloy",
+  "fullname": "Aloy",
+  "title": "Salvadora de Outro Mundo",
+  "description": "Era uma pária, agora uma caçadora de uma avidez inigualável. Pronta para fazer a coisa certa com seu arco, a qualquer momento.",
+  "rarity": "5",
+  "element": "Cryo",
+  "weapontype": "Arco",
+  "substat": "Bônus de Dano Cryo",
+  "gender": "Feminino",
+  "body": "GIRL",
+  "association": "RANGER",
+  "region": "",
+  "affiliation": "Cavaleiro Errante",
+  "birthdaymmdd": "4/4",
+  "birthday": "4 de abril",
+  "constellation": "Norta Fortis",
+  "cv": {
+    "english": "——",
+    "chinese": "沐霏",
+    "japanese": "高垣彩陽",
+    "korean": "Jo Hyeon-jung"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Lasca de Jade Shivada",
+        "count": 1
+      },
+      {
+        "name": "Medula de Cristal",
+        "count": 3
+      },
+      {
+        "name": "Casca Espectral",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de Jade Shivada",
+        "count": 3
+      },
+      {
+        "name": "Florescimento Cristalino",
+        "count": 2
+      },
+      {
+        "name": "Medula de Cristal",
+        "count": 10
+      },
+      {
+        "name": "Casca Espectral",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de Jade Shivada",
+        "count": 6
+      },
+      {
+        "name": "Florescimento Cristalino",
+        "count": 4
+      },
+      {
+        "name": "Medula de Cristal",
+        "count": 20
+      },
+      {
+        "name": "Coração Espectral",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Pedaço de Jade Shivada",
+        "count": 3
+      },
+      {
+        "name": "Florescimento Cristalino",
+        "count": 8
+      },
+      {
+        "name": "Medula de Cristal",
+        "count": 30
+      },
+      {
+        "name": "Coração Espectral",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Pedaço de Jade Shivada",
+        "count": 6
+      },
+      {
+        "name": "Florescimento Cristalino",
+        "count": 12
+      },
+      {
+        "name": "Medula de Cristal",
+        "count": 45
+      },
+      {
+        "name": "Núcleo Espectral",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Gema de Jade Shivada",
+        "count": 6
+      },
+      {
+        "name": "Florescimento Cristalino",
+        "count": 20
+      },
+      {
+        "name": "Medula de Cristal",
+        "count": 60
+      },
+      {
+        "name": "Núcleo Espectral",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210820/2021082020394030869.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210820/2021082020404265591.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Aloy.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Aloy.png",
+    "nameicon": "UI_AvatarIcon_Aloy",
+    "nameiconcard": "UI_AvatarIcon_Aloy_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Aloy",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Aloy",
+    "namesideicon": "UI_AvatarIcon_Side_Aloy"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Aloy"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 848.4547729492188,
+      "attack": 18.210359573364258,
+      "defense": 52.65039825439453,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2200.891766800123,
+      "attack": 47.23767457418262,
+      "defense": 136.57513839430067,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2928.3650334016857,
+      "attack": 62.850270132349124,
+      "defense": 181.71913940138074,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4381.768109630968,
+      "attack": 94.04461715826073,
+      "defense": 271.9092747242612,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4898.657025646593,
+      "attack": 105.13777874120751,
+      "defense": 303.98527493788424,
+      "specialized": 0.07199999690055847
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5635.964187736885,
+      "attack": 120.96258044632395,
+      "defense": 349.73846881165446,
+      "specialized": 0.07199999690055847
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6325.149368400947,
+      "attack": 135.75346255691966,
+      "defense": 392.5064665533537,
+      "specialized": 0.14399999380111694
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7070.09247456427,
+      "attack": 151.74215430271397,
+      "defense": 438.73350477252825,
+      "specialized": 0.14399999380111694
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7586.981390579895,
+      "attack": 162.8353130246378,
+      "defense": 470.80950117145403,
+      "specialized": 0.14399999380111694
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 8338.712452113425,
+      "attack": 178.9696944547859,
+      "defense": 517.4577622595061,
+      "specialized": 0.14399999380111694
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8855.60136812905,
+      "attack": 190.062856991407,
+      "defense": 549.5337662878264,
+      "specialized": 0.2160000056028366
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9615.816767013195,
+      "attack": 206.37933750193315,
+      "defense": 596.708518303476,
+      "specialized": 0.2160000056028366
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 10132.70568302882,
+      "attack": 217.47250003855424,
+      "defense": 628.7845223317963,
+      "specialized": 0.2879999876022339
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10898.860644005588,
+      "attack": 233.916461193734,
+      "defense": 676.3278506341303,
+      "specialized": 0.2879999876022339
+    }
+  },
+  "version": "2.1",
+  "constellations": {
+    "c1": {
+      "name": "Estrela de Outro Mundo",
+      "effect": "Ainda não chegou a hora de iluminar o recanto do céu noturno desta pessoa."
+    },
+    "c2": {
+      "name": "Estrela de Outro Mundo",
+      "effect": "Ainda não chegou a hora de iluminar o recanto do céu noturno desta pessoa."
+    },
+    "c3": {
+      "name": "Estrela de Outro Mundo",
+      "effect": "Ainda não chegou a hora de iluminar o recanto do céu noturno desta pessoa."
+    },
+    "c4": {
+      "name": "Estrela de Outro Mundo",
+      "effect": "Ainda não chegou a hora de iluminar o recanto do céu noturno desta pessoa."
+    },
+    "c5": {
+      "name": "Estrela de Outro Mundo",
+      "effect": "Ainda não chegou a hora de iluminar o recanto do céu noturno desta pessoa."
+    },
+    "c6": {
+      "name": "Estrela de Outro Mundo",
+      "effect": "Ainda não chegou a hora de iluminar o recanto do céu noturno desta pessoa."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Aloy_Lock.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Aloy_Lock.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Aloy_Lock.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Aloy_Lock.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Aloy_Lock.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Aloy_Lock.png",
+      "constellation": "Eff_UI_Talent_Aloy"
+    },
+    "version": "2.1"
+  },
+  "talent": {
+    "name": "Aloy",
+    "combat1": {
+      "name": "Ataque Normal: Disparos Rápidos",
+      "info": "**Ataque Normal**\nRealiza até 4 disparos consecutivos com o arco.\n\n**Ataque Carregado**\nRealiza um ataque **Disparo com Mira** mais preciso e com mais dano.\nEnquanto mira, gelo será acumulado na flecha. Uma flecha totalmente carregada causará Dano Cryo.\n\n**Ataque Imersivo**\nDispara uma chuva de flechas no ar antes de cair e impactar o chão, causando Dano AdE no impacto.",
+      "attributes": [
+        {
+          "name": "Dano do 1° Golpe",
+          "parameters": [
+            "21.12%+23.76%",
+            "22.56%+25.38%",
+            "24.00%+27.00%",
+            "25.92%+29.16%",
+            "27.36%+30.78%",
+            "29.04%+32.67%",
+            "31.20%+35.10%",
+            "33.36%+37.53%",
+            "35.52%+39.96%",
+            "37.68%+42.39%",
+            "39.84%+44.82%",
+            "42.00%+47.25%",
+            "44.16%+49.68%",
+            "46.32%+52.11%",
+            "48.48%+54.54%"
+          ]
+        },
+        {
+          "name": "Dano do 2° Golpe",
+          "parameters": [
+            "43.12%",
+            "46.06%",
+            "49.00%",
+            "52.92%",
+            "55.86%",
+            "59.29%",
+            "63.70%",
+            "68.11%",
+            "72.52%",
+            "76.93%",
+            "81.34%",
+            "85.75%",
+            "90.16%",
+            "94.57%",
+            "98.98%"
+          ]
+        },
+        {
+          "name": "Dano do 3° Golpe",
+          "parameters": [
+            "52.80%",
+            "56.40%",
+            "60.00%",
+            "64.80%",
+            "68.40%",
+            "72.60%",
+            "78.00%",
+            "83.40%",
+            "88.80%",
+            "94.20%",
+            "99.60%",
+            "105.00%",
+            "110.40%",
+            "115.80%",
+            "121.20%"
+          ]
+        },
+        {
+          "name": "Dano do 4° Golpe",
+          "parameters": [
+            "65.65%",
+            "70.12%",
+            "74.60%",
+            "80.57%",
+            "85.04%",
+            "90.27%",
+            "96.98%",
+            "103.69%",
+            "110.41%",
+            "117.12%",
+            "123.84%",
+            "130.55%",
+            "137.26%",
+            "143.98%",
+            "150.69%"
+          ]
+        },
+        {
+          "name": "Disparo com Mira",
+          "parameters": [
+            "43.86%",
+            "47.43%",
+            "51.00%",
+            "56.10%",
+            "59.67%",
+            "63.75%",
+            "69.36%",
+            "74.97%",
+            "80.58%",
+            "86.70%",
+            "92.82%",
+            "98.94%",
+            "105.06%",
+            "111.18%",
+            "117.30%"
+          ]
+        },
+        {
+          "name": "Disparo com Mira com Energização Completa",
+          "parameters": [
+            "124.00%",
+            "133.30%",
+            "142.60%",
+            "155.00%",
+            "164.30%",
+            "173.60%",
+            "186.00%",
+            "198.40%",
+            "210.80%",
+            "223.20%",
+            "235.60%",
+            "248.00%",
+            "263.50%",
+            "279.00%",
+            "294.50%"
+          ]
+        },
+        {
+          "name": "Dano Durante a Queda",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "Dano de Queda de Alta/Baixa Altitude",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Natureza Gélida",
+      "info": "Aloy lança uma Bomba Congelante na direção desejada que explode no impacto, causando Dano Cryo. Depois de explodir, a Bomba Congelante se dividirá em muitas Bombinhas Congelantes que explodirão ao entrar em contato com os oponentes ou após um curto período de tempo, causando Dano Cryo.\nQuando a Bomba Congelante ou suas bombinhas atingem os oponentes, elas diminuirão o ATQ dos oponentes e concederão 1 acúmulo de Bobina a Aloy.\nAloy pode ganhar 1 acúmulo de Bobinas a cada 0,1s.\n\n**Bobina**\nCada acúmulo aumentará o Dano do Ataque Normal de Aloy.\nQuando ela tiver 4 acúmulos, Aloy elimina todos os efeitos de Bobina e ganha Gelo Rápido, aumentando o Dano causado pelo Ataque Normal e convertendo seus Ataques Normais para causar Dano Cryo.\n\nEnquanto sob o estado do Gelo Rápido, Aloy não pode obter efeitos de Bobina.\nO efeito de Bobina é excluído 30 segundos após sair da batalha.",
+      "description": "Você acha que isso é frio? Acho que você nunca esteve no Corte.",
+      "attributes": [
+        {
+          "name": "Dano da Bomba Congelante",
+          "parameters": [
+            "177.60%",
+            "190.92%",
+            "204.24%",
+            "222.00%",
+            "235.32%",
+            "248.64%",
+            "266.40%",
+            "284.16%",
+            "301.92%",
+            "319.68%",
+            "337.44%",
+            "355.20%",
+            "377.40%",
+            "399.60%",
+            "421.80%"
+          ]
+        },
+        {
+          "name": "Dano de Bomba de Congelamento",
+          "parameters": [
+            "40.00%",
+            "43.00%",
+            "46.00%",
+            "50.00%",
+            "53.00%",
+            "56.00%",
+            "60.00%",
+            "64.00%",
+            "68.00%",
+            "72.00%",
+            "76.00%",
+            "80.00%",
+            "85.00%",
+            "90.00%",
+            "95.00%"
+          ]
+        },
+        {
+          "name": "Redução de ATQ",
+          "parameters": [
+            "12.00%",
+            "12.00%",
+            "12.00%",
+            "13.00%",
+            "13.00%",
+            "13.00%",
+            "14.00%",
+            "14.00%",
+            "14.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%"
+          ]
+        },
+        {
+          "name": "Duração da Redução de ATQ",
+          "parameters": [
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s"
+          ]
+        },
+        {
+          "name": "Bônus de Dano do Ataque Normal de Bobina",
+          "parameters": [
+            "5.84%/11.69%/17.53%",
+            "6.19%/12.39%/18.58%",
+            "6.54%/13.09%/19.63%",
+            "7.00%/14.00%/21.00%",
+            "7.35%/14.70%/22.05%",
+            "7.70%/15.40%/23.10%",
+            "8.16%/16.31%/24.47%",
+            "8.61%/17.22%/25.83%",
+            "9.06%/18.13%/27.20%",
+            "9.52%/19.04%/28.56%",
+            "9.97%/19.95%/29.93%",
+            "10.43%/20.86%/31.29%",
+            "10.89%/21.77%/32.66%",
+            "11.34%/22.68%/34.02%",
+            "11.79%/23.59%/35.39%"
+          ]
+        },
+        {
+          "name": "Bônus de Dano do Ataque Normal de Gelo Rápido",
+          "parameters": [
+            "29.23%",
+            "30.97%",
+            "32.73%",
+            "35.00%",
+            "36.75%",
+            "38.50%",
+            "40.78%",
+            "43.05%",
+            "45.32%",
+            "47.60%",
+            "49.88%",
+            "52.15%",
+            "54.43%",
+            "56.70%",
+            "58.97%"
+          ]
+        },
+        {
+          "name": "Duração do Gelo Rápido",
+          "parameters": [
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s"
+          ]
+        },
+        {
+          "name": "Recarga",
+          "parameters": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Profecias do Alvorecer",
+      "info": "Arremessa uma Bateria cheia com Cryo na direção do alvo antes de ligá-la com uma flecha, causando Dano Cryo em uma AdE.",
+      "description": "Seja \"Zero Dawn\" refira-se à esperança ou à extinção, não importa mais. Aloy já salvou seu mundo... E este também tem seus próprios heróis que se preocuparão com seu destino.",
+      "attributes": [
+        {
+          "name": "Dano de Habilidade",
+          "parameters": [
+            "359.20%",
+            "386.14%",
+            "413.08%",
+            "449.00%",
+            "475.94%",
+            "502.88%",
+            "538.80%",
+            "574.72%",
+            "610.64%",
+            "646.56%",
+            "682.48%",
+            "718.40%",
+            "763.30%",
+            "808.20%",
+            "853.10%"
+          ]
+        },
+        {
+          "name": "Recarga",
+          "parameters": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        },
+        {
+          "name": "Energia Elemental",
+          "parameters": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Percepção de Combate",
+      "info": "Quando Aloy recebe o efeito de Natureza Gélida da **Bobina**, seu ATQ é aumentado em 16%, enquanto o ATQ de outros membros da equipe ao redor é aumentado em 8%. Este efeito dura 10s."
+    },
+    "passive2": {
+      "name": "Ataque Poderoso",
+      "info": "Quando Aloy está sob o efeito de Gelo Rápido proporcionado pela **Natureza Gélida**, seu Bônus de Dano Cryo aumenta em 3.5% a cada 1s. O máximo de aumento de Bônus de Dano Cryo ganho desta forma é de 35%."
+    },
+    "passive3": {
+      "name": "Devagarinho",
+      "info": "Quando Aloy está na equipe, os membros da equipe que se aproximarem de pequenos animais que possam produzir Carne de Ave, Carne crua ou Carne Fresca Fria, não se assustarão facilmente."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Ensinamentos de \"Liberdade\"",
+          "count": 3
+        },
+        {
+          "name": "Casca Espectral",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guia da Liberdade",
+          "count": 2
+        },
+        {
+          "name": "Coração Espectral",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guia da Liberdade",
+          "count": 4
+        },
+        {
+          "name": "Coração Espectral",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guia da Liberdade",
+          "count": 6
+        },
+        {
+          "name": "Coração Espectral",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guia da Liberdade",
+          "count": 9
+        },
+        {
+          "name": "Coração Espectral",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofia da Liberdade",
+          "count": 4
+        },
+        {
+          "name": "Núcleo Espectral",
+          "count": 4
+        },
+        {
+          "name": "Momento Derretido",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofia da Liberdade",
+          "count": 6
+        },
+        {
+          "name": "Núcleo Espectral",
+          "count": 6
+        },
+        {
+          "name": "Momento Derretido",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofia da Liberdade",
+          "count": 12
+        },
+        {
+          "name": "Núcleo Espectral",
+          "count": 9
+        },
+        {
+          "name": "Momento Derretido",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofia da Liberdade",
+          "count": 16
+        },
+        {
+          "name": "Núcleo Espectral",
+          "count": 12
+        },
+        {
+          "name": "Momento Derretido",
+          "count": 2
+        },
+        {
+          "name": "Coroa da Sabedoria",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_02",
+      "combat2": "Skill_S_Aloy_01",
+      "combat3": "Skill_E_Aloy_01_HD",
+      "passive1": "UI_Talent_S_Aloy_05",
+      "passive2": "UI_Talent_S_Aloy_06",
+      "passive3": "UI_Talent_S_Aloy_07"
+    },
+    "version": "2.1"
+  }
+}

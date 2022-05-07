@@ -1,0 +1,230 @@
+{
+  "name": "ดันเจี้ยนแห่งพร: โถงแห่งโครงกระดูก",
+  "region": "Inazuma",
+  "domainEntrance": "โถงนิทรารมณ์",
+  "domainType": "อาร์ติแฟกต์",
+  "description": "คฤหาสน์ไร้เจ้านายแห่งนี้ได้กลายเป็นที่หลบภัยของมอนสเตอร์จากรอยแยก\nหากสามารถใช้สายฟ้าแห่งนิรันดร์ เพื่อเอาชนะการทดสอบ บางทีอาจได้รับอาร์ติแฟกต์ล้ำค่าก็เป็นได้",
+  "daysOfWeek": null,
+  "images": {},
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "ดันเจี้ยนแห่งพร: โถงแห่งโครงกระดูก I",
+      "recommendedLevel": 59,
+      "recommendedElements": null,
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "3"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Husk of Opulent Dreams",
+          "rarity": "4"
+        },
+        {
+          "name": "Ocean-Hued Clam",
+          "rarity": "4"
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        }
+      ],
+      "disorder": null,
+      "monsterlist": [
+        "Crackling Axe Mitachurl",
+        "Large Hydro Slime",
+        "Hydro Slime"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งพร: โถงแห่งโครงกระดูก II",
+      "recommendedLevel": 69,
+      "recommendedElements": null,
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "3"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Husk of Opulent Dreams",
+          "rarity": "4"
+        },
+        {
+          "name": "Ocean-Hued Clam",
+          "rarity": "4"
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        }
+      ],
+      "disorder": null,
+      "monsterlist": [
+        "Crackling Axe Mitachurl",
+        "Large Hydro Slime",
+        "Hydro Slime",
+        "Electro Hilichurl Shooter",
+        "Hilichurl Berserker"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งพร: โถงแห่งโครงกระดูก III",
+      "recommendedLevel": 80,
+      "recommendedElements": null,
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "3"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Husk of Opulent Dreams",
+          "rarity": "4"
+        },
+        {
+          "name": "Ocean-Hued Clam",
+          "rarity": "4"
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        },
+        {
+          "name": "Husk of Opulent Dreams",
+          "rarity": "5"
+        },
+        {
+          "name": "Ocean-Hued Clam",
+          "rarity": "5"
+        }
+      ],
+      "disorder": null,
+      "monsterlist": [
+        "Thundercraven - Rifthound",
+        "Thundercraven - Rifthound Whelp",
+        "Electro Hilichurl Shooter"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งพร: โถงแห่งโครงกระดูก IV",
+      "recommendedLevel": 90,
+      "recommendedElements": null,
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "3"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Husk of Opulent Dreams",
+          "rarity": "4"
+        },
+        {
+          "name": "Ocean-Hued Clam",
+          "rarity": "4"
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        },
+        {
+          "name": "Husk of Opulent Dreams",
+          "rarity": "5"
+        },
+        {
+          "name": "Ocean-Hued Clam",
+          "rarity": "5"
+        }
+      ],
+      "disorder": null,
+      "monsterlist": [
+        "Thundercraven - Rifthound",
+        "Thundercraven - Rifthound Whelp",
+        "Crackling Axe Mitachurl"
+      ]
+    }
+  ]
+}

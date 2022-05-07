@@ -1,0 +1,21 @@
+{
+  "name": "竹材",
+  "description": "軽くて丈夫な竹の節。その素朴な見た目とは裏腹に、独特の奥ゆかしさを醸し出している。\n調度品の製作に使うことができる。",
+  "sortorder": 1949,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "素材",
+  "source": [
+    "野外で採集",
+    "推奨：碧水の原で伐採"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bamboo_Segment.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Bamboo_Segment.png",
+    "nameicon": "UI_ItemIcon_101305"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bamboo_Segment"
+  },
+  "version": ""
+}

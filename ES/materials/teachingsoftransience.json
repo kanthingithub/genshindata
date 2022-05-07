@@ -1,0 +1,24 @@
+{
+  "name": "Enseñanzas de la transitoriedad",
+  "description": "Material de mejora de talento.\nLa transitoriedad es el mayor sueño del Reino del Trueno.\nLa fugacidad de la gloria y el esplendor es la mayor expresión de la belleza mortal. ¿O acaso no es la vida humana breve y fugaz como un relámpago? Igual que un hermoso sueño o unos fuegos artificiales, nosotros también dejamos una maravillosa huella en el eterno cielo de la noche.",
+  "sortorder": 1869,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de talento",
+  "dropdomain": "Dominio de la maestría: Reino Púrpura",
+  "daysofweek": [
+    "Lunes",
+    "Jueves",
+    "Domingo"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Transience.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/4e/Item_Teachings_of_Transience.png",
+    "nameicon": "UI_ItemIcon_104320"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Transience"
+  },
+  "version": ""
+}

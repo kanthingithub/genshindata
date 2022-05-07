@@ -1,0 +1,20 @@
+{
+  "name": "Ver factice",
+  "description": "Cet appât qui imite un ver est fabriqué avec une sorte de condensat. Son corps se tortille selon le courant de l'eau et attire les poissons un peu trop curieux vers leur mort. Les pêcheurs professionnels ajoutent même un morceau de fruit pour lui donner un parfum plus fort et irrésistible.\n\nAdapté pour les poissons de la famille des poissons-papillons.",
+  "sortorder": 1516,
+  "rarity": "2",
+  "category": "FISH_BAIT",
+  "materialtype": "Appât de pêche",
+  "source": [
+    "Synthèse"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_111025",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_False_Worm_Bait.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Item_False_Worm_Bait.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/False_Worm_Bait"
+  },
+  "version": ""
+}

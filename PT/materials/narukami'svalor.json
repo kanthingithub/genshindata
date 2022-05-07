@@ -1,0 +1,26 @@
+{
+  "name": "A Coragem de Narukami",
+  "description": "Material de Ascensão de Armas.\nO tesouro do senhor do trovão é sua majestade, e essa majestade permeia sua coragem e fúria. Sua fúria vem do amor que persiste em seu coração, e sua coragem solidifica essa fúria. Quem estiver no caminho para a eternidade ou ferir o povo de Inazuma se tornará seu inimigo.\nDizem que havia quatro grandes espíritos, três raposas divinas e duas grandes espadas — mas o símbolo de Sua Excelência, a Narukami Ogosho Toda-Poderosa, era um único golpe, invencível e brilhante como um meteoro.",
+  "sortorder": 2214,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Ascensão de Armas",
+  "dropdomain": "Domínio da Forja: Altar da Areia",
+  "daysofweek": [
+    "Terça-feira",
+    "Sexta-feira",
+    "Domingo"
+  ],
+  "source": [
+    "Obtido na síntese"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Narukami's_Valor.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Narukami%27s_Valor.png",
+    "nameicon": "UI_ItemIcon_114032"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Narukami's_Valor"
+  },
+  "version": ""
+}

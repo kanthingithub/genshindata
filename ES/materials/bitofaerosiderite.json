@@ -1,0 +1,26 @@
+{
+  "name": "Fragmento de siderita oscura",
+  "description": "Material de ascensión de arma.\nAlgunas zonas costeras de la región de Teyvat no reciben la protección de Los Siete Arcontes, y se las denomina el “Mar Oscuro”. Se dice que muchos arcontes derrotados se negaron a vivir bajo el nuevo orden de Los Siete, por lo que huyeron a islas remotas y se convirtieron en arcontes malvados. Sin embargo, sus poderes provenían de la misma fuente que Rex Lapis, es decir, de un lugar diferente al de las tinieblas que envuelven a ese Mar Oscuro.",
+  "sortorder": 2205,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de ascensión de arma",
+  "dropdomain": "Dominio de la forja: Campo de prueba del relámpago milenario",
+  "daysofweek": [
+    "Miércoles",
+    "Sábado",
+    "Domingo"
+  ],
+  "source": [
+    "Sintetizar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bit_of_Aerosiderite.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Bit_of_Aerosiderite.png",
+    "nameicon": "UI_ItemIcon_114023"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bit_of_Aerosiderite"
+  },
+  "version": ""
+}

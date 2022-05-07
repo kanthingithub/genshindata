@@ -1,0 +1,911 @@
+{
+  "name": "Arataki Itto",
+  "fullname": "Arataki Itto",
+  "title": "Heroísmo de Hanamizaka",
+  "description": "O primeiro e maior chefe da Gangue Arataki, famosa em Hanamizaka, na cidade de Inazuma... Espere, o quê? Nunca ouviu falar deles? Sério?",
+  "rarity": "5",
+  "element": "Geo",
+  "weapontype": "Espadão",
+  "substat": "Taxa Crítica",
+  "gender": "Masculino",
+  "body": "MALE",
+  "association": "INAZUMA",
+  "region": "Inazuma",
+  "affiliation": "Gangue Arataki",
+  "birthdaymmdd": "6/1",
+  "birthday": "1 de junho",
+  "constellation": "Taurus Iracundus",
+  "cv": {
+    "english": "Max Mittelman",
+    "chinese": "刘照坤",
+    "japanese": "西川貴教",
+    "korean": "Song Jun-seok"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Lasca de Topázio Prithiva",
+        "count": 1
+      },
+      {
+        "name": "Onikabuto",
+        "count": 3
+      },
+      {
+        "name": "Condensado de Slime",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de Topázio Prithiva",
+        "count": 3
+      },
+      {
+        "name": "Chifre do Rei Canino",
+        "count": 2
+      },
+      {
+        "name": "Onikabuto",
+        "count": 10
+      },
+      {
+        "name": "Condensado de Slime",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de Topázio Prithiva",
+        "count": 6
+      },
+      {
+        "name": "Chifre do Rei Canino",
+        "count": 4
+      },
+      {
+        "name": "Onikabuto",
+        "count": 20
+      },
+      {
+        "name": "Secreção de Slime",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Pedaço de Topázio Prithiva",
+        "count": 3
+      },
+      {
+        "name": "Chifre do Rei Canino",
+        "count": 8
+      },
+      {
+        "name": "Onikabuto",
+        "count": 30
+      },
+      {
+        "name": "Secreção de Slime",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Pedaço de Topázio Prithiva",
+        "count": 6
+      },
+      {
+        "name": "Chifre do Rei Canino",
+        "count": 12
+      },
+      {
+        "name": "Onikabuto",
+        "count": 45
+      },
+      {
+        "name": "Essência de Slime",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Gema de Topázio Prithiva",
+        "count": 6
+      },
+      {
+        "name": "Chifre do Rei Canino",
+        "count": 20
+      },
+      {
+        "name": "Onikabuto",
+        "count": 60
+      },
+      {
+        "name": "Essência de Slime",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_AvatarIcon_Itto",
+    "nameiconcard": "UI_AvatarIcon_Itto_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Itto",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Itto",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Itto.png",
+    "namesideicon": "UI_AvatarIcon_Side_Itto",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Itto.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211203/2021120311564937286.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211203/2021120311564391237.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Arataki_Itto"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1000.9860229492188,
+      "attack": 17.68899917602539,
+      "defense": 74.66783905029297,
+      "specialized": 0.05000000074505806
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2596.5578447194275,
+      "attack": 45.88526565078155,
+      "defense": 193.6883820445928,
+      "specialized": 0.05000000074505806
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3454.81284960224,
+      "attack": 61.050875964197076,
+      "defense": 257.71078194693655,
+      "specialized": 0.05000000074505806
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5169.501966100361,
+      "attack": 91.35213259864031,
+      "defense": 385.616794655034,
+      "specialized": 0.05000000074505806
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5779.314710240986,
+      "attack": 102.12769774604021,
+      "defense": 431.10639579028793,
+      "specialized": 0.09800000116229057
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6649.171522180812,
+      "attack": 117.49943728774633,
+      "defense": 495.9927447918053,
+      "specialized": 0.09800000116229057
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7462.255140344874,
+      "attack": 131.8668555769309,
+      "defense": 556.6455386760827,
+      "specialized": 0.1460000015795231
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8341.120650842146,
+      "attack": 147.39779300722512,
+      "defense": 622.2038851266334,
+      "specialized": 0.1460000015795231
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 8950.93339498277,
+      "attack": 158.17335910829934,
+      "defense": 667.6934938912818,
+      "specialized": 0.1460000015795231
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9837.807167872583,
+      "attack": 173.84581514486308,
+      "defense": 733.8492109680847,
+      "specialized": 0.1460000015795231
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10447.619912013208,
+      "attack": 184.6213812459373,
+      "defense": 779.3388197327331,
+      "specialized": 0.193999994546175
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11344.5032969327,
+      "attack": 200.4707228881798,
+      "defense": 846.2411966857508,
+      "specialized": 0.193999994546175
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 11954.31628521395,
+      "attack": 211.24628898925403,
+      "defense": 891.7307901916101,
+      "specialized": 0.2420000024139881
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12858.207019053749,
+      "attack": 227.2194615206754,
+      "defense": 959.1558753436984,
+      "specialized": 0.2420000024139881
+    }
+  },
+  "version": "2.3",
+  "constellations": {
+    "c1": {
+      "name": "Fique um Tempo e Escute",
+      "effect": "Ao lançar **Descendência Real: Contemplem, Itto o Maligno!**, Arataki Itto obtém 2 cargas de Superforça Superlativa. Após 1s, Arataki Itto obtém outra carga de Superforça Superlativa a cada 0,5s, durante 1,5s."
+    },
+    "c2": {
+      "name": "Juntem-se Hora da Briga!",
+      "effect": "Após usar **Descendência Real: Contemplem, Itto o Maligno!**, cada membro da equipe cujo elemento seja Geo irá diminuir o Tempo de Recarga desta habilidade em 1.5s e restaurar 6 de Energia Elemental para Arataki Itto.\nUm máximo de 4.5s do Tempo de Recarga pode ser reduzido e 18 de Energia restaurada desta maneira."
+    },
+    "c3": {
+      "name": "Lá Vem o Touro!",
+      "effect": "Aumenta o nível da **Masatsu Zetsugi: Explosão Akaushi!** em 3.\nO nível máximo de elevação é 15."
+    },
+    "c4": {
+      "name": "Cárcere Privado",
+      "effect": "Depois que o \"Rei Oni Furioso\" aplicado pela **Descendência Real: Contemplem, Itto o Maligno!** terminar, a DEF e o ATQ de todos os personagens da equipe que se encontrarem próximos aumentará em 20% durante 10 segundos."
+    },
+    "c5": {
+      "name": "10 Anos de Fama de Hanamizaka",
+      "effect": "Aumenta o nível da **Descendência Real: Contemplem, Itto o Maligno!** em 3.\nO nível máximo de elevação é 15."
+    },
+    "c6": {
+      "name": "Arataki Itto, Presente!",
+      "effect": "Os Ataques Carregados de Arataki Itto causam 70% a mais de Dano CRIT. Além disso, quando ele usa Arataki Kesagiri, ele tem 50% de chance de não consumir cargas de Superforça Superlativa."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Itto_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Itto_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Itto_04.png",
+      "constellation": "Eff_UI_Talent_Itto"
+    },
+    "version": "2.3"
+  },
+  "talent": {
+    "name": "Arataki Itto",
+    "combat1": {
+      "name": "Ataque Normal: Lenda do Combate",
+      "info": "**Ataque Normal**\nRealiza até 4 golpes consecutivos.\nQuando seu 2º e 4º ataque atingirem os oponentes, Itto vai gerar 1 e 2 cargas de Superforça Superlativa respectivamente. \nMáximo de 5 cargas. O acionamento deste efeito reiniciará a duração atual de qualquer acúmulo existente.\n\nAlém disso, mesmo quando usar a Habilidade Elemental \"Masatsu Zetsugi: Explosão Akaushi!\" ou depois de correr por um curto período de tempo, o combo do Ataque Normal de Itto não será redefinido. \n\n**Ataque Carregado**\nAo manter pressionado para iniciar um Ataque Carregado, poderá usar cortes de Arataki Kesagiri sem usar qualquer Stamina. Cada corte de Arataki Kesagiri consumirá 1 carga de Superforça Superlativa. Quando a carga final for consumida, Itto irá desencadear um ataque especialmente poderoso.\nQuando não houver cargas de Superforça Superlativa disponíveis, Itto executará um único corte Saichimonji.\n\n**Ataque Imersivo**\nMergulha em pleno ar para golpear o chão, danificando inimigos em seu caminho e infligindo dano em uma AdE durante o impacto.",
+      "attributes": [
+        {
+          "name": "Dano do 1° Golpe",
+          "parameters": [
+            "79.23%",
+            "85.68%",
+            "92.13%",
+            "101.34%",
+            "107.79%",
+            "115.16%",
+            "125.30%",
+            "135.43%",
+            "145.57%",
+            "156.62%",
+            "169.29%",
+            "184.19%",
+            "199.08%",
+            "213.98%",
+            "230.23%"
+          ]
+        },
+        {
+          "name": "Dano do 2° Golpe",
+          "parameters": [
+            "76.37%",
+            "82.58%",
+            "88.80%",
+            "97.68%",
+            "103.90%",
+            "111.00%",
+            "120.77%",
+            "130.54%",
+            "140.30%",
+            "150.96%",
+            "163.17%",
+            "177.53%",
+            "191.89%",
+            "206.25%",
+            "221.91%"
+          ]
+        },
+        {
+          "name": "Dano do 3° Golpe",
+          "parameters": [
+            "91.64%",
+            "99.10%",
+            "106.56%",
+            "117.22%",
+            "124.68%",
+            "133.20%",
+            "144.92%",
+            "156.64%",
+            "168.36%",
+            "181.15%",
+            "195.80%",
+            "213.03%",
+            "230.27%",
+            "247.50%",
+            "266.29%"
+          ]
+        },
+        {
+          "name": "Dano do 4° Golpe",
+          "parameters": [
+            "117.22%",
+            "126.77%",
+            "136.31%",
+            "149.94%",
+            "159.48%",
+            "170.39%",
+            "185.38%",
+            "200.37%",
+            "215.37%",
+            "231.72%",
+            "250.47%",
+            "272.51%",
+            "294.55%",
+            "316.59%",
+            "340.63%"
+          ]
+        },
+        {
+          "name": "Dano de Corte do Combo Arataki Kesagiri",
+          "parameters": [
+            "91.16%",
+            "98.58%",
+            "106.00%",
+            "116.60%",
+            "124.02%",
+            "132.50%",
+            "144.16%",
+            "155.82%",
+            "167.48%",
+            "180.20%",
+            "194.77%",
+            "211.92%",
+            "229.06%",
+            "246.20%",
+            "264.89%"
+          ]
+        },
+        {
+          "name": "Dano do Último Corte do Arataki Kesagiri",
+          "parameters": [
+            "190.92%",
+            "206.46%",
+            "222.00%",
+            "244.20%",
+            "259.74%",
+            "277.50%",
+            "301.92%",
+            "326.34%",
+            "350.76%",
+            "377.40%",
+            "407.92%",
+            "443.82%",
+            "479.72%",
+            "515.62%",
+            "554.78%"
+          ]
+        },
+        {
+          "name": "Duração da Superforça Superlativa",
+          "parameters": [
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s",
+            "60s"
+          ]
+        },
+        {
+          "name": "Dano de Corte do Saichimonji",
+          "parameters": [
+            "90.47%",
+            "97.84%",
+            "105.20%",
+            "115.72%",
+            "123.08%",
+            "131.50%",
+            "143.07%",
+            "154.64%",
+            "166.22%",
+            "178.84%",
+            "193.31%",
+            "210.32%",
+            "227.33%",
+            "244.34%",
+            "262.89%"
+          ]
+        },
+        {
+          "name": "Consumo de Stamina de Saichimonji",
+          "parameters": [
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20",
+            "20"
+          ]
+        },
+        {
+          "name": "Dano Durante a Queda",
+          "parameters": [
+            "81.83%",
+            "88.49%",
+            "95.16%",
+            "104.67%",
+            "111.33%",
+            "118.94%",
+            "129.41%",
+            "139.88%",
+            "150.35%",
+            "161.76%",
+            "173.18%",
+            "184.60%",
+            "196.02%",
+            "207.44%",
+            "218.86%"
+          ]
+        },
+        {
+          "name": "Dano de Queda de Baixa/Alta Altitude",
+          "parameters": [
+            "163.63%/204.39%",
+            "176.95%/221.02%",
+            "190.27%/237.66%",
+            "209.30%/261.42%",
+            "222.62%/278.06%",
+            "237.84%/297.07%",
+            "258.77%/323.21%",
+            "279.70%/349.36%",
+            "300.63%/375.50%",
+            "323.46%/404.02%",
+            "346.29%/432.54%",
+            "369.12%/461.06%",
+            "391.96%/489.57%",
+            "414.79%/518.09%",
+            "437.62%/546.61%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Masatsu Zetsugi: Explosão Akaushi!",
+      "info": "Lança Ushi, o jovem touro akaushi e membro auxiliar da Gangue Arataki, causando Dano Geo nos oponentes! Quando Ushi atingir os oponentes, concederá a Arataki Itto 1 carga de Superforça Superlativa.\n\nUshi permanecerá no campo e fornecerá apoio das seguintes formas:\nChama a atenção dos oponentes ao redor e atrai seus ataques.\nHerda certa porcentagem de Vida baseada na Vida Máxima de Arataki Itto.\nQuando atacado, ele fornecerá a Arataki Itto 1 carga de Superforça Superlativa. 1 carga pode ser obtida desta forma uma vez a cada 2s.\nEle fugirá quando sua Vida chegar a 0 ou sua duração terminar. Ele concederá a Arataki Itto 1 carga de Superforça Superlativa quando ele sair de campo.\n\n**Manter Pressionado**\nAjusta o ângulo de lançamento.\n\nUshi é considerado uma Construção Geo e Arataki Itto só pode ter 1 Ushi que ele mesmo tenha colocado em campo por vez.",
+      "description": "O nome desta técnica é derivado de Onibudou (uma light novel escrita por Junkichi). Entretanto, chamá-lo de \"Onisatsu Zetsugi\" provavelmente constituiria uma violação de direitos autorais — sem mencionar como o Itto em si é um oni e tal...",
+      "attributes": [
+        {
+          "name": "Dano de Habilidade",
+          "parameters": [
+            "307.20%",
+            "330.24%",
+            "353.28%",
+            "384.00%",
+            "407.04%",
+            "430.08%",
+            "460.80%",
+            "491.52%",
+            "522.24%",
+            "552.96%",
+            "583.68%",
+            "614.40%",
+            "652.80%",
+            "691.20%",
+            "729.60%"
+          ]
+        },
+        {
+          "name": "Vida Recebida",
+          "parameters": [
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%",
+            "100.00%"
+          ]
+        },
+        {
+          "name": "Duração",
+          "parameters": [
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s",
+            "6s"
+          ]
+        },
+        {
+          "name": "Tempo de Recarga",
+          "parameters": [
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Descendência Real: Contemplem, Itto o Maligno!",
+      "info": "É hora de mostrar a eles o poder da Gangue Arataki! Por um tempo, Itto deixa seu Rei Oni Furioso interior emergir, usando seu Rei Oni Kanabou em batalha.\nEste estado tem as seguintes propriedades especiais:\nAtaques Normais, Carregados e Imersivos serão convertidos em Dano Geo que não pode ser substituído.\nA velocidade do Ataque Normal de Itto será aumentada, e o ATQ será aumentado com base em sua DEF.\nO primeiro e terceiro ataque concederão cada um a Arataki Itto 1 carga de Superforça Superlativa quando eles atingirem os adversários.\nItto perde 20% de RES Elemental e Física.\n\nO estado de Rei Oni Furioso será removido quando Itto deixa o campo.",
+      "description": "Esta é a maior super ultra mega técnica incrível do Itto (segundo ele). É inútil para Arataki Itto imitar qualquer outra coisa para ficar mais forte, pois ele, e nenhum outro, é o mais forte, o mais terrível oni da terra.\nShouta acha isso bem legal.",
+      "attributes": [
+        {
+          "name": "Bônus de ATQ",
+          "parameters": [
+            "57.60% da DEF",
+            "61.92% da DEF",
+            "66.24% da DEF",
+            "72.00% da DEF",
+            "76.32% da DEF",
+            "80.64% da DEF",
+            "86.40% da DEF",
+            "92.16% da DEF",
+            "97.92% da DEF",
+            "103.68% da DEF",
+            "109.44% da DEF",
+            "115.20% da DEF",
+            "122.40% da DEF",
+            "129.60% da DEF",
+            "136.80% da DEF"
+          ]
+        },
+        {
+          "name": "Bônus de Vel. de Ataque",
+          "parameters": [
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%",
+            "10.00%"
+          ]
+        },
+        {
+          "name": "Duração",
+          "parameters": [
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s",
+            "11s"
+          ]
+        },
+        {
+          "name": "Tempo de Recarga",
+          "parameters": [
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s"
+          ]
+        },
+        {
+          "name": "Energia Elemental",
+          "parameters": [
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70",
+            "70"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Arataki Ichiban",
+      "info": "Quando Arataki Itto usa consecutivos Arataki Kesagiri, ele obtém os seguintes efeitos:\nCada corte faz com que os cortes subsequentes tenham 10% a mais de Vel. de ATQ. Vel. de ATQ máxima é aumentada em 30%.\nAumenta sua resistência à interrupção.\n\nEstes efeitos serão dissipados quando ele parar de executar cortes consecutivos."
+    },
+    "passive2": {
+      "name": "Linhagem do Oni Carmesim",
+      "info": "Dano do Arataki Kesagiri é aumentado em 35% da DEF de Arataki Itto."
+    },
+    "passive3": {
+      "name": "Itto o Lenhador",
+      "info": "Quando um membro da equipe usa ataques para obter madeira de uma árvore, ele tem 25% de chance de conseguir madeira adicional."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Ensinamentos de Cultura",
+          "count": 3
+        },
+        {
+          "name": "Condensado de Slime",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guia da Cultura",
+          "count": 2
+        },
+        {
+          "name": "Secreção de Slime",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guia da Cultura",
+          "count": 4
+        },
+        {
+          "name": "Secreção de Slime",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guia da Cultura",
+          "count": 6
+        },
+        {
+          "name": "Secreção de Slime",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guia da Cultura",
+          "count": 9
+        },
+        {
+          "name": "Secreção de Slime",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofia da Cultura",
+          "count": 4
+        },
+        {
+          "name": "Essência de Slime",
+          "count": 4
+        },
+        {
+          "name": "Coração das Cinzas",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofia da Cultura",
+          "count": 6
+        },
+        {
+          "name": "Essência de Slime",
+          "count": 6
+        },
+        {
+          "name": "Coração das Cinzas",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofia da Cultura",
+          "count": 12
+        },
+        {
+          "name": "Essência de Slime",
+          "count": 9
+        },
+        {
+          "name": "Coração das Cinzas",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofia da Cultura",
+          "count": 16
+        },
+        {
+          "name": "Essência de Slime",
+          "count": 12
+        },
+        {
+          "name": "Coração das Cinzas",
+          "count": 2
+        },
+        {
+          "name": "Coroa da Sabedoria",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Itto_01",
+      "combat3": "Skill_E_Itto_01_HD",
+      "passive1": "UI_Talent_S_Itto_05",
+      "passive2": "UI_Talent_S_Itto_06",
+      "passive3": "UI_Talent_S_Itto_07"
+    },
+    "version": "2.3"
+  }
+}

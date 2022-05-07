@@ -1,0 +1,914 @@
+{
+  "name": "Diluc",
+  "fullname": "Diluc",
+  "title": "Ombre de l'Aurore",
+  "description": "Un jeune noble possédant la plupart des entreprises du vin de Mondstadt ; nul ne saurait sous-estimer sa richesse, sa réputation et ses capacités.",
+  "rarity": "5",
+  "element": "Pyro",
+  "weapontype": "Épée à deux mains",
+  "substat": "Taux CRIT",
+  "gender": "Homme",
+  "body": "MALE",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Domaine de l'Aurore",
+  "birthdaymmdd": "4/30",
+  "birthday": "30 avril",
+  "constellation": "Noctua",
+  "cv": {
+    "english": "Sean Chiplock",
+    "chinese": "马洋",
+    "japanese": "小野賢章",
+    "korean": "Choi Seung-hoon"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Éclat d'agate agnidus",
+        "count": 1
+      },
+      {
+        "name": "Herbe à lampe",
+        "count": 3
+      },
+      {
+        "name": "Insigne de nouvelle recrue",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragment d'agate agnidus",
+        "count": 3
+      },
+      {
+        "name": "Graine de feu",
+        "count": 2
+      },
+      {
+        "name": "Herbe à lampe",
+        "count": 10
+      },
+      {
+        "name": "Insigne de nouvelle recrue",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragment d'agate agnidus",
+        "count": 6
+      },
+      {
+        "name": "Graine de feu",
+        "count": 4
+      },
+      {
+        "name": "Herbe à lampe",
+        "count": 20
+      },
+      {
+        "name": "Insigne de sergent",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Morceau d'agate agnidus",
+        "count": 3
+      },
+      {
+        "name": "Graine de feu",
+        "count": 8
+      },
+      {
+        "name": "Herbe à lampe",
+        "count": 30
+      },
+      {
+        "name": "Insigne de sergent",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Morceau d'agate agnidus",
+        "count": 6
+      },
+      {
+        "name": "Graine de feu",
+        "count": 12
+      },
+      {
+        "name": "Herbe à lampe",
+        "count": 45
+      },
+      {
+        "name": "Insigne d'officier",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Pierre d'agate agnidus",
+        "count": 6
+      },
+      {
+        "name": "Graine de feu",
+        "count": 20
+      },
+      {
+        "name": "Herbe à lampe",
+        "count": 60
+      },
+      {
+        "name": "Insigne d'officier",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Character_Diluc_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Character_Diluc_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Diluc.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200609/2020060915105884221.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200609/2020060915105012670.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/7f68f45a650bbcf804215fc7890c7f35.png",
+    "nameicon": "UI_AvatarIcon_Diluc",
+    "nameiconcard": "UI_AvatarIcon_Diluc_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Diluc",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Diluc",
+    "namesideicon": "UI_AvatarIcon_Side_Diluc"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Diluc"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1010.5192260742188,
+      "attack": 26.06800079345703,
+      "defense": 61.0265998840332,
+      "specialized": 0.05000000074505806
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2621.286974589384,
+      "attack": 67.62039669342812,
+      "defense": 158.30300626832923,
+      "specialized": 0.05000000074505806
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3487.7158075971965,
+      "attack": 89.96971615143593,
+      "defense": 210.62900648195227,
+      "specialized": 0.05000000074505806
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5218.73530161212,
+      "attack": 134.62420305197156,
+      "defense": 315.1675756916702,
+      "specialized": 0.05000000074505806
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5834.355785010557,
+      "attack": 150.5039828676454,
+      "defense": 352.34657273146513,
+      "specialized": 0.09800000116229057
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6712.496950065979,
+      "attack": 173.1570744633027,
+      "defense": 405.37868546991194,
+      "specialized": 0.09800000116229057
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7533.324342644104,
+      "attack": 194.330116760666,
+      "defense": 454.95068406610335,
+      "specialized": 0.1460000015795231
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8420.560003412247,
+      "attack": 217.21781578915397,
+      "defense": 508.5320254947983,
+      "specialized": 0.1460000015795231
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9036.180364740372,
+      "attack": 233.0975956048278,
+      "defense": 545.7110263492905,
+      "specialized": 0.1460000015795231
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9931.500557089952,
+      "attack": 256.1938483849335,
+      "defense": 599.780603391262,
+      "specialized": 0.1460000015795231
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10547.121162558702,
+      "attack": 272.0736243859101,
+      "defense": 636.9596042457542,
+      "specialized": 0.193999994546175
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11452.546296605404,
+      "attack": 295.4305507102508,
+      "defense": 691.6394321546959,
+      "specialized": 0.193999994546175
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12068.166902074154,
+      "attack": 311.3103343406219,
+      "defense": 728.8184330091881,
+      "specialized": 0.2420000024139881
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12980.666121717892,
+      "attack": 334.84974830517604,
+      "defense": 783.9254743546844,
+      "specialized": 0.2420000024139881
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Conviction",
+      "effect": "Diluc inflige 15 % de DGT supplémentaires aux ennemis dont les PV sont supérieurs à 50 %."
+    },
+    "c2": {
+      "name": "Chaleur des cendres",
+      "effect": "L'ATQ de Diluc augmente de 10 % et sa VIT d'attaque de 5 % pendant 10 s lorsqu'il subit des DGT.\nCet effet peut être cumulé 3 fois maximum et déclenché une fois toutes les 1,5 s."
+    },
+    "c3": {
+      "name": "Feu et acier",
+      "effect": "Niveau d'aptitude **Assaut brûlant** +3.\nNiveau max : 15"
+    },
+    "c4": {
+      "name": "Flamme courante",
+      "effect": "Exécuter **Assaut brûlant** en rythme augmente considérablement les DGT infligés.\n2 s après le lancement d'**Assaut brûlant**, les DGT du prochain Assaut brûlant sont augmentés de 40 % pendant 2 s."
+    },
+    "c5": {
+      "name": "Phénix, Messager de l'Aube",
+      "effect": "Niveau d'aptitude **Aurore** +3.\nNiveau max : 15"
+    },
+    "c6": {
+      "name": "L'épée des flammes brise-nuit",
+      "effect": "Confère aux 2 attaques normales suivant dans les 6 s le lancement d'**Assaut brûlant** un bonus de 30 % de DGT et de VIT d'attaque normale.\nDe plus, Assaut brûlant n'interrompt plus les enchaînements d'attaques normales."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diluc_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diluc_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Diluc_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diluc_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Diluc_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diluc_04.png",
+      "constellation": "Eff_UI_Talent_Diluc"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Diluc",
+    "combat1": {
+      "name": "Attaque normale : Épée trempée",
+      "info": "**Attaque normale**\nEnchaîne jusqu'à 4 coups d'épée.\n\n**Attaque chargée**\nExécute une succession d'entailles aussi rapides que tranchantes ; cette attaque consomme de l'endurance sur la durée.\nL'attaque chargée se termine sur un coup puissant.\n\n**Attaque plongeante**\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "attributes": [
+        {
+          "name": "DGT 1er coup",
+          "parameters": [
+            "89.70%",
+            "97.00%",
+            "104.30%",
+            "114.73%",
+            "122.03%",
+            "130.38%",
+            "141.85%",
+            "153.32%",
+            "164.79%",
+            "177.31%",
+            "191.65%",
+            "208.52%",
+            "225.38%",
+            "242.25%",
+            "260.65%"
+          ]
+        },
+        {
+          "name": "DGT 2e coup",
+          "parameters": [
+            "87.63%",
+            "94.77%",
+            "101.90%",
+            "112.09%",
+            "119.22%",
+            "127.37%",
+            "138.58%",
+            "149.79%",
+            "161.00%",
+            "173.23%",
+            "187.24%",
+            "203.72%",
+            "220.20%",
+            "236.67%",
+            "254.65%"
+          ]
+        },
+        {
+          "name": "DGT 3e coup",
+          "parameters": [
+            "98.81%",
+            "106.86%",
+            "114.90%",
+            "126.39%",
+            "134.43%",
+            "143.62%",
+            "156.26%",
+            "168.90%",
+            "181.54%",
+            "195.33%",
+            "211.13%",
+            "229.71%",
+            "248.29%",
+            "266.87%",
+            "287.14%"
+          ]
+        },
+        {
+          "name": "DGT 4e coup",
+          "parameters": [
+            "133.99%",
+            "144.89%",
+            "155.80%",
+            "171.38%",
+            "182.29%",
+            "194.75%",
+            "211.89%",
+            "229.03%",
+            "246.16%",
+            "264.86%",
+            "286.28%",
+            "311.48%",
+            "336.67%",
+            "361.86%",
+            "389.34%"
+          ]
+        },
+        {
+          "name": "DGT enchaînement attaque chargée",
+          "parameters": [
+            "68.80%",
+            "74.40%",
+            "80.00%",
+            "88.00%",
+            "93.60%",
+            "100.00%",
+            "108.80%",
+            "117.60%",
+            "126.40%",
+            "136.00%",
+            "147.00%",
+            "159.94%",
+            "172.87%",
+            "185.81%",
+            "199.92%"
+          ]
+        },
+        {
+          "name": "DGT coup final attaque chargée",
+          "parameters": [
+            "124.70%",
+            "134.85%",
+            "145.00%",
+            "159.50%",
+            "169.65%",
+            "181.25%",
+            "197.20%",
+            "213.15%",
+            "229.10%",
+            "246.50%",
+            "266.44%",
+            "289.88%",
+            "313.33%",
+            "336.78%",
+            "362.35%"
+          ]
+        },
+        {
+          "name": "Coût d'endurance attaque chargée",
+          "parameters": [
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s"
+          ]
+        },
+        {
+          "name": "Durée max",
+          "parameters": [
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s"
+          ]
+        },
+        {
+          "name": "DGT durant la chute",
+          "parameters": [
+            "89.51%",
+            "96.79%",
+            "104.08%",
+            "114.48%",
+            "121.77%",
+            "130.10%",
+            "141.54%",
+            "152.99%",
+            "164.44%",
+            "176.93%",
+            "189.42%",
+            "201.91%",
+            "214.40%",
+            "226.89%",
+            "239.37%"
+          ]
+        },
+        {
+          "name": "DGT chute basse/élevée",
+          "parameters": [
+            "178.97%/223.55%",
+            "193.54%/241.74%",
+            "208.11%/259.94%",
+            "228.92%/285.93%",
+            "243.49%/304.13%",
+            "260.13%/324.92%",
+            "283.03%/353.52%",
+            "305.92%/382.11%",
+            "328.81%/410.70%",
+            "353.78%/441.89%",
+            "378.76%/473.09%",
+            "403.73%/504.28%",
+            "428.70%/535.47%",
+            "453.68%/566.66%",
+            "478.65%/597.86%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Assaut brûlant",
+      "info": "Diluc fait tournoyer sa lourde épée vers l'avant, infligeant des DGT Pyro.\nCette attaque peut être enchaînée 3 fois de suite.\nElle entre en TdR si l'enchaînement n'est pas assez rapide.",
+      "description": "Chacune de ces attaques représente les valeurs chères à Diluc : justice, courage et la responsabilité.",
+      "attributes": [
+        {
+          "name": "DGT 1er coup",
+          "parameters": [
+            "94.40%",
+            "101.48%",
+            "108.56%",
+            "118.00%",
+            "125.08%",
+            "132.16%",
+            "141.60%",
+            "151.04%",
+            "160.48%",
+            "169.92%",
+            "179.36%",
+            "188.80%",
+            "200.60%",
+            "212.40%",
+            "224.20%"
+          ]
+        },
+        {
+          "name": "DGT 2e coup",
+          "parameters": [
+            "97.60%",
+            "104.92%",
+            "112.24%",
+            "122.00%",
+            "129.32%",
+            "136.64%",
+            "146.40%",
+            "156.16%",
+            "165.92%",
+            "175.68%",
+            "185.44%",
+            "195.20%",
+            "207.40%",
+            "219.60%",
+            "231.80%"
+          ]
+        },
+        {
+          "name": "DGT 3e coup",
+          "parameters": [
+            "128.80%",
+            "138.46%",
+            "148.12%",
+            "161.00%",
+            "170.66%",
+            "180.32%",
+            "193.20%",
+            "206.08%",
+            "218.96%",
+            "231.84%",
+            "244.72%",
+            "257.60%",
+            "273.70%",
+            "289.80%",
+            "305.90%"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Aurore",
+      "info": "Diluc érupte en une explosion de flammes qui repoussent les ennemis et leur infligent des DGT Pyro. Les flammes convergent ensuite sur son arme, pour renaître en un phénix qui inflige d'importants DGT Pyro et repousse les ennemis sur sa route. Le phénix explose lorsqu'il atteint sa destination et inflige d'importants DGT Pyro de zone.\nLes flammes confèrent à l'arme de Diluc un enchantement Pyro.",
+      "description": "Celui qui apporte la lumière doit marcher dans les ténèbres. Les flammes au loin ne sont que le prélude de l'aube à venir.",
+      "attributes": [
+        {
+          "name": "DGT entaille",
+          "parameters": [
+            "204.00%",
+            "219.30%",
+            "234.60%",
+            "255.00%",
+            "270.30%",
+            "285.60%",
+            "306.00%",
+            "326.40%",
+            "346.80%",
+            "367.20%",
+            "387.60%",
+            "408.00%",
+            "433.50%",
+            "459.00%",
+            "484.50%"
+          ]
+        },
+        {
+          "name": "DGT continus",
+          "parameters": [
+            "60.00%",
+            "64.50%",
+            "69.00%",
+            "75.00%",
+            "79.50%",
+            "84.00%",
+            "90.00%",
+            "96.00%",
+            "102.00%",
+            "108.00%",
+            "114.00%",
+            "120.00%",
+            "127.50%",
+            "135.00%",
+            "142.50%"
+          ]
+        },
+        {
+          "name": "DGT explosion",
+          "parameters": [
+            "204.00%",
+            "219.30%",
+            "234.60%",
+            "255.00%",
+            "270.30%",
+            "285.60%",
+            "306.00%",
+            "326.40%",
+            "346.80%",
+            "367.20%",
+            "387.60%",
+            "408.00%",
+            "433.50%",
+            "459.00%",
+            "484.50%"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        },
+        {
+          "name": "Durée enchantement",
+          "parameters": [
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s"
+          ]
+        },
+        {
+          "name": "Énergie élémentaire",
+          "parameters": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Impitoyable",
+      "info": "Les attaques chargées de Diluc consomment 50 % d'endurance en moins, et durent 3 s de plus."
+    },
+    "passive2": {
+      "name": "Bénédiction du phénix",
+      "info": "Prolonge l'enchantement Pyro d'**Aurore** de 4 s. Diluc inflige 20 % de DGT Pyro supplémentaires pendant la durée de cet effet."
+    },
+    "passive3": {
+      "name": "Légende de l'aurore",
+      "info": "Lorsque vous forgez une épée à deux mains, 15 % du minerai utilisé vous sera rendu."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseignement de la Résistance",
+          "count": 3
+        },
+        {
+          "name": "Insigne de nouvelle recrue",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide de la Résistance",
+          "count": 2
+        },
+        {
+          "name": "Insigne de sergent",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide de la Résistance",
+          "count": 4
+        },
+        {
+          "name": "Insigne de sergent",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide de la Résistance",
+          "count": 6
+        },
+        {
+          "name": "Insigne de sergent",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide de la Résistance",
+          "count": 9
+        },
+        {
+          "name": "Insigne de sergent",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie de la Résistance",
+          "count": 4
+        },
+        {
+          "name": "Insigne d'officier",
+          "count": 4
+        },
+        {
+          "name": "Plume de Stormterror",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie de la Résistance",
+          "count": 6
+        },
+        {
+          "name": "Insigne d'officier",
+          "count": 6
+        },
+        {
+          "name": "Plume de Stormterror",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie de la Résistance",
+          "count": 12
+        },
+        {
+          "name": "Insigne d'officier",
+          "count": 9
+        },
+        {
+          "name": "Plume de Stormterror",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie de la Résistance",
+          "count": 16
+        },
+        {
+          "name": "Insigne d'officier",
+          "count": 12
+        },
+        {
+          "name": "Plume de Stormterror",
+          "count": 2
+        },
+        {
+          "name": "Couronne de la sagesse",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Diluc_01_01",
+      "combat3": "Skill_E_Diluc_01_HD",
+      "passive1": "UI_Talent_S_Diluc_05",
+      "passive2": "UI_Talent_S_Diluc_06",
+      "passive3": "UI_Talent_Forge_Claymore"
+    },
+    "version": "1.0"
+  }
+}

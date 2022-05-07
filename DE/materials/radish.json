@@ -1,0 +1,19 @@
+{
+  "name": "Rettich",
+  "description": "Eine sehr fasrige Wurzel. Sie ist sehr einfach anzubauen und zu ernten. Außerdem ist sie reich an Ballast- und Nährstoffen.",
+  "sortorder": 1980,
+  "category": "EXCHANGE",
+  "materialtype": "Zutat",
+  "source": [
+    "In der freien Natur zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Radish.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Item_Radish.png",
+    "nameicon": "UI_ItemIcon_100014"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Radish"
+  },
+  "version": ""
+}

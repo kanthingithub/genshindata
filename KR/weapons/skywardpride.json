@@ -1,0 +1,312 @@
+{
+  "name": "천공의 긍지",
+  "description": "바람 드래곤의 긍지가 하늘에 널리 펴져 있음을 상징하는 양손검. 바람을 가르는 소리는 마치 풍룡의 포효와 같고 푸른 하늘과 바람의 힘을 지니고 있다",
+  "weapontype": "양손검",
+  "rarity": "5",
+  "baseatk": 48,
+  "substat": "원소 충전 효율",
+  "subvalue": "8",
+  "effectname": "맑은 하늘을 가르는 용의 척추",
+  "effect": [
+    "가하는 피해가 [8%] 증가한다. 원소폭발 발동 후: 일반 공격과 강공격 명중 시 진공의 칼날이 발사되어 경로상의 적에게 공격력 [80%]의 피해를 준다. 지속 시간: 20초, 또는 진공의 칼날 8번 발사할 때까지",
+    "가하는 피해가 [10%] 증가한다. 원소폭발 발동 후: 일반 공격과 강공격 명중 시 진공의 칼날이 발사되어 경로상의 적에게 공격력 [100%]의 피해를 준다. 지속 시간: 20초, 또는 진공의 칼날 8번 발사할 때까지",
+    "가하는 피해가 [12%] 증가한다. 원소폭발 발동 후: 일반 공격과 강공격 명중 시 진공의 칼날이 발사되어 경로상의 적에게 공격력 [120%]의 피해를 준다. 지속 시간: 20초, 또는 진공의 칼날 8번 발사할 때까지",
+    "가하는 피해가 [14%] 증가한다. 원소폭발 발동 후: 일반 공격과 강공격 명중 시 진공의 칼날이 발사되어 경로상의 적에게 공격력 [140%]의 피해를 준다. 지속 시간: 20초, 또는 진공의 칼날 8번 발사할 때까지",
+    "가하는 피해가 [16%] 증가한다. 원소폭발 발동 후: 일반 공격과 강공격 명중 시 진공의 칼날이 발사되어 경로상의 적에게 공격력 [160%]의 피해를 준다. 지속 시간: 20초, 또는 진공의 칼날 8번 발사할 때까지"
+  ],
+  "r1": [
+    "8%",
+    "80%"
+  ],
+  "r2": [
+    "10%",
+    "100%"
+  ],
+  "r3": [
+    "12%",
+    "120%"
+  ],
+  "r4": [
+    "14%",
+    "140%"
+  ],
+  "r5": [
+    "16%",
+    "160%"
+  ],
+  "weaponmaterialtype": "Boreal Wolf",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "모라",
+        "count": 10000
+      },
+      {
+        "name": "칼바람 울프의 젖니",
+        "count": 5
+      },
+      {
+        "name": "지맥의 낡은 가지",
+        "count": 5
+      },
+      {
+        "name": "슬라임 응축액",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "모라",
+        "count": 20000
+      },
+      {
+        "name": "칼바람 울프의 이빨",
+        "count": 5
+      },
+      {
+        "name": "지맥의 낡은 가지",
+        "count": 18
+      },
+      {
+        "name": "슬라임 응축액",
+        "count": 12
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "모라",
+        "count": 30000
+      },
+      {
+        "name": "칼바람 울프의 이빨",
+        "count": 9
+      },
+      {
+        "name": "지맥의 마른 잎",
+        "count": 9
+      },
+      {
+        "name": "슬라임청",
+        "count": 9
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "모라",
+        "count": 45000
+      },
+      {
+        "name": "칼바람 울프의 부서진 이빨",
+        "count": 5
+      },
+      {
+        "name": "지맥의 마른 잎",
+        "count": 18
+      },
+      {
+        "name": "슬라임청",
+        "count": 14
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "모라",
+        "count": 55000
+      },
+      {
+        "name": "칼바람 울프의 부서진 이빨",
+        "count": 9
+      },
+      {
+        "name": "지맥의 새싹",
+        "count": 14
+      },
+      {
+        "name": "슬라임 원액",
+        "count": 9
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "모라",
+        "count": 65000
+      },
+      {
+        "name": "칼바람 울프의 그리운 고향",
+        "count": 6
+      },
+      {
+        "name": "지맥의 새싹",
+        "count": 27
+      },
+      {
+        "name": "슬라임 원액",
+        "count": 18
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Weapon_Skyward_Pride.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Dvalin.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Dvalin_Awaken.png",
+    "nameicon": "UI_EquipIcon_Claymore_Dvalin",
+    "namegacha": "UI_Gacha_EquipIcon_Claymore_Dvalin",
+    "nameawakenicon": "UI_EquipIcon_Claymore_Dvalin_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Skyward_Pride"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 47.5369987487793,
+      "specialized": 0.07999999821186066
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 65.03061573904415,
+      "specialized": 0.09295999319195758
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 87.32546729086016,
+      "specialized": 0.10904000038564199
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 110.14322193011867,
+      "specialized": 0.12520000177919854
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 133.2937397767564,
+      "specialized": 0.14135999363601215
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 164.39374015822614,
+      "specialized": 0.14135999363601215
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 187.97209398570067,
+      "specialized": 0.1575199950295687
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 211.88320535370258,
+      "specialized": 0.17367999642312526
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 236.07952937522532,
+      "specialized": 0.18983998827993886
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 260.56110005138,
+      "specialized": 0.20599999921023837
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 291.6611004328497,
+      "specialized": 0.20599999921023837
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 316.4278724288215,
+      "specialized": 0.22215999106705198
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 341.43233485871497,
+      "specialized": 0.23832000199735148
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 372.6323356216544,
+      "specialized": 0.23832000199735148
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 397.9220220387724,
+      "specialized": 0.2544799938541651
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 423.4018426691018,
+      "specialized": 0.2706399857109787
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 454.5018411432229,
+      "specialized": 0.2706399857109787
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 480.26690842818425,
+      "specialized": 0.2867999966412782
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 506.2220872589496,
+      "specialized": 0.30287999429821966
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 537.3220933624652,
+      "specialized": 0.30287999429821966
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 563.4674517412568,
+      "specialized": 0.31903998615503326
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 589.85050055397,
+      "specialized": 0.33519999708533277
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 620.9504913986966,
+      "specialized": 0.33519999708533277
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 647.5236744246213,
+      "specialized": 0.3513600080156323
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 674.3345478844676,
+      "specialized": 0.36751998079896
+    }
+  },
+  "version": "1.0"
+}

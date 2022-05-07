@@ -1,0 +1,306 @@
+{
+  "name": "白辰之環",
+  "description": "承載著過去的「狐齋宮」思念的法器。但她的思念之大，是無法完全裝進這樣小小的器物當中的。",
+  "weapontype": "法器",
+  "rarity": "4",
+  "baseatk": 44,
+  "substat": "元素充能效率",
+  "subvalue": "6.7",
+  "effectname": "櫻之齋宮",
+  "effect": [
+    "裝備該武器的角色觸發雷元素相關反應後，附近如有隊伍成員角色具備相關元素類型，則其獲得[10%]對應元素的元素傷害加成，持續6秒。透過這種方式，角色獲得的元素傷害加成無法疊加。",
+    "裝備該武器的角色觸發雷元素相關反應後，附近如有隊伍成員角色具備相關元素類型，則其獲得[12.5%]對應元素的元素傷害加成，持續6秒。透過這種方式，角色獲得的元素傷害加成無法疊加。",
+    "裝備該武器的角色觸發雷元素相關反應後，附近如有隊伍成員角色具備相關元素類型，則其獲得[15%]對應元素的元素傷害加成，持續6秒。透過這種方式，角色獲得的元素傷害加成無法疊加。",
+    "裝備該武器的角色觸發雷元素相關反應後，附近如有隊伍成員角色具備相關元素類型，則其獲得[17.5%]對應元素的元素傷害加成，持續6秒。透過這種方式，角色獲得的元素傷害加成無法疊加。",
+    "裝備該武器的角色觸發雷元素相關反應後，附近如有隊伍成員角色具備相關元素類型，則其獲得[20%]對應元素的元素傷害加成，持續6秒。透過這種方式，角色獲得的元素傷害加成無法疊加。"
+  ],
+  "r1": [
+    "10%"
+  ],
+  "r2": [
+    "12.5%"
+  ],
+  "r3": [
+    "15%"
+  ],
+  "r4": [
+    "17.5%"
+  ],
+  "r5": [
+    "20%"
+  ],
+  "weaponmaterialtype": "",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "摩拉",
+        "count": 5000
+      },
+      {
+        "name": "遠海夷地的瑚枝",
+        "count": 3
+      },
+      {
+        "name": "黯淡稜鏡",
+        "count": 3
+      },
+      {
+        "name": "導能繪卷",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "摩拉",
+        "count": 15000
+      },
+      {
+        "name": "遠海夷地的玉枝",
+        "count": 3
+      },
+      {
+        "name": "黯淡稜鏡",
+        "count": 12
+      },
+      {
+        "name": "導能繪卷",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "摩拉",
+        "count": 20000
+      },
+      {
+        "name": "遠海夷地的玉枝",
+        "count": 6
+      },
+      {
+        "name": "水晶稜鏡",
+        "count": 6
+      },
+      {
+        "name": "封魔繪卷",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "摩拉",
+        "count": 30000
+      },
+      {
+        "name": "遠海夷地的瓊枝",
+        "count": 3
+      },
+      {
+        "name": "水晶稜鏡",
+        "count": 12
+      },
+      {
+        "name": "封魔繪卷",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "摩拉",
+        "count": 35000
+      },
+      {
+        "name": "遠海夷地的瓊枝",
+        "count": 6
+      },
+      {
+        "name": "偏光稜鏡",
+        "count": 9
+      },
+      {
+        "name": "禁咒繪卷",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "摩拉",
+        "count": 45000
+      },
+      {
+        "name": "遠海夷地的金枝",
+        "count": 4
+      },
+      {
+        "name": "偏光稜鏡",
+        "count": 18
+      },
+      {
+        "name": "禁咒繪卷",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Bakufu.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Bakufu_Awaken.png",
+    "nameicon": "UI_EquipIcon_Catalyst_Bakufu",
+    "namegacha": "UI_Gacha_EquipIcon_Catalyst_Bakufu",
+    "nameawakenicon": "UI_EquipIcon_Catalyst_Bakufu_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Hakushin_Ring"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 43.734901428222656,
+      "specialized": 0.06666699796915054
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 59.17332359270131,
+      "specialized": 0.0774670476982795
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 78.72282048535817,
+      "specialized": 0.09086712058436053
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 98.5347338353804,
+      "specialized": 0.10433385563643682
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 118.56531627039294,
+      "specialized": 0.11780058274118765
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 144.46531588892321,
+      "specialized": 0.11780058274118765
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 164.62710394581518,
+      "specialized": 0.13126731779326395
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 184.96383978335507,
+      "specialized": 0.14473405284534024
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 205.43177081556132,
+      "specialized": 0.15820077995009107
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 225.98716531087848,
+      "specialized": 0.17166752294949283
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 251.9871672182271,
+      "specialized": 0.17166752294949283
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 272.6300460310813,
+      "specialized": 0.18513425005424367
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 293.3603883070464,
+      "specialized": 0.19860099305364542
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 319.2603898329253,
+      "specialized": 0.19860099305364542
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 340.0344638404458,
+      "specialized": 0.21206772015839626
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 360.8960221655034,
+      "specialized": 0.2255344472631471
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 386.79601606198776,
+      "specialized": 0.2255344472631471
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 407.70130611860077,
+      "specialized": 0.23900119026254885
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 428.6940596383247,
+      "specialized": 0.2524012552013044
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 454.6940596383247,
+      "specialized": 0.2524012552013044
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 475.6867923036225,
+      "specialized": 0.26586798230605524
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 496.723298409328,
+      "specialized": 0.279334725305457
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 522.6233075646014,
+      "specialized": 0.279334725305457
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 543.7035036930101,
+      "specialized": 0.29280146830485876
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 564.7837415302711,
+      "specialized": 0.30626817951495866
+    }
+  },
+  "version": "2.0"
+}

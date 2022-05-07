@@ -1,0 +1,230 @@
+{
+  "name": "Серебряный меч",
+  "description": "Говорят, что этот меч может изгонять демонов, но всем известно, что он сделан не из настоящего серебра.",
+  "weapontype": "Одноручное",
+  "rarity": "2",
+  "baseatk": 33,
+  "substat": "",
+  "subvalue": "",
+  "effectname": "",
+  "effect": [],
+  "r1": [],
+  "r2": [],
+  "r3": [],
+  "r4": [],
+  "r5": [],
+  "weaponmaterialtype": "Decarabian",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Мора",
+        "count": 5000
+      },
+      {
+        "name": "Плитка башни Декарабиана",
+        "count": 1
+      },
+      {
+        "name": "Тяжёлый рог",
+        "count": 1
+      },
+      {
+        "name": "Прочный наконечник стрелы",
+        "count": 1
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Мора",
+        "count": 5000
+      },
+      {
+        "name": "Обломок стены Декарабиана",
+        "count": 1
+      },
+      {
+        "name": "Тяжёлый рог",
+        "count": 5
+      },
+      {
+        "name": "Прочный наконечник стрелы",
+        "count": 4
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Мора",
+        "count": 10000
+      },
+      {
+        "name": "Обломок стены Декарабиана",
+        "count": 3
+      },
+      {
+        "name": "Чёрный бронзовый рог",
+        "count": 3
+      },
+      {
+        "name": "Острый наконечник стрелы",
+        "count": 3
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Мора",
+        "count": 15000
+      },
+      {
+        "name": "Фрагмент эпоса Декарабиана",
+        "count": 1
+      },
+      {
+        "name": "Чёрный бронзовый рог",
+        "count": 5
+      },
+      {
+        "name": "Острый наконечник стрелы",
+        "count": 4
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/32/Weapon_Silver_Sword.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Silver.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Silver_Awaken.png",
+    "nameicon": "UI_EquipIcon_Sword_Silver",
+    "namegacha": "UI_Gacha_EquipIcon_Sword_Silver",
+    "nameawakenicon": "UI_EquipIcon_Sword_Silver_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Silver_Sword"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 32.93000030517578,
+      "specialized": 0
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 42.90778951831817,
+      "specialized": 0
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 55.28947117188454,
+      "specialized": 0
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 67.53943452007297,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 79.69060325088503,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 91.39060306015017,
+      "specialized": 0
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 103.4429810991478,
+      "specialized": 0
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 115.36364083276749,
+      "specialized": 0
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 127.21843748813626,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 139.007378916378,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 150.6073783441734,
+      "specialized": 0
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 162.2975369317246,
+      "specialized": 0
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 173.92181673877712,
+      "specialized": 0
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 185.62181750171658,
+      "specialized": 0
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 197.18025778388983,
+      "specialized": 0
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 208.67282713668828,
+      "specialized": 0
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 220.37282789962774,
+      "specialized": 0
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 231.83246963886268,
+      "specialized": 0
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 243.22624044872282,
+      "specialized": 0
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 243.22624044872282,
+      "specialized": 0
+    },
+    "s75": null,
+    "s80": null,
+    "s80p": null,
+    "s85": null,
+    "s90": null
+  },
+  "version": "1.0"
+}

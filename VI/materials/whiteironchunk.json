@@ -1,0 +1,21 @@
+{
+  "name": "Mảnh Sắt Trắng",
+  "description": "Khoáng thạch của sắt trắng, trong tay thợ thủ công lành nghề có thể phát ra màu sắc lạ.",
+  "sortorder": 1955,
+  "category": "EXCHANGE",
+  "materialtype": "Quặng Đúc",
+  "source": [
+    "Thu Thập Bên Ngoài",
+    "Kiến nghị: Thu thập ở Núi Vọng Phong",
+    "Kiến nghị: Thu thập trong Lang Lãnh"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_White_Iron_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Item_White_Iron_Chunk.png",
+    "nameicon": "UI_ItemIcon_101002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/White_Iron_Chunk"
+  },
+  "version": ""
+}

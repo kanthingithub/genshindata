@@ -1,0 +1,20 @@
+{
+  "name": "Herbe à sanglots",
+  "description": "Même les jours sans vent, cette plante frissonnera au son du tonnerre. La partie qui ressemble à des pétales est en fait une extension de ses feuilles, destinée à protéger cette fleur si fragile.",
+  "sortorder": 2064,
+  "category": "EXCHANGE",
+  "materialtype": "Produit d'Inazuma",
+  "source": [
+    "Dans la nature",
+    "Zone conseillée : Tatarasuna"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Naku_Weed.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Item_Naku_Weed.png",
+    "nameicon": "UI_ItemIcon_101205"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Naku_Weed"
+  },
+  "version": ""
+}

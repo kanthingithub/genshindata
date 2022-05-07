@@ -1,0 +1,45 @@
+{
+  "name": "苍白之火",
+  "rarity": [
+    "4",
+    "5"
+  ],
+  "2pc": "造成的物理伤害提高25%。",
+  "4pc": "元素战技命中敌人后，攻击力提升9%。该效果持续7秒，至多叠加2层，每0.3秒至多触发一次。叠满2层时，2件套的效果提升100%。",
+  "flower": {
+    "name": "无垢之花",
+    "relictype": "生之花",
+    "description": "湛蓝而坚硬，永不凋败、永不褪色的人造花朵。"
+  },
+  "plume": {
+    "name": "贤医之羽",
+    "relictype": "死之羽",
+    "description": "边缘无比锐利的不祥翎羽，或许象征着异类的不羁。"
+  },
+  "sands": {
+    "name": "停摆之刻",
+    "relictype": "时之沙",
+    "description": "壳罩无法打开的怀表，会坚定地随着时光流逝而嘀嗒作响。"
+  },
+  "goblet": {
+    "name": "超越之盏",
+    "relictype": "空之杯",
+    "description": "从外观无从断定经历了多少岁月的精致杯盏。"
+  },
+  "circlet": {
+    "name": "嗤笑之面",
+    "relictype": "理之冠",
+    "description": "能将面目遮蔽，让人无从判断表情的面具。"
+  },
+  "images": {
+    "flower": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15018_4.png",
+    "plume": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15018_2.png",
+    "sands": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15018_5.png",
+    "goblet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15018_1.png",
+    "circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15018_3.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Pale_Flame"
+  },
+  "version": "1.5"
+}

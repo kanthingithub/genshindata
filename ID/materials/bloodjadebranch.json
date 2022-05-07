@@ -1,0 +1,20 @@
+{
+  "name": "Bloodjade Branch",
+  "description": "Dahan yang terbentuk dari kekuatan raja naga. Dahan ini memancarkan kilauan aneh dengan warna yang unik.\nKebencian yang mengalir melewati aliran air, menyatu dengan dinginnya cahaya rembulan. Dan dari situlah dahan kristal ini terbentuk...\nMeskipun dahan-dahan ini telah terpotong di dalam peperangan, namun darah naga yang terkandung di setiap sumsum dahan masih bergejolak tanpa henti.",
+  "sortorder": 1800,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Hadiah tantangan Azhdaha Lv. 70+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bloodjade_Branch.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Item_Bloodjade_Branch.png",
+    "nameicon": "UI_ItemIcon_113018"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bloodjade_Branch"
+  },
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Beere",
+  "description": "Eine Frucht in knalligen Farben, die man überall im Freien finden kann. Sie hilft dabei, die Müdigkeit auf der Reise zu überwinden.",
+  "sortorder": 1988,
+  "category": "EXCHANGE",
+  "materialtype": "Zutat",
+  "source": [
+    "In der freien Natur zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Berry.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/65/Item_Berry.png",
+    "nameicon": "UI_ItemIcon_100051"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Berry"
+  },
+  "version": ""
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Black Bronze Horn",
+  "description": "Terompet iblis yang terbuat dari logam, hanya bisa didapat dari Hilichurl yang kuat karena butuh tenaga yang besar untuk meniupnya.",
+  "sortorder": 1736,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Didapatkan melalui Craft",
+    "Dijatuhkan oleh Mitachurl Lv. 40",
+    "Dijatuhkan oleh Lawachurl Lv. 40+",
+    "Penukaran Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Black_Bronze_Horn.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/42/Item_Black_Bronze_Horn.png",
+    "nameicon": "UI_ItemIcon_112015"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Black_Bronze_Horn"
+  },
+  "version": ""
+}

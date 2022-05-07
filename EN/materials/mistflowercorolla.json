@@ -1,0 +1,20 @@
+{
+  "name": "Mist Flower Corolla",
+  "description": "A flower bud encased in solid ice. Even after being picked, the flower continues to emit cold.",
+  "sortorder": 1968,
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [
+    "Found in the wild",
+    "Recommendation: Found at Dawn Winery"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Flower_Corolla.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Item_Mist_Flower_Corolla.png",
+    "nameicon": "UI_ItemIcon_100052"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Flower_Corolla"
+  },
+  "version": ""
+}

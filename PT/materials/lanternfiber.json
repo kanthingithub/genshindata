@@ -1,0 +1,20 @@
+{
+  "name": "Fibra de Lanterna",
+  "description": "Material que pode ser utilizado durante o período do Ritual de Lanternas para fazer Lanternas Celestes.\nA fibra comum, depois de tratada, pode ser utilizada para fazer o revestimento da Lanterna Celeste, para que ela leve os desejos bons e voe para longe.",
+  "sortorder": 2287,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Material de Ritual de Lanternas",
+  "source": [
+    "Obtido de plantas coletáveis"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lantern_Fiber.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Item_Lantern_Fiber.png",
+    "nameicon": "UI_ItemIcon_200001"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lantern_Fiber"
+  },
+  "version": ""
+}

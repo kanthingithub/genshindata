@@ -1,0 +1,322 @@
+{
+  "name": "Domínio da Bênção: Chamas da Purificação",
+  "region": "Mondstadt",
+  "domainEntrance": "Jardim do Verão",
+  "domainType": "Artefatos",
+  "description": "O antigo altar abençoado está cheio de monstros que temem Pyro.\nVocê poderá obter Artefatos valiosos apenas se você passar no teste.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_1"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domínio da Bênção: Chamas da Purificação I",
+      "recommendedLevel": 34,
+      "recommendedElements": [
+        "Pyro"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1525
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 15
+        },
+        {
+          "name": "Aventureiro",
+          "rarity": "2"
+        },
+        {
+          "name": "Resolução de Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Aventureiro",
+          "rarity": "3"
+        }
+      ],
+      "disorder": [
+        "Quando a Fusão é ativada, ocorrerá uma Explosão de Energia, causando Dano aos oponentes ao redor."
+      ],
+      "monsterlist": [
+        "Slime Cryo",
+        "Grande Slime Cryo",
+        "Grande Slime Hydro",
+        "Hilichurl Guarda de Escudo de Madeira",
+        "Feiticeiro do Abismo Cryo"
+      ]
+    },
+    {
+      "name": "Domínio da Bênção: Chamas da Purificação II",
+      "recommendedLevel": 47,
+      "recommendedElements": [
+        "Pyro"
+      ],
+      "unlockRank": 25,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1700
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 15
+        },
+        {
+          "name": "Aventureiro",
+          "rarity": "2"
+        },
+        {
+          "name": "Resolução de Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Aventureiro",
+          "rarity": "3"
+        }
+      ],
+      "disorder": [
+        "Quando a Sobrecarga é ativada, ocorrerá uma Explosão de Energia, causando Dano aos oponentes ao redor.",
+        "Quando a reação de Supercondutor é ativada, você será atingido por uma explosão poderosa, causando Dano em seu personagem."
+      ],
+      "monsterlist": [
+        "Slime Electro",
+        "Grande Slime Electro",
+        "Grande Slime Mutante",
+        "Fatui - Feiticeira Cicin Electro"
+      ]
+    },
+    {
+      "name": "Domínio da Bênção: Chamas da Purificação III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Pyro"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 15
+        },
+        {
+          "name": "Resolução de Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Aventureiro",
+          "rarity": "3"
+        },
+        {
+          "name": "Trovão Furioso",
+          "rarity": "4"
+        },
+        {
+          "name": "Lançador de Trovões",
+          "rarity": "4"
+        },
+        {
+          "name": "Resolução de Sojourner",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Quando a Fusão é ativada, ocorrerá uma Explosão de Energia, causando Dano aos oponentes ao redor.",
+        "Quando a reação de Supercondutor é ativada, você será atingido por uma explosão poderosa, causando Dano em seu personagem."
+      ],
+      "monsterlist": [
+        "Slime Cryo",
+        "Grande Slime Cryo",
+        "Feiticeiro do Abismo Cryo"
+      ]
+    },
+    {
+      "name": "Domínio da Bênção: Chamas da Purificação IV",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "Pyro"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 20
+        },
+        {
+          "name": "Resolução de Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Aventureiro",
+          "rarity": "3"
+        },
+        {
+          "name": "Trovão Furioso",
+          "rarity": "4"
+        },
+        {
+          "name": "Lançador de Trovões",
+          "rarity": "4"
+        },
+        {
+          "name": "Resolução de Sojourner",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Quando a Vaporização é ativada, ocorrerá uma Explosão de Energia, causando Dano aos oponentes ao redor.",
+        "Quando a reação Eletricamente Carregado é ativada, você será atingido por uma explosão poderosa, causando Dano em seu personagem."
+      ],
+      "monsterlist": [
+        "Slime Hydro",
+        "Grande Slime Hydro",
+        "Samachurl Hydro",
+        "Feiticeiro do Abismo Hydro"
+      ]
+    },
+    {
+      "name": "Domínio da Bênção: Chamas da Purificação V",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Pyro"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 20
+        },
+        {
+          "name": "Resolução de Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Aventureiro",
+          "rarity": "3"
+        },
+        {
+          "name": "Trovão Furioso",
+          "rarity": "4"
+        },
+        {
+          "name": "Lançador de Trovões",
+          "rarity": "4"
+        },
+        {
+          "name": "Resolução de Sojourner",
+          "rarity": "4"
+        },
+        {
+          "name": "Trovão Furioso",
+          "rarity": "5"
+        },
+        {
+          "name": "Lançador de Trovões",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Quando a Fusão é ativada, ocorrerá uma Explosão de Energia, causando Dano aos oponentes ao redor.",
+        "Quando a reação de Supercondutor é ativada, você será atingido por uma explosão poderosa, causando Dano em seu personagem."
+      ],
+      "monsterlist": [
+        "Grande Slime Cryo",
+        "Feiticeiro do Abismo Cryo"
+      ]
+    },
+    {
+      "name": "Domínio da Bênção: Chamas da Purificação VI",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "Pyro"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 20
+        },
+        {
+          "name": "Resolução de Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Aventureiro",
+          "rarity": "3"
+        },
+        {
+          "name": "Trovão Furioso",
+          "rarity": "4"
+        },
+        {
+          "name": "Lançador de Trovões",
+          "rarity": "4"
+        },
+        {
+          "name": "Resolução de Sojourner",
+          "rarity": "4"
+        },
+        {
+          "name": "Trovão Furioso",
+          "rarity": "5"
+        },
+        {
+          "name": "Lançador de Trovões",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Quando a Sobrecarga é ativada, ocorrerá uma Explosão de Energia, causando Dano aos oponentes ao redor.",
+        "Quando a reação de Supercondutor é ativada, você será atingido por uma explosão poderosa, causando Dano em seu personagem."
+      ],
+      "monsterlist": [
+        "Grande Slime Electro",
+        "Grande Slime Mutante",
+        "Fatui - Feiticeira Cicin Electro"
+      ]
+    }
+  ]
+}

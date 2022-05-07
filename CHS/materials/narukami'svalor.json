@@ -1,0 +1,26 @@
+{
+  "name": "鸣神御灵的勇武",
+  "description": "赋予武器突破之力的材料。\n雷电之尊的重宝在于威严，威严由勇武与震怒体现，震怒源于心中的爱执，勇武则是震怒的权现。最终，无论何者，只要敢于挡住望向永恒的目光，只要敢于伤害稻妻的子民，就会成为她的敌人。\n据说御灵有四魂，仙狐有三匹，名刀有二本；而御建鸣神主尊大御所大人的威严之相，只会呈现为流星光底的无想一线。",
+  "sortorder": 2214,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "武器突破素材",
+  "dropdomain": "炼武秘境：砂之祭场",
+  "daysofweek": [
+    "周二",
+    "周五",
+    "周日"
+  ],
+  "source": [
+    "合成获得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Narukami's_Valor.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Narukami%27s_Valor.png",
+    "nameicon": "UI_ItemIcon_114032"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Narukami's_Valor"
+  },
+  "version": ""
+}

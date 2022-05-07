@@ -1,0 +1,23 @@
+{
+  "name": "尉官的徽记",
+  "description": "标识着尉官身份的徽记。愚人众拥有庞大的军队，能在其中担任尉官者，想必是有过人之处吧。",
+  "sortorder": 1752,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培养素材",
+  "source": [
+    "合成获得",
+    "60级以上愚人众·先遣队掉落",
+    "60级以上愚人众·债务处理人少量掉落",
+    "60级以上愚人众·萤术士少量掉落"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lieutenant's_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Item_Lieutenant%27s_Insignia.png",
+    "nameicon": "UI_ItemIcon_112034"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lieutenant's_Insignia"
+  },
+  "version": ""
+}

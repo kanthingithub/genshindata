@@ -1,0 +1,181 @@
+{
+  "name": "Rồng Biển Sâu - Nanh Băng",
+  "specialname": "Mãnh Thú Biển Sâu",
+  "enemytype": "BOSS",
+  "category": "Ma Thú Đột Biến",
+  "description": "Loài rồng sinh sống dưới biển sâu. Vì sự phân hóa xã hội, nên đã xuất hiện trạng thái nguyên tố Băng.\nSự xuất hiện của loài người đã dẫn đến phân tranh, Rồng Biển Sâu bắt đầu tiến hóa, cũng giống như loài kiến căn cứ theo giới tính và phân công để sản sinh ra các hình thái khác nhau vậy. Những con rồng này lớn mạnh hơn so với Rồng Biển Sâu thông thường.",
+  "investigation": {
+    "name": "Đàn Rồng Biển Sâu",
+    "category": "Thủ Lĩnh",
+    "description": "Đàn Rồng Biển Sâu hùng mạnh.\\nSức mạnh của chúng bắt nguồn từ sự bồi dưỡng và chọn lọc của dân cư Enkanomiya. Đương nhiên, chắc chắn không có con rồng nào cho rằng đây là một ân tình.\\nKẻ mạnh nhất trong đàn có thể điều khiển các loại nguyên tố khác nhau, trút cơn thịnh nộ của chúng lên những người đến đây.",
+    "lockdesc": "Ở nơi sâu thẳm của biển đen, chúng ẩn mình trong bóng tối chờ đến giờ săn bắt..."
+  },
+  "rewardpreview": [
+    {
+      "name": "EXP Mạo Hiểm",
+      "count": 200
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "EXP Yêu Thích"
+    },
+    {
+      "name": "Mảnh Ngọc Băng Vụn"
+    },
+    {
+      "name": "Mảnh Ngọc Băng Vỡ"
+    },
+    {
+      "name": "Miếng Ngọc Băng"
+    },
+    {
+      "name": "Ngọc Băng"
+    },
+    {
+      "name": "Vụn Tử Tinh Thắng Lợi"
+    },
+    {
+      "name": "Mảnh Tử Tinh Thắng Lợi"
+    },
+    {
+      "name": "Miếng Tử Tinh Thắng Lợi"
+    },
+    {
+      "name": "Tử Tinh Thắng Lợi"
+    },
+    {
+      "name": "Vảy Giả Tộc Rồng",
+      "count": 2.5556
+    },
+    {
+      "name": "Cuồng Chiến",
+      "rarity": "3"
+    },
+    {
+      "name": "Kẻ Lưu Đày",
+      "rarity": "3"
+    },
+    {
+      "name": "Người Tế Băng",
+      "rarity": "3"
+    },
+    {
+      "name": "Vật May Mắn",
+      "rarity": "3"
+    },
+    {
+      "name": "Lễ Bế Mạc Của Giác Đấu Sĩ",
+      "rarity": "4"
+    },
+    {
+      "name": "Đoàn Hát Lang Thang Đại Lục",
+      "rarity": "4"
+    },
+    {
+      "name": "Cuồng Chiến",
+      "rarity": "4"
+    },
+    {
+      "name": "Kẻ Lưu Đày",
+      "rarity": "4"
+    },
+    {
+      "name": "Người Tế Băng",
+      "rarity": "4"
+    },
+    {
+      "name": "Lễ Bế Mạc Của Giác Đấu Sĩ",
+      "rarity": "5"
+    },
+    {
+      "name": "Đoàn Hát Lang Thang Đại Lục",
+      "rarity": "5"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Drake_Deepsea_Ice"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 881.0399843046907,
+      "attack": 126.88865269049074,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 3470.028104937868,
+      "attack": 339.0138754666823,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 10213.499572310597,
+      "attack": 836.2498197051391,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 19019.639906194992,
+      "attack": 1365.8829744341056,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 34150.1626428226,
+      "attack": 2042.0693843711633,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 62922.38467672281,
+      "attack": 3149.136175426116,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 106307.30993484333,
+      "attack": 4434.621811969759,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 175825.15590836853,
+      "attack": 6121.785820403544,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 283639.40432211757,
+      "attack": 7876.325001969002,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 445203.44995088875,
+      "attack": 9515.686133175914,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 665520.2175113708,
+      "attack": 12311.044076510821,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 842348.7521036267,
+      "attack": 12555.48552251578,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 974323.225014478,
+      "attack": 12801.63840648823,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

@@ -1,0 +1,954 @@
+{
+  "name": "Xinyan",
+  "fullname": "Xinyan",
+  "title": "Mélodie ardente",
+  "description": "La seule et unique rockeuse de Liyue. Elle combat les préjugés avec sa musique et ses chansons passionnées.",
+  "rarity": "4",
+  "element": "Pyro",
+  "weapontype": "Épée à deux mains",
+  "substat": "ATQ",
+  "gender": "Femme",
+  "body": "GIRL",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Les fils rouges",
+  "birthdaymmdd": "10/16",
+  "birthday": "16 octobre",
+  "constellation": "Fila Ignium",
+  "cv": {
+    "english": "Laura Stahl",
+    "chinese": "王雅欣",
+    "japanese": "たかはし智秋",
+    "korean": "Kim Chae-ha"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Éclat d'agate agnidus",
+        "count": 1
+      },
+      {
+        "name": "Muguet bleu",
+        "count": 3
+      },
+      {
+        "name": "Insigne du Pilleur",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragment d'agate agnidus",
+        "count": 3
+      },
+      {
+        "name": "Graine de feu",
+        "count": 2
+      },
+      {
+        "name": "Muguet bleu",
+        "count": 10
+      },
+      {
+        "name": "Insigne du Pilleur",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragment d'agate agnidus",
+        "count": 6
+      },
+      {
+        "name": "Graine de feu",
+        "count": 4
+      },
+      {
+        "name": "Muguet bleu",
+        "count": 20
+      },
+      {
+        "name": "Insigne de corbeau en argent",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Morceau d'agate agnidus",
+        "count": 3
+      },
+      {
+        "name": "Graine de feu",
+        "count": 8
+      },
+      {
+        "name": "Muguet bleu",
+        "count": 30
+      },
+      {
+        "name": "Insigne de corbeau en argent",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Morceau d'agate agnidus",
+        "count": 6
+      },
+      {
+        "name": "Graine de feu",
+        "count": 12
+      },
+      {
+        "name": "Muguet bleu",
+        "count": 45
+      },
+      {
+        "name": "Insigne de corbeau en or",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Pierre d'agate agnidus",
+        "count": 6
+      },
+      {
+        "name": "Graine de feu",
+        "count": 20
+      },
+      {
+        "name": "Muguet bleu",
+        "count": 60
+      },
+      {
+        "name": "Insigne de corbeau en or",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Xinyan_Card.jpeg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/c/c8/Character_Xinyan_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xinyan.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xinyan.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201125/2020112516015894679.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201125/2020112516125848571.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/1a30faffb4b122f778b1ab4c7c39d6bf.png",
+    "nameicon": "UI_AvatarIcon_Xinyan",
+    "nameiconcard": "UI_AvatarIcon_Xinyan_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Xinyan",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Xinyan",
+    "namesideicon": "UI_AvatarIcon_Side_Xinyan"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Xinyan"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 939.1447143554688,
+      "attack": 20.835359573364258,
+      "defense": 66.9532470703125,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2412.6627765530284,
+      "attack": 53.52603886319366,
+      "defense": 172.00289210674237,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3114.2519489163096,
+      "attack": 69.09148476315704,
+      "defense": 222.02039393779705,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4664.779669902957,
+      "attack": 103.49065892812814,
+      "defense": 332.56019042042317,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5163.277289531863,
+      "attack": 114.55031793233957,
+      "defense": 368.0989401152474,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5939.011024212436,
+      "attack": 131.76032939085144,
+      "defense": 423.40233649808215,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6603.674476360873,
+      "attack": 146.5065433038153,
+      "defense": 470.7873386343126,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7379.408211041446,
+      "attack": 163.71655476232718,
+      "defense": 526.0907350171474,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7877.905769635196,
+      "attack": 174.7762128128643,
+      "defense": 561.6294770825771,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 8652.699979850819,
+      "attack": 191.96538048686034,
+      "defense": 616.8658931452665,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 9151.197538444569,
+      "attack": 203.02503853739745,
+      "defense": 652.4046504694852,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9926.930825306044,
+      "attack": 220.23504006083567,
+      "defense": 707.7080149265239,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 10425.428383899794,
+      "attack": 231.29469811137278,
+      "defense": 743.2467569919536,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 11201.162118580367,
+      "attack": 248.50470956988465,
+      "defense": 798.5501533747884,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.1",
+  "constellations": {
+    "c1": {
+      "name": "Accélération fatale",
+      "effect": "La VIT des attaques normales et chargées de Xinyan augmente de 12 % pendant 5 s lorsque Xinyan inflige un coup CRIT.\nCet effet ne peut être déclenché qu'une fois toutes les 5 s."
+    },
+    "c2": {
+      "name": "Ouverture impromptue",
+      "effect": "Le taux CRIT des DGT physiques de **Riff rebelle** augmente de 100 %. Un bouclier Niv.3 est de plus généré à l'activation."
+    },
+    "c3": {
+      "name": "Double corde",
+      "effect": "Niveau d'aptitude **Jeu fervent** +3.\nNiveau max : 15"
+    },
+    "c4": {
+      "name": "Rythme irrésistible",
+      "effect": "La RÉS physique des ennemis touchés par Xinyan au début de **Jeu fervent** est réduite de 15 % pendant 12 s."
+    },
+    "c5": {
+      "name": "Rappel fervent",
+      "effect": "Niveau d'aptitude **Riff rebelle** +3.\nNiveau max : 15"
+    },
+    "c6": {
+      "name": "Rock infernal",
+      "effect": "Réduit la consommation d'endurance des attaques chargées de Xinyan de 30 %. Xinyan obtient de plus un bonus d'ATQ équivalant à 50 % de sa DÉF lorsqu'elle exécute une attaque chargée."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xinyan_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xinyan_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Xinyan_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xinyan_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Xinyan_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xinyan_04.png",
+      "constellation": "Eff_UI_Talent_Xinyan"
+    },
+    "version": "1.1"
+  },
+  "talent": {
+    "name": "Xinyan",
+    "combat1": {
+      "name": "Attaque normale : Danse du feu",
+      "info": "**Attaque normale**\nEnchaîne jusqu'à 4 coups d'épée.\n\n**Attaque chargée**\nExécute une succession d'attaques tournoyantes contre les ennemis proches ; cette attaque consomme de l'endurance de façon continue.\nL'attaque chargée se termine sur un coup puissant.\n\n**Attaque plongeante**\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "attributes": [
+        {
+          "name": "DGT 1er coup",
+          "parameters": [
+            "76.54%",
+            "82.77%",
+            "89.00%",
+            "97.90%",
+            "104.13%",
+            "111.25%",
+            "121.04%",
+            "130.83%",
+            "140.62%",
+            "151.30%",
+            "161.98%",
+            "172.66%",
+            "183.34%",
+            "194.02%",
+            "204.70%"
+          ]
+        },
+        {
+          "name": "DGT 2e coup",
+          "parameters": [
+            "73.96%",
+            "79.98%",
+            "86.00%",
+            "94.60%",
+            "100.62%",
+            "107.50%",
+            "116.96%",
+            "126.42%",
+            "135.88%",
+            "146.20%",
+            "156.52%",
+            "166.84%",
+            "177.16%",
+            "187.48%",
+            "197.80%"
+          ]
+        },
+        {
+          "name": "DGT 3e coup",
+          "parameters": [
+            "95.46%",
+            "103.23%",
+            "111.00%",
+            "122.10%",
+            "129.87%",
+            "138.75%",
+            "150.96%",
+            "163.17%",
+            "175.38%",
+            "188.70%",
+            "202.02%",
+            "215.34%",
+            "228.66%",
+            "241.98%",
+            "255.30%"
+          ]
+        },
+        {
+          "name": "DGT 4e coup",
+          "parameters": [
+            "115.84%",
+            "125.27%",
+            "134.70%",
+            "148.17%",
+            "157.60%",
+            "168.38%",
+            "183.19%",
+            "198.01%",
+            "212.83%",
+            "228.99%",
+            "245.15%",
+            "261.32%",
+            "277.48%",
+            "293.65%",
+            "309.81%"
+          ]
+        },
+        {
+          "name": "DGT enchaînement attaque chargée",
+          "parameters": [
+            "62.55%",
+            "67.64%",
+            "72.73%",
+            "80.00%",
+            "85.09%",
+            "90.91%",
+            "98.91%",
+            "106.91%",
+            "114.91%",
+            "123.64%",
+            "132.36%",
+            "141.09%",
+            "149.82%",
+            "158.55%",
+            "167.27%"
+          ]
+        },
+        {
+          "name": "DGT coup final attaque chargée",
+          "parameters": [
+            "113.09%",
+            "122.29%",
+            "131.50%",
+            "144.65%",
+            "153.86%",
+            "164.37%",
+            "178.84%",
+            "193.31%",
+            "207.77%",
+            "223.55%",
+            "239.33%",
+            "255.11%",
+            "270.89%",
+            "286.67%",
+            "302.45%"
+          ]
+        },
+        {
+          "name": "Coût d'endurance attaque chargée",
+          "parameters": [
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s"
+          ]
+        },
+        {
+          "name": "Durée max",
+          "parameters": [
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s"
+          ]
+        },
+        {
+          "name": "DGT durant la chute",
+          "parameters": [
+            "74.59%",
+            "80.66%",
+            "86.73%",
+            "95.40%",
+            "101.47%",
+            "108.41%",
+            "117.95%",
+            "127.49%",
+            "137.03%",
+            "147.44%",
+            "157.85%",
+            "168.26%",
+            "178.66%",
+            "189.07%",
+            "199.48%"
+          ]
+        },
+        {
+          "name": "DGT chute basse/élevée",
+          "parameters": [
+            "149.14%/186.29%",
+            "161.28%/201.45%",
+            "173.42%/216.62%",
+            "190.77%/238.28%",
+            "202.91%/253.44%",
+            "216.78%/270.77%",
+            "235.86%/294.60%",
+            "254.93%/318.42%",
+            "274.01%/342.25%",
+            "294.82%/368.25%",
+            "315.63%/394.24%",
+            "336.44%/420.23%",
+            "357.25%/446.23%",
+            "378.06%/472.22%",
+            "398.87%/498.21%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Jeu fervent",
+      "info": "Xinyan brandit sa guitare, et inflige aux ennemis proches des DGT Pyro, et génère un bouclier grâce au soutien de l'audience.\nLe bouclier absorbe une quantité de PV proportionnelle à la DÉF de Xinyan et aux ennemis touchés :\n· 0 à 1 ennemi touché : Bouclier Niv.1\n· 2 ennemis touchés : Bouclier Niv.2\n· 3 ennemis touchés ou plus : Bouclier Niv.3, qui inflige en plus des DGT Pyro aux ennemis proches de façon intermittente.\n\nLe bouclier a les effets suivants :\n· Applique au moment de sa création l'élément Pyro à Xinyan ;\nLe bouclier est efficace à 250 % contre les DGT Pyro.",
+      "description": "Xinyan n'insiste jamais assez sur le fait que tous ces effets sont le pinacle de l'art de la scène, et qu'ils constituent un phénomène d'ordre physique n'ayant bien sûr rien à voir avec son œil divin.",
+      "attributes": [
+        {
+          "name": "DGT instrument",
+          "parameters": [
+            "169.60%",
+            "182.32%",
+            "195.04%",
+            "212.00%",
+            "224.72%",
+            "237.44%",
+            "254.40%",
+            "271.36%",
+            "288.32%",
+            "305.28%",
+            "322.24%",
+            "339.20%",
+            "360.40%",
+            "381.60%",
+            "402.80%"
+          ]
+        },
+        {
+          "name": "Absorption Bouclier Niv.1",
+          "parameters": [
+            "104.04% DÉF + 501",
+            "111.84% DÉF + 551",
+            "119.65% DÉF + 605",
+            "130.05% DÉF + 663",
+            "137.85% DÉF + 726",
+            "145.66% DÉF + 793",
+            "156.06% DÉF + 864",
+            "166.46% DÉF + 939",
+            "176.87% DÉF + 1018",
+            "187.27% DÉF + 1101",
+            "197.68% DÉF + 1189",
+            "208.08% DÉF + 1281",
+            "221.09% DÉF + 1377",
+            "234.09% DÉF + 1477",
+            "247.09% DÉF + 1581"
+          ]
+        },
+        {
+          "name": "Absorption bouclier Niv.2",
+          "parameters": [
+            "122.40% DÉF + 589",
+            "131.58% DÉF + 648",
+            "140.76% DÉF + 712",
+            "153.00% DÉF + 780",
+            "162.18% DÉF + 854",
+            "171.36% DÉF + 932",
+            "183.60% DÉF + 1016",
+            "195.84% DÉF + 1104",
+            "208.08% DÉF + 1197",
+            "220.32% DÉF + 1296",
+            "232.56% DÉF + 1399",
+            "244.80% DÉF + 1507",
+            "260.10% DÉF + 1620",
+            "275.40% DÉF + 1737",
+            "290.70% DÉF + 1860"
+          ]
+        },
+        {
+          "name": "Absorption bouclier Niv.3",
+          "parameters": [
+            "144.00% DÉF + 693",
+            "154.80% DÉF + 762",
+            "165.60% DÉF + 837",
+            "180.00% DÉF + 918",
+            "190.80% DÉF + 1005",
+            "201.60% DÉF + 1097",
+            "216.00% DÉF + 1195",
+            "230.40% DÉF + 1299",
+            "244.80% DÉF + 1409",
+            "259.20% DÉF + 1524",
+            "273.60% DÉF + 1646",
+            "288.00% DÉF + 1773",
+            "306.00% DÉF + 1905",
+            "324.00% DÉF + 2044",
+            "342.00% DÉF + 2188"
+          ]
+        },
+        {
+          "name": "DGT continus",
+          "parameters": [
+            "33.60%",
+            "36.12%",
+            "38.64%",
+            "42.00%",
+            "44.52%",
+            "47.04%",
+            "50.40%",
+            "53.76%",
+            "57.12%",
+            "60.48%",
+            "63.84%",
+            "67.20%",
+            "71.40%",
+            "75.60%",
+            "79.80%"
+          ]
+        },
+        {
+          "name": "Durée du bouclier",
+          "parameters": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s",
+            "18 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Riff rebelle",
+      "info": "Grattant son instrument avec passion, Xinyan libère une vague d'ondes qui repoussent les ennemis, et infligent aux ennemis proches des DGT physiques, au plus grand plaisir du public.\nL'ambiance se réchauffe tellement que des explosions ont lieu, infligeant aux ennemis proches des DGT Pyro.",
+      "description": "Xinyan avait autrefois pour habitude de terminer toutes ses représentations de cette manière. Ce n'est pas à cause du danger qu'elle s'est arrêtée, mais parce qu'elle n'avait pas de final encore plus épique à proposer dans le cas d'un nouveau rappel.",
+      "attributes": [
+        {
+          "name": "DGT compétence",
+          "parameters": [
+            "340.80%",
+            "366.36%",
+            "391.92%",
+            "426.00%",
+            "451.56%",
+            "477.12%",
+            "511.20%",
+            "545.28%",
+            "579.36%",
+            "613.44%",
+            "647.52%",
+            "681.60%",
+            "724.20%",
+            "766.80%",
+            "809.40%"
+          ]
+        },
+        {
+          "name": "DGT Pyro continus",
+          "parameters": [
+            "40.00%",
+            "43.00%",
+            "46.00%",
+            "50.00%",
+            "53.00%",
+            "56.00%",
+            "60.00%",
+            "64.00%",
+            "68.00%",
+            "72.00%",
+            "76.00%",
+            "80.00%",
+            "85.00%",
+            "90.00%",
+            "95.00%"
+          ]
+        },
+        {
+          "name": "Durée",
+          "parameters": [
+            "2 s",
+            "2 s",
+            "2 s",
+            "2 s",
+            "2 s",
+            "2 s",
+            "2 s",
+            "2 s",
+            "2 s",
+            "2 s",
+            "2 s",
+            "2 s",
+            "2 s",
+            "2 s",
+            "2 s"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "Énergie élémentaire",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "« Le spectacle doit continuer, même sans audience... »",
+      "info": "Réduit le nombre d'ennemis à toucher pour déclencher chaque niveau de bouclier de **Jeu fervent** :\n· 1 ennemi touché : Bouclier Niv.2.\n· 2 ennemis touchés ou plus : Bouclier Niv.3."
+    },
+    "passive2": {
+      "name": "« ... Ça, c'est du rock ! »",
+      "info": "Les DGT physiques infligés par les personnages sous la protection du bouclier généré par **Jeu fervent** augmentent de 15 %."
+    },
+    "passive3": {
+      "name": "Recette pour un tube",
+      "info": "12 % de chances d'obtenir un plat supplémentaire lorsque vous cuisinez un plat parfait qui renforce la DÉF."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseignement de l'Or",
+          "count": 3
+        },
+        {
+          "name": "Insigne du Pilleur",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide de l'Or",
+          "count": 2
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide de l'Or",
+          "count": 4
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide de l'Or",
+          "count": 6
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide de l'Or",
+          "count": 9
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie de l'Or",
+          "count": 4
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "count": 4
+        },
+        {
+          "name": "Corne de Monoceros Caeli",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie de l'Or",
+          "count": 6
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "count": 6
+        },
+        {
+          "name": "Corne de Monoceros Caeli",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie de l'Or",
+          "count": 12
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "count": 9
+        },
+        {
+          "name": "Corne de Monoceros Caeli",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie de l'Or",
+          "count": 16
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "count": 12
+        },
+        {
+          "name": "Corne de Monoceros Caeli",
+          "count": 2
+        },
+        {
+          "name": "Couronne de la sagesse",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Xinyan_01",
+      "combat3": "Skill_E_Xinyan_01_HD",
+      "passive1": "UI_Talent_S_Xinyan_05",
+      "passive2": "UI_Talent_S_Xinyan_06",
+      "passive3": "UI_Talent_Cook_Defense"
+    },
+    "version": "1.1"
+  }
+}

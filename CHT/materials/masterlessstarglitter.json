@@ -1,0 +1,20 @@
+{
+  "name": "無主的星輝",
+  "description": "可以在商城兌換稀有資源的貨幣。\n過剩的命運星之光輝。或許可以點亮宇宙其他角落。",
+  "sortorder": 496,
+  "rarity": "5",
+  "category": "CONSUME",
+  "materialtype": "高級兌換券",
+  "source": [
+    "祈願"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_221",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Masterless_Starglitter.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Masterless_Starglitter.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Masterless_Starglitter"
+  },
+  "version": ""
+}

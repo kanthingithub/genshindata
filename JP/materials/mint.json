@@ -1,0 +1,19 @@
+{
+  "name": "ミント",
+  "description": "清涼成分を含んだ植物の葉。爽やかでヒンヤリした味わいが暑さを取り除いてくれる。",
+  "sortorder": 1982,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "野外で採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mint.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Mint.png",
+    "nameicon": "UI_ItemIcon_100016"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mint"
+  },
+  "version": ""
+}

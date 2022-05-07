@@ -1,0 +1,20 @@
+{
+  "name": "Рис",
+  "description": "Зерновая культура, широко распространённая в Тейвате. Нет человека, который не восхищался бы формой и питательностью рисовых зёрен. Вот почему часто говорят: «Один и тот же рис способен вскормить сотню разных людей»",
+  "sortorder": 2007,
+  "category": "EXCHANGE",
+  "materialtype": "Кухонный ингредиент",
+  "source": [
+    "Лавки Ли Юэ",
+    "Торговые лавки Инадзумы"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Rice.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Item_Rice.png",
+    "nameicon": "UI_ItemIcon_100092"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Rice"
+  },
+  "version": ""
+}

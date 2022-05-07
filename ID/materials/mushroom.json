@@ -1,0 +1,19 @@
+{
+  "name": "Mushroom",
+  "description": "Jamur yang dapat ditemui di mana-mana, dapat tumbuh dengan mudah di tempat yang teduh dengan kelembapan yang tepat.",
+  "sortorder": 1977,
+  "category": "EXCHANGE",
+  "materialtype": "Bahan Masak",
+  "source": [
+    "Ditemukan di alam liar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mushroom.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Item_Mushroom.png",
+    "nameicon": "UI_ItemIcon_100011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mushroom"
+  },
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Luminescent Spine",
+  "description": "Bagian dari kunang-kunang yang memancarkan cahaya. Mereka menggunakannya untuk menarik lawan jenis, dan di dalam dunia pengobatan, digunakan untuk meningkatkan kekuatan.",
+  "sortorder": 1973,
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [
+    "Ditemukan di alam liar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Luminescent_Spine.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Item_Luminescent_Spine.png",
+    "nameicon": "UI_ItemIcon_100082"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Luminescent_Spine"
+  },
+  "version": ""
+}

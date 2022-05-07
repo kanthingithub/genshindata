@@ -1,0 +1,19 @@
+{
+  "name": "Túi Lưu Ly",
+  "description": "Đóa hoa nhỏ tràn đầy sinh lực, nghe nói hoa nở rũ xuống là để giữ lại hương thơm.",
+  "sortorder": 2054,
+  "category": "EXCHANGE",
+  "materialtype": "Đặc Sản Khu Vực Liyue",
+  "source": [
+    "Thu thập ở vách núi Liyue"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Violetgrass.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Violetgrass.png",
+    "nameicon": "UI_ItemIcon_100034"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Violetgrass"
+  },
+  "version": ""
+}

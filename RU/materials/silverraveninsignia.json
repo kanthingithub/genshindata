@@ -1,0 +1,22 @@
+{
+  "name": "Печать серебряного ворона",
+  "description": "Символ ворона, используемый членами банды Похитителей сокровищ для идентификации друг друга. Похитители сокровищ не спрашивают резюме. Любой, у кого есть непреодолимая жажда сокровищ, подкреплённая не меньшим количеством храбрости, может стать достойным членом банды.",
+  "sortorder": 1754,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Алхимия",
+    "Похитители сокровищ Ур. 40+",
+    "Покупается за Звёздную пыль"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Silver_Raven_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Item_Silver_Raven_Insignia.png",
+    "nameicon": "UI_ItemIcon_112036"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Silver_Raven_Insignia"
+  },
+  "version": ""
+}

@@ -1,0 +1,18 @@
+{
+  "name": "호감도 경험치",
+  "description": "호감도 경험치. 호감도 레벨을 올릴 때 필요하다",
+  "sortorder": 448,
+  "rarity": "3",
+  "category": "ITEM_VIRTUAL",
+  "materialtype": "호감도 성장",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_105",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Companionship_EXP.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Item_Companionship_EXP.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Companionship_EXP"
+  },
+  "version": ""
+}

@@ -1,0 +1,175 @@
+{
+  "name": "ดันเจี้ยนแห่งการต่อสู้: เมืองแห่งประกายน้ำ",
+  "region": "Mondstadt",
+  "domainEntrance": "สวนดอก Cecilia",
+  "domainType": "วัสดุเลื่อนขั้นอาวุธ",
+  "description": "ที่แท่นบูชายัญอันแสนหนาวเหน็บนี้มีพลังของธาตุน้ำอันมากมายมหาศาลอัดแน่นอยู่\nด้วยความชื้นอันหนาแน่นนี้ทำให้เวลาคูลดาวน์ของสกิลนานขึ้น\nหากว่าสามารถผ่านการทดสอบได้ล่ะก็ บางทีอาจจะได้รับวัตถุเสริมความแข็งแกร่งให้อุปกรณ์ก็เป็นได้",
+  "daysOfWeek": [
+    "วันจันทร์",
+    "วันพฤหัสบดี",
+    "วันอาทิตย์"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Water"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "ดันเจี้ยนแห่งการต่อสู้: เมืองแห่งประกายน้ำ I",
+      "recommendedLevel": 15,
+      "recommendedElements": [
+        "น้ำแข็ง",
+        "ไฟ",
+        "ไฟฟ้า"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1125
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 10
+        },
+        {
+          "name": "Tile of Decarabian's Tower"
+        }
+      ],
+      "disorder": [
+        "ตัวละครของคุณจะถูกโจมตีด้วย \"Slowing Water\" เป็นช่วง ๆ : ทำให้เวลาคูลดาวน์ของสกิลนานขึ้น จนกว่าจะกำจัดธาตุน้ำที่ติดอยู่กับตัวละครได้"
+      ],
+      "monsterlist": [
+        "Hydro Slime",
+        "Large Hydro Slime"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งการต่อสู้: เมืองแห่งประกายน้ำ II",
+      "recommendedLevel": 36,
+      "recommendedElements": [
+        "น้ำแข็ง",
+        "ไฟ",
+        "ไฟฟ้า"
+      ],
+      "unlockRank": 21,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1550
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Tile of Decarabian's Tower"
+        },
+        {
+          "name": "Debris of Decarabian's City"
+        }
+      ],
+      "disorder": [
+        "ตัวละครของคุณจะถูกโจมตีด้วย \"Slowing Water\" เป็นช่วง ๆ : ทำให้เวลาคูลดาวน์ของสกิลนานขึ้น จนกว่าจะกำจัดธาตุน้ำที่ติดอยู่กับตัวละครได้"
+      ],
+      "monsterlist": [
+        "Hydro Slime",
+        "Large Hydro Slime",
+        "Wooden Shield Hilichurl Guard"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งการต่อสู้: เมืองแห่งประกายน้ำ III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "น้ำแข็ง",
+        "ไฟ",
+        "ไฟฟ้า"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Tile of Decarabian's Tower"
+        },
+        {
+          "name": "Debris of Decarabian's City"
+        },
+        {
+          "name": "Fragment of Decarabian's Epic"
+        }
+      ],
+      "disorder": [
+        "ตัวละครของคุณจะถูกโจมตีด้วย \"Slowing Water\" เป็นช่วง ๆ : ทำให้เวลาคูลดาวน์ของสกิลนานขึ้น จนกว่าจะกำจัดธาตุน้ำที่ติดอยู่กับตัวละครได้"
+      ],
+      "monsterlist": [
+        "Hydro Slime",
+        "Large Hydro Slime",
+        "Hydro Samachurl",
+        "Hydro Abyss Mage"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งการต่อสู้: เมืองแห่งประกายน้ำ IV",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "น้ำแข็ง",
+        "ไฟ",
+        "ไฟฟ้า"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Tile of Decarabian's Tower"
+        },
+        {
+          "name": "Debris of Decarabian's City"
+        },
+        {
+          "name": "Fragment of Decarabian's Epic"
+        },
+        {
+          "name": "Scattered Piece of Decarabian's Dream"
+        }
+      ],
+      "disorder": [
+        "ตัวละครของคุณจะถูกโจมตีด้วย \"Slowing Water\" เป็นช่วง ๆ : ทำให้เวลาคูลดาวน์ของสกิลนานขึ้น จนกว่าจะกำจัดธาตุน้ำที่ติดอยู่กับตัวละครได้"
+      ],
+      "monsterlist": [
+        "Large Hydro Slime",
+        "Hydro Abyss Mage"
+      ]
+    }
+  ]
+}

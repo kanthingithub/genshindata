@@ -1,0 +1,20 @@
+{
+  "name": "Gloomy Statuette",
+  "description": "An idol made in the likeness of some unknown person.\nEven though this carving has seen many years pass, it still has not been damaged in any way. It seems that its previous owner must have cherished it like some holy icon.",
+  "sortorder": 1777,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Dropped by the Black Serpents",
+    "Stardust Exchange"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Gloomy_Statuette.png",
+    "nameicon": "UI_ItemIcon_112017"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Gloomy_Statuette"
+  },
+  "version": ""
+}

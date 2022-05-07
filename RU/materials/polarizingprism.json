@@ -1,0 +1,21 @@
+{
+  "name": "Поляризационная призма",
+  "description": "Отклоняющая лучи света призма.\nВ темноте такие призмы распространяют луч света по большей площади. Быть может, именно из-за этой особенности они способны принести толику покоя тем, чьи сердца объяты тьмой.",
+  "sortorder": 1770,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Алхимия",
+    "Зеркальные девы Фатуи Ур. 60+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Polarizing_Prism.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Item_Polarizing_Prism.png",
+    "nameicon": "UI_ItemIcon_112052"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Polarizing_Prism"
+  },
+  "version": ""
+}

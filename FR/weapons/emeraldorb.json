@@ -1,0 +1,307 @@
+{
+  "name": "Orbe jadien",
+  "description": "Un catalyseur sculpté dans la jadéite, produit au Karst Jueyun, au nord de Liyue. Petit et léger, résistant et durable, les gens l'appellent souvent « Boulette de jade ».",
+  "weapontype": "Catalyseur",
+  "rarity": "3",
+  "baseatk": 40,
+  "substat": "Maîtrise élémentaire",
+  "subvalue": "20",
+  "effectname": "Torrent",
+  "effect": [
+    "Augmente l'ATQ de [20 %] pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel ou Dispersion Hydro.",
+    "Augmente l'ATQ de [25 %] pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel ou Dispersion Hydro.",
+    "Augmente l'ATQ de [30 %] pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel ou Dispersion Hydro.",
+    "Augmente l'ATQ de [35 %] pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel ou Dispersion Hydro.",
+    "Augmente l'ATQ de [40 %] pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel ou Dispersion Hydro."
+  ],
+  "r1": [
+    "20 %"
+  ],
+  "r2": [
+    "25 %"
+  ],
+  "r3": [
+    "30 %"
+  ],
+  "r4": [
+    "35 %"
+  ],
+  "r5": [
+    "40 %"
+  ],
+  "weaponmaterialtype": "Guyun",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 5000
+      },
+      {
+        "name": "Sable lumineux de Guyun",
+        "count": 2
+      },
+      {
+        "name": "Dague de chasse rituelle",
+        "count": 2
+      },
+      {
+        "name": "Insigne du Pilleur",
+        "count": 1
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 10000
+      },
+      {
+        "name": "Roche lustrée de Guyun",
+        "count": 2
+      },
+      {
+        "name": "Dague de chasse rituelle",
+        "count": 8
+      },
+      {
+        "name": "Insigne du Pilleur",
+        "count": 5
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 15000
+      },
+      {
+        "name": "Roche lustrée de Guyun",
+        "count": 4
+      },
+      {
+        "name": "Dague rituelle de l'Usurier",
+        "count": 4
+      },
+      {
+        "name": "Insigne de corbeau en argent",
+        "count": 4
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Squelette sacré de Guyun",
+        "count": 2
+      },
+      {
+        "name": "Dague rituelle de l'Usurier",
+        "count": 8
+      },
+      {
+        "name": "Insigne de corbeau en argent",
+        "count": 6
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 25000
+      },
+      {
+        "name": "Squelette sacré de Guyun",
+        "count": 4
+      },
+      {
+        "name": "Grande dague de l'Inspecteur",
+        "count": 6
+      },
+      {
+        "name": "Insigne de corbeau en or",
+        "count": 4
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Corps divin de Guyun",
+        "count": 3
+      },
+      {
+        "name": "Grande dague de l'Inspecteur",
+        "count": 12
+      },
+      {
+        "name": "Insigne de corbeau en or",
+        "count": 8
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7c/Weapon_Emerald_Orb.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Jade.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Jade_Awaken.png",
+    "nameicon": "UI_EquipIcon_Catalyst_Jade",
+    "namegacha": "UI_Gacha_EquipIcon_Catalyst_Jade",
+    "nameawakenicon": "UI_EquipIcon_Catalyst_Jade_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Emerald_Orb"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 39.875099182128906,
+      "specialized": 20.399999618530273
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 52.8345083177137,
+      "specialized": 23.704798350524925
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 69.14342068886435,
+      "specialized": 27.805200199890123
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 85.53208698510934,
+      "specialized": 31.92600057029722
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 101.96062549041926,
+      "specialized": 36.046798508834854
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 121.46062549041926,
+      "specialized": 36.046798508834854
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 137.88917350269367,
+      "specialized": 40.16759887924195
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 154.3575842170685,
+      "specialized": 44.288399249649046
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 170.78612272237842,
+      "specialized": 48.40919718818668
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 187.21466122768834,
+      "specialized": 52.52999999046324
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 206.61466275356725,
+      "specialized": 52.52999999046324
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 223.04321076584165,
+      "specialized": 56.65079792900087
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 239.47175877811605,
+      "specialized": 60.77160073127743
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 258.97175877811605,
+      "specialized": 60.77160073127743
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 275.36041556739656,
+      "specialized": 64.89239866981507
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 291.74909137060604,
+      "specialized": 69.0131966083527
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 311.14909289648494,
+      "specialized": 69.0131966083527
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 327.4978774767005,
+      "specialized": 73.13399941062926
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 343.886534265981,
+      "specialized": 77.234398828125
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 363.386534265981,
+      "specialized": 77.234398828125
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 379.7353378601256,
+      "specialized": 81.35519676666263
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 396.08412244034116,
+      "specialized": 85.47599956893919
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 415.48411633682554,
+      "specialized": 85.47599956893919
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 431.87277312610604,
+      "specialized": 89.59680237121574
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 448.2215767202506,
+      "specialized": 93.71759544601446
+    }
+  },
+  "version": "1.0"
+}

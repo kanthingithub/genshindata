@@ -1,0 +1,312 @@
+{
+  "name": "Sacrificial Bow",
+  "description": "คันธนูนักล่าที่ตกแต่งสวยงาม และกลายเป็นหินด้วยกาลเวลา ของที่ตกแต่งคันธนูยังคงเห็นได้อยู่ และมันให้พลังกับผู้ใช้เพื่อรับมือกับสายลมแห่งเวลา",
+  "weapontype": "ธนู",
+  "rarity": "4",
+  "baseatk": 44,
+  "substat": "การฟื้นฟูพลังงาน",
+  "subvalue": "6.7",
+  "effectname": "Composed",
+  "effect": [
+    "หลังจากสร้างความเสียหายด้วยสกิลธาตุแล้ว จะมีโอกาส [40%] ที่จะรีเซ็ตเวลาคูลดาวน์ของสกิลนี้ ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก [30] วินาที",
+    "หลังจากสร้างความเสียหายด้วยสกิลธาตุแล้ว จะมีโอกาส [50%] ที่จะรีเซ็ตเวลาคูลดาวน์ของสกิลนี้ ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก [26] วินาที",
+    "หลังจากสร้างความเสียหายด้วยสกิลธาตุแล้ว จะมีโอกาส [60%] ที่จะรีเซ็ตเวลาคูลดาวน์ของสกิลนี้ ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก [22] วินาที",
+    "หลังจากสร้างความเสียหายด้วยสกิลธาตุแล้ว จะมีโอกาส [70%] ที่จะรีเซ็ตเวลาคูลดาวน์ของสกิลนี้ ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก [19] วินาที",
+    "หลังจากสร้างความเสียหายด้วยสกิลธาตุแล้ว จะมีโอกาส [80%] ที่จะรีเซ็ตเวลาคูลดาวน์ของสกิลนี้ ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก [16] วินาที"
+  ],
+  "r1": [
+    "40%",
+    "30"
+  ],
+  "r2": [
+    "50%",
+    "26"
+  ],
+  "r3": [
+    "60%",
+    "22"
+  ],
+  "r4": [
+    "70%",
+    "19"
+  ],
+  "r5": [
+    "80%",
+    "16"
+  ],
+  "weaponmaterialtype": "Boreal Wolf",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 5000
+      },
+      {
+        "name": "Boreal Wolf's Milk Tooth",
+        "count": 3
+      },
+      {
+        "name": "Dead Ley Line Branches",
+        "count": 3
+      },
+      {
+        "name": "Slime Condensate",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 15000
+      },
+      {
+        "name": "Boreal Wolf's Cracked Tooth",
+        "count": 3
+      },
+      {
+        "name": "Dead Ley Line Branches",
+        "count": 12
+      },
+      {
+        "name": "Slime Condensate",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Boreal Wolf's Cracked Tooth",
+        "count": 6
+      },
+      {
+        "name": "Dead Ley Line Leaves",
+        "count": 6
+      },
+      {
+        "name": "Slime Secretions",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Boreal Wolf's Broken Fang",
+        "count": 3
+      },
+      {
+        "name": "Dead Ley Line Leaves",
+        "count": 12
+      },
+      {
+        "name": "Slime Secretions",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 35000
+      },
+      {
+        "name": "Boreal Wolf's Broken Fang",
+        "count": 6
+      },
+      {
+        "name": "Ley Lines Sprouts",
+        "count": 9
+      },
+      {
+        "name": "Slime Concentrate",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Boreal Wolf's Nostalgia",
+        "count": 4
+      },
+      {
+        "name": "Ley Lines Sprouts",
+        "count": 18
+      },
+      {
+        "name": "Slime Concentrate",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Weapon_Sacrificial_Bow.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil_Awaken.png",
+    "nameicon": "UI_EquipIcon_Bow_Fossil",
+    "namegacha": "UI_Gacha_EquipIcon_Bow_Fossil",
+    "nameawakenicon": "UI_EquipIcon_Bow_Fossil_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sacrificial_Bow"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 43.734901428222656,
+      "specialized": 0.06666699796915054
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 59.17332359270131,
+      "specialized": 0.0774670476982795
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 78.72282048535817,
+      "specialized": 0.09086712058436053
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 98.5347338353804,
+      "specialized": 0.10433385563643682
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 118.56531627039294,
+      "specialized": 0.11780058274118765
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 144.46531588892321,
+      "specialized": 0.11780058274118765
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 164.62710394581518,
+      "specialized": 0.13126731779326395
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 184.96383978335507,
+      "specialized": 0.14473405284534024
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 205.43177081556132,
+      "specialized": 0.15820077995009107
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 225.98716531087848,
+      "specialized": 0.17166752294949283
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 251.9871672182271,
+      "specialized": 0.17166752294949283
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 272.6300460310813,
+      "specialized": 0.18513425005424367
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 293.3603883070464,
+      "specialized": 0.19860099305364542
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 319.2603898329253,
+      "specialized": 0.19860099305364542
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 340.0344638404458,
+      "specialized": 0.21206772015839626
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 360.8960221655034,
+      "specialized": 0.2255344472631471
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 386.79601606198776,
+      "specialized": 0.2255344472631471
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 407.70130611860077,
+      "specialized": 0.23900119026254885
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 428.6940596383247,
+      "specialized": 0.2524012552013044
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 454.6940596383247,
+      "specialized": 0.2524012552013044
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 475.6867923036225,
+      "specialized": 0.26586798230605524
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 496.723298409328,
+      "specialized": 0.279334725305457
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 522.6233075646014,
+      "specialized": 0.279334725305457
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 543.7035036930101,
+      "specialized": 0.29280146830485876
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 564.7837415302711,
+      "specialized": 0.30626817951495866
+    }
+  },
+  "version": "1.0"
+}

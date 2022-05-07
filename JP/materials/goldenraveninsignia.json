@@ -1,0 +1,21 @@
+{
+  "name": "ゴールドの鴉マーク",
+  "description": "宝盗団の信仰と誇りを示す鴉マーク。この広い大地、幽邃の深淵、未知な海に秘宝が存在していれば、宝盗団の信念は永遠に続く。",
+  "sortorder": 1755,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "キャラクター育成素材",
+  "source": [
+    "合成で獲得",
+    "宝盗団（Lv.60以上）でドロップ"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Golden_Raven_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Golden_Raven_Insignia.png",
+    "nameicon": "UI_ItemIcon_112037"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Golden_Raven_Insignia"
+  },
+  "version": ""
+}

@@ -1,0 +1,141 @@
+{
+  "name": "Ruin Guard",
+  "specialname": "Hu-04510",
+  "enemytype": "ELITE",
+  "category": "Automaton",
+  "description": "Mesin perang kuno berbentuk manusia.\nLegenda mengatakan bahwa mesin ini adalah robot tempur yang dibuat oleh bangsa yang telah lama hancur. Mereka sekarang mengembara di area reruntuhan dan puing-puing kuno, menyerang para pengembara yang gegabah. Penelitian menunjukkan bahwa Ruin Guard dan reruntuhan yang mereka lindungi tidak berasal dari asal usul yang sama, di antara keduanya terdapat selisih sekitar beberapa ribu tahun lamanya. Jadi, sebenarnya apa yang kemudian membuat Ruin Guard tetap tinggal di antara reruntuhan dan menggunakan \"senjata peledak\"nya untuk melindungi dinding yang telah runtuh dan ubin yang telah pecah ini?",
+  "investigation": {
+    "name": "Ruin Guard",
+    "category": "Elite",
+    "description": "Mesin perang berbentuk manusia dari masa kuno.\\nMereka diyakini adalah sisa-sisa dari kerajaan tua yang telah terlupakan. Tetapi, sebagian orang memiliki teori mereka sesungguhnya bukan dirancang sebagai mesin perang, melainkan sebagai pelindung reruntuhan.\\nTetapi teori itu tidak dapat menjelaskan mengapa mereka dilengkapi dengan senjata peledak di dalam reruntuhan yang seharusnya mereka jaga..."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Chaos Device",
+      "count": 2.6263
+    },
+    {
+      "name": "Chaos Circuit",
+      "count": 0.7003
+    },
+    {
+      "name": "Chaos Core",
+      "count": 0.1751
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "3"
+    },
+    {
+      "name": "The Exile",
+      "rarity": "3"
+    },
+    {
+      "name": "Traveling Doctor",
+      "rarity": "3"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "4"
+    },
+    {
+      "name": "The Exile",
+      "rarity": "4"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Defender_Noner_01"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 510.41895205993205,
+      "attack": 152.2663863116577,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 2006.2283750828065,
+      "attack": 406.8166587971864,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 6196.400008976692,
+      "attack": 1003.4998039648926,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 10309.60228639457,
+      "attack": 1639.0596025083796,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 18863.94624437671,
+      "attack": 2450.4833108624443,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 34975.389791473746,
+      "attack": 3778.963487027271,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 58668.78369178623,
+      "attack": 5321.546282113646,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 91363.8084617285,
+      "attack": 7346.143133227946,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 129960.09278351627,
+      "attack": 9451.590193737298,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 170478.60674195923,
+      "attack": 11418.823591017863,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 257355.85078069568,
+      "attack": 14773.25319093978,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 374516.19605185837,
+      "attack": 15066.582932085032,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 503904.21706368774,
+      "attack": 15361.966398832854,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

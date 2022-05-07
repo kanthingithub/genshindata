@@ -1,0 +1,312 @@
+{
+  "name": "Skyward Pride",
+  "description": "ดาบใหญ่ที่เป็นสัญลักษณ์แห่งความทรนงของ Dvalin ผ่านฟากฟ้า เมื่อเหวี่ยงมัน จะมีคลื่นเสียงต่ำที่เกิดจากพลังของฟ้าและพลังแห่งลมที่ซ่อนอยู่ภายใน",
+  "weapontype": "ดาบใหญ่",
+  "rarity": "5",
+  "baseatk": 48,
+  "substat": "การฟื้นฟูพลังงาน",
+  "subvalue": "8",
+  "effectname": "Sky-ripping Dragon Spine",
+  "effect": [
+    "เพิ่มความเสียหายที่สร้างขึ้น [8%]; หลังจากที่ปล่อยท่าไม้ตาย: เมื่อการโจมตีปกติหรือชาร์จโจมตีโดนเป้าหมายจะสร้างใบมีดสุญญากาศขึ้นมาและสร้างความเสียหาย [80%] ของพลังโจมตีให้แก่ศัตรูที่อยู่ในเส้นทางเป็นเวลา 20 วินาที หรือจนกว่าจะปล่อยใบมีดสุญญากาศถึง 8 ครั้ง",
+    "เพิ่มความเสียหายที่สร้างขึ้น [10%]; หลังจากที่ปล่อยท่าไม้ตาย: เมื่อการโจมตีปกติหรือชาร์จโจมตีโดนเป้าหมายจะสร้างใบมีดสุญญากาศขึ้นมาและสร้างความเสียหาย [100%] ของพลังโจมตีให้แก่ศัตรูที่อยู่ในเส้นทางเป็นเวลา 20 วินาที หรือจนกว่าจะปล่อยใบมีดสุญญากาศถึง 8 ครั้ง",
+    "เพิ่มความเสียหายที่สร้างขึ้น [12%]; หลังจากที่ปล่อยท่าไม้ตาย: เมื่อการโจมตีปกติหรือชาร์จโจมตีโดนเป้าหมายจะสร้างใบมีดสุญญากาศขึ้นมาและสร้างความเสียหาย [120%] ของพลังโจมตีให้แก่ศัตรูที่อยู่ในเส้นทางเป็นเวลา 20 วินาที หรือจนกว่าจะปล่อยใบมีดสุญญากาศถึง 8 ครั้ง",
+    "เพิ่มความเสียหายที่สร้างขึ้น [14%]; หลังจากที่ปล่อยท่าไม้ตาย: เมื่อการโจมตีปกติหรือชาร์จโจมตีโดนเป้าหมายจะสร้างใบมีดสุญญากาศขึ้นมาและสร้างความเสียหาย [140%] ของพลังโจมตีให้แก่ศัตรูที่อยู่ในเส้นทางเป็นเวลา 20 วินาที หรือจนกว่าจะปล่อยใบมีดสุญญากาศถึง 8 ครั้ง",
+    "เพิ่มความเสียหายที่สร้างขึ้น [16%]; หลังจากที่ปล่อยท่าไม้ตาย: เมื่อการโจมตีปกติหรือชาร์จโจมตีโดนเป้าหมายจะสร้างใบมีดสุญญากาศขึ้นมาและสร้างความเสียหาย [160%] ของพลังโจมตีให้แก่ศัตรูที่อยู่ในเส้นทางเป็นเวลา 20 วินาที หรือจนกว่าจะปล่อยใบมีดสุญญากาศถึง 8 ครั้ง"
+  ],
+  "r1": [
+    "8%",
+    "80%"
+  ],
+  "r2": [
+    "10%",
+    "100%"
+  ],
+  "r3": [
+    "12%",
+    "120%"
+  ],
+  "r4": [
+    "14%",
+    "140%"
+  ],
+  "r5": [
+    "16%",
+    "160%"
+  ],
+  "weaponmaterialtype": "Boreal Wolf",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 10000
+      },
+      {
+        "name": "Boreal Wolf's Milk Tooth",
+        "count": 5
+      },
+      {
+        "name": "Dead Ley Line Branches",
+        "count": 5
+      },
+      {
+        "name": "Slime Condensate",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Boreal Wolf's Cracked Tooth",
+        "count": 5
+      },
+      {
+        "name": "Dead Ley Line Branches",
+        "count": 18
+      },
+      {
+        "name": "Slime Condensate",
+        "count": 12
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Boreal Wolf's Cracked Tooth",
+        "count": 9
+      },
+      {
+        "name": "Dead Ley Line Leaves",
+        "count": 9
+      },
+      {
+        "name": "Slime Secretions",
+        "count": 9
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Boreal Wolf's Broken Fang",
+        "count": 5
+      },
+      {
+        "name": "Dead Ley Line Leaves",
+        "count": 18
+      },
+      {
+        "name": "Slime Secretions",
+        "count": 14
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 55000
+      },
+      {
+        "name": "Boreal Wolf's Broken Fang",
+        "count": 9
+      },
+      {
+        "name": "Ley Lines Sprouts",
+        "count": 14
+      },
+      {
+        "name": "Slime Concentrate",
+        "count": 9
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 65000
+      },
+      {
+        "name": "Boreal Wolf's Nostalgia",
+        "count": 6
+      },
+      {
+        "name": "Ley Lines Sprouts",
+        "count": 27
+      },
+      {
+        "name": "Slime Concentrate",
+        "count": 18
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Weapon_Skyward_Pride.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Dvalin.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Dvalin_Awaken.png",
+    "nameicon": "UI_EquipIcon_Claymore_Dvalin",
+    "namegacha": "UI_Gacha_EquipIcon_Claymore_Dvalin",
+    "nameawakenicon": "UI_EquipIcon_Claymore_Dvalin_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Skyward_Pride"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 47.5369987487793,
+      "specialized": 0.07999999821186066
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 65.03061573904415,
+      "specialized": 0.09295999319195758
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 87.32546729086016,
+      "specialized": 0.10904000038564199
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 110.14322193011867,
+      "specialized": 0.12520000177919854
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 133.2937397767564,
+      "specialized": 0.14135999363601215
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 164.39374015822614,
+      "specialized": 0.14135999363601215
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 187.97209398570067,
+      "specialized": 0.1575199950295687
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 211.88320535370258,
+      "specialized": 0.17367999642312526
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 236.07952937522532,
+      "specialized": 0.18983998827993886
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 260.56110005138,
+      "specialized": 0.20599999921023837
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 291.6611004328497,
+      "specialized": 0.20599999921023837
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 316.4278724288215,
+      "specialized": 0.22215999106705198
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 341.43233485871497,
+      "specialized": 0.23832000199735148
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 372.6323356216544,
+      "specialized": 0.23832000199735148
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 397.9220220387724,
+      "specialized": 0.2544799938541651
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 423.4018426691018,
+      "specialized": 0.2706399857109787
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 454.5018411432229,
+      "specialized": 0.2706399857109787
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 480.26690842818425,
+      "specialized": 0.2867999966412782
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 506.2220872589496,
+      "specialized": 0.30287999429821966
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 537.3220933624652,
+      "specialized": 0.30287999429821966
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 563.4674517412568,
+      "specialized": 0.31903998615503326
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 589.85050055397,
+      "specialized": 0.33519999708533277
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 620.9504913986966,
+      "specialized": 0.33519999708533277
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 647.5236744246213,
+      "specialized": 0.3513600080156323
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 674.3345478844676,
+      "specialized": 0.36751998079896
+    }
+  },
+  "version": "1.0"
+}

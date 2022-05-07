@@ -1,0 +1,261 @@
+{
+  "name": "ดันเจี้ยนแห่งพร: การไล่ล่า",
+  "region": "Inazuma",
+  "domainEntrance": "โถงใบไม้แดง",
+  "domainType": "อาร์ติแฟกต์",
+  "description": "ในแท่นบูชาที่ใบไม้สีแดงพลิ้วไหวตามสายลม เฉกเช่นฤดูร้อนและฤดูใบไม้ร่วงนี้ มีพื้นที่ที่เสริมความแข็งแกร่งให้กับ \"ธาตุน้ำแข็ง\" และ \"ธาตุไฟ\" อยู่\nผู้ที่สามารถใช้เคล็ดลับต่าง ๆ เพื่อผ่านการฝึกฝนได้ อาจได้รับอาร์ติแฟกต์ล้ำค่า เพื่อช่วยเสาะหาพันธะผูกพันที่ควรตัดขาดไปเสียตั้งแต่แรก",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_ThunderCave_Dq"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "ดันเจี้ยนแห่งพร: การไล่ล่า I",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "ไฟ",
+        "น้ำแข็ง"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "3"
+        },
+        {
+          "name": "Shimenawa's Reminiscence",
+          "rarity": "4"
+        },
+        {
+          "name": "Emblem of Severed Fate",
+          "rarity": "4"
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "4"
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "พื้นที่ท้าทายจะสลับระหว่างสภาวะ \"พรแห่งเปลวไฟ\" และ \"พรแห่งน้ำค้างแข็ง\" เป็นระยะ ตัวละครในพื้นที่ท้าทายที่เกี่ยวข้องจะได้รับเอฟเฟกต์ที่แตกต่างกันไปขึ้นอยู่กับสถานะ",
+        "พรแห่งเปลวไฟ: ตัวละครที่อยู่ในการต่อสู้ในขณะนั้นจะได้รับ โบนัสความเสียหายไฟ 60%",
+        "พรแห่งน้ำค้างแข็ง: ตัวละครที่อยู่ในการต่อสู้ในขณะนั้นจะได้รับ โบนัสความเสียหายน้ำแข็ง 60%"
+      ],
+      "monsterlist": [
+        "Hilichurl Berserker",
+        "Electro Hilichurl Grenadier",
+        "Electro Hilichurl Shooter",
+        "Electro Slime",
+        "Crackling Axe Mitachurl"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งพร: การไล่ล่า II",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "ไฟ",
+        "น้ำแข็ง"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "3"
+        },
+        {
+          "name": "Shimenawa's Reminiscence",
+          "rarity": "4"
+        },
+        {
+          "name": "Emblem of Severed Fate",
+          "rarity": "4"
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "4"
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "พื้นที่ท้าทายจะสลับระหว่างสภาวะ \"พรแห่งเปลวไฟ\" และ \"พรแห่งน้ำค้างแข็ง\" เป็นระยะ ตัวละครในพื้นที่ท้าทายที่เกี่ยวข้องจะได้รับเอฟเฟกต์ที่แตกต่างกันไปขึ้นอยู่กับสถานะ",
+        "พรแห่งเปลวไฟ: ตัวละครที่อยู่ในการต่อสู้ในขณะนั้นจะได้รับ โบนัสความเสียหายไฟ 60%",
+        "พรแห่งน้ำค้างแข็ง: ตัวละครที่อยู่ในการต่อสู้ในขณะนั้นจะได้รับ โบนัสความเสียหายน้ำแข็ง 60%"
+      ],
+      "monsterlist": [
+        "Electro Hilichurl Grenadier",
+        "Large Electro Slime",
+        "Mutant Electro Slime",
+        "Crackling Axe Mitachurl"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งพร: การไล่ล่า III",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "ไฟ",
+        "น้ำแข็ง"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "3"
+        },
+        {
+          "name": "Shimenawa's Reminiscence",
+          "rarity": "4"
+        },
+        {
+          "name": "Emblem of Severed Fate",
+          "rarity": "4"
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "4"
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "4"
+        },
+        {
+          "name": "Shimenawa's Reminiscence",
+          "rarity": "5"
+        },
+        {
+          "name": "Emblem of Severed Fate",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "พื้นที่ท้าทายจะสลับระหว่างสภาวะ \"พรแห่งเปลวไฟ\" และ \"พรแห่งน้ำค้างแข็ง\" เป็นระยะ ตัวละครในพื้นที่ท้าทายที่เกี่ยวข้องจะได้รับเอฟเฟกต์ที่แตกต่างกันไปขึ้นอยู่กับสถานะ",
+        "พรแห่งเปลวไฟ: ตัวละครที่อยู่ในการต่อสู้ในขณะนั้นจะได้รับ โบนัสความเสียหายไฟ 60%",
+        "พรแห่งน้ำค้างแข็ง: ตัวละครที่อยู่ในการต่อสู้ในขณะนั้นจะได้รับ โบนัสความเสียหายน้ำแข็ง 60%"
+      ],
+      "monsterlist": [
+        "Large Electro Slime",
+        "Mutant Electro Slime",
+        "Electro Abyss Mage"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งพร: การไล่ล่า IV",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "ไฟ",
+        "น้ำแข็ง"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "3"
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "3"
+        },
+        {
+          "name": "Shimenawa's Reminiscence",
+          "rarity": "4"
+        },
+        {
+          "name": "Emblem of Severed Fate",
+          "rarity": "4"
+        },
+        {
+          "name": "Resolution of Sojourner",
+          "rarity": "4"
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "4"
+        },
+        {
+          "name": "Shimenawa's Reminiscence",
+          "rarity": "5"
+        },
+        {
+          "name": "Emblem of Severed Fate",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "พื้นที่ท้าทายจะสลับระหว่างสภาวะ \"พรแห่งเปลวไฟ\" และ \"พรแห่งน้ำค้างแข็ง\" เป็นระยะ ตัวละครในพื้นที่ท้าทายที่เกี่ยวข้องจะได้รับเอฟเฟกต์ที่แตกต่างกันไปขึ้นอยู่กับสถานะ",
+        "พรแห่งเปลวไฟ: ตัวละครที่อยู่ในการต่อสู้ในขณะนั้นจะได้รับ โบนัสความเสียหายไฟ 60%",
+        "พรแห่งน้ำค้างแข็ง: ตัวละครที่อยู่ในการต่อสู้ในขณะนั้นจะได้รับ โบนัสความเสียหายน้ำแข็ง 60%"
+      ],
+      "monsterlist": [
+        "Large Electro Slime",
+        "Electro Abyss Mage",
+        "Thunderhelm Lawachurl"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Filosofia da Luz Celeste",
+  "description": "Material de Elevação de Talento.\nA luz é o anseio da terra do trovão.\nEmbora deva viver para sempre na Terra, a humanidade sempre buscará a luz. Os mortais procurarão e desafiarão seus limites, sem jamais parar. Uma eternidade imaculada pode parecer magnífica, mas sua essência é a morte.",
+  "sortorder": 1877,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Talento",
+  "dropdomain": "Domínio da Proficiência: Cidade Abandonada ao Kudzu",
+  "daysofweek": [
+    "Quarta-feira",
+    "Sábado",
+    "Domingo"
+  ],
+  "source": [
+    "Obtido na síntese"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Light.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Item_Philosophies_of_Light.png",
+    "nameicon": "UI_ItemIcon_104328"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Light"
+  },
+  "version": ""
+}

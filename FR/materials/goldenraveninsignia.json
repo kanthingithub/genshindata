@@ -1,0 +1,21 @@
+{
+  "name": "Insigne de corbeau en or",
+  "description": "Un insigne qui représente la fierté des Pilleurs de trésors. Ils ne reculeront jamais devant rien pour s'emparer du moindre trésor, qu'il soit enfoui sous de vastes plaines ou sous l'océan.",
+  "sortorder": 1755,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Synthèse",
+    "Butin de Pilleur de trésors (Niv.60+)"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Golden_Raven_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Golden_Raven_Insignia.png",
+    "nameicon": "UI_ItemIcon_112037"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Golden_Raven_Insignia"
+  },
+  "version": ""
+}

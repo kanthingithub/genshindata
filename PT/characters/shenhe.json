@@ -1,0 +1,951 @@
+{
+  "name": "Shenhe",
+  "fullname": "Shenhe",
+  "title": "Transcendência Solitária",
+  "description": "Uma discípula adepti com um ar muito incomum sobre ela. Tendo passado muito tempo vivendo em isolamento nas montanhas de Liyue, ela se tornou tão fria e distante quanto os próprios adepti.",
+  "rarity": "5",
+  "element": "Cryo",
+  "weapontype": "Lança",
+  "substat": "ATQ",
+  "gender": "Feminino",
+  "body": "LADY",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Retentora de Nuvem",
+  "birthdaymmdd": "3/10",
+  "birthday": "10 de março",
+  "constellation": "Crista Doloris",
+  "cv": {
+    "english": "Chelsea Kwoka",
+    "chinese": "秦紫翼",
+    "japanese": "川澄绫子",
+    "korean": "Lee Hyeon-jin"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Lasca de Jade Shivada",
+        "count": 1
+      },
+      {
+        "name": "Qingxin",
+        "count": 3
+      },
+      {
+        "name": "Néctar da Flor Gigante",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de Jade Shivada",
+        "count": 3
+      },
+      {
+        "name": "Barbatana Falsa do Dragão Herdeiro das Profundezas",
+        "count": 2
+      },
+      {
+        "name": "Qingxin",
+        "count": 10
+      },
+      {
+        "name": "Néctar da Flor Gigante",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de Jade Shivada",
+        "count": 6
+      },
+      {
+        "name": "Barbatana Falsa do Dragão Herdeiro das Profundezas",
+        "count": 4
+      },
+      {
+        "name": "Qingxin",
+        "count": 20
+      },
+      {
+        "name": "Néctar Brilhante",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Pedaço de Jade Shivada",
+        "count": 3
+      },
+      {
+        "name": "Barbatana Falsa do Dragão Herdeiro das Profundezas",
+        "count": 8
+      },
+      {
+        "name": "Qingxin",
+        "count": 30
+      },
+      {
+        "name": "Néctar Brilhante",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Pedaço de Jade Shivada",
+        "count": 6
+      },
+      {
+        "name": "Barbatana Falsa do Dragão Herdeiro das Profundezas",
+        "count": 12
+      },
+      {
+        "name": "Qingxin",
+        "count": 45
+      },
+      {
+        "name": "Néctar Elemental",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Gema de Jade Shivada",
+        "count": 6
+      },
+      {
+        "name": "Barbatana Falsa do Dragão Herdeiro das Profundezas",
+        "count": 20
+      },
+      {
+        "name": "Qingxin",
+        "count": 60
+      },
+      {
+        "name": "Néctar Elemental",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_AvatarIcon_Shenhe",
+    "nameiconcard": "UI_AvatarIcon_Shenhe_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Shenhe",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Shenhe",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png",
+    "namesideicon": "UI_AvatarIcon_Side_Shenhe",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Shenhe.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211226/2021122613552422734.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211226/2021122613553025678.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shenhe"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1011.4725341796875,
+      "attack": 23.64739990234375,
+      "defense": 64.61640167236328,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2623.7598559113394,
+      "attack": 61.34135773718299,
+      "defense": 167.61495247014864,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3491.006071731652,
+      "attack": 81.61538460791053,
+      "defense": 223.01895179876192,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5223.65858258761,
+      "attack": 122.12338203884428,
+      "defense": 333.7068516841464,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5839.8598765329225,
+      "attack": 136.52861160732573,
+      "defense": 373.0728489985995,
+      "specialized": 0.07199999690055847
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6718.829466291994,
+      "attack": 157.07820113017806,
+      "defense": 429.2244993404711,
+      "specialized": 0.07199999690055847
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7540.431028791994,
+      "attack": 176.2851713450218,
+      "defense": 481.7124983028734,
+      "specialized": 0.14399999380111694
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8428.503693869454,
+      "attack": 197.04758331744233,
+      "defense": 538.4456849211638,
+      "specialized": 0.14399999380111694
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9044.705109885079,
+      "attack": 211.4528147932724,
+      "defense": 577.8116822356169,
+      "specialized": 0.14399999380111694
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9940.869933365204,
+      "attack": 232.4044148052635,
+      "defense": 635.0618242235032,
+      "specialized": 0.14399999380111694
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10557.071105240204,
+      "attack": 246.80964246639633,
+      "defense": 674.4278367967454,
+      "specialized": 0.2160000056028366
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11463.350403262128,
+      "attack": 267.9977106139122,
+      "defense": 732.3241267793746,
+      "specialized": 0.2160000056028366
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12079.551575137128,
+      "attack": 282.402938275045,
+      "defense": 771.6901088350387,
+      "specialized": 0.2879999876022339
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12992.911632338306,
+      "attack": 303.7565487761749,
+      "defense": 830.0387424689397,
+      "specialized": 0.2879999876022339
+    }
+  },
+  "version": "2.4",
+  "constellations": {
+    "c1": {
+      "name": "Clareza do Coração",
+      "effect": "**Invocação Espiritual** pode ser utilizada mais uma vez."
+    },
+    "c2": {
+      "name": "Espírito Centrado",
+      "effect": "Prolonga a duração de **Encantamento da Donzela Divina** em 6s. Personagens ativos na AdE da Habilidade infligem 15% a mais de Dano Cryo CRIT."
+    },
+    "c3": {
+      "name": "Reclusão",
+      "effect": "Aumenta o nível de **Invocação Espiritual** em 3.\nNível máximo é 15."
+    },
+    "c4": {
+      "name": "Clarividência",
+      "effect": "Personagens que estejam sob o efeito de **Pena Gelada** de Shenhe farão com que, ao desencadearem o Dano Bônus de Pena Gelada, Shenhe obtenha uma carga de Firmamento Gelado:\n· Quando Shenhe lançar **Invocação Espiritual**, ela consumirá todos os Firmamentos Gelados, e de acordo com as cargas eliminadas, aumentará o Dano de Invocação Espiritual em 5% por cada carga consumida;\n· Esse efeito pode ser acumulado em até 50 vezes por 60s."
+    },
+    "c5": {
+      "name": "Divinização",
+      "effect": "Aumenta o nível de **Encantamento da Donzela Divina** em 3.\nNível máximo de elevação é 15."
+    },
+    "c6": {
+      "name": "Abandono Místico",
+      "effect": "Quando personagens desencadeiam os efeitos de **Pena Gelada** com Ataques Normais e Ataques Carregados, as cargas de Pena Gelada não serão consumidas."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shenhe_02.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shenhe_01.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Shenhe_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shenhe_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Shenhe_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shenhe_04.png",
+      "constellation": "Eff_UI_Talent_Shenhe"
+    },
+    "version": "2.4"
+  },
+  "talent": {
+    "name": "Shenhe",
+    "combat1": {
+      "name": "Ataque Normal: Perfuradora do Amanhecer",
+      "info": "**Ataque Normal**\nRealiza até 5 golpes com a lança.\n\n**Ataque Carregado**\nConsome uma certa quantidade de Stamina para se lançar para frente, infligindo Dano em seu trajeto.\n\n**Ataque Imersivo**\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+      "attributes": [
+        {
+          "name": "Dano do 1° Golpe",
+          "parameters": [
+            "43.26%",
+            "46.78%",
+            "50.30%",
+            "55.33%",
+            "58.85%",
+            "62.88%",
+            "68.41%",
+            "73.94%",
+            "79.47%",
+            "85.51%",
+            "91.55%",
+            "97.58%",
+            "103.62%",
+            "109.65%",
+            "115.69%"
+          ]
+        },
+        {
+          "name": "Dano do 2° Golpe",
+          "parameters": [
+            "40.25%",
+            "43.52%",
+            "46.80%",
+            "51.48%",
+            "54.76%",
+            "58.50%",
+            "63.65%",
+            "68.80%",
+            "73.94%",
+            "79.56%",
+            "85.18%",
+            "90.79%",
+            "96.41%",
+            "102.02%",
+            "107.64%"
+          ]
+        },
+        {
+          "name": "Dano do 3° Golpe",
+          "parameters": [
+            "53.32%",
+            "57.66%",
+            "62.00%",
+            "68.20%",
+            "72.54%",
+            "77.50%",
+            "84.32%",
+            "91.14%",
+            "97.96%",
+            "105.40%",
+            "112.84%",
+            "120.28%",
+            "127.72%",
+            "135.16%",
+            "142.60%"
+          ]
+        },
+        {
+          "name": "Dano do 4° Golpe",
+          "parameters": [
+            "26.32%+26.32%",
+            "28.46%+28.46%",
+            "30.60%+30.60%",
+            "33.66%+33.66%",
+            "35.80%+35.80%",
+            "38.25%+38.25%",
+            "41.62%+41.62%",
+            "44.98%+44.98%",
+            "48.35%+48.35%",
+            "52.02%+52.02%",
+            "55.69%+55.69%",
+            "59.36%+59.36%",
+            "63.04%+63.04%",
+            "66.71%+66.71%",
+            "70.38%+70.38%"
+          ]
+        },
+        {
+          "name": "Dano do 5° Golpe",
+          "parameters": [
+            "65.62%",
+            "70.96%",
+            "76.30%",
+            "83.93%",
+            "89.27%",
+            "95.38%",
+            "103.77%",
+            "112.16%",
+            "120.55%",
+            "129.71%",
+            "138.87%",
+            "148.02%",
+            "157.18%",
+            "166.33%",
+            "175.49%"
+          ]
+        },
+        {
+          "name": "Dano de Ataque Carregado",
+          "parameters": [
+            "110.67%",
+            "119.68%",
+            "128.69%",
+            "141.56%",
+            "150.57%",
+            "160.86%",
+            "175.02%",
+            "189.17%",
+            "203.33%",
+            "218.77%",
+            "234.22%",
+            "249.66%",
+            "265.10%",
+            "280.54%",
+            "295.99%"
+          ]
+        },
+        {
+          "name": "Consumo de Stamina de Ataque Carregado",
+          "parameters": [
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25"
+          ]
+        },
+        {
+          "name": "Dano Durante a Queda",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "Dano de Queda de Baixa/Alta Altitude",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Invocação Espiritual",
+      "info": "O orvalho gelado, prateado e denso, exorcizará todos os demônios.\nConcede a todos os personagens próximos o efeito de Pena Gelada, e de acordo com Pressionar ou Manter Pressionado, inflige Dano Cryo de maneiras diferentes.\n\n**Pressionar**\nAvança para frente com um Talismã de Espírito, infligindo Dano Cryo aos inimigos que estão no caminho.\n\n**Manter Pressionado**\nOrdena o Talismã de Espírito, infligindo Dano Cryo em uma AdE.\n\n**Pena Gelada**\nQuando Dano Cryo é infligido com Ataque Normal, Ataque Carregado, Ataque Imersivo, Habilidade Elemental ou Supremo, é obtido um aumento de Dano com base no ATQ de Shenhe.\n\nOs efeitos de Pena Gelada desaparecerão quando sua duração acabar ou depois de terem sido desencadeados um certo número de vezes. Manter Pressionado ao invés de Pressionar concede uma maior duração do efeito, bem como um número maior de cargas que pode ser ativado.\nQuando o Ataque com Dano Cryo atingir múltiplos inimigos, as cargas serão consumidas com base no número de inimigos atingidos. Os efeitos de Pena Gelada, bem com seu número em cada membro da equipe são contados independentemente.",
+      "description": "\"O poder dos espíritos não é uma enganação. Sob o fardo de suas ordens, a donzela divina continua sua missão.\"",
+      "attributes": [
+        {
+          "name": "Dano de Habilidade de Pressionar",
+          "parameters": [
+            "139.20%",
+            "149.64%",
+            "160.08%",
+            "174.00%",
+            "184.44%",
+            "194.88%",
+            "208.80%",
+            "222.72%",
+            "236.64%",
+            "250.56%",
+            "264.48%",
+            "278.40%",
+            "295.80%",
+            "313.20%",
+            "330.60%"
+          ]
+        },
+        {
+          "name": "Dano de Habilidade ao Manter Pressionado",
+          "parameters": [
+            "188.80%",
+            "202.96%",
+            "217.12%",
+            "236.00%",
+            "250.16%",
+            "264.32%",
+            "283.20%",
+            "302.08%",
+            "320.96%",
+            "339.84%",
+            "358.72%",
+            "377.60%",
+            "401.20%",
+            "424.80%",
+            "448.40%"
+          ]
+        },
+        {
+          "name": "Aumento de Dano",
+          "parameters": [
+            "45.66% de ATQ",
+            "49.08% de ATQ",
+            "52.50% de ATQ",
+            "57.07% de ATQ",
+            "60.49% de ATQ",
+            "63.92% de ATQ",
+            "68.48% de ATQ",
+            "73.05% de ATQ",
+            "77.62% de ATQ",
+            "82.18% de ATQ",
+            "86.75% de ATQ",
+            "91.31% de ATQ",
+            "97.02% de ATQ",
+            "102.73% de ATQ",
+            "108.43% de ATQ"
+          ]
+        },
+        {
+          "name": "Duração de Pressionar/Manter Pressionado",
+          "parameters": [
+            "10s/15s",
+            "10s/15s",
+            "10s/15s",
+            "10s/15s",
+            "10s/15s",
+            "10s/15s",
+            "10s/15s",
+            "10s/15s",
+            "10s/15s",
+            "10s/15s",
+            "10s/15s",
+            "10s/15s",
+            "10s/15s",
+            "10s/15s",
+            "10s/15s"
+          ]
+        },
+        {
+          "name": "Cargas de Pressionar/Manter Pressionado",
+          "parameters": [
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7"
+          ]
+        },
+        {
+          "name": "Recarga de Pressionar",
+          "parameters": [
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s"
+          ]
+        },
+        {
+          "name": "Recarga de Manter Pressionado",
+          "parameters": [
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s",
+            "15s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Encantamento da Donzela Divina",
+      "info": "Libera o poder do Talismã de Espírito, permitindo que ande livremente nesta terra, infligindo Dano Cryo em uma AdE.\nO Talismã de Espírito formará uma AdE em que a RES Cryo e RES Física dos inimigos serão reduzidas, e também infligirá Dano Cryo continuamente contra os inimigos dentro da AdE.",
+      "description": "\"O Caminho dos Adepti não para aqueles presos em mistérios e imaginação. Apenas ao observar as mudanças nos céus e na terra, e compreendendo as leis de causa e efeito deste mundo é que sua essência será entendida.\"",
+      "attributes": [
+        {
+          "name": "Dano de Habilidade",
+          "parameters": [
+            "100.80%",
+            "108.36%",
+            "115.92%",
+            "126.00%",
+            "133.56%",
+            "141.12%",
+            "151.20%",
+            "161.28%",
+            "171.36%",
+            "181.44%",
+            "191.52%",
+            "201.60%",
+            "214.20%",
+            "226.80%",
+            "239.40%"
+          ]
+        },
+        {
+          "name": "Redução de RES",
+          "parameters": [
+            "6.00%",
+            "7.00%",
+            "8.00%",
+            "9.00%",
+            "10.00%",
+            "11.00%",
+            "12.00%",
+            "13.00%",
+            "14.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%"
+          ]
+        },
+        {
+          "name": "Dano Contínuo",
+          "parameters": [
+            "33.12%",
+            "35.60%",
+            "38.09%",
+            "41.40%",
+            "43.88%",
+            "46.37%",
+            "49.68%",
+            "52.99%",
+            "56.30%",
+            "59.62%",
+            "62.93%",
+            "66.24%",
+            "70.38%",
+            "74.52%",
+            "78.66%"
+          ]
+        },
+        {
+          "name": "Duração",
+          "parameters": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        },
+        {
+          "name": "Tempo de Recarga",
+          "parameters": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "name": "Energia Elemental",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Preceito Divino",
+      "info": "Personagens ativos no campo de **Encantamento da Donzela Divina** terão um aumento de Bônus de Dano Cryo de 15%."
+    },
+    "passive2": {
+      "name": "Selo da Comunhão Espiritual",
+      "info": "Após Shenhe utilizar **Invocação Espiritual**, ela concederá a todos os membros próximos da equipe os seguintes efeitos:\n· Pressionar: Aumento de Dano da Habilidade Elemental e do Supremo em 15% por 10s;\n· Manter Pressionado: o Dano do Ataque Normal, Ataque Carregado e Ataque Imersivo aumenta em 15% por 15s."
+    },
+    "passive3": {
+      "name": "Chegada Pontual",
+      "info": "Ganha 25% mais recompensas quando enviada numa Expedição em Liyue por 20 horas."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Ensinamentos de Prosperidade",
+          "count": 3
+        },
+        {
+          "name": "Néctar da Flor Gigante",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guia de Prosperidade",
+          "count": 2
+        },
+        {
+          "name": "Néctar Brilhante",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guia de Prosperidade",
+          "count": 4
+        },
+        {
+          "name": "Néctar Brilhante",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guia de Prosperidade",
+          "count": 6
+        },
+        {
+          "name": "Néctar Brilhante",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guia de Prosperidade",
+          "count": 9
+        },
+        {
+          "name": "Néctar Brilhante",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofia de Prosperidade",
+          "count": 4
+        },
+        {
+          "name": "Néctar Elemental",
+          "count": 4
+        },
+        {
+          "name": "Borboleta das Chamas Infernais",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofia de Prosperidade",
+          "count": 6
+        },
+        {
+          "name": "Néctar Elemental",
+          "count": 6
+        },
+        {
+          "name": "Borboleta das Chamas Infernais",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofia de Prosperidade",
+          "count": 12
+        },
+        {
+          "name": "Néctar Elemental",
+          "count": 9
+        },
+        {
+          "name": "Borboleta das Chamas Infernais",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofia de Prosperidade",
+          "count": 16
+        },
+        {
+          "name": "Néctar Elemental",
+          "count": 12
+        },
+        {
+          "name": "Borboleta das Chamas Infernais",
+          "count": 2
+        },
+        {
+          "name": "Coroa da Sabedoria",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_03",
+      "combat2": "Skill_S_Shenhe_01",
+      "combat3": "Skill_E_Shenhe_01_HD",
+      "passive1": "UI_Talent_S_Shenhe_05",
+      "passive2": "UI_Talent_S_Shenhe_06",
+      "passive3": "UI_Talent_Expedition_Liyue"
+    },
+    "version": "2.4"
+  }
+}

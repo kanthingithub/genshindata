@@ -1,0 +1,224 @@
+{
+  "name": "Domínio da Bênção: Dança de Aço",
+  "region": "Mondstadt",
+  "domainEntrance": "Vale das Lembranças",
+  "domainType": "Artefatos",
+  "description": "O antigo altar abençoado está cheio de monstros que temem força pura.\nVocê poderá obter Artefatos valiosos apenas se você passar no teste.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_3"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domínio da Bênção: Dança de Aço I",
+      "recommendedLevel": 47,
+      "recommendedElements": [],
+      "unlockRank": 25,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1700
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 15
+        },
+        {
+          "name": "O Doutor Viajante",
+          "rarity": "2"
+        },
+        {
+          "name": "Pequeno Milagre",
+          "rarity": "3"
+        },
+        {
+          "name": "O Doutor Viajante",
+          "rarity": "3"
+        }
+      ],
+      "disorder": [
+        "O Dano Físico de todos os membros da equipe é aumentado em 75%."
+      ],
+      "monsterlist": [
+        "Ladrões de Tesouro - Mestre das Poções Cryo",
+        "Ladrões de Tesouro - Capanga",
+        "Ladrões de Tesouro - Saqueador das Tumbas",
+        "Ladrões de Tesouro - Homem do Mar",
+        "Ladrões de Tesouro - Pugilista"
+      ]
+    },
+    {
+      "name": "Domínio da Bênção: Dança de Aço II",
+      "recommendedLevel": 59,
+      "recommendedElements": [],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 15
+        },
+        {
+          "name": "Pequeno Milagre",
+          "rarity": "3"
+        },
+        {
+          "name": "O Doutor Viajante",
+          "rarity": "3"
+        },
+        {
+          "name": "Sombra Verde",
+          "rarity": "4"
+        },
+        {
+          "name": "Donzela Amada",
+          "rarity": "4"
+        },
+        {
+          "name": "Pequeno Milagre",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "O Dano Físico de todos os membros da equipe é aumentado em 75%."
+      ],
+      "monsterlist": [
+        "Fatui - Agente Pyro",
+        "Ladrões de Tesouro - Escolta",
+        "Ladrões de Tesouro - Mestre das Poções Pyro",
+        "Ladrões de Tesouro - Mestre das Poções Hydro",
+        "Ladrões de Tesouro - Capanga",
+        "Ladrões de Tesouro - Pugilista",
+        "Ladrões de Tesouro - Esmagador"
+      ]
+    },
+    {
+      "name": "Domínio da Bênção: Dança de Aço IV",
+      "recommendedLevel": 80,
+      "recommendedElements": [],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 20
+        },
+        {
+          "name": "Pequeno Milagre",
+          "rarity": "3"
+        },
+        {
+          "name": "O Doutor Viajante",
+          "rarity": "3"
+        },
+        {
+          "name": "Sombra Verde",
+          "rarity": "4"
+        },
+        {
+          "name": "Donzela Amada",
+          "rarity": "4"
+        },
+        {
+          "name": "Pequeno Milagre",
+          "rarity": "4"
+        },
+        {
+          "name": "Sombra Verde",
+          "rarity": "5"
+        },
+        {
+          "name": "Donzela Amada",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "O Dano Físico de todos os membros da equipe é aumentado em 75%."
+      ],
+      "monsterlist": [
+        "Fatui - Agente Pyro",
+        "Fatui - Feiticeira Cicin Electro",
+        "Ladrões de Tesouro - Mestre das Poções Pyro",
+        "Ladrões de Tesouro - Mestre das Poções Hydro",
+        "Ladrões de Tesouro - Mestre das Poções Electro",
+        "Ladrões de Tesouro - Mestre das Poções Cryo",
+        "Ladrões de Tesouro - Homem do Mar"
+      ]
+    },
+    {
+      "name": "Domínio da Bênção: Dança de Aço V",
+      "recommendedLevel": 90,
+      "recommendedElements": [],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 20
+        },
+        {
+          "name": "Pequeno Milagre",
+          "rarity": "3"
+        },
+        {
+          "name": "O Doutor Viajante",
+          "rarity": "3"
+        },
+        {
+          "name": "Sombra Verde",
+          "rarity": "4"
+        },
+        {
+          "name": "Donzela Amada",
+          "rarity": "4"
+        },
+        {
+          "name": "Pequeno Milagre",
+          "rarity": "4"
+        },
+        {
+          "name": "Sombra Verde",
+          "rarity": "5"
+        },
+        {
+          "name": "Donzela Amada",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "O Dano Físico de todos os membros da equipe é aumentado em 75%."
+      ],
+      "monsterlist": [
+        "Fatui - Agente Pyro",
+        "Fatui - Feiticeira Cicin Electro",
+        "Ladrões de Tesouro - Mestre das Poções Cryo"
+      ]
+    }
+  ]
+}

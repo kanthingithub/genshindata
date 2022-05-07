@@ -1,0 +1,19 @@
+{
+  "name": "Гриб",
+  "description": "Обычный гриб. Такие растут по всему Тейвату в тёмных местах с повышенной влажностью.",
+  "sortorder": 1977,
+  "category": "EXCHANGE",
+  "materialtype": "Кухонный ингредиент",
+  "source": [
+    "Дикая природа"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mushroom.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Item_Mushroom.png",
+    "nameicon": "UI_ItemIcon_100011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mushroom"
+  },
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Sunsettia",
+  "description": "Buah yang bulat dan indah, warnanya seperti matahari saat terbenam, dapat ditemukan di seluruh Teyvat. Kulitnya memiliki aroma manis yang dapat memulihkan tenaga.",
+  "sortorder": 1404,
+  "category": "NOTICE_ADD_HP",
+  "materialtype": "Makanan",
+  "source": [
+    "Ditemukan di alam liar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sunsettia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Item_Sunsettia.png",
+    "nameicon": "UI_ItemIcon_100002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sunsettia"
+  },
+  "version": ""
+}

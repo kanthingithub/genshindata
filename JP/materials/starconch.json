@@ -1,0 +1,19 @@
+{
+  "name": "星螺",
+  "description": "潮と共に砂浜についた螺。よく聞けば、思いが溢れる海の叫びが聞こえる。",
+  "sortorder": 2053,
+  "category": "EXCHANGE",
+  "materialtype": "璃月地域の特産",
+  "source": [
+    "璃月の海辺で採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Starconch.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Starconch.png",
+    "nameicon": "UI_ItemIcon_100033"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Starconch"
+  },
+  "version": ""
+}

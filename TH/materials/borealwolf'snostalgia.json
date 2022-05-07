@@ -1,0 +1,26 @@
+{
+  "name": "Boreal Wolf's Nostalgia",
+  "description": "วัสดุเลื่อนขั้นอาวุธ\nจ้าวแห่งหมาป่าผู้คิดว่าเหล่ามนุษย์นั้นน่ารังเกียจ คิดว่าตนเองนั้นไม่สามารถมอบชีวิตที่มีความสุขให้แก่มนุษย์ได้ ดังนั้นจึงไม่คู่ควรที่จะเป็นจ้าวแห่งสายลมของโลก สุดท้ายมันเลือกที่จะหายไป แต่ในความเป็นจริงนั้นกลับต่างออกไป มันมักจะเฝ้ามองเหล่าผู้ถูกทอดทิ้งด้วยสายตาที่อ่อนโยน",
+  "sortorder": 2190,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุเลื่อนขั้นอาวุธ",
+  "dropdomain": "ดันเจี้ยนแห่งการต่อสู้: หุบเขาลึกใต้บาดาล",
+  "daysofweek": [
+    "วันอังคาร",
+    "วันศุกร์",
+    "วันอาทิตย์"
+  ],
+  "source": [
+    "ได้รับจากการสรรสร้าง"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Boreal_Wolf's_Nostalgia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Item_Boreal_Wolf%27s_Nostalgia.png",
+    "nameicon": "UI_ItemIcon_114008"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Boreal_Wolf's_Nostalgia"
+  },
+  "version": ""
+}

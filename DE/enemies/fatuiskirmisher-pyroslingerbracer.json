@@ -1,0 +1,113 @@
+{
+  "name": "Fatui-Plänkler – Pyro-Kanonen-Freischärler",
+  "specialname": "Fatuus Decord",
+  "enemytype": "COMMON",
+  "category": "Fatui",
+  "description": "Ein Fatui-Soldat, der eine Flammenkanone bedient.\nIn gewissem Maß können die Waffen dieser Plänkler die Elemente kontrollieren, sodass ihre Kampfstrategie auch Elementarreaktionen umfassen.\nMit diesen Waffen und Kenntnissen sind Plänklerverbände keine zu unterschätzende Bedrohung.",
+  "investigation": {
+    "name": "Fatui – Plänkler",
+    "category": "Normal",
+    "description": "Ein Fatuus in einer Kriegsmaschine.\\nFür diese Plänkler ist das Überleben ungewiss. Ihr Ziel ist es, Aufträge in fremdem Territorium auszuführen, um die Grundsteine für künftige Unternehmungen ihrer Heimat zu legen.\\nAnders als einige besondere Elitesoldaten wie Schuldeneintreiber und Cicin-Zauberinnen haben Plänkler keine so große Stärke und gute Ausrüstung.\\nUm ihre Aufträge dennoch zu erfüllen und den Verschleiß an Mensch und Material einzudämmen, sind Plänkler eher für den Kampf im Verband vorgesehen."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Abzeichen für neue Rekruten",
+      "count": 4.202
+    },
+    {
+      "name": "Abzeichen für Unteroffiziere",
+      "count": 1.1205
+    },
+    {
+      "name": "Abzeichen für Offiziere",
+      "count": 0.28
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 218.7509794542566,
+      "attack": 76.13319315582885,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 859.8121607497742,
+      "attack": 203.4083293985932,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 2655.600003847154,
+      "attack": 501.7499019824463,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 4418.400979883387,
+      "attack": 819.5298012541898,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 8084.548390447162,
+      "attack": 1225.2416554312222,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 14989.452767774463,
+      "attack": 1889.4817435136356,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 25143.764439336956,
+      "attack": 2660.773141056823,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 39155.91791216936,
+      "attack": 3673.071566613973,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 55697.182621506974,
+      "attack": 4725.795096868649,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 73062.26003226824,
+      "attack": 5709.411795508931,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 110295.36462029815,
+      "attack": 7386.62659546989,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 160506.94116508216,
+      "attack": 7533.291466042516,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 215958.9501701519,
+      "attack": 7680.983199416427,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

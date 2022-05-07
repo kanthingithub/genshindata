@@ -1,0 +1,21 @@
+{
+  "name": "Ароматный кедр",
+  "description": "Древесина, полученная из кедра. Также известна как «ароматный кедр» благодаря содержащимся в нём ароматическим маслам.\nСлужит для изготовления декора.",
+  "sortorder": 1947,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Материал",
+  "source": [
+    "Дикая природа",
+    "Долина Звездопадов"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragrant_Cedar_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/65/Item_Fragrant_Cedar_Wood.png",
+    "nameicon": "UI_ItemIcon_101307"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fragrant_Cedar_Wood"
+  },
+  "version": ""
+}

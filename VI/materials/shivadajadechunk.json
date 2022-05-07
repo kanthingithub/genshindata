@@ -1,0 +1,22 @@
+{
+  "name": "Miếng Ngọc Băng",
+  "description": "Nguyên liệu đột phá nhân vật.\n\"...xin lỗi...\n\"Khiến các bạn phải cùng tôi gánh vác nỗi niềm đau thương của cả thế giới.\"",
+  "sortorder": 1844,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Cây Cấp Đông cấp 60 trở lên rơi",
+    "Băng Nguyên Bản cấp 60 trở lên rơi",
+    "Ghép Nhận"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shivada_Jade_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Item_Shivada_Jade_Chunk.png",
+    "nameicon": "UI_ItemIcon_104163"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shivada_Jade_Chunk"
+  },
+  "version": ""
+}

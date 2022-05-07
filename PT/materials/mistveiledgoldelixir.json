@@ -1,0 +1,26 @@
+{
+  "name": "Elixir de Ouro com Véu de Névoa",
+  "description": "Material de Ascensão de Armas.\nUma pílula de liga metálica criada pelos Adepti, infundida com o poder de Abhijna, capaz de conceder armas que transcendem poderes. No entanto, a pílula de metal raramente é vista no mundo devido à arrogância dos praticantes de artes marciais.",
+  "sortorder": 2201,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Ascensão de Armas",
+  "dropdomain": "Domínio da Forja: Ruínas Estrondosas",
+  "daysofweek": [
+    "Terça-feira",
+    "Sexta-feira",
+    "Domingo"
+  ],
+  "source": [
+    "Obtido na síntese"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Veiled_Gold_Elixir.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Item_Mist_Veiled_Gold_Elixir.png",
+    "nameicon": "UI_ItemIcon_114019"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Veiled_Gold_Elixir"
+  },
+  "version": ""
+}

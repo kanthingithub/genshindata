@@ -1,0 +1,19 @@
+{
+  "name": "クリーム",
+  "description": "牛乳を高速で混ぜて作った乳製品。美味しいお菓子を作る時の必須材料。",
+  "sortorder": 1526,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "食材加工で獲得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cream.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Item_Cream.png",
+    "nameicon": "UI_ItemIcon_110002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cream"
+  },
+  "version": ""
+}

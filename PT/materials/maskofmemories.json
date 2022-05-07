@@ -1,0 +1,18 @@
+{
+  "name": "Máscara de Reminescências",
+  "description": "Kazari, a sacerdotisa do Santuário, usava essa máscara. Ela está muito manchada na parte de dentro.\nAlgumas memórias estão contidas nela, e por elas é possível a arte de criar o Catalisador conhecido como \"Anel de Hakushin\".\nAgora que Kazari foi separada dessa máscara, Paimon não entende porque ainda a chamam de Sacerdotisa Mascarada.",
+  "sortorder": 2608,
+  "rarity": "4",
+  "category": "CONSUME",
+  "materialtype": "Diagrama de Forja",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_100865",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mask_of_Memories.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Mask_of_Memories.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mask_of_Memories"
+  },
+  "version": ""
+}

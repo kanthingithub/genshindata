@@ -1,0 +1,814 @@
+{
+  "name": "Sacarosa",
+  "fullname": "Sacarosa",
+  "title": "La Dulzura Inofensiva",
+  "description": "Una alquimista e investigadora de la escuela de bioalquimia que siente curiosidad por todo.",
+  "rarity": "4",
+  "element": "Anemo",
+  "weapontype": "Catalizador",
+  "substat": "Bono de Daño Anemo",
+  "gender": "Femenino",
+  "body": "GIRL",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Caballeros de Favonius",
+  "birthdaymmdd": "11/26",
+  "birthday": "26 de noviembre",
+  "constellation": "Ampulla",
+  "cv": {
+    "english": "Valeria Rodriguez",
+    "chinese": "小敢",
+    "japanese": "藤田茜",
+    "korean": "Kim Ha-young"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Pedacito de turquesa vayuda",
+        "count": 1
+      },
+      {
+        "name": "Margarita voladora",
+        "count": 3
+      },
+      {
+        "name": "Néctar de Megaflora",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de turquesa vayuda",
+        "count": 3
+      },
+      {
+        "name": "Semilla de huracán",
+        "count": 2
+      },
+      {
+        "name": "Margarita voladora",
+        "count": 10
+      },
+      {
+        "name": "Néctar de Megaflora",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de turquesa vayuda",
+        "count": 6
+      },
+      {
+        "name": "Semilla de huracán",
+        "count": 4
+      },
+      {
+        "name": "Margarita voladora",
+        "count": 20
+      },
+      {
+        "name": "Néctar brillante",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Trozo de turquesa vayuda",
+        "count": 3
+      },
+      {
+        "name": "Semilla de huracán",
+        "count": 8
+      },
+      {
+        "name": "Margarita voladora",
+        "count": 30
+      },
+      {
+        "name": "Néctar brillante",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Trozo de turquesa vayuda",
+        "count": 6
+      },
+      {
+        "name": "Semilla de huracán",
+        "count": 12
+      },
+      {
+        "name": "Margarita voladora",
+        "count": 45
+      },
+      {
+        "name": "Néctar energético",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Turquesa vayuda",
+        "count": 6
+      },
+      {
+        "name": "Semilla de huracán",
+        "count": 20
+      },
+      {
+        "name": "Margarita voladora",
+        "count": 60
+      },
+      {
+        "name": "Néctar energético",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Character_Sucrose_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Character_Sucrose_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Sucrose.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200723/2020072319115159476.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200723/2020072319142329434.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/4ffb3198b59f3ae36df71d4b938447af.png",
+    "nameicon": "UI_AvatarIcon_Sucrose",
+    "nameiconcard": "UI_AvatarIcon_Sucrose_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Sucrose",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Sucrose",
+    "namesideicon": "UI_AvatarIcon_Side_Sucrose"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sucrose"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 775.0223388671875,
+      "attack": 14.246399879455566,
+      "defense": 58.941749572753906,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 1991.032392984518,
+      "attack": 36.599001371839904,
+      "defense": 151.42135498967218,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2570.013777261862,
+      "attack": 47.242041075209045,
+      "defense": 195.4538562103753,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 3849.575491690717,
+      "attack": 70.76284420565798,
+      "defense": 292.7666720512534,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4260.95696141728,
+      "attack": 78.32500469760134,
+      "defense": 324.0529193046714,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 4901.12557888421,
+      "attack": 90.09253404139099,
+      "defense": 372.73881704308224,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5449.634306911554,
+      "attack": 100.17541406153259,
+      "defense": 414.4538210103674,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6089.802924378484,
+      "attack": 111.94294340532224,
+      "defense": 463.13971874877825,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6501.1843941050465,
+      "attack": 119.50510198991697,
+      "defense": 494.42597363159075,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7140.577675846696,
+      "attack": 131.25837917318268,
+      "defense": 543.0529057868662,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7551.959145573259,
+      "attack": 138.82053966512603,
+      "defense": 574.3391454108896,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8192.12739348074,
+      "attack": 150.58806221570285,
+      "defense": 623.0250150436841,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 8603.508985277615,
+      "attack": 158.1502227076462,
+      "defense": 654.3112699264966,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9243.677602744545,
+      "attack": 169.91775205143585,
+      "defense": 702.9971676649075,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Cúmulo de campo de vacío",
+      "effect": "Aumenta en 1 las cargas de **Creación del espíritu del viento: Experimento 6308**."
+    },
+    "c2": {
+      "name": "Bett: Forma no consolidada",
+      "effect": "Aumenta en 2 s la duración de **Creación prohibida del espíritu del viento: Isomorfo 75 tipo II**."
+    },
+    "c3": {
+      "name": "Alquimista infalible",
+      "effect": "Aumenta el nivel de habilidad de **Creación del espíritu del viento: Experimento 6308** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c4": {
+      "name": "Alquemanía",
+      "effect": "Por cada 7 veces consecutivas que Sacarosa golpee a un enemigo con sus Ataques Normales o Cargados, el TdE de **Creación del espíritu del viento: Experimento 6308** se reduce entre 1 y 7 s.\nComo máximo, cada golpe solo puede ocurrir una vez cada 0.1 s."
+    },
+    "c5": {
+      "name": "Precaución: Frasco ordinario",
+      "effect": "Aumenta el nivel de habilidad de **Creación prohibida del espíritu del viento: Isomorfo 75 tipo II** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c6": {
+      "name": "Entropía caótica",
+      "effect": "Si **Creación prohibida del espíritu del viento: Isomorfo 75 tipo II** desencadena un cambio elemental, todos los miembros del equipo obtienen un 20% de Bono de Daño Elemental del elemento al que se cambió mientras dure la habilidad."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sucrose_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sucrose_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Sucrose_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sucrose_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Sucrose_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Sucrose_04.png",
+      "constellation": "Eff_UI_Talent_Sucrose"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Sacarosa",
+    "combat1": {
+      "name": "Ataque Normal: Creación del espíritu del viento",
+      "info": "**Ataque Normal**\nRealiza hasta 4 ataques usando espíritus del viento, los cuales infligen Daño Anemo.\n\n**Ataque Cargado**\nConsume una cierta cantidad de Aguante e inflige Daño Anemo en el AdE después de un corto tiempo de lanzamiento.\n\n**Ataque Descendente**\nAl llamar a los espíritus del viento, Sacarosa se lanza desde el aire para golpear el suelo, dañando a todos los enemigos cercanos e infligiendo Daño Anemo en el AdE en el momento del impacto.",
+      "attributes": [
+        {
+          "name": "Daño de 1er golpe",
+          "parameters": [
+            "33.46%",
+            "35.97%",
+            "38.48%",
+            "41.83%",
+            "44.34%",
+            "46.85%",
+            "50.20%",
+            "53.54%",
+            "56.89%",
+            "60.24%",
+            "63.58%",
+            "66.93%",
+            "71.11%",
+            "75.29%",
+            "79.48%"
+          ]
+        },
+        {
+          "name": "Daño de 2.º golpe",
+          "parameters": [
+            "30.62%",
+            "32.91%",
+            "35.21%",
+            "38.27%",
+            "40.57%",
+            "42.86%",
+            "45.92%",
+            "48.99%",
+            "52.05%",
+            "55.11%",
+            "58.17%",
+            "61.23%",
+            "65.06%",
+            "68.89%",
+            "72.71%"
+          ]
+        },
+        {
+          "name": "Daño de 3er golpe",
+          "parameters": [
+            "38.45%",
+            "41.33%",
+            "44.22%",
+            "48.06%",
+            "50.94%",
+            "53.83%",
+            "57.67%",
+            "61.52%",
+            "65.36%",
+            "69.21%",
+            "73.05%",
+            "76.90%",
+            "81.70%",
+            "86.51%",
+            "91.31%"
+          ]
+        },
+        {
+          "name": "Daño de 4.º golpe",
+          "parameters": [
+            "47.92%",
+            "51.51%",
+            "55.11%",
+            "59.90%",
+            "63.49%",
+            "67.08%",
+            "71.88%",
+            "76.67%",
+            "81.46%",
+            "86.25%",
+            "91.04%",
+            "95.84%",
+            "101.82%",
+            "107.81%",
+            "113.80%"
+          ]
+        },
+        {
+          "name": "Daño de ATQ Cargado",
+          "parameters": [
+            "120.16%",
+            "129.17%",
+            "138.18%",
+            "150.20%",
+            "159.21%",
+            "168.22%",
+            "180.24%",
+            "192.26%",
+            "204.27%",
+            "216.29%",
+            "228.30%",
+            "240.32%",
+            "255.34%",
+            "270.36%",
+            "285.38%"
+          ]
+        },
+        {
+          "name": "Coste de Aguante de ATQ Cargado",
+          "parameters": [
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts.",
+            "50 pts."
+          ]
+        },
+        {
+          "name": "Daño de Caída",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "Daño de impacto de caída baja/alta",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Creación del espíritu del viento: Experimento 6308",
+      "info": "Invoca un pequeño espíritu del viento que atrae a enemigos y objetos al lugar de su ubicación, los lanza por los aires e inflige Daño Anemo.",
+      "description": "Esto es un poco vergonzoso, pero aunque las formas de vida elementales que nacieron a través de este procedimiento se disipan muy rápidamente, son increíblemente útiles cuando vas de aventura. Incluso los experimentos fallidos pueden tener aplicaciones prácticas.",
+      "attributes": [
+        {
+          "name": "Daño de habilidad",
+          "parameters": [
+            "211.20%",
+            "227.04%",
+            "242.88%",
+            "264.00%",
+            "279.84%",
+            "295.68%",
+            "316.80%",
+            "337.92%",
+            "359.04%",
+            "380.16%",
+            "401.28%",
+            "422.40%",
+            "448.80%",
+            "475.20%",
+            "501.60%"
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Creación prohibida del espíritu del viento: Isomorfo 75 tipo II",
+      "info": "Sacarosa arroja un brebaje inestable que crea un gran espíritu del viento.\nMientras dure, el espíritu del viento atrae a los enemigos y objetos cercanos, lanzándolos por los aires e infligiendo Daño Anemo.\n\n**Cambio elemental**\nSi el espíritu del viento entra en contacto con Hydro/Pyro /Cryo /Electro , infligirá Daño Elemental adicional de ese tipo.\nSolo puede ocurrir un cambio elemental en toda la duración de esta habilidad.",
+      "description": "Sacarosa solía dar nombres a sus volátiles Hipostasis Anemo. Pero el linaje de Hipostasis creció tan rápido que acabó superando al Barón Bunny n.º 893.",
+      "attributes": [
+        {
+          "name": "Daño continuo",
+          "parameters": [
+            "148.00%",
+            "159.10%",
+            "170.20%",
+            "185.00%",
+            "196.10%",
+            "207.20%",
+            "222.00%",
+            "236.80%",
+            "251.60%",
+            "266.40%",
+            "281.20%",
+            "296.00%",
+            "314.50%",
+            "333.00%",
+            "351.50%"
+          ]
+        },
+        {
+          "name": "Daño Elemental adicional",
+          "parameters": [
+            "44.00%",
+            "47.30%",
+            "50.60%",
+            "55.00%",
+            "58.30%",
+            "61.60%",
+            "66.00%",
+            "70.40%",
+            "74.80%",
+            "79.20%",
+            "83.60%",
+            "88.00%",
+            "93.50%",
+            "99.00%",
+            "104.50%"
+          ]
+        },
+        {
+          "name": "Duración",
+          "parameters": [
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s",
+            "6 s"
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s"
+          ]
+        },
+        {
+          "name": "Energía Elemental",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Conversión de catalizador",
+      "info": "Cuando Sacarosa cause una reacción de Torbellino, aumentará en 50 pts. la Maestría Elemental de todos los miembros del equipo (a excepción de Sacarosa) cuyo tipo elemental coincida con el elemento contra el que provocó dicho Torbellino. Este efecto tiene una duración de 8 s."
+    },
+    "passive2": {
+      "name": "Mollis Favonius",
+      "info": "Cuando Sacarosa ataca a un enemigo con **Creación del espíritu del viento: Experimento 6308** o **Creación prohibida del espíritu del viento: Isomorfo 75 tipo II**, aumenta durante 8 s la Maestría Elemental de todos los miembros del equipo (a excepción de Sacarosa) en proporción al 20% de la Maestría Elemental de Sacarosa."
+    },
+    "passive3": {
+      "name": "Invención inestable",
+      "info": "Al crear materiales para personaje y armas, hay una probabilidad del 10% de recibir el doble."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseñanzas de la libertad",
+          "count": 3
+        },
+        {
+          "name": "Néctar de Megaflora",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guía de la libertad",
+          "count": 2
+        },
+        {
+          "name": "Néctar brillante",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guía de la libertad",
+          "count": 4
+        },
+        {
+          "name": "Néctar brillante",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guía de la libertad",
+          "count": 6
+        },
+        {
+          "name": "Néctar brillante",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guía de la libertad",
+          "count": 9
+        },
+        {
+          "name": "Néctar brillante",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofía de la libertad",
+          "count": 4
+        },
+        {
+          "name": "Néctar energético",
+          "count": 4
+        },
+        {
+          "name": "Alma de Boreas",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofía de la libertad",
+          "count": 6
+        },
+        {
+          "name": "Néctar energético",
+          "count": 6
+        },
+        {
+          "name": "Alma de Boreas",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofía de la libertad",
+          "count": 12
+        },
+        {
+          "name": "Néctar energético",
+          "count": 9
+        },
+        {
+          "name": "Alma de Boreas",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofía de la libertad",
+          "count": 16
+        },
+        {
+          "name": "Néctar energético",
+          "count": 12
+        },
+        {
+          "name": "Alma de Boreas",
+          "count": 2
+        },
+        {
+          "name": "Corona de la sabiduría",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_Catalyst_MD",
+      "combat2": "Skill_S_Sucrose_01",
+      "combat3": "Skill_E_Sucrose_01_HD",
+      "passive1": "UI_Talent_S_Sucrose_05",
+      "passive2": "UI_Talent_S_Sucrose_06",
+      "passive3": "UI_Talent_Combine_Material"
+    },
+    "version": "1.0"
+  }
+}

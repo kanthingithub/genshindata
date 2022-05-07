@@ -1,0 +1,20 @@
+{
+  "name": "雷霆の念珠",
+  "description": "雷音権現が残した電気が秘められた雷の念珠。\n伝説によると、雷音権現は雷霆につれて、強大な怨恨に満ちた場所でのみ降り立つそうだ。それを駆動し、砕かれた大地で永遠に徘徊させ、貫天の雷を放つようにした者は、歌人のストーリーでは命が耐えられない失望と苦痛である。",
+  "sortorder": 1811,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "キャラクター育成素材",
+  "source": [
+    "雷音権現（Lv.30以上）でドロップ"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Storm_Beads.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Item_Storm_Beads.png",
+    "nameicon": "UI_ItemIcon_113029"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Storm_Beads"
+  },
+  "version": ""
+}

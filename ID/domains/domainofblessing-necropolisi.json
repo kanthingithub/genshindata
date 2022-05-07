@@ -1,0 +1,230 @@
+{
+  "name": "Domain of Blessing: Necropolis",
+  "region": "Inazuma",
+  "domainEntrance": "Slumbering Court",
+  "domainType": "Artefak",
+  "description": "Rumah besar yang sudah tak berpenghuni ini telah menjadi sarang bagi para monster dari segala penjuru.\nMereka yang bisa menggunakan petir abadi untuk menaklukkan cobaan ini akan mendapatkan artefak di dalamnya.",
+  "daysOfWeek": null,
+  "images": {},
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domain of Blessing: Necropolis I",
+      "recommendedLevel": 59,
+      "recommendedElements": null,
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "3"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Husk of Opulent Dreams",
+          "rarity": "4"
+        },
+        {
+          "name": "Ocean-Hued Clam",
+          "rarity": "4"
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        }
+      ],
+      "disorder": null,
+      "monsterlist": [
+        "Crackling Axe Mitachurl",
+        "Large Hydro Slime",
+        "Hydro Slime"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Necropolis II",
+      "recommendedLevel": 69,
+      "recommendedElements": null,
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "3"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Husk of Opulent Dreams",
+          "rarity": "4"
+        },
+        {
+          "name": "Ocean-Hued Clam",
+          "rarity": "4"
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        }
+      ],
+      "disorder": null,
+      "monsterlist": [
+        "Crackling Axe Mitachurl",
+        "Large Hydro Slime",
+        "Hydro Slime",
+        "Electro Hilichurl Shooter",
+        "Hilichurl Berserker"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Necropolis III",
+      "recommendedLevel": 80,
+      "recommendedElements": null,
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "3"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Husk of Opulent Dreams",
+          "rarity": "4"
+        },
+        {
+          "name": "Ocean-Hued Clam",
+          "rarity": "4"
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        },
+        {
+          "name": "Husk of Opulent Dreams",
+          "rarity": "5"
+        },
+        {
+          "name": "Ocean-Hued Clam",
+          "rarity": "5"
+        }
+      ],
+      "disorder": null,
+      "monsterlist": [
+        "Thundercraven Rifthound",
+        "Thundercraven Rifthound Whelp",
+        "Electro Hilichurl Shooter"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Necropolis IV",
+      "recommendedLevel": 90,
+      "recommendedElements": null,
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "3"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "3"
+        },
+        {
+          "name": "Husk of Opulent Dreams",
+          "rarity": "4"
+        },
+        {
+          "name": "Ocean-Hued Clam",
+          "rarity": "4"
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "4"
+        },
+        {
+          "name": "Brave Heart",
+          "rarity": "4"
+        },
+        {
+          "name": "Husk of Opulent Dreams",
+          "rarity": "5"
+        },
+        {
+          "name": "Ocean-Hued Clam",
+          "rarity": "5"
+        }
+      ],
+      "disorder": null,
+      "monsterlist": [
+        "Thundercraven Rifthound",
+        "Thundercraven Rifthound Whelp",
+        "Crackling Axe Mitachurl"
+      ]
+    }
+  ]
+}

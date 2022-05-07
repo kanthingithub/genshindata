@@ -1,0 +1,22 @@
+{
+  "name": "Leuchtender Nektar",
+  "description": "Nektar von hoher elementarer Konzentration.\nIn der Welt der Wissenschaft werden Vaniloquen als höhere pflanzliche Lebensformen eingestuft. Doch bis heute ist nicht geklärt, worauf ihre Fressgewohnheiten zurückzuführen sind.",
+  "sortorder": 1757,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Kann hergestellt werden",
+    "Beute von Vaniloquen ab Stufe 40",
+    "Mit Sternenstaub kaufen"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shimmering_Nectar.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Shimmering_Nectar.png",
+    "nameicon": "UI_ItemIcon_112039"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shimmering_Nectar"
+  },
+  "version": ""
+}

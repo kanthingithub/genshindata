@@ -1,0 +1,19 @@
+{
+  "name": "Conchas Estreladas",
+  "description": "Conchas do mar vazias trazidas para terra pelas marés. Segure-o perto do ouvido e ouça os apelos do mar.",
+  "sortorder": 2053,
+  "category": "EXCHANGE",
+  "materialtype": "Especialidade de Liyue",
+  "source": [
+    "Encontrado nas Costas de Liyue"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Starconch.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Starconch.png",
+    "nameicon": "UI_ItemIcon_100033"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Starconch"
+  },
+  "version": ""
+}

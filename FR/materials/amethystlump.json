@@ -1,0 +1,20 @@
+{
+  "name": "Morceau d'améthyste",
+  "description": "Un cristal non taillé qui ne peut être trouvé qu'à Inazuma. Un certain savoir-faire professionnel fera ressortir sa véritable valeur.",
+  "sortorder": 1961,
+  "category": "EXCHANGE",
+  "materialtype": "Minerai de forge",
+  "source": [
+    "Dans la nature",
+    "Zone conseillée : Île de Narukami"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Amethyst_Lump.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7d/Item_Amethyst_Lump.png",
+    "nameicon": "UI_ItemIcon_101008"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Amethyst_Lump"
+  },
+  "version": ""
+}

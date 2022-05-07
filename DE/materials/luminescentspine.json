@@ -1,0 +1,19 @@
+{
+  "name": "Leuchtmark",
+  "description": "Der leuchtende Teil von Glühwürmchen, die ihn zur Balz verwenden. Stärkt den menschlichen Körper.",
+  "sortorder": 1973,
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [
+    "In der freien Natur zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Luminescent_Spine.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/Item_Luminescent_Spine.png",
+    "nameicon": "UI_ItemIcon_100082"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Luminescent_Spine"
+  },
+  "version": ""
+}

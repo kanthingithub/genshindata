@@ -1,0 +1,26 @@
+{
+  "name": "Pedaços de Sonho da Decarabian",
+  "description": "Material de Ascensão de Armas.\nO povo não se curvou ao Rei Decarabian por respeito ou adoração, mas devido aos ventos fortes. Essa foi a ambição e os sonhos despedaçados do Arconte Anemo antes de Barbatos.\nEle se esforçou tanto para que o sonho se tornasse realidade, que os fragmentos desse sonho ainda fossem poderosos.",
+  "sortorder": 2186,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Ascensão de Armas",
+  "dropdomain": "Domínio da Forja: Cidade das Reflexões",
+  "daysofweek": [
+    "Segunda-feira",
+    "Quinta-feira",
+    "Domingo"
+  ],
+  "source": [
+    "Obtido na síntese"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Scattered_Piece_of_Decarabian's_Dream.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Item_Scattered_Piece_of_Decarabian%27s_Dream.png",
+    "nameicon": "UI_ItemIcon_114004"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Scattered_Piece_of_Decarabian's_Dream"
+  },
+  "version": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Old Handguard",
+  "description": "Pelindung tangan yang digunakan dalam pertempuran yang juga pernah terpasang pada sebilah pedang orang Inazuma.\nBagi mereka yang mahir dalam seni pedang, pelindung tangan ini dapat digunakan untuk menahan pedang musuh. Tapi bagi seorang pemula, pelindung tangan lebih berguna untuk menahan serangan diri mereka sendiri.",
+  "sortorder": 1762,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Dijatuhkan oleh Nobushi",
+    "Penukaran Stardust"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Old_Handguard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Item_Old_Handguard.png",
+    "nameicon": "UI_ItemIcon_112044"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Old_Handguard"
+  },
+  "version": ""
+}

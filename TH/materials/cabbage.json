@@ -1,0 +1,20 @@
+{
+  "name": "Cabbage",
+  "description": "ผักที่มีใบซ้อนทับกันเป็นชั้นๆ ว่ากันว่าเคยเป็นพืชที่มีความงดงาม ปัจจุบันเมื่อนำมาทำเป็นอาหารก็ดูดีไม่น้อย",
+  "sortorder": 1984,
+  "category": "EXCHANGE",
+  "materialtype": "วัตถุดิบประกอบอาหาร",
+  "source": [
+    "พบได้ในโลกกว้าง",
+    "ซื้อจากร้านขายของชำ"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cabbage.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/ca/Item_Cabbage.png",
+    "nameicon": "UI_ItemIcon_100018"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cabbage"
+  },
+  "version": ""
+}

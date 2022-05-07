@@ -1,0 +1,171 @@
+{
+  "name": "Domain of Mastery: Reruntuhan Kota Tua",
+  "region": "Inazuma",
+  "domainEntrance": "Violet Court",
+  "domainType": "Material Penguatan Talenta",
+  "description": "Para monster telah menyerbu altar di mana bunga sakura berwarna ungu mekar abadi.\nKamu berhak memperoleh Material Penguatan Talenta, apabila kamu berhasil melewati tantangan ini.",
+  "daysOfWeek": [
+    "Rabu",
+    "Sabtu",
+    "Minggu"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Thunder_Dq"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domain of Mastery: Reruntuhan Kota Tua I",
+      "recommendedLevel": 38,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1575
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Teachings of Light"
+        }
+      ],
+      "disorder": [
+        "Meningkatkan 25% Electro DMG seluruh Karakter dalam party.",
+        "Di dalam tantangan ini terdapat Electro Crystalfruit yang memberikan Nascent Electro Pearl secara berkala. Setelah mengambil Nascent Electro Pearl, maka Normal Attack, Charged Attack, Plunging Attack, Elemental Skill dan Elemental Burst Karakter akan melancarkan Falling Thunder yang mengakibatkan Electro DMG saat mengenai musuh."
+      ],
+      "monsterlist": [
+        "Hilichurl",
+        "Electro Hilichurl Grenadier",
+        "Electro Hilichurl Shooter",
+        "Crackling Axe Mitachurl"
+      ]
+    },
+    {
+      "name": "Domain of Mastery: Reruntuhan Kota Tua II",
+      "recommendedLevel": 54,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 28,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1800
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Teachings of Light"
+        },
+        {
+          "name": "Guide to Light"
+        }
+      ],
+      "disorder": [
+        "Meningkatkan 25% Electro DMG seluruh Karakter dalam party.",
+        "Di dalam tantangan ini terdapat Electro Crystalfruit yang memberikan Nascent Electro Pearl secara berkala. Setelah mengambil Nascent Electro Pearl, maka Normal Attack, Charged Attack, Plunging Attack, Elemental Skill dan Elemental Burst Karakter akan melancarkan Falling Thunder yang mengakibatkan Electro DMG saat mengenai musuh."
+      ],
+      "monsterlist": [
+        "Nobushi: Jintouban",
+        "Nobushi: Hitsukeban",
+        "Nobushi: Kikouban",
+        "Treasure Hoarder: Pyro Potioneer",
+        "Treasure Hoarder: Electro Potioneer"
+      ]
+    },
+    {
+      "name": "Domain of Mastery: Reruntuhan Kota Tua III",
+      "recommendedLevel": 71,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 36,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2050
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Teachings of Light"
+        },
+        {
+          "name": "Guide to Light"
+        }
+      ],
+      "disorder": [
+        "Meningkatkan 25% Electro DMG seluruh Karakter dalam party.",
+        "Di dalam tantangan ini terdapat Electro Crystalfruit yang memberikan Nascent Electro Pearl secara berkala. Setelah mengambil Nascent Electro Pearl, maka Normal Attack, Charged Attack, Plunging Attack, Elemental Skill dan Elemental Burst Karakter akan melancarkan Falling Thunder yang mengakibatkan Electro DMG saat mengenai musuh."
+      ],
+      "monsterlist": [
+        "Nobushi: Hitsukeban",
+        "Nobushi: Kikouban",
+        "Treasure Hoarder: Pyro Potioneer",
+        "Treasure Hoarder: Electro Potioneer",
+        "Kairagi: Fiery Might"
+      ]
+    },
+    {
+      "name": "Domain of Mastery: Reruntuhan Kota Tua IV",
+      "recommendedLevel": 88,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2375
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Teachings of Light"
+        },
+        {
+          "name": "Guide to Light"
+        },
+        {
+          "name": "Philosophies of Light"
+        }
+      ],
+      "disorder": [
+        "Meningkatkan 25% Electro DMG seluruh Karakter dalam party.",
+        "Di dalam tantangan ini terdapat Electro Crystalfruit yang memberikan Nascent Electro Pearl secara berkala. Setelah mengambil Nascent Electro Pearl, maka Normal Attack, Charged Attack, Plunging Attack, Elemental Skill dan Elemental Burst Karakter akan melancarkan Falling Thunder yang mengakibatkan Electro DMG saat mengenai musuh."
+      ],
+      "monsterlist": [
+        "Treasure Hoarder: Cryo Potioneer",
+        "Kairagi: Dancing Thunder",
+        "Kairagi: Fiery Might"
+      ]
+    }
+  ]
+}

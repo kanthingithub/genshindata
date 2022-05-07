@@ -1,0 +1,22 @@
+{
+  "name": "Fragment de plaustrite",
+  "description": "Matériau de fabrication des lanternes célestes utilisé lors du Festival des lanternes.\nUn mystérieux fragment élémentaire capable de léviter. Il s'agit là du secret des lanternes volantes. Il parait que c'est également ce qui permet à la Chambre de Jade de flotter dans les airs.",
+  "sortorder": 2289,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Matériau du Festival des lanternes",
+  "source": [
+    "Collecte de minerai",
+    "Butin de Jeunes Géosaure et de Géosaure",
+    "Butin de Chef Brutorocheux"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Plaustrite_Shard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/78/Item_Plaustrite_Shard.png",
+    "nameicon": "UI_ItemIcon_200003"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Plaustrite_Shard"
+  },
+  "version": ""
+}

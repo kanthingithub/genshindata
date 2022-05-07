@@ -1,0 +1,20 @@
+{
+  "name": "Griffe de Stormterror",
+  "description": "Une griffe provenant du Dragon de l'Est.\nElle fut contaminée par le sang de Durin, le Dragon des Ténèbres, mais grâce à vos efforts, elle n'est plus empoisonnée.",
+  "sortorder": 1786,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Défi de Stormterror (Niv.70+)"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dvalin's_Claw.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Item_Dvalin%27s_Claw.png",
+    "nameicon": "UI_ItemIcon_113004"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dvalin's_Claw"
+  },
+  "version": ""
+}

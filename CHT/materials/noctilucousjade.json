@@ -1,0 +1,20 @@
+{
+  "name": "夜泊石",
+  "description": "稀有的特質礦石，在靜謐的暗夜裡會幽幽地發光。據稱是天地間奔流的元素在異變中凝聚成的珍奇寶石。",
+  "sortorder": 2049,
+  "category": "EXCHANGE",
+  "materialtype": "璃月區域特產",
+  "source": [
+    "璃月山洞內採集",
+    "推薦：明蘊鎮採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Noctilucous_Jade.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Noctilucous_Jade.png",
+    "nameicon": "UI_ItemIcon_100028"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Noctilucous_Jade"
+  },
+  "version": ""
+}

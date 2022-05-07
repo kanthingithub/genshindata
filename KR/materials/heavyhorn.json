@@ -1,0 +1,22 @@
+{
+  "name": "무거운 나팔",
+  "description": "망가진 나팔. 츄츄족이 경고할 때 사용하는 아이템. 전쟁 중에 파손되어 나팔의 기능을 상실했다",
+  "sortorder": 1735,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "캐릭터 육성 소재",
+  "source": [
+    "츄츄 폭도 드랍",
+    "츄츄왕 드랍",
+    "스타더스트 교환"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Heavy_Horn.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c0/Item_Heavy_Horn.png",
+    "nameicon": "UI_ItemIcon_112014"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Heavy_Horn"
+  },
+  "version": ""
+}

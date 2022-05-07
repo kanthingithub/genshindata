@@ -1,0 +1,20 @@
+{
+  "name": "Пылающее семя",
+  "description": "Семя, которое питает бесконечное пламя Пиро орхидеи. Оно излучает энергию Пиро, будто хочет сжечь всё, что когда-либо прорастало из земли.\nВ глубинах земли среди бурных потоков энергии текут бесчисленные желания. Что же способно мечтать сжечь весь мир в своём неугасимом пламени?",
+  "sortorder": 1793,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Пиро орхидеи Ур. 30+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Everflame_Seed.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Item_Everflame_Seed.png",
+    "nameicon": "UI_ItemIcon_113011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Everflame_Seed"
+  },
+  "version": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "清心",
+  "description": "只生長在孤高石峰的通透白花。不願接受平原的溫暖與濕潤，寧可在清冷的尖峰眺望遠方。",
+  "sortorder": 2052,
+  "category": "EXCHANGE",
+  "materialtype": "璃月區域特產",
+  "source": [
+    "石林頂端採集",
+    "推薦：絕雲間採集",
+    "推薦：孤雲閣採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Qingxin.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Item_Qingxin.png",
+    "nameicon": "UI_ItemIcon_100031"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Qingxin"
+  },
+  "version": ""
+}

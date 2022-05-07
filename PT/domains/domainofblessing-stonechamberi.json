@@ -1,0 +1,190 @@
+{
+  "name": "Domínio da Bênção: Prisão de Pedra",
+  "region": "Liyue",
+  "domainEntrance": "Lago de Luhua e Caverna da Montanha",
+  "domainType": "Artefatos",
+  "description": "O antigo altar abençoado está cheio de monstros que temem Geo.\nVocê poderá obter Artefatos valiosos apenas se você passar no teste.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_4"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domínio da Bênção: Prisão de Pedra I",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "Geo"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 20
+        },
+        {
+          "name": "Apostador",
+          "rarity": "3"
+        },
+        {
+          "name": "O Estudioso",
+          "rarity": "3"
+        },
+        {
+          "name": "Cavaleiro Manchado de Sangue",
+          "rarity": "4"
+        },
+        {
+          "name": "Antigo Ritual Real",
+          "rarity": "4"
+        },
+        {
+          "name": "Apostador",
+          "rarity": "4"
+        },
+        {
+          "name": "O Estudioso",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Aumenta o Dano Geo de todos os personagens da equipe em 75%."
+      ],
+      "monsterlist": [
+        "Feiticeiro do Abismo Pyro",
+        "Feiticeiro do Abismo Cryo"
+      ]
+    },
+    {
+      "name": "Domínio da Bênção: Prisão de Pedra II",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Geo"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 20
+        },
+        {
+          "name": "Apostador",
+          "rarity": "3"
+        },
+        {
+          "name": "O Estudioso",
+          "rarity": "3"
+        },
+        {
+          "name": "Cavaleiro Manchado de Sangue",
+          "rarity": "4"
+        },
+        {
+          "name": "Antigo Ritual Real",
+          "rarity": "4"
+        },
+        {
+          "name": "Apostador",
+          "rarity": "4"
+        },
+        {
+          "name": "O Estudioso",
+          "rarity": "4"
+        },
+        {
+          "name": "Cavaleiro Manchado de Sangue",
+          "rarity": "5"
+        },
+        {
+          "name": "Antigo Ritual Real",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Aumenta o Dano Geo de todos os personagens da equipe em 75%."
+      ],
+      "monsterlist": [
+        "Feiticeiro do Abismo Pyro",
+        "Feiticeiro do Abismo Cryo"
+      ]
+    },
+    {
+      "name": "Domínio da Bênção: Prisão de Pedra III",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "Geo"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 20
+        },
+        {
+          "name": "Apostador",
+          "rarity": "3"
+        },
+        {
+          "name": "O Estudioso",
+          "rarity": "3"
+        },
+        {
+          "name": "Cavaleiro Manchado de Sangue",
+          "rarity": "4"
+        },
+        {
+          "name": "Antigo Ritual Real",
+          "rarity": "4"
+        },
+        {
+          "name": "Apostador",
+          "rarity": "4"
+        },
+        {
+          "name": "O Estudioso",
+          "rarity": "4"
+        },
+        {
+          "name": "Cavaleiro Manchado de Sangue",
+          "rarity": "5"
+        },
+        {
+          "name": "Antigo Ritual Real",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Aumenta o Dano Geo de todos os personagens da equipe em 75%."
+      ],
+      "monsterlist": [
+        "Feiticeiro do Abismo Pyro",
+        "Feiticeiro do Abismo Cryo",
+        "Feiticeiro do Abismo Hydro"
+      ]
+    }
+  ]
+}

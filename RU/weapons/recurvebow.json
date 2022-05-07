@@ -1,0 +1,307 @@
+{
+  "name": "Изогнутый лук",
+  "description": "Говорят, этот лук может сбить орла в полёте, но всё же многое зависит и от навыка самого лучника.",
+  "weapontype": "Стрелковое",
+  "rarity": "3",
+  "baseatk": 38,
+  "substat": "HP",
+  "subvalue": "10.2",
+  "effectname": "Жатва",
+  "effect": [
+    "Победа над противником восстанавливает [8%] HP.",
+    "Победа над противником восстанавливает [10%] HP.",
+    "Победа над противником восстанавливает [12%] HP.",
+    "Победа над противником восстанавливает [14%] HP.",
+    "Победа над противником восстанавливает [16%] HP."
+  ],
+  "r1": [
+    "8%"
+  ],
+  "r2": [
+    "10%"
+  ],
+  "r3": [
+    "12%"
+  ],
+  "r4": [
+    "14%"
+  ],
+  "r5": [
+    "16%"
+  ],
+  "weaponmaterialtype": "Dandelion Gladiator",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Мора",
+        "count": 5000
+      },
+      {
+        "name": "Кандалы львиного клыка",
+        "count": 2
+      },
+      {
+        "name": "Устройство хаоса",
+        "count": 2
+      },
+      {
+        "name": "Свиток божественной магии",
+        "count": 1
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Мора",
+        "count": 10000
+      },
+      {
+        "name": "Цепи львиного клыка",
+        "count": 2
+      },
+      {
+        "name": "Устройство хаоса",
+        "count": 8
+      },
+      {
+        "name": "Свиток божественной магии",
+        "count": 5
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Мора",
+        "count": 15000
+      },
+      {
+        "name": "Цепи львиного клыка",
+        "count": 4
+      },
+      {
+        "name": "Цепь хаоса",
+        "count": 4
+      },
+      {
+        "name": "Свиток печати",
+        "count": 4
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Мора",
+        "count": 20000
+      },
+      {
+        "name": "Оковы львиного клыка",
+        "count": 2
+      },
+      {
+        "name": "Цепь хаоса",
+        "count": 8
+      },
+      {
+        "name": "Свиток печати",
+        "count": 6
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Мора",
+        "count": 25000
+      },
+      {
+        "name": "Оковы львиного клыка",
+        "count": 4
+      },
+      {
+        "name": "Ядро хаоса",
+        "count": 6
+      },
+      {
+        "name": "Свиток запретного проклятья",
+        "count": 4
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Мора",
+        "count": 30000
+      },
+      {
+        "name": "Мечты львиного клыка",
+        "count": 3
+      },
+      {
+        "name": "Ядро хаоса",
+        "count": 12
+      },
+      {
+        "name": "Свиток запретного проклятья",
+        "count": 8
+      }
+    ]
+  },
+  "images": {
+    "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Weapon_Recurve_Bow.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Curve.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Curve_Awaken.png",
+    "nameicon": "UI_EquipIcon_Bow_Curve",
+    "namegacha": "UI_Gacha_EquipIcon_Bow_Curve",
+    "nameawakenicon": "UI_EquipIcon_Bow_Curve_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Recurve_Bow"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 37.60749816894531,
+      "specialized": 0.10213299840688705
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 48.13759658029085,
+      "specialized": 0.11867853810990248
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 60.96175646858683,
+      "specialized": 0.1392072804324469
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 73.40983725068327,
+      "specialized": 0.1598381483508753
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 85.5570619208811,
+      "specialized": 0.1804690040941015
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 105.0570619208811,
+      "specialized": 0.1804690040941015
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 116.94103076842293,
+      "specialized": 0.20109987201252988
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 128.59935304887767,
+      "specialized": 0.22173073993095826
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 140.03202876224532,
+      "specialized": 0.24236159567418447
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 151.2766716472579,
+      "specialized": 0.26299247576781504
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 170.6766731731368,
+      "specialized": 0.26299247576781504
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 181.77088800220008,
+      "specialized": 0.28362333151104124
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 192.71467477531405,
+      "specialized": 0.3042542116046718
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 212.21467477531405,
+      "specialized": 0.3042542116046718
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 223.00801555982616,
+      "specialized": 0.324885067347898
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 233.688542027121,
+      "specialized": 0.3455159230911242
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 253.0885435529999,
+      "specialized": 0.3455159230911242
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 263.69386047548323,
+      "specialized": 0.3661468031847548
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 274.1863630807493,
+      "specialized": 0.38667553333209703
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 293.6863630807493,
+      "specialized": 0.38667553333209703
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 304.0660334361455,
+      "specialized": 0.40730638907532324
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 314.44570379154175,
+      "specialized": 0.4279372691689538
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 333.8456976880261,
+      "specialized": 0.4279372691689538
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 344.1125357935525,
+      "specialized": 0.44856814926258437
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 354.3793918317315,
+      "specialized": 0.4691989806554062
+    }
+  },
+  "version": "1.0"
+}

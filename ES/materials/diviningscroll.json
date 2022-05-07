@@ -1,0 +1,21 @@
+{
+  "name": "Pergamino guía",
+  "description": "Restos de un pergamino que trata sobre brujería. Emite un calor misterioso e inexplicable.",
+  "sortorder": 1729,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Derrotar Samachurls",
+    "Canjear Polvo estelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Divining_Scroll.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Item_Divining_Scroll.png",
+    "nameicon": "UI_ItemIcon_112008"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Divining_Scroll"
+  },
+  "version": ""
+}

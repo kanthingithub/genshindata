@@ -1,0 +1,207 @@
+{
+  "name": "Großer Wolfskönig des Nordens, Herr von Wolfenlauf",
+  "specialname": "Boreas",
+  "enemytype": "BOSS",
+  "category": "Einprägsame Gegner",
+  "description": "Die größte, edelste Seele, die über Wolfenlauf wacht.\nIst das Wolfsrudel in Gefahr, erscheint sie in Form eines Wolfes, der seine Zähne bleckt und die Krallen zeigt.\nFür die Bewohner von Mondstadt sind die Wölfe von Wolfenlauf furchterregende Phantome.\nEine verschwommene Gestalt, die durch den Wald saust, ein schauriges Heulen in unbestimmter Ferne, das schleichende Gefühl, von hinten beobachtet zu werden.\nDas Gesetz des Wolfs des Nordens lautet, nie von Menschen erblickt werden zu dürfen.",
+  "rewardpreview": [
+    {
+      "name": "Abenteuer-EP",
+      "count": 300
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Freundschafts-EP"
+    },
+    {
+      "name": "Shivada-Jade-Splitter"
+    },
+    {
+      "name": "Shivada-Jade-Bruchstück"
+    },
+    {
+      "name": "Shivada-Jade-Brocken"
+    },
+    {
+      "name": "Shivada-Jade"
+    },
+    {
+      "name": "Prithiva-Topas-Splitter"
+    },
+    {
+      "name": "Prithiva-Topas-Bruchstück"
+    },
+    {
+      "name": "Prithiva-Topas-Brocken"
+    },
+    {
+      "name": "Prithiva-Topas"
+    },
+    {
+      "name": "Agnidus-Achat-Splitter"
+    },
+    {
+      "name": "Agnidus-Achat-Bruchstück"
+    },
+    {
+      "name": "Agnidus-Achat-Brocken"
+    },
+    {
+      "name": "Agnidus-Achat"
+    },
+    {
+      "name": "Traumlösungsmittel",
+      "count": 0.33
+    },
+    {
+      "name": "Schwanz des Nordwinds"
+    },
+    {
+      "name": "Ring des Nordwinds"
+    },
+    {
+      "name": "Seele des Nordwinds"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Ausbilder",
+      "rarity": "3"
+    },
+    {
+      "name": "Verbannter",
+      "rarity": "3"
+    },
+    {
+      "name": "Verbeugung des Gladiators",
+      "rarity": "4"
+    },
+    {
+      "name": "Wanderorchester",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Ausbilder",
+      "rarity": "4"
+    },
+    {
+      "name": "Verbannter",
+      "rarity": "4"
+    },
+    {
+      "name": "Verbeugung des Gladiators",
+      "rarity": "5"
+    },
+    {
+      "name": "Wanderorchester",
+      "rarity": "5"
+    },
+    {
+      "name": "Unbearbeiteter Einhänder des Nordens"
+    },
+    {
+      "name": "Unbearbeiteter Bogen des Nordens"
+    },
+    {
+      "name": "Unbearbeiteter Zweihänder des Nordens"
+    },
+    {
+      "name": "Unbearbeiteter Katalysator des Nordens"
+    },
+    {
+      "name": "Unbearbeitete Stangenwaffe des Nordens"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_LupiBoreas"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 1312.5058767255396,
+      "attack": 152.2663863116577,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 5158.872964498645,
+      "attack": 406.8166587971864,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 15933.600023082923,
+      "attack": 1003.4998039648926,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 26510.40587930032,
+      "attack": 1639.0596025083796,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 48507.29034268297,
+      "attack": 2450.4833108624443,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 89936.71660664678,
+      "attack": 3778.963487027271,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 150862.58663602173,
+      "attack": 5321.546282113646,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 234935.50747301616,
+      "attack": 7346.143133227946,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 334183.09572904184,
+      "attack": 9451.590193737298,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 438373.56019360945,
+      "attack": 11418.823591017863,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 661772.1877217889,
+      "attack": 14773.25319093978,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 963041.6469904929,
+      "attack": 15066.582932085032,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 1295753.7010209113,
+      "attack": 15361.966398832854,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

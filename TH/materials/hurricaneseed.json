@@ -1,0 +1,20 @@
+{
+  "name": "Hurricane Seed",
+  "description": "รูปร่างหลังจากที่ Anemo Hypostasis ถูกโค่นลงและพังทลาย ข้างในอัดแน่นไปด้วยพลังของลมอันแสนบริสุทธิ์\nตำนานเล่าว่าผีเสื้อที่แสนบอบบางนั้นก็สามารถทำให้เกิดลมพายุได้ ไม่ต้องสงสัยเลยว่าเจ้าผีเสื้อที่ทำจากลมบริสุทธิ์นี้กำลังรอคอยวันที่จะเรียกพายุอีกครั้งอย่างแน่นอน",
+  "sortorder": 1783,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ดรอปจาก Anemo Hypostasis Lv.30 ขึ้นไป"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Hurricane_Seed.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Item_Hurricane_Seed.png",
+    "nameicon": "UI_ItemIcon_113001"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Hurricane_Seed"
+  },
+  "version": ""
+}

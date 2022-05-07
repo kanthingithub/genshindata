@@ -1,0 +1,21 @@
+{
+  "name": "Fluchschriftrolle",
+  "description": "Eine Schriftrolle mit antiken Zeichnungen. Nur wenige Gelehrte sind dazu in der Lage, sie zu verstehen. Und die, die es geschafft haben, sind am Ende angeblich alle verrückt geworden.",
+  "sortorder": 1731,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Kann hergestellt werden",
+    "Beute von Samachurlen ab Stufe 60"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Forbidden_Curse_Scroll.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Item_Forbidden_Curse_Scroll.png",
+    "nameicon": "UI_ItemIcon_112010"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Forbidden_Curse_Scroll"
+  },
+  "version": ""
+}

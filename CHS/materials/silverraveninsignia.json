@@ -1,0 +1,22 @@
+{
+  "name": "藏银鸦印",
+  "description": "盗宝团的成员用于相互辨识的乌鸦纹章。盗宝团不问出身，无论何者，只要怀着贪求宝藏的心，有铤而走险的胆识，都可以成为「优秀」的成员。",
+  "sortorder": 1754,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培养素材",
+  "source": [
+    "合成获得",
+    "40级以上盗宝团掉落",
+    "星尘兑换"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Silver_Raven_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/44/Item_Silver_Raven_Insignia.png",
+    "nameicon": "UI_ItemIcon_112036"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Silver_Raven_Insignia"
+  },
+  "version": ""
+}

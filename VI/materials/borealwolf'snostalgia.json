@@ -1,0 +1,26 @@
+{
+  "name": "Nỗi Nhớ Của Sói Bão",
+  "description": "Nguyên liệu có sức mạnh đột phá vũ khí.\nVua sói nghĩ rằng mình ghét loài người, tự cảm thấy không thể hiểu cuộc sống hạnh phúc của loài người, do đó cảm thấy không có tư cách để trở thành vua gió của trần thế. Nên nó đã lựa chọn biến mất. Nhưng sự thật không phải như vậy, ánh mắt nó nhìn những kẻ bị bỏ rơi ấm áp như thế cơ mà.",
+  "sortorder": 2190,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Đột Phá Vũ Khí",
+  "dropdomain": "Bí Cảnh Luyện Võ: Thâm Cốc",
+  "daysofweek": [
+    "Thứ 3",
+    "Thứ 6",
+    "Chủ Nhật"
+  ],
+  "source": [
+    "Ghép Nhận"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Boreal_Wolf's_Nostalgia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Item_Boreal_Wolf%27s_Nostalgia.png",
+    "nameicon": "UI_ItemIcon_114008"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Boreal_Wolf's_Nostalgia"
+  },
+  "version": ""
+}

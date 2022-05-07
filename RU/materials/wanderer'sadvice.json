@@ -1,0 +1,20 @@
+{
+  "name": "Опыт странника",
+  "description": "1000 очков опыта персонажа.\nЭтот опыт пригодится даже тем, кто живёт вдали от Тейвата.",
+  "sortorder": 1290,
+  "rarity": "2",
+  "category": "EXP_FRUIT",
+  "materialtype": "Опыт персонажа",
+  "source": [
+    "Исследование мира и приключения"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_104001",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wanderer's_Advice.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Wanderer%27s_Advice.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Wanderer's_Advice"
+  },
+  "version": ""
+}

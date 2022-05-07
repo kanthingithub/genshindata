@@ -1,0 +1,32 @@
+{
+  "name": "Dizziness-Be-Gone no Jutsu Version 2.0",
+  "rarity": "2",
+  "foodtype": "SPECIALTY",
+  "foodfilter": "Makanan Pemulihan",
+  "foodcategory": "Recovery_HpAddAll",
+  "effect": "Memulihkan 26% HP Karakter yang dipilih dan memberikan regenerasi 570 HP setiap 5 detik selama 30 detik.",
+  "description": "Spesialisasi Sayu. Onigiri ini sudah dibentuk oleh Sayu menjadi bentuk yang sangat lucu — tapi ingat, ini adalah mujina, bukan tanuki, oke? Hm, ini pasti rahasia bagaimana Sayu bisa tidur sepanjang hari setelah makan.",
+  "basedish": "Rice Ball",
+  "character": "Sayu",
+  "ingredients": [
+    {
+      "name": "Fish",
+      "count": 2
+    },
+    {
+      "name": "Seagrass",
+      "count": 2
+    },
+    {
+      "name": "Rice",
+      "count": 1
+    }
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_108303"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dizziness-Be-Gone_no_Jutsu_Version_2.0"
+  },
+  "version": "2.0"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Madeira Yumemiru",
+  "description": "Madeira obtida de Árvores de Sakura. De qualidade requintada e viçosa, dizem que pode embalar as pessoas em sonhos tão doces quanto a primavera quente.\nPode ser usada para fabricar Decorações.",
+  "sortorder": 1943,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Material",
+  "source": [
+    "Encontrado na natureza",
+    "Recomendação: Cortado na Ilha Narukami"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Yumemiru_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/61/Item_Yumemiru_Wood.png",
+    "nameicon": "UI_ItemIcon_101309"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Yumemiru_Wood"
+  },
+  "version": ""
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Dầu Cá Thị Lực",
+  "description": "Đạo cụ dành riêng cho \"Con Ngươi Tuyên Thệ\".\nDầu cá tinh luyện từ loài cá chình biển sâu đặc biệt, từng được dùng để bảo dưỡng các thần khí của Enkanomiya, khiến nó trở nên sáng chói.",
+  "sortorder": 2299,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Tinh Luyện",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_200109",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ointment_of_Sight.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Item_Ointment_of_Sight.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ointment_of_Sight"
+  },
+  "version": ""
+}

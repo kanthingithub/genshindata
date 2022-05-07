@@ -1,0 +1,22 @@
+{
+  "name": "Bois d'exquisetier",
+  "description": "Bois obtenu à partir d'exquisetier. Avec sa jolie couleur et sa fabrication unique, il peut avoir une myriade d'utilisations après avoir subi les traitements appropriés.\nPeut être utilisé pour fabriquer des décorations.",
+  "sortorder": 1952,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Matériau",
+  "source": [
+    "Dans la nature",
+    "Zone conseillée : Vallée Tombétoile",
+    "Zone conseillée : Sources de Jade"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cuihua_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c5/Item_Cuihua_Wood.png",
+    "nameicon": "UI_ItemIcon_101302"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cuihua_Wood"
+  },
+  "version": ""
+}

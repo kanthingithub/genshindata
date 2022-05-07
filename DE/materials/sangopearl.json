@@ -1,0 +1,20 @@
+{
+  "name": "Sango-Perle",
+  "description": "Eine wertvolle Perle, die in den Korallen von Watatsumi wächst. Sie hat einen kühlen Glanz wie der des Mondlichts.",
+  "sortorder": 2066,
+  "category": "EXCHANGE",
+  "materialtype": "Regionale Besonderheit von Inazuma",
+  "source": [
+    "In der freien Natur zu finden",
+    "Empfohlen: Auf Watatsumi zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sango_Pearl.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Sango_Pearl.png",
+    "nameicon": "UI_ItemIcon_101207"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sango_Pearl"
+  },
+  "version": ""
+}

@@ -1,0 +1,17 @@
+{
+  "name": "汲取了生命力的龍牙",
+  "description": "汲取了生命力的龍牙。無論是光澤還是質感，都愈加讓人不安…",
+  "sortorder": 419,
+  "category": "EXCHANGE",
+  "materialtype": "素材",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vitalized_Dragontooth.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8c/Item_Vitalized_Dragontooth.png",
+    "nameicon": "UI_ItemIcon_100619"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Vitalized_Dragontooth"
+  },
+  "version": ""
+}

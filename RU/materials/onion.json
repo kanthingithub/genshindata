@@ -1,0 +1,19 @@
+{
+  "name": "Лук",
+  "description": "Шарообразный овощ. Вы пытаетесь его нарезать, и в отместку за это он заставляет вас реветь... Вне зависимости от того, насколько вы храбры.",
+  "sortorder": 1996,
+  "category": "EXCHANGE",
+  "materialtype": "Кухонный ингредиент",
+  "source": [
+    "Торговые лавки"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Onion.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Item_Onion.png",
+    "nameicon": "UI_ItemIcon_100076"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Onion"
+  },
+  "version": ""
+}

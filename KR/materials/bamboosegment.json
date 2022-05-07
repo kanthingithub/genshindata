@@ -1,0 +1,21 @@
+{
+  "name": "죽절",
+  "description": "청죽의 대나무는 가볍고 튼튼하며, 수수한 외관과는 달리 단단하며 특유의 향기가 난다.\n장식 제작용으로 사용할 수 있다",
+  "sortorder": 1949,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "소재",
+  "source": [
+    "야외 채집",
+    "추천: 벽수원 채집"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Bamboo_Segment.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Bamboo_Segment.png",
+    "nameicon": "UI_ItemIcon_101305"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Bamboo_Segment"
+  },
+  "version": ""
+}

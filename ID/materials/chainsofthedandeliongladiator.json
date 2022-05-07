@@ -1,0 +1,26 @@
+{
+  "name": "Chains of Dandelion Gladiator",
+  "description": "Material Ascension Senjata.\nRantai yang dulunya membelenggu pahlawan Vennessa - dengan kata lain, siapa saja yang memakainya sebenarnya sama dengan semua budak lainnya di zaman itu.",
+  "sortorder": 2192,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Ascension Senjata",
+  "dropdomain": "Domain of Forgery: Reruntuhan Kota Kemarau",
+  "daysofweek": [
+    "Rabu",
+    "Sabtu",
+    "Minggu"
+  ],
+  "source": [
+    "Didapatkan melalui Craft"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chains_of_the_Dandelion_Gladiator.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Item_Chains_of_the_Dandelion_Gladiator.png",
+    "nameicon": "UI_ItemIcon_114010"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chains_of_the_Dandelion_Gladiator"
+  },
+  "version": ""
+}

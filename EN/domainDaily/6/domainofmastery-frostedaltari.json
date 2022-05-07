@@ -1,0 +1,166 @@
+{
+  "name": "Domain of Mastery: Frosted Altar",
+  "region": "Mondstadt",
+  "domainEntrance": "Forsaken Rift",
+  "domainType": "Talent Level-Up Material",
+  "description": "Massive Cryo energy is coursing through this freezing ancient sacrificial altar.\nThe bone-piercing cold even makes traversal difficult.\nYou shall earn Talent level-up materials, if — and only if — you can pass the trial.",
+  "daysOfWeek": [
+    "Monday",
+    "Thursday",
+    "Sunday"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Ice"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domain of Mastery: Frosted Altar I",
+      "recommendedLevel": 38,
+      "recommendedElements": [
+        "Electro",
+        "Pyro"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1575
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 15
+        },
+        {
+          "name": "Teachings of Freedom"
+        }
+      ],
+      "disorder": [
+        "Your character will be periodically inflicted with Condensed Ice, greatly increasing your Stamina Consumption until the inflicted Cryo element is removed."
+      ],
+      "monsterlist": [
+        "Cryo Slime",
+        "Large Cryo Slime",
+        "Cryo Abyss Mage"
+      ]
+    },
+    {
+      "name": "Domain of Mastery: Frosted Altar II",
+      "recommendedLevel": 54,
+      "recommendedElements": [
+        "Electro",
+        "Pyro"
+      ],
+      "unlockRank": 28,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1800
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 15
+        },
+        {
+          "name": "Teachings of Freedom"
+        },
+        {
+          "name": "Guide to Freedom"
+        }
+      ],
+      "disorder": [
+        "Your character will be periodically inflicted with Condensed Ice, greatly increasing your Stamina Consumption until the inflicted Cryo element is removed."
+      ],
+      "monsterlist": [
+        "Cryo Slime",
+        "Large Cryo Slime",
+        "Hilichurl Fighter",
+        "Cryo Abyss Mage"
+      ]
+    },
+    {
+      "name": "Domain of Mastery: Frosted Altar III",
+      "recommendedLevel": 71,
+      "recommendedElements": [
+        "Electro",
+        "Pyro"
+      ],
+      "unlockRank": 36,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2050
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 20
+        },
+        {
+          "name": "Teachings of Freedom"
+        },
+        {
+          "name": "Guide to Freedom"
+        }
+      ],
+      "disorder": [
+        "Your character will be periodically inflicted with Condensed Ice, greatly increasing your Stamina Consumption until the inflicted Cryo element is removed. Icicles will periodically fall from above, dealing Cryo DMG."
+      ],
+      "monsterlist": [
+        "Cryo Slime",
+        "Large Cryo Slime",
+        "Cryo Abyss Mage"
+      ]
+    },
+    {
+      "name": "Domain of Mastery: Frosted Altar IV",
+      "recommendedLevel": 88,
+      "recommendedElements": [
+        "Electro",
+        "Pyro"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2375
+        },
+        {
+          "name": "Companionship EXP",
+          "count": 20
+        },
+        {
+          "name": "Teachings of Freedom"
+        },
+        {
+          "name": "Guide to Freedom"
+        },
+        {
+          "name": "Philosophies of Freedom"
+        }
+      ],
+      "disorder": [
+        "Your character will be periodically inflicted with Condensed Ice, greatly increasing your Stamina Consumption until the inflicted Cryo element is removed. Icicles will periodically fall from above, dealing Cryo DMG."
+      ],
+      "monsterlist": [
+        "Large Cryo Slime",
+        "Cryo Abyss Mage"
+      ]
+    }
+  ]
+}

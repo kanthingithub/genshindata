@@ -1,0 +1,26 @@
+{
+  "name": "Philosophie de la Diligence",
+  "description": "Matériau d'amélioration d'aptitude.\nLe goût du travail représente l'essence du Pays de la Roche.\nLes Liyuéens croient que chacun peut se faire une place sur la terre des dieux grâce à sa sagesse et à sa force, mais aussi à la sueur de son front.",
+  "sortorder": 1865,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration d'aptitude",
+  "dropdomain": "Donjon de la maîtrise : Au cœur des flammes",
+  "daysofweek": [
+    "Mardi",
+    "Vendredi",
+    "Dimanche"
+  ],
+  "source": [
+    "Synthèse"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Diligence.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c2/Item_Philosophies_of_Diligence.png",
+    "nameicon": "UI_ItemIcon_104315"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Diligence"
+  },
+  "version": ""
+}

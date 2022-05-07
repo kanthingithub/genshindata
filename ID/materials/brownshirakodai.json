@@ -1,0 +1,20 @@
+{
+  "name": "Brown Shirakodai",
+  "description": "Varian ikan kupu-kupu yang lembut dan elegan. Mereka memiliki sirip punggung yang indah dan ramping, serta julukan \"Ratu Perairan\".\nPola-pola berwarna bumi menghiasi sekujur tubuhnya, dan temperamennya juga stabil bak batu yang kokoh. Namun terkadang temperamen stabil itu berlebihan misalnya sampai membuat mereka hanya berbaring di dasar dan tidak bergerak satu inci pun layaknya batu. Hal ini membuat beberapa pembeli berpikir bahwa mereka telah membeli ikan tua yang sudah hampir mati.",
+  "sortorder": 2027,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Ikan",
+  "source": [
+    "Didapatkan dari memancing ikan"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Brown_Shirakodai.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/43/Item_Brown_Shirakodai.png",
+    "nameicon": "UI_ItemIcon_131013"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Brown_Shirakodai"
+  },
+  "version": ""
+}

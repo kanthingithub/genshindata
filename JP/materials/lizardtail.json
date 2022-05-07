@@ -1,0 +1,19 @@
+{
+  "name": "トカゲのしっぽ",
+  "description": "生命を失った後もクネクネ動くトカゲのしっぽ。強力な薬効を持っており、人の皮膚を硬くする。とても苦い。",
+  "sortorder": 1974,
+  "category": "EXCHANGE",
+  "materialtype": "素材",
+  "source": [
+    "トカゲを捕まえる"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lizard_Tail.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Lizard_Tail.png",
+    "nameicon": "UI_ItemIcon_100083"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lizard_Tail"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "岩之印",
+  "description": "受到璃月大地的岩石認可，獲授的印記。\n用來在璃月港內特定的地方兌換特殊道具。",
+  "sortorder": 506,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "七國徽印",
+  "source": [
+    "璃月地區探索獎勵"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_307",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Geo_Sigil.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Item_Geo_Sigil.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Geo_Sigil"
+  },
+  "version": ""
+}

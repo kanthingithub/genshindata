@@ -1,0 +1,24 @@
+{
+  "name": "Ensinamentos de Prosperidade",
+  "description": "Material de elevação de Talento.\nProsperidade é a busca da Terra.\nA Prosperidade é a bênção de Liyue, é a grande cidade construída pelos deuses e pelo povo de Liyue, é a fonte da paz e segurança do continente.",
+  "sortorder": 1860,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Talento",
+  "dropdomain": "Domínio da Proficiência: Altar de Chamas",
+  "daysofweek": [
+    "Segunda-feira",
+    "Quinta-feira",
+    "Domingo"
+  ],
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Teachings_of_Prosperity.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/9e/Item_Teachings_of_Prosperity.png",
+    "nameicon": "UI_ItemIcon_104310"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Teachings_of_Prosperity"
+  },
+  "version": ""
+}

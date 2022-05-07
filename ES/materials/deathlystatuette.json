@@ -1,0 +1,20 @@
+{
+  "name": "Estatuilla de las profundidades",
+  "description": "Una efigie con un solo ojo que desprende una extraña energía y está hecha con un material desconocido.\nAl observarla, es como si escucharas unos increíbles susurros que te calman la mente.\n“Observen, hijos míos. Todos los seres bajo el trono celestial acabarán pereciendo bajo el tumulto. El vacío, con su serena oscuridad eterna, lo acogerá todo en su seno”.",
+  "sortorder": 1779,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Sintetizar",
+    "Obtenido de Guardias Serpiente Negra (Niv. 60+)"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Deathly_Statuette.png",
+    "nameicon": "UI_ItemIcon_112019"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Deathly_Statuette"
+  },
+  "version": ""
+}

@@ -1,0 +1,92 @@
+{
+  "name": "Vỏ Rỗng Ảm Đạm - Cờ Lệnh",
+  "specialname": "Vỏ Rỗng Ảm Đạm - Cờ Lệnh",
+  "enemytype": "ELITE",
+  "category": "Vực Sâu",
+  "description": "Binh lính đen tuyền, từng là quân nhân đầy kiêu hãnh của vương quốc cổ dưới lòng đất, nhưng giờ đây đã mất đi tất cả ký ức lẫn tri giác.\nNhưng cho dù vậy, vị binh sĩ này vẫn giơ cao ngọn cờ vương giả để chiến đấu. Dù cho quên đi hình bóng của chiến hữu hay chúc phúc của vương giả cũng sẽ không bỏ ngọn cờ của mình xuống.",
+  "rewardpreview": [],
+  "images": {
+    "nameicon": "UI_MonsterIcon_ForlornVessel_Strong_Warbanner_Fire"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 367.0999934602878,
+      "attack": 101.51113040554264,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 1445.8450437241117,
+      "attack": 271.2111127290973,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 4255.624821796082,
+      "attack": 669.0000299799976,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 7924.84996091458,
+      "attack": 1092.7067168040594,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 14229.234434509417,
+      "attack": 1633.6555819225032,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 26217.660281967837,
+      "attack": 2297.895543078921,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 44294.71247285139,
+      "attack": 3069.1873913567542,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 73260.48162848689,
+      "attack": 4081.4857467098045,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 118183.08513421565,
+      "attack": 5929.019722008234,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 185501.43747953698,
+      "attack": 7612.5492533508805,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 277300.0906297378,
+      "attack": 9848.835709898849,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 350978.64670984447,
+      "attack": 10044.388875611767,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 405968.01042269915,
+      "attack": 10241.311191761051,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

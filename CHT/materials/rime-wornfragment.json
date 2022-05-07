@@ -1,0 +1,18 @@
+{
+  "name": "霜噬碎屑",
+  "description": "從龍脊雪山的魔物處提取出來的小塊結晶。\n僅僅會在特殊的時期產生。",
+  "sortorder": 2291,
+  "rarity": "3",
+  "category": "CONSUME",
+  "materialtype": "雪山素材",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_200101",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Rime-Worn_Fragment.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Rime-Worn_Fragment.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Rime-Worn_Fragment"
+  },
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Núcleo de cristal",
+  "description": "El núcleo de un cristalóptero. Absorbe elementos que habían escapado a la atmósfera.",
+  "sortorder": 1975,
+  "category": "EXCHANGE",
+  "materialtype": "Material",
+  "source": [
+    "Recolectado al atrapar cristalópteros"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crystal_Core.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Item_Crystal_Core.png",
+    "nameicon": "UI_ItemIcon_100085"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Crystal_Core"
+  },
+  "version": ""
+}

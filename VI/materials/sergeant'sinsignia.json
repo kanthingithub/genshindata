@@ -1,0 +1,24 @@
+{
+  "name": "Phù Hiệu Sĩ Quan",
+  "description": "Phù hiệu thể hiện thân phận sĩ quan, có tạo hình kỳ lạ để phân biệt với binh sĩ thường. Trong đó chắc ẩn giấu cảm xúc phức tạp.",
+  "sortorder": 1751,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Ghép Nhận",
+    "Fatui - Quân Tiên Phong cấp 40 trở lên rơi",
+    "Fatui - Người Xử Lý Nợ cấp 40 trở lên rơi một ít",
+    "Fatui - Thuật Sĩ Cicin cấp 40 trở lên rơi một ít",
+    "Đổi từ Tinh Trần"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Sergeant's_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Sergeant%27s_Insignia.png",
+    "nameicon": "UI_ItemIcon_112033"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Sergeant's_Insignia"
+  },
+  "version": ""
+}

@@ -1,0 +1,1052 @@
+{
+  "name": "Eula",
+  "fullname": "Eula",
+  "title": "Dance of the Shimmering Wave",
+  "description": "The Spindrift Knight, a scion of the old aristocracy, and the Captain of the Knights of Favonius Reconnaissance Company. The reason for which a descendant of the ancient nobles might join the Knights remains a great mystery in Mondstadt to this very day.",
+  "rarity": "5",
+  "element": "Cryo",
+  "weapontype": "Claymore",
+  "substat": "CRIT DMG",
+  "gender": "Female",
+  "body": "LADY",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Knights of Favonius",
+  "birthdaymmdd": "10/25",
+  "birthday": "October 25",
+  "constellation": "Aphros Delos",
+  "cv": {
+    "english": "Suzie Yeung",
+    "chinese": "子音",
+    "japanese": "佐藤利奈",
+    "korean": "Kim Hyeon-ji"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Shivada Jade Sliver",
+        "count": 1
+      },
+      {
+        "name": "Dandelion Seed",
+        "count": 3
+      },
+      {
+        "name": "Damaged Mask",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Shivada Jade Fragment",
+        "count": 3
+      },
+      {
+        "name": "Crystalline Bloom",
+        "count": 2
+      },
+      {
+        "name": "Dandelion Seed",
+        "count": 10
+      },
+      {
+        "name": "Damaged Mask",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Shivada Jade Fragment",
+        "count": 6
+      },
+      {
+        "name": "Crystalline Bloom",
+        "count": 4
+      },
+      {
+        "name": "Dandelion Seed",
+        "count": 20
+      },
+      {
+        "name": "Stained Mask",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Shivada Jade Chunk",
+        "count": 3
+      },
+      {
+        "name": "Crystalline Bloom",
+        "count": 8
+      },
+      {
+        "name": "Dandelion Seed",
+        "count": 30
+      },
+      {
+        "name": "Stained Mask",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Shivada Jade Chunk",
+        "count": 6
+      },
+      {
+        "name": "Crystalline Bloom",
+        "count": 12
+      },
+      {
+        "name": "Dandelion Seed",
+        "count": 45
+      },
+      {
+        "name": "Ominous Mask",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Shivada Jade Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Crystalline Bloom",
+        "count": 20
+      },
+      {
+        "name": "Dandelion Seed",
+        "count": 60
+      },
+      {
+        "name": "Ominous Mask",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Eula.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210510/2021051011361876265.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210510/2021051011383243523.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/6840f27db9745020aad45853bff79c7c.png",
+    "nameicon": "UI_AvatarIcon_Eula",
+    "nameiconcard": "UI_AvatarIcon_Eula_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Eula",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Eula",
+    "namesideicon": "UI_AvatarIcon_Side_Eula"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Eula"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1029.5855712890625,
+      "attack": 26.62660026550293,
+      "defense": 58.45391082763672,
+      "specialized": 0.5
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2670.7450760040956,
+      "attack": 69.06940378038371,
+      "defense": 151.62945059596495,
+      "specialized": 0.5
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3553.5216262970644,
+      "attack": 91.89763749925578,
+      "defense": 201.74954870997863,
+      "specialized": 0.5
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5317.201770792366,
+      "attack": 137.5090053284348,
+      "defense": 301.8811014139719,
+      "specialized": 0.5
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5944.437793741585,
+      "attack": 153.72906567694554,
+      "defense": 337.4927537882395,
+      "specialized": 0.596000000834465
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6839.14761198865,
+      "attack": 176.86758019037097,
+      "defense": 388.2891998446321,
+      "specialized": 0.596000000834465
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7675.462187183963,
+      "attack": 198.49432732171863,
+      "defense": 435.77139283779616,
+      "specialized": 0.69200000166893
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8579.438094904996,
+      "attack": 221.8724765652023,
+      "defense": 487.0939138343747,
+      "specialized": 0.69200000166893
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9206.67417888937,
+      "attack": 238.09253882106168,
+      "defense": 522.7055776527341,
+      "specialized": 0.69200000166893
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 10118.887156081328,
+      "attack": 261.68371082076646,
+      "defense": 574.4957517883631,
+      "specialized": 0.69200000166893
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10746.122995925078,
+      "attack": 277.90377307662584,
+      "defense": 610.1074003479334,
+      "specialized": 0.7879999876022339
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11668.631573538703,
+      "attack": 301.7612044767784,
+      "defense": 662.4820990978806,
+      "specialized": 0.7879999876022339
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12295.867657523078,
+      "attack": 317.9812667326378,
+      "defense": 698.0937476574509,
+      "specialized": 0.8840000033378601
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 13225.583793659927,
+      "attack": 342.0250962186219,
+      "defense": 750.8776498723164,
+      "specialized": 0.8840000033378601
+    }
+  },
+  "version": "1.5",
+  "constellations": {
+    "c1": {
+      "name": "Tidal Illusion",
+      "effect": "Every time **Icetide Vortex**'s Grimheart stacks are consumed, Eula's Physical DMG is increased by 30% for 6s.\nEach stack consumed will increase the duration of this effect by 6s up to a maximum of 18s."
+    },
+    "c2": {
+      "name": "Lady of Seafoam",
+      "effect": "Decreases the CD of **Icetide Vortex**'s Holding Mode, rendering it identical to Press CD."
+    },
+    "c3": {
+      "name": "Lawrence Pedigree",
+      "effect": "Increases the Level of **Glacial Illumination** by 3.\nMaximum upgrade level is 15."
+    },
+    "c4": {
+      "name": "The Obstinacy of One's Inferiors",
+      "effect": "Lightfall Swords deal 25% increased DMG against opponents with less than 50% HP."
+    },
+    "c5": {
+      "name": "Chivalric Quality",
+      "effect": "Increases the Level of **Icetide Vortex** by 3.\nMaximum upgrade level is 15."
+    },
+    "c6": {
+      "name": "Noble Obligation",
+      "effect": "Lightfall Swords created by **Glacial Illumination** start with 5 stacks of energy. Normal Attacks, Elemental Skills, and Elemental Bursts have a 50% chance to grant the Lightfall Sword an additional stack of energy."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Eula_02.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Eula_01.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Eula_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Eula_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Eula_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Eula_04.png",
+      "constellation": "Eff_UI_Talent_Eula"
+    },
+    "version": "1.5"
+  },
+  "talent": {
+    "name": "Eula",
+    "combat1": {
+      "name": "Normal Attack: Favonius Bladework - Edel",
+      "info": "**Normal Attack**\nPerform up to 5 consecutive strikes.\n\n**Charged Attack**\nDrains Stamina over time to perform continuous slashes.\nAt the end of the sequence, perform a more powerful slash.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "attributes": [
+        {
+          "name": "1-Hit DMG",
+          "parameters": [
+            "89.73%",
+            "97.04%",
+            "104.34%",
+            "114.77%",
+            "122.08%",
+            "130.43%",
+            "141.90%",
+            "153.38%",
+            "164.86%",
+            "177.38%",
+            "191.72%",
+            "208.60%",
+            "225.47%",
+            "242.34%",
+            "260.75%"
+          ]
+        },
+        {
+          "name": "2-Hit DMG",
+          "parameters": [
+            "93.55%",
+            "101.17%",
+            "108.78%",
+            "119.66%",
+            "127.27%",
+            "135.98%",
+            "147.94%",
+            "159.91%",
+            "171.87%",
+            "184.93%",
+            "199.88%",
+            "217.47%",
+            "235.06%",
+            "252.65%",
+            "271.84%"
+          ]
+        },
+        {
+          "name": "3-Hit DMG",
+          "parameters": [
+            "56.80%+56.80%",
+            "61.42%+61.42%",
+            "66.04%+66.04%",
+            "72.65%+72.65%",
+            "77.27%+77.27%",
+            "82.56%+82.56%",
+            "89.82%+89.82%",
+            "97.09%+97.09%",
+            "104.35%+104.35%",
+            "112.28%+112.28%",
+            "121.36%+121.36%",
+            "132.04%+132.04%",
+            "142.72%+142.72%",
+            "153.40%+153.40%",
+            "165.05%+165.05%"
+          ]
+        },
+        {
+          "name": "4-Hit DMG",
+          "parameters": [
+            "112.64%",
+            "121.81%",
+            "130.98%",
+            "144.08%",
+            "153.25%",
+            "163.72%",
+            "178.13%",
+            "192.54%",
+            "206.95%",
+            "222.67%",
+            "240.68%",
+            "261.86%",
+            "283.03%",
+            "304.21%",
+            "327.32%"
+          ]
+        },
+        {
+          "name": "5-Hit DMG",
+          "parameters": [
+            "71.83%+71.83%",
+            "77.68%+77.68%",
+            "83.53%+83.53%",
+            "91.88%+91.88%",
+            "97.73%+97.73%",
+            "104.41%+104.41%",
+            "113.60%+113.60%",
+            "122.79%+122.79%",
+            "131.97%+131.97%",
+            "142.00%+142.00%",
+            "153.48%+153.48%",
+            "166.99%+166.99%",
+            "180.49%+180.49%",
+            "194.00%+194.00%",
+            "208.74%+208.74%"
+          ]
+        },
+        {
+          "name": "Charged Attack Spinning DMG",
+          "parameters": [
+            "68.80%",
+            "74.40%",
+            "80.00%",
+            "88.00%",
+            "93.60%",
+            "100.00%",
+            "108.80%",
+            "117.60%",
+            "126.40%",
+            "136.00%",
+            "147.00%",
+            "159.94%",
+            "172.87%",
+            "185.81%",
+            "199.92%"
+          ]
+        },
+        {
+          "name": "Charged Attack Final DMG",
+          "parameters": [
+            "124.40%",
+            "134.52%",
+            "144.65%",
+            "159.12%",
+            "169.24%",
+            "180.81%",
+            "196.72%",
+            "212.64%",
+            "228.55%",
+            "245.90%",
+            "265.79%",
+            "289.18%",
+            "312.57%",
+            "335.96%",
+            "361.48%"
+          ]
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "parameters": [
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s"
+          ]
+        },
+        {
+          "name": "Max Duration",
+          "parameters": [
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s"
+          ]
+        },
+        {
+          "name": "Plunge DMG",
+          "parameters": [
+            "74.59%",
+            "80.66%",
+            "86.73%",
+            "95.40%",
+            "101.47%",
+            "108.41%",
+            "117.95%",
+            "127.49%",
+            "137.03%",
+            "147.44%",
+            "159.37%",
+            "173.39%",
+            "187.41%",
+            "201.44%",
+            "216.74%"
+          ]
+        },
+        {
+          "name": "Low/High Plunge DMG",
+          "parameters": [
+            "149.14%/186.29%",
+            "161.28%/201.45%",
+            "173.42%/216.62%",
+            "190.77%/238.28%",
+            "202.91%/253.44%",
+            "216.78%/270.77%",
+            "235.86%/294.60%",
+            "254.93%/318.42%",
+            "274.01%/342.25%",
+            "294.82%/368.25%",
+            "318.67%/398.03%",
+            "346.71%/433.06%",
+            "374.75%/468.08%",
+            "402.79%/503.11%",
+            "433.38%/541.32%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Icetide Vortex",
+      "info": "Sharp frost, swift blade.\n\n**Press**\nSlashes swiftly, dealing Cryo DMG.\nWhen it hits an opponent, Eula gains a stack of Grimheart that stacks up to 2 times. These stacks can only be gained once every 0.3s.\n\n**Grimheart**\nIncreases Eula's resistance to interruption and DEF.\n\n**Hold**\nWielding her sword, Eula consumes all the stacks of Grimheart and lashes forward, dealing AoE Cryo DMG to opponents in front of her.\nIf Grimheart stacks are consumed, surrounding opponents will have their Physical RES and Cryo RES decreased.\nEach consumed stack of Grimheart will be converted into an Icewhirl Brand that deals Cryo DMG to nearby opponents.",
+      "description": "\"So the waves roiled, swallowing the crown of the nobles. And ever after did each drop amidst the icy waves reflect a golden crown, each and every droplet of the spray shining with its light.\"",
+      "attributes": [
+        {
+          "name": "Press DMG",
+          "parameters": [
+            "146.40%",
+            "157.38%",
+            "168.36%",
+            "183.00%",
+            "193.98%",
+            "204.96%",
+            "219.60%",
+            "234.24%",
+            "248.88%",
+            "263.52%",
+            "278.16%",
+            "292.80%",
+            "311.10%",
+            "329.40%",
+            "347.70%"
+          ]
+        },
+        {
+          "name": "Hold DMG",
+          "parameters": [
+            "245.60%",
+            "264.02%",
+            "282.44%",
+            "307.00%",
+            "325.42%",
+            "343.84%",
+            "368.40%",
+            "392.96%",
+            "417.52%",
+            "442.08%",
+            "466.64%",
+            "491.20%",
+            "521.90%",
+            "552.60%",
+            "583.30%"
+          ]
+        },
+        {
+          "name": "Icewhirl Brand DMG",
+          "parameters": [
+            "96.00%",
+            "103.20%",
+            "110.40%",
+            "120.00%",
+            "127.20%",
+            "134.40%",
+            "144.00%",
+            "153.60%",
+            "163.20%",
+            "172.80%",
+            "182.40%",
+            "192.00%",
+            "204.00%",
+            "216.00%",
+            "228.00%"
+          ]
+        },
+        {
+          "name": "DEF Bonus",
+          "parameters": [
+            "30.00% Per Stack",
+            "30.00% Per Stack",
+            "30.00% Per Stack",
+            "30.00% Per Stack",
+            "30.00% Per Stack",
+            "30.00% Per Stack",
+            "30.00% Per Stack",
+            "30.00% Per Stack",
+            "30.00% Per Stack",
+            "30.00% Per Stack",
+            "30.00% Per Stack",
+            "30.00% Per Stack",
+            "30.00% Per Stack",
+            "30.00% Per Stack",
+            "30.00% Per Stack"
+          ]
+        },
+        {
+          "name": "Grimheart Duration",
+          "parameters": [
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s",
+            "18s"
+          ]
+        },
+        {
+          "name": "Physical RES Decrease",
+          "parameters": [
+            "16.00%",
+            "17.00%",
+            "18.00%",
+            "19.00%",
+            "20.00%",
+            "21.00%",
+            "22.00%",
+            "23.00%",
+            "24.00%",
+            "25.00%",
+            "25.00%",
+            "25.00%",
+            "25.00%",
+            "25.00%",
+            "25.00%"
+          ]
+        },
+        {
+          "name": "Cryo RES Decrease",
+          "parameters": [
+            "16.00%",
+            "17.00%",
+            "18.00%",
+            "19.00%",
+            "20.00%",
+            "21.00%",
+            "22.00%",
+            "23.00%",
+            "24.00%",
+            "25.00%",
+            "25.00%",
+            "25.00%",
+            "25.00%",
+            "25.00%",
+            "25.00%"
+          ]
+        },
+        {
+          "name": "RES Decrease Duration",
+          "parameters": [
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s",
+            "7s"
+          ]
+        },
+        {
+          "name": "Press CD",
+          "parameters": [
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s",
+            "4s"
+          ]
+        },
+        {
+          "name": "CD (hold)",
+          "parameters": [
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Glacial Illumination",
+      "info": "Brandishes her greatsword, dealing Cryo DMG to nearby opponents and creating a Lightfall Sword that follows her around for a duration of up to 7s.\nWhile present, the Lightfall Sword increases Eula's resistance to interruption. When Eula's own Normal Attack, Elemental Skill, and Elemental Burst deal DMG to opponents, they will charge the Lightfall Sword, which can gain an energy stack once every 0.1s.\nOnce its duration ends, the Lightfall Sword will descend and explode violently, dealing Physical DMG to nearby opponents.\nThis DMG scales on the number of energy stacks the Lightfall Sword has accumulated.\nIf Eula leaves the field, the Lightfall Sword will explode immediately.",
+      "description": "It is easy to sink. But even so, she desires to freeze this oncoming tide.",
+      "attributes": [
+        {
+          "name": "Skill DMG",
+          "parameters": [
+            "245.60%",
+            "264.02%",
+            "282.44%",
+            "307.00%",
+            "325.42%",
+            "343.84%",
+            "368.40%",
+            "392.96%",
+            "417.52%",
+            "442.08%",
+            "466.64%",
+            "491.20%",
+            "521.90%",
+            "552.60%",
+            "583.30%"
+          ]
+        },
+        {
+          "name": "Lightfall Sword Base DMG",
+          "parameters": [
+            "367.05%",
+            "396.92%",
+            "426.80%",
+            "469.48%",
+            "499.36%",
+            "533.50%",
+            "580.45%",
+            "627.40%",
+            "674.34%",
+            "725.56%",
+            "784.25%",
+            "853.26%",
+            "922.27%",
+            "991.29%",
+            "1066.57%"
+          ]
+        },
+        {
+          "name": "DMG Per Stack",
+          "parameters": [
+            "74.99%",
+            "81.10%",
+            "87.20%",
+            "95.92%",
+            "102.02%",
+            "109.00%",
+            "118.59%",
+            "128.18%",
+            "137.78%",
+            "148.24%",
+            "160.23%",
+            "174.33%",
+            "188.43%",
+            "202.53%",
+            "217.91%"
+          ]
+        },
+        {
+          "name": "Maximum Stacks",
+          "parameters": [
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30"
+          ]
+        },
+        {
+          "name": "CD",
+          "parameters": [
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s",
+            "20s"
+          ]
+        },
+        {
+          "name": "Energy Cost",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Roiling Rime",
+      "info": "If 2 stacks of Grimheart are consumed upon unleashing the Holding Mode of **Icetide Vortex**, a Shattered Lightfall Sword will be created that will explode immediately, dealing 50% of the basic Physical DMG dealt by a Lightfall Sword created by **Glacial Illumination**."
+    },
+    "passive2": {
+      "name": "Wellspring of War-Lust",
+      "info": "When **Glacial Illumination** is cast, the CD of **Icetide Vortex** is reset and Eula gains 1 stack of Grimheart."
+    },
+    "passive3": {
+      "name": "Aristocratic Introspection",
+      "info": "When Eula crafts Character Talent Materials, she has a 10% chance to receive double the product."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of Resistance",
+          "count": 3
+        },
+        {
+          "name": "Damaged Mask",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to Resistance",
+          "count": 2
+        },
+        {
+          "name": "Stained Mask",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to Resistance",
+          "count": 4
+        },
+        {
+          "name": "Stained Mask",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to Resistance",
+          "count": 6
+        },
+        {
+          "name": "Stained Mask",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to Resistance",
+          "count": 9
+        },
+        {
+          "name": "Stained Mask",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of Resistance",
+          "count": 4
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 4
+        },
+        {
+          "name": "Dragon Lord's Crown",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of Resistance",
+          "count": 6
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 6
+        },
+        {
+          "name": "Dragon Lord's Crown",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of Resistance",
+          "count": 12
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 9
+        },
+        {
+          "name": "Dragon Lord's Crown",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of Resistance",
+          "count": 16
+        },
+        {
+          "name": "Ominous Mask",
+          "count": 12
+        },
+        {
+          "name": "Dragon Lord's Crown",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Eula_01",
+      "combat3": "Skill_E_Eula_01_HD",
+      "passive1": "UI_Talent_S_Eula_05",
+      "passive2": "UI_Talent_S_Eula_06",
+      "passive3": "UI_Talent_Eula_Combine"
+    },
+    "version": "1.5"
+  }
+}

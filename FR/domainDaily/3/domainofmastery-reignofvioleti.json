@@ -1,0 +1,171 @@
+{
+  "name": "Donjon de la maîtrise : Règne violet",
+  "region": "Inazuma",
+  "domainEntrance": "Cour violette",
+  "domainType": "Matériau d'amélioration d'aptitude",
+  "description": "Des monstres ont pénétré dans cet autel où le cerisier violet est en fleurs pour l'éternité.\nVous serez {M#récompensé}{F#récompensée} avec des matériaux de renforcement d'aptitude si vous arrivez à triompher de cette épreuve.",
+  "daysOfWeek": [
+    "Lundi",
+    "Jeudi",
+    "Dimanche"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Thunder_Dq"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Donjon de la maîtrise : Règne violet I",
+      "recommendedLevel": 38,
+      "recommendedElements": [
+        "Électro"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "EXP d'aventure",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1575
+        },
+        {
+          "name": "EXP d'affinité",
+          "count": 15
+        },
+        {
+          "name": "Enseignement de l'éphémère"
+        }
+      ],
+      "disorder": [
+        "Augmente le bonus de DGT Électro de tous les personnages de l'équipe de 25 %.",
+        "Au cours du défi, des cristofruits Électro et des balles Électro émergentes apparaîtront à de façon intermittente. Après avoir obtenu des perles Électro émergentes, les ennemis seront frappés par la foudre qui leur infligera des DGT Électro lorsqu'un personnage les touchent avec une attaque normale, chargée ou plongeante, mais également une compétence ou un déchaînement élémentaire."
+      ],
+      "monsterlist": [
+        "Brutocollinus",
+        "Grenadier Brutocollinus Électro",
+        "Arbalétrier Brutocollinus Électro",
+        "Brutoviandu avec hache Électro"
+      ]
+    },
+    {
+      "name": "Donjon de la maîtrise : Règne violet II",
+      "recommendedLevel": 54,
+      "recommendedElements": [
+        "Électro"
+      ],
+      "unlockRank": 28,
+      "rewardPreview": [
+        {
+          "name": "EXP d'aventure",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1800
+        },
+        {
+          "name": "EXP d'affinité",
+          "count": 15
+        },
+        {
+          "name": "Enseignement de l'éphémère"
+        },
+        {
+          "name": "Guide de l'Éphémère"
+        }
+      ],
+      "disorder": [
+        "Augmente le bonus de DGT Électro de tous les personnages de l'équipe de 25 %.",
+        "Au cours du défi, des cristofruits Électro et des balles Électro émergentes apparaîtront à de façon intermittente. Après avoir obtenu des perles Électro émergentes, les ennemis seront frappés par la foudre qui leur infligera des DGT Électro lorsqu'un personnage les touchent avec une attaque normale, chargée ou plongeante, mais également une compétence ou un déchaînement élémentaire."
+      ],
+      "monsterlist": [
+        "Nobushi - Jintouban",
+        "Nobushi - Hitsukeban",
+        "Nobushi - Kikouban",
+        "Pyrochimiste des Pilleurs de trésors",
+        "Électrochimiste des Pilleurs de trésors"
+      ]
+    },
+    {
+      "name": "Donjon de la maîtrise : Règne violet III",
+      "recommendedLevel": 71,
+      "recommendedElements": [
+        "Électro"
+      ],
+      "unlockRank": 36,
+      "rewardPreview": [
+        {
+          "name": "EXP d'aventure",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2050
+        },
+        {
+          "name": "EXP d'affinité",
+          "count": 20
+        },
+        {
+          "name": "Enseignement de l'éphémère"
+        },
+        {
+          "name": "Guide de l'Éphémère"
+        }
+      ],
+      "disorder": [
+        "Augmente le bonus de DGT Électro de tous les personnages de l'équipe de 25 %.",
+        "Au cours du défi, des cristofruits Électro et des balles Électro émergentes apparaîtront à de façon intermittente. Après avoir obtenu des perles Électro émergentes, les ennemis seront frappés par la foudre qui leur infligera des DGT Électro lorsqu'un personnage les touchent avec une attaque normale, chargée ou plongeante, mais également une compétence ou un déchaînement élémentaire."
+      ],
+      "monsterlist": [
+        "Nobushi - Hitsukeban",
+        "Nobushi - Kikouban",
+        "Pyrochimiste des Pilleurs de trésors",
+        "Électrochimiste des Pilleurs de trésors",
+        "Oni des mers - Menace de feu"
+      ]
+    },
+    {
+      "name": "Donjon de la maîtrise : Règne violet IV",
+      "recommendedLevel": 88,
+      "recommendedElements": [
+        "Électro"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "EXP d'aventure",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2375
+        },
+        {
+          "name": "EXP d'affinité",
+          "count": 20
+        },
+        {
+          "name": "Enseignement de l'éphémère"
+        },
+        {
+          "name": "Guide de l'Éphémère"
+        },
+        {
+          "name": "Philosophie de l'éphémère"
+        }
+      ],
+      "disorder": [
+        "Augmente le bonus de DGT Électro de tous les personnages de l'équipe de 25 %.",
+        "Au cours du défi, des cristofruits Électro et des balles Électro émergentes apparaîtront à de façon intermittente. Après avoir obtenu des perles Électro émergentes, les ennemis seront frappés par la foudre qui leur infligera des DGT Électro lorsqu'un personnage les touchent avec une attaque normale, chargée ou plongeante, mais également une compétence ou un déchaînement élémentaire."
+      ],
+      "monsterlist": [
+        "Cryochimiste des Pilleurs de trésors",
+        "Oni des mers - Danse d'éclairs",
+        "Oni des mers - Menace de feu"
+      ]
+    }
+  ]
+}

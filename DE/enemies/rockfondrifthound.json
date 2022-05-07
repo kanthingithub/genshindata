@@ -1,0 +1,141 @@
+{
+  "name": "Felsenfressender Garm",
+  "specialname": "Eindringende Bestie",
+  "enemytype": "ELITE",
+  "category": "Der Abgrund",
+  "description": "Ein Monster, in dessen Adern das giftige Dämonenblut fließt. Es ist in der Lage, die Grenze zwischen der irdischen Welt und der Hölle zu durchbrechen und zerfetzen. „Gold“ hat es erschaffen.\nDiese Monster ähneln auf subtile Weise in vielen Hinsichten den wahren Wölfen. Vielleicht aus kranker Ehrfurcht oder tückischem Neid gegenüber ihre „Verwandten“ streben sie schwärmerisch an, alle Wölfe auszuradieren.",
+  "investigation": {
+    "name": "Garmwolf",
+    "category": "Elite",
+    "description": "Ominöse, fremdartige Bestien mit düsteren Farben, die in Rudeln unterwegs sind, ähnlich wie Wölfe.\\nEs heißt, dass sie die Macht haben, die Grenzen der Welt aufzulösen."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Kralle der versteckten Monster",
+      "count": 5.2526
+    },
+    {
+      "name": "Versteckte Monsterklauen",
+      "count": 1.4006
+    },
+    {
+      "name": "Versteckte Monsterkrallen",
+      "count": 0.3502
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Ausbilder",
+      "rarity": "3"
+    },
+    {
+      "name": "Verbannter",
+      "rarity": "3"
+    },
+    {
+      "name": "Wanderarzt",
+      "rarity": "3"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Ausbilder",
+      "rarity": "4"
+    },
+    {
+      "name": "Verbannter",
+      "rarity": "4"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Hound_Riftstalker_Rock"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 513.9399908444029,
+      "attack": 81.20874142159664,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 2024.1830612137564,
+      "attack": 216.96889018327784,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 5957.874750514515,
+      "attack": 535.1999089937599,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 11094.789945280412,
+      "attack": 874.1651434627711,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 19920.928208313184,
+      "attack": 1306.9244655380026,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 36704.72439475497,
+      "attack": 2015.4472440918325,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 62012.59746199194,
+      "attack": 2838.1580889605684,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 102564.67427988164,
+      "attack": 3917.9431035507005,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 165456.3191879019,
+      "attack": 5040.848230909556,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 259702.01247135177,
+      "attack": 6090.039402680704,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 388220.12688163295,
+      "attack": 7879.068567919079,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 491370.10539378226,
+      "attack": 8035.511100489413,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 568355.2145917788,
+      "attack": 8193.048953408841,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

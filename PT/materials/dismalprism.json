@@ -1,0 +1,21 @@
+{
+  "name": "Prisma Sombrio",
+  "description": "Este já foi um prisma capaz de polarizar a luz, mas tornou-se opaco com o passar dos anos.",
+  "sortorder": 1768,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Dropado por Fatui - Dama de Snezhnaya",
+    "Resgate de Poeira Estrelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dismal_Prism.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Item_Dismal_Prism.png",
+    "nameicon": "UI_ItemIcon_112050"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dismal_Prism"
+  },
+  "version": ""
+}

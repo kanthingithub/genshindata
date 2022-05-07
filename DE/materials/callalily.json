@@ -1,0 +1,20 @@
+{
+  "name": "Wasserlilie",
+  "description": "Eine Blume, die am Ufer von Gewässern wächst. Ihre Blüten sind zubereitet ein wahres Erlebnis auf der Zunge, leicht süß und bitter.",
+  "sortorder": 2042,
+  "category": "EXCHANGE",
+  "materialtype": "Regionale Besonderheit aus Mondstadt",
+  "source": [
+    "An Gewässern zu finden",
+    "Empfohlen: In Quellingen zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Calla_Lily.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Item_Calla_Lily.png",
+    "nameicon": "UI_ItemIcon_100056"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Calla_Lily"
+  },
+  "version": ""
+}

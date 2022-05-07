@@ -1,0 +1,22 @@
+{
+  "name": "Chifre Pesado",
+  "description": "Os Hilichurls usam os seus chifres para se comunicarem com seus companheiros. Dizem que hoje em dia, devido aos danos de batalhas, os chifres já não possuem mais a função de comunicação.",
+  "sortorder": 1735,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Dropado por Mitachurls",
+    "Dropado por Lawachurls",
+    "Resgate de Poeira Estrelar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Heavy_Horn.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c0/Item_Heavy_Horn.png",
+    "nameicon": "UI_ItemIcon_112014"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Heavy_Horn"
+  },
+  "version": ""
+}

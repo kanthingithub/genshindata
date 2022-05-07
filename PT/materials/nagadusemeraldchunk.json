@@ -1,0 +1,19 @@
+{
+  "name": "Pedaço de Esmeralda Nagadus",
+  "description": "Material de Ascensão de Personagem.\"\nNo final, a vida se desprendeu de seu rumo...\"\n\"concedendo a liberdade da vida para todos.\"",
+  "sortorder": 1832,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Obtido na síntese"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Nagadus_Emerald_Chunk.png",
+    "nameicon": "UI_ItemIcon_104133"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Nagadus_Emerald_Chunk"
+  },
+  "version": ""
+}

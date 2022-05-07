@@ -1,0 +1,26 @@
+{
+  "name": "Schellen des Löwenzahnkämpfers",
+  "description": "Material mit der Kraft, Waffen aufsteigen zu lassen.\nVennessa war keineswegs von ihren in Mondstadt gefertigten Ketten eingeschränkt, die sie jederzeit hätte sprengen können, da es dort keine hochwertigen Metalle und auch nicht das starke Feuer ihrer Heimat gab.\nSie war allein an ihre Verantwortung, ihr Volk zu beschützen, gebunden.",
+  "sortorder": 2193,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zum Aufstieg von Waffen",
+  "dropdomain": "Sphäre der Kriegskunst: Verdurstete Stadt",
+  "daysofweek": [
+    "Mittwoch",
+    "Samstag",
+    "Sonntag"
+  ],
+  "source": [
+    "Kann hergestellt werden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shackles_of_the_Dandelion_Gladiator.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Item_Shackles_of_the_Dandelion_Gladiator.png",
+    "nameicon": "UI_ItemIcon_114011"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shackles_of_the_Dandelion_Gladiator"
+  },
+  "version": ""
+}

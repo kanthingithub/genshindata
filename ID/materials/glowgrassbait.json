@@ -1,0 +1,20 @@
+{
+  "name": "Glowgrass Bait",
+  "description": "Umpan khusus yang terbuat dari Magical Crystal Ore dan Seagrass. Dapat bersinar di tempat yang tidak ada cahaya, dan mungkin sangat menarik bagi para makhluk yang tertarik pada cahaya. Kalau umpan ini sudah habis, kamu bisa memintanya lagi dari Kujirai Momiji.\n\nCocok digunakan untuk semua jenis ikan.",
+  "sortorder": 1518,
+  "rarity": "2",
+  "category": "FISH_BAIT",
+  "materialtype": "Umpan Ikan",
+  "source": [
+    "Didapatkan dengan menyelesaikan quest Kujirai Momiji"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_111027",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Glowgrass_Bait.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Item_Glowgrass_Bait.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Glowgrass_Bait"
+  },
+  "version": ""
+}

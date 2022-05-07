@@ -1,0 +1,19 @@
+{
+  "name": "蜥蜴尾巴",
+  "description": "失去生命后微微卷曲的蜥蜴尾巴。含有强烈的药性，能让人皮肤变硬。味道很苦。",
+  "sortorder": 1974,
+  "category": "EXCHANGE",
+  "materialtype": "素材",
+  "source": [
+    "捕捉蜥蜴采集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lizard_Tail.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Lizard_Tail.png",
+    "nameicon": "UI_ItemIcon_100083"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lizard_Tail"
+  },
+  "version": ""
+}

@@ -1,0 +1,22 @@
+{
+  "name": "澄明なラピスラズリ·欠片",
+  "description": "キャラクターの突破用アイテム。\n「吾の理想には一片の穢れも無い。」",
+  "sortorder": 1827,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "キャラクター育成素材",
+  "source": [
+    "純水精霊（Lv.40以上）でドロップ",
+    "無相の水（Lv.40以上）でドロップ",
+    "合成で獲得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Varunada_Lazurite_Fragment.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f6/Item_Varunada_Lazurite_Fragment.png",
+    "nameicon": "UI_ItemIcon_104122"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Varunada_Lazurite_Fragment"
+  },
+  "version": ""
+}

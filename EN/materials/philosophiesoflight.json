@@ -1,0 +1,26 @@
+{
+  "name": "Philosophies of Light",
+  "description": "Talent Level-Up material.\nLight is the yearning of the land of thunder.\nThough they must live forever on the earth, humanity will always reach for the light. Mortals will pursue and surpass, and they will never stop. A sealed eternity may, perhaps, look magnificent, but its essence is death.",
+  "sortorder": 1877,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Talent Level-Up Material",
+  "dropdomain": "Domain of Mastery: Vine-Infested Ruins",
+  "daysofweek": [
+    "Wednesday",
+    "Saturday",
+    "Sunday"
+  ],
+  "source": [
+    "Crafted"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philosophies_of_Light.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Item_Philosophies_of_Light.png",
+    "nameicon": "UI_ItemIcon_104328"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philosophies_of_Light"
+  },
+  "version": ""
+}

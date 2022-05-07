@@ -1,0 +1,20 @@
+{
+  "name": "Seele des Nordwinds",
+  "description": "Etwas Energie der Seele des Wolfs des Nordens.\nDurch dieses Land pfiff einst der eiskalte Wind des Nordens. Letztendlich hat er verstanden, dass dieser Wind das Leben nicht nährt, sondern es zerstört. Mit seinen letzten Atemzügen übertrug er seine Kraft auf dieses Land, um es und seine Bewohner auf ewig zu beschützen.",
+  "sortorder": 1790,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Belohnung für die Herausforderung des Wolfs des Nordens ab Stufe 70"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Spirit_Locket_of_Boreas.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Item_Spirit_Locket_of_Boreas.png",
+    "nameicon": "UI_ItemIcon_113008"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Spirit_Locket_of_Boreas"
+  },
+  "version": ""
+}

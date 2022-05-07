@@ -1,0 +1,18 @@
+{
+  "name": "Essência Pútrida de Dragão",
+  "description": "Material de refinamento especializado para a Espada Pútrida.\nEste é o produto da purificação do veneno maligno de Durin, que se infiltrou e se espalhou pelas Linhas Ley da Espinha do Dragão. Ao usá-la sobre uma espada sanguinária com forte afinidade por tais materiais, você pode aumentar o poder dessa espada.",
+  "sortorder": 2293,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Refinamento",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Festering_Dragon_Marrow.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Item_Festering_Dragon_Marrow.png",
+    "nameicon": "UI_ItemIcon_200103"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Festering_Dragon_Marrow"
+  },
+  "version": ""
+}

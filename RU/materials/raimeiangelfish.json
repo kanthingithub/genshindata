@@ -1,0 +1,20 @@
+{
+  "name": "Рыба-ангел раймэй",
+  "description": "Редкий вид рыб-бабочек из Инадзумы, предпочитающий воды со скоплением элемента Электро. Кажется, электрический ток приносит им удовольствие.\nСогласно легенде, происходит от вида, живущего в Ли Юэ. Некогда торговцы привезли его в Инадзуму, и неожиданно он приспособился к местным условиям. Учёные изучают их с помощью Электро слаймов.\n«Я... я... языка... не... чувствую...» - какой-то обжора, съевший слишком много рыбы-ангела раймэй.",
+  "sortorder": 2031,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Рыба",
+  "source": [
+    "Рыбалка"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Raimei_Angelfish.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Item_Raimei_Angelfish.png",
+    "nameicon": "UI_ItemIcon_131017"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Raimei_Angelfish"
+  },
+  "version": ""
+}

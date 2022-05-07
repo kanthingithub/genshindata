@@ -1,0 +1,26 @@
+{
+  "name": "Boreal Wolf's Broken Fang",
+  "description": "Material Ascension Senjata.\nKelompok serigala juga mengerti bahwa manusia bukanlah makhluk penyendiri. Taring yang patah adalah sebuah hadiah perpisahan yang memberikan perlindungan dan keberuntungan.\nDalam legenda dunia lain, seekor serigala perempuan telah mengangkat dua manusia yang hebat; rumah mereka dikenal sebagai Goa Serigala, atau Lupercal - Lupercal yang sama dengan dunia ini.",
+  "sortorder": 2189,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Ascension Senjata",
+  "dropdomain": "Domain of Forgery: Lembah yang Tenggelam",
+  "daysofweek": [
+    "Selasa",
+    "Jumat",
+    "Minggu"
+  ],
+  "source": [
+    "Didapatkan melalui Craft"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Boreal_Wolf's_Broken_Fang.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/98/Item_Boreal_Wolf%27s_Broken_Fang.png",
+    "nameicon": "UI_ItemIcon_114007"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Boreal_Wolf's_Broken_Fang"
+  },
+  "version": ""
+}

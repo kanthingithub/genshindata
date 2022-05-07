@@ -1,0 +1,113 @@
+{
+  "name": "Slime Nham",
+  "specialname": "Sức Mạnh Nguyên Tố Tròn Quay",
+  "enemytype": "COMMON",
+  "category": "Sinh Mệnh Nguyên Tố",
+  "description": "Ma vật nhỏ được hình thành từ nguyên tố Nham rải rác trong lòng đất.\nNói theo nghĩa rộng, trong vỏ trái đất hàm chứa nguyên tố Nham rất phong phú. Slime Nham được sinh ra từ đó cũng khiến cho người ta bước đi cảm thấy vững chắc hơn.",
+  "investigation": {
+    "name": "Slime",
+    "category": "Thường",
+    "description": "Sinh vật nguyên tố tròn ung ủng.\\nNghe nói, Slime không cùng thuộc tính nguyên tố đem làm món tráng miệng, sẽ có mùi vị kỳ diệu không cái nào giống cái nào."
+  },
+  "rewardpreview": [
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Dịch Slime",
+      "count": 0.6723
+    },
+    {
+      "name": "Tinh Slime",
+      "count": 0.1792
+    },
+    {
+      "name": "Bột Slime",
+      "count": 0.0448
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Slime_Rock_02"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 58.33359554497292,
+      "attack": 15.226638053090369,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 229.28324689085457,
+      "attack": 40.68166433524971,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 708.1600134551263,
+      "attack": 100.34997658672819,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 1178.2402819820345,
+      "attack": 163.90595402819054,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 2155.879608624673,
+      "attack": 245.04832178304787,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 3997.1874748962,
+      "attack": 377.8963343559899,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 6705.003968172241,
+      "attack": 532.1546080082517,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 10441.578293176426,
+      "attack": 734.614285433352,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 14852.58229308587,
+      "attack": 945.1589834910119,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 19483.26968389738,
+      "attack": 1141.8823157505176,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 29412.097748303786,
+      "attack": 1477.325263007704,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 42801.85172858881,
+      "attack": 1506.6582360086104,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 57589.05438947724,
+      "attack": 1536.196581561977,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

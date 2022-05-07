@@ -1,0 +1,45 @@
+{
+  "name": "Emblem of Severed Fate",
+  "rarity": [
+    "4",
+    "5"
+  ],
+  "2pc": "Energy Recharge +20%.",
+  "4pc": "Meningkatkan DMG Elemental Burst sebesar 25% dari Energy Recharge. Peningkatan DMG Elemental Burst maksimum yang bisa didapatkan dengan cara ini adalah 75%.",
+  "flower": {
+    "name": "Magnificent Tsuba",
+    "relictype": "Flower of Life",
+    "description": "Legenda mengatakan bahwa pelindung tangan yang penuh hiasan ini pernah dipasang pada pedang yang diberikan kepada oni yang mengkhianati Shogun."
+  },
+  "plume": {
+    "name": "Sundered Feather",
+    "relictype": "Plume of Death",
+    "description": "Benda ini dulunya adalah bulu hitam prajurit tengu tertentu, dan merupakan kenangan berharga dari pendekar pedang kuno."
+  },
+  "sands": {
+    "name": "Storm Cage",
+    "relictype": "Sands of Eon",
+    "description": "Sebuah sangkar indah bermotif bunga pansy yang dilukis dengan latar belakang berwarna hitam, dihias menggunakan kerang hias yang berkilau dan karya emas yang rumit."
+  },
+  "goblet": {
+    "name": "Scarlet Vessel",
+    "relictype": "Goblet of Eonothem",
+    "description": "Wadah anggur dengan desain rumit yang darinyalah pernah seorang seniman bela diri terkenal di dunia meneguk anggurnya."
+  },
+  "circlet": {
+    "name": "Ornate Kabuto",
+    "relictype": "Circlet of Logos",
+    "description": "Helm yang kokoh dan keras dikenakan sebagai pelindung tubuh bagi seorang samurai yang mulia."
+  },
+  "images": {
+    "flower": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_4.png",
+    "plume": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_2.png",
+    "sands": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_5.png",
+    "goblet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_1.png",
+    "circlet": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_3.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Emblem_of_Severed_Fate"
+  },
+  "version": "2.0"
+}

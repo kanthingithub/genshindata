@@ -1,0 +1,19 @@
+{
+  "name": "Muguet bleu",
+  "description": "Une petite fleur qui possède une forte vitalité. On dit qu'elle fleurit vers le bas pour que son parfum dure plus longtemps.",
+  "sortorder": 2054,
+  "category": "EXCHANGE",
+  "materialtype": "Produit de Liyue",
+  "source": [
+    "Montagnes de Liyue"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Violetgrass.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Item_Violetgrass.png",
+    "nameicon": "UI_ItemIcon_100034"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Violetgrass"
+  },
+  "version": ""
+}

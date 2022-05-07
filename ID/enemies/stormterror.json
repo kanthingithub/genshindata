@@ -1,0 +1,207 @@
+{
+  "name": "Stormterror",
+  "specialname": "Stormterror",
+  "enemytype": "BOSS",
+  "category": "Musuh Kuat",
+  "description": "Dvalin, sang Dragon of the East, salah satu dari Four Winds di Mondstadt.\nSeiring berjalannya waktu di tengah-tengah kegelapan pekat, bahkan batu permata paling berkilau sekalipun akan tertutup oleh debu, dan seekor naga yang mulia pun akan terjerat dalam rasa benci dan dendam.\nTapi kalian harus selalu ingat bahwa debu dapat dibersihkan dan rasa benci ataupun dendam yang meracuni dapat disingkirkan.\n\n\"Terbanglah dengan bebas di langit yang luas.\"\n\"Sama seperti waktu kita pertama kali bertemu, saat aku menginjakkan kaki di tanah ini sambil menyanyikan lagu tentang kebebasan,\"\n\"Dan kamu melesat jauh ke atas langit, melihat dunia ini dari angkasa sana.\n\"Saat ini dunia terlihat sangat indah, tidak ada angin dan salju yang menerpa langit, dan rumput-rumput hijau menghiasi seluruh daratan.\"\n\"Aku yakin kamu juga akan mengerti, jika kamu pernah berjalan di atas tanah subur ini, mendengar suara gembala domba dan lonceng angin dari kejauhan, atau mencicipi anggur yang manis bagaikan madu.\n\"Alangkah baiknya kalau kamu bisa menjadi diriku, melihat wujudmu yang begitu mulia dan indah itu terbang bebas di langit yang biru.\"\n\"Dengan begitu kamu akan menyadari, bahwa langit ini dan bumi ini... Keduanya patut diperjuangkan.\"",
+  "rewardpreview": [
+    {
+      "name": "Adventure EXP",
+      "count": 300
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Friendship EXP"
+    },
+    {
+      "name": "Vayuda Turquoise Sliver"
+    },
+    {
+      "name": "Vayuda Turquoise Fragment"
+    },
+    {
+      "name": "Vayuda Turquoise Chunk"
+    },
+    {
+      "name": "Vayuda Turquoise Gemstone"
+    },
+    {
+      "name": "Vajrada Amethyst Sliver"
+    },
+    {
+      "name": "Vajrada Amethyst Fragment"
+    },
+    {
+      "name": "Vajrada Amethyst Chunk"
+    },
+    {
+      "name": "Vajrada Amethyst Gemstone"
+    },
+    {
+      "name": "Varunada Lazurite Sliver"
+    },
+    {
+      "name": "Varunada Lazurite Fragment"
+    },
+    {
+      "name": "Varunada Lazurite Chunk"
+    },
+    {
+      "name": "Varunada Lazurite Gemstone"
+    },
+    {
+      "name": "Dream Solvent",
+      "count": 0.33
+    },
+    {
+      "name": "Dvalin's Plume"
+    },
+    {
+      "name": "Dvalin's Claw"
+    },
+    {
+      "name": "Dvalin's Sigh"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "3"
+    },
+    {
+      "name": "The Exile",
+      "rarity": "3"
+    },
+    {
+      "name": "Gladiator's Finale",
+      "rarity": "4"
+    },
+    {
+      "name": "Wanderer's Troupe",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "4"
+    },
+    {
+      "name": "The Exile",
+      "rarity": "4"
+    },
+    {
+      "name": "Gladiator's Finale",
+      "rarity": "5"
+    },
+    {
+      "name": "Wanderer's Troupe",
+      "rarity": "5"
+    },
+    {
+      "name": "Northlander Sword Billet"
+    },
+    {
+      "name": "Northlander Bow Billet"
+    },
+    {
+      "name": "Northlander Claymore Billet"
+    },
+    {
+      "name": "Northlander Catalyst Billet"
+    },
+    {
+      "name": "Northlander Polearm Billet"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Dvalin"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 656.2529383627698,
+      "attack": 152.2663863116577,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 2579.4364822493226,
+      "attack": 406.8166587971864,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 7966.800011541462,
+      "attack": 1003.4998039648926,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 13255.20293965016,
+      "attack": 1639.0596025083796,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 24253.645171341486,
+      "attack": 2450.4833108624443,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 44968.35830332339,
+      "attack": 3778.963487027271,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 75431.29331801087,
+      "attack": 5321.546282113646,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 117467.75373650808,
+      "attack": 7346.143133227946,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 167091.54786452092,
+      "attack": 9451.590193737298,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 219186.78009680472,
+      "attack": 11418.823591017863,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 330886.09386089444,
+      "attack": 14773.25319093978,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 481520.82349524647,
+      "attack": 15066.582932085032,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 647876.8505104557,
+      "attack": 15361.966398832854,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

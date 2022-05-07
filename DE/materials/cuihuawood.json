@@ -1,0 +1,22 @@
+{
+  "name": "Exquisitholz",
+  "description": "Holz von Exquisitbäumen. Mit seiner schönen Farbe und seiner einzigartigen Beschaffenheit wird es bei entsprechender Verarbeitung sicherlich unzählige Verwendungsmöglichkeiten finden.\nKann zum Herstellen von Dekoration verwendet werden.",
+  "sortorder": 1952,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Material",
+  "source": [
+    "In der freien Natur zu finden",
+    "Empfohlen: In dem Sternfalltal zu finden",
+    "Empfohlen: Auf der Bishui-Ebene zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cuihua_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/c/c5/Item_Cuihua_Wood.png",
+    "nameicon": "UI_ItemIcon_101302"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cuihua_Wood"
+  },
+  "version": ""
+}

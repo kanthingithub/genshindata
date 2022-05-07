@@ -1,0 +1,21 @@
+{
+  "name": "Golden Raven Insignia",
+  "description": "Sebuah lencana gagak yang melambangkan kebanggaan dan prinsip yang menuntun para Treasure Hoarder. Tidak peduli di mana, asal ada harta untuk diburu, jiwa pemburu mereka tidak akan pernah mati.",
+  "sortorder": 1755,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Didapatkan melalui Craft",
+    "Dijatuhkan oleh Treasure Hoarder Lv. 60+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Golden_Raven_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Golden_Raven_Insignia.png",
+    "nameicon": "UI_ItemIcon_112037"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Golden_Raven_Insignia"
+  },
+  "version": ""
+}

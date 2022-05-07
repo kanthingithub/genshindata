@@ -1,0 +1,20 @@
+{
+  "name": "Мудра зловещего генерала",
+  "description": "Деталь марионетки, добытая из Царства эвтюмии. Жест здесь символизирует концепцию «видеть и делать».\nДаже теперь, когда «она» превратилась в божество бедствий, она может использовать трансцендентные жесты и воспламенять меч в мгновение ока.\nВсё же бесчисленные бедствия продолжались слишком долго - и оболочка свирепого генерала вынуждена была принять новую весну.",
+  "sortorder": 1814,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Развитие персонажа",
+  "source": [
+    "Защитник вечности Ур. 70+"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_113032",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mudra_of_the_Malefic_General.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f2/Item_Mudra_of_the_Malefic_General.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mudra_of_the_Malefic_General"
+  },
+  "version": ""
+}

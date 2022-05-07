@@ -1,0 +1,19 @@
+{
+  "name": "Rohes Fleisch",
+  "description": "Ein frisches Stück rohes Fleisch, das mit der richtigen Zubereitung zu einer nahrhaften Mahlzeit wird.",
+  "sortorder": 1989,
+  "category": "EXCHANGE",
+  "materialtype": "Zutat",
+  "source": [
+    "Beute von Tieren"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Raw_Meat.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/bf/Item_Raw_Meat.png",
+    "nameicon": "UI_ItemIcon_100061"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Raw_Meat"
+  },
+  "version": ""
+}

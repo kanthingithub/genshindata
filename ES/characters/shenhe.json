@@ -1,0 +1,951 @@
+{
+  "name": "Shenhe",
+  "fullname": "Shenhe",
+  "title": "La Ermitaña Sobrehumana",
+  "description": "Una discípula de los Adeptus con una mirada perdida. Al haber vivido recluida en las montañas de Liyue, su carácter es tan frío y distante como el de los Adeptus.",
+  "rarity": "5",
+  "element": "Cryo",
+  "weapontype": "Lanza",
+  "substat": "ATQ",
+  "gender": "Femenino",
+  "body": "LADY",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Morada de Preservadora de Nubes",
+  "birthdaymmdd": "3/10",
+  "birthday": "10 de marzo",
+  "constellation": "Crista Doloris",
+  "cv": {
+    "english": "Chelsea Kwoka",
+    "chinese": "秦紫翼",
+    "japanese": "川澄綾子",
+    "korean": "Lee Hyeon-jin"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Pedacito de jade shivada",
+        "count": 1
+      },
+      {
+        "name": "Flor chingxin",
+        "count": 3
+      },
+      {
+        "name": "Néctar de Megaflora",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de jade shivada",
+        "count": 3
+      },
+      {
+        "name": "Pseudoaleta de dragón de las profundidades",
+        "count": 2
+      },
+      {
+        "name": "Flor chingxin",
+        "count": 10
+      },
+      {
+        "name": "Néctar de Megaflora",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de jade shivada",
+        "count": 6
+      },
+      {
+        "name": "Pseudoaleta de dragón de las profundidades",
+        "count": 4
+      },
+      {
+        "name": "Flor chingxin",
+        "count": 20
+      },
+      {
+        "name": "Néctar brillante",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Trozo de jade shivada",
+        "count": 3
+      },
+      {
+        "name": "Pseudoaleta de dragón de las profundidades",
+        "count": 8
+      },
+      {
+        "name": "Flor chingxin",
+        "count": 30
+      },
+      {
+        "name": "Néctar brillante",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Trozo de jade shivada",
+        "count": 6
+      },
+      {
+        "name": "Pseudoaleta de dragón de las profundidades",
+        "count": 12
+      },
+      {
+        "name": "Flor chingxin",
+        "count": 45
+      },
+      {
+        "name": "Néctar energético",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Jade shivada",
+        "count": 6
+      },
+      {
+        "name": "Pseudoaleta de dragón de las profundidades",
+        "count": 20
+      },
+      {
+        "name": "Flor chingxin",
+        "count": 60
+      },
+      {
+        "name": "Néctar energético",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_AvatarIcon_Shenhe",
+    "nameiconcard": "UI_AvatarIcon_Shenhe_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Shenhe",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Shenhe",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png",
+    "namesideicon": "UI_AvatarIcon_Side_Shenhe",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Shenhe.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211226/2021122613552422734.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20211226/2021122613553025678.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shenhe"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1011.4725341796875,
+      "attack": 23.64739990234375,
+      "defense": 64.61640167236328,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2623.7598559113394,
+      "attack": 61.34135773718299,
+      "defense": 167.61495247014864,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3491.006071731652,
+      "attack": 81.61538460791053,
+      "defense": 223.01895179876192,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5223.65858258761,
+      "attack": 122.12338203884428,
+      "defense": 333.7068516841464,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5839.8598765329225,
+      "attack": 136.52861160732573,
+      "defense": 373.0728489985995,
+      "specialized": 0.07199999690055847
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6718.829466291994,
+      "attack": 157.07820113017806,
+      "defense": 429.2244993404711,
+      "specialized": 0.07199999690055847
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7540.431028791994,
+      "attack": 176.2851713450218,
+      "defense": 481.7124983028734,
+      "specialized": 0.14399999380111694
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8428.503693869454,
+      "attack": 197.04758331744233,
+      "defense": 538.4456849211638,
+      "specialized": 0.14399999380111694
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9044.705109885079,
+      "attack": 211.4528147932724,
+      "defense": 577.8116822356169,
+      "specialized": 0.14399999380111694
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9940.869933365204,
+      "attack": 232.4044148052635,
+      "defense": 635.0618242235032,
+      "specialized": 0.14399999380111694
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10557.071105240204,
+      "attack": 246.80964246639633,
+      "defense": 674.4278367967454,
+      "specialized": 0.2160000056028366
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11463.350403262128,
+      "attack": 267.9977106139122,
+      "defense": 732.3241267793746,
+      "specialized": 0.2160000056028366
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12079.551575137128,
+      "attack": 282.402938275045,
+      "defense": 771.6901088350387,
+      "specialized": 0.2879999876022339
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12992.911632338306,
+      "attack": 303.7565487761749,
+      "defense": 830.0387424689397,
+      "specialized": 0.2879999876022339
+    }
+  },
+  "version": "2.4",
+  "constellations": {
+    "c1": {
+      "name": "Corazón puro",
+      "effect": "**Espíritu exorcizador** se puede usar una vez más."
+    },
+    "c2": {
+      "name": "Concentración espiritual",
+      "effect": "Aumenta en 6 s la duración de **Encantamiento de la damisela divina**. Además, cuando un personaje en uso está en el área de la habilidad, el Daño CRIT de los ataques que infligen Daño Cryo aumenta en un 15%."
+    },
+    "c3": {
+      "name": "Reclusión",
+      "effect": "Aumenta el nivel de habilidad de **Espíritu exorcizador** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c4": {
+      "name": "Clarividencia",
+      "effect": "Cuando un personaje afectado por la **pluma glacial** de Shenhe activa el aumento de daño de la pluma, Shenhe obtiene una carga de “mantra de la escarcha”.\n·Al lanzar **Espíritu exorcizador**, se consumirán todas las cargas del mantra de la escarcha y el daño infligido con Espíritu exorcizador aumentará en un 5% por cada carga consumida.\n·Este efecto puede acumularse hasta 50 veces y su duración es de 60 s."
+    },
+    "c5": {
+      "name": "Divinización",
+      "effect": "Aumenta el nivel de habilidad de **Encantamiento de la damisela divina** +3.\nPuede ser aumentado hasta Niv. 15."
+    },
+    "c6": {
+      "name": "Abandono místico",
+      "effect": "Cuando un personaje activa los efectos de la **pluma glacial** infligiendo daño con un Ataque Normal o Cargado, no se consumirán cargas de la pluma."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shenhe_02.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shenhe_01.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Shenhe_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shenhe_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Shenhe_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Shenhe_04.png",
+      "constellation": "Eff_UI_Talent_Shenhe"
+    },
+    "version": "2.4"
+  },
+  "talent": {
+    "name": "Shenhe",
+    "combat1": {
+      "name": "Ataque Normal: Perforaestrellas",
+      "info": "**Ataque Normal**\nRealiza hasta 5 ataques rápidos con lanza.\n\n**Ataque Cargado**\nConsume una cierta cantidad de Aguante para lanzarse al frente, infligiendo daño a los enemigos en el camino.\n\n**Ataque Descendente**\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "attributes": [
+        {
+          "name": "Daño de 1er golpe",
+          "parameters": [
+            "43.26%",
+            "46.78%",
+            "50.30%",
+            "55.33%",
+            "58.85%",
+            "62.88%",
+            "68.41%",
+            "73.94%",
+            "79.47%",
+            "85.51%",
+            "91.55%",
+            "97.58%",
+            "103.62%",
+            "109.65%",
+            "115.69%"
+          ]
+        },
+        {
+          "name": "Daño de 2.º golpe",
+          "parameters": [
+            "40.25%",
+            "43.52%",
+            "46.80%",
+            "51.48%",
+            "54.76%",
+            "58.50%",
+            "63.65%",
+            "68.80%",
+            "73.94%",
+            "79.56%",
+            "85.18%",
+            "90.79%",
+            "96.41%",
+            "102.02%",
+            "107.64%"
+          ]
+        },
+        {
+          "name": "Daño de 3er golpe",
+          "parameters": [
+            "53.32%",
+            "57.66%",
+            "62.00%",
+            "68.20%",
+            "72.54%",
+            "77.50%",
+            "84.32%",
+            "91.14%",
+            "97.96%",
+            "105.40%",
+            "112.84%",
+            "120.28%",
+            "127.72%",
+            "135.16%",
+            "142.60%"
+          ]
+        },
+        {
+          "name": "Daño de 4.º golpe",
+          "parameters": [
+            "26.32%+26.32%",
+            "28.46%+28.46%",
+            "30.60%+30.60%",
+            "33.66%+33.66%",
+            "35.80%+35.80%",
+            "38.25%+38.25%",
+            "41.62%+41.62%",
+            "44.98%+44.98%",
+            "48.35%+48.35%",
+            "52.02%+52.02%",
+            "55.69%+55.69%",
+            "59.36%+59.36%",
+            "63.04%+63.04%",
+            "66.71%+66.71%",
+            "70.38%+70.38%"
+          ]
+        },
+        {
+          "name": "Daño de 5.º golpe",
+          "parameters": [
+            "65.62%",
+            "70.96%",
+            "76.30%",
+            "83.93%",
+            "89.27%",
+            "95.38%",
+            "103.77%",
+            "112.16%",
+            "120.55%",
+            "129.71%",
+            "138.87%",
+            "148.02%",
+            "157.18%",
+            "166.33%",
+            "175.49%"
+          ]
+        },
+        {
+          "name": "Daño de ATQ Cargado",
+          "parameters": [
+            "110.67%",
+            "119.68%",
+            "128.69%",
+            "141.56%",
+            "150.57%",
+            "160.86%",
+            "175.02%",
+            "189.17%",
+            "203.33%",
+            "218.77%",
+            "234.22%",
+            "249.66%",
+            "265.10%",
+            "280.54%",
+            "295.99%"
+          ]
+        },
+        {
+          "name": "Coste de Aguante de ATQ Cargado",
+          "parameters": [
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts.",
+            "25 pts."
+          ]
+        },
+        {
+          "name": "Daño de Caída",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "Daño de impacto de caída baja/alta",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Espíritu exorcizador",
+      "info": "Invoca una escarcha plateada para exorcizar el mal.\nAplica el efecto de “pluma glacial” sobre todos los personajes del equipo cercanos e inflige Daño Cryo de maneras distintas dependiendo de si la habilidad se activó pulsando una vez o manteniendo pulsado.\n\n**Pulsar una vez**\nSe lanza al frente junto a un espíritu hechizado para infligir Daño Cryo contra los enemigos en su camino.\n\n**Mantener pulsado**\nOrdena al espíritu hechizado que inflija Daño Cryo en el AdE.\n\n**Pluma glacial**\nCuando los Ataques Normales, Cargados o Descendentes o la Habilidad Elemental o Definitiva infligen Daño Cryo contra un enemigo, el daño que infligen aumenta en proporción al ATQ actual de Shenhe.\n\nLos efectos de la pluma glacial desaparecerán cuando termine su duración o cuando se haya activado un número determinado de cargas. La pluma glacial activada manteniendo pulsado tiene una mayor duración y un mayor número de cargas que la activada pulsando una vez.\nAl golpear a varios enemigos a la vez con un golpe de Daño Cryo, se consumirán cargas en función del número de enemigos golpeados. Los efectos y las cargas de la pluma glacial se calculan de manera independiente para cada personaje.",
+      "description": "Que los espíritus tienen poder no es ninguna falsedad. Ahora, yo te ordeno que en el talismán has de entrar. ¡Ja!",
+      "attributes": [
+        {
+          "name": "Daño de habilidad al pulsar una vez",
+          "parameters": [
+            "139.20%",
+            "149.64%",
+            "160.08%",
+            "174.00%",
+            "184.44%",
+            "194.88%",
+            "208.80%",
+            "222.72%",
+            "236.64%",
+            "250.56%",
+            "264.48%",
+            "278.40%",
+            "295.80%",
+            "313.20%",
+            "330.60%"
+          ]
+        },
+        {
+          "name": "Daño de habilidad al mantener pulsado",
+          "parameters": [
+            "188.80%",
+            "202.96%",
+            "217.12%",
+            "236.00%",
+            "250.16%",
+            "264.32%",
+            "283.20%",
+            "302.08%",
+            "320.96%",
+            "339.84%",
+            "358.72%",
+            "377.60%",
+            "401.20%",
+            "424.80%",
+            "448.40%"
+          ]
+        },
+        {
+          "name": "Aumento de daño",
+          "parameters": [
+            "45.66% de ATQ",
+            "49.08% de ATQ",
+            "52.50% de ATQ",
+            "57.07% de ATQ",
+            "60.49% de ATQ",
+            "63.92% de ATQ",
+            "68.48% de ATQ",
+            "73.05% de ATQ",
+            "77.62% de ATQ",
+            "82.18% de ATQ",
+            "86.75% de ATQ",
+            "91.31% de ATQ",
+            "97.02% de ATQ",
+            "102.73% de ATQ",
+            "108.43% de ATQ"
+          ]
+        },
+        {
+          "name": "Duración de pulsar una vez/mantener pulsado",
+          "parameters": [
+            "10 s/15 s",
+            "10 s/15 s",
+            "10 s/15 s",
+            "10 s/15 s",
+            "10 s/15 s",
+            "10 s/15 s",
+            "10 s/15 s",
+            "10 s/15 s",
+            "10 s/15 s",
+            "10 s/15 s",
+            "10 s/15 s",
+            "10 s/15 s",
+            "10 s/15 s",
+            "10 s/15 s",
+            "10 s/15 s"
+          ]
+        },
+        {
+          "name": "Cargas al pulsar una vez/mantener pulsado",
+          "parameters": [
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7",
+            "5/7"
+          ]
+        },
+        {
+          "name": "TdE al pulsar una vez",
+          "parameters": [
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s"
+          ]
+        },
+        {
+          "name": "TdE de mantener pulsado",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Encantamiento de la damisela divina",
+      "info": "Libera el poder del espíritu hechizado para que deambule por el mundo e inflija Daño Cryo en el AdE.\nEl espíritu creará un área que reduce la RES Cryo y la RES Física de los enemigos que haya dentro de ella, e inflige Daño Cryo continuo contra dichos enemigos.",
+      "description": "El camino de los Adeptus no se basa en algo abstracto y misterioso, sino en observar los cambios en el mundo y entender las leyes de causa y efecto de este plano para comprender su esencia.",
+      "attributes": [
+        {
+          "name": "Daño de habilidad",
+          "parameters": [
+            "100.80%",
+            "108.36%",
+            "115.92%",
+            "126.00%",
+            "133.56%",
+            "141.12%",
+            "151.20%",
+            "161.28%",
+            "171.36%",
+            "181.44%",
+            "191.52%",
+            "201.60%",
+            "214.20%",
+            "226.80%",
+            "239.40%"
+          ]
+        },
+        {
+          "name": "Reducción de RES",
+          "parameters": [
+            "6.00%",
+            "7.00%",
+            "8.00%",
+            "9.00%",
+            "10.00%",
+            "11.00%",
+            "12.00%",
+            "13.00%",
+            "14.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%",
+            "15.00%"
+          ]
+        },
+        {
+          "name": "Daño continuo",
+          "parameters": [
+            "33.12%",
+            "35.60%",
+            "38.09%",
+            "41.40%",
+            "43.88%",
+            "46.37%",
+            "49.68%",
+            "52.99%",
+            "56.30%",
+            "59.62%",
+            "62.93%",
+            "66.24%",
+            "70.38%",
+            "74.52%",
+            "78.66%"
+          ]
+        },
+        {
+          "name": "Duración",
+          "parameters": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        },
+        {
+          "name": "TdE",
+          "parameters": [
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s"
+          ]
+        },
+        {
+          "name": "Energía Elemental",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Precepto divino",
+      "info": "Aumenta en un 15% el Bono de Daño Cryo de los personajes en uso situados en el área de **Encantamiento de la damisela divina**."
+    },
+    "passive2": {
+      "name": "Sello de la convergencia espiritual",
+      "info": "Tras lanzar **Espíritu exorcizador**, Shenhe otorga los siguientes efectos a todos los miembros del equipo cercanos:\n·Pulsar una vez: el daño de las Habilidades Elementales y Definitivas aumenta en un 15% durante 10 s.\n·Mantener pulsado: el daño de los Ataques Normales, Cargados y Descendentes aumenta en un 15% durante 15 s."
+    },
+    "passive3": {
+      "name": "Llegada oportuna",
+      "info": "Aumenta en un 25% las recompensas de las expediciones de 20 h en Liyue."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseñanzas de la prosperidad",
+          "count": 3
+        },
+        {
+          "name": "Néctar de Megaflora",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guía de la prosperidad",
+          "count": 2
+        },
+        {
+          "name": "Néctar brillante",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guía de la prosperidad",
+          "count": 4
+        },
+        {
+          "name": "Néctar brillante",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guía de la prosperidad",
+          "count": 6
+        },
+        {
+          "name": "Néctar brillante",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guía de la prosperidad",
+          "count": 9
+        },
+        {
+          "name": "Néctar brillante",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofía de la prosperidad",
+          "count": 4
+        },
+        {
+          "name": "Néctar energético",
+          "count": 4
+        },
+        {
+          "name": "Mariposa del fuego infernal",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofía de la prosperidad",
+          "count": 6
+        },
+        {
+          "name": "Néctar energético",
+          "count": 6
+        },
+        {
+          "name": "Mariposa del fuego infernal",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofía de la prosperidad",
+          "count": 12
+        },
+        {
+          "name": "Néctar energético",
+          "count": 9
+        },
+        {
+          "name": "Mariposa del fuego infernal",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofía de la prosperidad",
+          "count": 16
+        },
+        {
+          "name": "Néctar energético",
+          "count": 12
+        },
+        {
+          "name": "Mariposa del fuego infernal",
+          "count": 2
+        },
+        {
+          "name": "Corona de la sabiduría",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_03",
+      "combat2": "Skill_S_Shenhe_01",
+      "combat3": "Skill_E_Shenhe_01_HD",
+      "passive1": "UI_Talent_S_Shenhe_05",
+      "passive2": "UI_Talent_S_Shenhe_06",
+      "passive3": "UI_Talent_Expedition_Liyue"
+    },
+    "version": "2.4"
+  }
+}

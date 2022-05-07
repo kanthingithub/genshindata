@@ -1,0 +1,20 @@
+{
+  "name": "자수정 덩이",
+  "description": "가공되지 않은 광물 결정체, 이나즈마에서만 생성된다. 전문적인 세공을 거쳐야 진정한 가치를 알 수 있다",
+  "sortorder": 1961,
+  "category": "EXCHANGE",
+  "materialtype": "단조용 광석",
+  "source": [
+    "야외 채집",
+    "추천: 나루카미섬 채집"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Amethyst_Lump.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7d/Item_Amethyst_Lump.png",
+    "nameicon": "UI_ItemIcon_101008"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Amethyst_Lump"
+  },
+  "version": ""
+}

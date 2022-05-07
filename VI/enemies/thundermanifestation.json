@@ -1,0 +1,169 @@
+{
+  "name": "Thực Thể Sấm Sét",
+  "specialname": "Ý Chí Lôi Đình",
+  "enemytype": "BOSS",
+  "category": "Sinh Mệnh Nguyên Tố",
+  "description": "Sinh vật nguyên tố Lôi dị thường. Tuy rằng hình dạng khá giống Tinh Linh Nước, nhưng không có trí tuệ và ký ức.\nKích hoạt Thực Thể Sấm Sét cũng chỉ là sự phẫn nộ thuần túy.\nNghe nói loại sinh vật này chỉ sinh ra khi sấm sét đánh xuống tại vùng đất chất chứa nhiều căm hận, như Đỉnh Amakumo hoang tàn với sấm sét vang dội. Chỉ cần nỗi oán hận trong lòng đất chưa tiêu tan, thì tiếng sét sẽ không bao giờ dứt.",
+  "investigation": {
+    "name": "Thực Thể Sấm Sét",
+    "category": "Thủ Lĩnh",
+    "description": "Sinh vật nguyên tố Lôi khác thường, dùng sấm chớp lôi đình để điều khiến chúng hành động.\\nTuy bề ngoài trông giống Tinh Linh Nước Trong, nhưng không có được trí tuệ như vậy.\\nTương truyền là loại ma vật nguyên tố điều khiển bởi sự hối hận thuần túy.",
+    "lockdesc": "Tiếng sấm sét thịnh nộ đến từ cơn bão sét ở Đỉnh Amakumo..."
+  },
+  "rewardpreview": [
+    {
+      "name": "EXP Mạo Hiểm",
+      "count": 200
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "EXP Yêu Thích"
+    },
+    {
+      "name": "Vụn Tử Tinh Thắng Lợi"
+    },
+    {
+      "name": "Mảnh Tử Tinh Thắng Lợi"
+    },
+    {
+      "name": "Miếng Tử Tinh Thắng Lợi"
+    },
+    {
+      "name": "Tử Tinh Thắng Lợi"
+    },
+    {
+      "name": "Ngọc Sấm Sét",
+      "count": 2.5556
+    },
+    {
+      "name": "Giáo Quan",
+      "rarity": "3"
+    },
+    {
+      "name": "Kẻ Lưu Đày",
+      "rarity": "3"
+    },
+    {
+      "name": "Người Tế Lôi",
+      "rarity": "3"
+    },
+    {
+      "name": "Thầy Thuốc",
+      "rarity": "3"
+    },
+    {
+      "name": "Lễ Bế Mạc Của Giác Đấu Sĩ",
+      "rarity": "4"
+    },
+    {
+      "name": "Đoàn Hát Lang Thang Đại Lục",
+      "rarity": "4"
+    },
+    {
+      "name": "Giáo Quan",
+      "rarity": "4"
+    },
+    {
+      "name": "Kẻ Lưu Đày",
+      "rarity": "4"
+    },
+    {
+      "name": "Người Tế Lôi",
+      "rarity": "4"
+    },
+    {
+      "name": "Lễ Bế Mạc Của Giác Đấu Sĩ",
+      "rarity": "5"
+    },
+    {
+      "name": "Đoàn Hát Lang Thang Đại Lục",
+      "rarity": "5"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Raijin"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 1027.8799816888059,
+      "attack": 101.5109267769958,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 4048.366122427513,
+      "attack": 271.2111127290973,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 11915.74950102903,
+      "attack": 668.9998862421999,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 22189.579890560824,
+      "attack": 1092.7064293284639,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 39841.85641662637,
+      "attack": 1633.6555819225032,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 73409.44878950994,
+      "attack": 2519.3090551147907,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 124025.19492398389,
+      "attack": 3547.6976112007105,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 205129.34855976328,
+      "attack": 4897.428879438376,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 330912.6383758038,
+      "attack": 6301.060288636945,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 519404.02494270355,
+      "attack": 7612.5492533508805,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 776440.2537632659,
+      "attack": 9848.835709898849,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 982740.2107875645,
+      "attack": 10044.388875611767,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 1136710.4291835576,
+      "attack": 10241.311191761051,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

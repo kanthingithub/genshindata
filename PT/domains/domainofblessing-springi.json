@@ -1,0 +1,319 @@
+{
+  "name": "Domínio da Bênção: Primavera",
+  "region": "Liyue",
+  "domainEntrance": "Domínio de Guyun",
+  "domainType": "Artefatos",
+  "description": "Neste antigo altar se reúnem os monstros que cobiçam suas Linhas Ley.\nVocê obterá Artefatos valiosos apensar se você proteger as Linhas Ley dos monstros com poder Electro.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_1"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domínio da Bênção: Primavera I",
+      "recommendedLevel": 34,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1525
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 15
+        },
+        {
+          "name": "O Sortudo",
+          "rarity": "2"
+        },
+        {
+          "name": "Coração Valente",
+          "rarity": "3"
+        },
+        {
+          "name": "O Sortudo",
+          "rarity": "3"
+        }
+      ],
+      "disorder": [
+        "O Dano Eletricamente Carregado é aumentado em 150% e a sua área é aumentada em 100%."
+      ],
+      "monsterlist": [
+        "Slime Hydro",
+        "Grande Slime Hydro",
+        "Feiticeiro do Abismo Hydro"
+      ]
+    },
+    {
+      "name": "Domínio da Bênção: Primavera II",
+      "recommendedLevel": 47,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 25,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1700
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 15
+        },
+        {
+          "name": "O Sortudo",
+          "rarity": "2"
+        },
+        {
+          "name": "Coração Valente",
+          "rarity": "3"
+        },
+        {
+          "name": "O Sortudo",
+          "rarity": "3"
+        }
+      ],
+      "disorder": [
+        "Quando a Sobrecarga é ativada, ocorrerá uma Explosão de Energia, causando Dano aos oponentes ao redor."
+      ],
+      "monsterlist": [
+        "Slime Pyro",
+        "Grande Slime Pyro",
+        "Feiticeiro do Abismo Pyro"
+      ]
+    },
+    {
+      "name": "Domínio da Bênção: Primavera III",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 15
+        },
+        {
+          "name": "Coração Valente",
+          "rarity": "3"
+        },
+        {
+          "name": "O Sortudo",
+          "rarity": "3"
+        },
+        {
+          "name": "Pedra Arcaica",
+          "rarity": "4"
+        },
+        {
+          "name": "Meteoro Invertido",
+          "rarity": "4"
+        },
+        {
+          "name": "Coração Valente",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Quando a Supercondução é ativada, ocorrerá uma Explosão de Energia, causando Dano aos oponentes ao redor."
+      ],
+      "monsterlist": [
+        "Slime Cryo",
+        "Grande Slime Cryo",
+        "Feiticeiro do Abismo Cryo"
+      ]
+    },
+    {
+      "name": "Domínio da Bênção: Primavera IV",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 20
+        },
+        {
+          "name": "Coração Valente",
+          "rarity": "3"
+        },
+        {
+          "name": "O Sortudo",
+          "rarity": "3"
+        },
+        {
+          "name": "Pedra Arcaica",
+          "rarity": "4"
+        },
+        {
+          "name": "Meteoro Invertido",
+          "rarity": "4"
+        },
+        {
+          "name": "Coração Valente",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "O Dano Eletricamente Carregado é aumentado em 150% e a sua área é aumentada em 100%."
+      ],
+      "monsterlist": [
+        "Slime Hydro",
+        "Grande Slime Hydro",
+        "Hilichurl Lutador",
+        "Samachurl Hydro",
+        "Feiticeiro do Abismo Hydro"
+      ]
+    },
+    {
+      "name": "Domínio da Bênção: Primavera V",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 20
+        },
+        {
+          "name": "Coração Valente",
+          "rarity": "3"
+        },
+        {
+          "name": "O Sortudo",
+          "rarity": "3"
+        },
+        {
+          "name": "Pedra Arcaica",
+          "rarity": "4"
+        },
+        {
+          "name": "Meteoro Invertido",
+          "rarity": "4"
+        },
+        {
+          "name": "Coração Valente",
+          "rarity": "4"
+        },
+        {
+          "name": "Pedra Arcaica",
+          "rarity": "5"
+        },
+        {
+          "name": "Meteoro Invertido",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Quando a Sobrecarga é ativada, ocorrerá uma Explosão de Energia, causando Dano aos oponentes ao redor.",
+        "Quando a reação de Fusão é ativada, você será atingido por uma explosão poderosa, causando Dano em seu personagem.",
+        "Quando a reação de Vaporização é ativada, você será atingido por uma explosão poderosa, causando Dano em seu personagem."
+      ],
+      "monsterlist": [
+        "Feiticeiro do Abismo Pyro",
+        "Guarda das Ruínas"
+      ]
+    },
+    {
+      "name": "Domínio da Bênção: Primavera VI",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "EXP de Amizade",
+          "count": 20
+        },
+        {
+          "name": "Coração Valente",
+          "rarity": "3"
+        },
+        {
+          "name": "O Sortudo",
+          "rarity": "3"
+        },
+        {
+          "name": "Pedra Arcaica",
+          "rarity": "4"
+        },
+        {
+          "name": "Meteoro Invertido",
+          "rarity": "4"
+        },
+        {
+          "name": "Coração Valente",
+          "rarity": "4"
+        },
+        {
+          "name": "Pedra Arcaica",
+          "rarity": "5"
+        },
+        {
+          "name": "Meteoro Invertido",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Quando a Supercondução é ativada, ocorrerá uma Explosão de Energia, causando Dano aos oponentes ao redor.",
+        "Quando a reação de Fusão é ativada, você será atingido por uma explosão poderosa, causando Dano em seu personagem.",
+        "Quando a reação de Vaporização é ativada, você será atingido por uma explosão poderosa, causando Dano em seu personagem."
+      ],
+      "monsterlist": [
+        "Hilichurl Lutador",
+        "Feiticeiro do Abismo Cryo",
+        "Caçador das Ruínas"
+      ]
+    }
+  ]
+}

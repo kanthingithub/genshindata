@@ -1,0 +1,207 @@
+{
+  "name": "Childe",
+  "specialname": "Childe",
+  "enemytype": "BOSS",
+  "category": "ศัตรูที่น่าจดจำ",
+  "description": "Tartaglia ผู้บริหารอันดับที่สิบเอ็ดของ Fatui มีฉายาว่า \"Childe\"\nเขาดึงพลังจาก \"เนตรมาร\" ซึ่งเป็นแหล่งพลังที่ชั่วร้าย และต่อสู้ด้วยศิลปะการต่อสู้ที่เขาเรียนรู้ในดินแดนแห่งความมืดมิด\n\nเขาเป็นนักรบที่มีความปรารถนาในการต่อสู้อย่างไม่มีที่สิ้นสุด\nทุกครั้งที่มีการต่อสู้จนเสียเลือด ทุกครั้งที่มีการท้าทายที่เอาชีวิตเป็นเดิมพัน สำหรับเขาแล้วมันเป็นเพียงบททดสอบที่น่าสนุกเท่านั้น\nว่ากันว่าชื่อเสียงในด้านการต่อสู้ของ Childe นั้นเลื่องลือไปทั่วทุกสารทิศ\nแต่ตัวเขาเองไม่เคยสนใจกับคำพูดเหล่านี้เลย\n\nเพราะว่า...\n\"เธอจะเป็นเหมือนตาพายุแห่งความขัดแย้ง\n\"เสียงของดาบที่ปะทะกันจะเป็นท่วงทำนองที่ร่วมทางไปกับเธอเสมอ\n\"ความทรงจำอันดำมืดจากการตกอยู่ในดินแดนแห่งความมืดมิด\nจะกลายเป็นพลังที่ทำให้เธอพลิกโลกทั้งใบได้\"",
+  "rewardpreview": [
+    {
+      "name": "Adventure EXP",
+      "count": 300
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Friendship EXP"
+    },
+    {
+      "name": "Varunada Lazurite Sliver"
+    },
+    {
+      "name": "Varunada Lazurite Fragment"
+    },
+    {
+      "name": "Varunada Lazurite Chunk"
+    },
+    {
+      "name": "Varunada Lazurite Gemstone"
+    },
+    {
+      "name": "Vajrada Amethyst Sliver"
+    },
+    {
+      "name": "Vajrada Amethyst Fragment"
+    },
+    {
+      "name": "Vajrada Amethyst Chunk"
+    },
+    {
+      "name": "Vajrada Amethyst Gemstone"
+    },
+    {
+      "name": "Shivada Jade Sliver"
+    },
+    {
+      "name": "Shivada Jade Fragment"
+    },
+    {
+      "name": "Shivada Jade Chunk"
+    },
+    {
+      "name": "Shivada Jade Gemstone"
+    },
+    {
+      "name": "Dream Solvent",
+      "count": 0.33
+    },
+    {
+      "name": "Tusk of Monoceros Caeli"
+    },
+    {
+      "name": "Shard of a Foul Legacy"
+    },
+    {
+      "name": "Shadow of the Warrior"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "3"
+    },
+    {
+      "name": "The Exile",
+      "rarity": "3"
+    },
+    {
+      "name": "Gladiator's Finale",
+      "rarity": "4"
+    },
+    {
+      "name": "Wanderer's Troupe",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "4"
+    },
+    {
+      "name": "The Exile",
+      "rarity": "4"
+    },
+    {
+      "name": "Gladiator's Finale",
+      "rarity": "5"
+    },
+    {
+      "name": "Wanderer's Troupe",
+      "rarity": "5"
+    },
+    {
+      "name": "Northlander Sword Billet"
+    },
+    {
+      "name": "Northlander Bow Billet"
+    },
+    {
+      "name": "Northlander Claymore Billet"
+    },
+    {
+      "name": "Northlander Catalyst Billet"
+    },
+    {
+      "name": "Northlander Polearm Billet"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Tartaglia"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 437.5019589085132,
+      "attack": 76.13319315582885,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 1719.6243214995484,
+      "attack": 203.4083293985932,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 5311.200007694308,
+      "attack": 501.7499019824463,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 8836.801959766774,
+      "attack": 819.5298012541898,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 16169.096780894324,
+      "attack": 1225.2416554312222,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 29978.905535548925,
+      "attack": 1889.4817435136356,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 50287.52887867391,
+      "attack": 2660.773141056823,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 78311.83582433872,
+      "attack": 3673.071566613973,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 111394.36524301395,
+      "attack": 4725.795096868649,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 146124.52006453648,
+      "attack": 5709.411795508931,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 220590.7292405963,
+      "attack": 7386.62659546989,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 321013.8823301643,
+      "attack": 7533.291466042516,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 431917.9003403038,
+      "attack": 7680.983199416427,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

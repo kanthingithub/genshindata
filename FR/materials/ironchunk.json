@@ -1,0 +1,19 @@
+{
+  "name": "Morceau de fer",
+  "description": "Un morceau de fer que les mains expertes d'un bon forgeron peuvent transformer en objet.",
+  "sortorder": 1954,
+  "category": "EXCHANGE",
+  "materialtype": "Minerai de forge",
+  "source": [
+    "Dans la nature"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Iron_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Item_Iron_Chunk.png",
+    "nameicon": "UI_ItemIcon_101001"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Iron_Chunk"
+  },
+  "version": ""
+}

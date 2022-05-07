@@ -1,0 +1,21 @@
+{
+  "name": "Aralia Wood",
+  "description": "Wood from the Inazuman Cedar. It is soft, has straight veins, and gives off a light fragrance.\nCan be used to create furnishings.",
+  "sortorder": 1945,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Material",
+  "source": [
+    "Found in the wild",
+    "Recommendation: Cut from Narukami Island"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Aralia_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Item_Aralia_Wood.png",
+    "nameicon": "UI_ItemIcon_101311"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Aralia_Wood"
+  },
+  "version": ""
+}

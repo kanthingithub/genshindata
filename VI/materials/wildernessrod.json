@@ -1,0 +1,20 @@
+{
+  "name": "Cần Câu Rừng Hoang",
+  "description": "Cần câu bằng gỗ không gì bắt mắt, ngoài việc tương đối bền bỉ có thể dùng làm vũ khí phòng thân, thì cũng không còn gì đáng nói nữa. Nhưng người xưa có câu: Tân thủ một cần câu, lão làng bày cả sạp. Cho dù là vua câu cá, thì thuở ban đầu cũng bắt đầu với chiếc cần câu tầm thường này mà thôi.",
+  "sortorder": 2434,
+  "rarity": "4",
+  "category": "FISH_ROD",
+  "materialtype": "Cần Câu",
+  "source": [
+    "Nhận Khi Làm Nhiệm Vụ"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_200900",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wilderness_Rod.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Item_Wilderness_Rod.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Wilderness_Rod"
+  },
+  "version": ""
+}

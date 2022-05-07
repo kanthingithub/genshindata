@@ -1,0 +1,18 @@
+{
+  "name": "Hộp Rượu Ako Domeki",
+  "description": "Đạo cụ được làm ra dành riêng cho việc đánh bắt cá.\nDụng cụ đựng rượu mà Ako Domeki từng xưng bá ở vùng Seirai đã dùng. Bị nước biển đưa đến lưỡi câu của người thợ câu.",
+  "sortorder": 2297,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Tinh Luyện",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ako's_Sake_Vessel.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Item_Ako%27s_Sake_Vessel.png",
+    "nameicon": "UI_ItemIcon_200107"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ako's_Sake_Vessel"
+  },
+  "version": ""
+}

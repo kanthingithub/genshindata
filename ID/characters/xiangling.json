@@ -1,0 +1,874 @@
+{
+  "name": "Xiangling",
+  "fullname": "Xiangling",
+  "title": "Exquisite Delicacy",
+  "description": "Seorang koki ternama dari Liyue. Memiliki cinta yang mendalam akan seni masak-memasak, sangat pandai memasak masakan andalannya dengan rasa yang pedas dan gurih.",
+  "rarity": "4",
+  "element": "Pyro",
+  "weapontype": "Polearm",
+  "substat": "Elemental Mastery",
+  "gender": "Perempuan",
+  "body": "GIRL",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Wanmin Restaurant",
+  "birthdaymmdd": "11/2",
+  "birthday": "2 November",
+  "constellation": "Ladle",
+  "cv": {
+    "english": "Jackie Lastra",
+    "chinese": "小N",
+    "japanese": "小澤亜李",
+    "korean": "Yoon Ah-young"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Agnidus Agate Sliver",
+        "count": 1
+      },
+      {
+        "name": "Jueyun Chili",
+        "count": 3
+      },
+      {
+        "name": "Slime Condensate",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Agnidus Agate Fragment",
+        "count": 3
+      },
+      {
+        "name": "Everflame Seed",
+        "count": 2
+      },
+      {
+        "name": "Jueyun Chili",
+        "count": 10
+      },
+      {
+        "name": "Slime Condensate",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Agnidus Agate Fragment",
+        "count": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "count": 4
+      },
+      {
+        "name": "Jueyun Chili",
+        "count": 20
+      },
+      {
+        "name": "Slime Secretions",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Agnidus Agate Chunk",
+        "count": 3
+      },
+      {
+        "name": "Everflame Seed",
+        "count": 8
+      },
+      {
+        "name": "Jueyun Chili",
+        "count": 30
+      },
+      {
+        "name": "Slime Secretions",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Agnidus Agate Chunk",
+        "count": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "count": 12
+      },
+      {
+        "name": "Jueyun Chili",
+        "count": 45
+      },
+      {
+        "name": "Slime Concentrate",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Agnidus Agate Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "count": 20
+      },
+      {
+        "name": "Jueyun Chili",
+        "count": 60
+      },
+      {
+        "name": "Slime Concentrate",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Character_Xiangling_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Character_Xiangling_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xiangling.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200316/2020031618224235129.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200325/2020032510443747968.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/f406695ce989bda634c6d952eb15493a.png",
+    "nameicon": "UI_AvatarIcon_Xiangling",
+    "nameiconcard": "UI_AvatarIcon_Xiangling_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Xiangling",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Xiangling",
+    "namesideicon": "UI_AvatarIcon_Side_Xiangling"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Xiangling"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 911.791015625,
+      "attack": 18.876480102539062,
+      "defense": 56.080501556396484,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2342.391124357935,
+      "attack": 48.49367749143494,
+      "defense": 144.07080881927777,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3023.54566537356,
+      "attack": 62.59570538450134,
+      "defense": 185.96580927704144,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4528.912435651757,
+      "attack": 93.76076996533811,
+      "defense": 278.55470525959936,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5012.890707136132,
+      "attack": 103.78063118665159,
+      "defense": 308.3222032759568,
+      "specialized": 24
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5766.030280821957,
+      "attack": 119.37260778380005,
+      "defense": 354.6447095416279,
+      "specialized": 24
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6411.334602111019,
+      "attack": 132.73242338133423,
+      "defense": 394.33471198303414,
+      "specialized": 48
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 7164.474175796844,
+      "attack": 148.3243999784827,
+      "defense": 440.65721824870525,
+      "specialized": 48
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7648.452325210907,
+      "attack": 158.3442631071448,
+      "defense": 470.4247124503654,
+      "specialized": 48
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 8400.679739191197,
+      "attack": 173.91735559133667,
+      "defense": 516.6911155378857,
+      "specialized": 48
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8884.658010675572,
+      "attack": 183.93721871999878,
+      "defense": 546.4586173689404,
+      "specialized": 72
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9637.79714958556,
+      "attack": 199.5291863161401,
+      "defense": 592.7810968933445,
+      "specialized": 72
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 10121.775421069935,
+      "attack": 209.54904563010496,
+      "defense": 622.5485987243992,
+      "specialized": 96
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10874.91499475576,
+      "attack": 225.14102222725342,
+      "defense": 668.8711049900703,
+      "specialized": 96
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Crispy Outside, Tender Inside",
+      "effect": "Saat Guoba Attack mengenai musuh, akan mengurangi 15% Pyro RES mereka selama 6 detik."
+    },
+    "c2": {
+      "name": "Oil Meets Fire",
+      "effect": "Serangan terakhir dari Normal Attack mengakibatkan Implode pada musuh selama 2 detik. Saat durasi Implode selesai, menimbulkan ledakan yang mengakibatkan 75% dari ATK Xiangling sebagai Pyro DMG area."
+    },
+    "c3": {
+      "name": "Deepfry",
+      "effect": "Meningkatkan 3 level **Pyronado**.\nMaksimum: Lv. 15."
+    },
+    "c4": {
+      "name": "Slowbake",
+      "effect": "Meningkatkan 40% durasi **Pyronado**."
+    },
+    "c5": {
+      "name": "Guoba Mad",
+      "effect": "Meningkatkan 3 level **Guoba Attack**.\nMaksimum: Lv. 15."
+    },
+    "c6": {
+      "name": "Condensed Pyronado",
+      "effect": "Saat **Pyronado** aktif, seluruh anggota party menerima peningkatan 15% Pyro DMG Bonus."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xiangling_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xiangling_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Xiangling_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xiangling_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Xiangling_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Xiangling_04.png",
+      "constellation": "Eff_UI_Talent_Xiangling"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Xiangling",
+    "combat1": {
+      "name": "Pastry Kung Fu",
+      "info": "**Normal Attack**\nMelancarkan hingga 5 serangan berturut-turut.\n\n**Charged Attack**\nMengonsumsi sejumlah Stamina untuk menerjang ke depan, mengakibatkan DMG pada musuh di jalurnya.\n\n**Plunging Attack**\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "attributes": [
+        {
+          "name": "DMG Tahap 1",
+          "parameters": [
+            "42.05%",
+            "45.48%",
+            "48.90%",
+            "53.79%",
+            "57.21%",
+            "61.12%",
+            "66.50%",
+            "71.88%",
+            "77.26%",
+            "83.13%",
+            "89.85%",
+            "97.76%",
+            "105.67%",
+            "113.58%",
+            "122.20%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 2",
+          "parameters": [
+            "42.14%",
+            "45.57%",
+            "49.00%",
+            "53.90%",
+            "57.33%",
+            "61.25%",
+            "66.64%",
+            "72.03%",
+            "77.42%",
+            "83.30%",
+            "90.04%",
+            "97.96%",
+            "105.88%",
+            "113.81%",
+            "122.45%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 3",
+          "parameters": [
+            "26.06%+26.06%",
+            "28.18%+28.18%",
+            "30.30%+30.30%",
+            "33.33%+33.33%",
+            "35.45%+35.45%",
+            "37.87%+37.87%",
+            "41.21%+41.21%",
+            "44.54%+44.54%",
+            "47.87%+47.87%",
+            "51.51%+51.51%",
+            "55.68%+55.68%",
+            "60.58%+60.58%",
+            "65.48%+65.48%",
+            "70.37%+70.37%",
+            "75.72%+75.72%"
+          ]
+        },
+        {
+          "name": "DMG Tahap 4",
+          "parameters": [
+            "14.10%*4",
+            "15.25%*4",
+            "16.40%*4",
+            "18.04%*4",
+            "19.19%*4",
+            "20.50%*4",
+            "22.30%*4",
+            "24.11%*4",
+            "25.91%*4",
+            "27.88%*4",
+            "30.13%*4",
+            "32.79%*4",
+            "35.44%*4",
+            "38.09%*4",
+            "40.98%*4"
+          ]
+        },
+        {
+          "name": "DMG Tahap 5",
+          "parameters": [
+            "71.04%",
+            "76.82%",
+            "82.60%",
+            "90.86%",
+            "96.64%",
+            "103.25%",
+            "112.34%",
+            "121.42%",
+            "130.51%",
+            "140.42%",
+            "151.78%",
+            "165.13%",
+            "178.49%",
+            "191.85%",
+            "206.42%"
+          ]
+        },
+        {
+          "name": "DMG Charged Attack",
+          "parameters": [
+            "121.69%",
+            "131.60%",
+            "141.50%",
+            "155.65%",
+            "165.56%",
+            "176.87%",
+            "192.44%",
+            "208.00%",
+            "223.57%",
+            "240.55%",
+            "260.01%",
+            "282.89%",
+            "305.77%",
+            "328.65%",
+            "353.61%"
+          ]
+        },
+        {
+          "name": "Konsumsi Stamina Charged Attack",
+          "parameters": [
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25",
+            "25"
+          ]
+        },
+        {
+          "name": "DMG Selama Plunging",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "DMG Plunging Attack Min./Maks.",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Guoba Attack",
+      "info": "Memanggil Guoba si Panda. Guoba terus menghembuskan api ke musuh, mengakibatkan Pyro DMG area.",
+      "description": "Guoba suka makan yang pedas-pedas. Masalahnya, perutnya tidak tahan.",
+      "attributes": [
+        {
+          "name": "DMG Flamethrower",
+          "parameters": [
+            "111.28%",
+            "119.63%",
+            "127.97%",
+            "139.10%",
+            "147.45%",
+            "155.79%",
+            "166.92%",
+            "178.05%",
+            "189.18%",
+            "200.30%",
+            "211.43%",
+            "222.56%",
+            "236.47%",
+            "250.38%",
+            "264.29%"
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "parameters": [
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik",
+            "12 detik"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Pyronado",
+      "info": "Xiangling menunjukkan keahilannya dengan api dan tombak, dia membuat Pyronado yang berputar di sekitarnya.\nPyrnado akan bergerak mengikuti karaktermu selama durasinya dan mengakibatkan Pyro DMG ke semua musuh di jalurnya.",
+      "description": "Tidak akan pernah ada panas yang cukup. Tidak pernah.",
+      "attributes": [
+        {
+          "name": "DMG Tebasan Tahap 1",
+          "parameters": [
+            "72.00%",
+            "77.40%",
+            "82.80%",
+            "90.00%",
+            "95.40%",
+            "100.80%",
+            "108.00%",
+            "115.20%",
+            "122.40%",
+            "129.60%",
+            "136.80%",
+            "144.00%",
+            "153.00%",
+            "162.00%",
+            "171.00%"
+          ]
+        },
+        {
+          "name": "DMG Tebasan Tahap 2",
+          "parameters": [
+            "88.00%",
+            "94.60%",
+            "101.20%",
+            "110.00%",
+            "116.60%",
+            "123.20%",
+            "132.00%",
+            "140.80%",
+            "149.60%",
+            "158.40%",
+            "167.20%",
+            "176.00%",
+            "187.00%",
+            "198.00%",
+            "209.00%"
+          ]
+        },
+        {
+          "name": "DMG Tebasan Tahap 3",
+          "parameters": [
+            "109.60%",
+            "117.82%",
+            "126.04%",
+            "137.00%",
+            "145.22%",
+            "153.44%",
+            "164.40%",
+            "175.36%",
+            "186.32%",
+            "197.28%",
+            "208.24%",
+            "219.20%",
+            "232.90%",
+            "246.60%",
+            "260.30%"
+          ]
+        },
+        {
+          "name": "DMG Pyronado",
+          "parameters": [
+            "112.00%",
+            "120.40%",
+            "128.80%",
+            "140.00%",
+            "148.40%",
+            "156.80%",
+            "168.00%",
+            "179.20%",
+            "190.40%",
+            "201.60%",
+            "212.80%",
+            "224.00%",
+            "238.00%",
+            "252.00%",
+            "266.00%"
+          ]
+        },
+        {
+          "name": "Durasi",
+          "parameters": [
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik",
+            "10 detik"
+          ]
+        },
+        {
+          "name": "Cooldown",
+          "parameters": [
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik",
+            "20 detik"
+          ]
+        },
+        {
+          "name": "Konsumsi Energy",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Crossfire",
+      "info": "Meningkatkan 20% jarak semburan api Guoba."
+    },
+    "passive2": {
+      "name": "Beware, It's Super Hot!",
+      "info": "Saat durasi skill **Guoba Attack** selesai, Guoba akan meninggalkan sebuah cabai di lantai. Mengambil cabai tersebut meningkatkan 10% ATK selama 10 detik."
+    },
+    "passive3": {
+      "name": "Chef de Cuisine",
+      "info": "Saat masakan jenis penyerangan dimasak dengan sempurna, terdapat 12% kemungkinan mendapatkan hasil 2 kali lipat."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of \"Diligence\"",
+          "count": 3
+        },
+        {
+          "name": "Slime Condensate",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to \"Diligence\"",
+          "count": 2
+        },
+        {
+          "name": "Slime Secretions",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to \"Diligence\"",
+          "count": 4
+        },
+        {
+          "name": "Slime Secretions",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to \"Diligence\"",
+          "count": 6
+        },
+        {
+          "name": "Slime Secretions",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to \"Diligence\"",
+          "count": 9
+        },
+        {
+          "name": "Slime Secretions",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of \"Diligence\"",
+          "count": 4
+        },
+        {
+          "name": "Slime Concentrate",
+          "count": 4
+        },
+        {
+          "name": "Dvalin's Claw",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of \"Diligence\"",
+          "count": 6
+        },
+        {
+          "name": "Slime Concentrate",
+          "count": 6
+        },
+        {
+          "name": "Dvalin's Claw",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of \"Diligence\"",
+          "count": 12
+        },
+        {
+          "name": "Slime Concentrate",
+          "count": 9
+        },
+        {
+          "name": "Dvalin's Claw",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of \"Diligence\"",
+          "count": 16
+        },
+        {
+          "name": "Slime Concentrate",
+          "count": 12
+        },
+        {
+          "name": "Dvalin's Claw",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_03",
+      "combat2": "Skill_S_Xiangling_01",
+      "combat3": "Skill_E_Xiangling_01_HD",
+      "passive1": "UI_Talent_S_Xiangling_05",
+      "passive2": "UI_Talent_S_Xiangling_06",
+      "passive3": "UI_Talent_Cook_Attack"
+    },
+    "version": "1.0"
+  }
+}

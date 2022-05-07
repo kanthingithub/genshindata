@@ -1,0 +1,23 @@
+{
+  "name": "Phù Hiệu Tân Binh",
+  "description": "Phù hiệu thể hiện thân phận tân binh. Không biết khi gia nhập cỗ máy chiến tranh của Fatui, người đeo nó có cảm giác gì.",
+  "sortorder": 1750,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Fatui - Quân Tiên Phong rơi",
+    "Fatui - Người Xử Lý Nợ rơi một ít",
+    "Fatui - Thuật Sĩ Cicin rơi một ít",
+    "Đổi từ Tinh Trần"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Recruit's_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Item_Recruit%27s_Insignia.png",
+    "nameicon": "UI_ItemIcon_112032"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Recruit's_Insignia"
+  },
+  "version": ""
+}

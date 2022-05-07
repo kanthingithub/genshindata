@@ -1,0 +1,26 @@
+{
+  "name": "Reliquie von Guyun",
+  "description": "Material mit der Kraft, Waffen aufsteigen zu lassen.\nDas Innere der steinernen Lanze gebiert ein Licht, das von der Kraft der besiegten Götter im Gestein kommt. Ihr Groll ist aber nicht auf Morax gerichtet, da sie schon längst ihr Selbst und somit ihre persönlichen Gedanken verloren haben.",
+  "sortorder": 2197,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zum Aufstieg von Waffen",
+  "dropdomain": "Sphäre der Kriegskunst: Altar der Gewitterwolken",
+  "daysofweek": [
+    "Montag",
+    "Donnerstag",
+    "Sonntag"
+  ],
+  "source": [
+    "Kann hergestellt werden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Relic_from_Guyun.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/94/Item_Relic_from_Guyun.png",
+    "nameicon": "UI_ItemIcon_114015"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Relic_from_Guyun"
+  },
+  "version": ""
+}

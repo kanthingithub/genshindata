@@ -1,0 +1,20 @@
+{
+  "name": "Moelle cristalline",
+  "description": "Un cristal qui contient une partie du pouvoir du Tatarigami. L'ajout de ce matériau lors de la fusion augmentera considérablement la résistance et la dureté des métaux.",
+  "sortorder": 2062,
+  "category": "EXCHANGE",
+  "materialtype": "Produit d'Inazuma",
+  "source": [
+    "Dans la nature",
+    "Zone conseillée : Île de Yashiori"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crystal_Marrow.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Crystal_Marrow.png",
+    "nameicon": "UI_ItemIcon_101203"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Crystal_Marrow"
+  },
+  "version": ""
+}

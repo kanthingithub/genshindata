@@ -1,0 +1,21 @@
+{
+  "name": "Kiefernholz",
+  "description": "Holz, das aus Kiefern gewonnen wird. Seine Farbe und Maserung sind nichts Besonderes, aber seine unprätentiöse Art ist auf seine Weise elegant. Außerdem ist das Holz sehr robust. In fähigen Händen sollten seine Produkte Motten und Fäulnis gleichermaßen widerstehen können.\nKann zum Herstellen von Dekoration verwendet werden.",
+  "sortorder": 1951,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Material",
+  "source": [
+    "In der freien Natur zu finden",
+    "Empfohlen: Auf dem Drachengrat zu finden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Pine_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Item_Pine_Wood.png",
+    "nameicon": "UI_ItemIcon_101303"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Pine_Wood"
+  },
+  "version": ""
+}

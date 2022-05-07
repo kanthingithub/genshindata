@@ -1,0 +1,172 @@
+{
+  "name": "Oni Espadachín",
+  "specialname": "Máquina ingeniosa - Títere espadachín",
+  "enemytype": "BOSS",
+  "category": "Autómatas",
+  "description": "Un espadachín autómata y antropomorfo.\nNo parece que tenga la habilidad o la voluntad de hablar, solo conoce el lenguaje de la espada.\nSe dice que esta máquina se creó utilizando los recuerdos del fundador de cierta corriente de lucha con espada, pero por alguna razón se descontroló y el experimento fue descartado.\nSegún los cantares de los bardos, los Oni Espadachines merodean en un limbo en el que su destino fue interrumpido, y el rostro malvado que lo protege proviene de un Oni famoso de antaño.",
+  "investigation": {
+    "name": "Oni Espadachín",
+    "category": "Jefes",
+    "description": "Un espadachín autómata y antropomorfo.\\nSe dice que esta máquina se creó utilizando los recuerdos del fundador de la técnica de espada “corte Tengu”, pero por alguna razón se descontroló y el experimento fue descartado.\\nSegún los cantares de los poetas, los Oni Espadachines merodean en un limbo en el que su destino fue interrumpido."
+  },
+  "rewardpreview": [
+    {
+      "name": "EXP de Aventura",
+      "count": 200
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "EXP de Amistad"
+    },
+    {
+      "name": "Pedacito de turquesa vayuda"
+    },
+    {
+      "name": "Fragmento de turquesa vayuda"
+    },
+    {
+      "name": "Trozo de turquesa vayuda"
+    },
+    {
+      "name": "Turquesa vayuda"
+    },
+    {
+      "name": "Pedacito de jade shivada"
+    },
+    {
+      "name": "Fragmento de jade shivada"
+    },
+    {
+      "name": "Trozo de jade shivada"
+    },
+    {
+      "name": "Jade shivada"
+    },
+    {
+      "name": "Engranaje Oni",
+      "count": 2.5556
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "3"
+    },
+    {
+      "name": "Afortunado",
+      "rarity": "3"
+    },
+    {
+      "name": "Final del Gladiador",
+      "rarity": "4"
+    },
+    {
+      "name": "Orquesta del Errante",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructor",
+      "rarity": "4"
+    },
+    {
+      "name": "Final del Gladiador",
+      "rarity": "5"
+    },
+    {
+      "name": "Orquesta del Errante",
+      "rarity": "5"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Samurai_Ningyo"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 1458.3398630283773,
+      "attack": 203.0218535539916,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 5732.081071665161,
+      "attack": 542.4222254581946,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 17704.000025647692,
+      "attack": 1337.9997724843997,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 29456.00653255591,
+      "attack": 2185.4128586569277,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 53896.98926964775,
+      "attack": 3267.3111638450064,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 99929.68511849642,
+      "attack": 5038.618110229581,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 167625.09626224637,
+      "attack": 7095.395222401421,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 261039.45274779573,
+      "attack": 9794.857758876751,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 371314.5508100465,
+      "attack": 12602.12057727389,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 487081.73354845494,
+      "attack": 15225.098506701761,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 735302.4308019876,
+      "attack": 19697.671419797698,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 1070046.274433881,
+      "attack": 20088.777751223533,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 1439726.3344676793,
+      "attack": 20482.622383522103,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Móng Vuốt Ma Thú",
+  "description": "Mô cơ thể còn sót lại của bầy sói ma vật. \nTheo lẽ thường, những thứ không tương thích với vùng đất này lẽ ra không nên sót lại sau khi bị trục xuất mới phải.",
+  "sortorder": 1774,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Sói Ma Vật rơi",
+    "Đổi từ Tinh Trần"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_112056",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Concealed_Claw.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Concealed_Claw.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Concealed_Claw"
+  },
+  "version": ""
+}

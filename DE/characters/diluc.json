@@ -1,0 +1,914 @@
+{
+  "name": "Diluc",
+  "fullname": "Diluc",
+  "title": "Dunkle Seite der Dämmerung",
+  "description": "Der reiche Junggeselle, der den größten Teil der Getränkewirtschaft in Mondstadt kontrolliert. Sein Reichtum, seine Eleganz und seine Fähigkeiten sind bewundernswert.",
+  "rarity": "5",
+  "element": "Pyro",
+  "weapontype": "Zweihänder",
+  "substat": "KT",
+  "gender": "Männlich",
+  "body": "MALE",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Weingut Morgenröte",
+  "birthdaymmdd": "4/30",
+  "birthday": "30. April",
+  "constellation": "Noctua",
+  "cv": {
+    "english": "Sean Chiplock",
+    "chinese": "马洋",
+    "japanese": "小野賢章",
+    "korean": "Choi Seung-hoon"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Agnidus-Achat-Splitter",
+        "count": 1
+      },
+      {
+        "name": "Lampenkraut",
+        "count": 3
+      },
+      {
+        "name": "Abzeichen für neue Rekruten",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Agnidus-Achat-Bruchstück",
+        "count": 3
+      },
+      {
+        "name": "Fluxfeuersamen",
+        "count": 2
+      },
+      {
+        "name": "Lampenkraut",
+        "count": 10
+      },
+      {
+        "name": "Abzeichen für neue Rekruten",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Agnidus-Achat-Bruchstück",
+        "count": 6
+      },
+      {
+        "name": "Fluxfeuersamen",
+        "count": 4
+      },
+      {
+        "name": "Lampenkraut",
+        "count": 20
+      },
+      {
+        "name": "Abzeichen für Unteroffiziere",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Agnidus-Achat-Brocken",
+        "count": 3
+      },
+      {
+        "name": "Fluxfeuersamen",
+        "count": 8
+      },
+      {
+        "name": "Lampenkraut",
+        "count": 30
+      },
+      {
+        "name": "Abzeichen für Unteroffiziere",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Agnidus-Achat-Brocken",
+        "count": 6
+      },
+      {
+        "name": "Fluxfeuersamen",
+        "count": 12
+      },
+      {
+        "name": "Lampenkraut",
+        "count": 45
+      },
+      {
+        "name": "Abzeichen für Offiziere",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Agnidus-Achat",
+        "count": 6
+      },
+      {
+        "name": "Fluxfeuersamen",
+        "count": 20
+      },
+      {
+        "name": "Lampenkraut",
+        "count": 60
+      },
+      {
+        "name": "Abzeichen für Offiziere",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Character_Diluc_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Character_Diluc_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Diluc.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200609/2020060915105884221.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200609/2020060915105012670.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/7f68f45a650bbcf804215fc7890c7f35.png",
+    "nameicon": "UI_AvatarIcon_Diluc",
+    "nameiconcard": "UI_AvatarIcon_Diluc_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Diluc",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Diluc",
+    "namesideicon": "UI_AvatarIcon_Side_Diluc"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Diluc"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1010.5192260742188,
+      "attack": 26.06800079345703,
+      "defense": 61.0265998840332,
+      "specialized": 0.05000000074505806
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2621.286974589384,
+      "attack": 67.62039669342812,
+      "defense": 158.30300626832923,
+      "specialized": 0.05000000074505806
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3487.7158075971965,
+      "attack": 89.96971615143593,
+      "defense": 210.62900648195227,
+      "specialized": 0.05000000074505806
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5218.73530161212,
+      "attack": 134.62420305197156,
+      "defense": 315.1675756916702,
+      "specialized": 0.05000000074505806
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5834.355785010557,
+      "attack": 150.5039828676454,
+      "defense": 352.34657273146513,
+      "specialized": 0.09800000116229057
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6712.496950065979,
+      "attack": 173.1570744633027,
+      "defense": 405.37868546991194,
+      "specialized": 0.09800000116229057
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7533.324342644104,
+      "attack": 194.330116760666,
+      "defense": 454.95068406610335,
+      "specialized": 0.1460000015795231
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8420.560003412247,
+      "attack": 217.21781578915397,
+      "defense": 508.5320254947983,
+      "specialized": 0.1460000015795231
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9036.180364740372,
+      "attack": 233.0975956048278,
+      "defense": 545.7110263492905,
+      "specialized": 0.1460000015795231
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9931.500557089952,
+      "attack": 256.1938483849335,
+      "defense": 599.780603391262,
+      "specialized": 0.1460000015795231
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10547.121162558702,
+      "attack": 272.0736243859101,
+      "defense": 636.9596042457542,
+      "specialized": 0.193999994546175
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11452.546296605404,
+      "attack": 295.4305507102508,
+      "defense": 691.6394321546959,
+      "specialized": 0.193999994546175
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12068.166902074154,
+      "attack": 311.3103343406219,
+      "defense": 728.8184330091881,
+      "specialized": 0.2420000024139881
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12980.666121717892,
+      "attack": 334.84974830517604,
+      "defense": 783.9254743546844,
+      "specialized": 0.2420000024139881
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Schuldspruch",
+      "effect": "Erhöht den Schaden, den Diluc Gegnern mit mehr als 50 % LP zufügt, um 15 %."
+    },
+    "c2": {
+      "name": "Heiße Asche",
+      "effect": "Erhöht den ANG, wenn Diluc Schaden erleidet, 10 s lang um 10 % und die Angriffs-GSW um 5 %\n3-fach stapelbar, 1,5 s Abklingzeit."
+    },
+    "c3": {
+      "name": "Stahl und Feuer",
+      "effect": "Erhöht die Stufe der Fähigkeit **Sengende Klinge** um 3.\nHöchststufe 15."
+    },
+    "c4": {
+      "name": "Fließende Flamme",
+      "effect": "Erhöht den verursachten Schaden beim rhythmischen Anwenden von **Sengende Klinge** enorm.\nErhöht den Schaden von **Sengende Klinge** bei erneuter Anwendung 2 s nach Anwendung dieser Fähigkeit 2 s lang um 40 %."
+    },
+    "c5": {
+      "name": "Phönix, Bote der Dämmerung",
+      "effect": "Erhöht die Stufe der Fähigkeit **Dämmerung** um 3.\nHöchststufe 15."
+    },
+    "c6": {
+      "name": "Flammendes Schwert, Vernichter der Dunkelheit",
+      "effect": "Erhöht die Standardangriffs-GSW der nächsten 2 Standardangriffe innerhalb von 6 s nach Anwendung von **Sengende Klinge** um 30 % sowie den damit verursachten Schaden um 30 %.\nSengende Klinge setzt die Standardangriffe nicht mehr zurück."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diluc_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diluc_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Diluc_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diluc_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Diluc_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diluc_04.png",
+      "constellation": "Eff_UI_Talent_Diluc"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Diluc",
+    "combat1": {
+      "name": "Standardangriff: Gehärteter Stahl",
+      "info": "**Standardangriff**\nFührt bis zu 4 Schwünge mit dem Schwert hintereinander aus.\n\n**Heftiger Schlag**\nVerbraucht fortlaufend Ausdauer und führt mehrere Hiebe aus.\nSchwingt das Schwert am Ende mit besonders großer Wucht.\n\n**Angriff aus dem Fall**\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "attributes": [
+        {
+          "name": "SCH Phase 1",
+          "parameters": [
+            "89.70%",
+            "97.00%",
+            "104.30%",
+            "114.73%",
+            "122.03%",
+            "130.38%",
+            "141.85%",
+            "153.32%",
+            "164.79%",
+            "177.31%",
+            "191.65%",
+            "208.52%",
+            "225.38%",
+            "242.25%",
+            "260.65%"
+          ]
+        },
+        {
+          "name": "SCH Phase 2",
+          "parameters": [
+            "87.63%",
+            "94.77%",
+            "101.90%",
+            "112.09%",
+            "119.22%",
+            "127.37%",
+            "138.58%",
+            "149.79%",
+            "161.00%",
+            "173.23%",
+            "187.24%",
+            "203.72%",
+            "220.20%",
+            "236.67%",
+            "254.65%"
+          ]
+        },
+        {
+          "name": "SCH Phase 3",
+          "parameters": [
+            "98.81%",
+            "106.86%",
+            "114.90%",
+            "126.39%",
+            "134.43%",
+            "143.62%",
+            "156.26%",
+            "168.90%",
+            "181.54%",
+            "195.33%",
+            "211.13%",
+            "229.71%",
+            "248.29%",
+            "266.87%",
+            "287.14%"
+          ]
+        },
+        {
+          "name": "SCH Phase 4",
+          "parameters": [
+            "133.99%",
+            "144.89%",
+            "155.80%",
+            "171.38%",
+            "182.29%",
+            "194.75%",
+            "211.89%",
+            "229.03%",
+            "246.16%",
+            "264.86%",
+            "286.28%",
+            "311.48%",
+            "336.67%",
+            "361.86%",
+            "389.34%"
+          ]
+        },
+        {
+          "name": "SCH heftiger Schläge pro Runde",
+          "parameters": [
+            "68.80%",
+            "74.40%",
+            "80.00%",
+            "88.00%",
+            "93.60%",
+            "100.00%",
+            "108.80%",
+            "117.60%",
+            "126.40%",
+            "136.00%",
+            "147.00%",
+            "159.94%",
+            "172.87%",
+            "185.81%",
+            "199.92%"
+          ]
+        },
+        {
+          "name": "SCH heftiger Schläge am Ende",
+          "parameters": [
+            "124.70%",
+            "134.85%",
+            "145.00%",
+            "159.50%",
+            "169.65%",
+            "181.25%",
+            "197.20%",
+            "213.15%",
+            "229.10%",
+            "246.50%",
+            "266.44%",
+            "289.88%",
+            "313.33%",
+            "336.78%",
+            "362.35%"
+          ]
+        },
+        {
+          "name": "Ausdauerverbrauch heftiger Schläge",
+          "parameters": [
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s",
+            "40 Punkte pro s"
+          ]
+        },
+        {
+          "name": "Höchstdauer",
+          "parameters": [
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen",
+          "parameters": [
+            "89.51%",
+            "96.79%",
+            "104.08%",
+            "114.48%",
+            "121.77%",
+            "130.10%",
+            "141.54%",
+            "152.99%",
+            "164.44%",
+            "176.93%",
+            "189.42%",
+            "201.91%",
+            "214.40%",
+            "226.89%",
+            "239.37%"
+          ]
+        },
+        {
+          "name": "SCH beim Fallen aus niedriger/großer Höhe",
+          "parameters": [
+            "178.97%/223.55%",
+            "193.54%/241.74%",
+            "208.11%/259.94%",
+            "228.92%/285.93%",
+            "243.49%/304.13%",
+            "260.13%/324.92%",
+            "283.03%/353.52%",
+            "305.92%/382.11%",
+            "328.81%/410.70%",
+            "353.78%/441.89%",
+            "378.76%/473.09%",
+            "403.73%/504.28%",
+            "428.70%/535.47%",
+            "453.68%/566.66%",
+            "478.65%/597.86%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Sengende Klinge",
+      "info": "Wirbelt das Großschwert, schlägt nach vorn und verursacht Pyro-Schaden.\n\nKann bis zu 3-mal hintereinander angewendet werden.\nBei nicht fortgeführter Anwendung innerhalb kurzer Zeit beginnt eine Abklingphase.",
+      "description": "Dilucs Angriff steht für Gerechtigkeit, Tapferkeit und Verantwortung.",
+      "attributes": [
+        {
+          "name": "SCH Phase 1",
+          "parameters": [
+            "94.40%",
+            "101.48%",
+            "108.56%",
+            "118.00%",
+            "125.08%",
+            "132.16%",
+            "141.60%",
+            "151.04%",
+            "160.48%",
+            "169.92%",
+            "179.36%",
+            "188.80%",
+            "200.60%",
+            "212.40%",
+            "224.20%"
+          ]
+        },
+        {
+          "name": "SCH Phase 2",
+          "parameters": [
+            "97.60%",
+            "104.92%",
+            "112.24%",
+            "122.00%",
+            "129.32%",
+            "136.64%",
+            "146.40%",
+            "156.16%",
+            "165.92%",
+            "175.68%",
+            "185.44%",
+            "195.20%",
+            "207.40%",
+            "219.60%",
+            "231.80%"
+          ]
+        },
+        {
+          "name": "SCH Phase 3",
+          "parameters": [
+            "128.80%",
+            "138.46%",
+            "148.12%",
+            "161.00%",
+            "170.66%",
+            "180.32%",
+            "193.20%",
+            "206.08%",
+            "218.96%",
+            "231.84%",
+            "244.72%",
+            "257.60%",
+            "273.70%",
+            "289.80%",
+            "305.90%"
+          ]
+        },
+        {
+          "name": "Abklingzeit",
+          "parameters": [
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s",
+            "10 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Dämmerung",
+      "info": "Erschafft Flammen, die Gegner in der Umgebung zurückstoßen und Pyro-Schaden verursachen. Die Flammen sammeln sich auf der Waffe und bilden einen Feuervogel, der nach vorn fliegt, Gegnern in seiner Bahn hohen Pyro-Schaden zufügt und am Ende des Flugs bei einer Explosion hohen Pyro-Flächenschaden verursacht.\nDie Flammen auf Dilucs Waffe verleihen ihm die Pyro-Kraft.",
+      "description": "Man wandert durch die Finsternis, um das Licht zu verbreiten. Das Leuchten in der Ferne während einer dunklen Nacht ist das Vorzeichen für den Anbruch des Tages.",
+      "attributes": [
+        {
+          "name": "Schwerthieb-SCH",
+          "parameters": [
+            "204.00%",
+            "219.30%",
+            "234.60%",
+            "255.00%",
+            "270.30%",
+            "285.60%",
+            "306.00%",
+            "326.40%",
+            "346.80%",
+            "367.20%",
+            "387.60%",
+            "408.00%",
+            "433.50%",
+            "459.00%",
+            "484.50%"
+          ]
+        },
+        {
+          "name": "Fortlaufender SCH",
+          "parameters": [
+            "60.00%",
+            "64.50%",
+            "69.00%",
+            "75.00%",
+            "79.50%",
+            "84.00%",
+            "90.00%",
+            "96.00%",
+            "102.00%",
+            "108.00%",
+            "114.00%",
+            "120.00%",
+            "127.50%",
+            "135.00%",
+            "142.50%"
+          ]
+        },
+        {
+          "name": "Explosions-SCH",
+          "parameters": [
+            "204.00%",
+            "219.30%",
+            "234.60%",
+            "255.00%",
+            "270.30%",
+            "285.60%",
+            "306.00%",
+            "326.40%",
+            "346.80%",
+            "367.20%",
+            "387.60%",
+            "408.00%",
+            "433.50%",
+            "459.00%",
+            "484.50%"
+          ]
+        },
+        {
+          "name": "Abklingzeit",
+          "parameters": [
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s",
+            "12 s"
+          ]
+        },
+        {
+          "name": "Elementarumwandlungsdauer",
+          "parameters": [
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s"
+          ]
+        },
+        {
+          "name": "Elementarenergie",
+          "parameters": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Ruhelos",
+      "info": "Verringert Dilucs Ausdauerverbrauch für heftige Schläge um 50 % und verlängert die max. Wirkungsdauer um 3 s."
+    },
+    "passive2": {
+      "name": "Flammende Flügel",
+      "info": "Verlängert die Zeit, die **Dämmerung** das Pyro-Attribut verleiht, um 4 s und erhöht Dilucs Pyro-Schaden während der Wirkungsdauer des Effekts um 20 %."
+    },
+    "passive3": {
+      "name": "Tradition der Dämmerung",
+      "info": "Gibt beim Schmieden von Zweihändern 15 % des verbrauchten Erzes zurück."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Lehren des „Widerstands“",
+          "count": 3
+        },
+        {
+          "name": "Abzeichen für neue Rekruten",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Anleitung zum „Widerstand“",
+          "count": 2
+        },
+        {
+          "name": "Abzeichen für Unteroffiziere",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Anleitung zum „Widerstand“",
+          "count": 4
+        },
+        {
+          "name": "Abzeichen für Unteroffiziere",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Anleitung zum „Widerstand“",
+          "count": 6
+        },
+        {
+          "name": "Abzeichen für Unteroffiziere",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Anleitung zum „Widerstand“",
+          "count": 9
+        },
+        {
+          "name": "Abzeichen für Unteroffiziere",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie des „Widerstands“",
+          "count": 4
+        },
+        {
+          "name": "Abzeichen für Offiziere",
+          "count": 4
+        },
+        {
+          "name": "Schwanzfeder des Ostwinds",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie des „Widerstands“",
+          "count": 6
+        },
+        {
+          "name": "Abzeichen für Offiziere",
+          "count": 6
+        },
+        {
+          "name": "Schwanzfeder des Ostwinds",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie des „Widerstands“",
+          "count": 12
+        },
+        {
+          "name": "Abzeichen für Offiziere",
+          "count": 9
+        },
+        {
+          "name": "Schwanzfeder des Ostwinds",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie des „Widerstands“",
+          "count": 16
+        },
+        {
+          "name": "Abzeichen für Offiziere",
+          "count": 12
+        },
+        {
+          "name": "Schwanzfeder des Ostwinds",
+          "count": 2
+        },
+        {
+          "name": "Krone der Weisheit",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Diluc_01_01",
+      "combat3": "Skill_E_Diluc_01_HD",
+      "passive1": "UI_Talent_S_Diluc_05",
+      "passive2": "UI_Talent_S_Diluc_06",
+      "passive3": "UI_Talent_Forge_Claymore"
+    },
+    "version": "1.0"
+  }
+}

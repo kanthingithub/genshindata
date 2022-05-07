@@ -1,0 +1,20 @@
+{
+  "name": "紫晶塊",
+  "description": "未經切割的礦物晶體，僅在稻妻列島上產生。經過專門處理後，始能展現其真正的價值。",
+  "sortorder": 1961,
+  "category": "EXCHANGE",
+  "materialtype": "鍛造用礦石",
+  "source": [
+    "野外採集",
+    "推薦：鳴神島採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Amethyst_Lump.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7d/Item_Amethyst_Lump.png",
+    "nameicon": "UI_ItemIcon_101008"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Amethyst_Lump"
+  },
+  "version": ""
+}

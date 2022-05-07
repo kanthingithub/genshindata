@@ -1,0 +1,20 @@
+{
+  "name": "Garnelenfleisch",
+  "description": "Garnelenfleisch aus den Tiefen der Meere. Es hat wertvolle Inhaltsstoffe und einen überwältigenden, frischen Geschmack.",
+  "sortorder": 2008,
+  "category": "EXCHANGE",
+  "materialtype": "Zutat",
+  "source": [
+    "Im Gemischtwarenladen von Liyue zu erstehen",
+    "In Gemischtwarenläden in Inazuma zu erstehen"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shrimp_Meat.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d0/Item_Shrimp_Meat.png",
+    "nameicon": "UI_ItemIcon_100093"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shrimp_Meat"
+  },
+  "version": ""
+}

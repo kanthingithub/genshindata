@@ -1,0 +1,20 @@
+{
+  "name": "Crystal Chunk",
+  "description": "An uncut crystal. Only professional craftsmanship can bring out its true value.",
+  "sortorder": 1956,
+  "category": "EXCHANGE",
+  "materialtype": "Forging Ore",
+  "source": [
+    "Found in the wild",
+    "Recommendation: Found in Stormterror's Lair"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crystal_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/Item_Crystal_Chunk.png",
+    "nameicon": "UI_ItemIcon_101003"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Crystal_Chunk"
+  },
+  "version": ""
+}

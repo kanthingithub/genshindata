@@ -1,0 +1,20 @@
+{
+  "name": "Camarão",
+  "description": "Um pedaço inteiro de carne de um camarão das profundezas do oceano, cheio de nutrientes e encharcado e um delicioso sabor.",
+  "sortorder": 2008,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente",
+  "source": [
+    "Vendido nas Tendas de Liyue",
+    "Vendido nas Lojas de Inazuma"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shrimp_Meat.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d0/Item_Shrimp_Meat.png",
+    "nameicon": "UI_ItemIcon_100093"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shrimp_Meat"
+  },
+  "version": ""
+}

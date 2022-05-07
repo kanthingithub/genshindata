@@ -1,0 +1,20 @@
+{
+  "name": "Flaming Flower Stamen",
+  "description": "ดอกไม้เพลิงที่ปลดปล่อยการเผาไหม้ ถึงแม้จะถูกน้ำดับลงก็ยังสามารถปลดปล่อยความร้อนได้อยู่",
+  "sortorder": 1969,
+  "category": "EXCHANGE",
+  "materialtype": "วัสดุ",
+  "source": [
+    "พบได้ในโลกกว้าง",
+    "คำแนะนำ: รวบรวมที่ Thousand Winds Temple"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Flaming_Flower_Stamen.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Item_Flaming_Flower_Stamen.png",
+    "nameicon": "UI_ItemIcon_100053"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Flaming_Flower_Stamen"
+  },
+  "version": ""
+}

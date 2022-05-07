@@ -1,0 +1,18 @@
+{
+  "name": "Alkahest",
+  "description": "Specialized refinement material for the Cinnabar Spindle.\nA silver substance shining with an otherworldly light that is a deadly corrosive poison to things of this world. And yet it also has the power to sublimate matter...",
+  "sortorder": 2298,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Refinement Material",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_200108",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Alkahest.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Item_Alkahest.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Alkahest"
+  },
+  "version": ""
+}

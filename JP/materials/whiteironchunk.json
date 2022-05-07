@@ -1,0 +1,21 @@
+{
+  "name": "白鉄の塊",
+  "description": "白鉄の鉱石。相応の技術を持った職人の手にかかれば、異彩を放つでしょう。",
+  "sortorder": 1955,
+  "category": "EXCHANGE",
+  "materialtype": "鍛造用鉱石",
+  "source": [
+    "野外で採集",
+    "推奨：望風山地で採集",
+    "推奨：奔狼領で採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_White_Iron_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Item_White_Iron_Chunk.png",
+    "nameicon": "UI_ItemIcon_101002"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/White_Iron_Chunk"
+  },
+  "version": ""
+}

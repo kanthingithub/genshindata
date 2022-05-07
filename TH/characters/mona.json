@@ -1,0 +1,874 @@
+{
+  "name": "Mona",
+  "fullname": "Mona",
+  "title": "เงาสะท้อนดวงดาว",
+  "description": "หญิงสาวลึกลับผู้เป็นโหรแห่งดวงดาว เรียกตัวเองว่า \"โหรแห่งดวงดาวผู้ยิ่งใหญ่ Mona\" มีความแข็งแกร่งอย่างล้นเหลือ ตามชื่อของเธอ ซึ่งมาพร้อมกับความรู้ และความภาคภูมิใจ",
+  "rarity": "5",
+  "element": "น้ำ",
+  "weapontype": "สื่อเวท",
+  "substat": "การฟื้นฟูพลังงาน",
+  "gender": "ผู้หญิง",
+  "body": "GIRL",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Mondstadt",
+  "birthdaymmdd": "8/31",
+  "birthday": "31 สิงหาคม",
+  "constellation": "Astrolabos",
+  "cv": {
+    "english": "Felecia Angelle",
+    "chinese": "陈婷婷",
+    "japanese": "小原好美",
+    "korean": "Woo Jeong-shin"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Varunada Lazurite Sliver",
+        "count": 1
+      },
+      {
+        "name": "Philanemo Mushroom",
+        "count": 3
+      },
+      {
+        "name": "Whopperflower Nectar",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Varunada Lazurite Fragment",
+        "count": 3
+      },
+      {
+        "name": "Cleansing Heart",
+        "count": 2
+      },
+      {
+        "name": "Philanemo Mushroom",
+        "count": 10
+      },
+      {
+        "name": "Whopperflower Nectar",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Varunada Lazurite Fragment",
+        "count": 6
+      },
+      {
+        "name": "Cleansing Heart",
+        "count": 4
+      },
+      {
+        "name": "Philanemo Mushroom",
+        "count": 20
+      },
+      {
+        "name": "Shimmering Nectar",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Varunada Lazurite Chunk",
+        "count": 3
+      },
+      {
+        "name": "Cleansing Heart",
+        "count": 8
+      },
+      {
+        "name": "Philanemo Mushroom",
+        "count": 30
+      },
+      {
+        "name": "Shimmering Nectar",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Varunada Lazurite Chunk",
+        "count": 6
+      },
+      {
+        "name": "Cleansing Heart",
+        "count": 12
+      },
+      {
+        "name": "Philanemo Mushroom",
+        "count": 45
+      },
+      {
+        "name": "Elemental Nectar",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Varunada Lazurite Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Cleansing Heart",
+        "count": 20
+      },
+      {
+        "name": "Philanemo Mushroom",
+        "count": 60
+      },
+      {
+        "name": "Elemental Nectar",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Character_Mona_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Character_Mona_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Mona.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817270842074.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200828/2020082817353421694.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/1fa7a20fb3b391132e1132ab2a44e146.png",
+    "nameicon": "UI_AvatarIcon_Mona",
+    "nameiconcard": "UI_AvatarIcon_Mona_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Mona",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Mona",
+    "namesideicon": "UI_AvatarIcon_Side_Mona"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mona"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 810.322021484375,
+      "attack": 22.3439998626709,
+      "defense": 50.855499267578125,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2101.9754056454985,
+      "attack": 57.96033790251158,
+      "defense": 131.9191702410535,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2796.7532376767485,
+      "attack": 77.11689880033873,
+      "defense": 175.52416978328984,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 4184.8349083920475,
+      "attack": 115.3921718862457,
+      "defense": 262.63964303562534,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4678.4928673764225,
+      "attack": 129.00341036585996,
+      "defense": 293.6221450192679,
+      "specialized": 0.07999999821186066
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5382.662670043879,
+      "attack": 148.42034530892943,
+      "defense": 337.81557174881164,
+      "specialized": 0.07999999821186066
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 6040.873241332942,
+      "attack": 166.5686645533142,
+      "defense": 379.1255693074054,
+      "specialized": 0.1599999964237213
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6752.335800001631,
+      "attack": 186.18669157431032,
+      "defense": 423.77668660643394,
+      "specialized": 0.1599999964237213
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 7245.993636915693,
+      "attack": 199.7979319612732,
+      "defense": 454.7591924047738,
+      "specialized": 0.1599999964237213
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7963.9390746873105,
+      "attack": 219.59471933425903,
+      "defense": 499.8171727097797,
+      "specialized": 0.1599999964237213
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 8457.597033671685,
+      "attack": 233.20596353591918,
+      "defense": 530.799670878725,
+      "specialized": 0.23999999463558197
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 9183.645490734489,
+      "attack": 253.22618536721802,
+      "defense": 576.366193566515,
+      "specialized": 0.23999999463558197
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 9677.303449718864,
+      "attack": 266.83742193948365,
+      "defense": 607.3486917354603,
+      "specialized": 0.3199999928474426
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 10409.024522594642,
+      "attack": 287.0140617423858,
+      "defense": 653.2712256159284,
+      "specialized": 0.3199999928474426
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Prophecy of Submersion",
+      "effect": "ภายใน 8 วินาที หลังจากที่ตัวละครของตนเองในทีมโจมตีถูกศัตรู ที่อยู่ภายใต้สภาวะ Omen เอฟเฟกต์ของ ปฏิกิริยาที่เกี่ยวข้องกับธาตุน้ำ จะเพิ่มสูงขึ้น:\nความเสียหายที่เกิดจาก การชาร์จไฟฟ้าเพิ่มขึ้น 15% ความเสียหายที่เกิดจาก การระเหยเพิ่มขึ้น 15% ความเสียหายที่เกิดจาก การกระจายเพิ่มขึ้น 15% \nระยะเวลาต่อเนื่องของ การแช่แข็งเพิ่มขึ้น 15%"
+    },
+    "c2": {
+      "name": "Lunar Chain",
+      "effect": "เมื่อโจมตีปกติถูกศัตรู จะมีโอกาส 20 % ที่จะปล่อย การชาร์จโจมตีหนึ่งครั้ง\nเอฟเฟกต์นี้จะเกิดขึ้นได้ หนึ่งครั้งในทุก 5 วิ"
+    },
+    "c3": {
+      "name": "Restless Revolution",
+      "effect": "เพิ่มเลเวลของสกิล **Stellaris Phantasm** ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ"
+    },
+    "c4": {
+      "name": "Prophecy of Oblivion",
+      "effect": "เมื่อตัวละครใดก็ตามในทีม โจมตีศัตรูที่อยู่ภายใต้สภาวะ Omen การโจมตีนั้นจะมีอัตราคริเพิ่มขึ้น 15%"
+    },
+    "c5": {
+      "name": "Mockery of Fortuna",
+      "effect": "เพิ่มเลเวลของสกิล **Mirror Reflection of Doom** ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ"
+    },
+    "c6": {
+      "name": "Rhetorics of Calamitas",
+      "effect": "หลังจากเข้าสู่สภาวะ **Illusory Torrent** ความเสียหายจาก การชาร์จโจมตีของ Mona ครั้งต่อไปจะเพิ่มขึ้น 60% ทุก 1 วินาที\nด้วยวิธีนี้จะเพิ่มความเสียหาย ชาร์จโจมตีได้สูงสุด 180% เอฟเฟกต์นี้จะคงอยู่ได้สูงสุด 8 วินาที"
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Mona_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Mona_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Mona_04.png",
+      "constellation": "Eff_UI_Talent_Mona"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Mona",
+    "combat1": {
+      "name": "โจมตีปกติ - Ripple of Fate",
+      "info": "**โจมตีปกติ**\nปล่อยการโจมตีน้ำต่อเนื่องมากสุดสี่ครั้ง เพื่อสร้างความเสียหายน้ำ\n\n**ชาร์จโจมตี**\nใช้พลังกายบางส่วน โดยหลังจากร่ายเสร็จจะสร้าง ความเสียหายน้ำเป็นวงกว้าง\n\n**โจมตีพุ่งลงจากอากาศ**\nรวบรวมพลังแห่งธาตุน้ำ กระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายน้ำวงกว้าง เมื่อลงถึงพื้น",
+      "attributes": [
+        {
+          "name": "ความเสียหายขั้น 1",
+          "parameters": [
+            "37.60%",
+            "40.42%",
+            "43.24%",
+            "47.00%",
+            "49.82%",
+            "52.64%",
+            "56.40%",
+            "60.16%",
+            "63.92%",
+            "67.68%",
+            "71.44%",
+            "75.20%",
+            "79.90%",
+            "84.60%",
+            "89.30%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 2",
+          "parameters": [
+            "36.00%",
+            "38.70%",
+            "41.40%",
+            "45.00%",
+            "47.70%",
+            "50.40%",
+            "54.00%",
+            "57.60%",
+            "61.20%",
+            "64.80%",
+            "68.40%",
+            "72.00%",
+            "76.50%",
+            "81.00%",
+            "85.50%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 3",
+          "parameters": [
+            "44.80%",
+            "48.16%",
+            "51.52%",
+            "56.00%",
+            "59.36%",
+            "62.72%",
+            "67.20%",
+            "71.68%",
+            "76.16%",
+            "80.64%",
+            "85.12%",
+            "89.60%",
+            "95.20%",
+            "100.80%",
+            "106.40%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 4",
+          "parameters": [
+            "56.16%",
+            "60.37%",
+            "64.58%",
+            "70.20%",
+            "74.41%",
+            "78.62%",
+            "84.24%",
+            "89.86%",
+            "95.47%",
+            "101.09%",
+            "106.70%",
+            "112.32%",
+            "119.34%",
+            "126.36%",
+            "133.38%"
+          ]
+        },
+        {
+          "name": "ความเสียหายชาร์จโจมตี",
+          "parameters": [
+            "149.72%",
+            "160.95%",
+            "172.18%",
+            "187.15%",
+            "198.38%",
+            "209.61%",
+            "224.58%",
+            "239.55%",
+            "254.52%",
+            "269.50%",
+            "285.07%",
+            "305.43%",
+            "325.79%",
+            "346.15%",
+            "366.51%"
+          ]
+        },
+        {
+          "name": "ชาร์จโจมตีใช้พลังกาย",
+          "parameters": [
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย",
+            "50 หน่วย"
+          ]
+        },
+        {
+          "name": "ความเสียหายพุ่งลง",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "ความเสียหายพุ่งถึงพื้นจากที่ต่ำ/สูง",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Mirror Reflection of Doom",
+      "info": "สร้างภาพลวงตาแห่งโชคชะตา Phantom ขึ้นจากการรวมตัวของน้ำ\n\n**Phantom**\nมีคุณลักษณะพิเศษดังนี้:\n·ยั่วยุและดึงดูดการโจมตีของศัตรูอย่างต่อเนื่อง;\n·สร้างความเสียหายน้ำแก่ศัตรูโดยรอบ อย่างต่อเนื่อง;\n·ภาพลวงตาจะระเบิดออกเมื่อช่วงเวลา ต่อเนื่องสิ้นสุดลง และทำให้เกิดความเสียหายน้ำวงกว้าง\n\n**กดค้าง**\nอาศัยพลังของกระแสน้ำเพื่อถอยมาด้านหลังอย่างรวดเร็ว และเรียกภาพลวงตา ออกมา\n\nซึ่งขณะเดียวกันในสนามรบจะสามารถ มีภาพลวงตาที่เกิดจาก Mirror Reflection of Doom ได้เพียงอันเดียวเท่านั้น",
+      "description": "เหล่าโหรแห่งดวงดาวผู้เก่งกาจนั้น พยายามสร้างภาพลวงตาขึ้นมา เพื่อส่งผ่านเคราะห์ร้ายมาตั้งนานแล้ว แต่ Mona เป็นคนแรกใน Teyvat ที่สามารถหลอกล่อเคราะห์ร้าย ได้ถึงขนาดนี้",
+      "attributes": [
+        {
+          "name": "ความเสียหายต่อเนื่อง",
+          "parameters": [
+            "32.00%",
+            "34.40%",
+            "36.80%",
+            "40.00%",
+            "42.40%",
+            "44.80%",
+            "48.00%",
+            "51.20%",
+            "54.40%",
+            "57.60%",
+            "60.80%",
+            "64.00%",
+            "68.00%",
+            "72.00%",
+            "76.00%"
+          ]
+        },
+        {
+          "name": "ความเสียหายการระเบิด",
+          "parameters": [
+            "132.80%",
+            "142.76%",
+            "152.72%",
+            "166.00%",
+            "175.96%",
+            "185.92%",
+            "199.20%",
+            "212.48%",
+            "225.76%",
+            "239.04%",
+            "252.32%",
+            "265.60%",
+            "282.20%",
+            "298.80%",
+            "315.40%"
+          ]
+        },
+        {
+          "name": "เวลาคูลดาวน์",
+          "parameters": [
+            "12 วินาที",
+            "12 วินาที",
+            "12 วินาที",
+            "12 วินาที",
+            "12 วินาที",
+            "12 วินาที",
+            "12 วินาที",
+            "12 วินาที",
+            "12 วินาที",
+            "12 วินาที",
+            "12 วินาที",
+            "12 วินาที",
+            "12 วินาที",
+            "12 วินาที",
+            "12 วินาที"
+          ]
+        }
+      ]
+    },
+    "combatsp": {
+      "name": "Illusory Torrent",
+      "info": "**Alternate Sprint**\nแทรกตัวหลบเข้าไปในกระแสน้ำ และเคลื่อนที่อย่างรวดเร็วโดยแลกกับ การใช้พลังกาย\n\nภายใต้สภาวะเอฟเฟกต์ของ Illusory Torrent... Mona จะสามารถเคลื่อนที่ บนผิวน้ำได้อย่างรวดเร็ว\nเมื่อ Illusory Torrent สิ้นสุด และปรากฏตัวออกมา จะทำให้ ศัตรูที่อยู่รอบ ๆ อยู่ในสภาวะเปียกชุ่ม",
+      "description": "นี่เป็นเรื่องที่ Mona สามารถทำได้ แต่อาจารย์ของเธอนั้นกลับล้มเหลว ถึงจะไม่เกี่ยวกับวิชั่น แต่ยังไงอาจารย์ของเธอก็ไม่ได้ถูก บังคับให้เรียนทักษะเหล่านี้อยู่ดี",
+      "attributes": [
+        {
+          "name": "ใช้พลังกายเริ่มต้น",
+          "parameters": [
+            "10 หน่วย"
+          ]
+        },
+        {
+          "name": "ใช้พลังกาย",
+          "parameters": [
+            "15 ต่อวินาที"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Stellaris Phantasm",
+      "info": "รวบรวมคลื่นน้ำอันใสสะอาด และเป็นประกาย สะท้อนเป็นภาพมายา แห่งดวงดาว จากนั้นทำให้ศัตรูติดสถานะ Illusory Bubble เป็นวงกว้าง\n\n**Illusory Bubble**\nกักขังศัตรูด้วยฟองอากาศแห่งโชคชะตา เพิ่มสถานะเปียกชุ่ม ศัตรูที่ค่อนข้างอ่อนแอ จะถูกกักขังด้วย ฟองอากาศ Illusory Bubble และไม่สามารถขยับได้\nเมื่อศัตรูที่อยู่ภายใต้ผลกระทบของ Illusory Bubble ได้รับความเสียหาย จะเกิดเอฟเฟกต์ดังนี้:\n·เพิ่มเอฟเฟกต์โบนัสความเสียหาย Omen แก่ศัตรู และเพิ่มความเสียหายจากการโจมตีครั้งนี้;\n·เอฟเฟกต์ Illusory Bubble จะหายไป และสร้างความเสียหายน้ำเพิ่ม 1 ครั้ง\n\n**Omen**\nภายในช่วงระยะเวลาต่อเนื่อง ความเสียหายที่ได้รับจะเพิ่มขึ้น",
+      "description": "ตั้งแต่ที่ดวงตาของเทพเจ้านั้น เริ่มที่จะดึงดูดแสงสว่างบนท้องฟ้า โชคชะตาจึงถูกเรียกว่า โชคชะตาเป็นต้นมา",
+      "attributes": [
+        {
+          "name": "ช่วงเวลาคงอยู่ของ Illusory Bubble",
+          "parameters": [
+            "8 วินาที",
+            "8 วินาที",
+            "8 วินาที",
+            "8 วินาที",
+            "8 วินาที",
+            "8 วินาที",
+            "8 วินาที",
+            "8 วินาที",
+            "8 วินาที",
+            "8 วินาที",
+            "8 วินาที",
+            "8 วินาที",
+            "8 วินาที",
+            "8 วินาที",
+            "8 วินาที"
+          ]
+        },
+        {
+          "name": "ความเสียหายการระเบิดของ Illusory Bubble",
+          "parameters": [
+            "442.40%",
+            "475.58%",
+            "508.76%",
+            "553.00%",
+            "586.18%",
+            "619.36%",
+            "663.60%",
+            "707.84%",
+            "752.08%",
+            "796.32%",
+            "840.56%",
+            "884.80%",
+            "940.10%",
+            "995.40%",
+            "1050.70%"
+          ]
+        },
+        {
+          "name": "โบนัสความเสียหาย",
+          "parameters": [
+            "42.00%",
+            "44.00%",
+            "46.00%",
+            "48.00%",
+            "50.00%",
+            "52.00%",
+            "54.00%",
+            "56.00%",
+            "58.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%",
+            "60.00%"
+          ]
+        },
+        {
+          "name": "ระยะเวลาต่อเนื่องของ Omen",
+          "parameters": [
+            "4 วิ",
+            "4 วิ",
+            "4 วิ",
+            "4.5 วิ",
+            "4.5 วิ",
+            "4.5 วิ",
+            "5 วิ",
+            "5 วิ",
+            "5 วิ",
+            "5 วิ",
+            "5 วิ",
+            "5 วิ",
+            "5 วิ",
+            "5 วิ",
+            "5 วิ"
+          ]
+        },
+        {
+          "name": "เวลาคูลดาวน์",
+          "parameters": [
+            "15 วินาที",
+            "15 วินาที",
+            "15 วินาที",
+            "15 วินาที",
+            "15 วินาที",
+            "15 วินาที",
+            "15 วินาที",
+            "15 วินาที",
+            "15 วินาที",
+            "15 วินาที",
+            "15 วินาที",
+            "15 วินาที",
+            "15 วินาที",
+            "15 วินาที",
+            "15 วินาที"
+          ]
+        },
+        {
+          "name": "พลังงานธาตุ",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "\"Come 'n' Get Me, Hag!\"",
+      "info": "2 วินาที หลังจากเข้าสู่สภาวะของ **Illusory Torrent** หากมีศัตรูอยู่ในบริเวณรอบตัว จะทำการสร้างภาพลวงตา Phantom ออกมา 1 ตน\nPhantom ที่เกิดขึ้นด้วยวิธีนี้จะคงอยู่ เป็นเวลา 2 วินาที และสร้างความเสียหาย เมื่อแตกกระจายเท่ากับ 50% ของความเสียหายของ **Mirror Reflection of Doom**"
+    },
+    "passive2": {
+      "name": "Waterborne Destiny",
+      "info": "เพิ่มโบนัสความเสียหายน้ำของ Mona ขึ้น โดยระดับที่เพิ่มจะเท่ากับ 20% ของประสิทธิภาพการฟื้นฟูพลังงาน ของเธอ"
+    },
+    "passive3": {
+      "name": "Principium of Astrology",
+      "info": "เมื่อสร้างวัสดุเลื่อนขั้นอาวุธ จะมีโอกาส 25% ที่จะได้รับวัสดุส่วนหนึ่งที่ใช้ไปคืน"
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of Resistance",
+          "count": 3
+        },
+        {
+          "name": "Whopperflower Nectar",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to Resistance",
+          "count": 2
+        },
+        {
+          "name": "Shimmering Nectar",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to Resistance",
+          "count": 4
+        },
+        {
+          "name": "Shimmering Nectar",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to Resistance",
+          "count": 6
+        },
+        {
+          "name": "Shimmering Nectar",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to Resistance",
+          "count": 9
+        },
+        {
+          "name": "Shimmering Nectar",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of Resistance",
+          "count": 4
+        },
+        {
+          "name": "Elemental Nectar",
+          "count": 4
+        },
+        {
+          "name": "Ring of Boreas",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of Resistance",
+          "count": 6
+        },
+        {
+          "name": "Elemental Nectar",
+          "count": 6
+        },
+        {
+          "name": "Ring of Boreas",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of Resistance",
+          "count": 12
+        },
+        {
+          "name": "Elemental Nectar",
+          "count": 9
+        },
+        {
+          "name": "Ring of Boreas",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of Resistance",
+          "count": 16
+        },
+        {
+          "name": "Elemental Nectar",
+          "count": 12
+        },
+        {
+          "name": "Ring of Boreas",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_Catalyst_MD",
+      "combat2": "Skill_S_Mona_01",
+      "combatsp": "Skill_S_Mona_02",
+      "combat3": "Skill_E_Mona_01_HD",
+      "passive1": "UI_Talent_S_Mona_05",
+      "passive2": "UI_Talent_S_Mona_06",
+      "passive3": "UI_Talent_Combine_Weapon"
+    },
+    "version": "1.0"
+  }
+}

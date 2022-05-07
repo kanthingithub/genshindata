@@ -1,0 +1,19 @@
+{
+  "name": "Tomate",
+  "description": "Eine Frucht mit einer dünnen, knallroten Schale. Etwas säuerlich, aber sehr saftig. Ob Obst oder Gemüse, immer ein Genuss.",
+  "sortorder": 1999,
+  "category": "EXCHANGE",
+  "materialtype": "Zutat",
+  "source": [
+    "In Gemischtwarenläden zu erstehen"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Tomato.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Tomato.png",
+    "nameicon": "UI_ItemIcon_100079"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Tomato"
+  },
+  "version": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Аралия",
+  "description": "Древесина, полученная из инадзумского кедра. От природы податливая, узор прямой. Она источает лёгкий и нежный аромат.\nСлужит для изготовления декора.",
+  "sortorder": 1945,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Материал",
+  "source": [
+    "Дикая природа",
+    "Остров Наруками"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Aralia_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Item_Aralia_Wood.png",
+    "nameicon": "UI_ItemIcon_101311"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Aralia_Wood"
+  },
+  "version": ""
+}

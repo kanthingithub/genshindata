@@ -1,0 +1,20 @@
+{
+  "name": "Семена одуванчика",
+  "description": "Крошечные семена, парящие на ветру. Даже без своих мнимых крыльев они продолжают мечтать о дальних краях.",
+  "sortorder": 2043,
+  "category": "EXCHANGE",
+  "materialtype": "Диковина Мондштадта",
+  "source": [
+    "Дикая природа",
+    "У ворот Мондштадта"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dandelion_Seed.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Item_Dandelion_Seed.png",
+    "nameicon": "UI_ItemIcon_100057"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dandelion_Seed"
+  },
+  "version": ""
+}

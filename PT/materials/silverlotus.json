@@ -1,0 +1,18 @@
+{
+  "name": "Lótus de Prata",
+  "description": "Uma planta rara que cresce em penhascos íngremes. Possui um brilho magnífico durante a noite.",
+  "sortorder": 1985,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente",
+  "source": [
+    "Encontrado na natureza"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Silver_Lotus.png",
+    "nameicon": "UI_ItemIcon_100019"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Silver_Lotus"
+  },
+  "version": ""
+}

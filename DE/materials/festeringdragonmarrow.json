@@ -1,0 +1,18 @@
+{
+  "name": "Drachenmark der Verderbnis",
+  "description": "Verfeinerungsmaterial speziell für das „Schwert der Verderbnis“.\nMan findet es rund um den Drachengrat in der Nähe des Flusses der Elemente, gereinigte Überreste von „Durins“ verrottendem Körper. Auf dem „Bluttrinkenden Schwert“ aufgetragen verbessert es die Attribute dieses Schwertes.",
+  "sortorder": 2293,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Verfeinerungsmaterial",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Festering_Dragon_Marrow.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Item_Festering_Dragon_Marrow.png",
+    "nameicon": "UI_ItemIcon_200103"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Festering_Dragon_Marrow"
+  },
+  "version": ""
+}

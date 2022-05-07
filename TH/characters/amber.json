@@ -1,0 +1,854 @@
+{
+  "name": "Amber",
+  "fullname": "Amber",
+  "title": "แชมป์นักร่อนเวหา",
+  "description": "เด็กสาวผู้เปี่ยมไปด้วยพลังและมีชีวิตชีวาอยู่เสมอ ยอดฝีมือแห่งกองอัศวิน และในขณะเดียวกันก็เป็น อัศวินลาดตระเวนคนสุดท้ายด้วย",
+  "rarity": "4",
+  "element": "ไฟ",
+  "weapontype": "ธนู",
+  "substat": "พลังโจมตี",
+  "gender": "ผู้หญิง",
+  "body": "GIRL",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "กองอัศวินแห่ง Favonius",
+  "birthdaymmdd": "8/10",
+  "birthday": "10 สิงหาคม",
+  "constellation": "Lepus",
+  "cv": {
+    "english": "Kelly Baskin",
+    "chinese": "蔡书瑾",
+    "japanese": "石見舞菜香",
+    "korean": "Kim Yeon-woo"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Agnidus Agate Sliver",
+        "count": 1
+      },
+      {
+        "name": "Small Lamp Grass",
+        "count": 3
+      },
+      {
+        "name": "Firm Arrowhead",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Agnidus Agate Fragment",
+        "count": 3
+      },
+      {
+        "name": "Everflame Seed",
+        "count": 2
+      },
+      {
+        "name": "Small Lamp Grass",
+        "count": 10
+      },
+      {
+        "name": "Firm Arrowhead",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Agnidus Agate Fragment",
+        "count": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "count": 4
+      },
+      {
+        "name": "Small Lamp Grass",
+        "count": 20
+      },
+      {
+        "name": "Sharp Arrowhead",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Agnidus Agate Chunk",
+        "count": 3
+      },
+      {
+        "name": "Everflame Seed",
+        "count": 8
+      },
+      {
+        "name": "Small Lamp Grass",
+        "count": 30
+      },
+      {
+        "name": "Sharp Arrowhead",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Agnidus Agate Chunk",
+        "count": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "count": 12
+      },
+      {
+        "name": "Small Lamp Grass",
+        "count": 45
+      },
+      {
+        "name": "Historic Arrowhead",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Agnidus Agate Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Everflame Seed",
+        "count": 20
+      },
+      {
+        "name": "Small Lamp Grass",
+        "count": 60
+      },
+      {
+        "name": "Historic Arrowhead",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Character_Amber_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Character_Amber_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ambor.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ambor.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20191009/2019100914372396510.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20191009/2019100914390892929.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/b7c1e4d14fdaac060eb86e3ad09bbf78.png",
+    "nameicon": "UI_AvatarIcon_Ambor",
+    "nameiconcard": "UI_AvatarIcon_Ambor_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Ambor",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Ambor",
+    "namesideicon": "UI_AvatarIcon_Side_Ambor"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Amber"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 793.2581787109375,
+      "attack": 18.698400497436523,
+      "defense": 50.358001708984375,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2037.8802656474581,
+      "attack": 48.036190984907535,
+      "defense": 129.36970667853166,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 2630.484757834958,
+      "attack": 62.00518131083527,
+      "defense": 166.98970561041642,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 3940.153839915467,
+      "attack": 92.87623650202931,
+      "defense": 250.1307555782696,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 4361.214875071717,
+      "attack": 102.80157143244924,
+      "defense": 276.8607551205059,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 5016.44630014518,
+      "attack": 118.24645423774109,
+      "defense": 318.4564752897568,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 5577.861095067055,
+      "attack": 131.48023414496765,
+      "defense": 354.0964746794052,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 6233.092520140519,
+      "attack": 146.9251169502595,
+      "defense": 395.6921948486561,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 6654.153555296769,
+      "attack": 156.85045188067943,
+      "defense": 422.42219820558967,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 7308.591401431302,
+      "attack": 172.2766287246277,
+      "defense": 463.9675400104752,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 7729.652436587552,
+      "attack": 182.20196365504762,
+      "defense": 490.69753573801427,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 8384.88348340604,
+      "attack": 197.64683754424732,
+      "defense": 532.2932318946987,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 8805.94451856229,
+      "attack": 207.5721762893645,
+      "defense": 559.0232276222378,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 9461.175943635753,
+      "attack": 223.01705909465636,
+      "defense": 600.6189477914886,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "One Arrow to Rule Them All",
+      "effect": "เมื่อ**เล็งโจมตี** จะยิงธนูออกไป 2 ดอก โดยที่ธนูดอกที่ 2 จะสร้างความเสียหายเท่ากับ 20% ของดอกแรก"
+    },
+    "c2": {
+      "name": "Bunny Triggered",
+      "effect": "Baron Bunny ได้ทำการปรับปรุงใหม่! เมื่อชาร์จให้เต็มและเล็งยิงไปที่บริเวณเท้าของ Baron Bunny จะทำให้เกิดการระเบิดทันที...\nเมื่อทำให้ Baron Bunny เกิดการระเบิดด้วยวิธีนี้ จะสร้างความเสียหายเพิ่มเติม 200%"
+    },
+    "c3": {
+      "name": "It Burns!",
+      "effect": "เพิ่มเลเวลสกิลของ **Fiery Rain** ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ"
+    },
+    "c4": {
+      "name": "It's Not Just Any Doll...",
+      "effect": "ลดเวลาคูลดาวน์ของ **Explosive Puppet** ลง 20% และเพิ่มจำนวนการใช้ 1 ครั้ง"
+    },
+    "c5": {
+      "name": "It's Baron Bunny!",
+      "effect": "เพิ่มเลเวลสกิลของ **Explosive Puppet** ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ"
+    },
+    "c6": {
+      "name": "Wildfire",
+      "effect": "ภายใน 10 วินาทีหลังจากที่ใช้ **Fiery Rain** ความเร็วใน การเคลื่อนที่ของตัวละครทั้งหมดในทีมจะเพิ่มขึ้น 15% และ พลังโจมตีเพิ่มขึ้น 15%"
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ambor_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ambor_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Ambor_02.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ambor_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Ambor_01.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Ambor_04.png",
+      "constellation": "Eff_UI_Talent_Ambor"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Amber",
+    "combat1": {
+      "name": "โจมตีปกติ - Sharpshooter",
+      "info": "**โจมตีปกติ**\nยิงธนูโจมตีอย่างต่อเนื่องมากสุดห้าครั้ง\n\n**ชาร์จโจมตี**\nการ**เล็งโจมตี**สร้างความเสียหายเพิ่มขึ้น และแม่นยำยิ่งขึ้น\nเมื่อเล็งโจมตีจะทำการรวบรวมไฟ ไว้บนหัวลูกศรอย่างต่อเนื่อง ซึ่งลูกศรที่รวบรวมไฟเต็มที่แล้ว จะทำให้เกิดความเสียหายไฟ\n\n**โจมตีพุ่งลงจากอากาศ**\nปล่อยฝนธนูจากกลางอากาศ และพุ่งลงมายังพื้นดินอย่างรวดเร็ว โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "attributes": [
+        {
+          "name": "ความเสียหายขั้น 1",
+          "parameters": [
+            "36.12%",
+            "39.06%",
+            "42.00%",
+            "46.20%",
+            "49.14%",
+            "52.50%",
+            "57.12%",
+            "61.74%",
+            "66.36%",
+            "71.40%",
+            "76.44%",
+            "81.48%",
+            "86.52%",
+            "91.56%",
+            "96.60%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 2",
+          "parameters": [
+            "36.12%",
+            "39.06%",
+            "42.00%",
+            "46.20%",
+            "49.14%",
+            "52.50%",
+            "57.12%",
+            "61.74%",
+            "66.36%",
+            "71.40%",
+            "76.44%",
+            "81.48%",
+            "86.52%",
+            "91.56%",
+            "96.60%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 3",
+          "parameters": [
+            "46.44%",
+            "50.22%",
+            "54.00%",
+            "59.40%",
+            "63.18%",
+            "67.50%",
+            "73.44%",
+            "79.38%",
+            "85.32%",
+            "91.80%",
+            "98.28%",
+            "104.76%",
+            "111.24%",
+            "117.72%",
+            "124.20%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 4",
+          "parameters": [
+            "47.30%",
+            "51.15%",
+            "55.00%",
+            "60.50%",
+            "64.35%",
+            "68.75%",
+            "74.80%",
+            "80.85%",
+            "86.90%",
+            "93.50%",
+            "100.10%",
+            "106.70%",
+            "113.30%",
+            "119.90%",
+            "126.50%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 5",
+          "parameters": [
+            "59.34%",
+            "64.17%",
+            "69.00%",
+            "75.90%",
+            "80.73%",
+            "86.25%",
+            "93.84%",
+            "101.43%",
+            "109.02%",
+            "117.30%",
+            "125.58%",
+            "133.86%",
+            "142.14%",
+            "150.42%",
+            "158.70%"
+          ]
+        },
+        {
+          "name": "เล็งโจมตี",
+          "parameters": [
+            "43.86%",
+            "47.43%",
+            "51.00%",
+            "56.10%",
+            "59.67%",
+            "63.75%",
+            "69.36%",
+            "74.97%",
+            "80.58%",
+            "86.70%",
+            "92.82%",
+            "98.94%",
+            "105.06%",
+            "111.18%",
+            "117.30%"
+          ]
+        },
+        {
+          "name": "เล็งโจมตีเมื่อชาร์จเต็ม",
+          "parameters": [
+            "124.00%",
+            "133.30%",
+            "142.60%",
+            "155.00%",
+            "164.30%",
+            "173.60%",
+            "186.00%",
+            "198.40%",
+            "210.80%",
+            "223.20%",
+            "235.60%",
+            "248.00%",
+            "263.50%",
+            "279.00%",
+            "294.50%"
+          ]
+        },
+        {
+          "name": "ความเสียหายพุ่งลง",
+          "parameters": [
+            "56.83%",
+            "61.45%",
+            "66.08%",
+            "72.69%",
+            "77.31%",
+            "82.60%",
+            "89.87%",
+            "97.14%",
+            "104.41%",
+            "112.34%",
+            "120.27%",
+            "128.20%",
+            "136.12%",
+            "144.05%",
+            "151.98%"
+          ]
+        },
+        {
+          "name": "ความเสียหายพุ่งถึงพื้นจากที่ต่ำ/สูง",
+          "parameters": [
+            "113.63%/141.93%",
+            "122.88%/153.49%",
+            "132.13%/165.04%",
+            "145.35%/181.54%",
+            "154.59%/193.10%",
+            "165.16%/206.30%",
+            "179.70%/224.45%",
+            "194.23%/242.61%",
+            "208.77%/260.76%",
+            "224.62%/280.57%",
+            "240.48%/300.37%",
+            "256.34%/320.18%",
+            "272.19%/339.98%",
+            "288.05%/359.79%",
+            "303.90%/379.59%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Explosive Puppet",
+      "info": "โปรดวางใจให้ Baron Bunny เข้าร่วมการต่อสู้\n\n**Baron Bunny**\n·จะยั่วยุศัตรูโดยรอบและดึงดูดการโจมตีทั้งหมด;\n·อัตราส่วนความทนทานจะขึ้นกับ พลังชีวิตสูงสุดของ Amber\n·เมื่อถูกทำลายหรือหมดเวลา จะระเบิดอย่างรุนแรงสร้าง ความเสียหายไฟวงกว้าง\n\n**กดค้าง**\nปรับตำแหน่งที่วาง\nระยะของการวางจะขึ้นอยู่กับช่วงเวลา ของการกดค้าง",
+      "description": "Baron Bunny นั้นมีประวัติศาสตร์ครอบครัวที่ยาวนาน แต่นับจากปี 893 เป็นต้นมานั้น Amber ก็ได้เลิกนับไปเรียบร้อยแล้ว",
+      "attributes": [
+        {
+          "name": "สืบทอดพลังชีวิต",
+          "parameters": [
+            "41.36%",
+            "44.46%",
+            "47.56%",
+            "51.70%",
+            "54.80%",
+            "57.90%",
+            "62.04%",
+            "66.18%",
+            "70.31%",
+            "74.45%",
+            "78.58%",
+            "82.72%",
+            "87.89%",
+            "93.06%",
+            "98.23%"
+          ]
+        },
+        {
+          "name": "ความเสียหายระเบิด",
+          "parameters": [
+            "123.20%",
+            "132.44%",
+            "141.68%",
+            "154.00%",
+            "163.24%",
+            "172.48%",
+            "184.80%",
+            "197.12%",
+            "209.44%",
+            "221.76%",
+            "234.08%",
+            "246.40%",
+            "261.80%",
+            "277.20%",
+            "292.60%"
+          ]
+        },
+        {
+          "name": "คูลดาวน์",
+          "parameters": [
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ",
+            "15 วิ"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Fiery Rain",
+      "info": "ยิงธนูไฟออกไป สร้าง ความเสียหายไฟวงกว้างอย่างต่อเนื่อง",
+      "description": "ว่ากันว่า Amber นั้นเป็นเด็กหญิง ที่มาพร้อมกับเจตนารมณ์อันร้อนแรง",
+      "attributes": [
+        {
+          "name": "ความเสียหายของ Fiery Rain 1 ครั้ง",
+          "parameters": [
+            "28.08%",
+            "30.19%",
+            "32.29%",
+            "35.10%",
+            "37.21%",
+            "39.31%",
+            "42.12%",
+            "44.93%",
+            "47.74%",
+            "50.54%",
+            "53.35%",
+            "56.16%",
+            "59.67%",
+            "63.18%",
+            "66.69%"
+          ]
+        },
+        {
+          "name": "ความเสียหายของ Fiery Rain ทั้งหมด",
+          "parameters": [
+            "505.44%",
+            "543.35%",
+            "581.26%",
+            "631.80%",
+            "669.71%",
+            "707.62%",
+            "758.16%",
+            "808.70%",
+            "859.25%",
+            "909.79%",
+            "960.34%",
+            "1010.88%",
+            "1074.06%",
+            "1137.24%",
+            "1200.42%"
+          ]
+        },
+        {
+          "name": "ระยะเวลาต่อเนื่อง",
+          "parameters": [
+            "2 วิ",
+            "2 วิ",
+            "2 วิ",
+            "2 วิ",
+            "2 วิ",
+            "2 วิ",
+            "2 วิ",
+            "2 วิ",
+            "2 วิ",
+            "2 วิ",
+            "2 วิ",
+            "2 วิ",
+            "2 วิ",
+            "2 วิ",
+            "2 วิ"
+          ]
+        },
+        {
+          "name": "คูลดาวน์",
+          "parameters": [
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ"
+          ]
+        },
+        {
+          "name": "พลังงานธาตุ",
+          "parameters": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Every Arrow Finds Its Target!",
+      "info": "เพิ่มอัตราคริของ **Fiery Rain** ขึ้น 10% และเพิ่มพื้นที่ที่ได้รับผลขึ้น 30%"
+    },
+    "passive2": {
+      "name": "Precise Shot",
+      "info": "เมื่อเล็งโจมตีโดนจุดอ่อนของเป้าหมาย พลังโจมตีจะเพิ่มขึ้น 15% เป็นเวลา 10 วินาที"
+    },
+    "passive3": {
+      "name": "Gliding Champion",
+      "info": "ลดอัตราการเสียพลังกายจากการร่อนเวหา ให้ตัวละครของตนเองที่อยู่ในทีมลง 20%\nไม่สามารถซ้อนทับพรสวรรค์ติดตัวที่เอฟเฟกต์เหมือนกันทุกประการได้"
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of Freedom",
+          "count": 3
+        },
+        {
+          "name": "Firm Arrowhead",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to Freedom",
+          "count": 2
+        },
+        {
+          "name": "Sharp Arrowhead",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to Freedom",
+          "count": 4
+        },
+        {
+          "name": "Sharp Arrowhead",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to Freedom",
+          "count": 6
+        },
+        {
+          "name": "Sharp Arrowhead",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to Freedom",
+          "count": 9
+        },
+        {
+          "name": "Sharp Arrowhead",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of Freedom",
+          "count": 4
+        },
+        {
+          "name": "Historic Arrowhead",
+          "count": 4
+        },
+        {
+          "name": "Dvalin's Sigh",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of Freedom",
+          "count": 6
+        },
+        {
+          "name": "Historic Arrowhead",
+          "count": 6
+        },
+        {
+          "name": "Dvalin's Sigh",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of Freedom",
+          "count": 12
+        },
+        {
+          "name": "Historic Arrowhead",
+          "count": 9
+        },
+        {
+          "name": "Dvalin's Sigh",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of Freedom",
+          "count": 16
+        },
+        {
+          "name": "Historic Arrowhead",
+          "count": 12
+        },
+        {
+          "name": "Dvalin's Sigh",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_02",
+      "combat2": "Skill_S_Ambor_01",
+      "combat3": "Skill_E_Ambor_HD",
+      "passive1": "UI_Talent_S_Ambor_05",
+      "passive2": "UI_Talent_S_Ambor_06",
+      "passive3": "UI_Talent_Explosion_Glide"
+    },
+    "version": "1.0"
+  }
+}

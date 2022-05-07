@@ -1,0 +1,21 @@
+{
+  "name": "Цветок цинсинь",
+  "description": "Белый цветок с полупрозрачными лепестками, который растёт только на высочайших скальных пиках. Он жертвует теплом и влагой полей, чтобы насладиться видом с одиноких горных вершин.",
+  "sortorder": 2052,
+  "category": "EXCHANGE",
+  "materialtype": "Диковина Ли Юэ",
+  "source": [
+    "На пиках каменных лесов",
+    "Заоблачный предел",
+    "Каменный лес Гуюнь"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Qingxin.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Item_Qingxin.png",
+    "nameicon": "UI_ItemIcon_100031"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Qingxin"
+  },
+  "version": ""
+}

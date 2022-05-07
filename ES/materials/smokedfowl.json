@@ -1,0 +1,19 @@
+{
+  "name": "Carne de ave ahumada",
+  "description": "Carne de ave que ha sido ahumada. La firme textura otorga un sabor diferente al plato.",
+  "sortorder": 1527,
+  "category": "EXCHANGE",
+  "materialtype": "Ingrediente culinario",
+  "source": [
+    "Procesar comida"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Smoked_Fowl.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Smoked_Fowl.png",
+    "nameicon": "UI_ItemIcon_110003"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Smoked_Fowl"
+  },
+  "version": ""
+}

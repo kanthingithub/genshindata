@@ -1,0 +1,23 @@
+{
+  "name": "Sừng Đồng Đen",
+  "description": "Sừng ma vật làm bằng kim loại. Do thổi sừng phải dùng nhiều sức lực nên thường chỉ thấy trên những Hilichurl to lớn.",
+  "sortorder": 1736,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Ghép Nhận",
+    "Bạo đồ Hilichurl cấp 40 trở lên rơi",
+    "Vua Hilichurl cấp 40 trở lên rơi",
+    "Đổi từ Tinh Trần"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Black_Bronze_Horn.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/42/Item_Black_Bronze_Horn.png",
+    "nameicon": "UI_ItemIcon_112015"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Black_Bronze_Horn"
+  },
+  "version": ""
+}

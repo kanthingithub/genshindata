@@ -1,0 +1,20 @@
+{
+  "name": "Couronne de la sagesse",
+  "description": "Matériau d'amélioration d'aptitude rare.\nUn support utilisé dans les temps anciens pour conserver et transmettre le savoir. Bien que de nos jours les connaissances se transmettent de différentes manières, autant orales qu'écrites, cet artéfact n'a pas perdu la moindre once de son pouvoir d'antan.",
+  "sortorder": 2182,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration d'aptitude",
+  "source": [
+    "Événement à durée limitée"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Crown_of_Insight.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Item_Crown_of_Insight.png",
+    "nameicon": "UI_ItemIcon_104319"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Crown_of_Insight"
+  },
+  "version": ""
+}

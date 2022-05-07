@@ -1,0 +1,19 @@
+{
+  "name": "Phô Mai",
+  "description": "Được làm từ sữa bò lên men. Không những cung cấp năng lượng mà còn nấu được nhiều món.",
+  "sortorder": 1532,
+  "category": "EXCHANGE",
+  "materialtype": "Nguyên Liệu Thực Phẩm",
+  "source": [
+    "Nhận khi gia công nấu nướng"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Cheese.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Item_Cheese.png",
+    "nameicon": "UI_ItemIcon_110009"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Cheese"
+  },
+  "version": ""
+}

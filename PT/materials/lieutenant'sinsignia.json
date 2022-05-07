@@ -1,0 +1,23 @@
+{
+  "name": "Insígnia de Oficial",
+  "description": "Uma insígnia para identificar os oficiais. Os Fatui possuem um exército colossal, portanto, deve haver algo extraordinário naqueles que alcançaram essa classificação dentro do grupo.",
+  "sortorder": 1752,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Obtido na síntese",
+    "Dropado pelos Soldados dos Fatui Nv.60+",
+    "Dropado por alguns Agentes de Dívidas Fatui Nv.60+",
+    "Dropado por alguns Feiticeiros Cincin de Fatui Nv.60+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lieutenant's_Insignia.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Item_Lieutenant%27s_Insignia.png",
+    "nameicon": "UI_ItemIcon_112034"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lieutenant's_Insignia"
+  },
+  "version": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Cỏ Kim Ngư",
+  "description": "Loại cỏ ăn được, nếu làm gia vị cũng đem lại mùi hương kỳ diệu cho món ăn.",
+  "sortorder": 1981,
+  "category": "EXCHANGE",
+  "materialtype": "Nguyên Liệu Thực Phẩm",
+  "source": [
+    "Thu thập ở hồ nước bờ sông"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Snapdragon.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Item_Snapdragon.png",
+    "nameicon": "UI_ItemIcon_100015"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Snapdragon"
+  },
+  "version": ""
+}

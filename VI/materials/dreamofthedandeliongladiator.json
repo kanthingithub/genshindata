@@ -1,0 +1,26 @@
+{
+  "name": "Lý Tưởng Của Đấu Sĩ Nanh Sư Tử",
+  "description": "Nguyên liệu có sức mạnh đột phá vũ khí.\nVennessa đạt được tự do từ trong nô dịch. Kết quả là thứ trói buộc cô ấy càng lúc càng lớn: Từ tộc nhân trở thành toàn Mondstadt, thậm chí trở thành \"Tự Do\", đến cả thế giới này.\nCô ấy thực sự mong muốn rằng: Thế giới này trở nên kiên cường hơn nữa.",
+  "sortorder": 2194,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Đột Phá Vũ Khí",
+  "dropdomain": "Bí Cảnh Luyện Võ: Phế Đô Khát Nước",
+  "daysofweek": [
+    "Thứ 4",
+    "Thứ 7",
+    "Chủ Nhật"
+  ],
+  "source": [
+    "Ghép Nhận"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Dream_of_the_Dandelion_Gladiator.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Item_Dream_of_the_Dandelion_Gladiator.png",
+    "nameicon": "UI_ItemIcon_114012"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dream_of_the_Dandelion_Gladiator"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Fluorescent Fungus",
+  "description": "เห็ดที่เรืองแสงจาง ๆ ราวกับแสงไฟยามค่ำคืนมีพลังอันเหลือเชื่อ",
+  "sortorder": 2068,
+  "category": "EXCHANGE",
+  "materialtype": "ของพิเศษเฉพาะใน Inazuma",
+  "source": [
+    "พบได้ในโลกกว้าง",
+    "คำแนะนำ: หาได้ที่เกาะ Tsurumi"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_101209",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fluorescent_Fungus.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Fluorescent_Fungus.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fluorescent_Fungus"
+  },
+  "version": ""
+}

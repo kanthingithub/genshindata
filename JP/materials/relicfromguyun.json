@@ -1,0 +1,26 @@
+{
+  "name": "孤雲寒林の聖骸",
+  "description": "武器に突破の力を付与する材料。\n岩槍の核心は淡い光を放っている。それは敗北した魔神の力が岩石に入ったために形成したものである。それらの憎しみはモラクスに対するものではない。なぜなら、それらにはすでに自我がなく、個人的な憎しみがまだ残ってるわけがないからだ。",
+  "sortorder": 2197,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "武器突破素材",
+  "dropdomain": "煉武秘境：雷雲祭壇",
+  "daysofweek": [
+    "月曜",
+    "木曜",
+    "日曜"
+  ],
+  "source": [
+    "合成で獲得"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Relic_from_Guyun.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/94/Item_Relic_from_Guyun.png",
+    "nameicon": "UI_ItemIcon_114015"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Relic_from_Guyun"
+  },
+  "version": ""
+}

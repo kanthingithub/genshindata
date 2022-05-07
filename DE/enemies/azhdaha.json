@@ -1,0 +1,207 @@
+{
+  "name": "Azhdaha",
+  "specialname": "Azhdaha",
+  "enemytype": "BOSS",
+  "category": "Einprägsame Gegner",
+  "description": "Ein Drache so alt wie die Berge.\nUnzählige Jahre hatte er Seite an Seite mit Rex Lapis gestanden, wandte sich aber schließlich gegen ihn und wurde dafür in die Dunkelheit der Erde verbannt. Während all der Zeit ist seine Kraft langsam gewichen und auch seine Erscheinung verlor ihre ursprüngliche Form.\nDie schwachen Vibrationen seiner Fesseln und das leise Brüllen hallen bis heute durch die Berge und halten die Erinnerungen an ihn wach.",
+  "rewardpreview": [
+    {
+      "name": "Abenteuer-EP",
+      "count": 300
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "Freundschafts-EP"
+    },
+    {
+      "name": "Agnidus-Achat-Splitter"
+    },
+    {
+      "name": "Agnidus-Achat-Bruchstück"
+    },
+    {
+      "name": "Agnidus-Achat-Brocken"
+    },
+    {
+      "name": "Agnidus-Achat"
+    },
+    {
+      "name": "Vajrada-Amethyst-Splitter"
+    },
+    {
+      "name": "Vajrada-Amethyst-Bruchstück"
+    },
+    {
+      "name": "Vajrada-Amethyst-Brocken"
+    },
+    {
+      "name": "Vajrada-Amethyst"
+    },
+    {
+      "name": "Prithiva-Topas-Splitter"
+    },
+    {
+      "name": "Prithiva-Topas-Bruchstück"
+    },
+    {
+      "name": "Prithiva-Topas-Brocken"
+    },
+    {
+      "name": "Prithiva-Topas"
+    },
+    {
+      "name": "Traumlösungsmittel",
+      "count": 0.33
+    },
+    {
+      "name": "Horn des Drachenkönigs"
+    },
+    {
+      "name": "Ast des Drachenbluts"
+    },
+    {
+      "name": "Schuppe der Vergoldung"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Ausbilder",
+      "rarity": "3"
+    },
+    {
+      "name": "Verbannter",
+      "rarity": "3"
+    },
+    {
+      "name": "Verbeugung des Gladiators",
+      "rarity": "4"
+    },
+    {
+      "name": "Wanderorchester",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Ausbilder",
+      "rarity": "4"
+    },
+    {
+      "name": "Verbannter",
+      "rarity": "4"
+    },
+    {
+      "name": "Verbeugung des Gladiators",
+      "rarity": "5"
+    },
+    {
+      "name": "Wanderorchester",
+      "rarity": "5"
+    },
+    {
+      "name": "Unbearbeiteter Einhänder des Nordens"
+    },
+    {
+      "name": "Unbearbeiteter Bogen des Nordens"
+    },
+    {
+      "name": "Unbearbeiteter Zweihänder des Nordens"
+    },
+    {
+      "name": "Unbearbeiteter Katalysator des Nordens"
+    },
+    {
+      "name": "Unbearbeitete Stangenwaffe des Nordens"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Dahaka"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 2625.011753451079,
+      "attack": 76.13319315582885,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 10317.74592899729,
+      "attack": 203.4083293985932,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 31867.200046165846,
+      "attack": 501.7499019824463,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 53020.81175860064,
+      "attack": 819.5298012541898,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 97014.58068536595,
+      "attack": 1225.2416554312222,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 179873.43321329355,
+      "attack": 1889.4817435136356,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 301725.17327204347,
+      "attack": 2660.773141056823,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 469871.0149460323,
+      "attack": 3673.071566613973,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 668366.1914580837,
+      "attack": 4725.795096868649,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 876747.1203872189,
+      "attack": 5709.411795508931,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 1323544.3754435778,
+      "attack": 7386.62659546989,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 1926083.2939809859,
+      "attack": 7533.291466042516,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 2591507.4020418227,
+      "attack": 7680.983199416427,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

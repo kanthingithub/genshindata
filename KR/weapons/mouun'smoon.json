@@ -1,0 +1,311 @@
+{
+  "name": "모운의 달",
+  "description": "자개와 산호로 만든 아름다운 전투용 활. 달빛의 활대엔 처연한 광채가 흐른다",
+  "weapontype": "활",
+  "rarity": "4",
+  "baseatk": 44,
+  "substat": "공격력",
+  "subvalue": "6",
+  "effectname": "파도를 지배하는 와타츠미의 백성",
+  "effect": [
+    "파티 내 모든 캐릭터의 원소 에너지 최대치의 총합을 기반으로, 1pt마다 해당 무기를 장착한 캐릭터의 원소폭발 피해가 [0.12%] 증가한다. 해당 방식을 통해 원소폭발로 가하는 피해가 최대 [40%]까지 증가한다",
+    "파티 내 모든 캐릭터의 원소 에너지 최대치의 총합을 기반으로, 1pt마다 해당 무기를 장착한 캐릭터의 원소폭발 피해가 [0.15%] 증가한다. 해당 방식을 통해 원소폭발로 가하는 피해가 최대 [50%]까지 증가한다",
+    "파티 내 모든 캐릭터의 원소 에너지 최대치의 총합을 기반으로, 1pt마다 해당 무기를 장착한 캐릭터의 원소폭발 피해가 [0.18%] 증가한다. 해당 방식을 통해 원소폭발로 가하는 피해가 최대 [60%]까지 증가한다",
+    "파티 내 모든 캐릭터의 원소 에너지 최대치의 총합을 기반으로, 1pt마다 해당 무기를 장착한 캐릭터의 원소폭발 피해가 [0.21%] 증가한다. 해당 방식을 통해 원소폭발로 가하는 피해가 최대 [70%]까지 증가한다",
+    "파티 내 모든 캐릭터의 원소 에너지 최대치의 총합을 기반으로, 1pt마다 해당 무기를 장착한 캐릭터의 원소폭발 피해가 [0.24%] 증가한다. 해당 방식을 통해 원소폭발로 가하는 피해가 최대 [80%]까지 증가한다"
+  ],
+  "r1": [
+    "0.12%",
+    "40%"
+  ],
+  "r2": [
+    "0.15%",
+    "50%"
+  ],
+  "r3": [
+    "0.18%",
+    "60%"
+  ],
+  "r4": [
+    "0.21%",
+    "70%"
+  ],
+  "r5": [
+    "0.24%",
+    "80%"
+  ],
+  "weaponmaterialtype": "",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "모라",
+        "count": 5000
+      },
+      {
+        "name": "나루카미 어령의 은혜",
+        "count": 3
+      },
+      {
+        "name": "어두운 프리즘",
+        "count": 3
+      },
+      {
+        "name": "떠도는 정령 코어 껍데기",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "모라",
+        "count": 15000
+      },
+      {
+        "name": "나루카미 어령의 환희",
+        "count": 3
+      },
+      {
+        "name": "어두운 프리즘",
+        "count": 12
+      },
+      {
+        "name": "떠도는 정령 코어 껍데기",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "모라",
+        "count": 20000
+      },
+      {
+        "name": "나루카미 어령의 환희",
+        "count": 6
+      },
+      {
+        "name": "수정 프리즘",
+        "count": 6
+      },
+      {
+        "name": "떠도는 정령 코어",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "모라",
+        "count": 30000
+      },
+      {
+        "name": "나루카미 어령의 친애",
+        "count": 3
+      },
+      {
+        "name": "수정 프리즘",
+        "count": 12
+      },
+      {
+        "name": "떠도는 정령 코어",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "모라",
+        "count": 35000
+      },
+      {
+        "name": "나루카미 어령의 친애",
+        "count": 6
+      },
+      {
+        "name": "편광 프리즘",
+        "count": 9
+      },
+      {
+        "name": "떠도는 정령 결정화 코어",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "모라",
+        "count": 45000
+      },
+      {
+        "name": "나루카미 어령의 용맹",
+        "count": 4
+      },
+      {
+        "name": "편광 프리즘",
+        "count": 18
+      },
+      {
+        "name": "떠도는 정령 결정화 코어",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_EquipIcon_Bow_Maria",
+    "namegacha": "UI_Gacha_EquipIcon_Bow_Maria",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Maria.png",
+    "nameawakenicon": "UI_EquipIcon_Bow_Maria_Awaken",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Maria_Awaken.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mouun's_Moon"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 43.734901428222656,
+      "specialized": 0.05999999865889549
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 59.17332359270131,
+      "specialized": 0.06971999489396818
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 78.72282048535817,
+      "specialized": 0.08178000028923149
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 98.5347338353804,
+      "specialized": 0.09390000133439891
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 118.56531627039294,
+      "specialized": 0.10601999522700911
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 144.46531588892321,
+      "specialized": 0.10601999522700911
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 164.62710394581518,
+      "specialized": 0.11813999627217653
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 184.96383978335507,
+      "specialized": 0.13025999731734395
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 205.43177081556132,
+      "specialized": 0.14237999120995415
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 225.98716531087848,
+      "specialized": 0.15449999940767878
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 251.9871672182271,
+      "specialized": 0.15449999940767878
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 272.6300460310813,
+      "specialized": 0.16661999330028898
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 293.3603883070464,
+      "specialized": 0.1787400014980136
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 319.2603898329253,
+      "specialized": 0.1787400014980136
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 340.0344638404458,
+      "specialized": 0.19085999539062382
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 360.8960221655034,
+      "specialized": 0.20297998928323402
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 386.79601606198776,
+      "specialized": 0.20297998928323402
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 407.70130611860077,
+      "specialized": 0.21509999748095865
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 428.6940596383247,
+      "specialized": 0.22715999572366474
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 454.6940596383247,
+      "specialized": 0.22715999572366474
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 475.6867923036225,
+      "specialized": 0.23927998961627495
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 496.723298409328,
+      "specialized": 0.2513999978139996
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 522.6233075646014,
+      "specialized": 0.2513999978139996
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 543.7035036930101,
+      "specialized": 0.2635200060117242
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 564.7837415302711,
+      "specialized": 0.27563998559922
+    }
+  },
+  "version": "2.2"
+}

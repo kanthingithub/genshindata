@@ -1,0 +1,207 @@
+{
+  "name": "Stormterror",
+  "specialname": "Stormterror",
+  "enemytype": "BOSS",
+  "category": "Boss",
+  "description": "Dvalin le Dragon de l'Est, un des Quatre Vents de Mondstadt.\nLe plus pur des joyaux se couvre de poussière lorsqu'il passe de longues années dans l'obscurité. De la même façon, le cœur de ce noble dragon fut corrompu par les ténèbres.\nCependant, il existe toujours un moyen de se débarrasser aussi bien de la poussière que du doute ou du poison.\n\n« Vole en liberté dans ce vaste ciel.\nVole comme tu le faisais à notre rencontre, quand je chantais les chansons du vent en foulant cette terre.\nTu dominais le monde d'en haut.\nAujourd'hui, le ciel n'est plus couvert par la pluie ou par la neige. De l'herbe verte et luxuriante pousse partout ici-bas. Quel paysage agréable à regarder.\nSi tu pouvais marcher parmi nous et écouter les chansons des bergers ainsi que le son des carillons qui résonne au loin, ou encore goûter au délicieux vin sucré, tu aurais sans doute compris.\nEn te mettant à ma place, tu aurais pu ressentir à quel point il était beau de te voir voler fièrement dans le ciel bleu.\nTu aurais su que le ciel et la terre sont dignes de protection. »",
+  "rewardpreview": [
+    {
+      "name": "EXP d'aventure",
+      "count": 300
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "EXP d'affinité"
+    },
+    {
+      "name": "Éclat de turquoise vayuda"
+    },
+    {
+      "name": "Fragment de turquoise vayuda"
+    },
+    {
+      "name": "Morceau de turquoise vayuda"
+    },
+    {
+      "name": "Pierre de turquoise vayuda"
+    },
+    {
+      "name": "Éclat d'améthyste vajrada"
+    },
+    {
+      "name": "Fragment d'améthyste vajrada"
+    },
+    {
+      "name": "Morceau d'améthyste vajrada"
+    },
+    {
+      "name": "Pierre d'améthyste vajrada"
+    },
+    {
+      "name": "Éclat de lazurite varunada"
+    },
+    {
+      "name": "Fragment de lazurite varunada"
+    },
+    {
+      "name": "Morceau de lazurite varunada"
+    },
+    {
+      "name": "Pierre de lazurite varunada"
+    },
+    {
+      "name": "Solvant de rêve",
+      "count": 0.33
+    },
+    {
+      "name": "Plume de Stormterror"
+    },
+    {
+      "name": "Griffe de Stormterror"
+    },
+    {
+      "name": "Souffle de Stormterror"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "3"
+    },
+    {
+      "name": "Instructeur",
+      "rarity": "3"
+    },
+    {
+      "name": "Exilé",
+      "rarity": "3"
+    },
+    {
+      "name": "Rideau du Gladiateur",
+      "rarity": "4"
+    },
+    {
+      "name": "Bande vagabonde",
+      "rarity": "4"
+    },
+    {
+      "name": "Berserker",
+      "rarity": "4"
+    },
+    {
+      "name": "Instructeur",
+      "rarity": "4"
+    },
+    {
+      "name": "Exilé",
+      "rarity": "4"
+    },
+    {
+      "name": "Rideau du Gladiateur",
+      "rarity": "5"
+    },
+    {
+      "name": "Bande vagabonde",
+      "rarity": "5"
+    },
+    {
+      "name": "Base d'épée du nord"
+    },
+    {
+      "name": "Base d'arc du nord"
+    },
+    {
+      "name": "Base d'épée à deux mains du nord"
+    },
+    {
+      "name": "Base de catalyseur du nord"
+    },
+    {
+      "name": "Base de lance du nord"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Dvalin"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 656.2529383627698,
+      "attack": 152.2663863116577,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 2579.4364822493226,
+      "attack": 406.8166587971864,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 7966.800011541462,
+      "attack": 1003.4998039648926,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 13255.20293965016,
+      "attack": 1639.0596025083796,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 24253.645171341486,
+      "attack": 2450.4833108624443,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 44968.35830332339,
+      "attack": 3778.963487027271,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 75431.29331801087,
+      "attack": 5321.546282113646,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 117467.75373650808,
+      "attack": 7346.143133227946,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 167091.54786452092,
+      "attack": 9451.590193737298,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 219186.78009680472,
+      "attack": 11418.823591017863,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 330886.09386089444,
+      "attack": 14773.25319093978,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 481520.82349524647,
+      "attack": 15066.582932085032,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 647876.8505104557,
+      "attack": 15361.966398832854,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

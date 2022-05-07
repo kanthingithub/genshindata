@@ -1,0 +1,26 @@
+{
+  "name": "Masque sale",
+  "description": "Un masque en os taché par une substance non identifiée qui dégage une odeur étrange.\nUn Brutocollinus le porterait même dans cet état.",
+  "sortorder": 1727,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Synthèse",
+    "Butin de Brutocollinus (Niv.40+)",
+    "Butin de certains Tireurs Brutocollinus (Niv.40+)",
+    "Butin de certains Brutoshamans (Niv.40+)",
+    "Butin de certains Brutoviandus (Niv.40+)",
+    "Butin de certains Chefs Brutorocheux (Niv.40+)",
+    "Échange Astrions"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Stained_Mask.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Item_Stained_Mask.png",
+    "nameicon": "UI_ItemIcon_112006"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Stained_Mask"
+  },
+  "version": ""
+}

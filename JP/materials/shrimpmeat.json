@@ -1,0 +1,20 @@
+{
+  "name": "エビのむき身",
+  "description": "深海エビのむき身。豊富な栄養と圧倒的な食感が特徴。",
+  "sortorder": 2008,
+  "category": "EXCHANGE",
+  "materialtype": "食材",
+  "source": [
+    "璃月雑貨屋で購入",
+    "稲妻雑貨屋で購入"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Shrimp_Meat.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d0/Item_Shrimp_Meat.png",
+    "nameicon": "UI_ItemIcon_100093"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Shrimp_Meat"
+  },
+  "version": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Kinh Nghiệm Anh Hùng",
+  "description": "Nguyên liệu EXP nhân vật, có 20000 điểm EXP.\nNhững EXP này là vật quý báu trên đường du hành ở đại lục và hướng về Đảo Thiên Không.",
+  "sortorder": 1292,
+  "rarity": "4",
+  "category": "EXP_FRUIT",
+  "materialtype": "Nguyên Liệu EXP Nhân Vật",
+  "source": [
+    "Thù Lao Giải Quyết Công Việc"
+  ],
+  "images": {
+    "nameicon": "UI_ItemIcon_104003",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Hero's_Wit.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Hero's_Wit"
+  },
+  "version": ""
+}

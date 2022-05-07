@@ -1,0 +1,914 @@
+{
+  "name": "Diluc",
+  "fullname": "Diluc",
+  "title": "O Lado Negro do Alvorecer",
+  "description": "O magnata do império de vinhedos em Mondstadt, inigualável em todos os sentidos.",
+  "rarity": "5",
+  "element": "Pyro",
+  "weapontype": "Espadão",
+  "substat": "Taxa Crítica",
+  "gender": "Masculino",
+  "body": "MALE",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "Adega do Alvorecer",
+  "birthdaymmdd": "4/30",
+  "birthday": "30 de abril",
+  "constellation": "Noctua",
+  "cv": {
+    "english": "Sean Chiplock",
+    "chinese": "马洋",
+    "japanese": "小野賢章",
+    "korean": "Choi Seung-hoon"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Lasca de Ágata Agnidus",
+        "count": 1
+      },
+      {
+        "name": "Lâmpada de Grama",
+        "count": 3
+      },
+      {
+        "name": "Insígnia de Recruta",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragmento de Ágata Agnidus",
+        "count": 3
+      },
+      {
+        "name": "Semente de Fogo Eterno",
+        "count": 2
+      },
+      {
+        "name": "Lâmpada de Grama",
+        "count": 10
+      },
+      {
+        "name": "Insígnia de Recruta",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragmento de Ágata Agnidus",
+        "count": 6
+      },
+      {
+        "name": "Semente de Fogo Eterno",
+        "count": 4
+      },
+      {
+        "name": "Lâmpada de Grama",
+        "count": 20
+      },
+      {
+        "name": "Insígnia de Sargento",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Pedaço de Ágata Agnidus",
+        "count": 3
+      },
+      {
+        "name": "Semente de Fogo Eterno",
+        "count": 8
+      },
+      {
+        "name": "Lâmpada de Grama",
+        "count": 30
+      },
+      {
+        "name": "Insígnia de Sargento",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Pedaço de Ágata Agnidus",
+        "count": 6
+      },
+      {
+        "name": "Semente de Fogo Eterno",
+        "count": 12
+      },
+      {
+        "name": "Lâmpada de Grama",
+        "count": 45
+      },
+      {
+        "name": "Insígnia de Oficial",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Gema de Ágata Agnidus",
+        "count": 6
+      },
+      {
+        "name": "Semente de Fogo Eterno",
+        "count": 20
+      },
+      {
+        "name": "Lâmpada de Grama",
+        "count": 60
+      },
+      {
+        "name": "Insígnia de Oficial",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Character_Diluc_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Character_Diluc_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Diluc.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200609/2020060915105884221.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200609/2020060915105012670.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/7f68f45a650bbcf804215fc7890c7f35.png",
+    "nameicon": "UI_AvatarIcon_Diluc",
+    "nameiconcard": "UI_AvatarIcon_Diluc_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Diluc",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Diluc",
+    "namesideicon": "UI_AvatarIcon_Side_Diluc"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Diluc"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1010.5192260742188,
+      "attack": 26.06800079345703,
+      "defense": 61.0265998840332,
+      "specialized": 0.05000000074505806
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2621.286974589384,
+      "attack": 67.62039669342812,
+      "defense": 158.30300626832923,
+      "specialized": 0.05000000074505806
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3487.7158075971965,
+      "attack": 89.96971615143593,
+      "defense": 210.62900648195227,
+      "specialized": 0.05000000074505806
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5218.73530161212,
+      "attack": 134.62420305197156,
+      "defense": 315.1675756916702,
+      "specialized": 0.05000000074505806
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5834.355785010557,
+      "attack": 150.5039828676454,
+      "defense": 352.34657273146513,
+      "specialized": 0.09800000116229057
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6712.496950065979,
+      "attack": 173.1570744633027,
+      "defense": 405.37868546991194,
+      "specialized": 0.09800000116229057
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7533.324342644104,
+      "attack": 194.330116760666,
+      "defense": 454.95068406610335,
+      "specialized": 0.1460000015795231
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8420.560003412247,
+      "attack": 217.21781578915397,
+      "defense": 508.5320254947983,
+      "specialized": 0.1460000015795231
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9036.180364740372,
+      "attack": 233.0975956048278,
+      "defense": 545.7110263492905,
+      "specialized": 0.1460000015795231
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 9931.500557089952,
+      "attack": 256.1938483849335,
+      "defense": 599.780603391262,
+      "specialized": 0.1460000015795231
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10547.121162558702,
+      "attack": 272.0736243859101,
+      "defense": 636.9596042457542,
+      "specialized": 0.193999994546175
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11452.546296605404,
+      "attack": 295.4305507102508,
+      "defense": 691.6394321546959,
+      "specialized": 0.193999994546175
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12068.166902074154,
+      "attack": 311.3103343406219,
+      "defense": 728.8184330091881,
+      "specialized": 0.2420000024139881
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 12980.666121717892,
+      "attack": 334.84974830517604,
+      "defense": 783.9254743546844,
+      "specialized": 0.2420000024139881
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Convicção",
+      "effect": "Diluc causa 15% a mais de Dano aos inimigos com Vida superior a 50%."
+    },
+    "c2": {
+      "name": "Brasas Ardentes",
+      "effect": "Quando Diluc recebe Dano, seu ATQ aumenta 10%, e a sua VEL de ATQ aumenta em 5% por 10s.\nEste efeito pode ser ativado até 3 vezes e pode ocorrer apenas uma vez a cada 1.5s."
+    },
+    "c3": {
+      "name": "Aço e Fogo",
+      "effect": "Aumenta o nível da **Investida Ardente** em 3.\nO nível máximo de elevação é 15."
+    },
+    "c4": {
+      "name": "Chamas Fluidas",
+      "effect": "Lançar **Investida Ardente** de forma cadenciada aumenta drásticamente o dano causado.\nDentro de 2 segundos de uso da **Investida Ardente**, lançar a próxima Investida Ardente em um combo infligirá 40% de Dano adicional. Esse efeito dura pelos próximos 2 segundos."
+    },
+    "c5": {
+      "name": "Fênix, Prenúncio do Alvorecer",
+      "effect": "Aumenta o nível do **Alvorecer** em 3.\nO nível máximo de elevação é 15."
+    },
+    "c6": {
+      "name": "Espada Flamejante, Nemesis das Trevas",
+      "effect": "Após lançar a **Investida Ardente**, os próximos 2 Ataques Normais dentro de 6s terão seus Dano e VEL de ATQ aumentados em 30%.\nAlém disso, a Investida Ardente não interromperá o combo do Ataque Normal."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diluc_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diluc_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Diluc_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diluc_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Diluc_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Diluc_04.png",
+      "constellation": "Eff_UI_Talent_Diluc"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Diluc",
+    "combat1": {
+      "name": "Ataque Normal: Espada Temperada",
+      "info": "**Ataque Normal**\nRealiza até 4 golpes consecutivos.\n\n**Ataque Carregado**\nDrena Stamina ao longo do tempo para realizar cortes contínuos.\nAo final da sequência, realiza um corte ainda mais poderoso.\n\n**Ataque Imersivo**\nMergulha em pleno ar para golpear o chão, causando danos aos inimigos em seu caminho e infligindo dano em uma AdE durante o impacto.",
+      "attributes": [
+        {
+          "name": "Dano do 1° Golpe",
+          "parameters": [
+            "89.70%",
+            "97.00%",
+            "104.30%",
+            "114.73%",
+            "122.03%",
+            "130.38%",
+            "141.85%",
+            "153.32%",
+            "164.79%",
+            "177.31%",
+            "191.65%",
+            "208.52%",
+            "225.38%",
+            "242.25%",
+            "260.65%"
+          ]
+        },
+        {
+          "name": "Dano do 2° Golpe",
+          "parameters": [
+            "87.63%",
+            "94.77%",
+            "101.90%",
+            "112.09%",
+            "119.22%",
+            "127.37%",
+            "138.58%",
+            "149.79%",
+            "161.00%",
+            "173.23%",
+            "187.24%",
+            "203.72%",
+            "220.20%",
+            "236.67%",
+            "254.65%"
+          ]
+        },
+        {
+          "name": "Dano do 3° Golpe",
+          "parameters": [
+            "98.81%",
+            "106.86%",
+            "114.90%",
+            "126.39%",
+            "134.43%",
+            "143.62%",
+            "156.26%",
+            "168.90%",
+            "181.54%",
+            "195.33%",
+            "211.13%",
+            "229.71%",
+            "248.29%",
+            "266.87%",
+            "287.14%"
+          ]
+        },
+        {
+          "name": "Dano do 4° golpe",
+          "parameters": [
+            "133.99%",
+            "144.89%",
+            "155.80%",
+            "171.38%",
+            "182.29%",
+            "194.75%",
+            "211.89%",
+            "229.03%",
+            "246.16%",
+            "264.86%",
+            "286.28%",
+            "311.48%",
+            "336.67%",
+            "361.86%",
+            "389.34%"
+          ]
+        },
+        {
+          "name": "Dano de Loop de Ataque Carregado",
+          "parameters": [
+            "68.80%",
+            "74.40%",
+            "80.00%",
+            "88.00%",
+            "93.60%",
+            "100.00%",
+            "108.80%",
+            "117.60%",
+            "126.40%",
+            "136.00%",
+            "147.00%",
+            "159.94%",
+            "172.87%",
+            "185.81%",
+            "199.92%"
+          ]
+        },
+        {
+          "name": "Dano Final de Ataque Carregado",
+          "parameters": [
+            "124.70%",
+            "134.85%",
+            "145.00%",
+            "159.50%",
+            "169.65%",
+            "181.25%",
+            "197.20%",
+            "213.15%",
+            "229.10%",
+            "246.50%",
+            "266.44%",
+            "289.88%",
+            "313.33%",
+            "336.78%",
+            "362.35%"
+          ]
+        },
+        {
+          "name": "Consumo de Stamina de Ataque Carregado",
+          "parameters": [
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s",
+            "40/s"
+          ]
+        },
+        {
+          "name": "Duração Máxima",
+          "parameters": [
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s",
+            "5s"
+          ]
+        },
+        {
+          "name": "Dano Durante a Queda",
+          "parameters": [
+            "89.51%",
+            "96.79%",
+            "104.08%",
+            "114.48%",
+            "121.77%",
+            "130.10%",
+            "141.54%",
+            "152.99%",
+            "164.44%",
+            "176.93%",
+            "189.42%",
+            "201.91%",
+            "214.40%",
+            "226.89%",
+            "239.37%"
+          ]
+        },
+        {
+          "name": "Dano de Queda de Baixa/Alta Altitude",
+          "parameters": [
+            "178.97%/223.55%",
+            "193.54%/241.74%",
+            "208.11%/259.94%",
+            "228.92%/285.93%",
+            "243.49%/304.13%",
+            "260.13%/324.92%",
+            "283.03%/353.52%",
+            "305.92%/382.11%",
+            "328.81%/410.70%",
+            "353.78%/441.89%",
+            "378.76%/473.09%",
+            "403.73%/504.28%",
+            "428.70%/535.47%",
+            "453.68%/566.66%",
+            "478.65%/597.86%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Investida Ardente",
+      "info": "Realiza um corte para frente que causa Dano Pyro.\n\nEsta habilidade pode ser usada 3x consecutivamente. Entra em Recarga se não for lançada novamente em um curto período de tempo.",
+      "description": "Os cortes representam os valores de Diluc: um pela justiça, um pela coragem e outro pelo seus deveres.",
+      "attributes": [
+        {
+          "name": "Dano do 1° Golpe",
+          "parameters": [
+            "94.40%",
+            "101.48%",
+            "108.56%",
+            "118.00%",
+            "125.08%",
+            "132.16%",
+            "141.60%",
+            "151.04%",
+            "160.48%",
+            "169.92%",
+            "179.36%",
+            "188.80%",
+            "200.60%",
+            "212.40%",
+            "224.20%"
+          ]
+        },
+        {
+          "name": "Dano do 2° Golpe",
+          "parameters": [
+            "97.60%",
+            "104.92%",
+            "112.24%",
+            "122.00%",
+            "129.32%",
+            "136.64%",
+            "146.40%",
+            "156.16%",
+            "165.92%",
+            "175.68%",
+            "185.44%",
+            "195.20%",
+            "207.40%",
+            "219.60%",
+            "231.80%"
+          ]
+        },
+        {
+          "name": "Dano do 3° golpe ",
+          "parameters": [
+            "128.80%",
+            "138.46%",
+            "148.12%",
+            "161.00%",
+            "170.66%",
+            "180.32%",
+            "193.20%",
+            "206.08%",
+            "218.96%",
+            "231.84%",
+            "244.72%",
+            "257.60%",
+            "273.70%",
+            "289.80%",
+            "305.90%"
+          ]
+        },
+        {
+          "name": "Tempo de Recarga",
+          "parameters": [
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s",
+            "10s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Alvorecer",
+      "info": "Lança chamas intensas nos inimigos ao redor, causando Dano Pyro. As chamas então convergem na arma, invocando uma Fênix que voa para frente e causa Dano Pyro massivo em todos os inimigos no seu caminho. A Fênix explode depois alcançar seu destino, causando um enorme Dano Pyro AdE.\n\nAs chamas que correm de sua lâmina imbuem Diluc com Pyro.",
+      "description": "A única razão para andar na escuridão é para a iluminar. Vejam, aquela luz no calar da noite é o arauto do amanhecer que está por vir.",
+      "attributes": [
+        {
+          "name": "Dano do Corte",
+          "parameters": [
+            "204.00%",
+            "219.30%",
+            "234.60%",
+            "255.00%",
+            "270.30%",
+            "285.60%",
+            "306.00%",
+            "326.40%",
+            "346.80%",
+            "367.20%",
+            "387.60%",
+            "408.00%",
+            "433.50%",
+            "459.00%",
+            "484.50%"
+          ]
+        },
+        {
+          "name": "Dano Contínuo",
+          "parameters": [
+            "60.00%",
+            "64.50%",
+            "69.00%",
+            "75.00%",
+            "79.50%",
+            "84.00%",
+            "90.00%",
+            "96.00%",
+            "102.00%",
+            "108.00%",
+            "114.00%",
+            "120.00%",
+            "127.50%",
+            "135.00%",
+            "142.50%"
+          ]
+        },
+        {
+          "name": "Dano de Explosão",
+          "parameters": [
+            "204.00%",
+            "219.30%",
+            "234.60%",
+            "255.00%",
+            "270.30%",
+            "285.60%",
+            "306.00%",
+            "326.40%",
+            "346.80%",
+            "367.20%",
+            "387.60%",
+            "408.00%",
+            "433.50%",
+            "459.00%",
+            "484.50%"
+          ]
+        },
+        {
+          "name": "Tempo de Recarga",
+          "parameters": [
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s",
+            "12s"
+          ]
+        },
+        {
+          "name": "Duração do Encantamento",
+          "parameters": [
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s",
+            "8s"
+          ]
+        },
+        {
+          "name": "Energia Elemental",
+          "parameters": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Implacável",
+      "info": "O Consumo de Stamina do Ataque Carregado de Diluc será diminuído em 50%, e sua duração será aumentada em 3 segundos."
+    },
+    "passive2": {
+      "name": "Bênção de Phoenix",
+      "info": "O **Encantamento Pyro** obtido pelo Alvorecer dura por 4 segundos a mais. Adicionalmente, Diluc ganha 20% de Bônus de Dano Pyro ao longo da duração deste efeito."
+    },
+    "passive3": {
+      "name": "Tradição do Cavaleiro do Alvorecer",
+      "info": "Reembolsa 15% dos minérios usados durante a produção de armas do tipo Espadão."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Ensinamentos de Resistência",
+          "count": 3
+        },
+        {
+          "name": "Insígnia de Recruta",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guia de Resistência",
+          "count": 2
+        },
+        {
+          "name": "Insígnia de Sargento",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guia de Resistência",
+          "count": 4
+        },
+        {
+          "name": "Insígnia de Sargento",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guia de Resistência",
+          "count": 6
+        },
+        {
+          "name": "Insígnia de Sargento",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guia de Resistência",
+          "count": 9
+        },
+        {
+          "name": "Insígnia de Sargento",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Filosofia de Resistência",
+          "count": 4
+        },
+        {
+          "name": "Insígnia de Oficial",
+          "count": 4
+        },
+        {
+          "name": "Plumas do Vento Oriental",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Filosofia de Resistência",
+          "count": 6
+        },
+        {
+          "name": "Insígnia de Oficial",
+          "count": 6
+        },
+        {
+          "name": "Plumas do Vento Oriental",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Filosofia de Resistência",
+          "count": 12
+        },
+        {
+          "name": "Insígnia de Oficial",
+          "count": 9
+        },
+        {
+          "name": "Plumas do Vento Oriental",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Filosofia de Resistência",
+          "count": 16
+        },
+        {
+          "name": "Insígnia de Oficial",
+          "count": 12
+        },
+        {
+          "name": "Plumas do Vento Oriental",
+          "count": 2
+        },
+        {
+          "name": "Coroa da Sabedoria",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Diluc_01_01",
+      "combat3": "Skill_E_Diluc_01_HD",
+      "passive1": "UI_Talent_S_Diluc_05",
+      "passive2": "UI_Talent_S_Diluc_06",
+      "passive3": "UI_Talent_Forge_Claymore"
+    },
+    "version": "1.0"
+  }
+}

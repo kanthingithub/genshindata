@@ -1,0 +1,20 @@
+{
+  "name": "Phôi Cung Bắc Lục",
+  "description": "Nguyên liệu gốc tạo ra vũ khí. Thông qua chế tạo, có thể tạo ra cung 4 sao.\nTrong triết học cho rằng, Đại Lý Thạch có tiềm năng trở thành tượng điêu khắc tuyệt mỹ. Những phôi gốc này cũng có khả năng vô hạn. Thật khiến người khác mong chờ.",
+  "sortorder": 1963,
+  "rarity": "4",
+  "category": "EXCHANGE",
+  "materialtype": "Nguyên Liệu",
+  "source": [
+    "BOSS Rơi"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Northlander_Bow_Billet.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Item_Northlander_Bow_Billet.png",
+    "nameicon": "UI_ItemIcon_101102"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Northlander_Bow_Billet"
+  },
+  "version": ""
+}

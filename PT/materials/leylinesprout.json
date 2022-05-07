@@ -1,0 +1,21 @@
+{
+  "name": "Broto de Linha Ley",
+  "description": "Diz-se que havia uma grande árvore cujas raízes outrora se espalhavam por todos os cantos do mundo, e diz-se que este broto fazia parte dela. É quase como se nunca tivesse sido quebrado e levado para longe, pois sua vitalidade é tal que ainda hoje brota novas folhas.",
+  "sortorder": 1740,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de Elevação de Personagem",
+  "source": [
+    "Obtido na síntese",
+    "Dropado pelo Feiticeiro do Abismo Nv.60+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Ley_Line_Sprouts.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Item_Ley_Line_Sprout.png",
+    "nameicon": "UI_ItemIcon_112022"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Ley_Line_Sprout"
+  },
+  "version": ""
+}

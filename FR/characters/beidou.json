@@ -1,0 +1,933 @@
+{
+  "name": "Beidou",
+  "fullname": "Beidou",
+  "title": "Reine des mers sans couronne",
+  "description": "Capitaine de la Flotte du Crux, une femme de tête franche et directe.",
+  "rarity": "4",
+  "element": "Électro",
+  "weapontype": "Épée à deux mains",
+  "substat": "Bonus de DGT Électro",
+  "gender": "Femme",
+  "body": "LADY",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Flotte du Crux",
+  "birthdaymmdd": "2/14",
+  "birthday": "14 février",
+  "constellation": "Victor Mare",
+  "cv": {
+    "english": "Allegra Clark",
+    "chinese": "唐雅菁",
+    "japanese": "小清水亜美",
+    "korean": "Jung Yoo-mi"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Éclat d'améthyste vajrada",
+        "count": 1
+      },
+      {
+        "name": "Jade noctiluque",
+        "count": 3
+      },
+      {
+        "name": "Insigne du Pilleur",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragment d'améthyste vajrada",
+        "count": 3
+      },
+      {
+        "name": "Prisme d'éclair",
+        "count": 2
+      },
+      {
+        "name": "Jade noctiluque",
+        "count": 10
+      },
+      {
+        "name": "Insigne du Pilleur",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragment d'améthyste vajrada",
+        "count": 6
+      },
+      {
+        "name": "Prisme d'éclair",
+        "count": 4
+      },
+      {
+        "name": "Jade noctiluque",
+        "count": 20
+      },
+      {
+        "name": "Insigne de corbeau en argent",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Morceau d'améthyste vajrada",
+        "count": 3
+      },
+      {
+        "name": "Prisme d'éclair",
+        "count": 8
+      },
+      {
+        "name": "Jade noctiluque",
+        "count": 30
+      },
+      {
+        "name": "Insigne de corbeau en argent",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Morceau d'améthyste vajrada",
+        "count": 6
+      },
+      {
+        "name": "Prisme d'éclair",
+        "count": 12
+      },
+      {
+        "name": "Jade noctiluque",
+        "count": 45
+      },
+      {
+        "name": "Insigne de corbeau en or",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Pierre d'améthyste vajrada",
+        "count": 6
+      },
+      {
+        "name": "Prisme d'éclair",
+        "count": 20
+      },
+      {
+        "name": "Jade noctiluque",
+        "count": 60
+      },
+      {
+        "name": "Insigne de corbeau en or",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Character_Beidou_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Character_Beidou_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Beidou.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Beidou.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200227/2020022720085973518.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20200227/2020022720104965706.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/515effa5bfabb8fc03a52cbf76a4a79e.png",
+    "nameicon": "UI_AvatarIcon_Beidou",
+    "nameiconcard": "UI_AvatarIcon_Beidou_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Beidou",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Beidou",
+    "namesideicon": "UI_AvatarIcon_Side_Beidou"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Beidou"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1094.149169921875,
+      "attack": 18.876480102539062,
+      "defense": 54.36375045776367,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2810.8692237900686,
+      "attack": 48.49367749143494,
+      "defense": 139.66047523706675,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3628.2547218369436,
+      "attack": 62.59570538450134,
+      "defense": 180.2729744741273,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5434.694765555556,
+      "attack": 93.76076996533811,
+      "defense": 270.0275147628545,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 6015.468569266493,
+      "attack": 103.78063118665159,
+      "defense": 298.88376552579393,
+      "specialized": 0.05999999865889549
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6919.236017357442,
+      "attack": 119.37260778380005,
+      "defense": 343.78823501725674,
+      "specialized": 0.05999999865889549
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7693.601373802754,
+      "attack": 132.73242338133423,
+      "defense": 382.26323349137783,
+      "specialized": 0.11999999731779099
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8597.368821893702,
+      "attack": 148.3243999784827,
+      "defense": 427.16770298284064,
+      "specialized": 0.11999999731779099
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9178.142503534327,
+      "attack": 158.3442631071448,
+      "defense": 456.02395756047736,
+      "specialized": 0.11999999731779099
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 10080.815360027482,
+      "attack": 173.91735559133667,
+      "defense": 500.8740413190699,
+      "specialized": 0.11999999731779099
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10661.589285808732,
+      "attack": 183.93721871999878,
+      "defense": 529.7302882673121,
+      "specialized": 0.18000000715255737
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11565.3562121687,
+      "attack": 199.5291863161401,
+      "defense": 574.6347318361186,
+      "specialized": 0.18000000715255737
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12146.13013794995,
+      "attack": 209.54904563010496,
+      "defense": 603.4909787843608,
+      "specialized": 0.23999999463558197
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 13049.897586040897,
+      "attack": 225.14102222725342,
+      "defense": 648.3954482758236,
+      "specialized": 0.23999999463558197
+    }
+  },
+  "version": "1.0",
+  "constellations": {
+    "c1": {
+      "name": "Fléau des monstres marins",
+      "effect": "L'activation de **Brisure d'orage** confère les effets suivants :\nGénère un bouclier qui absorbe une quantité de DGT équivalant à 16 % des PV max et dure 15 s.\nLe bouclier est efficace à 250 % contre les DGT Électro."
+    },
+    "c2": {
+      "name": "Sur la mer turbulente, le tonnerre gronde",
+      "effect": "Les décharges de **Brisure d'orage** se propagent à 2 ennemis supplémentaires."
+    },
+    "c3": {
+      "name": "Invocateur de tonnerre",
+      "effect": "Niveau d'aptitude **Invocation des marées** +3.\nNiveau max : 15"
+    },
+    "c4": {
+      "name": "Vengeance étonnante",
+      "effect": "Après avoir subi une attaque, les attaques normales de Beidou infligent 20 % de DGT Électro supplémentaires pendant 10 s."
+    },
+    "c5": {
+      "name": "Marcheur de marée écarlate",
+      "effect": "Niveau d'aptitude **Brisure d'orage** +3.\nNiveau max : 15"
+    },
+    "c6": {
+      "name": "Chancre du mal",
+      "effect": "La RÉS Électro des ennemis proches est réduite de 15 % tant que **Brisure d'orage** est actif."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Beidou_02.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Beidou_01.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Beidou_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Beidou_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Beidou_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Beidou_04.png",
+      "constellation": "Eff_UI_Talent_Beidou"
+    },
+    "version": "1.0"
+  },
+  "talent": {
+    "name": "Beidou",
+    "combat1": {
+      "name": "Attaque normale : Conquête des mers",
+      "info": "**Attaque normale**\nEnchaîne jusqu'à 5 coups d'épée.\n\n**Attaque chargée**\nExécute une succession d'entailles aussi rapides que tranchantes ; cette attaque consomme de l'endurance de façon continue.\nL'attaque chargée se termine sur un coup puissant.\n\n**Attaque plongeante**\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "attributes": [
+        {
+          "name": "DGT 1er coup",
+          "parameters": [
+            "71.12%",
+            "76.91%",
+            "82.70%",
+            "90.97%",
+            "96.76%",
+            "103.38%",
+            "112.47%",
+            "121.57%",
+            "130.67%",
+            "140.59%",
+            "151.96%",
+            "165.33%",
+            "178.71%",
+            "192.08%",
+            "206.67%"
+          ]
+        },
+        {
+          "name": "DGT 2e coup",
+          "parameters": [
+            "70.86%",
+            "76.63%",
+            "82.40%",
+            "90.64%",
+            "96.41%",
+            "103.00%",
+            "112.06%",
+            "121.13%",
+            "130.19%",
+            "140.08%",
+            "151.41%",
+            "164.73%",
+            "178.06%",
+            "191.38%",
+            "205.92%"
+          ]
+        },
+        {
+          "name": "DGT 3e coup",
+          "parameters": [
+            "88.32%",
+            "95.51%",
+            "102.70%",
+            "112.97%",
+            "120.16%",
+            "128.38%",
+            "139.67%",
+            "150.97%",
+            "162.27%",
+            "174.59%",
+            "188.71%",
+            "205.32%",
+            "221.92%",
+            "238.53%",
+            "256.65%"
+          ]
+        },
+        {
+          "name": "DGT 4e coup",
+          "parameters": [
+            "86.52%",
+            "93.56%",
+            "100.60%",
+            "110.66%",
+            "117.70%",
+            "125.75%",
+            "136.82%",
+            "147.88%",
+            "158.95%",
+            "171.02%",
+            "184.85%",
+            "201.12%",
+            "217.39%",
+            "233.65%",
+            "251.40%"
+          ]
+        },
+        {
+          "name": "DGT 5e coup",
+          "parameters": [
+            "112.14%",
+            "121.27%",
+            "130.40%",
+            "143.44%",
+            "152.57%",
+            "163.00%",
+            "177.34%",
+            "191.69%",
+            "206.03%",
+            "221.68%",
+            "239.61%",
+            "260.70%",
+            "281.78%",
+            "302.87%",
+            "325.87%"
+          ]
+        },
+        {
+          "name": "DGT enchaînement attaque chargée",
+          "parameters": [
+            "56.24%",
+            "60.82%",
+            "65.40%",
+            "71.94%",
+            "76.52%",
+            "81.75%",
+            "88.94%",
+            "96.14%",
+            "103.33%",
+            "111.18%",
+            "120.17%",
+            "130.75%",
+            "141.32%",
+            "151.90%",
+            "163.43%"
+          ]
+        },
+        {
+          "name": "DGT coup final attaque chargée",
+          "parameters": [
+            "101.82%",
+            "110.11%",
+            "118.40%",
+            "130.24%",
+            "138.53%",
+            "148.00%",
+            "161.02%",
+            "174.05%",
+            "187.07%",
+            "201.28%",
+            "217.56%",
+            "236.71%",
+            "255.85%",
+            "275.00%",
+            "295.88%"
+          ]
+        },
+        {
+          "name": "Coût d'endurance attaque chargée",
+          "parameters": [
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s",
+            "40 pts/s"
+          ]
+        },
+        {
+          "name": "Durée max",
+          "parameters": [
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s",
+            "5 s"
+          ]
+        },
+        {
+          "name": "DGT durant la chute",
+          "parameters": [
+            "74.59%",
+            "80.66%",
+            "86.73%",
+            "95.40%",
+            "101.47%",
+            "108.41%",
+            "117.95%",
+            "127.49%",
+            "137.03%",
+            "147.44%",
+            "157.85%",
+            "168.26%",
+            "178.66%",
+            "189.07%",
+            "199.48%"
+          ]
+        },
+        {
+          "name": "DGT chute basse/élevée",
+          "parameters": [
+            "149.14%/186.29%",
+            "161.28%/201.45%",
+            "173.42%/216.62%",
+            "190.77%/238.28%",
+            "202.91%/253.44%",
+            "216.78%/270.77%",
+            "235.86%/294.60%",
+            "254.93%/318.42%",
+            "274.01%/342.25%",
+            "294.82%/368.25%",
+            "315.63%/394.24%",
+            "336.44%/420.23%",
+            "357.25%/446.23%",
+            "378.06%/472.22%",
+            "398.87%/498.21%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Invocation des marées",
+      "info": "N'ayez crainte. Que quelqu'un ose s'en prendre à Beidou ou aux siens, et sa lame et le tonnerre lui feront payer au centuple.\n\n**Appui simple**\nBeidou concentre le pouvoir de la foudre sur son épée, et exécute un coup violent qui inflige aux ennemis en face des DGT Électro.\n\n**Appui long**\nBeidou brandit son arme, qu'elle utilise comme bouclier. La quantité de DGT absorbés est proportionnelle aux PV max de Beidou.\nLorsque vous relâchez la compétence ou que celle-ci prend fin, Beidou brandit sa longue épée et effectue une contre-attaque libérant toute l'énergie accumulée, infligeant des DGT Électro.\nLes DGT infligés augmentent en fonction du nombre d'attaques subies par Beidou pendant la durée de la compétence. Le bonus de DGT maximum est atteint lorsque l'effet est déclenché deux fois.\nLe bouclier a les propriétés suivantes :\n· A 250 % d'efficacité contre les DGT Électro.\n· Applique l'élément Électro à Beidou à l'activation.",
+      "description": "À l'assaut des mers ! À la poursuite des vagues et de la tempête !",
+      "attributes": [
+        {
+          "name": "PV du bouclier",
+          "parameters": [
+            "14.40% PV max + 1386 PV",
+            "15.48% PV max + 1525 PV",
+            "16.56% PV max + 1675 PV",
+            "18.00% PV max + 1837 PV",
+            "19.08% PV max + 2010 PV",
+            "20.16% PV max + 2195 PV",
+            "21.60% PV max + 2392 PV",
+            "23.04% PV max + 2600 PV",
+            "24.48% PV max + 2819 PV",
+            "25.92% PV max + 3050 PV",
+            "27.36% PV max + 3293 PV",
+            "28.80% PV max + 3547 PV",
+            "30.60% PV max + 3813 PV",
+            "32.40% PV max + 4090 PV",
+            "34.20% PV max + 4379 PV"
+          ]
+        },
+        {
+          "name": "DGT de base",
+          "parameters": [
+            "121.60%",
+            "130.72%",
+            "139.84%",
+            "152.00%",
+            "161.12%",
+            "170.24%",
+            "182.40%",
+            "194.56%",
+            "206.72%",
+            "218.88%",
+            "231.04%",
+            "243.20%",
+            "258.40%",
+            "273.60%",
+            "288.80%"
+          ]
+        },
+        {
+          "name": "Bonus de DGT par coup",
+          "parameters": [
+            "160.00%",
+            "172.00%",
+            "184.00%",
+            "200.00%",
+            "212.00%",
+            "224.00%",
+            "240.00%",
+            "256.00%",
+            "272.00%",
+            "288.00%",
+            "304.00%",
+            "320.00%",
+            "340.00%",
+            "360.00%",
+            "380.00%"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "7.5 s",
+            "7.5 s",
+            "7.5 s",
+            "7.5 s",
+            "7.5 s",
+            "7.5 s",
+            "7.5 s",
+            "7.5 s",
+            "7.5 s",
+            "7.5 s",
+            "7.5 s",
+            "7.5 s",
+            "7.5 s",
+            "7.5 s",
+            "7.5 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Brisure d'orage",
+      "info": "Se remémorant son combat contre Haishan, la bête géante, Beidou fait appel à la même force destructrice, et crée un bouclier de foudre qui inflige des DGT Électro aux ennemis à proximité.\n\n**Bouclier de foudre**\n· Les attaques normales et chargées, lorsqu'elles touchent, libèrent une décharge électrique qui se propage d'ennemi en ennemi et inflige des DGT Électro.\n· Augmente la RÉS à l'interruption du personnage et réduit les DGT subis.\n\nAu maximum, une décharge par seconde peut être libérée.Le plus puissant des éclairs peut fendre mers et montagnes.",
+      "attributes": [
+        {
+          "name": "DGT compétence",
+          "parameters": [
+            "121.60%",
+            "130.72%",
+            "139.84%",
+            "152.00%",
+            "161.12%",
+            "170.24%",
+            "182.40%",
+            "194.56%",
+            "206.72%",
+            "218.88%",
+            "231.04%",
+            "243.20%",
+            "258.40%",
+            "273.60%",
+            "288.80%"
+          ]
+        },
+        {
+          "name": "DGT décharge",
+          "parameters": [
+            "96.00%",
+            "103.20%",
+            "110.40%",
+            "120.00%",
+            "127.20%",
+            "134.40%",
+            "144.00%",
+            "153.60%",
+            "163.20%",
+            "172.80%",
+            "182.40%",
+            "192.00%",
+            "204.00%",
+            "216.00%",
+            "228.00%"
+          ]
+        },
+        {
+          "name": "Réduction DGT",
+          "parameters": [
+            "20.00%",
+            "21.00%",
+            "22.00%",
+            "24.00%",
+            "25.00%",
+            "26.00%",
+            "28.00%",
+            "30.00%",
+            "32.00%",
+            "34.00%",
+            "35.00%",
+            "36.00%",
+            "37.00%",
+            "38.00%",
+            "39.00%"
+          ]
+        },
+        {
+          "name": "Durée",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s",
+            "20 s"
+          ]
+        },
+        {
+          "name": "Énergie élémentaire",
+          "parameters": [
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80",
+            "80"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Châtiment",
+      "info": "La contre-attaque d'**Invocation des marées** inflige le maximum de DGT lorsqu'elle est exécutée juste après une attaque."
+    },
+    "passive2": {
+      "name": "Tempête de coups de tonnerre",
+      "info": "**Invocation des marées** confère pendant 10 s les effets suivants lorsque cette aptitude est exécutée avec le maximum de bonus de DGT :\n· Les attaques normales et chargées infligent 15 % de DGT supplémentaires.\n· La VIT des attaques normales et chargées augmente de 15 %.\n· Réduit considérablement le temps de préparation des attaques chargées."
+    },
+    "passive3": {
+      "name": "Braveuse de marée",
+      "info": "Réduit la consommation d'endurance de vos personnages dans l'équipe de 20 % lors de la nage.\nNe peut pas être cumulé avec d'autres aptitudes passives aux effets identiques."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseignement de l'Or",
+          "count": 3
+        },
+        {
+          "name": "Insigne du Pilleur",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide de l'Or",
+          "count": 2
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide de l'Or",
+          "count": 4
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide de l'Or",
+          "count": 6
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide de l'Or",
+          "count": 9
+        },
+        {
+          "name": "Insigne de corbeau en argent",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie de l'Or",
+          "count": 4
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "count": 4
+        },
+        {
+          "name": "Souffle de Stormterror",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie de l'Or",
+          "count": 6
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "count": 6
+        },
+        {
+          "name": "Souffle de Stormterror",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie de l'Or",
+          "count": 12
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "count": 9
+        },
+        {
+          "name": "Souffle de Stormterror",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie de l'Or",
+          "count": 16
+        },
+        {
+          "name": "Insigne de corbeau en or",
+          "count": 12
+        },
+        {
+          "name": "Souffle de Stormterror",
+          "count": 2
+        },
+        {
+          "name": "Couronne de la sagesse",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_04",
+      "combat2": "Skill_S_Beidou_01",
+      "combat3": "Skill_E_Beidou_01_HD",
+      "passive1": "UI_Talent_S_Beidou_05",
+      "passive2": "UI_Talent_S_Beidou_06",
+      "passive3": "UI_Talent_Explosion_Swim"
+    },
+    "version": "1.0"
+  }
+}

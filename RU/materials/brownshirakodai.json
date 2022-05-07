@@ -1,0 +1,20 @@
+{
+  "name": "Бурая рыба-бабочка",
+  "description": "Рыба-бабочка. Обладает кротким нравом, изящной внешностью, красивыми спинными плавниками. Также известна как «подводная королева».\nЕё туловище покрыто полосами землистого цвета, а спокойный характер напоминает скалу. Её спокойствие даже можно назвать недостатком, ведь иногда рыба совсем не шевелится, словно превратившись в камень, что заставляет некоторых покупателей думать, будто они случайно купили мёртвую рыбу.",
+  "sortorder": 2027,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Рыба",
+  "source": [
+    "Рыбалка"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Brown_Shirakodai.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/43/Item_Brown_Shirakodai.png",
+    "nameicon": "UI_ItemIcon_131013"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Brown_Shirakodai"
+  },
+  "version": ""
+}

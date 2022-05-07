@@ -1,0 +1,311 @@
+{
+  "name": "Pacificadora del Desastre",
+  "description": "Una afilada arma forjada con extraños minerales. Su tenue brillo azul parece estar contando incontables historias del pasado.",
+  "weapontype": "Lanza",
+  "rarity": "5",
+  "baseatk": 49,
+  "substat": "ATQ",
+  "subvalue": "3.6",
+  "effectname": "Ley de la aniquilación",
+  "effect": [
+    "Otorga un [12%] a todos los Bonos de Daño Elemental. Al lanzar la Habilidad Elemental, se obtiene el efecto “consumación” durante 20 s, el cual aumenta el ATQ en un [3.2%] por segundo. Este efecto puede acumularse hasta 6 veces. Cuando el personaje que equipa esta arma está en tu equipo pero no en combate, el aumento de ataque otorgado por consumación se dobla.",
+    "Otorga un [15%] a todos los Bonos de Daño Elemental. Al lanzar la Habilidad Elemental, se obtiene el efecto “consumación” durante 20 s, el cual aumenta el ATQ en un [4%] por segundo. Este efecto puede acumularse hasta 6 veces. Cuando el personaje que equipa esta arma está en tu equipo pero no en combate, el aumento de ataque otorgado por consumación se dobla.",
+    "Otorga un [18%] a todos los Bonos de Daño Elemental. Al lanzar la Habilidad Elemental, se obtiene el efecto “consumación” durante 20 s, el cual aumenta el ATQ en un [4.8%] por segundo. Este efecto puede acumularse hasta 6 veces. Cuando el personaje que equipa esta arma está en tu equipo pero no en combate, el aumento de ataque otorgado por consumación se dobla.",
+    "Otorga un [21%] a todos los Bonos de Daño Elemental. Al lanzar la Habilidad Elemental, se obtiene el efecto “consumación” durante 20 s, el cual aumenta el ATQ en un [5.6%] por segundo. Este efecto puede acumularse hasta 6 veces. Cuando el personaje que equipa esta arma está en tu equipo pero no en combate, el aumento de ataque otorgado por consumación se dobla.",
+    "Otorga un [24%] a todos los Bonos de Daño Elemental. Al lanzar la Habilidad Elemental, se obtiene el efecto “consumación” durante 20 s, el cual aumenta el ATQ en un [6.4%] por segundo. Este efecto puede acumularse hasta 6 veces. Cuando el personaje que equipa esta arma está en tu equipo pero no en combate, el aumento de ataque otorgado por consumación se dobla."
+  ],
+  "r1": [
+    "12%",
+    "3.2%"
+  ],
+  "r2": [
+    "15%",
+    "4%"
+  ],
+  "r3": [
+    "18%",
+    "4.8%"
+  ],
+  "r4": [
+    "21%",
+    "5.6%"
+  ],
+  "r5": [
+    "24%",
+    "6.4%"
+  ],
+  "weaponmaterialtype": "",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 10000
+      },
+      {
+        "name": "Perdigones de plomo",
+        "count": 5
+      },
+      {
+        "name": "Polen de neblina",
+        "count": 5
+      },
+      {
+        "name": "Néctar de Megaflora",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Perdigones de mercurio",
+        "count": 5
+      },
+      {
+        "name": "Polen de neblina",
+        "count": 18
+      },
+      {
+        "name": "Néctar de Megaflora",
+        "count": 12
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Perdigones de mercurio",
+        "count": 9
+      },
+      {
+        "name": "Hierba brumosa",
+        "count": 9
+      },
+      {
+        "name": "Néctar brillante",
+        "count": 9
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Perdigones de oro",
+        "count": 5
+      },
+      {
+        "name": "Hierba brumosa",
+        "count": 18
+      },
+      {
+        "name": "Néctar brillante",
+        "count": 14
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 55000
+      },
+      {
+        "name": "Perdigones de oro",
+        "count": 9
+      },
+      {
+        "name": "Estambre de hierba brumosa",
+        "count": 14
+      },
+      {
+        "name": "Néctar energético",
+        "count": 9
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 65000
+      },
+      {
+        "name": "Perdigones primordiales",
+        "count": 6
+      },
+      {
+        "name": "Estambre de hierba brumosa",
+        "count": 27
+      },
+      {
+        "name": "Néctar energético",
+        "count": 18
+      }
+    ]
+  },
+  "images": {
+    "nameicon": "UI_EquipIcon_Pole_Santika",
+    "namegacha": "UI_Gacha_EquipIcon_Pole_Santika",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Santika.png",
+    "nameawakenicon": "UI_EquipIcon_Pole_Santika_Awaken",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Santika_Awaken.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Calamity_Queller"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 49.137699127197266,
+      "specialized": 0.035999998450279236
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 68.35054107921769,
+      "specialized": 0.04183199607062349
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 93.11593890881159,
+      "specialized": 0.04906799915802473
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 118.66754151772693,
+      "specialized": 0.05633999963462344
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 144.9070689152959,
+      "specialized": 0.0636119958196879
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 176.00706929676562,
+      "specialized": 0.0636119958196879
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 202.73798493233335,
+      "specialized": 0.07088399629628661
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 230.05853365054645,
+      "specialized": 0.07815599677288532
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 257.7722023314309,
+      "specialized": 0.08542799295794978
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 285.92810168196957,
+      "specialized": 0.09269999772608273
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 317.0281020634393,
+      "specialized": 0.09269999772608273
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 345.5771213766493,
+      "specialized": 0.0999719939111472
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 374.4209455158416,
+      "specialized": 0.10724399867928014
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 405.62094627878105,
+      "specialized": 0.10724399867928014
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 434.85786694996386,
+      "specialized": 0.1145159948643446
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 464.3896393084906,
+      "specialized": 0.12178799104940907
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 495.4896377826117,
+      "specialized": 0.12178799104940907
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 525.3161915364399,
+      "specialized": 0.12905999581754202
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 555.3884862706291,
+      "specialized": 0.13629599461340902
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 586.4884923741447,
+      "specialized": 0.13629599461340902
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 616.8555919343162,
+      "specialized": 0.1435679907984735
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 647.51749632047,
+      "specialized": 0.15083999556660643
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 678.6174871651965,
+      "specialized": 0.15083999556660643
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 709.4759749633668,
+      "specialized": 0.15811200033473938
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 740.5801568805364,
+      "specialized": 0.16538398793673537
+    }
+  },
+  "version": "2.4"
+}

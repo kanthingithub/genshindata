@@ -1,0 +1,26 @@
+{
+  "name": "Perdigones primordiales",
+  "description": "Material de ascensión de arma.\nUna cápsula de metal de la más alta calidad. Encarna un estado de orden y caos entrelazados. Se dice que el mundo tenía esta forma antes de su creación. Sin embargo, cierta persona sabe que, en realidad, no fue así como se creó.",
+  "sortorder": 2202,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de ascensión de arma",
+  "dropdomain": "Dominio de la forja: Ruinas atronadoras",
+  "daysofweek": [
+    "Martes",
+    "Viernes",
+    "Domingo"
+  ],
+  "source": [
+    "Sintetizar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Veiled_Primo_Elixir.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a3/Item_Mist_Veiled_Primo_Elixir.png",
+    "nameicon": "UI_ItemIcon_114020"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Veiled_Primo_Elixir"
+  },
+  "version": ""
+}

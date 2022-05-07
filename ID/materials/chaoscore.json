@@ -1,0 +1,22 @@
+{
+  "name": "Chaos Core",
+  "description": "Bagian dari mesin kuno yang sudah tidak lagi bekerja. Ini adalah bagian inti mesin yang menjadi sumber tenaga untuk menggerakkan seluruh mesin, andai saja kamu dapat mengerti cara kerja benda ini, mungkin kamu dapat mengubah dunia.",
+  "sortorder": 1743,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material Penguatan Karakter",
+  "source": [
+    "Didapatkan melalui Craft",
+    "Dijatuhkan oleh Ruin Guard Lv. 60+",
+    "Dijatuhkan oleh Ruin Hunter Lv. 60+"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Chaos_Core.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/3e/Item_Chaos_Core.png",
+    "nameicon": "UI_ItemIcon_112025"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Chaos_Core"
+  },
+  "version": ""
+}

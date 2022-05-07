@@ -1,0 +1,19 @@
+{
+  "name": "Mảnh Sắt",
+  "description": "Khoáng thạch của sắt, trong tay thợ thủ công lành nghề có thể phát ra hào quang.",
+  "sortorder": 1954,
+  "category": "EXCHANGE",
+  "materialtype": "Quặng Đúc",
+  "source": [
+    "Thu Thập Bên Ngoài"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Iron_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Item_Iron_Chunk.png",
+    "nameicon": "UI_ItemIcon_101001"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Iron_Chunk"
+  },
+  "version": ""
+}

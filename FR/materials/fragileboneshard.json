@@ -1,0 +1,23 @@
+{
+  "name": "Fragment d'os fragile",
+  "description": "Fragment d'os retrouvé sur le corps d'un Élémentosaure.\nMalgré sa fragilité, une mystérieuse puissance semble s'en dégager.",
+  "sortorder": 1759,
+  "rarity": "2",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'amélioration de personnage",
+  "source": [
+    "Butin de Jeune Géosaure",
+    "Butin de Géosaure",
+    "Butin d'Élémentosaure abyssal",
+    "Échange Astrions"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragile_Bone_Shard.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Item_Fragile_Bone_Shard.png",
+    "nameicon": "UI_ItemIcon_112041"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fragile_Bone_Shard"
+  },
+  "version": ""
+}

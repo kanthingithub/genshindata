@@ -1,0 +1,20 @@
+{
+  "name": "Lantern Fiber",
+  "description": "Used in Lantern Rite as material with which to construct Xiao Lanterns.\nThis commonly encountered fibrous material can be processed into lantern wrappings so that the lanterns can float away, carrying their beautiful wishes far afield.",
+  "sortorder": 2287,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Lantern Rite Material",
+  "source": [
+    "Obtained from harvestable plants"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Lantern_Fiber.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Item_Lantern_Fiber.png",
+    "nameicon": "UI_ItemIcon_200001"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Lantern_Fiber"
+  },
+  "version": ""
+}

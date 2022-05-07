@@ -1,0 +1,854 @@
+{
+  "name": "Albedo",
+  "fullname": "Albedo",
+  "title": "องค์ชายชอล์กขาว",
+  "description": "อัจฉริยะที่ถูกขนานนามว่า \"Kreideprinz\" (องค์ชายชอล์กขาว) นั้นเป็นหัวหน้านักเล่นแร่แปรธาตุ และหัวหน้าทีมสืบสวนแห่งกองอัศวิน Favonius",
+  "rarity": "5",
+  "element": "หิน",
+  "weapontype": "ดาบ",
+  "substat": "โบนัสความเสียหายหิน",
+  "gender": "ชาย",
+  "body": "BOY",
+  "association": "MONDSTADT",
+  "region": "Mondstadt",
+  "affiliation": "กองอัศวินแห่ง Favonius",
+  "birthdaymmdd": "9/13",
+  "birthday": "13 กันยายน",
+  "constellation": "Princeps Cretaceus",
+  "cv": {
+    "english": "Khoi Dao",
+    "chinese": "Mace",
+    "japanese": "野島健児",
+    "korean": "Kim Myeong-joon"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Prithiva Topaz Silver",
+        "count": 1
+      },
+      {
+        "name": "Cecilia",
+        "count": 3
+      },
+      {
+        "name": "Divining Scroll",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Prithiva Topaz Fragment",
+        "count": 3
+      },
+      {
+        "name": "Basalt Pillar",
+        "count": 2
+      },
+      {
+        "name": "Cecilia",
+        "count": 10
+      },
+      {
+        "name": "Divining Scroll",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Prithiva Topaz Fragment",
+        "count": 6
+      },
+      {
+        "name": "Basalt Pillar",
+        "count": 4
+      },
+      {
+        "name": "Cecilia",
+        "count": 20
+      },
+      {
+        "name": "Seal Scroll",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Prithiva Topaz Chunk",
+        "count": 3
+      },
+      {
+        "name": "Basalt Pillar",
+        "count": 8
+      },
+      {
+        "name": "Cecilia",
+        "count": 30
+      },
+      {
+        "name": "Seal Scroll",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Prithiva Topaz Chunk",
+        "count": 6
+      },
+      {
+        "name": "Basalt Pillar",
+        "count": 12
+      },
+      {
+        "name": "Cecilia",
+        "count": 45
+      },
+      {
+        "name": "Forbidden Curse Scroll",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Prithiva Topaz Gemstone",
+        "count": 6
+      },
+      {
+        "name": "Basalt Pillar",
+        "count": 20
+      },
+      {
+        "name": "Cecilia",
+        "count": 60
+      },
+      {
+        "name": "Forbidden Curse Scroll",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Character_Albedo_Card.png",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Character_Albedo_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Albedo.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201216/2020121611204969580.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20201216/2020121611271023422.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/94dd9e0cc9d8311e58887a45b9b14861.png",
+    "nameicon": "UI_AvatarIcon_Albedo",
+    "nameiconcard": "UI_AvatarIcon_Albedo_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Albedo",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Albedo",
+    "namesideicon": "UI_AvatarIcon_Side_Albedo"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Albedo"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1029.5855712890625,
+      "attack": 19.551000595092773,
+      "defense": 68.2061996459961,
+      "specialized": 0
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 2670.7450760040956,
+      "attack": 50.71529752007109,
+      "defense": 176.92688877664295,
+      "specialized": 0
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 3553.5216262970644,
+      "attack": 67.47728711357695,
+      "defense": 235.40888722024647,
+      "specialized": 0
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 5317.201770792366,
+      "attack": 100.96815228897867,
+      "defense": 352.24611124672083,
+      "specialized": 0
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 5944.437793741585,
+      "attack": 112.87798810440836,
+      "defense": 393.7991164652267,
+      "specialized": 0.07199999690055847
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 6839.14761198865,
+      "attack": 129.86780680115135,
+      "defense": 453.07030109555126,
+      "specialized": 0.07199999690055847
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 7675.462187183963,
+      "attack": 145.74758661682517,
+      "defense": 508.47429279477,
+      "specialized": 0.14399999380111694
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 8579.438094904996,
+      "attack": 162.91336088819116,
+      "defense": 568.3593212533524,
+      "specialized": 0.14399999380111694
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 9206.67417888937,
+      "attack": 174.82319670362085,
+      "defense": 609.9123302865555,
+      "specialized": 0.14399999380111694
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 10118.887156081328,
+      "attack": 192.14538628870014,
+      "defense": 670.3430338405342,
+      "specialized": 0.14399999380111694
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 10746.122995925078,
+      "attack": 204.05522210412983,
+      "defense": 711.8960276149483,
+      "specialized": 0.2160000056028366
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 11668.631573538703,
+      "attack": 221.5729168473854,
+      "defense": 773.0087762532967,
+      "specialized": 0.2160000056028366
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 12295.867657523078,
+      "attack": 233.48275266281507,
+      "defense": 814.5617700277107,
+      "specialized": 0.2879999876022339
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 13225.583793659927,
+      "attack": 251.13731313623066,
+      "defense": 876.1519925053435,
+      "specialized": 0.2879999876022339
+    }
+  },
+  "version": "1.2",
+  "constellations": {
+    "c1": {
+      "name": "Flower of Eden",
+      "effect": "เมื่อ Transient Blossom ที่เกิดขึ้นจาก **Abiogenesis: Solar Isotoma** ของ Albedo เบ่งบาน จะฟื้นฟูพลังงานธาตุ 1.2 หน่วย ให้แก่ตัวของ Albedo เอง"
+    },
+    "c2": {
+      "name": "Opening of Phanerozoic",
+      "effect": "เมื่อ Transient Blossom ที่เกิดจาก **Abiogenesis: Solar Isotoma** เบ่งบาน จะมอบเอฟเฟกต์ Fatal Reckoning ให้แก่ Albedo เป็นเวลา 30 วินาที:\n·เมื่อปล่อย **Rite of Progeniture: Tectonic Tide** จะเป็นการล้างเอฟเฟกต์ทั้งหมดของ Fatal Reckoning และเพิ่มความเสียหายของ Rite of Progeniture: Tectonic Tide และ Fatal Blossom ตามจำนวนชั้นของเอฟเฟกต์ที่ถูกล้าง;\n·Fatal Reckoning แต่ละชั้นที่ถูกใช้ จะเพิ่มความเสียหายเท่ากับ 30% ของพลังป้องกันของ Albedo ให้กับ Rite of Progeniture: Tectonic Tide และ Fatal Blossom;\n·เอฟเฟกต์ดังกล่าวสามารถซ้อนทับได้มากสุด 4 ครั้ง"
+    },
+    "c3": {
+      "name": "Grace of Helios",
+      "effect": "เพิ่มเลเวลสกิลของ **Abiogenesis: Solar Isotoma** ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ"
+    },
+    "c4": {
+      "name": "Descent of Divinity",
+      "effect": "ตัวละครในทีมที่เข้าร่วมการต่อสู้ในขณะนั้น และอยู่ในพื้นที่ของ Solar Isotoma จะสร้างความเสียหายจากการโจมตีพุ่งลงจากอากาศเพิ่มขึ้น 30%"
+    },
+    "c5": {
+      "name": "Tide of Hadean",
+      "effect": "เพิ่มเลเวลสกิลของ **Rite of Progeniture - Tectonic Tide** ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ"
+    },
+    "c6": {
+      "name": "Dust of Purification",
+      "effect": "เมื่อตัวละครในทีมที่เข้าร่วมการต่อสู้ในขณะนั้น และอยู่ในพื้นที่ของ Solar Isotoma ได้รับการปกป้องโดยโล่ที่เกิดจากปฏิกิริยาตกผลึก ความเสียหายที่สร้างจะเพิ่มขึ้น 17%"
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Albedo_01.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Albedo_02.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Albedo_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Albedo_03.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Albedo_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Albedo_04.png",
+      "constellation": "Eff_UI_Talent_Albedo"
+    },
+    "version": "1.2"
+  },
+  "talent": {
+    "name": "Albedo",
+    "combat1": {
+      "name": "โจมตีปกติ: Favonius Bladework - Weiss",
+      "info": "**โจมตีปกติ**\nโจมตีด้วยดาบต่อเนื่องมากสุดห้าครั้ง\n\n**ชาร์จโจมตี**\nใช้พลังกายส่วนหนึ่ง เพื่อปลดปล่อยการโจมตีด้วยดาบ ออกไปข้างหน้าสองครั้งอย่างรวดเร็ว\n\n**โจมตีพุ่งลงจากอากาศ**\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "attributes": [
+        {
+          "name": "ความเสียหายขั้น 1",
+          "parameters": [
+            "36.74%",
+            "39.73%",
+            "42.72%",
+            "46.99%",
+            "49.98%",
+            "53.40%",
+            "58.10%",
+            "62.80%",
+            "67.50%",
+            "72.62%",
+            "78.50%",
+            "85.41%",
+            "92.31%",
+            "99.22%",
+            "106.76%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 2",
+          "parameters": [
+            "36.74%",
+            "39.73%",
+            "42.72%",
+            "46.99%",
+            "49.98%",
+            "53.40%",
+            "58.10%",
+            "62.80%",
+            "67.50%",
+            "72.62%",
+            "78.50%",
+            "85.41%",
+            "92.31%",
+            "99.22%",
+            "106.76%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 3",
+          "parameters": [
+            "47.45%",
+            "51.32%",
+            "55.18%",
+            "60.70%",
+            "64.56%",
+            "68.98%",
+            "75.04%",
+            "81.11%",
+            "87.18%",
+            "93.81%",
+            "101.39%",
+            "110.32%",
+            "119.24%",
+            "128.16%",
+            "137.89%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 4",
+          "parameters": [
+            "49.75%",
+            "53.80%",
+            "57.85%",
+            "63.63%",
+            "67.68%",
+            "72.31%",
+            "78.68%",
+            "85.04%",
+            "91.40%",
+            "98.34%",
+            "106.30%",
+            "115.65%",
+            "125.01%",
+            "134.36%",
+            "144.57%"
+          ]
+        },
+        {
+          "name": "ความเสียหายขั้น 5",
+          "parameters": [
+            "62.07%",
+            "67.13%",
+            "72.18%",
+            "79.40%",
+            "84.45%",
+            "90.22%",
+            "98.16%",
+            "106.10%",
+            "114.04%",
+            "122.70%",
+            "132.63%",
+            "144.30%",
+            "155.97%",
+            "167.64%",
+            "180.38%"
+          ]
+        },
+        {
+          "name": "ความเสียหายชาร์จโจมตี",
+          "parameters": [
+            "47.30%+60.20%",
+            "51.15%+65.10%",
+            "55.00%+70.00%",
+            "60.50%+77.00%",
+            "64.35%+81.90%",
+            "68.75%+87.50%",
+            "74.80%+95.20%",
+            "80.85%+102.90%",
+            "86.90%+110.60%",
+            "93.50%+119.00%",
+            "101.06%+128.62%",
+            "109.96%+139.94%",
+            "118.85%+151.26%",
+            "127.74%+162.58%",
+            "137.44%+174.93%"
+          ]
+        },
+        {
+          "name": "ชาร์จโจมตีใช้พลังกาย",
+          "parameters": [
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย",
+            "20 หน่วย"
+          ]
+        },
+        {
+          "name": "ความเสียหายพุ่งลง",
+          "parameters": [
+            "63.93%",
+            "69.14%",
+            "74.34%",
+            "81.77%",
+            "86.98%",
+            "92.93%",
+            "101.10%",
+            "109.28%",
+            "117.46%",
+            "126.38%",
+            "135.30%",
+            "144.22%",
+            "153.14%",
+            "162.06%",
+            "170.98%"
+          ]
+        },
+        {
+          "name": "ความเสียหายพุ่งถึงพื้นจากที่ต่ำ/สูง",
+          "parameters": [
+            "127.84%/159.68%",
+            "138.24%/172.67%",
+            "148.65%/185.67%",
+            "163.51%/204.24%",
+            "173.92%/217.23%",
+            "185.81%/232.09%",
+            "202.16%/252.51%",
+            "218.51%/272.93%",
+            "234.86%/293.36%",
+            "252.70%/315.64%",
+            "270.54%/337.92%",
+            "288.38%/360.20%",
+            "306.22%/382.48%",
+            "324.05%/404.76%",
+            "341.89%/427.04%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Abiogenesis: Solar Isotoma",
+      "info": "ใช้วิชาแปรธาตุสร้าง Solar Isotoma เพื่อทำให้เกิดความเสียหายหินเป็นวงกว้าง\n\n**Solar Isotoma**\nมีคุณสมบัติพิเศษดังต่อไปนี้:\n·เมื่อศัตรูได้รับความเสียหายภายในพื้นที่ที่มี Solar Isotoma เป็นศูนย์กลาง จากนั้น Solar Isotoma จะสร้าง Transient Blossom ที่จะทำให้เกิดความเสียหายหินวงกว้าง โดยความเสียหายที่สร้าง จะขึ้นอยู่กับพลังป้องกันของ Albedo\n·ในทุก 2 วินาที จะสามารถทำให้เกิด Transient Blossom ได้เพียงครั้งเดียวเท่านั้น\n·เมื่อตัวละครอยู่ในพื้นที่ของ Solar Isotoma แล้ว Solar Isotoma จะรวบรวมพลังธาตุหินและทำให้เกิดเป็นแท่นคริสตัลที่ยกตัวละครให้สูงขึ้น โดยจะสามารถมีแท่นคริสตัลพร้อมกันได้เพียงแท่นเดียวเท่านั้น\n·ในช่วงเวลาเดียวกัน จะสามารถมี Solar Isotoma ที่ถูกสร้างขึ้นโดยตัวของ Albedo เองได้เพียงอันเดียวเท่านั้น และจะถูกมองว่าเป็นวัตถุธาตุหิน\n\n**กดค้าง**\nสามารถปรับตำแหน่งการเกิดเอฟเฟกต์ของสกิลได้",
+      "description": "ดอกไม้หินชนิดนี้มีคุณลักษณะพิเศษที่ไม่ธรรมดา ซึ่งสอดคล้องกับจุดประสงค์ของการเล่นแร่แปรธาตุ ถือกำเนิดขึ้นมาจากพื้นดิน แต่หวังเสมอว่าจะได้ขึ้นไปบนท้องฟ้า และกลายเป็นดวงตะวัน",
+      "attributes": [
+        {
+          "name": "ความเสียหายสกิล",
+          "parameters": [
+            "130.40%",
+            "140.18%",
+            "149.96%",
+            "163.00%",
+            "172.78%",
+            "182.56%",
+            "195.60%",
+            "208.64%",
+            "221.68%",
+            "234.72%",
+            "247.76%",
+            "260.80%",
+            "277.10%",
+            "293.40%",
+            "309.70%"
+          ]
+        },
+        {
+          "name": "ความเสียหาย Transient Blossom",
+          "parameters": [
+            "133.60% ของพลังป้องกัน",
+            "143.62% ของพลังป้องกัน",
+            "153.64% ของพลังป้องกัน",
+            "167.00% ของพลังป้องกัน",
+            "177.02% ของพลังป้องกัน",
+            "187.04% ของพลังป้องกัน",
+            "200.40% ของพลังป้องกัน",
+            "213.76% ของพลังป้องกัน",
+            "227.12% ของพลังป้องกัน",
+            "240.48% ของพลังป้องกัน",
+            "253.84% ของพลังป้องกัน",
+            "267.20% ของพลังป้องกัน",
+            "283.90% ของพลังป้องกัน",
+            "300.60% ของพลังป้องกัน",
+            "317.30% ของพลังป้องกัน"
+          ]
+        },
+        {
+          "name": "ระยะเวลาต่อเนื่อง",
+          "parameters": [
+            "30 วิ",
+            "30 วิ",
+            "30 วิ",
+            "30 วิ",
+            "30 วิ",
+            "30 วิ",
+            "30 วิ",
+            "30 วิ",
+            "30 วิ",
+            "30 วิ",
+            "30 วิ",
+            "30 วิ",
+            "30 วิ",
+            "30 วิ",
+            "30 วิ"
+          ]
+        },
+        {
+          "name": "คูลดาวน์สกิล",
+          "parameters": [
+            "4 วิ",
+            "4 วิ",
+            "4 วิ",
+            "4 วิ",
+            "4 วิ",
+            "4 วิ",
+            "4 วิ",
+            "4 วิ",
+            "4 วิ",
+            "4 วิ",
+            "4 วิ",
+            "4 วิ",
+            "4 วิ",
+            "4 วิ",
+            "4 วิ"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Rite of Progeniture: Tectonic Tide",
+      "info": "คริสตัลหินที่ปะทุขึ้นภายใต้คำสั่งของ Albedo จะทำให้เกิด ความเสียหายหินเป็นวงกว้าง ขึ้นที่ด้านหน้าของ Albedo\nหากมี Solar Isotoma ที่สร้างขึ้นโดยตัวของ Albedo อยู่ จะสร้าง Fatal Blossoms ขึ้น 7 ดอก ภายในพื้นที่ของ Solar Isotoma โดยจะเบ่งบานขึ้นมาอย่างรุนแรงและทำให้เกิดความเสียหายหินวงกว้าง\n\nความเสียหายท่าไม้ตายและความเสียหายของ Fatal Blossom จะไม่ทำให้เกิด Transient Blossoms",
+      "description": "ด้วยคำสั่งของ Kreideprinz คลื่นแห่งวัตถุของพื้นโลกจะปะทุขึ้นมา",
+      "attributes": [
+        {
+          "name": "ความเสียหายท่าไม้ตาย",
+          "parameters": [
+            "367.20%",
+            "394.74%",
+            "422.28%",
+            "459.00%",
+            "486.54%",
+            "514.08%",
+            "550.80%",
+            "587.52%",
+            "624.24%",
+            "660.96%",
+            "697.68%",
+            "734.40%",
+            "780.30%",
+            "826.20%",
+            "872.10%"
+          ]
+        },
+        {
+          "name": "ความเสียหาย Fatal Blossom",
+          "parameters": [
+            "72.00% ต่อดอก",
+            "77.40% ต่อดอก",
+            "82.80% ต่อดอก",
+            "90.00% ต่อดอก",
+            "95.40% ต่อดอก",
+            "100.80% ต่อดอก",
+            "108.00% ต่อดอก",
+            "115.20% ต่อดอก",
+            "122.40% ต่อดอก",
+            "129.60% ต่อดอก",
+            "136.80% ต่อดอก",
+            "144.00% ต่อดอก",
+            "153.00% ต่อดอก",
+            "162.00% ต่อดอก",
+            "171.00% ต่อดอก"
+          ]
+        },
+        {
+          "name": "คูลดาวน์",
+          "parameters": [
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ",
+            "12 วิ"
+          ]
+        },
+        {
+          "name": "พลังงานธาตุ",
+          "parameters": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "40"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Calcite Might",
+      "info": "Transient Blossom ที่เกิดจาก **Abiogenesis: Solar Isotoma** จะสร้างความเสียหายแก่ศัตรูที่มีพลังชีวิตต่ำกว่า 50% เพิ่มขึ้น 25%"
+    },
+    "passive2": {
+      "name": "Homuncular Nature",
+      "info": "เมื่อใช้ **Rite of Progeniture: Tectonic Tide** จะเพิ่มความชำนาญธาตุให้แก่ตัวละครในทีมที่อยู่ใกล้ขึ้น 125 หน่วย เป็นเวลา 10 วินาที"
+    },
+    "passive3": {
+      "name": "Flash of Genius",
+      "info": "เมื่อสร้างวัสดุเลื่อนขั้นอาวุธ จะมีโอกาส 10% ที่จะได้รับผลผลิตเพิ่มเป็น 2 เท่า"
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Teachings of Ballad",
+          "count": 3
+        },
+        {
+          "name": "Divining Scroll",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide to Ballad",
+          "count": 2
+        },
+        {
+          "name": "Seal Scroll",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide to Ballad",
+          "count": 4
+        },
+        {
+          "name": "Seal Scroll",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide to Ballad",
+          "count": 6
+        },
+        {
+          "name": "Seal Scroll",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide to Ballad",
+          "count": 9
+        },
+        {
+          "name": "Seal Scroll",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophies of Ballad",
+          "count": 4
+        },
+        {
+          "name": "Forbidden Curse Scroll",
+          "count": 4
+        },
+        {
+          "name": "Tusk of Monoceros Caeli",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophies of Ballad",
+          "count": 6
+        },
+        {
+          "name": "Forbidden Curse Scroll",
+          "count": 6
+        },
+        {
+          "name": "Tusk of Monoceros Caeli",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophies of Ballad",
+          "count": 12
+        },
+        {
+          "name": "Forbidden Curse Scroll",
+          "count": 9
+        },
+        {
+          "name": "Tusk of Monoceros Caeli",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophies of Ballad",
+          "count": 16
+        },
+        {
+          "name": "Forbidden Curse Scroll",
+          "count": 12
+        },
+        {
+          "name": "Tusk of Monoceros Caeli",
+          "count": 2
+        },
+        {
+          "name": "Crown of Insight",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_01",
+      "combat2": "Skill_S_Albedo_01",
+      "combat3": "Skill_E_Albedo_01_HD",
+      "passive1": "UI_Talent_S_Albedo_05",
+      "passive2": "UI_Talent_S_Albedo_06",
+      "passive3": "UI_Talent_Combine_Weapon_Double"
+    },
+    "version": "1.2"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Wheat",
+  "description": "พู่ที่ส่องประกายระยิบระยับ สามารถมอบความหวังให้แก่ผู้คนได้ ต้องนำไปแปรรูปก่อนจึงจะสามารถนำมาใช้ประโยชน์ได้",
+  "sortorder": 1983,
+  "category": "EXCHANGE",
+  "materialtype": "วัตถุดิบประกอบอาหาร",
+  "source": [
+    "พบได้ในโลกกว้าง",
+    "ซื้อจากร้านขายของชำ"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wheat.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Item_Wheat.png",
+    "nameicon": "UI_ItemIcon_100017"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Wheat"
+  },
+  "version": ""
+}

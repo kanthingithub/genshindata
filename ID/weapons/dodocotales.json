@@ -1,0 +1,311 @@
+{
+  "name": "Dodoco Tales",
+  "description": "Buku anak-anak yang penuh dengan cerita pendek anak-anak yang bisa membuat pembacanya tertawa.\nMereka yang sudah dewasa sekalipun akan terpukau dengan kepolosan, kesucian petualangan kecil yang tergambarkan di dalamnya.",
+  "weapontype": "Catalyst",
+  "rarity": "4",
+  "baseatk": 41,
+  "substat": "ATK",
+  "subvalue": "12",
+  "effectname": "Dodoventure!",
+  "effect": [
+    "Saat Normal Attack mengenai musuh, meningkatkan [16%] DMG Charged Attack selama 6 detik. Saat Charged Attack mengenai musuh, meningkatkan [8%] ATK selama 6 detik.",
+    "Saat Normal Attack mengenai musuh, meningkatkan [20%] DMG Charged Attack selama 6 detik. Saat Charged Attack mengenai musuh, meningkatkan [10%] ATK selama 6 detik.",
+    "Saat Normal Attack mengenai musuh, meningkatkan [24%] DMG Charged Attack selama 6 detik. Saat Charged Attack mengenai musuh, meningkatkan [12%] ATK selama 6 detik.",
+    "Saat Normal Attack mengenai musuh, meningkatkan [28%] DMG Charged Attack selama 6 detik. Saat Charged Attack mengenai musuh, meningkatkan [14%] ATK selama 6 detik.",
+    "Saat Normal Attack mengenai musuh, meningkatkan [32%] DMG Charged Attack selama 6 detik. Saat Charged Attack mengenai musuh, meningkatkan [16%] ATK selama 6 detik."
+  ],
+  "r1": [
+    "16%",
+    "8%"
+  ],
+  "r2": [
+    "20%",
+    "10%"
+  ],
+  "r3": [
+    "24%",
+    "12%"
+  ],
+  "r4": [
+    "28%",
+    "14%"
+  ],
+  "r5": [
+    "32%",
+    "16%"
+  ],
+  "weaponmaterialtype": "",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 5000
+      },
+      {
+        "name": "Boreal Wolf's Milk Tooth",
+        "count": 3
+      },
+      {
+        "name": "Dead Ley Line Branches",
+        "count": 3
+      },
+      {
+        "name": "Damaged Mask",
+        "count": 2
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 15000
+      },
+      {
+        "name": "Boreal Wolf's Cracked Tooth",
+        "count": 3
+      },
+      {
+        "name": "Dead Ley Line Branches",
+        "count": 12
+      },
+      {
+        "name": "Damaged Mask",
+        "count": 8
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Boreal Wolf's Cracked Tooth",
+        "count": 6
+      },
+      {
+        "name": "Dead Ley Line Leaves",
+        "count": 6
+      },
+      {
+        "name": "Stained Mask",
+        "count": 6
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Boreal Wolf's Broken Fang",
+        "count": 3
+      },
+      {
+        "name": "Dead Ley Line Leaves",
+        "count": 12
+      },
+      {
+        "name": "Stained Mask",
+        "count": 9
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 35000
+      },
+      {
+        "name": "Boreal Wolf's Broken Fang",
+        "count": 6
+      },
+      {
+        "name": "Ley Lines Sprouts",
+        "count": 9
+      },
+      {
+        "name": "Ominous Mask",
+        "count": 6
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Boreal Wolf's Nostalgia",
+        "count": 4
+      },
+      {
+        "name": "Ley Lines Sprouts",
+        "count": 18
+      },
+      {
+        "name": "Ominous Mask",
+        "count": 12
+      }
+    ]
+  },
+  "images": {
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Ludiharpastum.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Ludiharpastum_Awaken.png",
+    "nameicon": "UI_EquipIcon_Catalyst_Ludiharpastum",
+    "namegacha": "UI_Gacha_EquipIcon_Catalyst_Ludiharpastum",
+    "nameawakenicon": "UI_EquipIcon_Catalyst_Ludiharpastum_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Dodoco_Tales"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 41.067100524902344,
+      "specialized": 0.11999999731779099
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 53.63363305053463,
+      "specialized": 0.13943998978793637
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 69.07486476696522,
+      "specialized": 0.16356000057846298
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 84.26969215700228,
+      "specialized": 0.18780000266879782
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 99.25918424023803,
+      "specialized": 0.21203999045401822
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 125.1591838587683,
+      "specialized": 0.21203999045401822
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 139.98440965479494,
+      "specialized": 0.23627999254435306
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 154.68642349646507,
+      "specialized": 0.2605199946346879
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 169.22418084208584,
+      "specialized": 0.2847599824199083
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 183.6798001485222,
+      "specialized": 0.30899999881535756
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 209.67980205587082,
+      "specialized": 0.30899999881535756
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 224.05328332312274,
+      "specialized": 0.33323998660057796
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 238.34463634235,
+      "specialized": 0.3574800029960272
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 264.2446378682289,
+      "specialized": 0.3574800029960272
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 278.45386263943146,
+      "specialized": 0.38171999078124763
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 292.6220037043022,
+      "specialized": 0.40595997856646804
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 318.52199760078656,
+      "specialized": 0.40595997856646804
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 332.6080104176326,
+      "specialized": 0.4301999949619173
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 346.6529591104663,
+      "specialized": 0.4543199914473295
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 372.6529591104663,
+      "specialized": 0.4543199914473295
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 386.6568436792877,
+      "specialized": 0.4785599792325499
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 400.6607282481091,
+      "specialized": 0.5027999956279992
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 426.5607374033825,
+      "specialized": 0.5027999956279992
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 440.4824741418597,
+      "specialized": 0.5270400120234484
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 454.3631663386441,
+      "specialized": 0.55127997119844
+    }
+  },
+  "version": "1.6"
+}

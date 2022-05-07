@@ -1,0 +1,18 @@
+{
+  "name": "모험 경력",
+  "description": "모험 경력. 모험 등급을 올릴 때 필요하다",
+  "sortorder": 450,
+  "rarity": "3",
+  "category": "ITEM_VIRTUAL",
+  "materialtype": "시스템 개방",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_102",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Adventure_EXP.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Item_Adventure_EXP.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Adventure_EXP"
+  },
+  "version": ""
+}

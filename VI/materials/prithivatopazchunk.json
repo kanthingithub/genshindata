@@ -1,0 +1,23 @@
+{
+  "name": "Miếng Hoàng Ngọc Cứng",
+  "description": "Nguyên liệu đột phá nhân vật.\n\"Tất cả tiền bạc lưu thông trên đại lục này đều là máu thịt của tôi.\"\n\"Tôi dùng cách như vậy, là để đảm bảo cho tất cả mồ hôi, trí tuệ và tương lai của nhân loại.\"",
+  "sortorder": 1848,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+  "source": [
+    "Nham Nguyên Bản cấp 60 trở lên rơi",
+    "Vua Thú Hoàng Kim cấp 60 trở lên rơi",
+    "Mãng Xà Di Tích cấp 60 trở lên rơi",
+    "Ghép Nhận"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Prithiva_Topaz_Chunk.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/4/4b/Item_Prithiva_Topaz_Chunk.png",
+    "nameicon": "UI_ItemIcon_104173"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Prithiva_Topaz_Chunk"
+  },
+  "version": ""
+}

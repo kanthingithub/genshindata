@@ -1,0 +1,267 @@
+{
+  "name": "ดันเจี้ยนแห่งพร: น้ำแข็งแห่งความตาย",
+  "region": "Mondstadt",
+  "domainEntrance": "ยอดสูงสุดแห่ง Vindagnyr",
+  "domainType": "อาร์ติแฟกต์",
+  "description": "สถานที่แห่งนี้ครั้งหนึ่งเคยเป็นที่ประกอบพิธีกรรม ที่อยู่ใกล้กับผืนฟ้า แต่ถูกกรงเล็บแห่งความหนาวเย็นฝังไว้ใต้ภูเขา\nอากาศหนาวเหน็บที่ไหลเวียนอยู่ภายใน ได้สร้างสภาพแวดล้อมที่เป็นเอกลักษณ์นี้ หากต้องการผ่านการทดสอบ คุณต้องพิชิตความหนาวเย็นนี้ไปให้ได้...",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Cold_1"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "ดันเจี้ยนแห่งพร: น้ำแข็งแห่งความตาย I",
+      "recommendedLevel": 59,
+      "recommendedElements": [
+        "ไฟ",
+        "ไฟฟ้า",
+        "หิน",
+        "ลม"
+      ],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "3"
+        },
+        {
+          "name": "Gambler",
+          "rarity": "3"
+        },
+        {
+          "name": "Blizzard Strayer",
+          "rarity": "4"
+        },
+        {
+          "name": "Heart of Depth",
+          "rarity": "4"
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "4"
+        },
+        {
+          "name": "Gambler",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "ตัวละครที่อยู่ในพื้นที่การท้าทายจะสะสมความหนาวอย่างต่อเนื่อง เมื่อความหนาวถึงขีดจำกัดแล้วจะสูญเสียพลังชีวิต",
+        "พื้นที่ท้าทายจะสลับระหว่างสภาวะ \"อบอุ่น\" และ \"เย็นยะเยือก\" เป็นระยะ",
+        "พื้นที่ที่อยู่ในสภาวะอบอุ่นจะสามารถลดการสะสมความหนาวได้ ในขณะที่พื้นดินที่เย็นยะเยือกจะเร่งการสะสมของความหนาว"
+      ],
+      "monsterlist": [
+        "Cryo Slime",
+        "Large Cryo Slime",
+        "Ice Shieldwall Mitachurl"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งพร: น้ำแข็งแห่งความตาย II",
+      "recommendedLevel": 69,
+      "recommendedElements": [
+        "ไฟ",
+        "ไฟฟ้า",
+        "หิน",
+        "ลม"
+      ],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "3"
+        },
+        {
+          "name": "Gambler",
+          "rarity": "3"
+        },
+        {
+          "name": "Blizzard Strayer",
+          "rarity": "4"
+        },
+        {
+          "name": "Heart of Depth",
+          "rarity": "4"
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "4"
+        },
+        {
+          "name": "Gambler",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "ตัวละครที่อยู่ในพื้นที่การท้าทายจะสะสมความหนาวอย่างต่อเนื่อง เมื่อความหนาวถึงขีดจำกัดแล้วจะสูญเสียพลังชีวิต",
+        "พื้นที่ท้าทายจะสลับระหว่างสภาวะ \"อบอุ่น\" และ \"เย็นยะเยือก\" เป็นระยะ",
+        "พื้นที่ที่อยู่ในสภาวะอบอุ่นจะสามารถลดการสะสมความหนาวได้ ในขณะที่พื้นดินที่เย็นยะเยือกจะเร่งการสะสมของความหนาว"
+      ],
+      "monsterlist": [
+        "Cryo Slime",
+        "Large Cryo Slime",
+        "Cryo Hilichurl Grenadier",
+        "Ice Shieldwall Mitachurl"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งพร: น้ำแข็งแห่งความตาย III",
+      "recommendedLevel": 80,
+      "recommendedElements": [
+        "ไฟ",
+        "ไฟฟ้า",
+        "หิน",
+        "ลม"
+      ],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "3"
+        },
+        {
+          "name": "Gambler",
+          "rarity": "3"
+        },
+        {
+          "name": "Blizzard Strayer",
+          "rarity": "4"
+        },
+        {
+          "name": "Heart of Depth",
+          "rarity": "4"
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "4"
+        },
+        {
+          "name": "Gambler",
+          "rarity": "4"
+        },
+        {
+          "name": "Blizzard Strayer",
+          "rarity": "5"
+        },
+        {
+          "name": "Heart of Depth",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "ตัวละครที่อยู่ในพื้นที่การท้าทายจะสะสมความหนาวอย่างต่อเนื่อง เมื่อความหนาวถึงขีดจำกัดแล้วจะสูญเสียพลังชีวิต",
+        "พื้นที่ท้าทายจะสลับระหว่างสภาวะ \"อบอุ่น\" และ \"เย็นยะเยือก\" เป็นระยะ",
+        "พื้นที่ที่อยู่ในสภาวะอบอุ่นจะสามารถลดการสะสมความหนาวได้ ในขณะที่พื้นดินที่เย็นยะเยือกจะเร่งการสะสมของความหนาว"
+      ],
+      "monsterlist": [
+        "Large Cryo Slime",
+        "Cryo Hilichurl Grenadier",
+        "Ice Shieldwall Mitachurl",
+        "Cryo Abyss Mage"
+      ]
+    },
+    {
+      "name": "ดันเจี้ยนแห่งพร: น้ำแข็งแห่งความตาย IV",
+      "recommendedLevel": 90,
+      "recommendedElements": [
+        "ไฟ",
+        "ไฟฟ้า",
+        "หิน",
+        "ลม"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "3"
+        },
+        {
+          "name": "Gambler",
+          "rarity": "3"
+        },
+        {
+          "name": "Blizzard Strayer",
+          "rarity": "4"
+        },
+        {
+          "name": "Heart of Depth",
+          "rarity": "4"
+        },
+        {
+          "name": "Defender's Will",
+          "rarity": "4"
+        },
+        {
+          "name": "Gambler",
+          "rarity": "4"
+        },
+        {
+          "name": "Blizzard Strayer",
+          "rarity": "5"
+        },
+        {
+          "name": "Heart of Depth",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "ตัวละครที่อยู่ในพื้นที่การท้าทายจะสะสมความหนาวอย่างต่อเนื่อง เมื่อความหนาวถึงขีดจำกัดแล้วจะสูญเสียพลังชีวิต",
+        "พื้นที่ท้าทายจะสลับระหว่างสภาวะ \"อบอุ่น\" และ \"เย็นยะเยือก\" เป็นระยะ",
+        "พื้นที่ที่อยู่ในสภาวะอบอุ่นจะสามารถลดการสะสมความหนาวได้ ในขณะที่พื้นดินที่เย็นยะเยือกจะเร่งการสะสมของความหนาว"
+      ],
+      "monsterlist": [
+        "Frostarm Lawachurl",
+        "Cryo Abyss Mage"
+      ]
+    }
+  ]
+}

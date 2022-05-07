@@ -1,0 +1,16 @@
+{
+  "name": "Polvo Elemental",
+  "description": "Fragmentos de óculus rotos. Muestra cofres escondidos cerca.",
+  "sortorder": 1580,
+  "category": "CONSUME",
+  "materialtype": "Objeto de aventura",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_107002",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Elemental_Dust.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Elemental_Dust"
+  },
+  "version": ""
+}

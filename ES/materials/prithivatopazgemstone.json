@@ -1,0 +1,23 @@
+{
+  "name": "Topacio prithiva",
+  "description": "Material de ascensión de personaje.\n“La moneda que circula por este mundo es mi sangre y mi cuerpo”.\n“Protejo el trabajo duro, la sabiduría y el futuro de la gente”.\n“Esta es la confianza que deposito en ella. Si la defraudas, mancharás mi sangre”.",
+  "sortorder": 1849,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material de mejora de personaje",
+  "source": [
+    "Obtenido de Hipostasis Geo (Niv. 75+)",
+    "Obtenido del Rey Acechador Dorado (Niv. 75+)",
+    "Obtenido de Serpientes de las Ruinas (Niv. 75+)",
+    "Sintetizar"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Prithiva_Topaz_Gemstone.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Item_Prithiva_Topaz_Gemstone.png",
+    "nameicon": "UI_ItemIcon_104174"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Prithiva_Topaz_Gemstone"
+  },
+  "version": ""
+}

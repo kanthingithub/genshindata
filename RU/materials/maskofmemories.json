@@ -1,0 +1,18 @@
+{
+  "name": "Маска воспоминаний",
+  "description": "Эту маску носила жрица храма Кадзари. Её внутренняя часть покрыта тёмными пятнами.\nОна хранит воспоминания, которые помогут узнать способ создания катализатора «Кольцо Хакусин».\nТеперь, когда Кадзари осталась без маски, Паймон перестанет называть её «жрицей в маске», ведь так?",
+  "sortorder": 2608,
+  "rarity": "4",
+  "category": "CONSUME",
+  "materialtype": "Кузнечный чертёж",
+  "source": [],
+  "images": {
+    "nameicon": "UI_ItemIcon_100865",
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mask_of_Memories.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Item_Mask_of_Memories.png"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mask_of_Memories"
+  },
+  "version": ""
+}

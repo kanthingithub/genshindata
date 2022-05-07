@@ -1,0 +1,22 @@
+{
+  "name": "Varunada Lazurite Gemstone",
+  "description": "วัสดุเลื่อนขั้นตัวละคร\n\"ไม่มีความสกปรกแม้แต่น้อยในอุดมคติของฉัน\"\n\"ฉันต้องการที่จะแก้ไขสิ่งที่เธอคิด ที่นี่มนุษย์ไม่ได้ทำบาปต่อพระเจ้า สิ่งที่สามารถตัดสินผิดถูกได้นั้น มีเพียงกฎข้อบังคับและศาลเท่านั้น\"\n\"พวกเขาถึงกระทั่งตัดสินฉันได้ ยกย่องความสง่างามและความบริสุทธิ์ของฉัน\"",
+  "sortorder": 1829,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "วัสดุฝึกฝนตัวละคร",
+  "source": [
+    "ดรอปจาก Oceanid Lv.75 ขึ้นไป",
+    "ดรอปจาก Hydro Hypostases Lv.75 ขึ้นไป",
+    "ได้รับจากการสรรสร้าง"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Varunada_Lazurite_Gemstone.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a4/Item_Varunada_Lazurite_Gemstone.png",
+    "nameicon": "UI_ItemIcon_104124"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Varunada_Lazurite_Gemstone"
+  },
+  "version": ""
+}

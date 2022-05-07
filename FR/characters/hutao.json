@@ -1,0 +1,954 @@
+{
+  "name": "Hu Tao",
+  "fullname": "Hu Tao",
+  "title": "Fragrance nivale",
+  "description": "La 77e directrice du Funérarium Wangsheng, qui redonne un coup de jeune à la gestion des affaires funéraires de Liyue.",
+  "rarity": "5",
+  "element": "Pyro",
+  "weapontype": "Arme d'hast",
+  "substat": "DGT CRIT",
+  "gender": "Femme",
+  "body": "GIRL",
+  "association": "LIYUE",
+  "region": "Liyue",
+  "affiliation": "Funérarium Wangsheng",
+  "birthdaymmdd": "7/15",
+  "birthday": "15 juillet",
+  "constellation": "Papilio Charontis",
+  "cv": {
+    "english": "Brianna Knickerbocker",
+    "chinese": "陶典",
+    "japanese": "高橋李依",
+    "korean": "Kim Ha-ru"
+  },
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Éclat d'agate agnidus",
+        "count": 1
+      },
+      {
+        "name": "Fleur de soie",
+        "count": 3
+      },
+      {
+        "name": "Nectar de Fleur mensongère",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 40000
+      },
+      {
+        "name": "Fragment d'agate agnidus",
+        "count": 3
+      },
+      {
+        "name": "Jade juvénile",
+        "count": 2
+      },
+      {
+        "name": "Fleur de soie",
+        "count": 10
+      },
+      {
+        "name": "Nectar de Fleur mensongère",
+        "count": 15
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 60000
+      },
+      {
+        "name": "Fragment d'agate agnidus",
+        "count": 6
+      },
+      {
+        "name": "Jade juvénile",
+        "count": 4
+      },
+      {
+        "name": "Fleur de soie",
+        "count": 20
+      },
+      {
+        "name": "Nectar miroitant",
+        "count": 12
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 80000
+      },
+      {
+        "name": "Morceau d'agate agnidus",
+        "count": 3
+      },
+      {
+        "name": "Jade juvénile",
+        "count": 8
+      },
+      {
+        "name": "Fleur de soie",
+        "count": 30
+      },
+      {
+        "name": "Nectar miroitant",
+        "count": 18
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 100000
+      },
+      {
+        "name": "Morceau d'agate agnidus",
+        "count": 6
+      },
+      {
+        "name": "Jade juvénile",
+        "count": 12
+      },
+      {
+        "name": "Fleur de soie",
+        "count": 45
+      },
+      {
+        "name": "Nectar élémentaire",
+        "count": 12
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 120000
+      },
+      {
+        "name": "Pierre d'agate agnidus",
+        "count": 6
+      },
+      {
+        "name": "Jade juvénile",
+        "count": 20
+      },
+      {
+        "name": "Fleur de soie",
+        "count": 60
+      },
+      {
+        "name": "Nectar élémentaire",
+        "count": 24
+      }
+    ]
+  },
+  "images": {
+    "card": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Character_Hu_Tao_Card.jpg",
+    "portrait": "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Character_Hu_Tao_Portrait.png",
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png",
+    "sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Hutao.png",
+    "cover1": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210224/2021022411345864283.png",
+    "cover2": "https://uploadstatic-sea.hoyoverse.com/contentweb/20210224/2021022411361082980.png",
+    "hoyolab-avatar": "https://img-os-static.hoyolab.com/communityWeb/upload/e160b5fac097d628f5b2227fd507373b.png",
+    "nameicon": "UI_AvatarIcon_Hutao",
+    "nameiconcard": "UI_AvatarIcon_Hutao_Card",
+    "namegachasplash": "UI_Gacha_AvatarImg_Hutao",
+    "namegachaslice": "UI_Gacha_AvatarIcon_Hutao",
+    "namesideicon": "UI_AvatarIcon_Side_Hutao"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Hu_Tao"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "hp": 1210.7164306640625,
+      "attack": 8.285900115966797,
+      "defense": 68.2061996459961,
+      "specialized": 0.5
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "hp": 3140.5985435332695,
+      "attack": 21.493625738435185,
+      "defense": 176.92688877664295,
+      "specialized": 0.5
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "hp": 4178.678377517645,
+      "attack": 28.59751663427869,
+      "defense": 235.40888722024647,
+      "specialized": 0.5
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "hp": 6252.635694832192,
+      "attack": 42.79126402285692,
+      "defense": 352.24611124672083,
+      "specialized": 0.5
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "hp": 6990.218702644692,
+      "attack": 47.83876606371996,
+      "defense": 393.7991164652267,
+      "specialized": 0.596000000834465
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "hp": 8042.331230088079,
+      "attack": 55.0392129168049,
+      "defense": 453.07030109555126,
+      "specialized": 0.596000000834465
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "hp": 9025.775321884954,
+      "attack": 61.769213412715544,
+      "defense": 508.47429279477,
+      "specialized": 0.69200000166893
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "hp": 10088.784084752551,
+      "attack": 69.04423191286696,
+      "defense": 568.3593212533524,
+      "specialized": 0.69200000166893
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "hp": 10826.367092565051,
+      "attack": 74.09173443056716,
+      "defense": 609.9123302865555,
+      "specialized": 0.69200000166893
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "hp": 11899.062039492594,
+      "attack": 81.43304322924996,
+      "defense": 670.3430338405342,
+      "specialized": 0.69200000166893
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "hp": 12636.645047305094,
+      "attack": 86.48054574695016,
+      "defense": 711.8960276149483,
+      "specialized": 0.7879999876022339
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "hp": 13721.446858335694,
+      "attack": 93.9047114922596,
+      "defense": 773.0087762532967,
+      "specialized": 0.7879999876022339
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "hp": 14459.029866148194,
+      "attack": 98.95221210261116,
+      "defense": 814.5617700277107,
+      "specialized": 0.8840000033378601
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "hp": 15552.307232559891,
+      "attack": 106.43438284689182,
+      "defense": 876.1519925053435,
+      "specialized": 0.8840000033378601
+    }
+  },
+  "version": "1.3",
+  "constellations": {
+    "c1": {
+      "name": "Bouquet écarlate",
+      "effect": "Les attaques chargées de Hu Tao ne consomment pas d'endurance tant qu'elle se trouve dans l'état **Paramita Papilio** conféré par **Chaperon de la renaissance**."
+    },
+    "c2": {
+      "name": "Sombres auspices",
+      "effect": "**Bourgeon de prune** inflige un bonus de DGT équivalant à 10 % des PV max de Hu Tao lorsqu'elle bénéficie de l'effet.\n**Apaisement divin** applique de plus l'effet **Bourgeon de prune** lorsqu'il touche."
+    },
+    "c3": {
+      "name": "Rituel du sang",
+      "effect": "Niveau d'aptitude **Chaperon de la renaissance** +3.\nNiveau max : 15"
+    },
+    "c4": {
+      "name": "Jardin du repos éternel",
+      "effect": "Lorsqu'un ennemi affecté par **Bourgeon de prune** est vaincu, le taux CRT de tous les personnages de l'équipe proches (à l'exception de Hu Tao) augmente de 12 % pendant 15 s."
+    },
+    "c5": {
+      "name": "Encens floral",
+      "effect": "Niveau d'aptitude **Apaisement divin** +3.\nNiveau max : 15"
+    },
+    "c6": {
+      "name": "L'envol du papillon",
+      "effect": "Lorsque les PV de Hu Tao passent sous le seuil des 25 % ou lorsqu'elle subit assez de DGT pour être vaincue :\nHu Tao n'est pas vaincue cette fois-ci. Pendant les 10 s qui suivent, ses RÉS élémentaires et physique augmentent de 200 %, son taux CRIT augmente de 100 %, et sa RÉS à l'interruption augmente considérablement.\nCet effet se déclenche automatiquement lorsqu'il ne reste qu'1 PV à Hu Tao.\nCet effet peut être déclenché une fois toutes les 60 s."
+    },
+    "images": {
+      "c1": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Hutao_03.png",
+      "c2": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Hutao_01.png",
+      "c3": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Hutao_01.png",
+      "c4": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Hutao_02.png",
+      "c5": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_U_Hutao_02.png",
+      "c6": "https://upload-os-bbs.mihoyo.com/game_record/genshin/constellation_icon/UI_Talent_S_Hutao_04.png",
+      "constellation": "Eff_UI_Talent_Hutao"
+    },
+    "version": "1.3"
+  },
+  "talent": {
+    "name": "Hu Tao",
+    "combat1": {
+      "name": "Attaque normale : Lance secrète de Wangsheng",
+      "info": "**Attaque normale**\nEnchaîne jusqu'à 6 coups de lance.\n\n**Attaque chargée**\nConsomme de l'endurance pour charger en ligne droite et infliger des DGT aux ennemis sur la route.\n\n**Attaque plongeante**\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "attributes": [
+        {
+          "name": "DGT 1er coup",
+          "parameters": [
+            "46.89%",
+            "50.08%",
+            "53.28%",
+            "57.54%",
+            "60.74%",
+            "64.47%",
+            "69.26%",
+            "74.06%",
+            "78.85%",
+            "83.65%",
+            "88.44%",
+            "93.24%",
+            "98.04%",
+            "102.83%",
+            "107.63%"
+          ]
+        },
+        {
+          "name": "DGT 2e coup",
+          "parameters": [
+            "48.25%",
+            "51.54%",
+            "54.83%",
+            "59.22%",
+            "62.51%",
+            "66.35%",
+            "71.28%",
+            "76.22%",
+            "81.15%",
+            "86.09%",
+            "91.02%",
+            "95.96%",
+            "100.89%",
+            "105.83%",
+            "110.76%"
+          ]
+        },
+        {
+          "name": "DGT 3e coup",
+          "parameters": [
+            "61.05%",
+            "65.21%",
+            "69.38%",
+            "74.92%",
+            "79.09%",
+            "83.94%",
+            "90.19%",
+            "96.43%",
+            "102.67%",
+            "108.92%",
+            "115.16%",
+            "121.41%",
+            "127.65%",
+            "133.89%",
+            "140.14%"
+          ]
+        },
+        {
+          "name": "DGT 4e coup",
+          "parameters": [
+            "65.64%",
+            "70.12%",
+            "74.59%",
+            "80.56%",
+            "85.03%",
+            "90.26%",
+            "96.97%",
+            "103.68%",
+            "110.40%",
+            "117.11%",
+            "123.82%",
+            "130.54%",
+            "137.25%",
+            "143.96%",
+            "150.68%"
+          ]
+        },
+        {
+          "name": "DGT 5e coup",
+          "parameters": [
+            "33.27%+35.20%",
+            "35.54%+37.60%",
+            "37.81%+40.00%",
+            "40.84%+43.20%",
+            "43.10%+45.60%",
+            "45.75%+48.40%",
+            "49.15%+52.00%",
+            "52.56%+55.60%",
+            "55.96%+59.20%",
+            "59.36%+62.80%",
+            "62.77%+66.40%",
+            "66.17%+70.00%",
+            "69.57%+73.60%",
+            "72.98%+77.20%",
+            "76.38%+80.80%"
+          ]
+        },
+        {
+          "name": "DGT 6e coup",
+          "parameters": [
+            "85.96%",
+            "91.82%",
+            "97.68%",
+            "105.49%",
+            "111.36%",
+            "118.19%",
+            "126.98%",
+            "135.78%",
+            "144.57%",
+            "153.36%",
+            "162.15%",
+            "170.94%",
+            "179.73%",
+            "188.52%",
+            "197.31%"
+          ]
+        },
+        {
+          "name": "DGT attaque chargée",
+          "parameters": [
+            "135.96%",
+            "145.23%",
+            "154.50%",
+            "166.86%",
+            "176.13%",
+            "186.94%",
+            "200.85%",
+            "214.76%",
+            "228.66%",
+            "242.56%",
+            "256.47%",
+            "270.37%",
+            "284.28%",
+            "298.18%",
+            "312.09%"
+          ]
+        },
+        {
+          "name": "Coût d'endurance attaque chargée",
+          "parameters": [
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts",
+            "25 pts"
+          ]
+        },
+        {
+          "name": "DGT durant la chute",
+          "parameters": [
+            "65.42%",
+            "69.88%",
+            "74.34%",
+            "80.29%",
+            "84.75%",
+            "89.95%",
+            "96.64%",
+            "103.33%",
+            "110.02%",
+            "116.71%",
+            "123.40%",
+            "130.10%",
+            "136.79%",
+            "143.48%",
+            "150.17%"
+          ]
+        },
+        {
+          "name": "DGT chute basse/élevée",
+          "parameters": [
+            "130.81%/163.39%",
+            "139.73%/174.53%",
+            "148.65%/185.67%",
+            "160.54%/200.52%",
+            "169.46%/211.66%",
+            "179.86%/224.66%",
+            "193.24%/241.37%",
+            "206.62%/258.08%",
+            "220.00%/274.79%",
+            "233.38%/291.50%",
+            "246.76%/308.21%",
+            "260.13%/324.92%",
+            "273.51%/341.63%",
+            "286.89%/358.34%",
+            "300.27%/375.05%"
+          ]
+        }
+      ]
+    },
+    "combat2": {
+      "name": "Chaperon de la renaissance",
+      "info": "Seule la flamme éternelle peut purifier le mal de ce monde.\nHu Tao consomme un certain montant de PV pour repousser les ennemis proches, et entre dans l'état Paramita Papilio.\n\n**Paramita Papilio**\n· L'ATQ de Hu Tao augmente proportionnellement à ses PV max au moment où elle entre dans cet état. Le bonus ainsi conféré ne peut pas dépasser 400 % de son ATQ de base.\n· Les DGT d'attaque sont convertis en DGT Pyro, et ne peuvent pas être enchantés.\n· Les attaques chargées infligent l'effet Bourgeon de prune.\n· Augmente la RÉS à l'interruption de Hu Tao.\n\n**Bourgeon de prune**\nLes ennemis affectés par Bourgeon de prune subissent des DGT Pyro toutes les 4 s, qui sont considérés comme étant des DGT de compétence élémentaire.\nLa même cible ne peut être affectée que par un seul Bourgeon de prune à la fois, et la durée de cet effet ne peut être rafraîchie que par Hu Tao.\n\nL'état **Paramita Papilio** se termine à la fin de sa durée, lorsque Hu Tao quitte le champ de bataille ou lorsqu'elle est vaincue.",
+      "description": "La technique de la lance secrète est basée sur plusieurs principes, dont le premier est : « la lance ouvre les portes de l'au-delà et les papillons forment un pont entre les deux mondes. »",
+      "attributes": [
+        {
+          "name": "PV consommés",
+          "parameters": [
+            "30.00% PV actuels",
+            "30.00% PV actuels",
+            "30.00% PV actuels",
+            "30.00% PV actuels",
+            "30.00% PV actuels",
+            "30.00% PV actuels",
+            "30.00% PV actuels",
+            "30.00% PV actuels",
+            "30.00% PV actuels",
+            "30.00% PV actuels",
+            "30.00% PV actuels",
+            "30.00% PV actuels",
+            "30.00% PV actuels",
+            "30.00% PV actuels",
+            "30.00% PV actuels"
+          ]
+        },
+        {
+          "name": "Bonus ATQ",
+          "parameters": [
+            "3.84% PV max",
+            "4.07% PV max",
+            "4.30% PV max",
+            "4.60% PV max",
+            "4.83% PV max",
+            "5.06% PV max",
+            "5.36% PV max",
+            "5.66% PV max",
+            "5.96% PV max",
+            "6.26% PV max",
+            "6.55% PV max",
+            "6.85% PV max",
+            "7.15% PV max",
+            "7.45% PV max",
+            "7.75% PV max"
+          ]
+        },
+        {
+          "name": "DGT Bourgeon de prune",
+          "parameters": [
+            "64.00%",
+            "68.80%",
+            "73.60%",
+            "80.00%",
+            "84.80%",
+            "89.60%",
+            "96.00%",
+            "102.40%",
+            "108.80%",
+            "115.20%",
+            "121.60%",
+            "128.00%",
+            "136.00%",
+            "144.00%",
+            "152.00%"
+          ]
+        },
+        {
+          "name": "Durée Bourgeon de prune",
+          "parameters": [
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s",
+            "8 s"
+          ]
+        },
+        {
+          "name": "Durée",
+          "parameters": [
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s",
+            "9 s"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s",
+            "16 s"
+          ]
+        }
+      ]
+    },
+    "combat3": {
+      "name": "Apaisement divin",
+      "info": "Faisant appel aux âmes ardentes, Hu Tao inflige des DGT Pyro dans une large zone.\nHu Tao récupère à chaque ennemi touché (5 ennemis max) une quantité de PV proportionnelle à ses PV max.\nLes DGT infligés et les PV récupérés sont plus importants si les PV de Hu Tao sont inférieurs ou égaux à 50 % lorsque la compétence touche.",
+      "description": "Le Funérarium Wangsheng ne voit pas d'un bon œil les âmes refusant de quitter ce monde. La crémation est pour Hu Tao le meilleur moyen d'avoir l'esprit tranquille – mais plus elle est anxieuse et plus son feu est puissant.",
+      "attributes": [
+        {
+          "name": "DGT compétence",
+          "parameters": [
+            "303.27%",
+            "321.43%",
+            "339.59%",
+            "363.20%",
+            "381.36%",
+            "399.52%",
+            "423.13%",
+            "446.74%",
+            "470.34%",
+            "493.95%",
+            "517.56%",
+            "541.17%",
+            "564.78%",
+            "588.38%",
+            "611.99%"
+          ]
+        },
+        {
+          "name": "DGT si PV faibles",
+          "parameters": [
+            "379.09%",
+            "401.79%",
+            "424.49%",
+            "454.00%",
+            "476.70%",
+            "499.40%",
+            "528.91%",
+            "558.42%",
+            "587.93%",
+            "617.44%",
+            "646.95%",
+            "676.46%",
+            "705.97%",
+            "735.48%",
+            "764.99%"
+          ]
+        },
+        {
+          "name": "PV récupérés",
+          "parameters": [
+            "6.26% PV max",
+            "6.64% PV max",
+            "7.01% PV max",
+            "7.50% PV max",
+            "7.87% PV max",
+            "8.25% PV max",
+            "8.74% PV max",
+            "9.22% PV max",
+            "9.71% PV max",
+            "10.20% PV max",
+            "10.69% PV max",
+            "11.17% PV max",
+            "11.66% PV max",
+            "12.15% PV max",
+            "12.64% PV max"
+          ]
+        },
+        {
+          "name": "PV récupérés si PV faibles",
+          "parameters": [
+            "8.35% PV max",
+            "8.85% PV max",
+            "9.35% PV max",
+            "10.00% PV max",
+            "10.50% PV max",
+            "11.00% PV max",
+            "11.65% PV max",
+            "12.30% PV max",
+            "12.95% PV max",
+            "13.60% PV max",
+            "14.25% PV max",
+            "14.90% PV max",
+            "15.55% PV max",
+            "16.20% PV max",
+            "16.85% PV max"
+          ]
+        },
+        {
+          "name": "Temps de recharge",
+          "parameters": [
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s",
+            "15 s"
+          ]
+        },
+        {
+          "name": "Énergie élémentaire",
+          "parameters": [
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60",
+            "60"
+          ]
+        }
+      ]
+    },
+    "passive1": {
+      "name": "Chrysalide",
+      "info": "Le taux CRIT de tous les personnages de l'équipe (à l'exception de Hu Tao) augmente de 12 % pendant 8 s lorsque l'état **Paramita Papilio** conféré par **Chaperon de la renaissance** prend fin."
+    },
+    "passive2": {
+      "name": "Sang bouillant",
+      "info": "Hu Tao obtient un bonus de DGT Pyro de 33 % lorsque ses PV sont inférieurs ou égaux à 50 %."
+    },
+    "passive3": {
+      "name": "Plus il y en a, mieux c'est",
+      "info": "18 % de chances d'obtenir un plat suspect supplémentaire du même type lorsque vous cuisinez un plat parfait."
+    },
+    "costs": {
+      "lvl2": [
+        {
+          "name": "Mora",
+          "count": 12500
+        },
+        {
+          "name": "Enseignement de la Diligence",
+          "count": 3
+        },
+        {
+          "name": "Nectar de Fleur mensongère",
+          "count": 6
+        }
+      ],
+      "lvl3": [
+        {
+          "name": "Mora",
+          "count": 17500
+        },
+        {
+          "name": "Guide de la Diligence",
+          "count": 2
+        },
+        {
+          "name": "Nectar miroitant",
+          "count": 3
+        }
+      ],
+      "lvl4": [
+        {
+          "name": "Mora",
+          "count": 25000
+        },
+        {
+          "name": "Guide de la Diligence",
+          "count": 4
+        },
+        {
+          "name": "Nectar miroitant",
+          "count": 4
+        }
+      ],
+      "lvl5": [
+        {
+          "name": "Mora",
+          "count": 30000
+        },
+        {
+          "name": "Guide de la Diligence",
+          "count": 6
+        },
+        {
+          "name": "Nectar miroitant",
+          "count": 6
+        }
+      ],
+      "lvl6": [
+        {
+          "name": "Mora",
+          "count": 37500
+        },
+        {
+          "name": "Guide de la Diligence",
+          "count": 9
+        },
+        {
+          "name": "Nectar miroitant",
+          "count": 9
+        }
+      ],
+      "lvl7": [
+        {
+          "name": "Mora",
+          "count": 120000
+        },
+        {
+          "name": "Philosophie de la Diligence",
+          "count": 4
+        },
+        {
+          "name": "Nectar élémentaire",
+          "count": 4
+        },
+        {
+          "name": "Fragment du démon",
+          "count": 1
+        }
+      ],
+      "lvl8": [
+        {
+          "name": "Mora",
+          "count": 260000
+        },
+        {
+          "name": "Philosophie de la Diligence",
+          "count": 6
+        },
+        {
+          "name": "Nectar élémentaire",
+          "count": 6
+        },
+        {
+          "name": "Fragment du démon",
+          "count": 1
+        }
+      ],
+      "lvl9": [
+        {
+          "name": "Mora",
+          "count": 450000
+        },
+        {
+          "name": "Philosophie de la Diligence",
+          "count": 12
+        },
+        {
+          "name": "Nectar élémentaire",
+          "count": 9
+        },
+        {
+          "name": "Fragment du démon",
+          "count": 2
+        }
+      ],
+      "lvl10": [
+        {
+          "name": "Mora",
+          "count": 700000
+        },
+        {
+          "name": "Philosophie de la Diligence",
+          "count": 16
+        },
+        {
+          "name": "Nectar élémentaire",
+          "count": 12
+        },
+        {
+          "name": "Fragment du démon",
+          "count": 2
+        },
+        {
+          "name": "Couronne de la sagesse",
+          "count": 1
+        }
+      ]
+    },
+    "images": {
+      "combat1": "Skill_A_03",
+      "combat2": "Skill_S_Hutao_01",
+      "combat3": "Skill_E_Hutao_01_HD",
+      "passive1": "UI_Talent_S_Hutao_05",
+      "passive2": "UI_Talent_S_Hutao_06",
+      "passive3": "UI_Talent_Cook_ExtraFailedItem"
+    },
+    "version": "1.3"
+  }
+}

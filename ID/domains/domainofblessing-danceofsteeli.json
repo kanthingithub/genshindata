@@ -1,0 +1,278 @@
+{
+  "name": "Domain of Blessing: Tarian Baja",
+  "region": "Mondstadt",
+  "domainEntrance": "Valley of Remembrance",
+  "domainType": "Artefak",
+  "description": "Di altar kuno yang suci ini, para monster yang takut akan kekuatan murni berkumpul.\nKalau bisa melewati ujian ini, mungkin kamu bisa mendapatkan artefak yang berharga.",
+  "daysOfWeek": null,
+  "images": {
+    "namepic": "UI_DungeonPic_Cubic_Normal_3"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Domain of Blessing: Tarian Baja I",
+      "recommendedLevel": 47,
+      "recommendedElements": [],
+      "unlockRank": 25,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1700
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Traveling Doctor",
+          "rarity": "2"
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "3"
+        },
+        {
+          "name": "Traveling Doctor",
+          "rarity": "3"
+        }
+      ],
+      "disorder": [
+        "Meningkatkan 75% Physical DMG seluruh anggota party."
+      ],
+      "monsterlist": [
+        "Treasure Hoarder: Cryo Potioneer",
+        "Treasure Hoarder: Handyman",
+        "Treasure Hoarder: Gravedigger",
+        "Treasure Hoarder - Seaman",
+        "Treasure Hoarder - Pugilist"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Tarian Baja II",
+      "recommendedLevel": 59,
+      "recommendedElements": [],
+      "unlockRank": 30,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1850
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 15
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "3"
+        },
+        {
+          "name": "Traveling Doctor",
+          "rarity": "3"
+        },
+        {
+          "name": "Viridescent Venerer",
+          "rarity": "4"
+        },
+        {
+          "name": "Maiden Beloved",
+          "rarity": "4"
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Meningkatkan 75% Physical DMG seluruh anggota party."
+      ],
+      "monsterlist": [
+        "Fatui - Pyro Agent",
+        "Treasure Hoarder - Scout",
+        "Treasure Hoarder: Pyro Potioneer",
+        "Treasure Hoarder: Hydro Potioneer",
+        "Treasure Hoarder: Handyman",
+        "Treasure Hoarder - Pugilist",
+        "Treasure Hoarder - Crusher"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Tarian Baja III",
+      "recommendedLevel": 69,
+      "recommendedElements": [],
+      "unlockRank": 35,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2025
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "3"
+        },
+        {
+          "name": "Traveling Doctor",
+          "rarity": "3"
+        },
+        {
+          "name": "Viridescent Venerer",
+          "rarity": "4"
+        },
+        {
+          "name": "Maiden Beloved",
+          "rarity": "4"
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "4"
+        }
+      ],
+      "disorder": [
+        "Meningkatkan 75% Physical DMG seluruh anggota party."
+      ],
+      "monsterlist": [
+        "Fatui - Pyro Agent",
+        "Fatui - Electro Cicin Mage",
+        "Treasure Hoarder - Scout",
+        "Treasure Hoarder: Pyro Potioneer",
+        "Treasure Hoarder: Electro Potioneer",
+        "Treasure Hoarder: Handyman",
+        "Treasure Hoarder: Gravedigger",
+        "Treasure Hoarder - Pugilist",
+        "Treasure Hoarder - Crusher"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Tarian Baja IV",
+      "recommendedLevel": 80,
+      "recommendedElements": [],
+      "unlockRank": 40,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2200
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "3"
+        },
+        {
+          "name": "Traveling Doctor",
+          "rarity": "3"
+        },
+        {
+          "name": "Viridescent Venerer",
+          "rarity": "4"
+        },
+        {
+          "name": "Maiden Beloved",
+          "rarity": "4"
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "4"
+        },
+        {
+          "name": "Viridescent Venerer",
+          "rarity": "5"
+        },
+        {
+          "name": "Maiden Beloved",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Meningkatkan 75% Physical DMG seluruh anggota party."
+      ],
+      "monsterlist": [
+        "Fatui - Pyro Agent",
+        "Fatui - Electro Cicin Mage",
+        "Treasure Hoarder: Pyro Potioneer",
+        "Treasure Hoarder: Hydro Potioneer",
+        "Treasure Hoarder: Electro Potioneer",
+        "Treasure Hoarder: Cryo Potioneer",
+        "Treasure Hoarder - Seaman"
+      ]
+    },
+    {
+      "name": "Domain of Blessing: Tarian Baja V",
+      "recommendedLevel": 90,
+      "recommendedElements": [],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "Adventure EXP",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2525
+        },
+        {
+          "name": "Friendship EXP",
+          "count": 20
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "3"
+        },
+        {
+          "name": "Traveling Doctor",
+          "rarity": "3"
+        },
+        {
+          "name": "Viridescent Venerer",
+          "rarity": "4"
+        },
+        {
+          "name": "Maiden Beloved",
+          "rarity": "4"
+        },
+        {
+          "name": "Tiny Miracle",
+          "rarity": "4"
+        },
+        {
+          "name": "Viridescent Venerer",
+          "rarity": "5"
+        },
+        {
+          "name": "Maiden Beloved",
+          "rarity": "5"
+        }
+      ],
+      "disorder": [
+        "Meningkatkan 75% Physical DMG seluruh anggota party."
+      ],
+      "monsterlist": [
+        "Fatui - Pyro Agent",
+        "Fatui - Electro Cicin Mage",
+        "Treasure Hoarder: Cryo Potioneer"
+      ]
+    }
+  ]
+}

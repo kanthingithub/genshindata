@@ -1,0 +1,171 @@
+{
+  "name": "Dominio de la maestría: Valle del rayo",
+  "region": "Inazuma",
+  "domainEntrance": "Jardín de los pensamientos",
+  "domainType": "Material de mejora de talento",
+  "description": "Un grupo de monstruos se ha infiltrado en este altar donde los cerezos siempre están en flor.\nObtendrás materiales de mejora de talentos si eres capaz de superar esta prueba.",
+  "daysOfWeek": [
+    "Martes",
+    "Viernes",
+    "Domingo"
+  ],
+  "images": {
+    "namepic": "UI_DungeonPic_Thunder_Dq"
+  },
+  "version": "",
+  "domainLevels": [
+    {
+      "name": "Dominio de la maestría: Valle del rayo I",
+      "recommendedLevel": 38,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 1,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1575
+        },
+        {
+          "name": "EXP de Amistad",
+          "count": 15
+        },
+        {
+          "name": "Enseñanzas de la elegancia"
+        }
+      ],
+      "disorder": [
+        "Aumenta el Daño Electro de todos los miembros del equipo en 25%.",
+        "Durante el desafío hay cristalizaciones Electro de las que surgirán periódicamente perlas de rayos. Cuando un personaje obtiene una perla de rayos, al golpear a un enemigo con un Ataque Normal, Cargado o Descendente, o con su Habilidad Elemental o Definitiva, generará un rayo e infligirá Daño Electro."
+      ],
+      "monsterlist": [
+        "Hilichurl",
+        "Hilichurl Lanzagranadas Electro",
+        "Hilichurl Ballestero Electro",
+        "Mitachurl con Hacha Electro"
+      ]
+    },
+    {
+      "name": "Dominio de la maestría: Valle del rayo II",
+      "recommendedLevel": 54,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 28,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 1800
+        },
+        {
+          "name": "EXP de Amistad",
+          "count": 15
+        },
+        {
+          "name": "Enseñanzas de la elegancia"
+        },
+        {
+          "name": "Guía de la elegancia"
+        }
+      ],
+      "disorder": [
+        "Aumenta el Daño Electro de todos los miembros del equipo en 25%.",
+        "Durante el desafío hay cristalizaciones Electro de las que surgirán periódicamente perlas de rayos. Cuando un personaje obtiene una perla de rayos, al golpear a un enemigo con un Ataque Normal, Cargado o Descendente, o con su Habilidad Elemental o Definitiva, generará un rayo e infligirá Daño Electro."
+      ],
+      "monsterlist": [
+        "Nobushi - Filodemonio",
+        "Nobushi - Deuda del fuego",
+        "Nobushi - Astucia",
+        "Ladrón de Tesoros - Maestro de Pociones Pyro",
+        "Ladrón de Tesoros - Maestro de Pociones Electro"
+      ]
+    },
+    {
+      "name": "Dominio de la maestría: Valle del rayo III",
+      "recommendedLevel": 71,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 36,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2050
+        },
+        {
+          "name": "EXP de Amistad",
+          "count": 20
+        },
+        {
+          "name": "Enseñanzas de la elegancia"
+        },
+        {
+          "name": "Guía de la elegancia"
+        }
+      ],
+      "disorder": [
+        "Aumenta el Daño Electro de todos los miembros del equipo en 25%.",
+        "Durante el desafío hay cristalizaciones Electro de las que surgirán periódicamente perlas de rayos. Cuando un personaje obtiene una perla de rayos, al golpear a un enemigo con un Ataque Normal, Cargado o Descendente, o con su Habilidad Elemental o Definitiva, generará un rayo e infligirá Daño Electro."
+      ],
+      "monsterlist": [
+        "Nobushi - Deuda del fuego",
+        "Nobushi - Astucia",
+        "Ladrón de Tesoros - Maestro de Pociones Pyro",
+        "Ladrón de Tesoros - Maestro de Pociones Electro",
+        "Samurái Kairagi - Amenaza ígnea"
+      ]
+    },
+    {
+      "name": "Dominio de la maestría: Valle del rayo IV",
+      "recommendedLevel": 88,
+      "recommendedElements": [
+        "Electro"
+      ],
+      "unlockRank": 45,
+      "rewardPreview": [
+        {
+          "name": "EXP de Aventura",
+          "count": 100
+        },
+        {
+          "name": "Mora",
+          "count": 2375
+        },
+        {
+          "name": "EXP de Amistad",
+          "count": 20
+        },
+        {
+          "name": "Enseñanzas de la elegancia"
+        },
+        {
+          "name": "Guía de la elegancia"
+        },
+        {
+          "name": "Filosofía de la elegancia"
+        }
+      ],
+      "disorder": [
+        "Aumenta el Daño Electro de todos los miembros del equipo en 25%.",
+        "Durante el desafío hay cristalizaciones Electro de las que surgirán periódicamente perlas de rayos. Cuando un personaje obtiene una perla de rayos, al golpear a un enemigo con un Ataque Normal, Cargado o Descendente, o con su Habilidad Elemental o Definitiva, generará un rayo e infligirá Daño Electro."
+      ],
+      "monsterlist": [
+        "Ladrón de Tesoros - Maestro de Pociones Cryo",
+        "Samurái Kairagi - Rayo danzarín",
+        "Samurái Kairagi - Amenaza ígnea"
+      ]
+    }
+  ]
+}

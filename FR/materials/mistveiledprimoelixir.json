@@ -1,0 +1,26 @@
+{
+  "name": "Or karstique",
+  "description": "Matériau d'élévation d'arme.\nUne pilule en métal d'une qualité exceptionnelle qui simule un état où l'ordre et le chaos s'entremêlent, et qui aurait été à l'origine du monde. Hélas, les choses ne sont pas aussi simples en réalité.",
+  "sortorder": 2202,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'élévation d'arme",
+  "dropdomain": "Donjon d'entraînement : Ruines grondantes",
+  "daysofweek": [
+    "Mardi",
+    "Vendredi",
+    "Dimanche"
+  ],
+  "source": [
+    "Synthèse"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mist_Veiled_Primo_Elixir.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/a/a3/Item_Mist_Veiled_Primo_Elixir.png",
+    "nameicon": "UI_ItemIcon_114020"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mist_Veiled_Primo_Elixir"
+  },
+  "version": ""
+}

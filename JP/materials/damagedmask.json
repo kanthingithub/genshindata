@@ -1,0 +1,25 @@
+{
+  "name": "破損した仮面",
+  "description": "破損した骨の仮面、あるヒルチャールの所持品だった。\n破損した部分のほうが多く、仮面としての機能は失われている。",
+  "sortorder": 1726,
+  "rarity": "1",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "キャラクター育成素材",
+  "source": [
+    "ヒルチャールでドロップ",
+    "ヒルチャール·射手でレアドロップ",
+    "ヒルチャールシャーマンでレアドロップ",
+    "ヒルチャール暴徒でレアドロップ",
+    "ヒルチャール王者でレアドロップ",
+    "スターダスト交換"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Damaged_Mask.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Damaged_Mask.png",
+    "nameicon": "UI_ItemIcon_112005"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Damaged_Mask"
+  },
+  "version": ""
+}

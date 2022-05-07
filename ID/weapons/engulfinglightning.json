@@ -1,0 +1,316 @@
+{
+  "name": "Engulfing Lightning",
+  "description": "Naginata yang digunakan untuk \"memotong rumput\". Pasukan yang berani berdiri di hadapan senjata ini pasti akan tertebas seperti rumput liar...",
+  "weapontype": "Polearm",
+  "rarity": "5",
+  "baseatk": 46,
+  "substat": "Energy Recharge",
+  "subvalue": "12",
+  "effectname": "Timeless Dream: Eternal Stove",
+  "effect": [
+    "Mendapatkan Bonus ATK sebesar [28%] dari jumlah Energy Recharge di atas angka 100%. Maksimum bisa meningkatkan [80%] ATK dengan cara ini. Melancarkan Elemental Burst akan meningkatkan Energy Recharge sebesar [30%] selama 12 detik.",
+    "Mendapatkan Bonus ATK sebesar [35%] dari jumlah Energy Recharge di atas angka 100%. Maksimum bisa meningkatkan [90%] ATK dengan cara ini. Melancarkan Elemental Burst akan meningkatkan Energy Recharge sebesar [35%] selama 12 detik.",
+    "Mendapatkan Bonus ATK sebesar [42%] dari jumlah Energy Recharge di atas angka 100%. Maksimum bisa meningkatkan [100%] ATK dengan cara ini. Melancarkan Elemental Burst akan meningkatkan Energy Recharge sebesar [40%] selama 12 detik.",
+    "Mendapatkan Bonus ATK sebesar [49%] dari jumlah Energy Recharge di atas angka 100%. Maksimum bisa meningkatkan [110%] ATK dengan cara ini. Melancarkan Elemental Burst akan meningkatkan Energy Recharge sebesar [45%] selama 12 detik.",
+    "Mendapatkan Bonus ATK sebesar [56%] dari jumlah Energy Recharge di atas angka 100%. Maksimum bisa meningkatkan [120%] ATK dengan cara ini. Melancarkan Elemental Burst akan meningkatkan Energy Recharge sebesar [50%] selama 12 detik."
+  ],
+  "r1": [
+    "28%",
+    "80%",
+    "30%"
+  ],
+  "r2": [
+    "35%",
+    "90%",
+    "35%"
+  ],
+  "r3": [
+    "42%",
+    "100%",
+    "40%"
+  ],
+  "r4": [
+    "49%",
+    "110%",
+    "45%"
+  ],
+  "r5": [
+    "56%",
+    "120%",
+    "50%"
+  ],
+  "weaponmaterialtype": "",
+  "costs": {
+    "ascend1": [
+      {
+        "name": "Mora",
+        "count": 10000
+      },
+      {
+        "name": "Mask of the Wicked Lieutenant",
+        "count": 5
+      },
+      {
+        "name": "Chaos Gear",
+        "count": 5
+      },
+      {
+        "name": "Old Handguard",
+        "count": 3
+      }
+    ],
+    "ascend2": [
+      {
+        "name": "Mora",
+        "count": 20000
+      },
+      {
+        "name": "Mask of the Tiger's Bite",
+        "count": 5
+      },
+      {
+        "name": "Chaos Gear",
+        "count": 18
+      },
+      {
+        "name": "Old Handguard",
+        "count": 12
+      }
+    ],
+    "ascend3": [
+      {
+        "name": "Mora",
+        "count": 30000
+      },
+      {
+        "name": "Mask of the Tiger's Bite",
+        "count": 9
+      },
+      {
+        "name": "Chaos Axis",
+        "count": 9
+      },
+      {
+        "name": "Kageuchi Handguard",
+        "count": 9
+      }
+    ],
+    "ascend4": [
+      {
+        "name": "Mora",
+        "count": 45000
+      },
+      {
+        "name": "Mask of the One-Horned",
+        "count": 5
+      },
+      {
+        "name": "Chaos Axis",
+        "count": 18
+      },
+      {
+        "name": "Kageuchi Handguard",
+        "count": 14
+      }
+    ],
+    "ascend5": [
+      {
+        "name": "Mora",
+        "count": 55000
+      },
+      {
+        "name": "Mask of the One-Horned",
+        "count": 9
+      },
+      {
+        "name": "Chaos Oculus",
+        "count": 14
+      },
+      {
+        "name": "Famed Handguard",
+        "count": 9
+      }
+    ],
+    "ascend6": [
+      {
+        "name": "Mora",
+        "count": 65000
+      },
+      {
+        "name": "Mask of the Kijin",
+        "count": 6
+      },
+      {
+        "name": "Chaos Oculus",
+        "count": 27
+      },
+      {
+        "name": "Famed Handguard",
+        "count": 18
+      }
+    ]
+  },
+  "images": {
+    "icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Narukami.png",
+    "awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Narukami_Awaken.png",
+    "nameicon": "UI_EquipIcon_Pole_Narukami",
+    "namegacha": "UI_Gacha_EquipIcon_Pole_Narukami",
+    "nameawakenicon": "UI_EquipIcon_Pole_Narukami_Awaken"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Engulfing_Lightning"
+  },
+  "stats": {
+    "s1": {
+      "level": 1,
+      "ascension": 0,
+      "attack": 45.9364013671875,
+      "specialized": 0.11999999731779099
+    },
+    "s5": {
+      "level": 5,
+      "ascension": 0,
+      "attack": 61.692589533209684,
+      "specialized": 0.13943998978793637
+    },
+    "s10": {
+      "level": 10,
+      "ascension": 0,
+      "attack": 81.53711133154866,
+      "specialized": 0.16356000057846298
+    },
+    "s15": {
+      "level": 15,
+      "ascension": 0,
+      "attack": 101.56538184575038,
+      "specialized": 0.18780000266879782
+    },
+    "s20": {
+      "level": 20,
+      "ascension": 0,
+      "attack": 121.73146800388349,
+      "specialized": 0.21203999045401822
+    },
+    "s20p": {
+      "level": 20,
+      "ascension": 1,
+      "attack": 152.83146838535322,
+      "specialized": 0.21203999045401822
+    },
+    "s25": {
+      "level": 25,
+      "ascension": 1,
+      "attack": 173.18128683121176,
+      "specialized": 0.23627999254435306
+    },
+    "s30": {
+      "level": 30,
+      "ascension": 1,
+      "attack": 193.66892639704747,
+      "specialized": 0.2605199946346879
+    },
+    "s35": {
+      "level": 35,
+      "ascension": 1,
+      "attack": 214.34030920270015,
+      "specialized": 0.2847599824199083
+    },
+    "s40": {
+      "level": 40,
+      "ascension": 1,
+      "attack": 235.19542429607827,
+      "specialized": 0.30899999881535756
+    },
+    "s40p": {
+      "level": 40,
+      "ascension": 2,
+      "attack": 266.295424677548,
+      "specialized": 0.30899999881535756
+    },
+    "s45": {
+      "level": 45,
+      "ascension": 2,
+      "attack": 287.2883718429948,
+      "specialized": 0.33323998660057796
+    },
+    "s50": {
+      "level": 50,
+      "ascension": 2,
+      "attack": 308.4191182242357,
+      "specialized": 0.3574800029960272
+    },
+    "s50p": {
+      "level": 50,
+      "ascension": 3,
+      "attack": 339.61911898717517,
+      "specialized": 0.3574800029960272
+    },
+    "s55": {
+      "level": 55,
+      "ascension": 3,
+      "attack": 360.97953072807286,
+      "specialized": 0.38171999078124763
+    },
+    "s60": {
+      "level": 60,
+      "ascension": 3,
+      "attack": 382.43183051701635,
+      "specialized": 0.40595997856646804
+    },
+    "s60p": {
+      "level": 60,
+      "ascension": 4,
+      "attack": 413.53182899113744,
+      "specialized": 0.40595997856646804
+    },
+    "s65": {
+      "level": 65,
+      "ascension": 4,
+      "attack": 435.16788297198946,
+      "specialized": 0.4301999949619173
+    },
+    "s70": {
+      "level": 70,
+      "ascension": 4,
+      "attack": 456.9876692405669,
+      "specialized": 0.4543199914473295
+    },
+    "s70p": {
+      "level": 70,
+      "ascension": 5,
+      "attack": 488.0876753440825,
+      "specialized": 0.4543199914473295
+    },
+    "s75": {
+      "level": 75,
+      "ascension": 5,
+      "attack": 510.0912158045685,
+      "specialized": 0.4785599792325499
+    },
+    "s80": {
+      "level": 80,
+      "ascension": 5,
+      "attack": 532.2325773850316,
+      "specialized": 0.5027999956279992
+    },
+    "s80p": {
+      "level": 80,
+      "ascension": 6,
+      "attack": 563.3325682297582,
+      "specialized": 0.5027999956279992
+    },
+    "s85": {
+      "level": 85,
+      "ascension": 6,
+      "attack": 585.6117071218323,
+      "specialized": 0.5270400120234484
+    },
+    "s90": {
+      "level": 90,
+      "ascension": 6,
+      "attack": 608.074622109998,
+      "specialized": 0.55127997119844
+    }
+  },
+  "version": "2.1"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Storm Beads",
+  "description": "Crackling Electro pearls left behind by the Thunder Manifestation.\nIt is said that Thunder Manifestations will only descend upon lands where powerful hatred dwells. The singers say that it is the unbearable disappointments and sufferings of life that drive them to forever wander the broken earth, unleashing sky-searing lightning as they go.",
+  "sortorder": 1811,
+  "rarity": "4",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Character Level-Up Material",
+  "source": [
+    "Dropped by Lv. 30+ Thunder Manifestations"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Storm_Beads.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Item_Storm_Beads.png",
+    "nameicon": "UI_ItemIcon_113029"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Storm_Beads"
+  },
+  "version": ""
+}

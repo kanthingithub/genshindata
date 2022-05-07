@@ -1,0 +1,20 @@
+{
+  "name": "Пурпурная рыба-бабочка",
+  "description": "Рыба-бабочка. Обладает кротким нравом, изящной внешностью, красивыми спинными плавниками. Также известна как «подводная королева». Её туловище покрыто фиолетовыми линиями. Предпочитает жить в группе, чтобы было легче противостоять опасностям окружающей среды и естественным врагам. Опытные рыбаки обернули это в свою пользу: стоит лишь заманить в сеть вожака, как весь косяк тут же поплывёт за ним.",
+  "sortorder": 2028,
+  "rarity": "3",
+  "category": "EXCHANGE",
+  "materialtype": "Рыба",
+  "source": [
+    "Рыбалка"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Purple_Shirakodai.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Item_Purple_Shirakodai.png",
+    "nameicon": "UI_ItemIcon_131014"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Purple_Shirakodai"
+  },
+  "version": ""
+}

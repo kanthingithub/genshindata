@@ -1,0 +1,160 @@
+{
+  "name": "Rei Canino Dourado",
+  "specialname": "Rei Sem Nome da Fenda",
+  "enemytype": "BOSS",
+  "category": "Abismo",
+  "description": "Vindo de um mundo sombrio, este governante dos cães escuros tem o poder de invocar seus seguidores, suas garras ocultas, para dissolver o espaço e forjar uma fenda através da qual possam entrar.\nO Rei Canino não tem nome, pois foi apenas uma das criações não intencionais de \"Ouro\", e é precisamente por isso que está obcecado em invadir mundos que não pertencem a ele e com o fato de fazer um nome para si mesmo.\nDito isto, a matilha está longe de ser desinteligente. Após sofrer uma derrota em sua invasão anterior, uma ilha deserta onde nenhum ser humano ou protetores habitam foi selecionada para se preparar para a descida de seu senhor.",
+  "investigation": {
+    "name": "Rei Canino Dourado",
+    "category": "Chefe",
+    "description": "Uma besta distorcida que veio de outro mundo.\\nO rei que lidera os cães da fenda, possui a autoridade de comandar as bestas caninas que dissolvem o espaço."
+  },
+  "rewardpreview": [
+    {
+      "name": "EXP de Aventura",
+      "count": 200
+    },
+    {
+      "name": "Mora"
+    },
+    {
+      "name": "EXP de Amizade"
+    },
+    {
+      "name": "Lasca de Topázio Prithiva"
+    },
+    {
+      "name": "Fragmento de Topázio Prithiva"
+    },
+    {
+      "name": "Pedaço de Topázio Prithiva"
+    },
+    {
+      "name": "Gema de Topázio Prithiva"
+    },
+    {
+      "name": "Chifre do Rei Canino",
+      "count": 2.5556
+    },
+    {
+      "name": "Instrutor",
+      "rarity": "3"
+    },
+    {
+      "name": "O Exilado",
+      "rarity": "3"
+    },
+    {
+      "name": "O Doutor Viajante",
+      "rarity": "3"
+    },
+    {
+      "name": "Último Juramento do Gladiador",
+      "rarity": "4"
+    },
+    {
+      "name": "Trupe Itinerante",
+      "rarity": "4"
+    },
+    {
+      "name": "Instrutor",
+      "rarity": "4"
+    },
+    {
+      "name": "O Exilado",
+      "rarity": "4"
+    },
+    {
+      "name": "Último Juramento do Gladiador",
+      "rarity": "5"
+    },
+    {
+      "name": "Trupe Itinerante",
+      "rarity": "5"
+    }
+  ],
+  "images": {
+    "nameicon": "UI_MonsterIcon_Hound_Planelurker"
+  },
+  "stats": [
+    {
+      "level": 1,
+      "hp": 881.0399843046907,
+      "attack": 203.0218535539916,
+      "defense": 505
+    },
+    {
+      "level": 10,
+      "hp": 3470.028104937868,
+      "attack": 542.4222254581946,
+      "defense": 550
+    },
+    {
+      "level": 20,
+      "hp": 10213.499572310597,
+      "attack": 1337.9997724843997,
+      "defense": 600
+    },
+    {
+      "level": 30,
+      "hp": 19019.639906194992,
+      "attack": 2185.4128586569277,
+      "defense": 650
+    },
+    {
+      "level": 40,
+      "hp": 34150.1626428226,
+      "attack": 3267.3111638450064,
+      "defense": 700
+    },
+    {
+      "level": 50,
+      "hp": 62922.38467672281,
+      "attack": 5038.618110229581,
+      "defense": 750
+    },
+    {
+      "level": 60,
+      "hp": 106307.30993484333,
+      "attack": 7095.395222401421,
+      "defense": 800
+    },
+    {
+      "level": 70,
+      "hp": 175825.15590836853,
+      "attack": 9794.857758876751,
+      "defense": 850
+    },
+    {
+      "level": 80,
+      "hp": 283639.40432211757,
+      "attack": 12602.12057727389,
+      "defense": 900
+    },
+    {
+      "level": 90,
+      "hp": 445203.44995088875,
+      "attack": 15225.098506701761,
+      "defense": 950
+    },
+    {
+      "level": 100,
+      "hp": 665520.2175113708,
+      "attack": 19697.671419797698,
+      "defense": 1000
+    },
+    {
+      "level": 110,
+      "hp": 842348.7521036267,
+      "attack": 20088.777751223533,
+      "defense": 1050
+    },
+    {
+      "level": 120,
+      "hp": 974323.225014478,
+      "attack": 20482.622383522103,
+      "defense": 1100
+    }
+  ],
+  "version": ""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "史莱姆原浆",
+  "description": "浓缩的史莱姆原浆，静置时会自主进行不规则运动。",
+  "sortorder": 1725,
+  "rarity": "3",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "角色培养素材",
+  "source": [
+    "合成获得",
+    "60级以上史莱姆掉落"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Slime_Concentrate.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Item_Slime_Concentrate.png",
+    "nameicon": "UI_ItemIcon_112004"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Slime_Concentrate"
+  },
+  "version": ""
+}

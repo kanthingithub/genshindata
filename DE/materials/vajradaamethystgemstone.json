@@ -1,0 +1,22 @@
+{
+  "name": "Vajrada-Amethyst",
+  "description": "Material für den Figurenaufstieg.\n„Dieser Körper ist einzigartig auf dieser Welt.“\n„Er sollte diese Welt beherrschen.“\n„Dieser Körper verhieß seinen Untertanen einen Traum, nämlich den Traum von der Ewigkeit über Generationen hinweg.“",
+  "sortorder": 1837,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Material zur Verbesserung von Figuren",
+  "source": [
+    "Beute von Elektro-Hypostasen ab Stufe 75",
+    "Beute von Verkörperungen des Donners ab Stufe 75",
+    "Kann hergestellt werden"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Vajrada_Amethyst_Gemstone.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Item_Vajrada_Amethyst_Gemstone.png",
+    "nameicon": "UI_ItemIcon_104144"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Vajrada_Amethyst_Gemstone"
+  },
+  "version": ""
+}

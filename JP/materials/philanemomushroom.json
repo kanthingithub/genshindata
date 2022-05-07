@@ -1,0 +1,19 @@
+{
+  "name": "慕風のマッシュルーム",
+  "description": "爽やかな風を浴びて育ったマッシュルーム、風のように果てしなく命を育む。",
+  "sortorder": 2040,
+  "category": "EXCHANGE",
+  "materialtype": "モンド地域の特産",
+  "source": [
+    "屋根の下で採集"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Philanemo_Mushroom.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Philanemo_Mushroom.png",
+    "nameicon": "UI_ItemIcon_100025"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Philanemo_Mushroom"
+  },
+  "version": ""
+}

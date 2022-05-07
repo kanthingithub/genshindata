@@ -1,0 +1,21 @@
+{
+  "name": "Fragrant Cedar Wood",
+  "description": "Kayu dari Pohon Aras. Juga dikenal sebagai \"Aras Harum\" karena mengandung minyak alami yang beraroma.\nDapat digunakan untuk membuat perabotan.",
+  "sortorder": 1947,
+  "rarity": "1",
+  "category": "WOOD",
+  "materialtype": "Material",
+  "source": [
+    "Ditemukan di alam liar",
+    "Rekomendasi: Ditebang dari Starfell Valley"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Fragrant_Cedar_Wood.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/6/65/Item_Fragrant_Cedar_Wood.png",
+    "nameicon": "UI_ItemIcon_101307"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Fragrant_Cedar_Wood"
+  },
+  "version": ""
+}

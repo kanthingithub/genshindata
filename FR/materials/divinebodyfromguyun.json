@@ -1,0 +1,26 @@
+{
+  "name": "Corps divin de Guyun",
+  "description": "Matériau d'élévation d'arme.\nLes esprits de divinités oubliées animent cette relique. Ils incarnent des idéaux pour l'humanité qui ne virent jamais le jour, et reposent maintenant dans la pierre et les mers, sans jamais pouvoir disparaître vraiment.",
+  "sortorder": 2198,
+  "rarity": "5",
+  "category": "AVATAR_MATERIAL",
+  "materialtype": "Matériau d'élévation d'arme",
+  "dropdomain": "Donjon d'entraînement : Autel du nuage d'orage",
+  "daysofweek": [
+    "Lundi",
+    "Jeudi",
+    "Dimanche"
+  ],
+  "source": [
+    "Synthèse"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Divine_Body_from_Guyun.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/e/e8/Item_Divine_Body_from_Guyun.png",
+    "nameicon": "UI_ItemIcon_114016"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Divine_Body_from_Guyun"
+  },
+  "version": ""
+}

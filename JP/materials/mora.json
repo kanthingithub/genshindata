@@ -1,0 +1,18 @@
+{
+  "name": "モラ",
+  "description": "大陸で流通しているお金。世界で通用する共通言語、誰でも理解できる貴金属。",
+  "sortorder": 484,
+  "rarity": "3",
+  "category": "ADSORBATE",
+  "materialtype": "共通貨幣",
+  "source": [],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Mora.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png",
+    "nameicon": "UI_ItemIcon_202"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Mora"
+  },
+  "version": ""
+}

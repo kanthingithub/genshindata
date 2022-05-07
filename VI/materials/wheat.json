@@ -1,0 +1,20 @@
+{
+  "name": "Tiểu Mạch",
+  "description": "Màu vàng bắt mắt, khiến người ta tràn đầy hy vọng. Cần phải sàng lọc và mài giũa mới ra hình thái cuối cùng.",
+  "sortorder": 1983,
+  "category": "EXCHANGE",
+  "materialtype": "Nguyên Liệu Thực Phẩm",
+  "source": [
+    "Thu Thập Bên Ngoài",
+    "Mua trong Tiệm Tạp Hóa"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Wheat.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Item_Wheat.png",
+    "nameicon": "UI_ItemIcon_100017"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Wheat"
+  },
+  "version": ""
+}

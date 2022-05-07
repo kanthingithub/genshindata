@@ -1,0 +1,20 @@
+{
+  "name": "Jueyun Chili",
+  "description": "พริกที่ขึ้นเฉพาะใน Liyue เพียงแค่ได้กลิ่นของมันก็ทำให้คุณร้อนและกระหายได้",
+  "sortorder": 2048,
+  "category": "EXCHANGE",
+  "materialtype": "ของพิเศษเฉพาะใน Liyue",
+  "source": [
+    "พบได้ในโลกกว้าง",
+    "คำแนะนำ: หาได้ที่หมู่บ้าน Qingce"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Jueyun_Chili.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/1/13/Item_Jueyun_Chili.png",
+    "nameicon": "UI_ItemIcon_100027"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Jueyun_Chili"
+  },
+  "version": ""
+}

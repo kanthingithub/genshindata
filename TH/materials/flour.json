@@ -1,0 +1,19 @@
+{
+  "name": "Flour",
+  "description": "ผงแป้งที่เกิดจากการโม่ธัญพืช ไม่ว่ามันจะถูกนำไปทำเป็นอะไร ก็รู้ได้เลยว่าคนที่ทานมันจะได้อิ่มท้องแน่นอน",
+  "sortorder": 1525,
+  "category": "EXCHANGE",
+  "materialtype": "วัตถุดิบประกอบอาหาร",
+  "source": [
+    "ได้จากการทำอาหาร"
+  ],
+  "images": {
+    "redirect": "https://genshin-impact.fandom.com/wiki/Special:Redirect/file/Item_Flour.png",
+    "fandom": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Item_Flour.png",
+    "nameicon": "UI_ItemIcon_110001"
+  },
+  "url": {
+    "fandom": "https://genshin-impact.fandom.com/wiki/Flour"
+  },
+  "version": ""
+}
